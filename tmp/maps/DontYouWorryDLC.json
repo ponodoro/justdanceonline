@@ -1,0 +1,111 @@
+{
+  "artist": "Swedish House Mafia",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_banner_bkg.jpg/d71dd58ac5f0608c5cdbd060aa44cc46.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Coach_1.png/14a81594258423e6f122b0b84d76e894.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Cover_Generic.jpg/35c46c224642118193149fb4bbaf9ba7.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Cover_1024.png/b112fe06edd29ed1288da66cc67e8582.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Cover_Online.jpg/c0dda416a30223c3f3d5a5fac1430185.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Cover_AlbumBkg.jpg/28eb5ddd08d4fb03ee4357736b2937ea.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Cover_AlbumCoach.png/af27ebcc7840704de9bbad2b6cc7bba0.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Coach_1_Phone.png/62377cbf3db4ee8a4660f9b541351147.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Cover_Phone.jpg/c0dda416a30223c3f3d5a5fac1430185.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_banner_bkg.jpg/d71dd58ac5f0608c5cdbd060aa44cc46.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Coach_1.png/14a81594258423e6f122b0b84d76e894.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Cover_Generic.jpg/35c46c224642118193149fb4bbaf9ba7.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Cover_1024.png/b112fe06edd29ed1288da66cc67e8582.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Cover_Online.jpg/c0dda416a30223c3f3d5a5fac1430185.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Cover_AlbumBkg.jpg/28eb5ddd08d4fb03ee4357736b2937ea.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Cover_AlbumCoach.png/af27ebcc7840704de9bbad2b6cc7bba0.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Coach_1_Phone.png/62377cbf3db4ee8a4660f9b541351147.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Cover_Phone.jpg/c0dda416a30223c3f3d5a5fac1430185.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/wiiu/DontYouWorryDLC_banner_bkg.tga.ckd/5b45d18eb805ceda0731ec5245e56054.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/wiiu/DontYouWorryDLC_Coach_1.tga.ckd/eddc9d2d44ca3cf2aaef6dd9a30b2f3c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/wiiu/DontYouWorryDLC_Cover_Generic.tga.ckd/cfda4f783a249c6dd4f4efd991c4554d.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Cover_1024.png/b112fe06edd29ed1288da66cc67e8582.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/wiiu/DontYouWorryDLC_Cover_Online.tga.ckd/4286d183313ca3fd02bf06e688f11a30.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/wiiu/DontYouWorryDLC_Cover_AlbumBkg.tga.ckd/5b81ff034234f3f2c04a7436e3a5b1f0.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/wiiu/DontYouWorryDLC_Cover_AlbumCoach.tga.ckd/cfd914b9db1d95faef5cb865e0cd9bd1.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Coach_1_Phone.png/62377cbf3db4ee8a4660f9b541351147.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_Cover_Phone.jpg/c0dda416a30223c3f3d5a5fac1430185.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22320,44640,66960,89280,111600,133968,156288,178608,200928,223248,245568,267888,290208,312528,334896,357216,379536,401856,424176,446496,468816,491136,513456,535824,558144,580464,602784,625104,647424,669744,692064,714432,736752,759072,781392,803712,826032,848352,870672,892992,915360,937680,960000,982320,1004640,1026960,1049280,1071600,1093969,1116289,1138609,1160929,1183249,1205569,1227889,1250209,1272529,1294897,1317217,1339537,1361857,1384177,1406497,1428817],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":460,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/dontyouworrydlc/dontyouworrydlc_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "D4A73CFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 214.88299999999998,
+  "mapName": "DontYouWorryDLC",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"492369\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"642-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-642\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1122635\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1142153\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1141795\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "DontYouWorryDLC_mapContent"
+  },
+  "parentMapName": "DontYouWorryDLC",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "780BA3FF",
+    "songColor_1B": "280045FF",
+    "songColor_2A": "00C5FFFF",
+    "songColor_2B": "0F004FFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Don't You Worry Child",
+  "urls": {
+    "jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_AudioPreview.ogg/cf72fc8c09bf23fd02f915ea4fb81c47.ogg",
+    "jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm/2ad966c6ad626604c9714c4bcd2718d1.webm",
+    "jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm/01cbd8928ed3cb73761a5eb921cba5d3.webm",
+    "jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/c9d47d147ab456c14457d6a42492f5e5.webm",
+    "jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_LOW.vp9.webm/a1910fa529db1c834fab8fef1b5bafe6.webm",
+    "jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_MID.vp8.webm/3273b816a2fcba1e7e06942bac41972e.webm",
+    "jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_MID.vp9.webm/839aea93c759e89ce47802523a2ea0dd.webm",
+    "jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm/eae55d7884c53c2bf174f110488e13dc.webm",
+    "jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/DontYouWorryDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm/bf8bae12b7d9aac10d3ec8be7caceefb.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "497bb6f478933b3da79619ec5a958bf2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/ps4/DontYouWorryDLC_MAIN_SCENE_ORBIS.zip/497bb6f478933b3da79619ec5a958bf2.zip",
+      "version": 10
+    },
+    "pc": {
+      "md5": "33672be8bf5670755e4f534e3a5c608e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/pc/DontYouWorryDLC_MAIN_SCENE_PC.zip/33672be8bf5670755e4f534e3a5c608e.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "cc4c698acc214e5c06c41a60aea296f3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/wiiu/DontYouWorryDLC_MAIN_SCENE_WIIU.zip/cc4c698acc214e5c06c41a60aea296f3.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "3a4adc3e0306b5bcbcdaee881580e2cb",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DontYouWorryDLC/nx/DontYouWorryDLC_MAIN_SCENE_NX.zip/3a4adc3e0306b5bcbcdaee881580e2cb.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,98 @@
+{
+  "artist": "TWICE",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_banner_bkg.jpg/0077781626d707726fe55cb2edff6ae9.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Coach_1.png/2cc24f7442681263e93360022259c9d7.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Coach_2.png/d5a6771d911a889a2560743ea2073363.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Coach_3.png/7840f558024b3c1b1bec7fc4fd89d7ba.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Cover_Generic.jpg/e4030b42ea7c760c544be16b405edafc.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Cover_Online.jpg/0495fbe042747a3302968817a7087948.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Cover_AlbumBkg.jpg/0528892e9278ab407e51737ee5ef8be5.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Cover_AlbumCoach.png/801c73bf986f75b288db386b9e5a9188.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Coach_1_Phone.png/8a3cf34f8e4ef2ea5224a6705014b4db.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Coach_2_Phone.png/7de72bcc7656276c5d710d04ca25b8a0.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Coach_3_Phone.png/354de318cefc3a4a97a2afe7d06b3b82.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Cover_Phone.jpg/0495fbe042747a3302968817a7087948.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_banner_bkg.jpg/0077781626d707726fe55cb2edff6ae9.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Coach_1.png/2cc24f7442681263e93360022259c9d7.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Coach_2.png/d5a6771d911a889a2560743ea2073363.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Coach_3.png/7840f558024b3c1b1bec7fc4fd89d7ba.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Cover_Generic.jpg/e4030b42ea7c760c544be16b405edafc.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Cover_Online.jpg/0495fbe042747a3302968817a7087948.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Cover_AlbumBkg.jpg/0528892e9278ab407e51737ee5ef8be5.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Cover_AlbumCoach.png/801c73bf986f75b288db386b9e5a9188.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Coach_1_Phone.png/8a3cf34f8e4ef2ea5224a6705014b4db.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Coach_2_Phone.png/7de72bcc7656276c5d710d04ca25b8a0.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Coach_3_Phone.png/354de318cefc3a4a97a2afe7d06b3b82.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecial/FeelSpecial_Cover_Phone.jpg/0495fbe042747a3302968817a7087948.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22326,44652,66977,89303,111628,133954,156279,178605,200931,223256,245582,267907,290233,312559,334884,357210,379535,401861,424186,446512,468838,491163,513489,535814,558140,580466,602791,625117,647442,669768,692093,714419,736745,759070,781396,803721,826047,848372,870698,893024,915349,937675,960000,982326,1004652,1026977,1049303,1071628,1093954,1116279,1138605,1160931,1183256,1205582,1227907,1250233,1272559,1294884,1317210,1339535,1361861,1384186,1406512,1428838],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":443,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/feelspecial/feelspecial_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by J.Y. Park “The Asian Soul”, Woo Min Lee “collapsedone”, Ollipop and Hayley Michelle Aitken. Published by Universal Music Publishing Canada on behalf of Kennel AB, The and Universal Music Publishing AB / JYP Publishing (KOMCA), The Kennel AB. / JYP Publishing (KOMCA). All rights reserved. Used with permission. Courtesy of JYP Entertainment.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "E52365FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 208.83599999999998,
+  "mapName": "FeelSpecial",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496794\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482544\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2945626\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5534173\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "FeelSpecial_mapContent"
+  },
+  "parentMapName": "FeelSpecial",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "E4C3A0FF",
+    "songColor_1B": "6ACAB1FF",
+    "songColor_2A": "1F1608FF",
+    "songColor_2B": "E02F95FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Feel Special",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "e306a3ce59e89fdb7b25c25d7d0337db",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecial/ps4/FeelSpecial_MAIN_SCENE_ORBIS.zip/e306a3ce59e89fdb7b25c25d7d0337db.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "131de6d8c61c232b2207527860d755bd",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecial/nx/FeelSpecial_MAIN_SCENE_NX.zip/131de6d8c61c232b2207527860d755bd.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "d7bd381542a85b09acf9c1355b3f3a13",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/FeelSpecial/pc/d7bd381542a85b09acf9c1355b3f3a13.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/FeelSpecial/FeelSpecial_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecial/FeelSpecial_AudioPreview.ogg/d3996cba4e5b483f09678512ec0fea6f.ogg",
+    "jmcs://jd-contents/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_HIGH.vp8.webm/0addcb4e00cabbf132e941d1353da061.webm",
+    "jmcs://jd-contents/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_HIGH.vp9.webm/a5291452d04cbc84c427aed97d20b115.webm",
+    "jmcs://jd-contents/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_LOW.vp8.webm/0c1994c1dde51c9fd717838459dcd7a0.webm",
+    "jmcs://jd-contents/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_LOW.vp9.webm/51a0346eb02d0503d9dc7980f54b7833.webm",
+    "jmcs://jd-contents/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_MID.vp8.webm/93037022b259f82eea682eb051915593.webm",
+    "jmcs://jd-contents/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_MID.vp9.webm/4131c995f4b81a66d836569194c6ecad.webm",
+    "jmcs://jd-contents/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_ULTRA.vp8.webm/cdccbd2deac87cde2dde3c5edb153a8a.webm",
+    "jmcs://jd-contents/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecial/FeelSpecial_MapPreviewNoSoundCrop_ULTRA.vp9.webm/ee74dc2f648d8718b7e77a23a85b905b.webm"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "artist": "5 Seconds of Summer",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Coach_1.png",
+      "coach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Coach_2.png",
+      "coach3ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Coach_3.png",
+      "coach4ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Coach_4.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Coach_1.png",
+      "phoneCoach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Coach_2.png",
+      "phoneCoach3ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Coach_3.png",
+      "phoneCoach4ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Coach_4.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_map_bkg.png"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Coach_1.png",
+      "coach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Coach_2.png",
+      "coach3ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Coach_3.png",
+      "coach4ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Coach_4.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Coach_1.png",
+      "phoneCoach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Coach_2.png",
+      "phoneCoach3ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Coach_3.png",
+      "phoneCoach4ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Coach_4.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/textures/SoPerfect_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,17999,35999,53999,71999,89999,107999,125999,143999,161999,179999,197999,215999,233999,251999,269999,287999,305999,323999,341999,359999,377999,395999,413999,431999,449999,467999,485999,503999,521999,539999,557999,575999,593999,611999,629999,647999,665999,683999,701999,719999,737999,755999,773999,791999,809999,827999,845999,863999,881999,899999,917999,935999,953999,971999,989999,1007999,1025999,1043999,1061999,1079999,1097999,1115999,1133999,1151999,1169999,1187999,1205999,1223999,1241999,1259999,1277999,1295999,1313999,1332047,1350047,1368047,1386047,1404095,1422095,1440095,1458095,1476143,1494143,1512143,1530143,1548191,1566191,1584191,1602191,1620191,1638191,1656191,1674191,1692191,1710191],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":394,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":95,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/SoPerfect/SoPerfect_AudioPreview.ogg\"}\"",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F0BA19FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 100,
+  "mapName": "SoPerfect",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497759\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoPerfect/SoPerfect_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484234\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoPerfect/SoPerfect_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2956729\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoPerfect/SoPerfect_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5790405\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoPerfect/SoPerfect_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "SoPerfect_mapContent"
+  },
+  "parentMapName": "SoPerfect",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "1DB9E1FF",
+    "songColor_1B": "0C6DADFF",
+    "songColor_2A": "8B84DAFF",
+    "songColor_2B": "2F3BA0FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main"
+  ],
+  "title": "She Looks So Perfect",
+  "urls": {
+    "jmcs://jd-contents/SoPerfect/SoPerfect_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/SoPerfect_AudioPreview.ogg",
+    "jmcs://jd-contents/SoPerfect/SoPerfect_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/nx/SoPerfect_VideoPreview.webm",
+    "jmcs://jd-contents/SoPerfect/SoPerfect_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/nx/SoPerfect_VideoPreview.webm",
+    "jmcs://jd-contents/SoPerfect/SoPerfect_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/nx/SoPerfect_VideoPreview.webm",
+    "jmcs://jd-contents/SoPerfect/SoPerfect_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/nx/SoPerfect_VideoPreview.webm",
+    "jmcs://jd-contents/SoPerfect/SoPerfect_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/nx/SoPerfect_VideoPreview.webm",
+    "jmcs://jd-contents/SoPerfect/SoPerfect_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/nx/SoPerfect_VideoPreview.webm",
+    "jmcs://jd-contents/SoPerfect/SoPerfect_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/nx/SoPerfect_VideoPreview.webm",
+    "jmcs://jd-contents/SoPerfect/SoPerfect_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/nx/SoPerfect_VideoPreview.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "6c4405a9836ee64d01c4f9c0078f0893",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/pc/6c4405a9836ee64d01c4f9c0078f0893.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "7a4c85e58c35a971092e2a3a0098ef3b",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoPerfect/nx/7a4c85e58c35a971092e2a3a0098ef3b.zip",
+      "version": 1
+    }
+  },
+  "mapType": "custom"
+}

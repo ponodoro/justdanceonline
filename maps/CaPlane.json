@@ -1,0 +1,119 @@
+{
+  "artist": "Bob Platine",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/ps4/CaPlane_banner_bkg.tga.ckd/07080f5ef03486692e6272d3a676ad0a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/ps4/CaPlane_Coach_1.tga.ckd/09273738f6b58365995942d9717e2040.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/ps4/CaPlane_Cover_Generic.tga.ckd/b083f85a860d5284c63c0bb55d1efc71.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_Cover_1024.png/452ff4abd4bc8554ad7cb1541b9ff107.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/ps4/CaPlane_Cover_Online.tga.ckd/2edf0fd7969d826a88799c710f4ac2d0.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/ps4/CaPlane_Cover_AlbumBkg.tga.ckd/748c58ee7b42e88d3ddb355e10ec769a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/ps4/CaPlane_Cover_AlbumCoach.tga.ckd/9bafb336fcfee67e57641af5dab3f265.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_Coach_1_Phone.png/3044aa9ca1c8a7ce29c2f498a3100c6a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_Cover_Phone.jpg/b883800edcf7095039d73b5ebaee9f0d.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/ps4/CaPlane_map_bkg.tga.ckd/dd3ab75e149bf4ddfca82114efb0d3e4.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/nx/CaPlane_banner_bkg.tga.ckd/55ff8b2c2c2ae880c0be0ba1a6018c9b.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/nx/CaPlane_Coach_1.tga.ckd/02320c8db8e2c78022b0e80db3ee1773.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/nx/CaPlane_Cover_Generic.tga.ckd/0f91330f9c871ebbec50a25bbed759b8.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_Cover_1024.png/452ff4abd4bc8554ad7cb1541b9ff107.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/nx/CaPlane_Cover_Online.tga.ckd/36c8334a672fe124c2dbb5a03d231d1c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/nx/CaPlane_Cover_AlbumBkg.tga.ckd/9c9d0860156ec1034956fa536557bcaf.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/nx/CaPlane_Cover_AlbumCoach.tga.ckd/1c8a2dbea64a3bdb999cbeec0239b3f5.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_Coach_1_Phone.png/3044aa9ca1c8a7ce29c2f498a3100c6a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_Cover_Phone.jpg/b883800edcf7095039d73b5ebaee9f0d.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/nx/CaPlane_map_bkg.tga.ckd/c373d063b29a9a025cc893c2f3fd9f94.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_banner_bkg.jpg/f7f064a4fa9538a4c6457681c608373e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_Coach_1.png/98589afe9fc9ef6005c1dcb355ebf88d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_Cover_Generic.jpg/3fd240743f6e2037982a034cb1cb9808.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_Cover_1024.png/452ff4abd4bc8554ad7cb1541b9ff107.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_Cover_Online.jpg/b883800edcf7095039d73b5ebaee9f0d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_Cover_AlbumBkg.jpg/fb12efe734d0c12652316bcb2c36e7b9.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_Cover_AlbumCoach.png/a73b3934f9b5fde110990f65f7018d88.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_Coach_1_Phone.png/3044aa9ca1c8a7ce29c2f498a3100c6a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_Cover_Phone.jpg/b883800edcf7095039d73b5ebaee9f0d.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,17328,34703,52032,69360,86688,104015,121344,138672,156000,173328,190656,208032,225407,242736,260112,277488,294863,312240,329568,346944,364320,381696,399072,416400,433776,451152,468528,485904,503232,520608,537984,555360,572736,590064,607440,624816,642192,659568,676896,694272,711648,729024,746399,763728,781152,798576,815999,833423,850847,868271,885695,903168,920592,938016,955440,972864,990288,1007712,1025136,1042560,1059984,1077408,1094832,1112256,1129680,1147104,1164528,1181952,1199376,1216800,1234224,1251648,1269072,1286496,1303920,1321344,1338768,1356240,1373712,1391184,1408608,1426080],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-9,\"endBeat\":483,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":82,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/caplane/caplane_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Francis Jean Deprijk and Yves Maurice A. Lacomblez. Produced, engineered and Mixed by Steve Ouimette. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing N.V. Vocals: Serge Dinarka. Tenor Sax: Eric Tewalt. Drums, Bass, Guitar: Steve Ouimette. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "13CDFCFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 178.33599999999998,
+  "mapName": "CaPlane",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496791\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CaPlane/CaPlane_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484210\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CaPlane/CaPlane_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2908926\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CaPlane/CaPlane_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4032003\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CaPlane/CaPlane_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "CaPlane_mapContent"
+  },
+  "parentMapName": "CaPlane",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "1660BAFF",
+    "songColor_1B": "010B33FF",
+    "songColor_2A": "F9D313FF",
+    "songColor_2B": "C94402FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Ça Plane Pour Moi",
+  "urls": {
+    "jmcs://jd-contents/CaPlane/CaPlane_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_AudioPreview.ogg/6113523b55696911c3860ccafd7d2436.ogg",
+    "jmcs://jd-contents/CaPlane/CaPlane_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_MapPreviewNoSoundCrop_HIGH.vp8.webm/65d2a74931f8717c282d68ec63e8c1e7.webm",
+    "jmcs://jd-contents/CaPlane/CaPlane_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_MapPreviewNoSoundCrop_HIGH.vp9.webm/46f7b2c41f0b2c788e125ecc4acf8ea3.webm",
+    "jmcs://jd-contents/CaPlane/CaPlane_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_MapPreviewNoSoundCrop_LOW.vp8.webm/57dca685900165e1bda8068aceb2b434.webm",
+    "jmcs://jd-contents/CaPlane/CaPlane_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_MapPreviewNoSoundCrop_LOW.vp9.webm/418d9197df85a3f44394ed0fe40b6f05.webm",
+    "jmcs://jd-contents/CaPlane/CaPlane_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_MapPreviewNoSoundCrop_MID.vp8.webm/b06343580f9f35db655c02a59b5ef537.webm",
+    "jmcs://jd-contents/CaPlane/CaPlane_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_MapPreviewNoSoundCrop_MID.vp9.webm/7e138f7eb6a30c5cdac34e72563af094.webm",
+    "jmcs://jd-contents/CaPlane/CaPlane_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f5c98b618ab650415942c13404df6812.webm",
+    "jmcs://jd-contents/CaPlane/CaPlane_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/CaPlane/CaPlane_MapPreviewNoSoundCrop_ULTRA.vp9.webm/47e19ca953d38674f111b16774911f5e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a51a94d570c2107c9d78d76397293ec6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CaPlane/ps4/CaPlane_MAIN_SCENE_ORBIS.zip/a51a94d570c2107c9d78d76397293ec6.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "610aaebc8dbea805c78fa654ca2baddf",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CaPlane/nx/CaPlane_MAIN_SCENE_NX.zip/610aaebc8dbea805c78fa654ca2baddf.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "be61aaf660d15223fe7be2a0663e0704",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/caplane_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

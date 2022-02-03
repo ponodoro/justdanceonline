@@ -1,0 +1,105 @@
+{
+  "artist": "Ariana Grande",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/ps4/7RingsALT_banner_bkg.tga.ckd/9cc5f851b0718b187f08ef911c3ce9ab.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/ps4/7RingsALT_Coach_1.tga.ckd/f007bbb4da4eb5f5ab8e150c886358a3.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/ps4/7RingsALT_Cover_Generic.tga.ckd/1c140a31b6025ce59988c20078417bcb.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_Cover_1024.png/d040e7304fb427e50e02d77141b12c3c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/ps4/7RingsALT_Cover_Online.tga.ckd/019365bb46f48f97f8ec1d94ada68cf7.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/ps4/7RingsALT_Cover_AlbumBkg.tga.ckd/68816d223c2de4888deb56caaea5a013.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/ps4/7RingsALT_Cover_AlbumCoach.tga.ckd/f36ce1fc3639d63219186066f2a3dc3d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_Coach_1_Phone.png/7effafcdde1ad758bec85d7e8400ff20.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_Cover_Phone.jpg/41baa359d58c15fede58c9fced79c5b5.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/ps4/7RingsALT_map_bkg.tga.ckd/96a1cd7b3c8d4fee78a1e1521ddb1cca.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/nx/7RingsALT_banner_bkg.tga.ckd/ca01fe5ba2eb62c6d70cb64b06e85966.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/nx/7RingsALT_Coach_1.tga.ckd/c16a8f7337659e85b8c9c41ee8316c2f.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/nx/7RingsALT_Cover_Generic.tga.ckd/960ede6052ea7d2333be4fc3bc801a2f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_Cover_1024.png/d040e7304fb427e50e02d77141b12c3c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/nx/7RingsALT_Cover_Online.tga.ckd/7cc6b27070e040a42dad896fca3c3b92.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/nx/7RingsALT_Cover_AlbumBkg.tga.ckd/2eff6727b90bcadfa17aaa3a95eb0c9b.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/nx/7RingsALT_Cover_AlbumCoach.tga.ckd/26a51e6f15f04b6c8d29fd7a451fe516.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_Coach_1_Phone.png/7effafcdde1ad758bec85d7e8400ff20.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_Cover_Phone.jpg/41baa359d58c15fede58c9fced79c5b5.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/nx/7RingsALT_map_bkg.tga.ckd/80d51cc78141c4b6f09426171be0aa48.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,41143,82286,123428,164571,205714,246857,288000,329143,370286,411428,452571,493714,534857,576000,617143,658286,699428,740571,781714,822857,864000,905143,946286,987428,1028571,1069714,1110857,1152000,1193143,1234286,1275428,1316571,1357714,1398857],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":204,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":34,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/7ringsalt/7ringsalt_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Ariana Grande, (Oscar Hammerstein II), (Richard Rodgers), Victoria Monet McCants, Charles Michael Anderson, Thomas Lee Brown, Michael David Foster, Tayla Parx, Kimberly Krysiuk, (Njomza Vitia). Published by Universal Music Publishing Canada on behalf of Universal Music Corp. / Taylor Monet Music (BMI) and Warner-Tamerlane Publising Corp. (BMI). All rights on behalf of itself and Taylor Monet Music administered by Warner-Tamerlane Publishing Corp. / BMG Gold Songs on behalf of itself and Victoria McCants Music; BMG Platinum Songs US. All rights administered by BMG Rights Management (US) LLC. / Songs of Avex (ASCAP) obo itself and The Hillstorian (ASCAP), TBHitsville (ASCAP) and The District 4 12 (BMI). / Williamson Music Company. Courtesy of Republic Records under license from Universal Music Enterprises.",
+  "difficulty": 4,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "26D4CAFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 176.572,
+  "mapName": "7RingsALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"494994\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"596-1085\">\r\n\t\t\t\t\t<Initialization range=\"0-596\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478999\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2897311\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3699270\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "7RingsALT_mapContent"
+  },
+  "parentMapName": "7Rings",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "560098FF",
+    "songColor_1B": "28004AFF",
+    "songColor_2A": "FF07B0FF",
+    "songColor_2B": "000F6AFF"
+  },
+  "status": 12,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Alternate",
+    "subscribedSong"
+  ],
+  "title": "7 rings",
+  "urls": {
+    "jmcs://jd-contents/7RingsALT/7RingsALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_AudioPreview.ogg/e5662aa1c53dde30cd665a018305b0ce.ogg",
+    "jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/e6f18b2328b8c83d915606136102a60c.webm",
+    "jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/310a9e3d57b1414fee3a47495e7aee19.webm",
+    "jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_LOW.vp8.webm/af401c00157c90686ea832f2e06fbfda.webm",
+    "jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_LOW.vp9.webm/ff1158750a7bc0cb4dff63d80c441bea.webm",
+    "jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_MID.vp8.webm/f103409d0ed3bbb9066438fac21074d3.webm",
+    "jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_MID.vp9.webm/189f22608ffffcf72aca785640e2bfe0.webm",
+    "jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/94d67fc620ae2af2633da42c979742f9.webm",
+    "jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/0c58ff27849b400d329afe8ddb615f51.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "1a54a706ae49051af86c957a94dd4fc3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/7RingsALT/ps4/7RingsALT_MAIN_SCENE_ORBIS.zip/1a54a706ae49051af86c957a94dd4fc3.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "a429e264944306edd09bac6d23b63fd3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/7RingsALT/nx/7RingsALT_MAIN_SCENE_NX.zip/a429e264944306edd09bac6d23b63fd3.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "98f9c1babc69a24c906f3d20078501d1",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/7RingsALT/pc/98f9c1babc69a24c906f3d20078501d1.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12631
+}

@@ -1,0 +1,104 @@
+{
+  "artist": "Lil Nas X Ft. Billy Ray Cyrus",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/ps4/OldTownRoad_banner_bkg.tga.ckd/d0fed81815df7ab9fe84fc115a532403.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/ps4/OldTownRoad_Coach_1.tga.ckd/fe58cb7c05e6a73c236c57fc084ddac1.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/ps4/OldTownRoad_Cover_Generic.tga.ckd/15c3f018a5cf49c38934e3104dec0022.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/OldTownRoad_Cover_1024.png/836c726880e14235be634dd6b5dd452c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/ps4/OldTownRoad_Cover_Online.tga.ckd/eac5edd5cb0ea746e3d5cf04f3bea350.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/ps4/OldTownRoad_Cover_AlbumBkg.tga.ckd/a234f453fbb0e35c24e9af0b31b0a830.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/ps4/OldTownRoad_Cover_AlbumCoach.tga.ckd/d668b261aefb04aa3f1c9b393363594f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/OldTownRoad_Coach_1_Phone.png/6eeff5db50c0c1ed89aeb72c5c3ef0c5.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/OldTownRoad_Cover_Phone.jpg/707d43b938c3e1a527bc4cceb5df7042.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/ps4/OldTownRoad_map_bkg.tga.ckd/74a76aacc58f1abed40b948db5dca773.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/nx/OldTownRoad_banner_bkg.tga.ckd/ddecd3f458032b7ea6a060f603a9718a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/nx/OldTownRoad_Coach_1.tga.ckd/6548864d635c56231f0006991dfc9c1c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/nx/OldTownRoad_Cover_Generic.tga.ckd/9a1b702fec3caac767a29d1ac5a8736f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/OldTownRoad_Cover_1024.png/836c726880e14235be634dd6b5dd452c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/nx/OldTownRoad_Cover_Online.tga.ckd/0bf316547a27dd51103d1210c63351a6.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/nx/OldTownRoad_Cover_AlbumBkg.tga.ckd/411c5dae39c8a741a201e7eaabbf358c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/nx/OldTownRoad_Cover_AlbumCoach.tga.ckd/0953c3a0b57ade5943a2eb617ea8cd8d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/OldTownRoad_Coach_1_Phone.png/6eeff5db50c0c1ed89aeb72c5c3ef0c5.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/OldTownRoad_Cover_Phone.jpg/707d43b938c3e1a527bc4cceb5df7042.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoad/nx/OldTownRoad_map_bkg.tga.ckd/500b94252a1fcdcad16d9f6bd0e91a05.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21176,42353,63529,84706,105882,127059,148235,169412,190588,211765,232941,254118,275294,296471,317647,338823,360000,381176,402353,423529,444706,465882,487059,508235,529412,550588,571765,592941,614118,635294,656471,677647,698823,720000,741176,762353,783529,804706,825882,847059,868235,889412,910588,931765,952941,974118,995294,1016471,1037647,1058823,1080000,1101176,1122353,1143529,1164706,1185882,1207059,1228235,1249412,1270588,1291765,1312941,1334118,1355294,1376471,1397647,1418823],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4},{\"__class\":\"MusicSignature\",\"marker\":1,\"beats\":2},{\"__class\":\"MusicSignature\",\"marker\":3,\"beats\":4}],\"startBeat\":-12,\"endBeat\":358,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":67,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/oldtownroad/oldtownroad_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Atticus Ross, Billy Cyrus, Jocelyn Donald, Trent Reznor, Montero Lamar Hill and Kiowa Roukema. Published by Kobalt Music Services America obo Songs By MPA. Sunnageronimo Publishing Inc. / Form and Textures, Inc. / Universal Music Publishing Canada on behalf of Songs Of Universal, Inc. / Sony/ATV Songs LLC (BMI). All rights reserved. Used with permission. Courtesy of Columbia Records. By arrangement with Sony Music Entertainment. / Contains a sample of “Ghost 34”, by Nine Inch Nails, under license from Null Corporation. All rights reserved.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0BFDFEFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 163.237,
+  "mapName": "OldTownRoad",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497304\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"600-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-600\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483854\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2898795\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3220425\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "OldTownRoad_mapContent"
+  },
+  "parentMapName": "OldTownRoad",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "AB0001FF",
+    "songColor_1B": "270A39FF",
+    "songColor_2A": "1271C5FF",
+    "songColor_2B": "265B60FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Old Town Road (Remix)",
+  "urls": {
+    "jmcs://jd-contents/OldTownRoad/OldTownRoad_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/OldTownRoad/OldTownRoad_AudioPreview.ogg/2b08e694d83f84a309fc5f958f2acd87.ogg",
+    "jmcs://jd-contents/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_HIGH.vp8.webm/071a96513490d0d8f9c0f72f6b18b530.webm",
+    "jmcs://jd-contents/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_HIGH.vp9.webm/9f21115ed54f3ab5db7b29144575fd12.webm",
+    "jmcs://jd-contents/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_LOW.vp8.webm/cb95aa1da911ebc870d64efc81a759fc.webm",
+    "jmcs://jd-contents/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_LOW.vp9.webm/afd8766b8ebb4b9e8d3142f7e5ecd8c1.webm",
+    "jmcs://jd-contents/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_MID.vp8.webm/3d8c72e1fc418ac73e44a30265eb5ba9.webm",
+    "jmcs://jd-contents/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_MID.vp9.webm/c658690f45152f07277802caeb8b84f7.webm",
+    "jmcs://jd-contents/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_ULTRA.vp8.webm/4fd3e88edffd37df5eed1a10fc7d5db2.webm",
+    "jmcs://jd-contents/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/OldTownRoad/OldTownRoad_MapPreviewNoSoundCrop_ULTRA.vp9.webm/362220530e413abb8409381baa3278e4.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "4c3b10d58d96f857e500173c69613bdb",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/OldTownRoad/ps4/OldTownRoad_MAIN_SCENE_ORBIS.zip/4c3b10d58d96f857e500173c69613bdb.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "a168f3b3534fafa2a2998a57686d1873",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/OldTownRoad/nx/OldTownRoad_MAIN_SCENE_NX.zip/a168f3b3534fafa2a2998a57686d1873.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "1052e760f12d63856641588ba7d0ee77",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/OldTownRoad/pc/1052e760f12d63856641588ba7d0ee77.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

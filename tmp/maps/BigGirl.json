@@ -1,0 +1,111 @@
+{
+  "artist": "MIKA",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_banner_bkg.jpg/5b04bd527c2aae85cba4c4894df38900.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Coach_1.png/729e7278885dc1d422f3a104a9001176.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Cover_Generic.jpg/fc0c466184205a06cf5c65b84ddf4c62.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Cover_1024.png/430aec2fb427749915663a4a89a4a7b3.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Cover_Online.jpg/38f2104d747a2932f71c9e330f82f8ee.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Cover_AlbumBkg.jpg/e4921e5c8bac210e285d5628f0e57f62.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Cover_AlbumCoach.png/cb0ea72129f017db6070b80a428db9e7.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Coach_1_Phone.png/b1ec016be64d90b6b27287aa66ede54d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Cover_Phone.jpg/38f2104d747a2932f71c9e330f82f8ee.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_banner_bkg.jpg/5b04bd527c2aae85cba4c4894df38900.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Coach_1.png/729e7278885dc1d422f3a104a9001176.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Cover_Generic.jpg/fc0c466184205a06cf5c65b84ddf4c62.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Cover_1024.png/430aec2fb427749915663a4a89a4a7b3.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Cover_Online.jpg/38f2104d747a2932f71c9e330f82f8ee.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Cover_AlbumBkg.jpg/e4921e5c8bac210e285d5628f0e57f62.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Cover_AlbumCoach.png/cb0ea72129f017db6070b80a428db9e7.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Coach_1_Phone.png/b1ec016be64d90b6b27287aa66ede54d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Cover_Phone.jpg/38f2104d747a2932f71c9e330f82f8ee.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/wiiu/BigGirl_banner_bkg.tga.ckd/0d375822823f146838deced7d6ea57d7.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/wiiu/BigGirl_Coach_1.tga.ckd/ef1df312999bbf142c3df3f1d66e86ad.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/wiiu/BigGirl_Cover_Generic.tga.ckd/e331a2bcb97967162050bc8490dffa34.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Cover_1024.png/430aec2fb427749915663a4a89a4a7b3.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/wiiu/BigGirl_Cover_Online.tga.ckd/5346d8458b38de3955132c7a743f84ff.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/wiiu/BigGirl_Cover_AlbumBkg.tga.ckd/c3237380c7289f7f889ea4d26cc09d21.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/wiiu/BigGirl_Cover_AlbumCoach.tga.ckd/030ce213f671767b307d3bacae534fca.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Coach_1_Phone.png/b1ec016be64d90b6b27287aa66ede54d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_Cover_Phone.jpg/38f2104d747a2932f71c9e330f82f8ee.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24401,49650,74244,99300,124125,148950,173775,198984,222576,248250,273075,298188,322726,347551,372376,397201,422026,446851,471676,496501,521326,546151,570976,595801,620626,645451,670276,695101,719926,744751,769576,794401,819226,844051,868876,892883,919066,943891,968716,993541,1018366,1043191,1068016,1092841,1117667,1142492,1167317,1192142,1216967,1241792,1266617,1291442,1316267,1341092,1365917,1390742,1415567],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":480,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/biggirl/biggirl_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "00A6A2FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 248.798,
+  "mapName": "BigGirl",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497289\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigGirl/BigGirl_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1462411\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigGirl/BigGirl_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1627012\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigGirl/BigGirl_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1626718\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigGirl/BigGirl_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "BigGirl_mapContent"
+  },
+  "parentMapName": "BigGirl",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FD871FFF",
+    "songColor_1B": "820071FF",
+    "songColor_2A": "00CC9FFF",
+    "songColor_2B": "010D56FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Big Girl (You Are Beautiful)",
+  "urls": {
+    "jmcs://jd-contents/BigGirl/BigGirl_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_AudioPreview.ogg/71baf48eccee6d7685f3743c145f307e.ogg",
+    "jmcs://jd-contents/BigGirl/BigGirl_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_MapPreviewNoSoundCrop_HIGH.vp8.webm/f4ad1f46ff34f437da885acbf50ba3d0.webm",
+    "jmcs://jd-contents/BigGirl/BigGirl_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_MapPreviewNoSoundCrop_HIGH.vp9.webm/0bfdbf85bf6ece5d53fbaca427bf6a3c.webm",
+    "jmcs://jd-contents/BigGirl/BigGirl_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_MapPreviewNoSoundCrop_LOW.vp8.webm/ed5316e8e6be44452e68e25e0f2b97bc.webm",
+    "jmcs://jd-contents/BigGirl/BigGirl_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_MapPreviewNoSoundCrop_LOW.vp9.webm/b9aced996f548f4a44d2a0cec3a37dbc.webm",
+    "jmcs://jd-contents/BigGirl/BigGirl_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_MapPreviewNoSoundCrop_MID.vp8.webm/dd38b146731982f4cf2fdfbca6f74253.webm",
+    "jmcs://jd-contents/BigGirl/BigGirl_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_MapPreviewNoSoundCrop_MID.vp9.webm/74957e665ac5be8f199aa30d45f46864.webm",
+    "jmcs://jd-contents/BigGirl/BigGirl_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ee79a3f691f5e5f50d04f12c52eb1a66.webm",
+    "jmcs://jd-contents/BigGirl/BigGirl_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BigGirl/BigGirl_MapPreviewNoSoundCrop_ULTRA.vp9.webm/b68e25dfcb600ff45d9a403580191123.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "5c6e14a2ed3cae4dbd939585e58c2497",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BigGirl/ps4/BigGirl_MAIN_SCENE_ORBIS.zip/5c6e14a2ed3cae4dbd939585e58c2497.zip",
+      "version": 10
+    },
+    "pc": {
+      "md5": "959bab72ecaa9df7e51d8b81f4406aac",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BigGirl/pc/BigGirl_MAIN_SCENE_PC.zip/959bab72ecaa9df7e51d8b81f4406aac.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "229395ff5365d94040e1267f209931ad",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BigGirl/wiiu/BigGirl_MAIN_SCENE_WIIU.zip/229395ff5365d94040e1267f209931ad.zip",
+      "version": 11
+    },
+    "nx": {
+      "md5": "c3b73c227c143a3d2d0ec7e70c092c35",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BigGirl/nx/BigGirl_MAIN_SCENE_NX.zip/c3b73c227c143a3d2d0ec7e70c092c35.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

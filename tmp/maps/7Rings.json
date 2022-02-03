@@ -1,0 +1,120 @@
+{
+  "artist": "Ariana Grande",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/ps4/7Rings_banner_bkg.tga.ckd/4878b2a50260e3d0abf229b6460e768e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/ps4/7Rings_Coach_1.tga.ckd/6ea4651f820e25c519b3c8b5fc61cd1b.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/ps4/7Rings_Coach_2.tga.ckd/d1aab29a641526603449ca9e4232b35e.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/ps4/7Rings_Coach_3.tga.ckd/50236e9a7ad2661e5cf0b1ea208fb364.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/ps4/7Rings_Cover_Generic.tga.ckd/94e1bde075bef14212c6e59a3ecbf6d0.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_Cover_1024.png/317f5bc17650068b83cf25ca2bc919e1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/ps4/7Rings_Cover_Online.tga.ckd/b25fa3724569f0743ca83d2dcb3caee5.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/ps4/7Rings_Cover_AlbumBkg.tga.ckd/d86792251f9bc96c24171d66810f3750.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/ps4/7Rings_Cover_AlbumCoach.tga.ckd/731ae3faf21d96560189dbb194280434.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_Coach_1_Phone.png/76cb1613c0f580152d030f28938d59b2.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_Coach_2_Phone.png/8ebec4e54c2bd3935e7fb403cdc1755b.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_Coach_3_Phone.png/711f6cda66f0aaf0a3b76cfbd811e4b0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_Cover_Phone.jpg/2f90e990081cbfdc934ad8de8627cf84.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_VideoPreview.webm/093f786e8c50a6a06510c5ea598d5bcc.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/ps4/7Rings_map_bkg.tga.ckd/8910a171a08573cff9c6453257f1a08d.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/nx/7Rings_banner_bkg.tga.ckd/2e61c260a29f3b3cf82e5b24761ce72c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/nx/7Rings_Coach_1.tga.ckd/e8138046090bd8729f5ed693a95e21e1.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/nx/7Rings_Coach_2.tga.ckd/9f37c6c72779f94385cc72083babece4.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/nx/7Rings_Coach_3.tga.ckd/a68e174739c681f16f86ce25b18fb271.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/nx/7Rings_Cover_Generic.tga.ckd/e56db085d07a60b96cd63fe3ca650889.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_Cover_1024.png/317f5bc17650068b83cf25ca2bc919e1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/nx/7Rings_Cover_Online.tga.ckd/90335b84e47cf3481696aa970b6e0d96.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/nx/7Rings_Cover_AlbumBkg.tga.ckd/8fc61cc5383b7cbe5c4b888021609d64.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/nx/7Rings_Cover_AlbumCoach.tga.ckd/e61135d4fc1786beaab26f6c3e89eee2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_Coach_1_Phone.png/76cb1613c0f580152d030f28938d59b2.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_Coach_2_Phone.png/8ebec4e54c2bd3935e7fb403cdc1755b.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_Coach_3_Phone.png/711f6cda66f0aaf0a3b76cfbd811e4b0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_Cover_Phone.jpg/2f90e990081cbfdc934ad8de8627cf84.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_VideoPreview.webm/093f786e8c50a6a06510c5ea598d5bcc.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/nx/7Rings_map_bkg.tga.ckd/b56964e5c08c0ec6dfb48d5871d6ccaa.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,41143,82286,123428,164571,205714,246857,288000,329143,370286,411428,452571,493714,534857,576000,617143,658286,699428,740571,781714,822857,864000,905143,946286,987428,1028571,1069714,1110857,1152000,1193143,1234286,1275428,1316571,1357714,1398857],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":205,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":34,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/7rings/7rings_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Ariana Grande, (Oscar Hammerstein II), (Richard Rodgers), Victoria Monet McCants, Charles Michael Anderson, Thomas Lee Brown, Michael David Foster, Tayla Parx, Kimberly Krysiuk, (Njomza Vitia). Published by Universal Music Publishing Canada on behalf of Universal Music Corp. / Taylor Monet Music (BMI) and Warner-Tamerlane Publising Corp. (BMI). All rights on behalf of itself and Taylor Monet Music administered by Warner-Tamerlane Publishing Corp. / BMG Gold Songs on behalf of itself and Victoria McCants Music; BMG Platinum Songs US. All rights administered by BMG Rights Management (US) LLC. / Songs of Avex (ASCAP) obo itself and The Hillstorian (ASCAP), TBHitsville (ASCAP) and The District 4 12 (BMI). / Williamson Music Company. Courtesy of Republic Records under license from Universal Music Enterprises.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "07E7FEFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 178.286,
+  "mapName": "7Rings",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496052\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/7Rings/7Rings_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"590-1079\">\r\n\t\t\t\t\t<Initialization range=\"0-590\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1476970\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/7Rings/7Rings_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"591-1081\">\r\n\t\t\t\t\t<Initialization range=\"0-591\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2829002\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/7Rings/7Rings_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"591-1081\">\r\n\t\t\t\t\t<Initialization range=\"0-591\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3045297\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/7Rings/7Rings_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"591-1081\">\r\n\t\t\t\t\t<Initialization range=\"0-591\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "7Rings_mapContent"
+  },
+  "parentMapName": "7Rings",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "FF9F23FF",
+    "songColor_1B": "A72EFFFF",
+    "songColor_2A": "120094FF",
+    "songColor_2B": "BC99FFFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "7 rings",
+  "urls": {
+    "jmcs://jd-contents/7Rings/7Rings_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_AudioPreview.ogg/2c69e61c6464adf7b04c5bdde3e05163.ogg",
+    "jmcs://jd-contents/7Rings/7Rings_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_MapPreviewNoSoundCrop_HIGH.vp8.webm/e9ef06cb5600e1ef30a15b9eede089f3.webm",
+    "jmcs://jd-contents/7Rings/7Rings_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_MapPreviewNoSoundCrop_HIGH.vp9.webm/ccde42fdc7498a824306112ff97db70d.webm",
+    "jmcs://jd-contents/7Rings/7Rings_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_MapPreviewNoSoundCrop_LOW.vp8.webm/0319c0accb233f8dd7599a9b1a644a38.webm",
+    "jmcs://jd-contents/7Rings/7Rings_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_MapPreviewNoSoundCrop_LOW.vp9.webm/98962517aa840b8eb4d031e44c9c51b0.webm",
+    "jmcs://jd-contents/7Rings/7Rings_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_MapPreviewNoSoundCrop_MID.vp8.webm/d2cab0228d3e52777bc0dc192456f131.webm",
+    "jmcs://jd-contents/7Rings/7Rings_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_MapPreviewNoSoundCrop_MID.vp9.webm/1806147be0c8eeeb81de4d61b3c20e71.webm",
+    "jmcs://jd-contents/7Rings/7Rings_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_MapPreviewNoSoundCrop_ULTRA.vp8.webm/057e18b8d507c62f4d01c57bc78bcf48.webm",
+    "jmcs://jd-contents/7Rings/7Rings_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/7Rings/7Rings_MapPreviewNoSoundCrop_ULTRA.vp9.webm/95f1e22808c433b1e42bcea7647267ff.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "25b2cc5f30504e796eb47d4d164e8171",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/7Rings/ps4/7Rings_MAIN_SCENE_ORBIS.zip/25b2cc5f30504e796eb47d4d164e8171.zip",
+      "version": 4
+    },
+    "nx": {
+      "md5": "2f745abce64cd47d4f37305de15a31a1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/7Rings/nx/7Rings_MAIN_SCENE_NX.zip/2f745abce64cd47d4f37305de15a31a1.zip",
+      "version": 4
+    },
+    "pc": {
+      "md5": "a5491b61056f159c691eeb7f82ed87ee",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/7Rings/pc/7Rings_MAIN_SCENE_PC.zip/a5491b61056f159c691eeb7f82ed87ee.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "db475fd14e56ebcf531f659771eee10a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/7Rings/wiiu/7Rings_MAIN_SCENE_WIIU.zip/db475fd14e56ebcf531f659771eee10a.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

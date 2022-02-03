@@ -1,0 +1,98 @@
+{
+  "artist": "Pan Wei Bai & Zhang Shao Han (Wilber Pan Ft. Angela Chang)",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_map_bkg.png"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/textures/JDCAdorationToHappinessALT_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,115200,138240,161280,184320,207360,230400,253440,276480,299520,322560,345600,368640,391680,414720,437760,460800,483840,506880,529920,552960,576000,599040,622080,645120,668160,691200,714240,737280,760320,783360,806400,829440,852480,875520,898560,921600,944640,967680,990720,1013760,1036800,1059840,1082880,1105920,1128960,1152000,1175040,1198080,1221120,1244160,1267200,1290240,1313280,1336320,1359360,1382400,1405440,1428480],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":496,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":58,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/JDCAdorationToHappiness/JDCAdorationToHappiness_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "96C204FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 100,
+  "mapName": "JDCAdorationToHappinessALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648877\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCAdorationToHappinessALT/JDCAdorationToHappinessALT_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493834\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCAdorationToHappinessALT/JDCAdorationToHappinessALT_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2984420\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCAdorationToHappinessALT/JDCAdorationToHappinessALT_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5932938\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCAdorationToHappinessALT/JDCAdorationToHappinessALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4514,
+  "packages": {
+    "mapContent": "JDCAdorationToHappinessALT_mapContent"
+  },
+  "parentMapName": "JDCAdorationToHappinessALT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "1F6E66FF",
+    "songColor_1B": "102927FF",
+    "songColor_2A": "CC5C71FF",
+    "songColor_2B": "4F0715FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main"
+  ],
+  "title": "Kuai Le Chong Bai (Adoration To Happiness)",
+  "urls": {
+    "jmcs://jd-contents/JDCAdorationToHappinessALT/JDCAdorationToHappinessALT_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/JDCAdorationToHappinessALT_AudioPreview.ogg",
+    "jmcs://jd-contents/JDCAdorationToHappinessALT/JDCAdorationToHappinessALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/nx/JDCAdorationToHappinessALT_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/JDCAdorationToHappinessALT/JDCAdorationToHappinessALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/nx/JDCAdorationToHappinessALT_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/JDCAdorationToHappinessALT/JDCAdorationToHappinessALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/nx/JDCAdorationToHappinessALT_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/JDCAdorationToHappinessALT/JDCAdorationToHappinessALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/nx/JDCAdorationToHappinessALT_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/JDCAdorationToHappinessALT/JDCAdorationToHappinessALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/nx/JDCAdorationToHappinessALT_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/JDCAdorationToHappinessALT/JDCAdorationToHappinessALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/nx/JDCAdorationToHappinessALT_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/JDCAdorationToHappinessALT/JDCAdorationToHappinessALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/nx/JDCAdorationToHappinessALT_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/JDCAdorationToHappinessALT/JDCAdorationToHappinessALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/nx/JDCAdorationToHappinessALT_VideoPreview.vp9.webm"
+  },
+  "customTypeName": "Wang Hong Version",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "0277e0155a52fa5212f3d2c1e4a557a3",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/pc/0277e0155a52fa5212f3d2c1e4a557a3.zip",
+      "version": 1
+    },
+    "orbis": {
+      "md5": "c5c8f85a1de8e13c56352f91439c2ad6",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/ps4/c5c8f85a1de8e13c56352f91439c2ad6.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "7154fe6dd385292f8c846ac1023f4c25",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCAdorationToHappinessALT/nx/7154fe6dd385292f8c846ac1023f4c25.zip",
+      "version": 1
+    }
+  },
+  "mapType": "custom"
+}

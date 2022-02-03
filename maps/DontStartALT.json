@@ -1,0 +1,91 @@
+{
+  "artist": "Dua Lipa",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontStartALT/DontStartALT_banner_bkg.jpg/64c3054eb1533cb7ee626a195649c3a5.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontStartALT/DontStartALT_Coach_1.png/0178c03bc9ea2d84a6eb2f65d653e5d8.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DontStartALT/DontStartALT_Cover_Generic.jpg/d0e7d8932cde120af849792ffdce2d6f.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DontStartALT/DontStartALT_Cover_Online.jpg/9bf32e1a1be536d81dffc0652ece8154.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontStartALT/DontStartALT_Cover_AlbumBkg.jpg/4a46b25fc24fe37a58029735f249524d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DontStartALT/DontStartALT_Cover_AlbumCoach.png/90aee34d9ef82711f50a022800f99d98.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontStartALT/DontStartALT_Coach_1_Phone.png/fd52d7077958c8a37e33ee58724665af.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DontStartALT/DontStartALT_Cover_Phone.jpg/9bf32e1a1be536d81dffc0652ece8154.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontStartALT/DontStartALT_banner_bkg.jpg/64c3054eb1533cb7ee626a195649c3a5.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontStartALT/DontStartALT_Coach_1.png/0178c03bc9ea2d84a6eb2f65d653e5d8.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DontStartALT/DontStartALT_Cover_Generic.jpg/d0e7d8932cde120af849792ffdce2d6f.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DontStartALT/DontStartALT_Cover_Online.jpg/9bf32e1a1be536d81dffc0652ece8154.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontStartALT/DontStartALT_Cover_AlbumBkg.jpg/4a46b25fc24fe37a58029735f249524d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DontStartALT/DontStartALT_Cover_AlbumCoach.png/90aee34d9ef82711f50a022800f99d98.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontStartALT/DontStartALT_Coach_1_Phone.png/fd52d7077958c8a37e33ee58724665af.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DontStartALT/DontStartALT_Cover_Phone.jpg/9bf32e1a1be536d81dffc0652ece8154.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23226,46452,69678,92904,116129,139355,162581,185807,209033,232258,255484,278710,301936,325162,348388,371613,394839,418065,441291,464517,487742,510968,534194,557420,580646,603871,627097,650323,673549,696775,720000,743226,766452,789678,812904,836129,859355,882581,905807,929033,952258,975484,998710,1021936,1045162,1068388,1091613,1114839,1138065,1161291,1184517,1207742,1230968,1254194,1277420,1300646,1323871,1347097,1370323,1393549,1416775],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":375,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/dontstartalt/dontstartalt_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Dua Lipa, Emily Warren Schwartz, Caroline Ailin and Ian Kirkpatrick. Published by Buckley Tenenbaum Publishing (BMI) and Warner-Tamerlane Publishing Corp. (BMI). All rights on behalf of itself and Buckley Tenenbaum Publishing administered by Warner-Tamerlane Publishing Corp. / Universal Music Publishing Canada on behalf of Tap Music Publishing Ltd. / BMG Platinum Songs US (BMI). All rights administered by BMG Rights Management (US) LLC / Prescription Songs (ASCAP) / Havenwood House (ASCAP). Administered by Kobalt Music Publishing America, Inc. Courtesy of Warner Records UK. By arrangement with Warner Music Group Film & TV Licensing.",
+  "difficulty": 4,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "50D4A6FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 182.902,
+  "mapName": "DontStartALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495330\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"608-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-608\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1460490\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"609-1099\">\r\n\t\t\t\t\t<Initialization range=\"0-609\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2420240\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"609-1099\">\r\n\t\t\t\t\t<Initialization range=\"0-609\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3311000\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"609-1099\">\r\n\t\t\t\t\t<Initialization range=\"0-609\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "DontStartALT_mapContent"
+  },
+  "parentMapName": "DontStart",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "7000EFFF",
+    "songColor_1B": "2D076CFF",
+    "songColor_2A": "8588FFFF",
+    "songColor_2B": "530054FF"
+  },
+  "status": 12,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Alternate",
+    "subscribedSong"
+  ],
+  "title": "Don't Start Now",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "568af25cd214ff9710cf4f8ea5b799b0",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/DontStartALT/ps4/DontStartALT_MAIN_SCENE_ORBIS.zip/568af25cd214ff9710cf4f8ea5b799b0.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "d5c050de63955eaf4bebacd5ad3b416b",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/DontStartALT/nx/DontStartALT_MAIN_SCENE_NX.zip/d5c050de63955eaf4bebacd5ad3b416b.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "6249187e6dc04beb5df46bb79ad3af95",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/DontStartALT/pc/6249187e6dc04beb5df46bb79ad3af95.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12624,
+  "urls": {
+    "jmcs://jd-contents/DontStartALT/DontStartALT_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/DontStartALT/DontStartALT_AudioPreview.ogg/d58d7b93910d1084a8f2508037d64059.ogg",
+    "jmcs://jd-contents/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/4233f28c85bca1fdb0118b380844f100.webm",
+    "jmcs://jd-contents/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/c9fe3378f4833f074cb2556000eb91e1.webm",
+    "jmcs://jd-contents/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_LOW.vp8.webm/e53c93c28eb1774c3d8e4c2ad41a2407.webm",
+    "jmcs://jd-contents/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_LOW.vp9.webm/f0b7d8cb5a76acb2be11e1e7b1c09cf7.webm",
+    "jmcs://jd-contents/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_MID.vp8.webm/42909d3472da21fe9ed2c7ed3827fad3.webm",
+    "jmcs://jd-contents/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_MID.vp9.webm/fbecf62cf29c8bffd05c1ca476be111e.webm",
+    "jmcs://jd-contents/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/673d940f09ced012985fc24f4472a010.webm",
+    "jmcs://jd-contents/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/dd5c252e07182991e8725baea8bf018d.webm"
+  }
+}

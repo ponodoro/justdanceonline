@@ -1,0 +1,90 @@
+{
+  "artist": "Selena Gomez",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rare/Rare_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rare/Rare_Coach_1.png/5e1e03f09128e8bda16e14701bbd8ff6.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Rare/Rare_Cover_Generic.jpg/14858d84ec5ab3985784355aa44d8ea7.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Rare/Rare_Cover_Online.jpg/d25dd6cda8e03499d4ec521bb0a22556.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rare/Rare_Cover_AlbumBkg.jpg/128116b26aea816b68c585da810915e0.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Rare/Rare_Cover_AlbumCoach.png/a86563ca6624e2255d5a5cba3df2f21e.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rare/Rare_Coach_1_Phone.png/1df9d3d7c2bc119fb6af91e76edb7793.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Rare/Rare_Cover_Phone.jpg/d25dd6cda8e03499d4ec521bb0a22556.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rare/Rare_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rare/Rare_Coach_1.png/5e1e03f09128e8bda16e14701bbd8ff6.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Rare/Rare_Cover_Generic.jpg/14858d84ec5ab3985784355aa44d8ea7.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Rare/Rare_Cover_Online.jpg/d25dd6cda8e03499d4ec521bb0a22556.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rare/Rare_Cover_AlbumBkg.jpg/128116b26aea816b68c585da810915e0.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Rare/Rare_Cover_AlbumCoach.png/a86563ca6624e2255d5a5cba3df2f21e.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rare/Rare_Coach_1_Phone.png/1df9d3d7c2bc119fb6af91e76edb7793.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Rare/Rare_Cover_Phone.jpg/d25dd6cda8e03499d4ec521bb0a22556.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25043,50087,75130,100174,125217,150260,175304,200347,225391,250434,275478,300521,325565,350608,375652,400695,425739,450782,475826,500869,525913,550956,576000,601043,626087,651130,676174,701217,726260,751304,776347,801391,826434,851478,876521,901565,926608,951652,976695,1001739,1026782,1051826,1076869,1101913,1126956,1152000,1177043,1202087,1227130,1252174,1277217,1302260,1327304,1352347,1377391,1402434,1427478],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-12,\"endBeat\":423,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/rare/rare_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Brett McLaughlin, Madison Love, Nolan Lambroza, Selena Marie Gomez and Simon Rosen. Published by WC Music Corp. (ASCAP), Simon Rosen pub designee (SOCAN), Nolan Lambroza pub designee (BMI) and Nolan Lambroza ASCAP pub designee (ASCAP). All rights on behalf of itself and Simon Rosen pub designee and Nolan Lambroza ASCAP pub designee administered by WC Music Corp. All rights on behalf of Nolan Lambroza pub designee administered by Warner-Tamerlane Publishing Corp. / Universal Music Publishing Canada on behalf of Universal Music Corp. and SMG Tunes. / Bob Ochoa’s Homemade Salsa (ASCAP) / EMI April Music Inc. (ASCAP). / LiveMadLove (ASCAP) / Artist Publishing Group West (ASCAP). Administered by Kobalt Music Publishing America, Inc. All rights reserved. Used with permission. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "A289E7FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 226.957,
+  "mapName": "Rare",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496978\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rare/Rare_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1469625\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rare/Rare_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1943742\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rare/Rare_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1944016\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rare/Rare_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "Rare_mapContent"
+  },
+  "parentMapName": "Rare",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "D8E8A5FF",
+    "songColor_1B": "1D3013FF",
+    "songColor_2A": "9CBE69FF",
+    "songColor_2B": "8A87C8FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Rare",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "f1e45b3de8d2f2f4d4a3ac7167d20072",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Rare/ps4/Rare_MAIN_SCENE_ORBIS.zip/f1e45b3de8d2f2f4d4a3ac7167d20072.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "ab77cd9e64592e37813afdc05333df11",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Rare/nx/Rare_MAIN_SCENE_NX.zip/ab77cd9e64592e37813afdc05333df11.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "92431198ed95a630b973ff7c5f7a3525",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Rare/pc/92431198ed95a630b973ff7c5f7a3525.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/Rare/Rare_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/Rare/Rare_AudioPreview.ogg/e0b4cab9a0933b00e7f45d0f8783129d.ogg",
+    "jmcs://jd-contents/Rare/Rare_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Rare/Rare_MapPreviewNoSoundCrop_HIGH.vp8.webm/f3c51f425ed190b9b37aae8d85220dff.webm",
+    "jmcs://jd-contents/Rare/Rare_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Rare/Rare_MapPreviewNoSoundCrop_HIGH.vp9.webm/e8139c9109e43e89dfa73ef7c77ef72c.webm",
+    "jmcs://jd-contents/Rare/Rare_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Rare/Rare_MapPreviewNoSoundCrop_LOW.vp8.webm/13751ea93152c0b148e7842db89009eb.webm",
+    "jmcs://jd-contents/Rare/Rare_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Rare/Rare_MapPreviewNoSoundCrop_LOW.vp9.webm/08138d8fc5e77fa131d710cda009b6dc.webm",
+    "jmcs://jd-contents/Rare/Rare_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Rare/Rare_MapPreviewNoSoundCrop_MID.vp8.webm/57ab928b8db23e6ba699c7114fabbd17.webm",
+    "jmcs://jd-contents/Rare/Rare_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Rare/Rare_MapPreviewNoSoundCrop_MID.vp9.webm/6dcd4fbc54c0f94732b3784515ed6fd0.webm",
+    "jmcs://jd-contents/Rare/Rare_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Rare/Rare_MapPreviewNoSoundCrop_ULTRA.vp8.webm/bd10214d304d80048d7fd56fe3951778.webm",
+    "jmcs://jd-contents/Rare/Rare_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Rare/Rare_MapPreviewNoSoundCrop_ULTRA.vp9.webm/ce0963ee7f4673f12c9ec46a11a52fad.webm"
+  }
+}

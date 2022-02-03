@@ -1,0 +1,132 @@
+{
+  "artist": "Katy Perry",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_banner_bkg.jpg/c7eb6e56edecaa8a3461c1ff9da5ed63.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_1.png/5589a3f8e3e1827e0a6920c1503ece69.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_2.png/b1d07bb035f1a2e454464f848e23bd9e.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_3.png/a8393ad1bc90321651b69dded0631931.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_4.png/8e17dac554d6fb045300faf755d9defe.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Cover_Generic.jpg/250a407e0e3f42419926e5b218e843ed.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Cover_1024.png/f691a3b362d89bfe00da0601e9b6d0e2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Cover_Online.jpg/49b46278c76d892707d31748fb8bf24d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Cover_AlbumBkg.jpg/4165a2b3f8f38db9336eaebcc61043c6.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Cover_AlbumCoach.png/938ccf0020def41ccbadd7bbda0c08b4.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_1_Phone.png/a6b0d48aae65b3710cf81c850dc06c94.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_2_Phone.png/2b2f656e3e1b794b5645b87ba10df2f2.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_3_Phone.png/1f3f9c977abd8f5e61b095609d6946c1.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_4_Phone.png/adfeaa52917336e6a85ff937faa7a2e4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Cover_Phone.jpg/49b46278c76d892707d31748fb8bf24d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_VideoPreview.webm/bd34c854e543b8df7e47ce4c06ea8fe5.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_banner_bkg.jpg/c7eb6e56edecaa8a3461c1ff9da5ed63.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_1.png/5589a3f8e3e1827e0a6920c1503ece69.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_2.png/b1d07bb035f1a2e454464f848e23bd9e.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_3.png/a8393ad1bc90321651b69dded0631931.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_4.png/8e17dac554d6fb045300faf755d9defe.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Cover_Generic.jpg/250a407e0e3f42419926e5b218e843ed.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Cover_1024.png/f691a3b362d89bfe00da0601e9b6d0e2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Cover_Online.jpg/49b46278c76d892707d31748fb8bf24d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Cover_AlbumBkg.jpg/4165a2b3f8f38db9336eaebcc61043c6.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Cover_AlbumCoach.png/938ccf0020def41ccbadd7bbda0c08b4.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_1_Phone.png/a6b0d48aae65b3710cf81c850dc06c94.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_2_Phone.png/2b2f656e3e1b794b5645b87ba10df2f2.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_3_Phone.png/1f3f9c977abd8f5e61b095609d6946c1.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_4_Phone.png/adfeaa52917336e6a85ff937faa7a2e4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Cover_Phone.jpg/49b46278c76d892707d31748fb8bf24d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_VideoPreview.webm/bd34c854e543b8df7e47ce4c06ea8fe5.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/wiiu/ThisIsHow_banner_bkg.tga.ckd/2e82cafc1ebe3e75e41993f3ce6cd70d.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/wiiu/ThisIsHow_Coach_1.tga.ckd/d4fc35eb5963a4de2d75e24791bc4268.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/wiiu/ThisIsHow_Coach_2.tga.ckd/8011b420c32b25a7d6392d43883ed997.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/wiiu/ThisIsHow_Coach_3.tga.ckd/11cee75798044540da04c306209bf17c.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/wiiu/ThisIsHow_Coach_4.tga.ckd/25cfa9e44bfd3fe74e29c0ff482e72a5.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/wiiu/ThisIsHow_Cover_Generic.tga.ckd/0644acb2774918fe4e59fcd526e7e72b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Cover_1024.png/f691a3b362d89bfe00da0601e9b6d0e2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/wiiu/ThisIsHow_Cover_Online.tga.ckd/54b5fef5479eea34699c61069346b101.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/wiiu/ThisIsHow_Cover_AlbumBkg.tga.ckd/bce3fc90d17b6d26758aaf19fa92752e.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/wiiu/ThisIsHow_Cover_AlbumCoach.tga.ckd/3d6f0a53837e80a145602d50e9fbca00.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_1_Phone.png/a6b0d48aae65b3710cf81c850dc06c94.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_2_Phone.png/2b2f656e3e1b794b5645b87ba10df2f2.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_3_Phone.png/1f3f9c977abd8f5e61b095609d6946c1.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Coach_4_Phone.png/adfeaa52917336e6a85ff937faa7a2e4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_Cover_Phone.jpg/49b46278c76d892707d31748fb8bf24d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_VideoPreview.webm/bd34c854e543b8df7e47ce4c06ea8fe5.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,30000,60000,90000,120000,150000,180000,210000,240000,270000,300000,330000,360000,390000,420000,450000,480000,510000,540000,570000,600000,630000,660000,690000,720000,750000,780000,810000,840000,870000,900000,930000,960000,990000,1020000,1050000,1080000,1110000,1140000,1170000,1200000,1230000,1259999,1289999,1319999,1350000,1380000,1410000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":324,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":47,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/thisishow/thisishow_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F60B5EFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 205,
+  "mapName": "ThisIsHow",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496562\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484033\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2951698\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4466951\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "ThisIsHow_mapContent"
+  },
+  "parentMapName": "ThisIsHow",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "38ABE6FF",
+    "songColor_1B": "00143AFF",
+    "songColor_2A": "FFD364FF",
+    "songColor_2B": "FFA99EFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "This Is How We Do",
+  "urls": {
+    "jmcs://jd-contents/ThisIsHow/ThisIsHow_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_AudioPreview.ogg/9ecbd297d4dd8b1845720d974700c037.ogg",
+    "jmcs://jd-contents/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_HIGH.vp8.webm/a4c556375df65b16e0150bdb7d692506.webm",
+    "jmcs://jd-contents/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_HIGH.vp9.webm/81d7e3bbdc2bd8c50e9a6b6198cdd659.webm",
+    "jmcs://jd-contents/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_LOW.vp8.webm/5cb1d931a36fa43784de8ddd69a8f7b9.webm",
+    "jmcs://jd-contents/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_LOW.vp9.webm/1f860fdc94e0b9aaa849336d9231a06e.webm",
+    "jmcs://jd-contents/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_MID.vp8.webm/4bc953997e62ee6c94ef1224c6a9c7a8.webm",
+    "jmcs://jd-contents/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_MID.vp9.webm/6b835e4882349e3a6937f293022866eb.webm",
+    "jmcs://jd-contents/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_ULTRA.vp8.webm/1ad7130f738b42a3871151f478635d2c.webm",
+    "jmcs://jd-contents/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ThisIsHow_MapPreviewNoSoundCrop_ULTRA.vp9.webm/1a0dc3aefb3bd3a6afa091c78c976131.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "8bd369d8f02cbeb526afe639d66878b6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ThisIsHow/ps4/ThisIsHow_MAIN_SCENE_ORBIS.zip/8bd369d8f02cbeb526afe639d66878b6.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "1bce36754a716bd40d078dc1246e08a5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ThisIsHow/pc/ThisIsHow_MAIN_SCENE_PC.zip/1bce36754a716bd40d078dc1246e08a5.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "de0299cb5176ad29de2d40b8155d38ea",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ThisIsHow/wiiu/ThisIsHow_MAIN_SCENE_WIIU.zip/de0299cb5176ad29de2d40b8155d38ea.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "538750d559e36fa90b7dc6b7b142634f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ThisIsHow/nx/ThisIsHow_MAIN_SCENE_NX.zip/538750d559e36fa90b7dc6b7b142634f.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

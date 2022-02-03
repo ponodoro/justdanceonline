@@ -1,0 +1,128 @@
+{
+  "artist": "BIGBANG",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/ggp/Bang2019_banner_bkg.tga.ckd/8688ad87b493236a896a815e62b40277.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/ggp/Bang2019_Coach_1.tga.ckd/4ceeca82d7bb6b888db2f1c04eb10f17.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/ggp/Bang2019_Coach_2.tga.ckd/cc8fbc621984e22734c1b4d01b9fa1d6.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/ggp/Bang2019_Coach_3.tga.ckd/4ceeca82d7bb6b888db2f1c04eb10f17.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/ggp/Bang2019_Cover_Generic.tga.ckd/27dbef58c4f3e93692152a073dd3a935.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_Cover_1024.png/044fa2a6ca2df200e37312614304ed2c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/ggp/Bang2019_Cover_Online.tga.ckd/27dbef58c4f3e93692152a073dd3a935.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/ggp/Bang2019_Cover_AlbumBkg.tga.ckd/f71fe9fd104f6c4354daf865dcbb6a95.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/ggp/Bang2019_Cover_AlbumCoach.tga.ckd/1b0cfbd4d309bec5f8b3dcdf83580fd2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_Coach_1_Phone.png/6060a21c5422d9e0e5deaaa519d37cd4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_Coach_2_Phone.png/3bb6b96396b58fd6165e10b17851a6a4.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_Coach_3_Phone.png/6060a21c5422d9e0e5deaaa519d37cd4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_Cover_Phone.jpg/f2357f81eede2aa4266fa47fd2f71e2c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_VideoPreview.webm/8387320d403eb25a70a5e7a754bf99c1.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/ggp/Bang2019_map_bkg.tga.ckd/5266d0fb4d0e9428474b82d163d332e6.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/nx/Bang2019_banner_bkg.tga.ckd/4a0afe5e2e416b402187aa1f52039769.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/nx/Bang2019_Coach_1.tga.ckd/bb04661c913997b45cc5975f600f8734.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/nx/Bang2019_Coach_2.tga.ckd/f2c9bd3476cfba25f39c3f19c765d8f2.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/nx/Bang2019_Coach_3.tga.ckd/bb04661c913997b45cc5975f600f8734.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/nx/Bang2019_Cover_Generic.tga.ckd/ad8cf63aa0cf68c7746e0189902f8f83.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_Cover_1024.png/044fa2a6ca2df200e37312614304ed2c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/nx/Bang2019_Cover_Online.tga.ckd/ef1d167fd4c67171e25dda826c76a1e9.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/nx/Bang2019_Cover_AlbumBkg.tga.ckd/a49e683e6f9ada9f80371c4f529d702c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/nx/Bang2019_Cover_AlbumCoach.tga.ckd/82083a6e24daffba932a65573a6362ef.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/nx/Bang2019_map_bkg.tga.ckd/f97918d06f73848a38e1ae00fd01ccac.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_Coach_1_Phone.png/6060a21c5422d9e0e5deaaa519d37cd4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_Coach_2_Phone.png/3bb6b96396b58fd6165e10b17851a6a4.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_Coach_3_Phone.png/6060a21c5422d9e0e5deaaa519d37cd4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_Cover_Phone.jpg/f2357f81eede2aa4266fa47fd2f71e2c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_VideoPreview.webm/8387320d403eb25a70a5e7a754bf99c1.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/wiiu/Bang2019_banner_bkg.tga.ckd/71d64027a01a8c05d216a1912d982ffc.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/wiiu/Bang2019_Coach_1.tga.ckd/7e31c43fc8a09662d17fc2dadd907934.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/wiiu/Bang2019_Coach_2.tga.ckd/aaf4e0b680b3c396ca4814faf36cdea8.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/wiiu/Bang2019_Coach_3.tga.ckd/7e31c43fc8a09662d17fc2dadd907934.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/wiiu/Bang2019_Cover_Generic.tga.ckd/1447c356cfbc16950b606f84efef722f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_Cover_1024.png/6fca76d77c3521dba2cc0b948f3f30a0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/wiiu/Bang2019_Cover_Online.tga.ckd/abaa9716728a712bca79ed99fcf88faf.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/wiiu/Bang2019_Cover_AlbumBkg.tga.ckd/7b8ad26e829405bc8219c8fea2b98d1e.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/wiiu/Bang2019_Cover_AlbumCoach.tga.ckd/940f24e61cbf9e148834fe1e34744ec6.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_Coach_1_Phone.png/6060a21c5422d9e0e5deaaa519d37cd4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_Coach_2_Phone.png/3bb6b96396b58fd6165e10b17851a6a4.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_Coach_3_Phone.png/6060a21c5422d9e0e5deaaa519d37cd4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_Cover_Phone.jpg/f2357f81eede2aa4266fa47fd2f71e2c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_VideoPreview.webm/8387320d403eb25a70a5e7a754bf99c1.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21312,42672,63984,85343,106655,128015,149327,170639,191999,213311,234671,255983,277343,298655,320015,341327,362639,383999,405311,426671,447983,469343,490655,512015,533327,554639,575999,597311,618671,639983,661343,682655,704015,725327,746639,767999,789310,810670,831982,853342,874654,896014,917326,938638,959998,981310,1002670,1023982,1045342,1066654,1088014,1109326,1130638,1151998,1173310,1194670,1215982,1237342,1258654,1280014,1301326,1322638,1343998,1365310,1386670,1407982,1429342],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":494,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":67,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/bang2019/bang2019_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "21F0EFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 222.66799999999998,
+  "mapName": "Bang2019",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495599\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bang2019/Bang2019_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1462448\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bang2019/Bang2019_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2889914\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bang2019/Bang2019_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3789853\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bang2019/Bang2019_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "Bang2019_mapContent"
+  },
+  "parentMapName": "Bang2019",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "00006DFF",
+    "songColor_1B": "00032DFF",
+    "songColor_2A": "C64600FF",
+    "songColor_2B": "180500FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Bang Bang Bang",
+  "urls": {
+    "jmcs://jd-contents/Bang2019/Bang2019_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_AudioPreview.ogg/4263912218dd665a9a1c955cca66ab47.ogg",
+    "jmcs://jd-contents/Bang2019/Bang2019_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_MapPreviewNoSoundCrop_HIGH.vp8.webm/06750daaa0bf601f643f267c0b0aea16.webm",
+    "jmcs://jd-contents/Bang2019/Bang2019_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_MapPreviewNoSoundCrop_HIGH.vp9.webm/b323fecd6e300fe1b3b61b7aee8bc31d.webm",
+    "jmcs://jd-contents/Bang2019/Bang2019_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_MapPreviewNoSoundCrop_LOW.vp8.webm/f7bbe05e12574525ea7422fdddbcf7d1.webm",
+    "jmcs://jd-contents/Bang2019/Bang2019_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_MapPreviewNoSoundCrop_LOW.vp9.webm/26dab07d5d5cb5a8e7c4159e0b0b5fb0.webm",
+    "jmcs://jd-contents/Bang2019/Bang2019_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_MapPreviewNoSoundCrop_MID.vp8.webm/1affa22fb13f1612fe1c89d703f6983d.webm",
+    "jmcs://jd-contents/Bang2019/Bang2019_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_MapPreviewNoSoundCrop_MID.vp9.webm/3f48f3f622970c4c019ef6348d673e3b.webm",
+    "jmcs://jd-contents/Bang2019/Bang2019_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_MapPreviewNoSoundCrop_ULTRA.vp8.webm/0ca63092a6545ea77e30f2280e8a4602.webm",
+    "jmcs://jd-contents/Bang2019/Bang2019_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Bang2019/Bang2019_MapPreviewNoSoundCrop_ULTRA.vp9.webm/b6d31768cd7a835905705af6fc56a913.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a049ad6daeb01f467eecb80aad1ba258",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Bang2019/ps4/Bang2019_MAIN_SCENE_ORBIS.zip/a049ad6daeb01f467eecb80aad1ba258.zip",
+      "version": 53
+    },
+    "pc": {
+      "md5": "b6fed39121b7cf76e7ef821fbc82fc82",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Bang2019/pc/Bang2019_MAIN_SCENE_PC.zip/b6fed39121b7cf76e7ef821fbc82fc82.zip",
+      "version": 26
+    },
+    "wiiu": {
+      "md5": "d8bcec2d7e69089ba6d1efa9db4b5066",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Bang2019/wiiu/Bang2019_MAIN_SCENE_WIIU.zip/d8bcec2d7e69089ba6d1efa9db4b5066.zip",
+      "version": 47
+    },
+    "nx": {
+      "md5": "09b5ed7eb6204a958e8078484596a055",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Bang2019/nx/Bang2019_MAIN_SCENE_NX.zip/09b5ed7eb6204a958e8078484596a055.zip",
+      "version": 32
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,114 @@
+{
+  "artist": "The Bangles",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_banner_bkg.jpg/fdfa440dd53f2c3dd3797f6b4a56e2b3.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Coach_1.png/2162113a1fa975fc745116d60863aed3.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Cover_Generic.jpg/8c86c5c1293c20fddb85af79cac291a9.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Cover_1024.png/e0d4a79274c2b4943402ca781aea64e7.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Cover_Online.jpg/2acf6ad8fd4d33842e6f6408ef25e986.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Cover_AlbumBkg.jpg/1e0d17dfd1dcb323db0274d372cda096.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Cover_AlbumCoach.png/dae5d95e7b388c805777d0edbdc10d04.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Coach_1_Phone.png/1e6a5438ec60cccb6d21fec4c292aacc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Cover_Phone.jpg/2acf6ad8fd4d33842e6f6408ef25e986.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_VideoPreview.webm/e2213e8ef0870c1a6a32cda4e1755e1a.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_banner_bkg.jpg/fdfa440dd53f2c3dd3797f6b4a56e2b3.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Coach_1.png/2162113a1fa975fc745116d60863aed3.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Cover_Generic.jpg/8c86c5c1293c20fddb85af79cac291a9.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Cover_1024.png/e0d4a79274c2b4943402ca781aea64e7.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Cover_Online.jpg/2acf6ad8fd4d33842e6f6408ef25e986.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Cover_AlbumBkg.jpg/1e0d17dfd1dcb323db0274d372cda096.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Cover_AlbumCoach.png/dae5d95e7b388c805777d0edbdc10d04.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Coach_1_Phone.png/1e6a5438ec60cccb6d21fec4c292aacc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Cover_Phone.jpg/2acf6ad8fd4d33842e6f6408ef25e986.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_VideoPreview.webm/e2213e8ef0870c1a6a32cda4e1755e1a.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/wiiu/WalkLike_banner_bkg.tga.ckd/46ead5a4b6f7b59d1f54a2ee1230cb9a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/wiiu/WalkLike_Coach_1.tga.ckd/f8d90aee10d053ffcf743da2aeba6f6f.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/wiiu/WalkLike_Cover_Generic.tga.ckd/2edb970e4776777dfff1ef12331f2384.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Cover_1024.png/e0d4a79274c2b4943402ca781aea64e7.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/wiiu/WalkLike_Cover_Online.tga.ckd/28d780459f682c68cefd0b0b95151c60.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/wiiu/WalkLike_Cover_AlbumBkg.tga.ckd/90e464a89e70330579c8e85821c76441.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/wiiu/WalkLike_Cover_AlbumCoach.tga.ckd/579d0745d073ab6386b65d756faa7d91.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Coach_1_Phone.png/1e6a5438ec60cccb6d21fec4c292aacc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_Cover_Phone.jpg/2acf6ad8fd4d33842e6f6408ef25e986.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_VideoPreview.webm/e2213e8ef0870c1a6a32cda4e1755e1a.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27920,55839,83758,111678,139597,167517,195436,223356,251275,279195,307114,335034,362953,390872,418792,446711,474631,502550,530470,558389,586309,614228,642148,670067,697986,725906,753825,781745,809664,837584,865503,893423,921342,949262,977181,1005100,1033020,1060939,1088859,1116778,1144698,1172617,1200537,1228456,1256376,1284295,1312214,1340134,1368053,1395973,1423892],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":335,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":51,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/walklike/walklike_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0EBFE6FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 195.72899999999998,
+  "mapName": "WalkLike",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"498397\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WalkLike/WalkLike_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1282706\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WalkLike/WalkLike_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1290388\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WalkLike/WalkLike_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1290339\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WalkLike/WalkLike_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "WalkLike_mapContent"
+  },
+  "parentMapName": "WalkLike",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "C30091FF",
+    "songColor_1B": "570050FF",
+    "songColor_2A": "ED9D23FF",
+    "songColor_2B": "7B0202FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Walk Like An Egyptian",
+  "urls": {
+    "jmcs://jd-contents/WalkLike/WalkLike_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_AudioPreview.ogg/a411a1ea1854e3a26dcdecf49f3a2dd2.ogg",
+    "jmcs://jd-contents/WalkLike/WalkLike_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_MapPreviewNoSoundCrop_HIGH.vp8.webm/54a70cfae8cefefb8b48cb12682dee2e.webm",
+    "jmcs://jd-contents/WalkLike/WalkLike_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_MapPreviewNoSoundCrop_HIGH.vp9.webm/8bf2f8a3c817bfd55777b232a05edc6e.webm",
+    "jmcs://jd-contents/WalkLike/WalkLike_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_MapPreviewNoSoundCrop_LOW.vp8.webm/fd1116717d8b831b53b3f0f0b7d2e229.webm",
+    "jmcs://jd-contents/WalkLike/WalkLike_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_MapPreviewNoSoundCrop_LOW.vp9.webm/96336a2f6426201d6789b2900665964f.webm",
+    "jmcs://jd-contents/WalkLike/WalkLike_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_MapPreviewNoSoundCrop_MID.vp8.webm/3172aac35b84e0b71df55717a8d98112.webm",
+    "jmcs://jd-contents/WalkLike/WalkLike_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_MapPreviewNoSoundCrop_MID.vp9.webm/1500d007c3f1242bea0e9293ac7896a0.webm",
+    "jmcs://jd-contents/WalkLike/WalkLike_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_MapPreviewNoSoundCrop_ULTRA.vp8.webm/faa08d0c3dc73ed08f985845e6935c7e.webm",
+    "jmcs://jd-contents/WalkLike/WalkLike_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/WalkLike/WalkLike_MapPreviewNoSoundCrop_ULTRA.vp9.webm/4119c18adf770e0e826e48bf69182a63.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "85e47e7055ab6258366a04041ac09b8b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WalkLike/ps4/WalkLike_MAIN_SCENE_ORBIS.zip/85e47e7055ab6258366a04041ac09b8b.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "9d43eadc1326bd4db3ee1001c5d02f23",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WalkLike/pc/WalkLike_MAIN_SCENE_PC.zip/9d43eadc1326bd4db3ee1001c5d02f23.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "f67b46bf157eca945226d321deccc08b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WalkLike/wiiu/WalkLike_MAIN_SCENE_WIIU.zip/f67b46bf157eca945226d321deccc08b.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "42c5e188c37645d23985f6d415cb44a5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WalkLike/nx/WalkLike_MAIN_SCENE_NX.zip/42c5e188c37645d23985f6d415cb44a5.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

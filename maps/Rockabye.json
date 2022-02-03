@@ -1,0 +1,129 @@
+{
+  "artist": "Clean Bandit ft. Sean Paul & Anne-Marie ",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/ps4/Rockabye_banner_bkg.tga.ckd/b8208a8821afcf553dc5656df604dff2.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/ps4/Rockabye_Coach_1.tga.ckd/74b60dc290e6f99b659402164fe28bf6.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/ps4/Rockabye_Coach_2.tga.ckd/6baff43fdb20a84a71d3dde56d95c327.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/ps4/Rockabye_Cover_Generic.tga.ckd/1553b1d45067e3659ddf73fc127f3a24.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_Cover_1024.png/7e529b6670eba367d146b4e730e92994.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/ps4/Rockabye_Cover_Online.tga.ckd/d71ca012f4043035d379f728e90254ef.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/ps4/Rockabye_Cover_AlbumBkg.tga.ckd/6d1e8bf8f0870c2c7c208600058059a5.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/ps4/Rockabye_Cover_AlbumCoach.tga.ckd/c8b3eb592f1bd0720343b1235100b944.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_Coach_1_Phone.png/8b338e11201923ef66989e4a621ef39c.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_Coach_2_Phone.png/54c26d6449f0055083e2dfa8e878c0da.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_Cover_Phone.jpg/344939679abc3edc00d8bfbdca04d184.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_VideoPreview.webm/66d5b5d975087921785d573d8ceb353c.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/ps4/Rockabye_map_bkg.tga.ckd/ff20f4a4ce8d9d920caf4668702f20b5.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/nx/Rockabye_banner_bkg.tga.ckd/344a3573b34f436c104a21b98269c0b5.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/nx/Rockabye_Coach_1.tga.ckd/b6ae36793f8c5af3ae4fd5711b7a0ed0.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/nx/Rockabye_Coach_2.tga.ckd/b98a772b346cea88f21092446d2970e1.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/nx/Rockabye_Cover_Generic.tga.ckd/cb39739455cafd0e31763f2beca6ca5e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_Cover_1024.png/7e529b6670eba367d146b4e730e92994.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/nx/Rockabye_Cover_Online.tga.ckd/7b1c1832b33db1ca60fb714de4aa6d2f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/nx/Rockabye_Cover_AlbumBkg.tga.ckd/9fec4bb98b094bbc005124672b0baa76.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/nx/Rockabye_Cover_AlbumCoach.tga.ckd/4dc7b7a04299f885a2943b50453d2cba.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_Coach_1_Phone.png/8b338e11201923ef66989e4a621ef39c.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_Coach_2_Phone.png/54c26d6449f0055083e2dfa8e878c0da.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_Cover_Phone.jpg/344939679abc3edc00d8bfbdca04d184.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_VideoPreview.webm/66d5b5d975087921785d573d8ceb353c.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/nx/Rockabye_map_bkg.tga.ckd/1b23a9ab78da0cd20665defcf1e810b8.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/wiiu/Rockabye_banner_bkg.tga.ckd/d7a9dc3f2b90dbaf75db76b270f3d6cc.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/wiiu/Rockabye_Coach_1.tga.ckd/79e0843dac1d0bdf888b41e4ee76007b.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/wiiu/Rockabye_Coach_2.tga.ckd/12cb2cad1f8aee66fbb1225a7a773d9f.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/wiiu/Rockabye_Cover_Generic.tga.ckd/7d883c824725fd76fea027b3868e21cf.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_Cover_1024.png/7e529b6670eba367d146b4e730e92994.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/wiiu/Rockabye_Cover_Online.tga.ckd/24392c0baf746027ab44bb09e7372a75.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/wiiu/Rockabye_Cover_AlbumBkg.tga.ckd/93d20ddfea3aaf4fbc80e24f79f9801a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/wiiu/Rockabye_Cover_AlbumCoach.tga.ckd/94ad491c4b2a44b8fdfbb48858413a90.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_Coach_1_Phone.png/8b338e11201923ef66989e4a621ef39c.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_Coach_2_Phone.png/54c26d6449f0055083e2dfa8e878c0da.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_Cover_Phone.jpg/344939679abc3edc00d8bfbdca04d184.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_VideoPreview.webm/66d5b5d975087921785d573d8ceb353c.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28272,56495,84719,112943,141215,169439,197663,225887,254159,282383,310607,338831,367103,395327,423551,451775,479999,508271,536495,564719,592943,621167,649391,677615,705887,734111,762335,790559,818783,847006,875230,903502,931726,959950,988174,1016398,1044622,1072846,1101118,1129342,1157566,1185790,1214014,1242286,1270510,1298734,1326958,1355182,1383406,1411678,1439902],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":364,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":51,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/rockabye/rockabye_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Sean Paul Henriques, Steve Mac, Ammar Malik, Jack Patterson and Ina Wroldsen. Published by Universal PolyGram International Publishing, Inc. on behalf of Universal Music Publishing Ltd. and Rokstone Music. / EMI Music Publishing Ltd. (PRS) / Reservoir 416 / Maru Cha Cha (BMI) / Where Da Kasz At? (BMI). Admin by Kobalt Music Publishing America, Inc. All rights reserved. Used by permission. (P) Line: 2016 Atlantic Records UK. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F3650EFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 215.78199999999998,
+  "mapName": "Rockabye",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497720\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rockabye/Rockabye_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1111\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482073\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rockabye/Rockabye_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2913867\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rockabye/Rockabye_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3276346\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rockabye/Rockabye_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "Rockabye_mapContent"
+  },
+  "parentMapName": "Rockabye",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "576FF9FF",
+    "songColor_1B": "342375FF",
+    "songColor_2A": "FFC300FF",
+    "songColor_2B": "C45E44FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2018"
+  ],
+  "title": "Rockabye",
+  "urls": {
+    "jmcs://jd-contents/Rockabye/Rockabye_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_AudioPreview.ogg/9fe9070376675f8caad4871b3df7b2e2.ogg",
+    "jmcs://jd-contents/Rockabye/Rockabye_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_MapPreviewNoSoundCrop_HIGH.vp8.webm/bf6fe186af0e402d4f1cabb9328e9b74.webm",
+    "jmcs://jd-contents/Rockabye/Rockabye_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_MapPreviewNoSoundCrop_HIGH.vp9.webm/b5037d6f42bba4fcd34cf7bd8ef49d6f.webm",
+    "jmcs://jd-contents/Rockabye/Rockabye_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_MapPreviewNoSoundCrop_LOW.vp8.webm/828498d09ffceaa48c59347dbf6ead61.webm",
+    "jmcs://jd-contents/Rockabye/Rockabye_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_MapPreviewNoSoundCrop_LOW.vp9.webm/138ae884a472cb079cb626a1395f89a3.webm",
+    "jmcs://jd-contents/Rockabye/Rockabye_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_MapPreviewNoSoundCrop_MID.vp8.webm/e60b2e32b54efc3401e6cd9924887b05.webm",
+    "jmcs://jd-contents/Rockabye/Rockabye_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_MapPreviewNoSoundCrop_MID.vp9.webm/55677e45d9c720b8609b2ae5891b486d.webm",
+    "jmcs://jd-contents/Rockabye/Rockabye_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_MapPreviewNoSoundCrop_ULTRA.vp8.webm/459e5f37a4e60de53eebf4f590402d84.webm",
+    "jmcs://jd-contents/Rockabye/Rockabye_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Rockabye/Rockabye_MapPreviewNoSoundCrop_ULTRA.vp9.webm/2714a9da1f78ef842c2dc4cde22126b5.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "c45dc36d5a5cd7e6917940dca0b7eeaa",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Rockabye/ps4/Rockabye_MAIN_SCENE_ORBIS.zip/c45dc36d5a5cd7e6917940dca0b7eeaa.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "457abeb85b11463328c2cfa1f1263eea",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Rockabye/nx/Rockabye_MAIN_SCENE_NX.zip/457abeb85b11463328c2cfa1f1263eea.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "d35f5aeb3b1fae030981c50bce60b91a",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Rockabye/pc/d35f5aeb3b1fae030981c50bce60b91a.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "35ccde537145b0632498f5175c82b5cc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Rockabye/wiiu/Rockabye_MAIN_SCENE_WIIU.zip/35ccde537145b0632498f5175c82b5cc.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

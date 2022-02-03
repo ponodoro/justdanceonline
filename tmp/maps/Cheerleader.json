@@ -1,0 +1,132 @@
+{
+  "artist": "OMI",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_banner_bkg.jpg/c4a304000f4724b50c7e9ff62ff16c31.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_1.png/c660d1322c030d02d1275a93b5efad8e.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_2.png/a98fbddffdad8119c9aa344f0a4eff17.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_3.png/9ea2628293e5d3506416cb7ae86958f8.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_4.png/8e5a7c552fb0f2cc77686bcb8e681840.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Cover_Generic.jpg/d92d0439b6ba40865e3b5f85e4875f4d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Cover_1024.png/c73f518be3be877e8df9d4edb0a4fa64.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Cover_Online.jpg/309d88a0807e85a86304cf7f5e2a66c9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Cover_AlbumBkg.jpg/9aa5391cf184abee6a075e6c1356d248.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Cover_AlbumCoach.png/3c1e3b53f4f066d401cc32511d98b5c2.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_1_Phone.png/72047144f9875d325f6a91881a5503da.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_2_Phone.png/13e50df5048619c6df361842418004d6.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_3_Phone.png/cda5271c03205fbc136b78d74f4daea4.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_4_Phone.png/4c7fb235e40252c9d60461f05969f3de.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Cover_Phone.jpg/309d88a0807e85a86304cf7f5e2a66c9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_VideoPreview.webm/cd877f6b38326319e21ca11ba95d7758.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_banner_bkg.jpg/c4a304000f4724b50c7e9ff62ff16c31.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_1.png/c660d1322c030d02d1275a93b5efad8e.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_2.png/a98fbddffdad8119c9aa344f0a4eff17.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_3.png/9ea2628293e5d3506416cb7ae86958f8.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_4.png/8e5a7c552fb0f2cc77686bcb8e681840.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Cover_Generic.jpg/d92d0439b6ba40865e3b5f85e4875f4d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Cover_1024.png/c73f518be3be877e8df9d4edb0a4fa64.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Cover_Online.jpg/309d88a0807e85a86304cf7f5e2a66c9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Cover_AlbumBkg.jpg/9aa5391cf184abee6a075e6c1356d248.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Cover_AlbumCoach.png/3c1e3b53f4f066d401cc32511d98b5c2.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_1_Phone.png/72047144f9875d325f6a91881a5503da.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_2_Phone.png/13e50df5048619c6df361842418004d6.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_3_Phone.png/cda5271c03205fbc136b78d74f4daea4.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_4_Phone.png/4c7fb235e40252c9d60461f05969f3de.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Cover_Phone.jpg/309d88a0807e85a86304cf7f5e2a66c9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_VideoPreview.webm/cd877f6b38326319e21ca11ba95d7758.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/wiiu/Cheerleader_banner_bkg.tga.ckd/f68af20d342ec2c6d240f18239c2599e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/wiiu/Cheerleader_Coach_1.tga.ckd/2be087d0687f48625717b0fd3d39ca83.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/wiiu/Cheerleader_Coach_2.tga.ckd/ae1d19a7bd13c50379964ef8a7c4c2d3.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/wiiu/Cheerleader_Coach_3.tga.ckd/1e63352ea0d1226ed66312feaa64fb0b.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/wiiu/Cheerleader_Coach_4.tga.ckd/56a6403b4c61c5ba80fe70cd724209e7.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/wiiu/Cheerleader_Cover_Generic.tga.ckd/11fa4fca280851dc1f3b167bac3df54f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Cover_1024.png/c73f518be3be877e8df9d4edb0a4fa64.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/wiiu/Cheerleader_Cover_Online.tga.ckd/8a0926ba51d42b3fb05dfa61d3bd5290.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/wiiu/Cheerleader_Cover_AlbumBkg.tga.ckd/09387fecb904032f2458710215438ab9.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/wiiu/Cheerleader_Cover_AlbumCoach.tga.ckd/55b8d6ba8690223044dbfa2cba37e0d3.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_1_Phone.png/72047144f9875d325f6a91881a5503da.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_2_Phone.png/13e50df5048619c6df361842418004d6.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_3_Phone.png/cda5271c03205fbc136b78d74f4daea4.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Coach_4_Phone.png/4c7fb235e40252c9d60461f05969f3de.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_Cover_Phone.jpg/309d88a0807e85a86304cf7f5e2a66c9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_VideoPreview.webm/cd877f6b38326319e21ca11ba95d7758.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24432,48816,73248,97632,122064,146448,170880,195263,219695,244079,268511,292895,317327,341711,366143,390527,414959,439343,463727,488159,512543,536975,561358,585790,610174,634606,658990,683422,707806,732238,756622,781054,805438,829870,854254,878686,903070,927453,951885,976269,1000701,1025085,1049517,1073901,1098333,1122717,1147149,1171533,1195965,1220349,1244781,1269165,1293596,1317980,1342412,1366796,1391180,1415612,1439996],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":359,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/cheerleader/cheerleader_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "01D9FEFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 185.083,
+  "mapName": "Cheerleader",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495989\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1479532\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2936095\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5565220\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1132\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "Cheerleader_mapContent"
+  },
+  "parentMapName": "Cheerleader",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "0083CDFF",
+    "songColor_1B": "003B62FF",
+    "songColor_2A": "FF6AE1FF",
+    "songColor_2B": "DC0005FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Cheerleader (Felix Jaehn Remix)",
+  "urls": {
+    "jmcs://jd-contents/Cheerleader/Cheerleader_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_AudioPreview.ogg/af6393dfb4bec6a2313d2f69353175bb.ogg",
+    "jmcs://jd-contents/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_HIGH.vp8.webm/0a43d6c76cf1701a109e29832d913e8a.webm",
+    "jmcs://jd-contents/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_HIGH.vp9.webm/f85b880d5d0afb90f3261096d5f72d6a.webm",
+    "jmcs://jd-contents/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_LOW.vp8.webm/194c0570c3006ff0f87af469e5c391ae.webm",
+    "jmcs://jd-contents/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_LOW.vp9.webm/8a46b3480d30e68d0b291d2129ef39e5.webm",
+    "jmcs://jd-contents/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_MID.vp8.webm/91712da98bbe81db56979e071eb64fdb.webm",
+    "jmcs://jd-contents/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_MID.vp9.webm/8d131d1107a4a772b3ec7a057f6a62d6.webm",
+    "jmcs://jd-contents/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_ULTRA.vp8.webm/50d3fd07fbb25e3dc870bef974b3281f.webm",
+    "jmcs://jd-contents/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Cheerleader/Cheerleader_MapPreviewNoSoundCrop_ULTRA.vp9.webm/278c0e3af360abaf50421b63ae69d248.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "10be3d8588477a3500a52797250b75a2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Cheerleader/ps4/Cheerleader_MAIN_SCENE_ORBIS.zip/10be3d8588477a3500a52797250b75a2.zip",
+      "version": 17
+    },
+    "pc": {
+      "md5": "aeb5ad9a0571c2bd5137b1c87726dcf2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Cheerleader/pc/Cheerleader_MAIN_SCENE_PC.zip/aeb5ad9a0571c2bd5137b1c87726dcf2.zip",
+      "version": 12
+    },
+    "wiiu": {
+      "md5": "72cbb986e721db221d19bebc86de38e1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Cheerleader/wiiu/Cheerleader_MAIN_SCENE_WIIU.zip/72cbb986e721db221d19bebc86de38e1.zip",
+      "version": 19
+    },
+    "nx": {
+      "md5": "e562194f4010251d2401a09d9385cc24",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Cheerleader/nx/Cheerleader_MAIN_SCENE_NX.zip/e562194f4010251d2401a09d9385cc24.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

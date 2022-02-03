@@ -1,0 +1,103 @@
+{
+  "artist": "Billie Eilish",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/ps4/BadGuyALT_banner_bkg.tga.ckd/14bd261dc5ff04fe07dbf43bd5120bb6.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/ps4/BadGuyALT_Coach_1.tga.ckd/91a49404cf91af20a6a29a62cd7fe687.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/ps4/BadGuyALT_Cover_Generic.tga.ckd/29f7a61fcd65c2e5c98c6c4094a80e9e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/BadGuyALT_Cover_1024.png/4cd8509626810a7b24897be2c4a0b1cf.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/ps4/BadGuyALT_Cover_Online.tga.ckd/9e8a19581dae59b7a86f4b8e5d6fe8ae.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/ps4/BadGuyALT_Cover_AlbumBkg.tga.ckd/c53d5cc9590d6c7881f41ba10cd3dd92.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/ps4/BadGuyALT_Cover_AlbumCoach.tga.ckd/5a8905583477ce44d71cc2641db7b251.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/BadGuyALT_Coach_1_Phone.png/67832e61c02dd2dd4bbd8110a795636f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/BadGuyALT_Cover_Phone.jpg/d0a543f63e831dc8fad44364107065ec.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BadGuyALT/BadGuyALT_VideoPreview.webm/dff78645cc44caa8e6c2bf251bc5dad3.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/ps4/BadGuyALT_map_bkg.tga.ckd/b99339d7a6889dd0bbb1730374d9680f.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/nx/BadGuyALT_banner_bkg.tga.ckd/65090e24d2768b5e8d8ff3907d668fe3.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/nx/BadGuyALT_Coach_1.tga.ckd/17dd87f46b1664b6aca0ec64cc1bae93.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/nx/BadGuyALT_Cover_Generic.tga.ckd/645e71dc6f070bb824d66a120e2c86bd.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/BadGuyALT_Cover_1024.png/4cd8509626810a7b24897be2c4a0b1cf.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/nx/BadGuyALT_Cover_Online.tga.ckd/3acd0687451f0bfb3e28d5a2cef92f4a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/nx/BadGuyALT_Cover_AlbumBkg.tga.ckd/728e334141660477b9e9d98b8e735969.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/nx/BadGuyALT_Cover_AlbumCoach.tga.ckd/3ba736b0f4343e3b4ccb71339ecd8066.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/BadGuyALT_Coach_1_Phone.png/67832e61c02dd2dd4bbd8110a795636f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/BadGuyALT_Cover_Phone.jpg/d0a543f63e831dc8fad44364107065ec.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BadGuyALT/BadGuyALT_VideoPreview.webm/dff78645cc44caa8e6c2bf251bc5dad3.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuyALT/nx/BadGuyALT_map_bkg.tga.ckd/fce2b973753db9aed69d1bd2e0718cae.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21334,42667,64000,85334,106667,128000,149334,170667,192000,213334,234667,256000,277334,298667,320000,341334,362667,384000,405334,426667,448000,469334,490667,512000,533334,554667,576000,597334,618667,640000,661334,682667,704000,725334,746667,768000,789334,810667,832000,853334,874667,896000,917334,938667,960000,981334,1002667,1024000,1045334,1066667,1088000,1109334,1130667,1152000,1173334,1194667,1216000,1237334,1258667,1280000,1301334,1322667,1344000,1365334,1386667,1408000,1429334],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":423,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":67,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/badguyalt/badguyalt_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Billie Eilish O’Connell and Finneas O’Connell. Published by Universal Music Publishing Canada on behalf of Universal Music Corp. / Kobalt Songs Music Publishing obo Last Frontier. Courtesy of Interscope Records under license from Universal Music Enterprises. All rights of the producer and other rightsholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 4,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "02FD6CFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 194.834,
+  "mapName": "BadGuyALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495484\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"613-1102\">\r\n\t\t\t\t\t<Initialization range=\"0-613\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1465213\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\r\n\t\t\t\t\t<Initialization range=\"0-614\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2793835\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\r\n\t\t\t\t\t<Initialization range=\"0-614\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3412790\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\r\n\t\t\t\t\t<Initialization range=\"0-614\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "BadGuyALT_mapContent"
+  },
+  "parentMapName": "BadGuy",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "000699FF",
+    "songColor_1B": "20F4D0FF",
+    "songColor_2A": "FFEC1FFF",
+    "songColor_2B": "A17506FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Alternate",
+    "subscribedSong"
+  ],
+  "title": "bad guy",
+  "urls": {
+    "jmcs://jd-contents/BadGuyALT/BadGuyALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BadGuyALT/BadGuyALT_AudioPreview.ogg/cbee85dd683a014d3841b817b59b49a6.ogg",
+    "jmcs://jd-contents/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/4dd3f11e0938be86ba0093ff04eb6880.webm",
+    "jmcs://jd-contents/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/1f0c147f9b0778b6d347e56717dfeb6a.webm",
+    "jmcs://jd-contents/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_LOW.vp8.webm/dfa089252f028ceedf03c490a80459a0.webm",
+    "jmcs://jd-contents/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_LOW.vp9.webm/dbbaa56b4f183880dafdd4800d6f2971.webm",
+    "jmcs://jd-contents/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_MID.vp8.webm/b16774aad9463b33b91b30a7d624e68a.webm",
+    "jmcs://jd-contents/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_MID.vp9.webm/7afb20003d1dcdf450ff5836570cad53.webm",
+    "jmcs://jd-contents/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/0fd6928ed83d6629a4766bc4731bf28c.webm",
+    "jmcs://jd-contents/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BadGuyALT/BadGuyALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/dac26f76feb2df2175c80c9a2a28a248.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "ddc6c4e5d13ee67455b624889809047f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BadGuyALT/ps4/BadGuyALT_MAIN_SCENE_ORBIS.zip/ddc6c4e5d13ee67455b624889809047f.zip",
+      "version": 23
+    },
+    "nx": {
+      "md5": "e38ac84f58f0ea48a50badf6ee21327d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BadGuyALT/nx/BadGuyALT_MAIN_SCENE_NX.zip/e38ac84f58f0ea48a50badf6ee21327d.zip",
+      "version": 23
+    },
+    "pc": {
+      "md5": "0ad580c22ec270647abf531c60f19506",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BadGuyALT/pc/BadGuyALT_MAIN_SCENE_PC.zip/0ad580c22ec270647abf531c60f19506.zip",
+      "version": 14
+    },
+    "wiiu": {
+      "md5": "dc5200b2ea7b74bcf687c4db2ea1efbb",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BadGuyALT/wiiu/BadGuyALT_MAIN_SCENE_WIIU.zip/dc5200b2ea7b74bcf687c4db2ea1efbb.zip",
+      "version": 13
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 20002121
+}

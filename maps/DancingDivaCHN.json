@@ -1,0 +1,95 @@
+{
+  "artist": "Cai Yi Lin (Jolin Tsai)",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_VideoPreview.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/DancingDivaCHN_VideoPreview.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23184,46416,69648,92832,116064,139296,162528,185760,208992,232224,255456,278640,301872,325104,348336,371568,394800,418032,441264,464448,487680,510912,534144,557376,580608,603840,627072,650256,673488,696720,719952,743184,766416,789648,812832,836064,859296,882528,905760,928992,952224,975456,998640,1021872,1045104,1068336,1091568,1114800,1138032,1161264,1184448,1207680,1230912,1254144,1277376,1300608,1323840,1347072,1370256,1393488,1416720,1439952,1463184,1486416,1509648],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":394,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "01FFFFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 100,
+  "mapName": "DancingDivaCHN",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497759\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484234\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2956729\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5790405\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4514,
+  "packages": {
+    "mapContent": "DancingDivaCHN_mapContent"
+  },
+  "parentMapName": "DancingDivaCHN",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "1184E1FF",
+    "songColor_1B": "101572FF",
+    "songColor_2A": "781A7DFF",
+    "songColor_2B": "733896FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main"
+  ],
+  "title": "Wu Niang (Dancing Diva)",
+  "urls": {
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/DancingDivaCHN_AudioPreview.ogg",
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/nx/DancingDivaCHN_VideoPreview.webm",
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/nx/DancingDivaCHN_VideoPreview.webm",
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/nx/DancingDivaCHN_VideoPreview.webm",
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/nx/DancingDivaCHN_VideoPreview.webm",
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/nx/DancingDivaCHN_VideoPreview.webm",
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/nx/DancingDivaCHN_VideoPreview.webm",
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/nx/DancingDivaCHN_VideoPreview.webm",
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/nx/DancingDivaCHN_VideoPreview.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "e3fcc4101f10b73cbd80ded69e6fd116",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/pc/e3fcc4101f10b73cbd80ded69e6fd116.zip",
+      "version": 2
+    },
+    "orbis": {
+      "md5": "59be20c870aa76678cd91798e7db5598",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/ps4/59be20c870aa76678cd91798e7db5598.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "51da48d9dad79382ccdc3ba435104556",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/DancingDivaCHN/nx/51da48d9dad79382ccdc3ba435104556.zip",
+      "version": 5
+    }
+  },
+  "mapType": "custom"
+}

@@ -1,0 +1,118 @@
+{
+  "artist": "Bog Bog Orkestar",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_banner_bkg.jpg/972e49a52b482f402ffca799d01981d6.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Coach_1.png/769e1e87e6bf19e1a8a6d566f2e60fa1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Cover_Generic.jpg/e19c0038398e00b16bf2f1cce47b40ab.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Cover_1024.png/af202ad5f7390c65643dbec418b7ed3a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Cover_Online.jpg/bec54d272133637e2eae7369bcceb5ea.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Cover_AlbumBkg.jpg/29a7b16e11c67cf89ecbde80297490cb.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Cover_AlbumCoach.png/8256ab3428b8a18675ec6b3ed1c91585.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Coach_1_Phone.png/18e7f6b3b86994132b7ada4091b7ce19.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Cover_Phone.jpg/bec54d272133637e2eae7369bcceb5ea.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_banner_bkg.jpg/972e49a52b482f402ffca799d01981d6.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Coach_1.png/769e1e87e6bf19e1a8a6d566f2e60fa1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Cover_Generic.jpg/e19c0038398e00b16bf2f1cce47b40ab.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Cover_1024.png/af202ad5f7390c65643dbec418b7ed3a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Cover_Online.jpg/bec54d272133637e2eae7369bcceb5ea.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Cover_AlbumBkg.jpg/29a7b16e11c67cf89ecbde80297490cb.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Cover_AlbumCoach.png/8256ab3428b8a18675ec6b3ed1c91585.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Coach_1_Phone.png/18e7f6b3b86994132b7ada4091b7ce19.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Cover_Phone.jpg/bec54d272133637e2eae7369bcceb5ea.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/wiiu/Zagreb_banner_bkg.tga.ckd/4ed71eb3b72da4e4129be47dfe37b7ef.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/wiiu/Zagreb_Coach_1.tga.ckd/3b75e49c67f94b709f2bcad30c53e050.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/wiiu/Zagreb_Cover_Generic.tga.ckd/1be845a5671454ca0d27bf6f05b50d90.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Cover_1024.png/af202ad5f7390c65643dbec418b7ed3a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/wiiu/Zagreb_Cover_Online.tga.ckd/f7654da31c4d61c80524f23f6d3db438.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/wiiu/Zagreb_Cover_AlbumBkg.tga.ckd/6f794b4e1a1581c6eba1f6d014c61016.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/wiiu/Zagreb_Cover_AlbumCoach.tga.ckd/e25cd37bf25d98ca2689c0fd5068714e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Coach_1_Phone.png/18e7f6b3b86994132b7ada4091b7ce19.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_Cover_Phone.jpg/bec54d272133637e2eae7369bcceb5ea.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,14400,28848,43296,57743,72191,86639,101087,115535,129983,144431,158879,173327,187775,202223,216671,231071,245519,259967,274415,288863,303311,317759,332207,346655,361103,375551,389999,404447,418895,433295,447743,462191,476639,491087,505535,519983,534431,548879,563327,577775,592223,606671,621119,635567,649967,664415,678863,693311,707759,722207,736655,751103,765551,779999,794447,808895,823343,837791,852238,866638,881086,895534,909982,924430,938878,953326,967774,982222,996670,1011118,1025566,1040014,1054462,1068910,1083310,1097758,1112206,1126654,1141102,1155550,1169998,1184446,1198894,1213342,1227790,1242238,1256686,1271134,1285582,1299982,1314430,1328878,1343326,1357774,1372222,1386670,1401118,1415566,1430014],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":496,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":99,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/zagreb/zagreb_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Composed and produced by Steve Ouimette. Lyrics: Mislav Brecic. Vocals: Geoff Tyson, 4 Jacks and a Jill. Percussion, accordion: Cat Gray. Guitars: Steve Ouimette. Trumpet: James Davis. Saxophone: Doug Rosenberg, alto. Trombone: Andrew Zelm. Tuba: ''Tuba'' Joe Exley. Additional engineering: Anthony Gravino, Cat Gray, Geoff Tyson. Mix by Rob Beaton. Music Supervision: Manu Bachet, Alkis Argyriadis. Special thanks to Nino Sapina. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFCC00FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 149.307,
+  "mapName": "Zagreb",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496203\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Zagreb/Zagreb_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1117\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1019296\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Zagreb/Zagreb_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1021172\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Zagreb/Zagreb_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1021845\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Zagreb/Zagreb_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "Zagreb_mapContent"
+  },
+  "parentMapName": "Zagreb",
+  "skuIds": [
+    "jd2016-ps4-scea",
+    "jd2016-ps4-scee",
+    "jd2016-wiiu-noa",
+    "jd2016-wiiu-noe",
+    "jd2016-xone-emea",
+    "jd2016-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "7D62AFFF",
+    "songColor_1B": "021228FF",
+    "songColor_2A": "FCC067FF",
+    "songColor_2B": "8E1338FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Extreme",
+    "Main",
+    "Uplay2016",
+    "subscribedSong"
+  ],
+  "title": "Isidora",
+  "urls": {
+    "jmcs://jd-contents/Zagreb/Zagreb_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_AudioPreview.ogg/addaed5fd96c5c6aea395d912ea61d00.ogg",
+    "jmcs://jd-contents/Zagreb/Zagreb_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_MapPreviewNoSoundCrop_HIGH.vp8.webm/9ed59645dd3efbbc8f8d9d30802ebcc4.webm",
+    "jmcs://jd-contents/Zagreb/Zagreb_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_MapPreviewNoSoundCrop_HIGH.vp9.webm/c9c35a7e7ed886e1b19dfb8b5e974577.webm",
+    "jmcs://jd-contents/Zagreb/Zagreb_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_MapPreviewNoSoundCrop_LOW.vp8.webm/f8b84a01b4868cfecfd464801db77cef.webm",
+    "jmcs://jd-contents/Zagreb/Zagreb_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_MapPreviewNoSoundCrop_LOW.vp9.webm/ee5bf3f2689d7015ffe49667bd553d30.webm",
+    "jmcs://jd-contents/Zagreb/Zagreb_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_MapPreviewNoSoundCrop_MID.vp8.webm/4c397f871b7f197af93a92605964a8a5.webm",
+    "jmcs://jd-contents/Zagreb/Zagreb_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_MapPreviewNoSoundCrop_MID.vp9.webm/ebd4848db8b3d775a8e4507aa26ad746.webm",
+    "jmcs://jd-contents/Zagreb/Zagreb_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_MapPreviewNoSoundCrop_ULTRA.vp8.webm/0f507b17f80f936f131072fab3c634a0.webm",
+    "jmcs://jd-contents/Zagreb/Zagreb_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Zagreb/Zagreb_MapPreviewNoSoundCrop_ULTRA.vp9.webm/09c58a911bd82481e1dc31302000f481.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "b5a0ddff143300da55f7eed15c45e7bd",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Zagreb/ps4/Zagreb_MAIN_SCENE_ORBIS.zip/b5a0ddff143300da55f7eed15c45e7bd.zip",
+      "version": 19
+    },
+    "nx": {
+      "md5": "8c6b5eed3190066f6495f497976975d2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Zagreb/nx/Zagreb_MAIN_SCENE_NX.zip/8c6b5eed3190066f6495f497976975d2.zip",
+      "version": 12
+    },
+    "pc": {
+      "md5": "49616869f8beeb41ade2df21731fd87d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Zagreb/pc/Zagreb_MAIN_SCENE_PC.zip/49616869f8beeb41ade2df21731fd87d.zip",
+      "version": 10
+    },
+    "wiiu": {
+      "md5": "22237b2958d8e150639f7c89fdbcdee9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Zagreb/wiiu/Zagreb_MAIN_SCENE_WIIU.zip/22237b2958d8e150639f7c89fdbcdee9.zip",
+      "version": 19
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,108 @@
+{
+  "artist": "Pinkfong",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/ps4/BabyShark_banner_bkg.tga.ckd/27245fb8674cf28b615825197ca3cc45.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/ps4/BabyShark_Coach_1.tga.ckd/57bd24205d2b2476386a2fc5055a628b.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/ps4/BabyShark_Coach_2.tga.ckd/c15eb76a9d4bc8f56e43ca6fe39e3ddc.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/ps4/BabyShark_Cover_Generic.tga.ckd/6c6b35b3ef8111889e1b4c801219bff1.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/BabyShark_Cover_1024.png/e72c82395c914e8c761072d84ab58d8a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/ps4/BabyShark_Cover_Online.tga.ckd/7b21d84475367c4b89797bc83df13df1.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/ps4/BabyShark_Cover_AlbumBkg.tga.ckd/72dbeb7ade2cddd0a833f38541b672ce.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/ps4/BabyShark_Cover_AlbumCoach.tga.ckd/a938d988b15e22c81d10343181afa63c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/BabyShark_Coach_1_Phone.png/018dc38d11a2aad548e175bc4b90e8f9.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/BabyShark_Coach_2_Phone.png/81db453fd3611dd0f5df34a322ddb090.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/BabyShark_Cover_Phone.jpg/e53b5c8e82d856d7f9311a2399835163.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/ps4/BabyShark_map_bkg.tga.ckd/2cc4557df4919604415cd5e3534b354d.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/nx/BabyShark_banner_bkg.tga.ckd/30d65497ce247302c4976edc067df511.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/nx/BabyShark_Coach_1.tga.ckd/4e7bec6825ce82d2e2df46576b4924e7.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/nx/BabyShark_Coach_2.tga.ckd/7d74be290ab4dee95a0ece7b82d38750.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/nx/BabyShark_Cover_Generic.tga.ckd/b677bfafcc71dd61c8765aff61e5a057.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/BabyShark_Cover_1024.png/e72c82395c914e8c761072d84ab58d8a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/nx/BabyShark_Cover_Online.tga.ckd/1883a9c30385ecc58c1131ea251f5664.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/nx/BabyShark_Cover_AlbumBkg.tga.ckd/5616274214736056e1621cb1024e534e.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/nx/BabyShark_Cover_AlbumCoach.tga.ckd/1d7b93fd734928fc6ea4e0025421827c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/BabyShark_Coach_1_Phone.png/018dc38d11a2aad548e175bc4b90e8f9.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/BabyShark_Coach_2_Phone.png/81db453fd3611dd0f5df34a322ddb090.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/BabyShark_Cover_Phone.jpg/e53b5c8e82d856d7f9311a2399835163.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyShark/nx/BabyShark_map_bkg.tga.ckd/176e2d4e478ede7f42e8f8960d039fde.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25044,50087,75130,100174,125217,150261,175304,200348,225391,250435,275478,300522,325565,350609,375652,400696,425739,450783,475826,500870,525913,550957,576000,601044,626087,651130,676174,701217,726261,751304,776348,801391,826435,851478,876522,901565,926609,951652,976696,1001739,1026783,1051826,1076870,1101913,1126957,1152000,1177044,1202087,1227130,1252174,1277217,1302261,1327304,1352348,1377391,1402435,1427478],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-1,\"endBeat\":174,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/babyshark/babyshark_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Kim Min Seok. Published by Smartstudy Music (BMI). Courtesy of Smartstudy Music. ",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "D105FFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 90.63499999999999,
+  "mapName": "BabyShark",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497590\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BabyShark/BabyShark_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"596-1085\">\r\n\t\t\t\t\t<Initialization range=\"0-596\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1471169\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BabyShark/BabyShark_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1814557\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BabyShark/BabyShark_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1813547\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BabyShark/BabyShark_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "BabyShark_mapContent"
+  },
+  "parentMapName": "BabyShark",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "7700FFFF",
+    "songColor_1B": "10004BFF",
+    "songColor_2A": "03AAF6FF",
+    "songColor_2B": "2E00B8FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Baby Shark",
+  "urls": {
+    "jmcs://jd-contents/BabyShark/BabyShark_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BabyShark/BabyShark_AudioPreview.ogg/0f662c405800d36e52e1bfe6c8789ae2.ogg",
+    "jmcs://jd-contents/BabyShark/BabyShark_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BabyShark/BabyShark_MapPreviewNoSoundCrop_HIGH.vp8.webm/84d5c4c428ed8ee08d5b3262ab6cea7a.webm",
+    "jmcs://jd-contents/BabyShark/BabyShark_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BabyShark/BabyShark_MapPreviewNoSoundCrop_HIGH.vp9.webm/3688bdb53bd809065fe2a003dda62cf4.webm",
+    "jmcs://jd-contents/BabyShark/BabyShark_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BabyShark/BabyShark_MapPreviewNoSoundCrop_LOW.vp8.webm/7ce3065b4b6e7876cb3ad54f8e38c2e1.webm",
+    "jmcs://jd-contents/BabyShark/BabyShark_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BabyShark/BabyShark_MapPreviewNoSoundCrop_LOW.vp9.webm/51f68be009490f66b80b2ce8b4fefb10.webm",
+    "jmcs://jd-contents/BabyShark/BabyShark_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BabyShark/BabyShark_MapPreviewNoSoundCrop_MID.vp8.webm/7ceacf0f9dcfad4b13f34a24ab60bb37.webm",
+    "jmcs://jd-contents/BabyShark/BabyShark_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BabyShark/BabyShark_MapPreviewNoSoundCrop_MID.vp9.webm/33cc5218f767dc4d0b57150baee87865.webm",
+    "jmcs://jd-contents/BabyShark/BabyShark_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BabyShark/BabyShark_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b42c7bef6902cc0647de35b0ac11bd6a.webm",
+    "jmcs://jd-contents/BabyShark/BabyShark_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BabyShark/BabyShark_MapPreviewNoSoundCrop_ULTRA.vp9.webm/14cb81ed73ad85e14ad2f87a699ee239.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "91375d82c3b5f02629fec02efa5e2102",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BabyShark/ps4/BabyShark_MAIN_SCENE_ORBIS.zip/91375d82c3b5f02629fec02efa5e2102.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "25ef5768800b4d9f96a675bc4709a0e4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BabyShark/nx/BabyShark_MAIN_SCENE_NX.zip/25ef5768800b4d9f96a675bc4709a0e4.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "072f9f2877c9e8e7a32c949a1bcc2deb",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/BabyShark/pc/072f9f2877c9e8e7a32c949a1bcc2deb.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

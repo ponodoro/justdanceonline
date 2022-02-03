@@ -1,0 +1,90 @@
+{
+  "artist": "Harry Styles",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AdoreYou/AdoreYou_banner_bkg.jpg/67f5a2862f6672f87c9197f394c548e9.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AdoreYou/AdoreYou_Coach_1.png/e101a6e696bb2c21e7e44d569280352c.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AdoreYou/AdoreYou_Cover_Generic.jpg/f3591d299acb3edecd1a84d873001d72.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AdoreYou/AdoreYou_Cover_Online.jpg/77ed3d788151996c0056494e794f3521.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AdoreYou/AdoreYou_Cover_AlbumBkg.jpg/10b99f2aa1c4d04a1a3d5a1b4a2ec858.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AdoreYou/AdoreYou_Cover_AlbumCoach.png/80c0fa4cd3e62f94d9bb1120c561bcf3.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AdoreYou/AdoreYou_Coach_1_Phone.png/131e255581356b22b80d78f23727bbc2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AdoreYou/AdoreYou_Cover_Phone.jpg/77ed3d788151996c0056494e794f3521.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AdoreYou/AdoreYou_banner_bkg.jpg/67f5a2862f6672f87c9197f394c548e9.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AdoreYou/AdoreYou_Coach_1.png/e101a6e696bb2c21e7e44d569280352c.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AdoreYou/AdoreYou_Cover_Generic.jpg/f3591d299acb3edecd1a84d873001d72.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AdoreYou/AdoreYou_Cover_Online.jpg/77ed3d788151996c0056494e794f3521.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AdoreYou/AdoreYou_Cover_AlbumBkg.jpg/10b99f2aa1c4d04a1a3d5a1b4a2ec858.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AdoreYou/AdoreYou_Cover_AlbumCoach.png/80c0fa4cd3e62f94d9bb1120c561bcf3.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AdoreYou/AdoreYou_Coach_1_Phone.png/131e255581356b22b80d78f23727bbc2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AdoreYou/AdoreYou_Cover_Phone.jpg/77ed3d788151996c0056494e794f3521.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,29091,58182,87272,116363,145454,174545,203636,232727,261818,290909,320000,349091,378182,407272,436363,465454,494545,523636,552727,581818,610909,640000,669091,698182,727272,756363,785454,814545,843636,872727,901818,930909,960000,989091,1018182,1047272,1076363,1105454,1134545,1163636,1192727,1221818,1250909,1280000,1309091,1338182,1367272,1396363,1425454],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":344,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":49,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/adoreyou/adoreyou_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Harry Edward Styles, Thomas Edward Percy Hull, Amy Allen and Tyler Sam Johnson. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing Ltd. and HSA Publishing Ltd. / LiveMadLove (ASCAP) / Artist Publishing Group West (ASCAP). Administered by Kobalt Music Publishing America, Inc. / One Year Yesterday Publishing / Pulse. Administered by Concord. Courtesy of Columbia Records. By arrangement with Sony Music Entertainment.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "8A0BCDFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 210.303,
+  "mapName": "AdoreYou",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"493977\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"642-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-642\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1444752\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2684917\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2810176\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "AdoreYou_mapContent"
+  },
+  "parentMapName": "AdoreYou",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "155187FF",
+    "songColor_1B": "B33AACFF",
+    "songColor_2A": "D3E1EBFF",
+    "songColor_2B": "71B1D3FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Adore You",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "59f0f226fd5e8635dcdb4655cfbe33fc",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/ps4/AdoreYou_MAIN_SCENE_ORBIS.zip/59f0f226fd5e8635dcdb4655cfbe33fc.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "f20959d3f51454a2c5e43459a2d194c3",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/nx/AdoreYou_MAIN_SCENE_NX.zip/f20959d3f51454a2c5e43459a2d194c3.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "b52a5b2bf572aa906afa8df7757f727e",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/AdoreYou/pc/b52a5b2bf572aa906afa8df7757f727e.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/AdoreYou/AdoreYou_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_AudioPreview.ogg/2401ae5991cddf17f28afded3d8f88ee.ogg",
+    "jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_HIGH.vp8.webm/2c88d82ec749cc22d4b5763595c76e41.webm",
+    "jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_HIGH.vp9.webm/f3ec33898c552277814a510cd2df00cc.webm",
+    "jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_LOW.vp8.webm/27a0039094185bb53022b3e8384e931a.webm",
+    "jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_LOW.vp9.webm/eb374e7af87e6c656be54f5f9788e887.webm",
+    "jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_MID.vp8.webm/74eda5bd3514d6b9f7c4539db94ac640.webm",
+    "jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_MID.vp9.webm/04d82e978bc25514833ea6a42c79b7c8.webm",
+    "jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm/99030e59fcd5b7152ecaac16972c0825.webm",
+    "jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm/71e2ed959390fb839f46480119d6a2a2.webm"
+  }
+}

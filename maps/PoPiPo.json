@@ -1,0 +1,126 @@
+{
+  "artist": "Hatsune Miku",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_banner_bkg.jpg/44bfccedef5059f04e182c094c24d4b6.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Coach_1.png/ad998b9325f84dfe3d253d0fad27021b.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Coach_2.png/c5fd769b33ebbac1422f0ac295b8f759.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Coach_3.png/25d7085a69c7be9fbc4637579f61822b.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Cover_Generic.jpg/2dcf9730dd53cf67d0009b1e3e931f0c.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Cover_1024.png/af23ac0644f737f2563353fa7b20c44f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Cover_Online.jpg/9beb92ea4685b0441b4cb66ccbd19244.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Cover_AlbumBkg.jpg/431efb9532969dadde5819be2974b1f0.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Cover_AlbumCoach.png/f1a97a21edfd4d931f41017c2e0fc25d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Coach_1_Phone.png/96d6a29ee6e78ee610d50baa0d824a6a.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Coach_2_Phone.png/a04a465337467b7ad378ddecf831bf83.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Coach_3_Phone.png/bb33a35d76c69145e9bb6e02c85fa750.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Cover_Phone.jpg/9beb92ea4685b0441b4cb66ccbd19244.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_VideoPreview.webm/dcc674158e8c944f74c1dbe2d459bfb8.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_banner_bkg.jpg/44bfccedef5059f04e182c094c24d4b6.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Coach_1.png/ad998b9325f84dfe3d253d0fad27021b.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Coach_2.png/c5fd769b33ebbac1422f0ac295b8f759.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Coach_3.png/25d7085a69c7be9fbc4637579f61822b.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Cover_Generic.jpg/2dcf9730dd53cf67d0009b1e3e931f0c.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Cover_1024.png/af23ac0644f737f2563353fa7b20c44f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Cover_Online.jpg/9beb92ea4685b0441b4cb66ccbd19244.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Cover_AlbumBkg.jpg/431efb9532969dadde5819be2974b1f0.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Cover_AlbumCoach.png/f1a97a21edfd4d931f41017c2e0fc25d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Coach_1_Phone.png/96d6a29ee6e78ee610d50baa0d824a6a.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Coach_2_Phone.png/a04a465337467b7ad378ddecf831bf83.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Coach_3_Phone.png/bb33a35d76c69145e9bb6e02c85fa750.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Cover_Phone.jpg/9beb92ea4685b0441b4cb66ccbd19244.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_VideoPreview.webm/dcc674158e8c944f74c1dbe2d459bfb8.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/wiiu/PoPiPo_banner_bkg.tga.ckd/3f05f63dc94694afa6b1217d54013073.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/wiiu/PoPiPo_Coach_1.tga.ckd/cfccbc56e88ab346b85306035d16d6ad.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/wiiu/PoPiPo_Coach_2.tga.ckd/0b48664f4c183e959055190a6dac7efa.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/wiiu/PoPiPo_Coach_3.tga.ckd/7f59d8c240ddc43baded3a6f2a298a4b.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/wiiu/PoPiPo_Cover_Generic.tga.ckd/ab1cefdb57b624776429273c48b259d8.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Cover_1024.png/af23ac0644f737f2563353fa7b20c44f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/wiiu/PoPiPo_Cover_Online.tga.ckd/55334e35c6e37568dd70aec9de03bd8b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/wiiu/PoPiPo_Cover_AlbumBkg.tga.ckd/4138fdaeb6c2bc1307ae7ef85a261cbc.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/wiiu/PoPiPo_Cover_AlbumCoach.tga.ckd/c8f3a3ae89b73b340f13b595d52d0913.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Coach_1_Phone.png/96d6a29ee6e78ee610d50baa0d824a6a.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Coach_2_Phone.png/a04a465337467b7ad378ddecf831bf83.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Coach_3_Phone.png/bb33a35d76c69145e9bb6e02c85fa750.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_Cover_Phone.jpg/9beb92ea4685b0441b4cb66ccbd19244.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_VideoPreview.webm/dcc674158e8c944f74c1dbe2d459bfb8.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,19200,38400,57600,76800,96000,115200,134400,153600,172800,192000,211200,230400,249600,268800,288000,307200,326400,345600,364800,384000,403200,422400,441600,460800,480000,499200,518400,537600,556800,576000,595200,614400,633600,652800,672000,691200,710400,729600,748800,768000,787200,806400,825600,844800,864000,883200,902400,921600,940800,960000,979200,998400,1017600,1036800,1056000,1075200,1094400,1113600,1132800,1152000,1171200,1190400,1209600,1228800,1248000,1267200,1286400,1305600,1324800,1344000,1363200,1382400,1401600,1420800],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-12,\"endBeat\":445,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":74,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/popipo/popipo_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F97606FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 182.79999999999998,
+  "mapName": "PoPiPo",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496078\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480874\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2937259\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4418395\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "PoPiPo_mapContent"
+  },
+  "parentMapName": "PoPiPo",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "09C712FF",
+    "songColor_1B": "008294FF",
+    "songColor_2A": "51CFCEFF",
+    "songColor_2B": "3B89D3FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "PoPiPo",
+  "urls": {
+    "jmcs://jd-contents/PoPiPo/PoPiPo_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_AudioPreview.ogg/16ecd3a7f6f8600f33a3b4b68a6050b9.ogg",
+    "jmcs://jd-contents/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_HIGH.vp8.webm/a5d648e012c4b23738349a475bae06e9.webm",
+    "jmcs://jd-contents/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_HIGH.vp9.webm/3fdc68a354a402723168698508384213.webm",
+    "jmcs://jd-contents/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_LOW.vp8.webm/c3eee2ec75cee3c7ae06f13507073d33.webm",
+    "jmcs://jd-contents/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_LOW.vp9.webm/99dadd3c3ca0c15e337946f9c24ff62b.webm",
+    "jmcs://jd-contents/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_MID.vp8.webm/9024d1b972f708b2b4f8ec6c770be362.webm",
+    "jmcs://jd-contents/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_MID.vp9.webm/f6369ed0c547282ef25392d22f1e20f4.webm",
+    "jmcs://jd-contents/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_ULTRA.vp8.webm/aa4961b7581de849aa72b8ab6000575b.webm",
+    "jmcs://jd-contents/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/PoPiPo/PoPiPo_MapPreviewNoSoundCrop_ULTRA.vp9.webm/1457c0fd4bcbc39c94ba25e15810ee96.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "1d80717b3a5da4d7402bacdcbfa4516b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PoPiPo/ps4/PoPiPo_MAIN_SCENE_ORBIS.zip/1d80717b3a5da4d7402bacdcbfa4516b.zip",
+      "version": 9
+    },
+    "pc": {
+      "md5": "c986bdc9eae83481e48733bc9c081fc3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PoPiPo/pc/PoPiPo_MAIN_SCENE_PC.zip/c986bdc9eae83481e48733bc9c081fc3.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "2524e75dde37cf212f990762b6592f09",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PoPiPo/wiiu/PoPiPo_MAIN_SCENE_WIIU.zip/2524e75dde37cf212f990762b6592f09.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "166c5ee2569526fe47e3afbc45955845",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PoPiPo/nx/PoPiPo_MAIN_SCENE_NX.zip/166c5ee2569526fe47e3afbc45955845.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,116 @@
+{
+  "artist": "Tom Zehnder",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/ggp/KIDSHickoryDickoryDock_banner_bkg.tga.ckd/4f3cfc61d86243de89f4e670fecf21a0.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/ggp/KIDSHickoryDickoryDock_Coach_1.tga.ckd/c16bc187e41e27f8f04f46a5dccca31a.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/ggp/KIDSHickoryDickoryDock_Cover_Generic.tga.ckd/8720b726de6c7d9837700e0a21182480.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_Cover_1024.png/afd9788a5b9ae84b2badd5b3c9d38906.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/ggp/KIDSHickoryDickoryDock_Cover_Online.tga.ckd/8720b726de6c7d9837700e0a21182480.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/ggp/KIDSHickoryDickoryDock_Cover_AlbumBkg.tga.ckd/fd5f6203ef1deaf1028782c5428dad63.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/ggp/KIDSHickoryDickoryDock_Cover_AlbumCoach.tga.ckd/7ae8ec99dce5b117b4314d8f81d287e2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_Coach_1_Phone.png/656a510841deb07c73f49bd8fee2d502.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_Cover_Phone.jpg/484e078771b2bce58061a271cfa0c96f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_VideoPreview.webm/f1f192a3df983761cd068ca0fe5b49ee.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/ggp/KIDSHickoryDickoryDock_map_bkg.tga.ckd/36324b891caa82424a93adba820ce4b1.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/nx/KIDSHickoryDickoryDock_banner_bkg.tga.ckd/5b4fab31593cc1a6af2914f4681cb8ec.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/nx/KIDSHickoryDickoryDock_Coach_1.tga.ckd/b73858ec246d6810b681883b88ca7716.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/nx/KIDSHickoryDickoryDock_Cover_Generic.tga.ckd/d76b5b161ac9861efc7078d20ee957a5.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_Cover_1024.png/afd9788a5b9ae84b2badd5b3c9d38906.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/nx/KIDSHickoryDickoryDock_Cover_Online.tga.ckd/d76b5b161ac9861efc7078d20ee957a5.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/nx/KIDSHickoryDickoryDock_Cover_AlbumBkg.tga.ckd/d3014ef463debdf0f27deb7e6788a917.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/nx/KIDSHickoryDickoryDock_Cover_AlbumCoach.tga.ckd/60d43e6f61c90547dbc12f111db54fee.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/nx/KIDSHickoryDickoryDock_map_bkg.tga.ckd/216615d5e6fa64e03b694a3a1d80f453.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_Coach_1_Phone.png/656a510841deb07c73f49bd8fee2d502.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_Cover_Phone.jpg/484e078771b2bce58061a271cfa0c96f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_VideoPreview.webm/f1f192a3df983761cd068ca0fe5b49ee.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/wiiu/KIDSHickoryDickoryDock_banner_bkg.tga.ckd/cd80bb63cdd35b50813d084d33fea5bb.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/wiiu/KIDSHickoryDickoryDock_Coach_1.tga.ckd/657e121b82c7cb8c42f6d53246fe3698.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/wiiu/KIDSHickoryDickoryDock_Cover_Generic.tga.ckd/9739285d00aefe36734331c2f6220e05.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_Cover_1024.png/afd9788a5b9ae84b2badd5b3c9d38906.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/wiiu/KIDSHickoryDickoryDock_Cover_Online.tga.ckd/9739285d00aefe36734331c2f6220e05.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/wiiu/KIDSHickoryDickoryDock_Cover_AlbumBkg.tga.ckd/d232cfc314d45adc1f672149f751be03.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/wiiu/KIDSHickoryDickoryDock_Cover_AlbumCoach.tga.ckd/63848fbd1fc0ee4c2fb2a964eac96c7f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_Coach_1_Phone.png/656a510841deb07c73f49bd8fee2d502.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_Cover_Phone.jpg/484e078771b2bce58061a271cfa0c96f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_VideoPreview.webm/f1f192a3df983761cd068ca0fe5b49ee.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25056,50112,75168,100176,125233,150289,175297,200353,225409,250465,275473,300529,325585,350641,375649,400705,425761,450817,475825,500881,525937,550993,576001,601057,626113,651169,676178,701234,726290,751298,776354,801410,826466,851474,876530,901586,926642,951650,976706,1001762,1026818,1051826,1076882,1101938,1126994,1152002,1177058,1202114,1227171,1252179,1277235,1302291,1327299,1352355,1377411,1402467,1427475],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":270,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/kidshickorydickorydock/kidshickorydickorydock_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "68DEA5FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 140.707,
+  "mapName": "KIDSHickoryDickoryDock",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495893\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"660-1149\">\r\n\t\t\t\t\t<Initialization range=\"0-660\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1469751\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"661-1151\">\r\n\t\t\t\t\t<Initialization range=\"0-661\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2117963\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"661-1151\">\r\n\t\t\t\t\t<Initialization range=\"0-661\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2117022\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"661-1151\">\r\n\t\t\t\t\t<Initialization range=\"0-661\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 123,
+  "packages": {
+    "mapContent": "KIDSHickoryDickoryDock_mapContent"
+  },
+  "parentMapName": "KIDSHickoryDickoryDock",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FFC600FF",
+    "songColor_1B": "FF8400FF",
+    "songColor_2A": "00FFF5FF",
+    "songColor_2B": "007D92FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Hickory Dickory Dock",
+  "urls": {
+    "jmcs://jd-contents/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_AudioPreview.ogg/b3a32b637329304bd347b629a8aadab9.ogg",
+    "jmcs://jd-contents/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_HIGH.vp8.webm/720b7604b9d00e6f5d431b1735982e50.webm",
+    "jmcs://jd-contents/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_HIGH.vp9.webm/e3f19511c458932b869a79450e14e9d5.webm",
+    "jmcs://jd-contents/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_LOW.vp8.webm/4f499ebecca98277440a2d7ed1c6195a.webm",
+    "jmcs://jd-contents/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_LOW.vp9.webm/28140832a3323d71e177875ce2a3e411.webm",
+    "jmcs://jd-contents/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_MID.vp8.webm/a0bf95d44602afa5ae11c9778ae96bb0.webm",
+    "jmcs://jd-contents/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_MID.vp9.webm/f678fe522244b852b3b8205f833c634d.webm",
+    "jmcs://jd-contents/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b6e00ac53603d60214980b4fa551571b.webm",
+    "jmcs://jd-contents/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/KIDSHickoryDickoryDock_MapPreviewNoSoundCrop_ULTRA.vp9.webm/73e265c4512977b01b941eed9a48ed7e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "952d0cb06c846e3b97e9167772cf7fcc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/ps4/KIDSHickoryDickoryDock_MAIN_SCENE_ORBIS.zip/952d0cb06c846e3b97e9167772cf7fcc.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "4125ab140ffdc37261e1e2e2f87c0f4a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/pc/KIDSHickoryDickoryDock_MAIN_SCENE_PC.zip/4125ab140ffdc37261e1e2e2f87c0f4a.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "5b43df4ce21dafc1db0141c61240cab1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/wiiu/KIDSHickoryDickoryDock_MAIN_SCENE_WIIU.zip/5b43df4ce21dafc1db0141c61240cab1.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "385db7d32d44b10be6369d55587b909c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSHickoryDickoryDock/nx/KIDSHickoryDickoryDock_MAIN_SCENE_NX.zip/385db7d32d44b10be6369d55587b909c.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

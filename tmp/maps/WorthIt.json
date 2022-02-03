@@ -1,0 +1,114 @@
+{
+  "artist": "Fifth Harmony Ft. Kid Ink",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_banner_bkg.jpg/bc020066b4b20051ff93c1fac912a54a.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Coach_1.png/687c2d09a5a54c04735d97b3a0cc42b9.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Cover_Generic.jpg/2a10e8da8c9e95d5810ae9c1005a07e5.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Cover_1024.png/4fcb7cc6ed20d7833f690a81c81335f0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Cover_Online.jpg/66355625abad83e206f346fc54a6cea0.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Cover_AlbumBkg.jpg/d6352ba9f718465cae98c4eb3bb2d0df.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Cover_AlbumCoach.png/53a4ec7c1be3c57f6fbd3ba9547d23b1.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Coach_1_Phone.png/ee3bbe1983bb05a6afc5e82224ebeebf.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Cover_Phone.jpg/66355625abad83e206f346fc54a6cea0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_VideoPreview.webm/e96e20849c84ce286942666135b74c4e.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_banner_bkg.jpg/bc020066b4b20051ff93c1fac912a54a.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Coach_1.png/687c2d09a5a54c04735d97b3a0cc42b9.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Cover_Generic.jpg/2a10e8da8c9e95d5810ae9c1005a07e5.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Cover_1024.png/4fcb7cc6ed20d7833f690a81c81335f0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Cover_Online.jpg/66355625abad83e206f346fc54a6cea0.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Cover_AlbumBkg.jpg/d6352ba9f718465cae98c4eb3bb2d0df.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Cover_AlbumCoach.png/53a4ec7c1be3c57f6fbd3ba9547d23b1.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Coach_1_Phone.png/ee3bbe1983bb05a6afc5e82224ebeebf.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Cover_Phone.jpg/66355625abad83e206f346fc54a6cea0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_VideoPreview.webm/e96e20849c84ce286942666135b74c4e.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/wiiu/WorthIt_banner_bkg.tga.ckd/690b000eafb0428b5d25f09b7df73cb4.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/wiiu/WorthIt_Coach_1.tga.ckd/d5ee24844e8de0a793d5e9d1ddfa03d4.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/wiiu/WorthIt_Cover_Generic.tga.ckd/45c8e408d52b600a387552f84a8ab752.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Cover_1024.png/4fcb7cc6ed20d7833f690a81c81335f0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/wiiu/WorthIt_Cover_Online.tga.ckd/eb8722b514db25c949d693411f596e32.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/wiiu/WorthIt_Cover_AlbumBkg.tga.ckd/537f6dbce5652a776413bc625db8b7c9.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/wiiu/WorthIt_Cover_AlbumCoach.tga.ckd/5759edf1c27514d219cd9f8aea5f0fcc.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Coach_1_Phone.png/ee3bbe1983bb05a6afc5e82224ebeebf.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_Cover_Phone.jpg/66355625abad83e206f346fc54a6cea0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_VideoPreview.webm/e96e20849c84ce286942666135b74c4e.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28800,57600,86400,115200,144000,172800,201600,230400,259200,288000,316800,345600,374400,403200,432000,460800,489600,518400,547200,576000,604800,633600,662400,691200,720000,748800,777600,806400,835200,864000,892800,921600,950400,979200,1008000,1036800,1065600,1094400,1123200,1152000,1180800,1209600,1238400,1267200,1296000,1324800,1353600,1382400,1411200],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":375,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":49,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/worthit/worthit_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "AD1D94FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 228.6,
+  "mapName": "WorthIt",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495833\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WorthIt/WorthIt_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478538\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WorthIt/WorthIt_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2880956\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WorthIt/WorthIt_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3428057\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WorthIt/WorthIt_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "WorthIt_mapContent"
+  },
+  "parentMapName": "WorthIt",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "E89824FF",
+    "songColor_1B": "842900FF",
+    "songColor_2A": "8ACBD3FF",
+    "songColor_2B": "074441FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Worth It",
+  "urls": {
+    "jmcs://jd-contents/WorthIt/WorthIt_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_AudioPreview.ogg/a58fc934e570fd66fb0c8b3b6475f2ad.ogg",
+    "jmcs://jd-contents/WorthIt/WorthIt_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_MapPreviewNoSoundCrop_HIGH.vp8.webm/067b5b7fd37b10d3dad57b16085e52c3.webm",
+    "jmcs://jd-contents/WorthIt/WorthIt_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_MapPreviewNoSoundCrop_HIGH.vp9.webm/e7e21ce66a8d9f5e73151500381a5f5f.webm",
+    "jmcs://jd-contents/WorthIt/WorthIt_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_MapPreviewNoSoundCrop_LOW.vp8.webm/b76f1a1b848f55b46e2f0c6f85678cda.webm",
+    "jmcs://jd-contents/WorthIt/WorthIt_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_MapPreviewNoSoundCrop_LOW.vp9.webm/b268383fc1756fd0b9cb37c29b4021b1.webm",
+    "jmcs://jd-contents/WorthIt/WorthIt_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_MapPreviewNoSoundCrop_MID.vp8.webm/5ba770d32e40ba7097cfe95a7bee3fd6.webm",
+    "jmcs://jd-contents/WorthIt/WorthIt_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_MapPreviewNoSoundCrop_MID.vp9.webm/5b771dfee34fd5fecfff88b4198b45c5.webm",
+    "jmcs://jd-contents/WorthIt/WorthIt_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_MapPreviewNoSoundCrop_ULTRA.vp8.webm/e2e2032f054a8f85b5bcdd414cba0a0a.webm",
+    "jmcs://jd-contents/WorthIt/WorthIt_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/WorthIt/WorthIt_MapPreviewNoSoundCrop_ULTRA.vp9.webm/ea3a68aa3b8488f1bbdb6dc2fd6ff75e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "07d904e526cd055167bacd87e0ec403c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WorthIt/ps4/WorthIt_MAIN_SCENE_ORBIS.zip/07d904e526cd055167bacd87e0ec403c.zip",
+      "version": 13
+    },
+    "pc": {
+      "md5": "cc82ac617c7fbc6aaea6e7c60771bae5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WorthIt/pc/WorthIt_MAIN_SCENE_PC.zip/cc82ac617c7fbc6aaea6e7c60771bae5.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "91011a1aa727550b93d8a7d6605ad3d4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WorthIt/wiiu/WorthIt_MAIN_SCENE_WIIU.zip/91011a1aa727550b93d8a7d6605ad3d4.zip",
+      "version": 13
+    },
+    "nx": {
+      "md5": "665b4963d0daf4c757dba0e99f5bfb62",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WorthIt/nx/WorthIt_MAIN_SCENE_NX.zip/665b4963d0daf4c757dba0e99f5bfb62.zip",
+      "version": 7
+    }
+  },
+  "mapType": "jdu"
+}

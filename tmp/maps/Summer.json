@@ -1,0 +1,111 @@
+{
+  "artist": "Calvin Harris",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_banner_bkg.jpg/916831f1fee955bfb0284819bcd53dd8.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Coach_1.png/f7f38ef3aafd1db084364f5c4987ab70.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Cover_Generic.jpg/d38cb9645d31d8e9d25d5bf8c947056f.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Cover_1024.png/92da9bbe611dfce21a6b65f60bedb03f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Cover_Online.jpg/2a219c1be5fec3266d34008c24dd2aa0.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Cover_AlbumBkg.jpg/00a191deef53e2f5bdde07ec3ce19d49.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Cover_AlbumCoach.png/210ab952552b021eef8b38bd43a5c4cf.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Coach_1_Phone.png/bc186eeacccc330c1805d16215ea5bab.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Cover_Phone.jpg/2a219c1be5fec3266d34008c24dd2aa0.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_banner_bkg.jpg/916831f1fee955bfb0284819bcd53dd8.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Coach_1.png/f7f38ef3aafd1db084364f5c4987ab70.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Cover_Generic.jpg/d38cb9645d31d8e9d25d5bf8c947056f.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Cover_1024.png/92da9bbe611dfce21a6b65f60bedb03f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Cover_Online.jpg/2a219c1be5fec3266d34008c24dd2aa0.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Cover_AlbumBkg.jpg/00a191deef53e2f5bdde07ec3ce19d49.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Cover_AlbumCoach.png/210ab952552b021eef8b38bd43a5c4cf.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Coach_1_Phone.png/bc186eeacccc330c1805d16215ea5bab.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Cover_Phone.jpg/2a219c1be5fec3266d34008c24dd2aa0.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/wiiu/Summer_banner_bkg.tga.ckd/a90445e46385a9aba9e4e2fad5aadc4b.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/wiiu/Summer_Coach_1.tga.ckd/3c6b945246191a1c3403e4558732c9d7.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/wiiu/Summer_Cover_Generic.tga.ckd/60bdd2851712b52e19f088cb22a20a1f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Cover_1024.png/92da9bbe611dfce21a6b65f60bedb03f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/wiiu/Summer_Cover_Online.tga.ckd/68203e495542c775759ae4c76a746c4c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/wiiu/Summer_Cover_AlbumBkg.tga.ckd/49bfa82ed74a11018f1f98134c2e8fe0.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/wiiu/Summer_Cover_AlbumCoach.tga.ckd/9936eabef5dfb5e471f8f94851a9db04.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Coach_1_Phone.png/bc186eeacccc330c1805d16215ea5bab.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Summer/Summer_Cover_Phone.jpg/2a219c1be5fec3266d34008c24dd2aa0.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22512,45024,67488,90000,112512,135024,157488,179999,202512,225024,247488,269999,292511,315024,337488,359999,382511,405024,427488,449999,472511,495024,517488,540000,562511,585024,607488,630000,652511,675024,697488,720000,742511,765024,787488,810000,832511,855024,877487,900000,922511,945024,967487,990000,1012511,1035024,1057487,1080000,1102511,1125024,1147487,1170000,1192511,1215024,1237487,1260000,1282511,1305024,1327487,1350000,1372511,1395024,1417487],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-1,\"endBeat\":428,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/summer/summer_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FA3599FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 201.094,
+  "mapName": "Summer",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497009\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Summer/Summer_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480636\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Summer/Summer_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2912561\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Summer/Summer_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4290744\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Summer/Summer_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "Summer_mapContent"
+  },
+  "parentMapName": "Summer",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "D71EC2FF",
+    "songColor_1B": "58031BFF",
+    "songColor_2A": "F4C238FF",
+    "songColor_2B": "000000FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Summer",
+  "urls": {
+    "jmcs://jd-contents/Summer/Summer_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Summer/Summer_AudioPreview.ogg/8a951fbd389e99166776323fd6500afc.ogg",
+    "jmcs://jd-contents/Summer/Summer_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Summer/Summer_MapPreviewNoSoundCrop_HIGH.vp8.webm/a6ffe2bfd4858258736b491215f4f949.webm",
+    "jmcs://jd-contents/Summer/Summer_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Summer/Summer_MapPreviewNoSoundCrop_HIGH.vp9.webm/93af1a0d4a7f9b742512fb2e27284df0.webm",
+    "jmcs://jd-contents/Summer/Summer_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Summer/Summer_MapPreviewNoSoundCrop_LOW.vp8.webm/3e2da3353d5a8c54032f47e48f3a4f9d.webm",
+    "jmcs://jd-contents/Summer/Summer_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Summer/Summer_MapPreviewNoSoundCrop_LOW.vp9.webm/5b576a915e60d3fcd7334bcad9ee6062.webm",
+    "jmcs://jd-contents/Summer/Summer_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Summer/Summer_MapPreviewNoSoundCrop_MID.vp8.webm/87e00e3edae840dabace9747dd3b4c23.webm",
+    "jmcs://jd-contents/Summer/Summer_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Summer/Summer_MapPreviewNoSoundCrop_MID.vp9.webm/a15624cc31afdb8386a86bc95476b884.webm",
+    "jmcs://jd-contents/Summer/Summer_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Summer/Summer_MapPreviewNoSoundCrop_ULTRA.vp8.webm/461705da468ec48263b0b2efa5b8a6ec.webm",
+    "jmcs://jd-contents/Summer/Summer_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Summer/Summer_MapPreviewNoSoundCrop_ULTRA.vp9.webm/8dc6e48898cba4a8787fe13987947d9f.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "21f760592015fd6b08d9eec15573c8ed",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Summer/ps4/Summer_MAIN_SCENE_ORBIS.zip/21f760592015fd6b08d9eec15573c8ed.zip",
+      "version": 17
+    },
+    "pc": {
+      "md5": "47ae94770eb70e973dadc42397518bcc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Summer/pc/Summer_MAIN_SCENE_PC.zip/47ae94770eb70e973dadc42397518bcc.zip",
+      "version": 11
+    },
+    "wiiu": {
+      "md5": "7c6baf1b5af20f64fe9ccdf759f07be0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Summer/wiiu/Summer_MAIN_SCENE_WIIU.zip/7c6baf1b5af20f64fe9ccdf759f07be0.zip",
+      "version": 17
+    },
+    "nx": {
+      "md5": "d85acd73c17620986c55a643acb08346",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Summer/nx/Summer_MAIN_SCENE_NX.zip/d85acd73c17620986c55a643acb08346.zip",
+      "version": 9
+    }
+  },
+  "mapType": "jdu"
+}

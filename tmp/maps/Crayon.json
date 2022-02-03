@@ -1,0 +1,102 @@
+{
+  "artist": "G-Dragon",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/ggp/Crayon_banner_bkg.tga.ckd/ee45e015f1b7f577ac820e08f1b9e764.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/ggp/Crayon_Coach_1.tga.ckd/c5ff5b7937bccf9a7259825f9e9e8931.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/ggp/Crayon_Cover_Generic.tga.ckd/e0f5a9f1565125fe6d2a957942ff98bd.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/Crayon_Cover_1024.png/b07e0718854dee3393e8f985f2d59464.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/ggp/Crayon_Cover_Online.tga.ckd/3a292d1fe61533479109710c20278f1d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/ggp/Crayon_Cover_AlbumBkg.tga.ckd/f02dc318056c37436d16404f6be459cb.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/ggp/Crayon_Cover_AlbumCoach.tga.ckd/85d591a63990c8259ae676d1f6f3b658.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/Crayon_Coach_1_Phone.png/6a5ecae3ed5f07ce516c715ca746db8d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/Crayon_Cover_Phone.jpg/4210a8619586f3f7e705d48ab0b2883c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Crayon/Crayon_VideoPreview.webm/8ae248e3c5709918602861a428134382.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/ggp/Crayon_map_bkg.tga.ckd/0bcf0439d56488b96b95dde780d53fa4.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/nx/Crayon_banner_bkg.tga.ckd/8a655f6559da82586a1dddb509b52be2.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/nx/Crayon_Coach_1.tga.ckd/e0f906832ee3e1c9bd3668c931c2b778.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/nx/Crayon_Cover_Generic.tga.ckd/61f51d68d193dc1f4fb5d1894ee262eb.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/Crayon_Cover_1024.png/b07e0718854dee3393e8f985f2d59464.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/nx/Crayon_Cover_Online.tga.ckd/1f498b83869af789e548b22d300beeca.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/nx/Crayon_Cover_AlbumBkg.tga.ckd/bd36fcb1fdb8c5fa2a76be7191e82685.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/nx/Crayon_Cover_AlbumCoach.tga.ckd/fea5bbae1000381866a4de3fbd445ba7.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/nx/Crayon_map_bkg.tga.ckd/fd9559111c42583b6adf912cad1dd03a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/Crayon_Coach_1_Phone.png/6a5ecae3ed5f07ce516c715ca746db8d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Crayon/Crayon_Cover_Phone.jpg/4210a8619586f3f7e705d48ab0b2883c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Crayon/Crayon_VideoPreview.webm/8ae248e3c5709918602861a428134382.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21818,43637,65455,87273,109091,130909,152728,174546,196364,218182,240000,261818,283637,305455,327273,349091,370909,392728,414546,436364,458182,480000,501818,523637,545455,567273,589091,610909,632728,654546,676364,698182,720000,741818,763637,785455,807273,829091,850909,872728,894546,916364,938182,960000,981818,1003637,1025455,1047273,1069091,1090909,1112728,1134546,1156364,1178182,1200000,1221818,1243637,1265455,1287273,1309091,1330909,1352728,1374546,1396364,1418182],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":433,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/crayon/crayon_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FD9644FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 198.637,
+  "mapName": "Crayon",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"498287\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Crayon/Crayon_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"610-1100\">\r\n\t\t\t\t\t<Initialization range=\"0-610\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1479847\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Crayon/Crayon_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"611-1101\">\r\n\t\t\t\t\t<Initialization range=\"0-611\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2909077\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Crayon/Crayon_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"611-1101\">\r\n\t\t\t\t\t<Initialization range=\"0-611\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5667704\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Crayon/Crayon_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"611-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-611\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "Crayon_mapContent"
+  },
+  "parentMapName": "Crayon",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "0063DDFF",
+    "songColor_1B": "080052FF",
+    "songColor_2A": "4AFF1AFF",
+    "songColor_2B": "00455EFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Crayon",
+  "urls": {
+    "jmcs://jd-contents/Crayon/Crayon_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Crayon/Crayon_AudioPreview.ogg/99667280e69048fa69f7da87a1d83b09.ogg",
+    "jmcs://jd-contents/Crayon/Crayon_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Crayon/Crayon_MapPreviewNoSoundCrop_HIGH.vp8.webm/5b44360af454a20810aa1eb6ee60e874.webm",
+    "jmcs://jd-contents/Crayon/Crayon_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Crayon/Crayon_MapPreviewNoSoundCrop_HIGH.vp9.webm/3af7dda6ec39c270e528524f7c273e13.webm",
+    "jmcs://jd-contents/Crayon/Crayon_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Crayon/Crayon_MapPreviewNoSoundCrop_LOW.vp8.webm/fc2f103cb358b224be498bae6654e328.webm",
+    "jmcs://jd-contents/Crayon/Crayon_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Crayon/Crayon_MapPreviewNoSoundCrop_LOW.vp9.webm/4a0779be26f21ef62ea5614e3c565a3c.webm",
+    "jmcs://jd-contents/Crayon/Crayon_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Crayon/Crayon_MapPreviewNoSoundCrop_MID.vp8.webm/23e1c910e86f51f788605a89b6120a7f.webm",
+    "jmcs://jd-contents/Crayon/Crayon_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Crayon/Crayon_MapPreviewNoSoundCrop_MID.vp9.webm/8bb2832bb76e807916d8092d0291365a.webm",
+    "jmcs://jd-contents/Crayon/Crayon_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Crayon/Crayon_MapPreviewNoSoundCrop_ULTRA.vp8.webm/dda03b6990121c23f275ae1d9621496c.webm",
+    "jmcs://jd-contents/Crayon/Crayon_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Crayon/Crayon_MapPreviewNoSoundCrop_ULTRA.vp9.webm/2002155b518c4e3680cb6d8e862a79ee.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "15ffca97ab7e3f909149d398181aef0c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Crayon/pc/Crayon_MAIN_SCENE_PC.zip/15ffca97ab7e3f909149d398181aef0c.zip",
+      "version": 10
+    },
+    "wiiu": {
+      "md5": "",
+      "version": 0
+    },
+    "nx": {
+      "md5": "257a6d1787e457dc5516eb8fd84bc0ed",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Crayon/nx/Crayon_MAIN_SCENE_NX.zip/257a6d1787e457dc5516eb8fd84bc0ed.zip",
+      "version": 30
+    },
+    "orbis": {
+      "md5": "308dc062aef8a9fb13c0f2ee63e05cb2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Crayon/ps4/Crayon_MAIN_SCENE_ORBIS.zip/308dc062aef8a9fb13c0f2ee63e05cb2.zip",
+      "version": 30
+    }
+  },
+  "mapType": "jdu"
+}

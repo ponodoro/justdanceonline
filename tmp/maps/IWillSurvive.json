@@ -1,0 +1,114 @@
+{
+  "artist": "Gloria Gaynor",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_banner_bkg.jpg/a41195d99beab1da183ba3a0af90044f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Coach_1.png/c55d1cd345e6abebb82fa4a9006e21a5.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Cover_Generic.jpg/d9ce66fba91b3117735fa66be828edc9.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Cover_1024.png/01c321855f863fe700705e07a3c2e419.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Cover_Online.jpg/0e26d9adeb5692cfc231d400bc8c45f2.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Cover_AlbumBkg.jpg/0ec3acfb58da4df4d2c1022d97202456.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Cover_AlbumCoach.png/93f10c04b1b4d76c2a95b6a9d1f5a570.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Coach_1_Phone.png/d611d5e71dea168c91e89c5bb9a675c5.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Cover_Phone.jpg/0e26d9adeb5692cfc231d400bc8c45f2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_VideoPreview.webm/d4ddc1bd20bf1c436485a0d1dab9b256.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_banner_bkg.jpg/a41195d99beab1da183ba3a0af90044f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Coach_1.png/c55d1cd345e6abebb82fa4a9006e21a5.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Cover_Generic.jpg/d9ce66fba91b3117735fa66be828edc9.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Cover_1024.png/01c321855f863fe700705e07a3c2e419.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Cover_Online.jpg/0e26d9adeb5692cfc231d400bc8c45f2.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Cover_AlbumBkg.jpg/0ec3acfb58da4df4d2c1022d97202456.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Cover_AlbumCoach.png/93f10c04b1b4d76c2a95b6a9d1f5a570.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Coach_1_Phone.png/d611d5e71dea168c91e89c5bb9a675c5.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Cover_Phone.jpg/0e26d9adeb5692cfc231d400bc8c45f2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_VideoPreview.webm/d4ddc1bd20bf1c436485a0d1dab9b256.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/wiiu/IWillSurvive_banner_bkg.tga.ckd/c8aac0cee2ccf7b1ba4ea88528e78c90.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/wiiu/IWillSurvive_Coach_1.tga.ckd/53a83924f2648c8091c524a561462f9d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/wiiu/IWillSurvive_Cover_Generic.tga.ckd/4ecf19f9bc95a120695542e2878a53a1.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Cover_1024.png/01c321855f863fe700705e07a3c2e419.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/wiiu/IWillSurvive_Cover_Online.tga.ckd/dffe9ed1b4f7c49b03bdce67e62bb9ff.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/wiiu/IWillSurvive_Cover_AlbumBkg.tga.ckd/1bd7dd20277fc14ab774d5dcace80c99.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/wiiu/IWillSurvive_Cover_AlbumCoach.tga.ckd/d145eee97e2c389448c652c2ba0f5f78.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Coach_1_Phone.png/d611d5e71dea168c91e89c5bb9a675c5.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_Cover_Phone.jpg/0e26d9adeb5692cfc231d400bc8c45f2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_VideoPreview.webm/d4ddc1bd20bf1c436485a0d1dab9b256.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24864,49728,74640,99504,124368,149280,174144,199057,223921,248833,273697,298561,323473,348337,373249,398113,422977,447745,472561,497329,522097,546865,571633,596401,621170,645938,670706,695522,720290,745058,769826,794594,819362,844226,869090,893954,918818,943682,968546,993410,1018274,1043139,1067955,1092819,1117683,1142547,1167411,1192275,1217139,1242003,1266867,1291731,1316595,1341507,1366371,1391235,1416099],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-12,\"endBeat\":371,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/iwillsurvive/iwillsurvive_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "1DE4C2FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 198.18599999999998,
+  "mapName": "IWillSurvive",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496791\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1470958\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1860052\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1860402\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "IWillSurvive_mapContent"
+  },
+  "parentMapName": "IWillSurvive",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "C717B3FF",
+    "songColor_1B": "2A0015FF",
+    "songColor_2A": "008AFFFF",
+    "songColor_2B": "030043FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "I Will Survive",
+  "urls": {
+    "jmcs://jd-contents/IWillSurvive/IWillSurvive_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_AudioPreview.ogg/299eeb578d5e9b124fa104cec7126c02.ogg",
+    "jmcs://jd-contents/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_HIGH.vp8.webm/3d8b33eac3f62b8f4ea35d429fedfa71.webm",
+    "jmcs://jd-contents/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_HIGH.vp9.webm/8997c76d4df27f507f4f024770400c7b.webm",
+    "jmcs://jd-contents/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_LOW.vp8.webm/2639c99714f682fdeab37af8d97d5087.webm",
+    "jmcs://jd-contents/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_LOW.vp9.webm/8884903e1230b8a26d89a5617d4ab81c.webm",
+    "jmcs://jd-contents/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_MID.vp8.webm/adf1a14b670a712dd350b2fd11b83215.webm",
+    "jmcs://jd-contents/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_MID.vp9.webm/4cff54e1a427c1bb95db939dff4b334d.webm",
+    "jmcs://jd-contents/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_ULTRA.vp8.webm/8b9f48aa855d29ec359715bd0ddc620e.webm",
+    "jmcs://jd-contents/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/IWillSurvive/IWillSurvive_MapPreviewNoSoundCrop_ULTRA.vp9.webm/bb452e76264705e3f0259375553f6faa.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "59b25f80eeab6ae37ac9358e99d4faa2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IWillSurvive/ps4/IWillSurvive_MAIN_SCENE_ORBIS.zip/59b25f80eeab6ae37ac9358e99d4faa2.zip",
+      "version": 11
+    },
+    "pc": {
+      "md5": "73d4661741f13f2b9df87eb18bb05cd9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IWillSurvive/pc/IWillSurvive_MAIN_SCENE_PC.zip/73d4661741f13f2b9df87eb18bb05cd9.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "37600bfda8197c7262de4e309ae6179c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IWillSurvive/wiiu/IWillSurvive_MAIN_SCENE_WIIU.zip/37600bfda8197c7262de4e309ae6179c.zip",
+      "version": 11
+    },
+    "nx": {
+      "md5": "88bafe29f5b6e1cbaee496cd0887e4c6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IWillSurvive/nx/IWillSurvive_MAIN_SCENE_NX.zip/88bafe29f5b6e1cbaee496cd0887e4c6.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

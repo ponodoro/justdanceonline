@@ -1,0 +1,81 @@
+{
+  "artist": "Ricky Martin",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/textures/LivinLaVidaLoca_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/textures/LivinLaVidaLoca_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/textures/LivinLaVidaLoca_Cover_Generic.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/textures/LivinLaVidaLoca_Cover_Generic.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/textures/LivinLaVidaLoca_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/textures/LivinLaVidaLoca_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/textures/LivinLaVidaLoca_Cover_Generic.png",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/textures/LivinLaVidaLoca_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,36192,68544,100896,133248,165600,198000,230351,262704,295055,327408,359760,392160,424512,456864,489216,521568,553920,586272,618672,651023,683376,715728,748079,780432,812831,845184,877536,909888,942240,974592,1006992,1039344,1071696,1104047,1136399,1168752,1201104,1233504,1265856,1298208,1330560,1362912],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":\"335\",\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":42,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "399610FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 335,
+  "mapName": "LivinLaVidaLoca",
+  "mapType": "custom",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497536\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1486093\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2964966\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5891936\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "LivinLaVidaLoca_mapContent"
+  },
+  "parentMapName": "LivinLaVidaLoca",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "EB4410FF",
+    "songColor_1B": "521502FF",
+    "songColor_2A": "C2966DFF",
+    "songColor_2B": "2B1711FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main"
+  ],
+  "title": "Livin' La Vida Loca",
+  "urls": {
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/LivinLaVidaLoca_AudioPreview.ogg",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/LivinLaVidaLoca_VideoPreview.webm",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/LivinLaVidaLoca_VideoPreview.webm",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/LivinLaVidaLoca_VideoPreview.webm",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/LivinLaVidaLoca_VideoPreview.webm",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/LivinLaVidaLoca_VideoPreview.webm",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/LivinLaVidaLoca_VideoPreview.webm",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/LivinLaVidaLoca_VideoPreview.webm",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/LivinLaVidaLoca_VideoPreview.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "nx": {
+      "md5": "cf99e2a1ab218d835c58288b3e92e7c3",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/nx/nx_cf99e2a1ab218d835c58288b3e92e7c3.zip",
+      "version": 2
+    },
+    "orbis": {
+      "md5": "c73315e9be619b9f3c6e0e16cfb9a32a",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/ps4/orbis_c73315e9be619b9f3c6e0e16cfb9a32a.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "f4b55bb5f3a38305f66f955e5a5180fa",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/LivinLaVidaLoca/pc/pc_f4b55bb5f3a38305f66f955e5a5180fa.zip",
+      "version": 2
+    }
+  }
+}

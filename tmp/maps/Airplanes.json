@@ -1,0 +1,111 @@
+{
+  "artist": "B.o.B Ft. Hayley Williams of Paramore",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_banner_bkg.jpg/598a52f99ec0d0f506ee312107edb7cd.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Coach_1.png/4704806b62e8163c9963bf494df34eaf.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Cover_Generic.jpg/f249a08602d2a24d66b23a9e5c182750.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Cover_1024.png/4475966b599cf3b9c982f20571b228ad.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Cover_Online.jpg/bc88b751aa2a1aece1c0de232e030d3d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Cover_AlbumBkg.jpg/9f31a89158d7b0dfa2311a2fb9576d26.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Cover_AlbumCoach.png/cfaff3faff3a3017e136e74ce935dc26.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Coach_1_Phone.png/1b68128f65c1832d6bcdcf02842a2326.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Cover_Phone.jpg/bc88b751aa2a1aece1c0de232e030d3d.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_banner_bkg.jpg/598a52f99ec0d0f506ee312107edb7cd.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Coach_1.png/4704806b62e8163c9963bf494df34eaf.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Cover_Generic.jpg/f249a08602d2a24d66b23a9e5c182750.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Cover_1024.png/4475966b599cf3b9c982f20571b228ad.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Cover_Online.jpg/bc88b751aa2a1aece1c0de232e030d3d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Cover_AlbumBkg.jpg/9f31a89158d7b0dfa2311a2fb9576d26.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Cover_AlbumCoach.png/cfaff3faff3a3017e136e74ce935dc26.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Coach_1_Phone.png/1b68128f65c1832d6bcdcf02842a2326.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Cover_Phone.jpg/bc88b751aa2a1aece1c0de232e030d3d.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/wiiu/Airplanes_banner_bkg.tga.ckd/c2353ad577e483c92ef6d618f4f9fd18.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/wiiu/Airplanes_Coach_1.tga.ckd/7620fb2a12289134b168f7755fe8b9f4.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/wiiu/Airplanes_Cover_Generic.tga.ckd/32fc520d797dc9ae19cf38641834ade8.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Cover_1024.png/4475966b599cf3b9c982f20571b228ad.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/wiiu/Airplanes_Cover_Online.tga.ckd/fd85f11aeb21eeadb3aa0e22cb7647d1.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/wiiu/Airplanes_Cover_AlbumBkg.tga.ckd/4638ae6bc95793f8a270df458abb46eb.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/wiiu/Airplanes_Cover_AlbumCoach.tga.ckd/5181c479cb79fa6f4179117e7d3615c8.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Coach_1_Phone.png/1b68128f65c1832d6bcdcf02842a2326.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_Cover_Phone.jpg/bc88b751aa2a1aece1c0de232e030d3d.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,29834,60841,91641,124286,153363,185142,215499,247322,277370,308762,339412,372010,401540,432750,463329,495609,525610,556586,586933,619729,648923,680473,711052,744078,773038,804932,835845,867681,900010,928358,958797,990193,1021086,1052353,1083480,1114876,1144772,1175939,1206425,1237877,1268599,1300403,1330494,1362626,1392297,1424050],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":285,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":46,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/airplanes/airplanes_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFAA00FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 184.256,
+  "mapName": "Airplanes",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495926\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Airplanes/Airplanes_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1194815\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Airplanes/Airplanes_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1194145\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Airplanes/Airplanes_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1194082\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Airplanes/Airplanes_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "Airplanes_mapContent"
+  },
+  "parentMapName": "Airplanes",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "00C0C2FF",
+    "songColor_1B": "004668FF",
+    "songColor_2A": "F3A800FF",
+    "songColor_2B": "7D1A00FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Airplanes",
+  "urls": {
+    "jmcs://jd-contents/Airplanes/Airplanes_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_AudioPreview.ogg/a773e7933dd9d52dfa4518e58d3d201f.ogg",
+    "jmcs://jd-contents/Airplanes/Airplanes_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_MapPreviewNoSoundCrop_HIGH.vp8.webm/9cdc1283eef497f1fd8630b736fc4f99.webm",
+    "jmcs://jd-contents/Airplanes/Airplanes_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_MapPreviewNoSoundCrop_HIGH.vp9.webm/183f87a2126ee89dceb1762936c93d15.webm",
+    "jmcs://jd-contents/Airplanes/Airplanes_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_MapPreviewNoSoundCrop_LOW.vp8.webm/b0a6733d1c94c97bb0e2ae6db92a729d.webm",
+    "jmcs://jd-contents/Airplanes/Airplanes_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_MapPreviewNoSoundCrop_LOW.vp9.webm/234e6ae3e594fa9d9edb1b49377af2cf.webm",
+    "jmcs://jd-contents/Airplanes/Airplanes_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_MapPreviewNoSoundCrop_MID.vp8.webm/c2af10963b216753d127370daab71d11.webm",
+    "jmcs://jd-contents/Airplanes/Airplanes_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_MapPreviewNoSoundCrop_MID.vp9.webm/6e09ef549548b3629f59936059c0bb8c.webm",
+    "jmcs://jd-contents/Airplanes/Airplanes_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f02acae1605c5199626ef70d3552442c.webm",
+    "jmcs://jd-contents/Airplanes/Airplanes_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Airplanes/Airplanes_MapPreviewNoSoundCrop_ULTRA.vp9.webm/a04bc9ddfd727ec965bd69c80a48bdf6.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "eea893987831a607c20eb923f55d5a7c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Airplanes/ps4/Airplanes_MAIN_SCENE_ORBIS.zip/eea893987831a607c20eb923f55d5a7c.zip",
+      "version": 14
+    },
+    "pc": {
+      "md5": "ec118ca5f4c71baa4a14c580145fd3c6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Airplanes/pc/Airplanes_MAIN_SCENE_PC.zip/ec118ca5f4c71baa4a14c580145fd3c6.zip",
+      "version": 8
+    },
+    "wiiu": {
+      "md5": "cb1df5af61bedc2f99b887ebe1c74450",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Airplanes/wiiu/Airplanes_MAIN_SCENE_WIIU.zip/cb1df5af61bedc2f99b887ebe1c74450.zip",
+      "version": 13
+    },
+    "nx": {
+      "md5": "bc27ba371c6079a229b7a46c19e2f5ea",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Airplanes/nx/Airplanes_MAIN_SCENE_NX.zip/bc27ba371c6079a229b7a46c19e2f5ea.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

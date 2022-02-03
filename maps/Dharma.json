@@ -1,0 +1,124 @@
+{
+  "artist": "Headhunterz & KSHMR",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/ps4/Dharma_banner_bkg.tga.ckd/d237d588ff948c721605aea598c23b82.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/ps4/Dharma_Coach_1.tga.ckd/1f0e7f6b7d6c66edbdd8d60f35e00c20.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/ps4/Dharma_Cover_Generic.tga.ckd/c10de814acc55801e6250491c2705087.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_Cover_1024.png/3743dd3e211aa775fd5cca641489b249.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/ps4/Dharma_Cover_Online.tga.ckd/3ef88354a638f3fe6c25913d03bc043a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/ps4/Dharma_Cover_AlbumBkg.tga.ckd/67bb2e3e749e1a7425581ca414b66a41.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/ps4/Dharma_Cover_AlbumCoach.tga.ckd/6a02f6814240e52419b25243b6e7b1e0.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_Coach_1_Phone.png/c08e2335db196938b9fdefa48c7f7a4a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_Cover_Phone.jpg/f0cc3f6ce86b0a6af40d66d71bb5f01c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_VideoPreview.webm/b9540fae9f9a41143406848a21373a08.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/ps4/Dharma_map_bkg.tga.ckd/146f3f77efd0ac2a4ce813eb3582f3f0.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/nx/Dharma_banner_bkg.tga.ckd/4af800e994534480bca60b9f1c571ae6.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/nx/Dharma_Coach_1.tga.ckd/6b6d5809cba48b35f5b7662eea65c5da.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/nx/Dharma_Cover_Generic.tga.ckd/7ce7d167c2524daacf73527681d02bf2.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_Cover_1024.png/3743dd3e211aa775fd5cca641489b249.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/nx/Dharma_Cover_Online.tga.ckd/82db10b70c79a897849b061b33e0c465.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/nx/Dharma_Cover_AlbumBkg.tga.ckd/66af64fbaf194705c071dff017f279b1.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/nx/Dharma_Cover_AlbumCoach.tga.ckd/78fad51245fd5141ca4ed5b4b30c603d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_Coach_1_Phone.png/c08e2335db196938b9fdefa48c7f7a4a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_Cover_Phone.jpg/f0cc3f6ce86b0a6af40d66d71bb5f01c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_VideoPreview.webm/b9540fae9f9a41143406848a21373a08.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/nx/Dharma_map_bkg.tga.ckd/c84f0430477d4bb1e6679cf294a745d1.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/wiiu/Dharma_banner_bkg.tga.ckd/d1f15aa23fccf7fafbe79c6db42dc4aa.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/wiiu/Dharma_Coach_1.tga.ckd/5ea14c7aa2488142d41fa62fac984b68.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/wiiu/Dharma_Cover_Generic.tga.ckd/4fb745df63e02a4fdede1807b2fe70b8.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_Cover_1024.png/3743dd3e211aa775fd5cca641489b249.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/wiiu/Dharma_Cover_Online.tga.ckd/1645bb8014ec6c29bd4f863231b94669.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/wiiu/Dharma_Cover_AlbumBkg.tga.ckd/918c1c0705a6d3782b4e7d2a019babeb.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/wiiu/Dharma_Cover_AlbumCoach.tga.ckd/078902f25730396af725c69cb61b4590.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_Coach_1_Phone.png/c08e2335db196938b9fdefa48c7f7a4a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_Cover_Phone.jpg/f0cc3f6ce86b0a6af40d66d71bb5f01c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_VideoPreview.webm/b9540fae9f9a41143406848a21373a08.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22511,45023,67488,90000,112512,135024,157488,180000,202512,225024,247488,270000,292511,315023,337488,360000,382512,405024,427487,450000,472512,495024,517487,540000,562511,585024,607488,630000,652512,675024,697487,720000,742511,765024,787487,810000,832511,855024,877488,900000,922512,945024,967487,990000,1012511,1035024,1057487,1080000,1102511,1125024,1147488,1170000,1192512,1215024,1237487,1260000,1282511,1305024,1327487,1350000,1372511,1395024,1417488],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":388,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/dharma/dharma_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Niles Howell-Dhar, Willem Rebergen and Friso Venema. Published by Ultra Tunes (ASCAP) obo Trouble and Bass. / Indie Pop Music / Sony/ATV Tunes LLC (ASCAP) c/o Sony/ATV Music Publishing Canada (SOCAN). / WF Productions. All rights reserved. Used with permission. Courtesy of Spinnin' Records, arranged by Fine Gold Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0BCA7DFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 184.688,
+  "mapName": "Dharma",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496544\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Dharma/Dharma_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1107\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1463738\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Dharma/Dharma_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2927258\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Dharma/Dharma_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5767821\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Dharma/Dharma_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "Dharma_mapContent"
+  },
+  "parentMapName": "Dharma",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "008688FF",
+    "songColor_1B": "001926FF",
+    "songColor_2A": "FF0073FF",
+    "songColor_2B": "66005FFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "SWEAT",
+    "subscribedSong",
+    "CnUnlimited2018"
+  ],
+  "title": "Dharma",
+  "urls": {
+    "jmcs://jd-contents/Dharma/Dharma_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_AudioPreview.ogg/c8de375d2baa1dfdb492827cac01c876.ogg",
+    "jmcs://jd-contents/Dharma/Dharma_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_MapPreviewNoSoundCrop_HIGH.vp8.webm/de8e7e34a296bae2100b5c8a7e712742.webm",
+    "jmcs://jd-contents/Dharma/Dharma_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_MapPreviewNoSoundCrop_HIGH.vp9.webm/86fbbe537a630d2fb300303927783f07.webm",
+    "jmcs://jd-contents/Dharma/Dharma_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_MapPreviewNoSoundCrop_LOW.vp8.webm/e57840c62e78bfcd1b26e63f7794beb0.webm",
+    "jmcs://jd-contents/Dharma/Dharma_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_MapPreviewNoSoundCrop_LOW.vp9.webm/159371e5b16d0be21aece8bba5b921a8.webm",
+    "jmcs://jd-contents/Dharma/Dharma_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_MapPreviewNoSoundCrop_MID.vp8.webm/87e7a4f989c5ea9c66be2c0119ec47b7.webm",
+    "jmcs://jd-contents/Dharma/Dharma_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_MapPreviewNoSoundCrop_MID.vp9.webm/c47adfdbe35028720f35067c4b1e6397.webm",
+    "jmcs://jd-contents/Dharma/Dharma_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_MapPreviewNoSoundCrop_ULTRA.vp8.webm/12620ff07d43a7070f69f9b5152db7fe.webm",
+    "jmcs://jd-contents/Dharma/Dharma_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Dharma/Dharma_MapPreviewNoSoundCrop_ULTRA.vp9.webm/4623f9d703d4b60e84e92bc44951d501.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "6bd525810b4ad6013501b5eb12cf3c63",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Dharma/ps4/Dharma_MAIN_SCENE_ORBIS.zip/6bd525810b4ad6013501b5eb12cf3c63.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "079735ff5b04fe70711070a50e5a17f4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Dharma/nx/Dharma_MAIN_SCENE_NX.zip/079735ff5b04fe70711070a50e5a17f4.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "771f3c890b845e60d881a25802eb7c86",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Dharma/pc/771f3c890b845e60d881a25802eb7c86.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "fcf05f13dfa40dd1b1db9642365654dc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Dharma/wiiu/Dharma_MAIN_SCENE_WIIU.zip/fcf05f13dfa40dd1b1db9642365654dc.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

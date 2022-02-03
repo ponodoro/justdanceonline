@@ -1,0 +1,114 @@
+{
+  "artist": "The Ting Tings",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_banner_bkg.jpg/24f3f64703fc2ea2198b9a71e17f5826.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Coach_1.png/06db0442d7e89139290053ac7c26a50b.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Cover_Generic.jpg/6fed7fde84efaedcb9be942ab614d433.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Cover_1024.png/9e1b8467e98cc5d9883c3ed83ec3e6ca.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Cover_Online.jpg/bb616c5f91fa2189c4207eb8c4b1d0d0.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Cover_AlbumBkg.jpg/d881a573fda7106a781076ae24193280.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Cover_AlbumCoach.png/f4e8d2ae262a89762b16dfe31263f162.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Coach_1_Phone.png/007e19de16f40de7aad46f5ab27b6798.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Cover_Phone.jpg/bb616c5f91fa2189c4207eb8c4b1d0d0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_VideoPreview.webm/d698ce4bdf01dcf86984dbd522a8ac3a.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_banner_bkg.jpg/24f3f64703fc2ea2198b9a71e17f5826.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Coach_1.png/06db0442d7e89139290053ac7c26a50b.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Cover_Generic.jpg/6fed7fde84efaedcb9be942ab614d433.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Cover_1024.png/9e1b8467e98cc5d9883c3ed83ec3e6ca.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Cover_Online.jpg/bb616c5f91fa2189c4207eb8c4b1d0d0.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Cover_AlbumBkg.jpg/d881a573fda7106a781076ae24193280.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Cover_AlbumCoach.png/f4e8d2ae262a89762b16dfe31263f162.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Coach_1_Phone.png/007e19de16f40de7aad46f5ab27b6798.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Cover_Phone.jpg/bb616c5f91fa2189c4207eb8c4b1d0d0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_VideoPreview.webm/d698ce4bdf01dcf86984dbd522a8ac3a.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/wiiu/ThatsNotMyName_banner_bkg.tga.ckd/354e3d2a81dd2fc97b26e92844dd9725.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/wiiu/ThatsNotMyName_Coach_1.tga.ckd/3bc2ac35356ad5442faf113b8a949faf.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/wiiu/ThatsNotMyName_Cover_Generic.tga.ckd/84e1349d144605dc2b5b4bf9cfb58ce4.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Cover_1024.png/9e1b8467e98cc5d9883c3ed83ec3e6ca.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/wiiu/ThatsNotMyName_Cover_Online.tga.ckd/b4ab4dfe09ab9ecbb24e2e32f1a33899.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/wiiu/ThatsNotMyName_Cover_AlbumBkg.tga.ckd/de4e1106cf0e37a74f7c9bef6dc3474d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/wiiu/ThatsNotMyName_Cover_AlbumCoach.tga.ckd/1ed4697c63647c1cd135db37edc4afab.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Coach_1_Phone.png/007e19de16f40de7aad46f5ab27b6798.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_Cover_Phone.jpg/bb616c5f91fa2189c4207eb8c4b1d0d0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_VideoPreview.webm/d698ce4bdf01dcf86984dbd522a8ac3a.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,19858,39982,59841,79699,99558,119416,139275,159133,178992,198850,218709,238567,258426,278284,298143,318001,337860,357718,377577,397435,417294,437152,457011,476869,496728,516586,536445,556303,576162,596020,615879,635737,655596,675454,695313,715171,735030,754888,774747,794605,814464,834322,854181,874039,893898,913756,933615,953473,973332,993190,1013049,1032907,1052766,1072624,1092483,1112341,1132200,1152058,1171917,1191775,1211634,1231492,1251351,1271209,1291068,1310927,1330785,1350644,1370502,1390361,1410219,1430078],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":527,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":72,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/thatsnotmyname/thatsnotmyname_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFD622FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 218.66799999999998,
+  "mapName": "ThatsNotMyName",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496311\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"962604\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"962213\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"962812\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "ThatsNotMyName_mapContent"
+  },
+  "parentMapName": "ThatsNotMyName",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "EAC756FF",
+    "songColor_1B": "0F93C4FF",
+    "songColor_2A": "D70E3DFF",
+    "songColor_2B": "E14CEEFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "That's Not My Name",
+  "urls": {
+    "jmcs://jd-contents/ThatsNotMyName/ThatsNotMyName_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_AudioPreview.ogg/f0d39b379d0266b26ac575e25bada5ff.ogg",
+    "jmcs://jd-contents/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_HIGH.vp8.webm/7d84f2af8c8cc6727426113917bc932b.webm",
+    "jmcs://jd-contents/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_HIGH.vp9.webm/3b9eaa8ab95639da6b49e6f570c2334e.webm",
+    "jmcs://jd-contents/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_LOW.vp8.webm/b175e52bbb1b11cf714515e929783a3d.webm",
+    "jmcs://jd-contents/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_LOW.vp9.webm/ba838347234270583cb572a3a8ebe211.webm",
+    "jmcs://jd-contents/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_MID.vp8.webm/f51aa23d2a6d800b2a139c2cc6a648db.webm",
+    "jmcs://jd-contents/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_MID.vp9.webm/b75769f4821af83bb38fbe9c5d93abbf.webm",
+    "jmcs://jd-contents/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_ULTRA.vp8.webm/20d49f4eb3eb242b6c8181cf2681f129.webm",
+    "jmcs://jd-contents/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ThatsNotMyName_MapPreviewNoSoundCrop_ULTRA.vp9.webm/2e7f848f25c221cc700f1ded89ce930d.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "2108325568e37334e9c34f0e5be10079",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/ps4/ThatsNotMyName_MAIN_SCENE_ORBIS.zip/2108325568e37334e9c34f0e5be10079.zip",
+      "version": 33
+    },
+    "pc": {
+      "md5": "f205878ff01dd8698c54731c2e4727c5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/pc/ThatsNotMyName_MAIN_SCENE_PC.zip/f205878ff01dd8698c54731c2e4727c5.zip",
+      "version": 16
+    },
+    "wiiu": {
+      "md5": "866a430c1601ff961dd828689b2d1498",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/wiiu/ThatsNotMyName_MAIN_SCENE_WIIU.zip/866a430c1601ff961dd828689b2d1498.zip",
+      "version": 40
+    },
+    "nx": {
+      "md5": "61801bdcc67927491137a6737e7d37cd",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ThatsNotMyName/nx/ThatsNotMyName_MAIN_SCENE_NX.zip/61801bdcc67927491137a6737e7d37cd.zip",
+      "version": 19
+    }
+  },
+  "mapType": "jdu"
+}

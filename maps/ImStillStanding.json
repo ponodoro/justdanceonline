@@ -1,0 +1,119 @@
+{
+  "artist": "Top Culture",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ps4/ImStillStanding_banner_bkg.tga.ckd/1639aa92729da02c2012b3e096c9bc0c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ps4/ImStillStanding_Coach_1.tga.ckd/77e85242972549d0679ba14fe210556f.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ps4/ImStillStanding_Cover_Generic.tga.ckd/031ebe5777c5f8b2dbfed86972e9cde7.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_Cover_1024.png/0c8bd5321cc3e5bedd9393e81d61a7e9.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ps4/ImStillStanding_Cover_Online.tga.ckd/34aa76466136a10105acf64bf3cc5bc5.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ps4/ImStillStanding_Cover_AlbumBkg.tga.ckd/869df374cbc5232f1675d208f08e3fbf.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ps4/ImStillStanding_Cover_AlbumCoach.tga.ckd/2c74fc8bf95517528dfed3cdbf57195e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_Coach_1_Phone.png/41fc6ac619d6e424a6c8187e642b91e9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_Cover_Phone.jpg/74d96fe0bb90f34b9c002dafd8c84e66.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ps4/ImStillStanding_map_bkg.tga.ckd/1b6c1b117aa1edb3be5933125c18726b.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/nx/ImStillStanding_banner_bkg.tga.ckd/f326e96eb426c5fcc92e1b0d8327bd2c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/nx/ImStillStanding_Coach_1.tga.ckd/6e4bf86b26b0a29061bed412ceda36e2.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/nx/ImStillStanding_Cover_Generic.tga.ckd/58167fd42991a368af2a5c6af9c516e0.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_Cover_1024.png/0c8bd5321cc3e5bedd9393e81d61a7e9.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/nx/ImStillStanding_Cover_Online.tga.ckd/b3b31eec514c747116682322a79ecf75.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/nx/ImStillStanding_Cover_AlbumBkg.tga.ckd/ea7ad0078a11a866427a70c902822890.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/nx/ImStillStanding_Cover_AlbumCoach.tga.ckd/0a99fdc8c8ccfdd229cf6935427f867c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_Coach_1_Phone.png/41fc6ac619d6e424a6c8187e642b91e9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_Cover_Phone.jpg/74d96fe0bb90f34b9c002dafd8c84e66.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/nx/ImStillStanding_map_bkg.tga.ckd/a0d027305e8ed5b43d2def1991eed5ac.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_banner_bkg.jpg/892e6e9b23588131b25c717b129f9b9d.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_Coach_1.png/c2d4ae72736cd702a07072e5686a0f1c.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_Cover_Generic.jpg/8a522aef9e4c5be0b861f373be7b178a.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_Cover_1024.png/0c8bd5321cc3e5bedd9393e81d61a7e9.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_Cover_Online.jpg/74d96fe0bb90f34b9c002dafd8c84e66.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_Cover_AlbumBkg.jpg/66bd02ddc55b1c4babfab956aec899f6.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_Cover_AlbumCoach.png/43aae66a302dacc2a42304852a8bdba3.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_Coach_1_Phone.png/41fc6ac619d6e424a6c8187e642b91e9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_Cover_Phone.jpg/74d96fe0bb90f34b9c002dafd8c84e66.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,16368,32688,49056,65424,81792,98160,114528,130896,147264,163632,179952,196320,212688,229056,245424,261744,278064,294384,310656,326976,343297,359617,375937,392257,408529,424849,441169,457489,473809,490129,506401,522721,538945,555169,571393,587617,603841,620065,636289,652705,669169,685585,702049,718465,734641,750817,766993,783121,799297,815473,831649,847777,863953,880129,896305,912433,928609,944785,960961,977089,993265,1009441,1025569,1041745,1058065,1074337,1090609,1106929,1123201,1139521,1155793,1172065,1188385,1204657,1220977,1237249,1253329,1269409,1285537,1301617,1317889,1334209,1350481,1366753,1383073,1399345,1415665,1431938],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-16,\"endBeat\":529,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":88,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/imstillstanding/imstillstanding_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Bernard J.P. Taupin and Elton John. Produced, Engineered and Mixed by Steve Ouimette. Published by Universal Songs Of PolyGram Int., Inc. on behalf of Universal Music Publishing Ltd., Universal PolyGram Int. Publishing, Inc. on behalf of Universal Music Publishing Ltd. Vocals: Kenny Metcalf, Sharlene Metcalf, Brody Dolyniuk. Piano and Keys: Cat Gray. Bass: J.R. McNeely. Drums, Guitar: Steve Ouimette. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "85E00CFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 184.313,
+  "mapName": "ImStillStanding",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496947\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484514\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2946575\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3679726\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "ImStillStanding_mapContent"
+  },
+  "parentMapName": "ImStillStanding",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "E782EDFF",
+    "songColor_1B": "7F1E67FF",
+    "songColor_2A": "71C7FCEF",
+    "songColor_2B": "47A0FFFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "I'm Still Standing",
+  "urls": {
+    "jmcs://jd-contents/ImStillStanding/ImStillStanding_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_AudioPreview.ogg/df8b79302958b55c3bda3a7f272de593.ogg",
+    "jmcs://jd-contents/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_HIGH.vp8.webm/da6f0a42f8046bd45f18cf23c6be40d8.webm",
+    "jmcs://jd-contents/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_HIGH.vp9.webm/a1df4d8f16328c176fad9b8e5dacf77e.webm",
+    "jmcs://jd-contents/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_LOW.vp8.webm/2ff0461cc59b7717db09d38be27584cf.webm",
+    "jmcs://jd-contents/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_LOW.vp9.webm/5cedad4343b0d8fbf4a703b7675aad61.webm",
+    "jmcs://jd-contents/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_MID.vp8.webm/9e178b08f6a5a1d2ae0277c7433094ea.webm",
+    "jmcs://jd-contents/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_MID.vp9.webm/d60ca9e0522bdb18c56533af59a1e57f.webm",
+    "jmcs://jd-contents/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_ULTRA.vp8.webm/71b93f0b345d7e21e0749c8d061a166f.webm",
+    "jmcs://jd-contents/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ImStillStanding_MapPreviewNoSoundCrop_ULTRA.vp9.webm/a359e913a77e37e4b765fab446510753.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "3d361554331d25911e0df96f080ba900",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ImStillStanding/ps4/ImStillStanding_MAIN_SCENE_ORBIS.zip/3d361554331d25911e0df96f080ba900.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "db12e6585272e5eaeb518a564dedad0b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ImStillStanding/nx/ImStillStanding_MAIN_SCENE_NX.zip/db12e6585272e5eaeb518a564dedad0b.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "9e594de9ba47b23ede6644fa7671aaaa",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/imstillstanding_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

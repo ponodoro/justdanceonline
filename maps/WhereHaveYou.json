@@ -1,0 +1,91 @@
+{
+  "artist": "Rihanna",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_map_bkg.png"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/textures/WhereHaveYou_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22512,45024,67488,90000,112512,135024,157488,180000,202512,225024,247488,270000,292512,315024,337488,360000,382512,405024,427488,450000,472512,495024,517488,540000,562512,585024,607488,630000,652512,675024,697488,720000,742512,765024,787488,810000,832512,855024,877488,900000,922512,945024,967488,990001,1012513,1035025,1057489,1080001,1102513,1125025,1147489,1170001,1192513,1215025,1237489,1260001,1282513,1305025,1327489,1350001,1372513,1395025,1417489,1440001,1462513,1485025],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":488,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":66,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/wherehaveyou/wherehaveyou_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F59918FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 100,
+  "mapName": "WhereHaveYou",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497759\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhereHaveYou/WhereHaveYou_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484234\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhereHaveYou/WhereHaveYou_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2956729\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhereHaveYou/WhereHaveYou_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5790405\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhereHaveYou/WhereHaveYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "WhereHaveYou_mapContent"
+  },
+  "parentMapName": "WhereHaveYou",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "C91B07FF",
+    "songColor_1B": "751E14FF",
+    "songColor_2A": "0290FCFF",
+    "songColor_2B": "01248CFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main"
+  ],
+  "title": "Where Have You Been",
+  "urls": {
+    "jmcs://jd-contents/WhereHaveYou/WhereHaveYou_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/WhereHaveYou_AudioPreview.ogg",
+    "jmcs://jd-contents/WhereHaveYou/WhereHaveYou_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/nx/WhereHaveYou_VideoPreview.webm",
+    "jmcs://jd-contents/WhereHaveYou/WhereHaveYou_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/nx/WhereHaveYou_VideoPreview.webm",
+    "jmcs://jd-contents/WhereHaveYou/WhereHaveYou_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/nx/WhereHaveYou_VideoPreview.webm",
+    "jmcs://jd-contents/WhereHaveYou/WhereHaveYou_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/nx/WhereHaveYou_VideoPreview.webm",
+    "jmcs://jd-contents/WhereHaveYou/WhereHaveYou_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/nx/WhereHaveYou_VideoPreview.webm",
+    "jmcs://jd-contents/WhereHaveYou/WhereHaveYou_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/nx/WhereHaveYou_VideoPreview.webm",
+    "jmcs://jd-contents/WhereHaveYou/WhereHaveYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/nx/WhereHaveYou_VideoPreview.webm",
+    "jmcs://jd-contents/WhereHaveYou/WhereHaveYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/nx/WhereHaveYou_VideoPreview.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "cc8499b0992a3513b528b32df4c36281",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/pc/cc8499b0992a3513b528b32df4c36281.zip",
+      "version": 6
+    },
+    "nx": {
+      "md5": "30b8ea931c71192c72564273fc699fe0",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhereHaveYou/nx/30b8ea931c71192c72564273fc699fe0.zip",
+      "version": 1
+    }
+  },
+  "mapType": "custom"
+}

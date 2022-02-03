@@ -1,0 +1,111 @@
+{
+  "artist": "The Sunlight Shakers",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_banner_bkg.jpg/7d4fee4018bf6abec0afd89c52328317.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Coach_1.png/b2b8b81c248fefd4573a28e2eaafad6c.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Cover_Generic.jpg/22fc9518b6a9c3cab493af5994f1a450.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Cover_1024.png/f16363af7e5a03624c39adaa41cdddf8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Cover_Online.jpg/5e5730f1c365695e59634ea468444169.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Cover_AlbumBkg.jpg/2bf9d2e668c7deb5cd6f14f87d5db152.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Cover_AlbumCoach.png/3b33e023f6dd3c34889c957c2a6f3cba.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Coach_1_Phone.png/188b966b81b7ae443f9b39122270ece4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Cover_Phone.jpg/5e5730f1c365695e59634ea468444169.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_banner_bkg.jpg/7d4fee4018bf6abec0afd89c52328317.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Coach_1.png/b2b8b81c248fefd4573a28e2eaafad6c.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Cover_Generic.jpg/22fc9518b6a9c3cab493af5994f1a450.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Cover_1024.png/f16363af7e5a03624c39adaa41cdddf8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Cover_Online.jpg/5e5730f1c365695e59634ea468444169.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Cover_AlbumBkg.jpg/2bf9d2e668c7deb5cd6f14f87d5db152.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Cover_AlbumCoach.png/3b33e023f6dd3c34889c957c2a6f3cba.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Coach_1_Phone.png/188b966b81b7ae443f9b39122270ece4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Cover_Phone.jpg/5e5730f1c365695e59634ea468444169.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/wiiu/DogsOut_banner_bkg.tga.ckd/a2e195184cb19c51edfff97ffe35bcf0.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/wiiu/DogsOut_Coach_1.tga.ckd/ea83125ee48a9fd9ff7bf93d74f84094.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/wiiu/DogsOut_Cover_Generic.tga.ckd/c5d3b231949ac43c708f94a7b9804e2b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Cover_1024.png/f16363af7e5a03624c39adaa41cdddf8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/wiiu/DogsOut_Cover_Online.tga.ckd/118422cb4fe7dbbf3e6c85c17fa01028.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/wiiu/DogsOut_Cover_AlbumBkg.tga.ckd/fd53d72e9bf6dbbbfd3b460df599db4a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/wiiu/DogsOut_Cover_AlbumCoach.tga.ckd/3a36a243c38663f8614e35bfe617159f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Coach_1_Phone.png/188b966b81b7ae443f9b39122270ece4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_Cover_Phone.jpg/5e5730f1c365695e59634ea468444169.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22273,44547,66820,89094,111367,133641,155914,178188,200461,222735,245008,267282,289555,311829,334102,356376,378649,400923,423196,445470,467743,490017,512290,534564,556837,579111,601384,623658,645931,668205,690478,712752,735025,757299,779572,801846,824119,846393,868666,890940,913213,935487,957760,980034,1002307,1024581,1046854,1069128,1091401,1113675,1135948,1158222,1180495,1202769,1225042,1247316,1269589,1291863,1314136,1336410,1358683,1380957,1403230,1425504],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":424,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/dogsout/dogsout_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "B62924FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 196.904,
+  "mapName": "DogsOut",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"498037\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DogsOut/DogsOut_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"627-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-627\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1303555\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DogsOut/DogsOut_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1306089\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DogsOut/DogsOut_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1306588\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DogsOut/DogsOut_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 1,
+  "packages": {
+    "mapContent": "DogsOut_mapContent"
+  },
+  "parentMapName": "DogsOut",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "E51C0DFF",
+    "songColor_1B": "3F0000FF",
+    "songColor_2A": "3FE6E0FF",
+    "songColor_2B": "002941FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Who Let the Dogs Out",
+  "urls": {
+    "jmcs://jd-contents/DogsOut/DogsOut_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_AudioPreview.ogg/a571f35c576bf18616a8764347a8af9b.ogg",
+    "jmcs://jd-contents/DogsOut/DogsOut_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_MapPreviewNoSoundCrop_HIGH.vp8.webm/a1f53bb20e8c31edbf54a90c1cba3e41.webm",
+    "jmcs://jd-contents/DogsOut/DogsOut_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_MapPreviewNoSoundCrop_HIGH.vp9.webm/452b8cc6489c16d70dd4b35cd2b07d66.webm",
+    "jmcs://jd-contents/DogsOut/DogsOut_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_MapPreviewNoSoundCrop_LOW.vp8.webm/6c708f5a146cfc502c82dd2e7f8c2697.webm",
+    "jmcs://jd-contents/DogsOut/DogsOut_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_MapPreviewNoSoundCrop_LOW.vp9.webm/69de3fb5e58107d27275af94c16ca72c.webm",
+    "jmcs://jd-contents/DogsOut/DogsOut_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_MapPreviewNoSoundCrop_MID.vp8.webm/61fc1f4ca91e0074cf594f427f725230.webm",
+    "jmcs://jd-contents/DogsOut/DogsOut_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_MapPreviewNoSoundCrop_MID.vp9.webm/0fe12f02b16657bb5afdd60fdb867d6a.webm",
+    "jmcs://jd-contents/DogsOut/DogsOut_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ce0ef140ef9e50b9303c88aec026e2ac.webm",
+    "jmcs://jd-contents/DogsOut/DogsOut_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/DogsOut/DogsOut_MapPreviewNoSoundCrop_ULTRA.vp9.webm/b8947022ddfe05d7e37d77cb52e08be5.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "21f4d55b440adb5a078925d017b497cd",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DogsOut/ps4/DogsOut_MAIN_SCENE_ORBIS.zip/21f4d55b440adb5a078925d017b497cd.zip",
+      "version": 12
+    },
+    "pc": {
+      "md5": "af16a923fea51fe8c45fcaa889cbefc4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DogsOut/pc/DogsOut_MAIN_SCENE_PC.zip/af16a923fea51fe8c45fcaa889cbefc4.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "4d2dcb33159823212d6c2c1a9596747a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DogsOut/wiiu/DogsOut_MAIN_SCENE_WIIU.zip/4d2dcb33159823212d6c2c1a9596747a.zip",
+      "version": 11
+    },
+    "nx": {
+      "md5": "69e68eb6f56295950461004de7651dd4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DogsOut/nx/DogsOut_MAIN_SCENE_NX.zip/69e68eb6f56295950461004de7651dd4.zip",
+      "version": 7
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,111 @@
+{
+  "artist": "Equinox Stars",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/ps4/SpaceGirlKids_banner_bkg.tga.ckd/0d877ff57a2ae6af069c9048ed5788e4.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/ps4/SpaceGirlKids_Coach_1.tga.ckd/6c6bea28b20e35ad133989d0b5654d67.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/ps4/SpaceGirlKids_Cover_Generic.tga.ckd/17cda8cb86f33b3c4d8a17085e9a8857.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_Cover_1024.png/1b7e777270b42808fa21270f9ff5f2b7.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/ps4/SpaceGirlKids_Cover_Online.tga.ckd/470af7aa24f780e30ae72fceb6bee595.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/ps4/SpaceGirlKids_Cover_AlbumBkg.tga.ckd/e02403d876b07abdd84e91cfc8a8faa5.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/ps4/SpaceGirlKids_Cover_AlbumCoach.tga.ckd/dba332d3c9555b6250bb960bc42bff54.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_Coach_1_Phone.png/3d9faf03a6501c77c8fc6490cda85fa7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_Cover_Phone.jpg/8c4c436f4e04d2195573cff2fd312d18.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/ps4/SpaceGirlKids_map_bkg.tga.ckd/8d3911f54dcbc2e6c6fb259d73a16fba.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/nx/SpaceGirlKids_banner_bkg.tga.ckd/cd21d1ed06c349aeb9c2681630d6880d.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/nx/SpaceGirlKids_Coach_1.tga.ckd/8959a67526c0b2661ad4b952b5fc410e.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/nx/SpaceGirlKids_Cover_Generic.tga.ckd/6ccf2c9139a0cfef91c0e70306562e00.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_Cover_1024.png/1b7e777270b42808fa21270f9ff5f2b7.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/nx/SpaceGirlKids_Cover_Online.tga.ckd/57dec29c538548d6683175746652d4c3.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/nx/SpaceGirlKids_Cover_AlbumBkg.tga.ckd/6f11135fffcb0e371c1912e8cb9c2057.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/nx/SpaceGirlKids_Cover_AlbumCoach.tga.ckd/184e1d5f7d03a25a1a727db6606d7dcb.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_Coach_1_Phone.png/3d9faf03a6501c77c8fc6490cda85fa7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_Cover_Phone.jpg/8c4c436f4e04d2195573cff2fd312d18.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/nx/SpaceGirlKids_map_bkg.tga.ckd/35bd13095496840275ab10e6347fd55b.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_banner_bkg.jpg/8e5e3a035dfe4fdd539d5603d9570010.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_Coach_1.png/3d6f50a8d64c90e7142c9fe26cf907a0.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_Cover_Generic.jpg/66620ca9626ddfdcc653b9ed65fbb1e8.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_Cover_1024.png/1b7e777270b42808fa21270f9ff5f2b7.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_Cover_Online.jpg/8c4c436f4e04d2195573cff2fd312d18.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_Cover_AlbumBkg.jpg/77158c11193d1592594af118a48ec97a.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_Cover_AlbumCoach.png/17842e18be3a491ee93de33e8d02c322.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_Coach_1_Phone.png/3d9faf03a6501c77c8fc6490cda85fa7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_Cover_Phone.jpg/8c4c436f4e04d2195573cff2fd312d18.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22176,44352,66576,88752,110928,133104,155328,177504,199680,221856,244080,266256,288432,310608,332832,355007,377183,399359,421583,443759,465935,488111,510335,532511,554687,576863,599087,621263,643439,665615,687839,710015,732191,754367,776591,798767,820943,843119,865343,887519,909695,931871,954095,976271,998447,1020623,1042847,1065023,1087199,1109375,1131599,1153775,1175951,1198127,1220351,1242527,1264703,1286879,1309103,1331279,1353455,1375631,1397855,1420031],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":287,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/spacegirlkids/spacegirlkids_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Composed, arranged and produced by Tom Salta. Published by Ubisoft Music Publishing. Courtesy of Ubisoft Music. All rights of the producer and other rightsholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 133.59099999999998,
+  "mapName": "SpaceGirlKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496532\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1472044\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2355785\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2357839\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "SpaceGirlKids_mapContent"
+  },
+  "parentMapName": "SpaceGirlKids",
+  "skuIds": [
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "9B4787FF",
+    "songColor_1B": "360259FF",
+    "songColor_2A": "E376DEFF",
+    "songColor_2B": "DD823BFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "subscribedSong",
+    "ExcludedFromWDF",
+    "ExcludedFromWDF-PC",
+    "JDChinaRemoved"
+  ],
+  "title": "Cosmic Party",
+  "urls": {
+    "jmcs://jd-contents/SpaceGirlKids/SpaceGirlKids_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_AudioPreview.ogg/45e9b124f379fe40fe3dbf37aaba964c.ogg",
+    "jmcs://jd-contents/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/e8668f343039cd0787975fd0893442fd.webm",
+    "jmcs://jd-contents/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/9d4abcc4582d85f0337ca267fceac696.webm",
+    "jmcs://jd-contents/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_LOW.vp8.webm/895d507615acb10d119a729045de5daf.webm",
+    "jmcs://jd-contents/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_LOW.vp9.webm/6fddbd42503db06e55851f42c7d95fcd.webm",
+    "jmcs://jd-contents/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_MID.vp8.webm/7e6656d5c469322947b367039ee200bd.webm",
+    "jmcs://jd-contents/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_MID.vp9.webm/82ed2338ae947f2a891d175550249376.webm",
+    "jmcs://jd-contents/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/1c60375980230afacbde13ba4c1e19ce.webm",
+    "jmcs://jd-contents/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/SpaceGirlKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/2e20196eefac9c7e2bda5e48a6f74174.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "74973264a771f23486571cf852dd2a9a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/ps4/SpaceGirlKids_MAIN_SCENE_ORBIS.zip/74973264a771f23486571cf852dd2a9a.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "46988f72d5073dc7d2479f54a5130bff",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SpaceGirlKids/nx/SpaceGirlKids_MAIN_SCENE_NX.zip/46988f72d5073dc7d2479f54a5130bff.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939
+}

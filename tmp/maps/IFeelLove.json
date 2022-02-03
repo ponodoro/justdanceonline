@@ -1,0 +1,114 @@
+{
+  "artist": "Donna Summer",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_banner_bkg.jpg/8f95b03ad0b941aaa4e3674660cbca16.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Coach_1.png/39eaf97941cd270a7ab11c1dc3570db3.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Cover_Generic.jpg/f736a2a1e286a8acde4bd4a72be5ce71.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Cover_1024.png/79297dc430bb8061d0edd20fb3508307.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Cover_Online.jpg/02768f6330369c32b5889d7959506247.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Cover_AlbumBkg.jpg/20d487c29e16041fa86bb4a6a3a6b78c.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Cover_AlbumCoach.png/b0ef768cb34882cadea4d19423fe0bf1.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Coach_1_Phone.png/5a56eabd7da613f6590752634ace2db6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Cover_Phone.jpg/02768f6330369c32b5889d7959506247.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_VideoPreview.webm/ca1ac9091b2eb2d931577365fbbb3250.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_banner_bkg.jpg/8f95b03ad0b941aaa4e3674660cbca16.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Coach_1.png/39eaf97941cd270a7ab11c1dc3570db3.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Cover_Generic.jpg/f736a2a1e286a8acde4bd4a72be5ce71.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Cover_1024.png/79297dc430bb8061d0edd20fb3508307.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Cover_Online.jpg/02768f6330369c32b5889d7959506247.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Cover_AlbumBkg.jpg/20d487c29e16041fa86bb4a6a3a6b78c.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Cover_AlbumCoach.png/b0ef768cb34882cadea4d19423fe0bf1.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Coach_1_Phone.png/5a56eabd7da613f6590752634ace2db6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Cover_Phone.jpg/02768f6330369c32b5889d7959506247.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_VideoPreview.webm/ca1ac9091b2eb2d931577365fbbb3250.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/wiiu/IFeelLove_banner_bkg.tga.ckd/f54e5ea56d55901810691a94f771ab4b.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/wiiu/IFeelLove_Coach_1.tga.ckd/d9838757ff8195ca1a38977095af75a6.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/wiiu/IFeelLove_Cover_Generic.tga.ckd/467e05fb5b4dbe06356e9f5f933c67d8.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Cover_1024.png/79297dc430bb8061d0edd20fb3508307.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/wiiu/IFeelLove_Cover_Online.tga.ckd/f53ffd5e243d1ca15e68dd9f6b9d3a00.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/wiiu/IFeelLove_Cover_AlbumBkg.tga.ckd/8e5f489071b9733a6939b4d1d168a1d9.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/wiiu/IFeelLove_Cover_AlbumCoach.tga.ckd/12bd68440d576ef1ce428ff25d4082f9.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Coach_1_Phone.png/5a56eabd7da613f6590752634ace2db6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_Cover_Phone.jpg/02768f6330369c32b5889d7959506247.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_VideoPreview.webm/ca1ac9091b2eb2d931577365fbbb3250.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22878,45964,68738,91681,114598,137537,160210,183449,206305,229274,252122,275056,298017,320899,343772,366768,389502,412693,435458,458331,481326,504339,527282,550243,573099,596007,618959,641850,664806,687758,710653,733335,756507,779365,802367,825317,847724,871090,894061,917061,939919,962854,985762,1008714,1031666,1054600,1077460,1100382,1123229,1146264,1169468,1192119,1215106,1238040,1260905,1283840,1306750,1329700,1352649,1375586,1398503,1421433],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":478,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/ifeellove/ifeellove_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "5CE4FFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 228.714,
+  "mapName": "IFeelLove",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"494675\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1413445\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2194445\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2194955\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "IFeelLove_mapContent"
+  },
+  "parentMapName": "IFeelLove",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "540084FF",
+    "songColor_1B": "190034FF",
+    "songColor_2A": "00D3E0FF",
+    "songColor_2B": "0C0044FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "I Feel Love",
+  "urls": {
+    "jmcs://jd-contents/IFeelLove/IFeelLove_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_AudioPreview.ogg/e955bfcd4c9bb93cc53403b579aeaba2.ogg",
+    "jmcs://jd-contents/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_HIGH.vp8.webm/cc60ed961d5f9ebf69da663e26578711.webm",
+    "jmcs://jd-contents/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_HIGH.vp9.webm/468d524a5084df4a299cde712eb1c52d.webm",
+    "jmcs://jd-contents/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_LOW.vp8.webm/8b15c987e21c4823442e3a617b058d06.webm",
+    "jmcs://jd-contents/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_LOW.vp9.webm/2847929eb9de8db0b81e316fd78a9097.webm",
+    "jmcs://jd-contents/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_MID.vp8.webm/cea3b70a9b11ff87da08a2ada14c67e5.webm",
+    "jmcs://jd-contents/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_MID.vp9.webm/ae9d4402bd5e80f3cf8ac9fd8680a937.webm",
+    "jmcs://jd-contents/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm/4154eb4017fb07a719ca5a1942869d59.webm",
+    "jmcs://jd-contents/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/IFeelLove/IFeelLove_MapPreviewNoSoundCrop_ULTRA.vp9.webm/410989be2bfdf5e98744666424c4dfa0.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "f383da0c73a17d4c9588403b83351fce",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IFeelLove/ps4/IFeelLove_MAIN_SCENE_ORBIS.zip/f383da0c73a17d4c9588403b83351fce.zip",
+      "version": 33
+    },
+    "pc": {
+      "md5": "fc805cda54c8a2afaaa3e27ea1b137ae",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IFeelLove/pc/IFeelLove_MAIN_SCENE_PC.zip/fc805cda54c8a2afaaa3e27ea1b137ae.zip",
+      "version": 19
+    },
+    "wiiu": {
+      "md5": "9a9a0d3b96301027d1f2bdfd17d17738",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IFeelLove/wiiu/IFeelLove_MAIN_SCENE_WIIU.zip/9a9a0d3b96301027d1f2bdfd17d17738.zip",
+      "version": 37
+    },
+    "nx": {
+      "md5": "8f12663c4707bf15e4c697b1d0658228",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IFeelLove/nx/IFeelLove_MAIN_SCENE_NX.zip/8f12663c4707bf15e4c697b1d0658228.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

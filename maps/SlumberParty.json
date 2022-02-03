@@ -1,0 +1,142 @@
+{
+  "artist": "Britney Spears ft. Tinashe",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/ps4/SlumberParty_banner_bkg.tga.ckd/8de6572b20e35d5fafb3167eb0d16681.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/ps4/SlumberParty_Coach_1.tga.ckd/4843ee574decea21bd3f9828dc984a73.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/ps4/SlumberParty_Coach_2.tga.ckd/3bf3629437a017512afc9d65f46ebfee.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/ps4/SlumberParty_Coach_3.tga.ckd/f6c78c161bb59473b2ca5c96e877715f.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/ps4/SlumberParty_Coach_4.tga.ckd/e9bd8517e52793b1ebbf1cc3d319ff50.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/ps4/SlumberParty_Cover_Generic.tga.ckd/2a703a120d6ba6dcf2110dd331eae941.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Cover_1024.png/cd9ac2d08e0cf823174104c12c21ccf2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/ps4/SlumberParty_Cover_Online.tga.ckd/bf85ff9d427c6fefeb07ab07d542de04.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/ps4/SlumberParty_Cover_AlbumBkg.tga.ckd/0a46bbfbc125a3a7efe4b2b77b05e96c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/ps4/SlumberParty_Cover_AlbumCoach.tga.ckd/86d22d73df7508489d8915bf9bbb6b8d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Coach_1_Phone.png/950bbf434f3b425870c6f0e6574ef6e0.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Coach_2_Phone.png/eae9e702ec0a6cea20a54108c3bb3dc7.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Coach_3_Phone.png/2a6af63bfd6455e1824fe7082a2bf0fa.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Coach_4_Phone.png/db4a7414f52c9955ba4a3e551a207430.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Cover_Phone.jpg/8220c767df47b358df9d7ac5e7050165.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_VideoPreview.webm/e818690e67b48e2993ea5c2d734d1831.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/ps4/SlumberParty_map_bkg.tga.ckd/cb785f5945639e093160aa43b45b7ba9.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/nx/SlumberParty_banner_bkg.tga.ckd/5196da7731e212abeb67e8b85e46e774.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/nx/SlumberParty_Coach_1.tga.ckd/6af2403725f7ee55118b86ec7409d4ec.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/nx/SlumberParty_Coach_2.tga.ckd/dfe74b88af5f0053c58783590663ee4e.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/nx/SlumberParty_Coach_3.tga.ckd/b21f77c763545808f7b28e469396a6b1.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/nx/SlumberParty_Coach_4.tga.ckd/96ba72745a7deed058951e83eb10f4dc.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/nx/SlumberParty_Cover_Generic.tga.ckd/1470c68e807f02c70a1074840d7c1761.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Cover_1024.png/cd9ac2d08e0cf823174104c12c21ccf2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/nx/SlumberParty_Cover_Online.tga.ckd/ff0d61acc360dd7f0998835ff90d74f8.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/nx/SlumberParty_Cover_AlbumBkg.tga.ckd/64d5af0af09d9a95834c4847eb9c0b81.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/nx/SlumberParty_Cover_AlbumCoach.tga.ckd/87c663529bd0068eba389a5f2c19f85c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Coach_1_Phone.png/950bbf434f3b425870c6f0e6574ef6e0.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Coach_2_Phone.png/eae9e702ec0a6cea20a54108c3bb3dc7.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Coach_3_Phone.png/2a6af63bfd6455e1824fe7082a2bf0fa.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Coach_4_Phone.png/db4a7414f52c9955ba4a3e551a207430.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Cover_Phone.jpg/8220c767df47b358df9d7ac5e7050165.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_VideoPreview.webm/e818690e67b48e2993ea5c2d734d1831.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/nx/SlumberParty_map_bkg.tga.ckd/498ba3e25c0f20db4fee2132877f1eee.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/wiiu/SlumberParty_banner_bkg.tga.ckd/f7a80e8b07eb8b8209076628dd52bb25.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/wiiu/SlumberParty_Coach_1.tga.ckd/1445639fd08ca716db79f0b10ebf8cd0.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/wiiu/SlumberParty_Coach_2.tga.ckd/a7226899800959a68a84c593e260d4d1.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/wiiu/SlumberParty_Coach_3.tga.ckd/a1da7d89264e0a7286dc02ed77561a9b.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/wiiu/SlumberParty_Coach_4.tga.ckd/cab7a2c127a90446670532fa72a8d52c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/wiiu/SlumberParty_Cover_Generic.tga.ckd/b8a4e649ac3095b2b058d55eea83969a.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Cover_1024.png/cd9ac2d08e0cf823174104c12c21ccf2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/wiiu/SlumberParty_Cover_Online.tga.ckd/d87155cfbcb823e21fec4a574a6f2529.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/wiiu/SlumberParty_Cover_AlbumBkg.tga.ckd/7df357d8b91f48f0ee5dbb3bd36efb88.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/wiiu/SlumberParty_Cover_AlbumCoach.tga.ckd/72d4eb2fcb16a21a264a7937bb5ec6aa.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Coach_1_Phone.png/950bbf434f3b425870c6f0e6574ef6e0.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Coach_2_Phone.png/eae9e702ec0a6cea20a54108c3bb3dc7.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Coach_3_Phone.png/2a6af63bfd6455e1824fe7082a2bf0fa.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Coach_4_Phone.png/db4a7414f52c9955ba4a3e551a207430.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_Cover_Phone.jpg/8220c767df47b358df9d7ac5e7050165.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_VideoPreview.webm/e818690e67b48e2993ea5c2d734d1831.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21312,42672,63985,85345,106657,128017,149329,170641,192001,213313,234673,255985,277345,298657,320017,341329,362641,384001,405313,426673,447985,469345,490657,512017,533329,554641,576001,597313,618673,639985,661345,682658,704018,725330,746642,768002,789314,810674,831986,853346,874658,896018,917330,938642,960002,981314,1002674,1023986,1045346,1066658,1088018,1109330,1130642,1152002,1173314,1194674,1215986,1237346,1258658,1280019,1301331,1322643,1344003,1365315,1386675,1407987,1429347],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":478,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":67,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/slumberparty/slumberparty_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Mattias Larsson, Robin Frederiksson, Justin Tranter and Julia Michaels. Published by Warner-Tamerlane Publishing Corp. (BMI) obo Itself, Thanks For The Songs Richard, Semi Precious Weapons, Justin's School For Girls. WB Music Corp. (ASCAP) obo Warner/Chappell Music Scandinavia AB (STIM), Ma-Jay Publishing (STIM) and Wolf Cousins (STIM). Courtesy of RCA Records. By arrangement with Sony Music Entertainment. / Tinashe appears courtesy of RCA Records. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "B8233BFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 216,
+  "mapName": "SlumberParty",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495725\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1470485\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1096\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2850209\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1096\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3634205\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1096\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "SlumberParty_mapContent"
+  },
+  "parentMapName": "SlumberParty",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "BC941AFF",
+    "songColor_1B": "1C1407FF",
+    "songColor_2A": "FF3600FF",
+    "songColor_2B": "070100FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "HallOfFame",
+    "CnUnlimited2018"
+  ],
+  "title": "Slumber Party",
+  "urls": {
+    "jmcs://jd-contents/SlumberParty/SlumberParty_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_AudioPreview.ogg/7bebd3836bb405c4c58c18423bd9f8db.ogg",
+    "jmcs://jd-contents/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_HIGH.vp8.webm/ee061c511523304dcf00076ee7b53d33.webm",
+    "jmcs://jd-contents/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_HIGH.vp9.webm/04ccfacbcdc7164a6a2ca74d44216a54.webm",
+    "jmcs://jd-contents/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_LOW.vp8.webm/0bd81e8dab3f0adbdd969c63e20f7785.webm",
+    "jmcs://jd-contents/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_LOW.vp9.webm/ab7665b4581dece7cac63e0141ec2cf0.webm",
+    "jmcs://jd-contents/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_MID.vp8.webm/70de3d01169f17d50a1288cf04e92dbf.webm",
+    "jmcs://jd-contents/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_MID.vp9.webm/27eb0479794575f029a09b499c29835e.webm",
+    "jmcs://jd-contents/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_ULTRA.vp8.webm/1cc0b8de98227f772da38ae674091d6b.webm",
+    "jmcs://jd-contents/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/SlumberParty/SlumberParty_MapPreviewNoSoundCrop_ULTRA.vp9.webm/1f4e77e7cbaf118f84b1c242addebd14.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a9a3af7ecc114aab24f9c8b1814c2f8a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SlumberParty/ps4/SlumberParty_MAIN_SCENE_ORBIS.zip/a9a3af7ecc114aab24f9c8b1814c2f8a.zip",
+      "version": 4
+    },
+    "nx": {
+      "md5": "a41e8902ce62360ec9b0637611b384ed",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SlumberParty/nx/SlumberParty_MAIN_SCENE_NX.zip/a41e8902ce62360ec9b0637611b384ed.zip",
+      "version": 4
+    },
+    "pc": {
+      "md5": "c3b4578f1e7812ebbb27469a33462711",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SlumberParty/pc/SlumberParty_MAIN_SCENE_PC.zip/c3b4578f1e7812ebbb27469a33462711.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "5ec0c0ff41b1338af0b46c4059f0b176",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SlumberParty/wiiu/SlumberParty_MAIN_SCENE_WIIU.zip/5ec0c0ff41b1338af0b46c4059f0b176.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

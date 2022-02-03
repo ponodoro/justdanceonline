@@ -1,0 +1,22 @@
+{
+    "__class": "Category",
+    "title": {
+        "tr": "[icon:SEARCH_FILTER] Arama",
+        "zh": "[icon:SEARCH_FILTER] Sōusuǒ",
+        "es": "[icon:SEARCH_FILTER] Buscar",
+        "pt": "[icon:SEARCH_FILTER] Procurar",
+        "ru": "[icon:SEARCH_FILTER] Поиск",
+        "fr": "[icon:SEARCH_FILTER] Chercher",
+        "en": "[icon:SEARCH_FILTER] Search"
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row_search",
+    "noShuffle": true,
+    "items": [{
+            "__class": "Item",
+            "act": "ui_component_base",
+            "components": [],
+            "isc": "grp_search",
+            "actionList": "search"
+    }]
+}

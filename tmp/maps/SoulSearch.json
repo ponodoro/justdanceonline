@@ -1,0 +1,114 @@
+{
+  "artist": "Groove Century",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_banner_bkg.jpg/218e0215b4c793b77fc2c4adad5c7a08.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Coach_1.png/b438dfd9127365772ee4fe9e9784d5bb.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Cover_Generic.jpg/edcd8f7d0eefd2f8cd0bb5b5dd0a0f4d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Cover_1024.png/e30c627e3e06fffbf7baf05a797d6565.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Cover_Online.jpg/da45795cf4a55be5920ccdefc099539a.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Cover_AlbumBkg.jpg/c29304717abd34c336c3ee86f4154027.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Cover_AlbumCoach.png/aa36da23fa78509924508974556c2b5a.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Coach_1_Phone.png/a5185fbf0941a7439bf0ba0a4a4ebb61.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Cover_Phone.jpg/da45795cf4a55be5920ccdefc099539a.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_VideoPreview.webm/c4ae9aeb8bd63e241aa849a1e2d4253d.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_banner_bkg.jpg/218e0215b4c793b77fc2c4adad5c7a08.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Coach_1.png/b438dfd9127365772ee4fe9e9784d5bb.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Cover_Generic.jpg/edcd8f7d0eefd2f8cd0bb5b5dd0a0f4d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Cover_1024.png/e30c627e3e06fffbf7baf05a797d6565.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Cover_Online.jpg/da45795cf4a55be5920ccdefc099539a.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Cover_AlbumBkg.jpg/c29304717abd34c336c3ee86f4154027.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Cover_AlbumCoach.png/aa36da23fa78509924508974556c2b5a.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Coach_1_Phone.png/a5185fbf0941a7439bf0ba0a4a4ebb61.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Cover_Phone.jpg/da45795cf4a55be5920ccdefc099539a.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_VideoPreview.webm/c4ae9aeb8bd63e241aa849a1e2d4253d.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/wiiu/SoulSearch_banner_bkg.tga.ckd/18f1033ad4e8b23d66d51b2bf73d6427.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/wiiu/SoulSearch_Coach_1.tga.ckd/08fc3b07b3ef69b939cb417352e8bb71.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/wiiu/SoulSearch_Cover_Generic.tga.ckd/03976199e4b0d3012b66584d51182120.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Cover_1024.png/e30c627e3e06fffbf7baf05a797d6565.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/wiiu/SoulSearch_Cover_Online.tga.ckd/e4c5ea5370d7c17d214d24a5b5c59934.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/wiiu/SoulSearch_Cover_AlbumBkg.tga.ckd/db039f468fceb7a59a537fa7d528c906.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/wiiu/SoulSearch_Cover_AlbumCoach.tga.ckd/876bde508e341ffa7ed9f6262fc80b76.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Coach_1_Phone.png/a5185fbf0941a7439bf0ba0a4a4ebb61.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_Cover_Phone.jpg/da45795cf4a55be5920ccdefc099539a.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_VideoPreview.webm/c4ae9aeb8bd63e241aa849a1e2d4253d.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26180,52360,78540,104720,130900,157080,183260,209440,235620,261800,287980,314160,340340,366520,392700,418880,445060,471240,497420,523600,549780,575960,602140,628320,654500,680680,706860,733040,759220,785400,811580,837760,863940,890120,916300,942480,968660,994840,1021020,1047200,1073380,1099560,1125740,1151920,1178100,1204280,1230460,1256640,1282820,1309000,1335180,1361360,1387540,1413720,1439900],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":350,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":55,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/soulsearch/soulsearch_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FEC805FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 191.661,
+  "mapName": "SoulSearch",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497207\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1295171\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1302538\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1302376\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "SoulSearch_mapContent"
+  },
+  "parentMapName": "SoulSearch",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "02C5CEFF",
+    "songColor_1B": "000033FF",
+    "songColor_2A": "FFC400FF",
+    "songColor_2B": "821100FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Soul Searchin",
+  "urls": {
+    "jmcs://jd-contents/SoulSearch/SoulSearch_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_AudioPreview.ogg/9c56b1ba5f2c965f8bde6f9dfab25b85.ogg",
+    "jmcs://jd-contents/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_HIGH.vp8.webm/d2f84c66693b1e5dc46f97606f4e0807.webm",
+    "jmcs://jd-contents/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_HIGH.vp9.webm/15cfc781d33ff5c8cafc6349c3246c4c.webm",
+    "jmcs://jd-contents/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_LOW.vp8.webm/baaa76ab9d745949e84e5c835f9b8ffe.webm",
+    "jmcs://jd-contents/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_LOW.vp9.webm/80775cfdcf6527de245e3a008637a210.webm",
+    "jmcs://jd-contents/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_MID.vp8.webm/9d5c41f268bc9f78f41cc84cdfe14ee5.webm",
+    "jmcs://jd-contents/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_MID.vp9.webm/096207ea40568a56377f49337600654a.webm",
+    "jmcs://jd-contents/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_ULTRA.vp8.webm/64380bd57b05626fce2c9deadf262c2f.webm",
+    "jmcs://jd-contents/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/SoulSearch/SoulSearch_MapPreviewNoSoundCrop_ULTRA.vp9.webm/c4c7d543f54b8bf5aa0b6edf56292a82.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "8cb389e86588f561a33aae1469fddddb",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SoulSearch/ps4/SoulSearch_MAIN_SCENE_ORBIS.zip/8cb389e86588f561a33aae1469fddddb.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "fdca0398c40b437ff9b8c39e4938ba44",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SoulSearch/pc/SoulSearch_MAIN_SCENE_PC.zip/fdca0398c40b437ff9b8c39e4938ba44.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "5763a103833647b24f4e97f7ab1c8ee9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SoulSearch/wiiu/SoulSearch_MAIN_SCENE_WIIU.zip/5763a103833647b24f4e97f7ab1c8ee9.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "2ed5f652051536401e97ba59d4113448",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SoulSearch/nx/SoulSearch_MAIN_SCENE_NX.zip/2ed5f652051536401e97ba59d4113448.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,125 @@
+{
+  "artist": "Mayra Verónica",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/ps4/MamaMia_banner_bkg.tga.ckd/99f647159c93593ff089a32741753cb6.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/ps4/MamaMia_Coach_1.tga.ckd/a9bc699181868cf04ec3b224ee52b9f4.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/ps4/MamaMia_Coach_2.tga.ckd/d88d07d581b55d488b8f634a59dac8d5.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/ps4/MamaMia_Cover_Generic.tga.ckd/63d65d749f292e762be76cea0078ce90.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Cover_1024.png/cadb9b4f10aa06aded9013e7b9f52a4f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/ps4/MamaMia_Cover_Online.tga.ckd/5357de45cb10ac279e44fb53feb3e4c4.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/ps4/MamaMia_Cover_AlbumBkg.tga.ckd/4f677938060cba929232134e14943e2c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/ps4/MamaMia_Cover_AlbumCoach.tga.ckd/d73f7b40f05f54487876177530ec59c7.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Coach_1_Phone.png/eb7cf676fbdd628f4d83c7b814c8ff99.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Coach_2_Phone.png/5273077bbe2a8f74811d5dd308412512.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Cover_Phone.jpg/faf359e1df01fe224920281d997cf91d.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/ps4/MamaMia_map_bkg.tga.ckd/f82f5deb6b7f4226a3870a32e21368cd.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/nx/MamaMia_banner_bkg.tga.ckd/acb615f9db66a9381a68b93dcde16586.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/nx/MamaMia_Coach_1.tga.ckd/9ce2c9ce7179cdc858b58a5846ee8aa1.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/nx/MamaMia_Coach_2.tga.ckd/ad3c0c8fdd513ba110ed5ba829d6e908.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/nx/MamaMia_Cover_Generic.tga.ckd/fbfcc2aa2345dcd78e3e309401a23a70.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Cover_1024.png/cadb9b4f10aa06aded9013e7b9f52a4f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/nx/MamaMia_Cover_Online.tga.ckd/dc2fd337ab8ac331313102422f1d34c7.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/nx/MamaMia_Cover_AlbumBkg.tga.ckd/b5e8267233ba59ae64b540929c8bca51.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/nx/MamaMia_Cover_AlbumCoach.tga.ckd/0baee4c0539d7e66b29764e26007fdf5.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Coach_1_Phone.png/eb7cf676fbdd628f4d83c7b814c8ff99.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Coach_2_Phone.png/5273077bbe2a8f74811d5dd308412512.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Cover_Phone.jpg/faf359e1df01fe224920281d997cf91d.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/nx/MamaMia_map_bkg.tga.ckd/672a372715609ebff2152af7ffe9acb7.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_banner_bkg.jpg/4ea66ff0ccf2d063558eba6fa29caf9a.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Coach_1.png/762a965af22be56b36e7b0896ab80693.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Coach_2.png/5eac314262dff7188f363978eaa3d8d3.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Cover_Generic.jpg/6452daa58da4602f666672524418f6b5.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Cover_1024.png/cadb9b4f10aa06aded9013e7b9f52a4f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Cover_Online.jpg/faf359e1df01fe224920281d997cf91d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Cover_AlbumBkg.jpg/179079ca580c4debacf228bb3749ec61.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Cover_AlbumCoach.png/5494f439eed667e22aaea89f822f8f56.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Coach_1_Phone.png/eb7cf676fbdd628f4d83c7b814c8ff99.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Coach_2_Phone.png/5273077bbe2a8f74811d5dd308412512.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_Cover_Phone.jpg/faf359e1df01fe224920281d997cf91d.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22320,44640,67008,89328,111648,133968,156288,178608,200928,223248,245568,267936,290256,312576,334896,357216,379536,401856,424176,446495,468863,491183,513503,535823,558143,580463,602783,625103,647471,669791,692111,714431,736751,759071,781391,803711,826031,848399,870719,893039,915359,937679,959999,982319,1004639,1027007,1049327,1071647,1093966,1116286,1138606,1160926,1183246,1205566,1227934,1250254,1272574,1294894,1317214,1339534,1361854,1384174,1406494,1428862],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":379,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/mamamia/mamamia_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Mayra Veronica Aruca, Luciana Caporaso, Nick Clow, Roy Tavare and Hamilton F. Bohannon. Published by Sony/ATV Music Publishing (UK) Limited (PRS) and Bayahibe Music Inc (ASCAP) c/o Sony/ATV Music Publishing Canada (SOCAN) / BMG Platinum Songs on behalf of itself and MVA Music. All rights administered by BMG Rights Management (US) LLC. / Bohannon Ponteverda Music (ASCAP). All rights reserved. Used with permission. Courtesy of SME UK Ltd. By arrangement with Sony Music Entertainment / Bohannon Productions. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "06CCA7FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 178.14,
+  "mapName": "MamaMia",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"498224\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MamaMia/MamaMia_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484852\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MamaMia/MamaMia_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2341753\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MamaMia/MamaMia_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2450396\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MamaMia/MamaMia_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "MamaMia_mapContent"
+  },
+  "parentMapName": "MamaMia",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "0275CEFF",
+    "songColor_1B": "01348CFF",
+    "songColor_2A": "FCCE79FF",
+    "songColor_2B": "A84503FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Mama Mia",
+  "urls": {
+    "jmcs://jd-contents/MamaMia/MamaMia_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_AudioPreview.ogg/1a3a8287bdf10aa3587592b04277a109.ogg",
+    "jmcs://jd-contents/MamaMia/MamaMia_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_MapPreviewNoSoundCrop_HIGH.vp8.webm/f33b602b37549cbb9143389250a9d597.webm",
+    "jmcs://jd-contents/MamaMia/MamaMia_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_MapPreviewNoSoundCrop_HIGH.vp9.webm/798752d1782b292d4d8d571e65d98aaf.webm",
+    "jmcs://jd-contents/MamaMia/MamaMia_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_MapPreviewNoSoundCrop_LOW.vp8.webm/ab5c8c23e8a716fdc6cccf3fd6ed6bc1.webm",
+    "jmcs://jd-contents/MamaMia/MamaMia_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_MapPreviewNoSoundCrop_LOW.vp9.webm/edb4d1b3215a5681d311c3cf6d48ff81.webm",
+    "jmcs://jd-contents/MamaMia/MamaMia_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_MapPreviewNoSoundCrop_MID.vp8.webm/0362b280a86bcc9185162861996e75b7.webm",
+    "jmcs://jd-contents/MamaMia/MamaMia_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_MapPreviewNoSoundCrop_MID.vp9.webm/07533e2e1e78f66a8cbf0284d13af1c8.webm",
+    "jmcs://jd-contents/MamaMia/MamaMia_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_MapPreviewNoSoundCrop_ULTRA.vp8.webm/1fb68065dcdfca8f4188fa2b9ad7c6c6.webm",
+    "jmcs://jd-contents/MamaMia/MamaMia_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/MamaMia/MamaMia_MapPreviewNoSoundCrop_ULTRA.vp9.webm/1f627cb1119dc7c4d96edc61ddb2a457.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "fbcf97ab62d47c1a47fb52e60e43fb55",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MamaMia/ps4/MamaMia_MAIN_SCENE_ORBIS.zip/fbcf97ab62d47c1a47fb52e60e43fb55.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "40c10dfd7fe4c3daceab00b8c4416c0f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MamaMia/nx/MamaMia_MAIN_SCENE_NX.zip/40c10dfd7fe4c3daceab00b8c4416c0f.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "6dc12eb31600f2e234306d1cd530ece7",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/mamamia_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

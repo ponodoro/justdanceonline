@@ -1,0 +1,115 @@
+{
+  "artist": "Robin Thicke Ft. Pharrell Williams",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_banner_bkg.jpg/b2b788695293ecdf8b928d7410fda798.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Coach_1.png/e3d9315a7adc1e9f83f710a17101ec69.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Cover_Generic.jpg/996e3d3d776dea00c6e43088082a8a0b.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Cover_1024.png/a3e1dfc999c650b1ed5f1ec08e3496a8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Cover_Online.jpg/3fb3de09ea36c8f16d418dadbff735b5.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Cover_AlbumBkg.jpg/53d7db3b00067ebef92d1d6a75d88894.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Cover_AlbumCoach.png/753a46d5f2f0e98abef9de310413d9ae.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Coach_1_Phone.png/6f59064847785f04d12936b6038d2855.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Cover_Phone.jpg/3fb3de09ea36c8f16d418dadbff735b5.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_VideoPreview.webm/ad0757b88038124006d09895c0d6503e.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_banner_bkg.jpg/b2b788695293ecdf8b928d7410fda798.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Coach_1.png/e3d9315a7adc1e9f83f710a17101ec69.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Cover_Generic.jpg/996e3d3d776dea00c6e43088082a8a0b.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Cover_1024.png/a3e1dfc999c650b1ed5f1ec08e3496a8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Cover_Online.jpg/3fb3de09ea36c8f16d418dadbff735b5.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Cover_AlbumBkg.jpg/53d7db3b00067ebef92d1d6a75d88894.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Cover_AlbumCoach.png/753a46d5f2f0e98abef9de310413d9ae.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Coach_1_Phone.png/6f59064847785f04d12936b6038d2855.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Cover_Phone.jpg/3fb3de09ea36c8f16d418dadbff735b5.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_VideoPreview.webm/ad0757b88038124006d09895c0d6503e.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/wiiu/BlurredLinesALTDLC_banner_bkg.tga.ckd/74d0d18448260eb4a6d280e8197c74b7.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/wiiu/BlurredLinesALTDLC_Coach_1.tga.ckd/0e08002e1d7ece67e4e801a509fd59d2.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/wiiu/BlurredLinesALTDLC_Cover_Generic.tga.ckd/ca786a4cac94e4446b63643ecdd48240.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Cover_1024.png/a3e1dfc999c650b1ed5f1ec08e3496a8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/wiiu/BlurredLinesALTDLC_Cover_Online.tga.ckd/1c82f22792c956f6877ed20fb8f84ecf.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/wiiu/BlurredLinesALTDLC_Cover_AlbumBkg.tga.ckd/2a8daf43878be32218d1cdf4cad46966.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/wiiu/BlurredLinesALTDLC_Cover_AlbumCoach.tga.ckd/ba59487fdd4f461c0c818c5d86868c51.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Coach_1_Phone.png/6f59064847785f04d12936b6038d2855.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_Cover_Phone.jpg/3fb3de09ea36c8f16d418dadbff735b5.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_VideoPreview.webm/ad0757b88038124006d09895c0d6503e.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24001,48001,72001,96001,120001,144001,168001,192001,216001,240001,264001,288001,312001,336000,360001,384001,408001,432001,456000,480001,504001,528001,552001,576000,600001,624001,648001,672001,696001,720001,744001,768001,792001,816001,840001,864001,888001,912001,936001,960001,984001,1008001,1032000,1056001,1080001,1104001,1128001,1152000,1176001,1200001,1224001,1248001,1272000,1296001,1320001,1344001,1368001,1392001,1416001],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":444,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/blurredlinesaltdlc/blurredlinesaltdlc_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 4,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "D148AFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 222,
+  "mapName": "BlurredLinesALTDLC",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"494479\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1103101\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"650-1140\">\r\n\t\t\t\t\t<Initialization range=\"0-650\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1112660\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"650-1140\">\r\n\t\t\t\t\t<Initialization range=\"0-650\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1112660\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"650-1140\">\r\n\t\t\t\t\t<Initialization range=\"0-650\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "BlurredLinesALTDLC_mapContent"
+  },
+  "parentMapName": "BlurredLinesALTDLC",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "E337F2FF",
+    "songColor_1B": "120673FF",
+    "songColor_2A": "EC9B0BFF",
+    "songColor_2B": "270066FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Blurred Lines",
+  "urls": {
+    "jmcs://jd-contents/BlurredLinesALTDLC/BlurredLinesALTDLC_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_AudioPreview.ogg/11f57a9c8a0439a2bd3d7bdf5b8f2f77.ogg",
+    "jmcs://jd-contents/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm/d1738666244da06349cf0e0ca68ead13.webm",
+    "jmcs://jd-contents/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm/dd71fda0ed9f830394f99f05aa4df79f.webm",
+    "jmcs://jd-contents/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/baef188402a0965b4dcbff72cce8f064.webm",
+    "jmcs://jd-contents/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_LOW.vp9.webm/debde3c3ffc64a9556eba79c42314f5f.webm",
+    "jmcs://jd-contents/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_MID.vp8.webm/2196d1de605332ebaabf1f7454912b03.webm",
+    "jmcs://jd-contents/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_MID.vp9.webm/e8864851a06894b9c218136b1578fc7e.webm",
+    "jmcs://jd-contents/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm/14e16f194e71b4b411cc5f9fdf4cffaa.webm",
+    "jmcs://jd-contents/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/BlurredLinesALTDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm/293c773fe927babceadf72dc230a809a.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "457e561c6b16c1be5abeac9eb21b104a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/ps4/BlurredLinesALTDLC_MAIN_SCENE_ORBIS.zip/457e561c6b16c1be5abeac9eb21b104a.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "bc2ff767de7c3e83b36e927ae95ccbe5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/pc/BlurredLinesALTDLC_MAIN_SCENE_PC.zip/bc2ff767de7c3e83b36e927ae95ccbe5.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "1724956434753297207b6021f9fa999c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/wiiu/BlurredLinesALTDLC_MAIN_SCENE_WIIU.zip/1724956434753297207b6021f9fa999c.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "70694c367ac0462f6cff8ab0b2b22ee1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BlurredLinesALTDLC/nx/BlurredLinesALTDLC_MAIN_SCENE_NX.zip/70694c367ac0462f6cff8ab0b2b22ee1.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12624
+}

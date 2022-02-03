@@ -1,0 +1,123 @@
+{
+  "artist": "Halloween Thrills",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/ggp/MagicHalloweenKids_banner_bkg.tga.ckd/127640af453c124663abfd97b8c756dc.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/ggp/MagicHalloweenKids_Coach_1.tga.ckd/93e353f5ff99d30666593a091abc6cda.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/ggp/MagicHalloweenKids_Coach_2.tga.ckd/1baaacb0c520358d39cc8522d9786f7d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/ggp/MagicHalloweenKids_Cover_Generic.tga.ckd/c2eaf09546228d596e3626981015f5ba.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_Cover_1024.png/85b8e0a32e628bde72e3726435b6c212.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/ggp/MagicHalloweenKids_Cover_Online.tga.ckd/4be0811a7ddc98b091b53db49bc9a422.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/ggp/MagicHalloweenKids_Cover_AlbumBkg.tga.ckd/8a618f56c5aa9bce6bcdc075ff88a0b0.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/ggp/MagicHalloweenKids_Cover_AlbumCoach.tga.ckd/2bab969edd49fffa6e96f51e0d1a521b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_Coach_1_Phone.png/2e41c2adf3969394b6d93403738faec4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_Coach_2_Phone.png/33b87e34837f7137d2175df14d5cf71f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_Cover_Phone.jpg/4fa62a9e5ec6cc779de1e588d0f68066.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_VideoPreview.webm/e18b21b7e789a9980d26a192f8b1b3f6.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/ggp/MagicHalloweenKids_map_bkg.tga.ckd/7d704f199c2050026d55dd7423881e9e.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/nx/MagicHalloweenKids_banner_bkg.tga.ckd/add1112b747fcbf53de1741f7dca73db.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/nx/MagicHalloweenKids_Coach_1.tga.ckd/9cc8db19de9a96bda51dcd937e287098.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/nx/MagicHalloweenKids_Coach_2.tga.ckd/9b15bd515104164d3cdbadca001fa350.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/nx/MagicHalloweenKids_Cover_Generic.tga.ckd/1fd686d2d57b90afdb90b2fb6269af88.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_Cover_1024.png/85b8e0a32e628bde72e3726435b6c212.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/nx/MagicHalloweenKids_Cover_Online.tga.ckd/6e40aaf84bc48c997d4d4bef51130558.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/nx/MagicHalloweenKids_Cover_AlbumBkg.tga.ckd/4dab1d8a9df92579ed3626e37c7ad399.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/nx/MagicHalloweenKids_Cover_AlbumCoach.tga.ckd/80318d1cb1cc0fb822eb30c44f38187f.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/nx/MagicHalloweenKids_map_bkg.tga.ckd/329ea7ba3a9d429d215db0543c7fe05e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_Coach_1_Phone.png/2e41c2adf3969394b6d93403738faec4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_Coach_2_Phone.png/33b87e34837f7137d2175df14d5cf71f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_Cover_Phone.jpg/4fa62a9e5ec6cc779de1e588d0f68066.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_VideoPreview.webm/e18b21b7e789a9980d26a192f8b1b3f6.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/wiiu/MagicHalloweenKids_banner_bkg.tga.ckd/8a10881899a72d558eda6f4df01f393e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/wiiu/MagicHalloweenKids_Coach_1.tga.ckd/01b69a3f6868f63a36e56d46db01c9c7.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/wiiu/MagicHalloweenKids_Coach_2.tga.ckd/99b7bd1bee08e5dc753277e90abfe588.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/wiiu/MagicHalloweenKids_Cover_Generic.tga.ckd/f077c9b93f7ecbfd99e880f8b53ed6cf.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_Cover_1024.png/85b8e0a32e628bde72e3726435b6c212.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/wiiu/MagicHalloweenKids_Cover_Online.tga.ckd/12667c244ee7a8b599332571797cc99b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/wiiu/MagicHalloweenKids_Cover_AlbumBkg.tga.ckd/3f8a716b7ce93503ec78d245e294f3ae.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/wiiu/MagicHalloweenKids_Cover_AlbumCoach.tga.ckd/58211a71a3bb6ee592b4993dc5d82a43.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_Coach_1_Phone.png/2e41c2adf3969394b6d93403738faec4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_Coach_2_Phone.png/33b87e34837f7137d2175df14d5cf71f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_Cover_Phone.jpg/4fa62a9e5ec6cc779de1e588d0f68066.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_VideoPreview.webm/e18b21b7e789a9980d26a192f8b1b3f6.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20591,41183,61727,82319,102863,123455,143999,164591,185183,205727,226319,246863,267455,287999,308591,329183,349727,370319,390863,411455,431999,452591,473183,493727,514319,534863,555455,575999,596591,617183,637727,658319,678863,699455,719999,740590,761182,781726,802318,822862,843454,863998,884590,905182,925726,946318,966862,987454,1007998,1028590,1049182,1069726,1090318,1110862,1131454,1151998,1172590,1193182,1213726,1234318,1254862,1275454,1295998,1316590,1337182,1357726,1378318,1398862,1419454,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-20,\"endBeat\":243,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":70,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/magichalloweenkids/magichalloweenkids_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 112.713,
+  "mapName": "MagicHalloweenKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497315\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"642-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-642\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483534\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2837015\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2898106\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "MagicHalloweenKids_mapContent"
+  },
+  "parentMapName": "MagicHalloweenKids",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "5C01C4FF",
+    "songColor_1B": "170142FF",
+    "songColor_2A": "FFB219FF",
+    "songColor_2B": "420E00FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Magic Halloween",
+  "urls": {
+    "jmcs://jd-contents/MagicHalloweenKids/MagicHalloweenKids_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_AudioPreview.ogg/64c3263b61bf7346e1e71a6d9fac241d.ogg",
+    "jmcs://jd-contents/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/e81ed6b8789dfed021ff2593a04cff28.webm",
+    "jmcs://jd-contents/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/f62803cac0a52e91f21db16223a2f345.webm",
+    "jmcs://jd-contents/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_LOW.vp8.webm/1ff252f5d999597c538b51c1189f90d3.webm",
+    "jmcs://jd-contents/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_LOW.vp9.webm/81503f98f2201f1531f541aab91fd433.webm",
+    "jmcs://jd-contents/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_MID.vp8.webm/9445052169bc2ceb18df9aa29345917c.webm",
+    "jmcs://jd-contents/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_MID.vp9.webm/8342bb5635b05d5dc5308f7e2bfffd2f.webm",
+    "jmcs://jd-contents/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ce58f0da1b6de422bb2c0b66ae7652e7.webm",
+    "jmcs://jd-contents/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/MagicHalloweenKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/9f8c607c6e5d73ae2e6a9fcc9840f30d.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "4b9e9aa45ad92267437025005875d6d5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/ps4/MagicHalloweenKids_MAIN_SCENE_ORBIS.zip/4b9e9aa45ad92267437025005875d6d5.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "4a90b07e9201054dfed40c3d0ed58211",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/wiiu/MagicHalloweenKids_MAIN_SCENE_WIIU.zip/4a90b07e9201054dfed40c3d0ed58211.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "7f9cbfa7c6acb1e07d575e0776eaea56",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MagicHalloweenKids/nx/MagicHalloweenKids_MAIN_SCENE_NX.zip/7f9cbfa7c6acb1e07d575e0776eaea56.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "97e78e5773a6bf0406deebae69a2eb9f",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/MagicHalloweenKids/pc/97e78e5773a6bf0406deebae69a2eb9f.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939
+}

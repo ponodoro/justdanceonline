@@ -1,0 +1,119 @@
+{
+  "artist": "Netta",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/ps4/TOY_banner_bkg.tga.ckd/75e3f911254886d3d1908465731b4816.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/ps4/TOY_Coach_1.tga.ckd/7c0863cf903fa08a4bb3eb16ef29cc8c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/ps4/TOY_Cover_Generic.tga.ckd/f7637ec7ec4853304a7dd5622b7c3797.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/TOY_Cover_1024.png/a816edaa1e272617d008d8ea16e2b2ee.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/ps4/TOY_Cover_Online.tga.ckd/e558fbd2784b2128661b3fbe182bb40c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/ps4/TOY_Cover_AlbumBkg.tga.ckd/c05cb1044fe1f89e1ca1c31baf16479f.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/ps4/TOY_Cover_AlbumCoach.tga.ckd/079005eb8b7198121430aa752223ac11.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/TOY_Coach_1_Phone.png/7adc0f6f596819d762eff0eaabfd278d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/TOY_Cover_Phone.jpg/f4fa147265218dabda4ae2bc8654b75a.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/ps4/TOY_map_bkg.tga.ckd/0b00a90df7f02b26454cee9d59123f39.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/nx/TOY_banner_bkg.tga.ckd/a845ea9607e72abb739ef66c33910bda.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/nx/TOY_Coach_1.tga.ckd/af409c6dfe335b1757efc197bed39a79.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/nx/TOY_Cover_Generic.tga.ckd/d0c49a1e7cd6bc40e132ada2caa24aa3.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/TOY_Cover_1024.png/a816edaa1e272617d008d8ea16e2b2ee.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/nx/TOY_Cover_Online.tga.ckd/9ee4017590338adc7e00ea2c4e8c6220.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/nx/TOY_Cover_AlbumBkg.tga.ckd/82ac0a3dd103e592510d0e391e742c97.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/nx/TOY_Cover_AlbumCoach.tga.ckd/451ec599ef9e34899168fe70da376fce.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/TOY_Coach_1_Phone.png/7adc0f6f596819d762eff0eaabfd278d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/TOY_Cover_Phone.jpg/f4fa147265218dabda4ae2bc8654b75a.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/nx/TOY_map_bkg.tga.ckd/c8838de756128cad91b66a07df71a6b3.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/TOY_banner_bkg.jpg/912600cadd681b4af08ea69cfd5c1ff6.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/TOY_Coach_1.png/110d09e07d74139edcc3462299c1034d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/TOY_Cover_Generic.jpg/5697d639d0c4662294d0ce0a22d1c754.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/TOY_Cover_1024.png/a816edaa1e272617d008d8ea16e2b2ee.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/TOY_Cover_Online.jpg/f4fa147265218dabda4ae2bc8654b75a.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/TOY_Cover_AlbumBkg.jpg/ece495b79c7550c4268e67cda1cf4ebe.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/TOY_Cover_AlbumCoach.png/28bef3f0bba716e179973281c624dd75.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/TOY_Coach_1_Phone.png/7adc0f6f596819d762eff0eaabfd278d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TOY/TOY_Cover_Phone.jpg/f4fa147265218dabda4ae2bc8654b75a.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22129,44304,66433,88609,110785,132913,155089,177217,199393,221521,243696,265825,288000,310128,332304,354433,376609,398785,420913,443088,465217,487393,509520,531697,553824,576001,598128,620305,642432,664609,686785,708913,731088,753217,775393,797520,819697,841824,864001,886128,908305,930432,952609,974785,996913,1019088,1041216,1063392,1085520,1107697,1129824,1152001,1174128,1196305,1218432,1240609,1262784,1284913,1307088,1329216,1351392,1373521,1395697,1417825],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":393,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/toy/toy_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by John Anthony White, Doron Medalie, Stav Beger and Avshalom Ariel. Published by Universal Music Publishing Canada on behalf of Songs Of Universal, Inc. / Doron Medalie, Stav Beger and Avshalom Ariel. Courtesy of Tedy Productions Ltd under exclusive license to BMG Rights Management (US) LLC. By arrangement with BMG Rights Management (US) LLC. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "6DFB15FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 183.691,
+  "mapName": "TOY",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"493235\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TOY/TOY_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"611-1100\">\r\n\t\t\t\t\t<Initialization range=\"0-611\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1475410\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TOY/TOY_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"612-1102\">\r\n\t\t\t\t\t<Initialization range=\"0-612\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2917211\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TOY/TOY_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"612-1102\">\r\n\t\t\t\t\t<Initialization range=\"0-612\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5040403\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TOY/TOY_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"612-1107\">\r\n\t\t\t\t\t<Initialization range=\"0-612\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "TOY_mapContent"
+  },
+  "parentMapName": "TOY",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "ED9E44FF",
+    "songColor_1B": "F8F99DFF",
+    "songColor_2A": "6CCAFCFF",
+    "songColor_2B": "9C6DF9FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "TOY",
+  "urls": {
+    "jmcs://jd-contents/TOY/TOY_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TOY/TOY_AudioPreview.ogg/d0fd4225abdacb3b04e324492ce0855e.ogg",
+    "jmcs://jd-contents/TOY/TOY_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TOY/TOY_MapPreviewNoSoundCrop_HIGH.vp8.webm/fb2eaf3954a750b64fbc4d943804484e.webm",
+    "jmcs://jd-contents/TOY/TOY_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TOY/TOY_MapPreviewNoSoundCrop_HIGH.vp9.webm/5697118dedca52bb1a64dcf889ccb31e.webm",
+    "jmcs://jd-contents/TOY/TOY_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TOY/TOY_MapPreviewNoSoundCrop_LOW.vp8.webm/db8459a7daa7daf937558dd10628aa7b.webm",
+    "jmcs://jd-contents/TOY/TOY_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TOY/TOY_MapPreviewNoSoundCrop_LOW.vp9.webm/345b38d984743fda193d2e51d6067fea.webm",
+    "jmcs://jd-contents/TOY/TOY_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TOY/TOY_MapPreviewNoSoundCrop_MID.vp8.webm/4f1843db705d99ea808e842c77ce5838.webm",
+    "jmcs://jd-contents/TOY/TOY_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TOY/TOY_MapPreviewNoSoundCrop_MID.vp9.webm/2b34c7f6241e04348d7490977f5f569b.webm",
+    "jmcs://jd-contents/TOY/TOY_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TOY/TOY_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f83672a3628ec91ec9766dc5e846c52d.webm",
+    "jmcs://jd-contents/TOY/TOY_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TOY/TOY_MapPreviewNoSoundCrop_ULTRA.vp9.webm/54b6ab0d30fbb6eaebba9fef54f0adf0.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "b73119060bfcd1bc7f90e9bcd5ed0f05",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TOY/ps4/TOY_MAIN_SCENE_ORBIS.zip/b73119060bfcd1bc7f90e9bcd5ed0f05.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "7db9e24294c0bc4c802d1e083aa77810",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TOY/nx/TOY_MAIN_SCENE_NX.zip/7db9e24294c0bc4c802d1e083aa77810.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "b63014024abbde70dbbd541bc21a2d62",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TOY/pc/TOY_MAIN_SCENE_PC.zip/b63014024abbde70dbbd541bc21a2d62.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

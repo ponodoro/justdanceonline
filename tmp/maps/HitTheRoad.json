@@ -1,0 +1,120 @@
+{
+  "artist": "Charles Percy",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_banner_bkg.jpg/d079e1c0830187b1d8b82f63ededb1f1.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Coach_1.png/2eac2b481e4fd85ff4d7687f50193363.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Coach_2.png/c42b5e302d02088ccbbdabc578bca654.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Cover_Generic.jpg/b1f9649e7bd4d31153f27275105be5ae.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Cover_1024.png/ef450cbb9104ab6e8f9785044c1a9f5d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Cover_Online.jpg/49e74ee04aa8eb6efd4f291f4ebb33a8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Cover_AlbumBkg.jpg/02b9c279065269f36cc3fb8e5d502adb.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Cover_AlbumCoach.png/c17a3c606ac7dc9a50eed02f4197d182.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Coach_1_Phone.png/b38a4badf6222be1a8063e64bc4d8770.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Coach_2_Phone.png/aee4d45e243241b81a0414a398a2dd03.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Cover_Phone.jpg/49e74ee04aa8eb6efd4f291f4ebb33a8.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_VideoPreview.webm/0476578b45dc98a54b5db4fc36e4859e.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_banner_bkg.jpg/d079e1c0830187b1d8b82f63ededb1f1.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Coach_1.png/2eac2b481e4fd85ff4d7687f50193363.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Coach_2.png/c42b5e302d02088ccbbdabc578bca654.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Cover_Generic.jpg/b1f9649e7bd4d31153f27275105be5ae.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Cover_1024.png/ef450cbb9104ab6e8f9785044c1a9f5d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Cover_Online.jpg/49e74ee04aa8eb6efd4f291f4ebb33a8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Cover_AlbumBkg.jpg/02b9c279065269f36cc3fb8e5d502adb.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Cover_AlbumCoach.png/c17a3c606ac7dc9a50eed02f4197d182.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Coach_1_Phone.png/b38a4badf6222be1a8063e64bc4d8770.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Coach_2_Phone.png/aee4d45e243241b81a0414a398a2dd03.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Cover_Phone.jpg/49e74ee04aa8eb6efd4f291f4ebb33a8.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_VideoPreview.webm/0476578b45dc98a54b5db4fc36e4859e.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/wiiu/HitTheRoad_banner_bkg.tga.ckd/a1020dc8c320de62ae13bd77a433483c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/wiiu/HitTheRoad_Coach_1.tga.ckd/19241c63ba37b22a20caf9b6318db94a.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/wiiu/HitTheRoad_Coach_2.tga.ckd/fd84b741e1c25c49a0786edc1172e705.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/wiiu/HitTheRoad_Cover_Generic.tga.ckd/8b63ed64eb4b1d5463687a51aad9acc3.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Cover_1024.png/ef450cbb9104ab6e8f9785044c1a9f5d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/wiiu/HitTheRoad_Cover_Online.tga.ckd/d64608015b047ada5313ae69ffaf6a70.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/wiiu/HitTheRoad_Cover_AlbumBkg.tga.ckd/ec65ea062fd1998e0d07917f75c4fd92.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/wiiu/HitTheRoad_Cover_AlbumCoach.tga.ckd/0b2aaab5e78c1eb6e703b1b0e7c4a61a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Coach_1_Phone.png/b38a4badf6222be1a8063e64bc4d8770.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Coach_2_Phone.png/aee4d45e243241b81a0414a398a2dd03.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_Cover_Phone.jpg/49e74ee04aa8eb6efd4f291f4ebb33a8.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_VideoPreview.webm/0476578b45dc98a54b5db4fc36e4859e.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,32880,65760,98639,131519,164399,197279,230735,264191,297647,331103,364319,397535,430703,463919,497039,530206,563326,596446,629614,662734,695854,729022,762286,795550,828814,862126,895390,928654,961917,995229,1028493,1061805,1095117,1128429,1161693,1195005,1228317,1261629,1294797,1328013,1361229,1394444,1427660],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-11,\"endBeat\":169,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":43,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/hittheroad/hittheroad_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "C3274CFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 124.58399999999999,
+  "mapName": "HitTheRoad",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495304\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1261009\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1295051\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1294671\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "HitTheRoad_mapContent"
+  },
+  "parentMapName": "HitTheRoad",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FF8A7FFF",
+    "songColor_1B": "260002FF",
+    "songColor_2A": "FFD9A5FF",
+    "songColor_2B": "2F0505FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Hit The Road Jack",
+  "urls": {
+    "jmcs://jd-contents/HitTheRoad/HitTheRoad_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_AudioPreview.ogg/d5ccbf5c02645ac7eb1d7f563d5c55d6.ogg",
+    "jmcs://jd-contents/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_HIGH.vp8.webm/b9f8e96a997cbc1bd644bc5b4d8ba331.webm",
+    "jmcs://jd-contents/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_HIGH.vp9.webm/ef682a395667a6bf529701860b8a58f9.webm",
+    "jmcs://jd-contents/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_LOW.vp8.webm/94a49347b8620b231dfa69705268052f.webm",
+    "jmcs://jd-contents/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_LOW.vp9.webm/173599ad51504184d74faecccb956b36.webm",
+    "jmcs://jd-contents/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_MID.vp8.webm/08c0685a0c2d09f228052e101db90fd8.webm",
+    "jmcs://jd-contents/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_MID.vp9.webm/73590aa89be3e01e55cb98e644fa3938.webm",
+    "jmcs://jd-contents/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d804adc3be76d342ea3bfa9b19b9ab6e.webm",
+    "jmcs://jd-contents/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/HitTheRoad/HitTheRoad_MapPreviewNoSoundCrop_ULTRA.vp9.webm/98110e8cf693e33f30d874907d5f40b2.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "83bcf8d8c13e63529d52346dbb007aab",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HitTheRoad/ps4/HitTheRoad_MAIN_SCENE_ORBIS.zip/83bcf8d8c13e63529d52346dbb007aab.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "f3c3b7c8a13c1ef1cacd7cfc7cd110f7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HitTheRoad/pc/HitTheRoad_MAIN_SCENE_PC.zip/f3c3b7c8a13c1ef1cacd7cfc7cd110f7.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "68af8c38948167a256fbc7192fe2efb6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HitTheRoad/wiiu/HitTheRoad_MAIN_SCENE_WIIU.zip/68af8c38948167a256fbc7192fe2efb6.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "7390cd57bb7d0830aad19aec9104f927",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HitTheRoad/nx/HitTheRoad_MAIN_SCENE_NX.zip/7390cd57bb7d0830aad19aec9104f927.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu"
+}

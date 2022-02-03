@@ -1,0 +1,117 @@
+{
+  "artist": "Europe",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_banner_bkg.jpg/3ba79c3b89b9916dee628e6a03080e2f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Coach_1.png/a9892a059de864828946e5284dd8fa34.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Coach_2.png/c9dc2cc24cbf245827cf8faa3dab65a7.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Cover_Generic.jpg/5470b79e4b3dab9ea9c16424f7136785.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Cover_1024.png/86360b40a6a578abb533fc579084876a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Cover_Online.jpg/f49d16aa3fb4bc2205b9e15fef9977b5.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Cover_AlbumBkg.jpg/b2f733d7db81b7f8bb274ab2114dab10.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Cover_AlbumCoach.png/8f50227d369b02d050cf63ca448da3a6.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Coach_1_Phone.png/65165855560dd66a0d740fdf431d638d.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Coach_2_Phone.png/5e3cc9701eed69b7988ce5c50fd7a5fe.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Cover_Phone.jpg/f49d16aa3fb4bc2205b9e15fef9977b5.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_banner_bkg.jpg/3ba79c3b89b9916dee628e6a03080e2f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Coach_1.png/a9892a059de864828946e5284dd8fa34.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Coach_2.png/c9dc2cc24cbf245827cf8faa3dab65a7.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Cover_Generic.jpg/5470b79e4b3dab9ea9c16424f7136785.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Cover_1024.png/86360b40a6a578abb533fc579084876a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Cover_Online.jpg/f49d16aa3fb4bc2205b9e15fef9977b5.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Cover_AlbumBkg.jpg/b2f733d7db81b7f8bb274ab2114dab10.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Cover_AlbumCoach.png/8f50227d369b02d050cf63ca448da3a6.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Coach_1_Phone.png/65165855560dd66a0d740fdf431d638d.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Coach_2_Phone.png/5e3cc9701eed69b7988ce5c50fd7a5fe.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Cover_Phone.jpg/f49d16aa3fb4bc2205b9e15fef9977b5.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/wiiu/TheFinalCountdown_banner_bkg.tga.ckd/6a5cb83562fffd5dbbd8ce81e6cebacb.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/wiiu/TheFinalCountdown_Coach_1.tga.ckd/b2be9a92b9d1da4986b50f21b6ba86c6.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/wiiu/TheFinalCountdown_Coach_2.tga.ckd/6a6a1938ec24d430cdff845348bf3164.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/wiiu/TheFinalCountdown_Cover_Generic.tga.ckd/3d6de523329842684d915e5bee24292a.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Cover_1024.png/86360b40a6a578abb533fc579084876a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/wiiu/TheFinalCountdown_Cover_Online.tga.ckd/9b9620d8130f359b99619359e932a766.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/wiiu/TheFinalCountdown_Cover_AlbumBkg.tga.ckd/5de908ee3fa09d246026576e7ad783ad.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/wiiu/TheFinalCountdown_Cover_AlbumCoach.tga.ckd/202edfd36c1b0a9c217099b812f40a8d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Coach_1_Phone.png/65165855560dd66a0d740fdf431d638d.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Coach_2_Phone.png/5e3cc9701eed69b7988ce5c50fd7a5fe.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_Cover_Phone.jpg/f49d16aa3fb4bc2205b9e15fef9977b5.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23808,47664,74112,98304,122448,146592,170736,195216,219744,244224,268752,293328,317856,342432,367008,391488,415920,440399,464831,489215,513599,537983,562319,586751,611183,635615,660047,684575,709055,733583,758063,782351,806639,830927,855215,879887,904511,929135,953759,978191,1002623,1027103,1051535,1076111,1100639,1125215,1149790,1174174,1198558,1222990,1247374,1271950,1296478,1321054,1345582,1370014,1394494,1418926],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":542,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":58,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/thefinalcountdown/thefinalcountdown_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F2B668FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 276.31,
+  "mapName": "TheFinalCountdown",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496741\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"650-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-650\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1477600\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2726563\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3091166\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "TheFinalCountdown_mapContent"
+  },
+  "parentMapName": "TheFinalCountdown",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "BB1DBEFF",
+    "songColor_1B": "1F0627FF",
+    "songColor_2A": "19688DFF",
+    "songColor_2B": "072235FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "The Final Countdown",
+  "urls": {
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_AudioPreview.ogg/b580c8562818eb55e6e492cab48930f6.ogg",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_HIGH.vp8.webm/6d6a4278f3d017998927b1dbb634677e.webm",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_HIGH.vp9.webm/2e9160263b6dbe1d1c687f72882de8cd.webm",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_LOW.vp8.webm/8ac2907c8f0e08bea72bf9bb1225872d.webm",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_LOW.vp9.webm/a2b92601f0b54d77176862dbae7e3ea8.webm",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_MID.vp8.webm/3dc56d00d1fa996a1cbf7c13818f999d.webm",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_MID.vp9.webm/6ad98c83c5903a9f6d0f2463dfb05344.webm",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_ULTRA.vp8.webm/cee714d735fdc8897108369681283675.webm",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_ULTRA.vp9.webm/4c6011ded3a80329643c34bd33538159.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "e3f447700036d3d88871826bb57a924a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/ps4/TheFinalCountdown_MAIN_SCENE_ORBIS.zip/e3f447700036d3d88871826bb57a924a.zip",
+      "version": 9
+    },
+    "pc": {
+      "md5": "9325319e905f9d29caba641f31a0d4c9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/pc/TheFinalCountdown_MAIN_SCENE_PC.zip/9325319e905f9d29caba641f31a0d4c9.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "d218981e26ecb70709b97b79fb360426",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/wiiu/TheFinalCountdown_MAIN_SCENE_WIIU.zip/d218981e26ecb70709b97b79fb360426.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "8e4192f184919fa177874a3786562a66",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheFinalCountdown/nx/TheFinalCountdown_MAIN_SCENE_NX.zip/8e4192f184919fa177874a3786562a66.zip",
+      "version": 7
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,114 @@
+{
+  "artist": "V V Brown",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_banner_bkg.jpg/e5310d756e040f25a9fb8246d1ec2c38.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Coach_1.png/b8075d23177c6cb915a60d8d49b46ae1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Cover_Generic.jpg/c77815ee381c74fc324db1a3630bb7f1.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Cover_1024.png/37aab540661025534ffd453cc0275976.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Cover_Online.jpg/8980ed962ba1d666d18bdb6706cf1fcc.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Cover_AlbumBkg.jpg/9d6fd7641819a130cb651f7b85821715.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Cover_AlbumCoach.png/6a6e2c6cf66a6d2cc716006dbfde3073.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Coach_1_Phone.png/a1673a36f0b8d9fe3fe82f1a3d058d77.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Cover_Phone.jpg/8980ed962ba1d666d18bdb6706cf1fcc.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_VideoPreview.webm/be11a15636998b5e0c376363f7f45723.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_banner_bkg.jpg/e5310d756e040f25a9fb8246d1ec2c38.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Coach_1.png/b8075d23177c6cb915a60d8d49b46ae1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Cover_Generic.jpg/c77815ee381c74fc324db1a3630bb7f1.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Cover_1024.png/37aab540661025534ffd453cc0275976.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Cover_Online.jpg/8980ed962ba1d666d18bdb6706cf1fcc.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Cover_AlbumBkg.jpg/9d6fd7641819a130cb651f7b85821715.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Cover_AlbumCoach.png/6a6e2c6cf66a6d2cc716006dbfde3073.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Coach_1_Phone.png/a1673a36f0b8d9fe3fe82f1a3d058d77.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Cover_Phone.jpg/8980ed962ba1d666d18bdb6706cf1fcc.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_VideoPreview.webm/be11a15636998b5e0c376363f7f45723.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/wiiu/CryingBlood_banner_bkg.tga.ckd/a6b428ca80832e09c915603962d023a9.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/wiiu/CryingBlood_Coach_1.tga.ckd/12b79958cf666f34a37a064e1d6f154d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/wiiu/CryingBlood_Cover_Generic.tga.ckd/a58ffb0de0fb2b4b76b7192074e4af7f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Cover_1024.png/37aab540661025534ffd453cc0275976.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/wiiu/CryingBlood_Cover_Online.tga.ckd/c66c95be35b8286af885b51483323715.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/wiiu/CryingBlood_Cover_AlbumBkg.tga.ckd/f433410286fbcbca554d17b8509cb978.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/wiiu/CryingBlood_Cover_AlbumCoach.tga.ckd/65961a408c4529886bdbff341d6f8169.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Coach_1_Phone.png/a1673a36f0b8d9fe3fe82f1a3d058d77.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_Cover_Phone.jpg/8980ed962ba1d666d18bdb6706cf1fcc.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_VideoPreview.webm/be11a15636998b5e0c376363f7f45723.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,17454,34909,52363,69817,87271,104725,122179,139633,157088,174542,191996,209450,226904,244358,261813,279267,296721,314175,331629,349083,366537,383992,401446,418900,436354,453808,471262,488716,506171,523625,541079,558533,575987,593441,610896,628350,645804,663258,680712,698166,715620,733075,750529,767983,785437,802891,820345,837799,855254,872708,890162,907616,925070,942524,959979,977433,994887,1012341,1029795,1047249,1064703,1082158,1099612,1117066,1134520,1151974,1169428,1186882,1204337,1221791,1239245,1256699,1274153,1291607,1309062,1326516,1343970,1361424,1378878,1396332,1413786,1431241],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":415,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":82,\"volume\":-1.600000,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/cryingblood/cryingblood_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "00F9F1FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 151.022,
+  "mapName": "CryingBlood",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497296\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1275973\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1279485\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1278997\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "CryingBlood_mapContent"
+  },
+  "parentMapName": "CryingBlood",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "EF7425FF",
+    "songColor_1B": "8C0000FF",
+    "songColor_2A": "39E2E8FF",
+    "songColor_2B": "400068FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Crying Blood",
+  "urls": {
+    "jmcs://jd-contents/CryingBlood/CryingBlood_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_AudioPreview.ogg/4c106c5148a76a10369a64fd678c07e1.ogg",
+    "jmcs://jd-contents/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_HIGH.vp8.webm/91836384746126c830d781e06974212a.webm",
+    "jmcs://jd-contents/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_HIGH.vp9.webm/6b26913281018348efdf467748b04834.webm",
+    "jmcs://jd-contents/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_LOW.vp8.webm/5c962e7c5fa1c762e1705689213d5cd5.webm",
+    "jmcs://jd-contents/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_LOW.vp9.webm/366088a60ef4da015cbc070613999d8b.webm",
+    "jmcs://jd-contents/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_MID.vp8.webm/db8835c11f8c194425316542ea7c59ae.webm",
+    "jmcs://jd-contents/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_MID.vp9.webm/0d22ea34fca2401e8d3e48e29bc1233c.webm",
+    "jmcs://jd-contents/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_ULTRA.vp8.webm/73c376f72037dd3a30b0f16a34521419.webm",
+    "jmcs://jd-contents/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/CryingBlood/CryingBlood_MapPreviewNoSoundCrop_ULTRA.vp9.webm/42cfc691af48bac70dc386d61b0563fb.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "9bb55f93580f400ebfeaa1dd2f2db76f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CryingBlood/ps4/CryingBlood_MAIN_SCENE_ORBIS.zip/9bb55f93580f400ebfeaa1dd2f2db76f.zip",
+      "version": 9
+    },
+    "pc": {
+      "md5": "be84fb8bad1edb1127e00e973b47ad31",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CryingBlood/pc/CryingBlood_MAIN_SCENE_PC.zip/be84fb8bad1edb1127e00e973b47ad31.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "4b5a52184c4f7aab9c3e3c621373db6c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CryingBlood/wiiu/CryingBlood_MAIN_SCENE_WIIU.zip/4b5a52184c4f7aab9c3e3c621373db6c.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "549f7e6fe9d943cb83e3af24425d8f8c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CryingBlood/nx/CryingBlood_MAIN_SCENE_NX.zip/549f7e6fe9d943cb83e3af24425d8f8c.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu"
+}

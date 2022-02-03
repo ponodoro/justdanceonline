@@ -1,0 +1,38 @@
+{
+  "__class": "OnlineBlock",
+  "artist": "JDMCharleston Artist",
+  "assets": {
+    "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonBS/pc/JDMCharlestonBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+    "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonBS/pc/JDMCharlestonBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+  },
+  "coachCount": 1,
+  "credits": "CREDITS STRING TO BE FILLED",
+  "customTypeNameId": -1,
+  "difficulty": 2,
+  "jdmAttributes": [
+    "JDM_BonusStage"
+  ],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 29.779999999999998,
+  "mapName": "JDMCharlestonBS",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "JDMCharlestonBS_mapContent"
+  },
+  "parentMapName": "JDMCharlestonBS",
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 3,
+  "tags": [
+    "JDMBS"
+  ],
+  "title": "JDMCharleston - BONUS STAGE",
+  "isPlayable": false
+}

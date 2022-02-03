@@ -1,0 +1,125 @@
+{
+  "artist": "Jax Jones ft. Demi Lovato & Stefflon Don",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/ps4/Instruction_banner_bkg.tga.ckd/9e40fc93f486020b9976a60de8e0fef7.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/ps4/Instruction_Coach_1.tga.ckd/b76b8fe0f85d2dc332484921815831fd.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/ps4/Instruction_Cover_Generic.tga.ckd/e54280f0b8199c5ebfa8e4d440da31ee.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_Cover_1024.png/02b26e7b4ac4dc1db56f74fcb4f5953a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/ps4/Instruction_Cover_Online.tga.ckd/3a731e90d33ed1db4e8ef3a7d01fa8e8.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/ps4/Instruction_Cover_AlbumBkg.tga.ckd/be40091342e5772ebe3e05b7d7495b03.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/ps4/Instruction_Cover_AlbumCoach.tga.ckd/bbd0e79f3fcddf861876edffa946cf96.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_Coach_1_Phone.png/6e57d53814d094c5308e4e9c3013f1a4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_Cover_Phone.jpg/8582ca683eb86c612e52cde8f593b99d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_VideoPreview.webm/300045902af818d1f6bdb2fe798025ad.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/ps4/Instruction_map_bkg.tga.ckd/c8501e82d650cfa7c27d417b5df7f599.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/nx/Instruction_banner_bkg.tga.ckd/37b8be29f75a6640937cfb3e6cefa866.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/nx/Instruction_Coach_1.tga.ckd/e9e708e343662ea62cde935ccf6be10a.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/nx/Instruction_Cover_Generic.tga.ckd/5c7668a041ea1b364584fdf934ea03a8.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_Cover_1024.png/02b26e7b4ac4dc1db56f74fcb4f5953a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/nx/Instruction_Cover_Online.tga.ckd/95b208cd11481f5b94a02d9ffa114e3b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/nx/Instruction_Cover_AlbumBkg.tga.ckd/6cabc71deaf9071c87092133dd6ecb1c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/nx/Instruction_Cover_AlbumCoach.tga.ckd/a71838232b0c9a4eee947a64e7049bb9.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_Coach_1_Phone.png/6e57d53814d094c5308e4e9c3013f1a4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_Cover_Phone.jpg/8582ca683eb86c612e52cde8f593b99d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_VideoPreview.webm/300045902af818d1f6bdb2fe798025ad.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/nx/Instruction_map_bkg.tga.ckd/f9f1c2cda982a25c375eaa70d311a3af.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/wiiu/Instruction_banner_bkg.tga.ckd/bb00f2ed75d77253fb777d16aa26c5fa.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/wiiu/Instruction_Coach_1.tga.ckd/1ad3f6395ad87f3dfea88cdbae663066.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/wiiu/Instruction_Cover_Generic.tga.ckd/5f68e059ddf44dbc950364ec109ccf16.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_Cover_1024.png/02b26e7b4ac4dc1db56f74fcb4f5953a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/wiiu/Instruction_Cover_Online.tga.ckd/ccc0c89915a18f83faaa8d793a7994b6.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/wiiu/Instruction_Cover_AlbumBkg.tga.ckd/27b85aa867d459c89bb740b203a72396.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/wiiu/Instruction_Cover_AlbumCoach.tga.ckd/70866dde933946217252e8d0dc16fad5.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_Coach_1_Phone.png/6e57d53814d094c5308e4e9c3013f1a4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_Cover_Phone.jpg/8582ca683eb86c612e52cde8f593b99d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_VideoPreview.webm/300045902af818d1f6bdb2fe798025ad.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23808,47616,71424,95231,119039,142799,166607,190415,214223,238031,261839,285647,309455,333215,357023,380831,404639,428447,452255,476062,499822,523630,547438,571246,595054,618862,642670,666478,690238,714046,737854,761662,785470,809278,833086,856846,880653,904461,928269,952077,975885,999693,1023501,1047261,1071069,1094877,1118685,1142493,1166301,1190109,1213917,1237677,1261484,1285292,1309100,1332908,1356716,1380524,1404284,1428092],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":339,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":60,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/instruction/instruction_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Demitria Lovato, Timucin Aluo, Stephanie Allen and Uzoechi Osisioma Emenike. Published by Universal Music Corp. on behalf of DDLOVATO MUSIC. / Funky Wonton Ltd. (ASCAP). Administered by Kobalt Songs Music Publishing. / Sony/ATV Music Publishing Allegro (UK) (PRS) c/o Sony/ATV Music Publishing Canada (SOCAN). / Warner/Chappell Music LTD. (PRS). All rights reserved. Used with permission. Courtesy of Interscope Records/ Polydor Records under license from Universal Music Enterprises. / 2017 Polydor Records under exclusive license to etcetc Music Pty. Ltd. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F81377FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 170.083,
+  "mapName": "Instruction",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497281\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Instruction/Instruction_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483334\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Instruction/Instruction_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2769356\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Instruction/Instruction_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3522901\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Instruction/Instruction_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "Instruction_mapContent"
+  },
+  "parentMapName": "Instruction",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "FFDD00FF",
+    "songColor_1B": "C13801FF",
+    "songColor_2A": "003FFFFF",
+    "songColor_2B": "0104A3FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "SWEAT",
+    "subscribedSong",
+    "EasyPeasy",
+    "CnUnlimited2018"
+  ],
+  "title": "Instruction",
+  "urls": {
+    "jmcs://jd-contents/Instruction/Instruction_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_AudioPreview.ogg/79a8ff0d3d64ee579e5fcfc4b08a2803.ogg",
+    "jmcs://jd-contents/Instruction/Instruction_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_MapPreviewNoSoundCrop_HIGH.vp8.webm/7ea2dce686615151328b182d3620f18f.webm",
+    "jmcs://jd-contents/Instruction/Instruction_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_MapPreviewNoSoundCrop_HIGH.vp9.webm/019f247fd1598a9eac6c85ab73d625a4.webm",
+    "jmcs://jd-contents/Instruction/Instruction_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_MapPreviewNoSoundCrop_LOW.vp8.webm/db64572801ca7916581d8558a6ff8e9f.webm",
+    "jmcs://jd-contents/Instruction/Instruction_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_MapPreviewNoSoundCrop_LOW.vp9.webm/5d10c99f27c213fbd3f29017586bb346.webm",
+    "jmcs://jd-contents/Instruction/Instruction_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_MapPreviewNoSoundCrop_MID.vp8.webm/5f04c5dfdb96944a33fe86563aae7e17.webm",
+    "jmcs://jd-contents/Instruction/Instruction_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_MapPreviewNoSoundCrop_MID.vp9.webm/e41406a986194fa0c882d525bcd2de9b.webm",
+    "jmcs://jd-contents/Instruction/Instruction_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_MapPreviewNoSoundCrop_ULTRA.vp8.webm/3ed6d2c778577c28bd9c36d27c2a6f88.webm",
+    "jmcs://jd-contents/Instruction/Instruction_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Instruction/Instruction_MapPreviewNoSoundCrop_ULTRA.vp9.webm/799e63c3f781df57759509759c00209e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "4e54f0b65e6f137678da94fea84b2419",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Instruction/ps4/Instruction_MAIN_SCENE_ORBIS.zip/4e54f0b65e6f137678da94fea84b2419.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "aa8de1f368aed6710c09719ce505ddfc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Instruction/nx/Instruction_MAIN_SCENE_NX.zip/aa8de1f368aed6710c09719ce505ddfc.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "437ea01c3931955362fd0cffe9973b2f",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Instruction/pc/437ea01c3931955362fd0cffe9973b2f.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "ee5075bd4f968c28c5dba02f56339feb",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Instruction/wiiu/Instruction_MAIN_SCENE_WIIU.zip/ee5075bd4f968c28c5dba02f56339feb.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,38 @@
+{
+  "__class": "OnlineBlock",
+  "artist": "JDMStripteaseBurlesque Artist",
+  "assets": {
+    "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMStripteaseBurlesque/pc/JDMStripteaseBurlesque_Cover_Generic.tga.ckd/fd351fb19cc09d760ce940d417b21ccb.ckd",
+    "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMStripteaseBurlesque/pc/JDMStripteaseBurlesque_Cover_Online.tga.ckd/8898f327a85c3422214ee21cc83161b2.ckd"
+  },
+  "coachCount": 1,
+  "credits": "CREDITS STRING TO BE FILLED",
+  "customTypeNameId": -1,
+  "difficulty": 2,
+  "jdmAttributes": [
+    "JDM_WhatTheFuck"
+  ],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 27.884999999999998,
+  "mapName": "JDMStripteaseBurlesque",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "JDMStripteaseBurlesque_mapContent"
+  },
+  "parentMapName": "JDMStripteaseBurlesque",
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 6,
+  "tags": [
+    "DanceMachine"
+  ],
+  "title": "JDMStripteaseBurlesque",
+  "isPlayable": false
+}

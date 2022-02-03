@@ -1,0 +1,125 @@
+{
+  "artist": "BLACKPINK",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/ggp/DDUDU_banner_bkg.tga.ckd/5ef152560132817787446816444d98ec.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/ggp/DDUDU_Coach_1.tga.ckd/89de677efe8db274d0fc38acc5ca6e7b.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/ggp/DDUDU_Coach_2.tga.ckd/1e1ae08182e5d5a4de0e106b40974806.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/ggp/DDUDU_Coach_3.tga.ckd/ca1906f8ee7bb2c1487638fad4db5263.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/ggp/DDUDU_Coach_4.tga.ckd/8ad3b8bdab3c798520c3eef685e245b5.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/ggp/DDUDU_Cover_Generic.tga.ckd/8cbb8050a15f213b4574c0e5392a6613.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Cover_1024.png/e22a1d2c6d96d7b655621a9faa431b09.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/ggp/DDUDU_Cover_Online.tga.ckd/8cbb8050a15f213b4574c0e5392a6613.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/ggp/DDUDU_Cover_AlbumBkg.tga.ckd/a91d875a3651cee60909790f575d07d2.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/ggp/DDUDU_Cover_AlbumCoach.tga.ckd/a54725fcc85b5cc427b4720ece35d2e9.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Coach_1_Phone.png/96a8deb9932266b77ffebaaf146b00e1.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Coach_2_Phone.png/97e14af52dbf858affef37176da7ad59.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Coach_3_Phone.png/6a1bc711433410a9a50548a52c06fe01.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Coach_4_Phone.png/86adafb8e0bfca7a1e6ca9c9d5857480.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Cover_Phone.jpg/d679d92d5cf5ae2082d4347b2e24c581.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/ggp/DDUDU_map_bkg.tga.ckd/e570b543c5ff18e208ca981388aa9b3f.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/nx/DDUDU_banner_bkg.tga.ckd/aa8a03cec02680f8800282ad27021101.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/nx/DDUDU_Coach_1.tga.ckd/2d43883b35158e6edd9d05902fd318e8.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/nx/DDUDU_Coach_2.tga.ckd/eb7b11b6d1ac8d9a35cf61f5ef7ef933.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/nx/DDUDU_Coach_3.tga.ckd/c6b3c27ba150d6bfedff3c570364685b.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/nx/DDUDU_Coach_4.tga.ckd/abb4509d44a4c49eaa080e08eeae9461.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/nx/DDUDU_Cover_Generic.tga.ckd/757c529e71bc1ec0ebc7411a0c246077.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Cover_1024.png/e22a1d2c6d96d7b655621a9faa431b09.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/nx/DDUDU_Cover_Online.tga.ckd/62619cecbd7f594cdce0ca65d1855dea.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/nx/DDUDU_Cover_AlbumBkg.tga.ckd/1c79faf2957a4e01e7c1698a5672cb8d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/nx/DDUDU_Cover_AlbumCoach.tga.ckd/a56bdee9160d2258af5e362409253d8c.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/nx/DDUDU_map_bkg.tga.ckd/f6677d8162124f11fd6dcf0386656f17.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Coach_1_Phone.png/96a8deb9932266b77ffebaaf146b00e1.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Coach_2_Phone.png/97e14af52dbf858affef37176da7ad59.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Coach_3_Phone.png/6a1bc711433410a9a50548a52c06fe01.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Coach_4_Phone.png/86adafb8e0bfca7a1e6ca9c9d5857480.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Cover_Phone.jpg/d679d92d5cf5ae2082d4347b2e24c581.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_banner_bkg.jpg/96de1627aca252e98357f2993f947459.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Coach_1.png/d85991a95dbe725931237fecd2fb936f.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Coach_2.png/5bb5ea8c8fb7e7016aff75f38b5745c6.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Coach_3.png/88fb11b50c8a1cd882fe543edb2a87c3.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Coach_4.png/feb72f8cb99c4d61253a9085ad41fd6c.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Cover_Generic.jpg/8755b552bd84f61eb201d1ee1d79f356.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Cover_1024.png/e22a1d2c6d96d7b655621a9faa431b09.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Cover_Online.jpg/d679d92d5cf5ae2082d4347b2e24c581.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Cover_AlbumBkg.jpg/b66607f431c8593ca0176e26b1d2d92e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Cover_AlbumCoach.png/f6c0dd826dea279918ee6f008822b17e.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Coach_1_Phone.png/96a8deb9932266b77ffebaaf146b00e1.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Coach_2_Phone.png/97e14af52dbf858affef37176da7ad59.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Coach_3_Phone.png/6a1bc711433410a9a50548a52c06fe01.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Coach_4_Phone.png/86adafb8e0bfca7a1e6ca9c9d5857480.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_Cover_Phone.jpg/d679d92d5cf5ae2082d4347b2e24c581.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20592,41136,61728,82272,102864,123408,144000,164592,185136,205728,226272,246864,267408,288000,308592,329136,349728,370272,390864,411408,432000,452592,473136,493728,514272,534864,555408,575999,596591,617135,637727,658271,678863,699407,719999,740591,761135,781727,802271,822863,843407,863999,884591,905135,925727,946271,966863,987407,1007999,1028591,1049135,1069727,1090271,1110863,1131407,1151999,1172591,1193135,1213727,1234271,1254863,1275407,1295999,1316591,1337135,1357727,1378271,1398863,1419407,1439999],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":488,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":70,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/ddudu/ddudu_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFBF1FFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 210.428,
+  "mapName": "DDUDU",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495375\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DDUDU/DDUDU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"614-1103\">\r\n\t\t\t\t\t<Initialization range=\"0-614\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1465841\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DDUDU/DDUDU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\r\n\t\t\t\t\t<Initialization range=\"0-615\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2806029\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DDUDU/DDUDU_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\r\n\t\t\t\t\t<Initialization range=\"0-615\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3640683\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DDUDU/DDUDU_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\r\n\t\t\t\t\t<Initialization range=\"0-615\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "DDUDU_mapContent"
+  },
+  "parentMapName": "DDUDU",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "F922B9FF",
+    "songColor_1B": "38012EFF",
+    "songColor_2A": "CB81F9FF",
+    "songColor_2B": "46026DFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "DDU-DU DDU-DU",
+  "urls": {
+    "jmcs://jd-contents/DDUDU/DDUDU_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_AudioPreview.ogg/4cf849250f2760a958723ec251c75d18.ogg",
+    "jmcs://jd-contents/DDUDU/DDUDU_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_MapPreviewNoSoundCrop_HIGH.vp8.webm/2257f4e49d7f3a8b1fd63e96925c1097.webm",
+    "jmcs://jd-contents/DDUDU/DDUDU_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_MapPreviewNoSoundCrop_HIGH.vp9.webm/03a352781749fe813e4e5ce48fc53e92.webm",
+    "jmcs://jd-contents/DDUDU/DDUDU_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_MapPreviewNoSoundCrop_LOW.vp8.webm/4fe9fffc0af8ba53ed9c8dd3c82aa624.webm",
+    "jmcs://jd-contents/DDUDU/DDUDU_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_MapPreviewNoSoundCrop_LOW.vp9.webm/57716c4189ad7c8f1883fba093c61f52.webm",
+    "jmcs://jd-contents/DDUDU/DDUDU_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_MapPreviewNoSoundCrop_MID.vp8.webm/1c3d61b9894ee67611288573ab484c35.webm",
+    "jmcs://jd-contents/DDUDU/DDUDU_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_MapPreviewNoSoundCrop_MID.vp9.webm/114f318cb16e32b1f08ff7bb1b12cf59.webm",
+    "jmcs://jd-contents/DDUDU/DDUDU_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_MapPreviewNoSoundCrop_ULTRA.vp8.webm/dbce3a93941da09a3376d0a755604ed2.webm",
+    "jmcs://jd-contents/DDUDU/DDUDU_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/DDUDU/DDUDU_MapPreviewNoSoundCrop_ULTRA.vp9.webm/24341a18503f85ff178c171d915fbd59.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "633334b245c8d7ef3e7295281663dd18",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DDUDU/ps4/DDUDU_MAIN_SCENE_ORBIS.zip/633334b245c8d7ef3e7295281663dd18.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "b64a8d673fe6dbad2387ba983839ae6e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DDUDU/nx/DDUDU_MAIN_SCENE_NX.zip/b64a8d673fe6dbad2387ba983839ae6e.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "4b1ed4d7610d4f084296f8eec47f7451",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/ddudu_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

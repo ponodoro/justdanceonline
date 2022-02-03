@@ -1,0 +1,38 @@
+{
+  "__class": "OnlineBlock",
+  "artist": "JDMFrenchCancan Artist",
+  "assets": {
+    "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFrenchCancan/pc/JDMFrenchCancan_Cover_Generic.tga.ckd/85416c9cd7c665d9e556a8347f6e2d93.ckd",
+    "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFrenchCancan/pc/JDMFrenchCancan_Cover_Online.tga.ckd/d34ee4ed6e47e9f3fbe0993f59ad1a55.ckd"
+  },
+  "coachCount": 1,
+  "credits": "CREDITS STRING TO BE FILLED",
+  "customTypeNameId": -1,
+  "difficulty": 2,
+  "jdmAttributes": [
+    "JDM_Normal"
+  ],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 28.409,
+  "mapName": "JDMFrenchCancan",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "JDMFrenchCancan_mapContent"
+  },
+  "parentMapName": "JDMFrenchCancan",
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 6,
+  "tags": [
+    "DanceMachine"
+  ],
+  "title": "JDMFrenchCancan",
+  "isPlayable": false
+}

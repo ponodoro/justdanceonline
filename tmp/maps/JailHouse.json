@@ -1,0 +1,132 @@
+{
+  "artist": "Elvis Presley",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_banner_bkg.jpg/9c1d0f902f9f6909492779d2e929a719.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_1.png/fb98da1e76646c4eb207eb1b12b88b5a.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_2.png/662b1c0b2cd9032d63d9e62a9dbd9a5a.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_3.png/279f4d50c523fa09bed2725d05fb3ba6.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_4.png/036fbcd66140243176c696b32419c6e3.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Cover_Generic.jpg/57d2adc2a540a362a3d7ebfb494c6482.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Cover_1024.png/468c43cbab27788647d8abb0059b53aa.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Cover_Online.jpg/ea276b1ea5a4beab9aa7f41bb34940a3.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Cover_AlbumBkg.jpg/c70c6fcc2a0fafe205738428c2664b41.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Cover_AlbumCoach.png/402e4819a0adb239173b4fbf0bad4b99.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_1_Phone.png/3c383bf36b7fb29f9930369596aa2092.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_2_Phone.png/1cac55a7e47babe72a40aec5673656ae.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_3_Phone.png/2c7b24e01d767cbc250459e9f3e0f284.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_4_Phone.png/97d2280ad64ea57dc2a9afe772d0341a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Cover_Phone.jpg/ea276b1ea5a4beab9aa7f41bb34940a3.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_VideoPreview.webm/24f03095ac3097a2e2d718b52f058b3d.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_banner_bkg.jpg/9c1d0f902f9f6909492779d2e929a719.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_1.png/fb98da1e76646c4eb207eb1b12b88b5a.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_2.png/662b1c0b2cd9032d63d9e62a9dbd9a5a.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_3.png/279f4d50c523fa09bed2725d05fb3ba6.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_4.png/036fbcd66140243176c696b32419c6e3.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Cover_Generic.jpg/57d2adc2a540a362a3d7ebfb494c6482.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Cover_1024.png/468c43cbab27788647d8abb0059b53aa.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Cover_Online.jpg/ea276b1ea5a4beab9aa7f41bb34940a3.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Cover_AlbumBkg.jpg/c70c6fcc2a0fafe205738428c2664b41.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Cover_AlbumCoach.png/402e4819a0adb239173b4fbf0bad4b99.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_1_Phone.png/3c383bf36b7fb29f9930369596aa2092.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_2_Phone.png/1cac55a7e47babe72a40aec5673656ae.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_3_Phone.png/2c7b24e01d767cbc250459e9f3e0f284.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_4_Phone.png/97d2280ad64ea57dc2a9afe772d0341a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Cover_Phone.jpg/ea276b1ea5a4beab9aa7f41bb34940a3.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_VideoPreview.webm/24f03095ac3097a2e2d718b52f058b3d.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/wiiu/JailHouse_banner_bkg.tga.ckd/e3d690d36a00e52a152e589a555f63b4.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/wiiu/JailHouse_Coach_1.tga.ckd/1c8a4efcc44ccb9d8145f4a02dbe0d23.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/wiiu/JailHouse_Coach_2.tga.ckd/feca2992279aa5659e4dc9da98c6bc9d.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/wiiu/JailHouse_Coach_3.tga.ckd/bb3db45a6c97c495403fe9e38b1edf48.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/wiiu/JailHouse_Coach_4.tga.ckd/8e321808de481f93ad201efb93b92eee.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/wiiu/JailHouse_Cover_Generic.tga.ckd/0903cd1de8e6f6f64a1bcdd8a95a0a2c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Cover_1024.png/468c43cbab27788647d8abb0059b53aa.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/wiiu/JailHouse_Cover_Online.tga.ckd/0903cd1de8e6f6f64a1bcdd8a95a0a2c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/wiiu/JailHouse_Cover_AlbumBkg.tga.ckd/ddd4af7d2966a886ee7ca230b238b168.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/wiiu/JailHouse_Cover_AlbumCoach.tga.ckd/b54dacf011493bcf2e91ee44c3f17bf4.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_1_Phone.png/3c383bf36b7fb29f9930369596aa2092.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_2_Phone.png/1cac55a7e47babe72a40aec5673656ae.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_3_Phone.png/2c7b24e01d767cbc250459e9f3e0f284.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Coach_4_Phone.png/97d2280ad64ea57dc2a9afe772d0341a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_Cover_Phone.jpg/ea276b1ea5a4beab9aa7f41bb34940a3.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_VideoPreview.webm/24f03095ac3097a2e2d718b52f058b3d.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,17412,34824,52235,69647,87059,104471,120036,136647,153754,171166,188577,205989,223401,239924,257336,273494,292159,309571,326983,344394,361806,377511,396281,414041,429781,446618,465998,481329,497459,514871,532282,548910,565095,582507,599919,616825,634742,652154,669566,685932,701620,719032,736443,753855,772124,788678,806090,823502,840914,858325,875737,891843,909254,926666,944078,959243,976263,993674,1011086,1026930,1044342,1061754,1079166,1094435,1111847,1129259,1146670,1164082,1181494,1198905,1216317,1232632,1250043,1267455,1284867,1302278,1319690,1337102,1354514,1371089,1388501,1406609,1424082],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":429,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":83,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/jailhouse/jailhouse_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F95522FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 154.50799999999998,
+  "mapName": "JailHouse",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497128\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JailHouse/JailHouse_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483897\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JailHouse/JailHouse_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2924692\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JailHouse/JailHouse_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3266764\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JailHouse/JailHouse_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "JailHouse_mapContent"
+  },
+  "parentMapName": "JailHouse",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "DE406BFF",
+    "songColor_1B": "700000FF",
+    "songColor_2A": "E18A00FF",
+    "songColor_2B": "470000FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Jailhouse Rock",
+  "urls": {
+    "jmcs://jd-contents/JailHouse/JailHouse_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_AudioPreview.ogg/2282cb747ad5ec2acb3b7023f280647b.ogg",
+    "jmcs://jd-contents/JailHouse/JailHouse_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_MapPreviewNoSoundCrop_HIGH.vp8.webm/7ccc5b8eba27f3071676cad306dcbae0.webm",
+    "jmcs://jd-contents/JailHouse/JailHouse_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_MapPreviewNoSoundCrop_HIGH.vp9.webm/fd8b6928f952d8712a8a907d2c818e17.webm",
+    "jmcs://jd-contents/JailHouse/JailHouse_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_MapPreviewNoSoundCrop_LOW.vp8.webm/9125c0f0f9dd1748fd4a92451cdae3a5.webm",
+    "jmcs://jd-contents/JailHouse/JailHouse_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_MapPreviewNoSoundCrop_LOW.vp9.webm/6db89324cd395aa65a355ef7bd345718.webm",
+    "jmcs://jd-contents/JailHouse/JailHouse_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_MapPreviewNoSoundCrop_MID.vp8.webm/25c335c8b41a5afc186e3539d6c91889.webm",
+    "jmcs://jd-contents/JailHouse/JailHouse_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_MapPreviewNoSoundCrop_MID.vp9.webm/ae25d3e6c43a12b23bab117241cf1b4e.webm",
+    "jmcs://jd-contents/JailHouse/JailHouse_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_MapPreviewNoSoundCrop_ULTRA.vp8.webm/5aae1174386a3bdee723299f9bcb0301.webm",
+    "jmcs://jd-contents/JailHouse/JailHouse_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/JailHouse/JailHouse_MapPreviewNoSoundCrop_ULTRA.vp9.webm/590878ef0938055530ab9e40a7c18143.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "0c917b4a4fc50ee98c02a202ea1a4e38",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JailHouse/ps4/JailHouse_MAIN_SCENE_ORBIS.zip/0c917b4a4fc50ee98c02a202ea1a4e38.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "35544eec82fcd0abc7a2f0762fc631b7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JailHouse/pc/JailHouse_MAIN_SCENE_PC.zip/35544eec82fcd0abc7a2f0762fc631b7.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "59f6478d406c85d9cf786a66d229d466",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JailHouse/wiiu/JailHouse_MAIN_SCENE_WIIU.zip/59f6478d406c85d9cf786a66d229d466.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "bc38e68a9ada58f49f42f1a816b4a143",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JailHouse/nx/JailHouse_MAIN_SCENE_NX.zip/bc38e68a9ada58f49f42f1a816b4a143.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

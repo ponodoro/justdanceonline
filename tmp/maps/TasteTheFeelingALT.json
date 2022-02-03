@@ -1,0 +1,115 @@
+{
+  "artist": "Avicii vs. Conrad Sewell",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_banner_bkg.jpg/96e32248356b59d7246550a01565c0e1.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Coach_1.png/43a73a4b724a89f615b5672cefea6130.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Cover_Generic.jpg/1d280f6f8baeb059526c2c70ec4dfc9d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Cover_1024.png/93f6d3fcc2ddf21e4f834f6e16c0ab5c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Cover_Online.jpg/260cfdfed5aba101ea5391a228e01308.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Cover_AlbumBkg.jpg/154301d96e78f0a559a8f793286d9648.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Cover_AlbumCoach.png/ed732d07ba852662c2141f17fe0caa5a.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Coach_1_Phone.png/b7c5530123b9b9f50ad93b9c12eb145c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Cover_Phone.jpg/260cfdfed5aba101ea5391a228e01308.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_VideoPreview.webm/3a049c7cc7345442e0e65055b17dad53.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_banner_bkg.jpg/96e32248356b59d7246550a01565c0e1.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Coach_1.png/43a73a4b724a89f615b5672cefea6130.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Cover_Generic.jpg/1d280f6f8baeb059526c2c70ec4dfc9d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Cover_1024.png/93f6d3fcc2ddf21e4f834f6e16c0ab5c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Cover_Online.jpg/260cfdfed5aba101ea5391a228e01308.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Cover_AlbumBkg.jpg/154301d96e78f0a559a8f793286d9648.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Cover_AlbumCoach.png/ed732d07ba852662c2141f17fe0caa5a.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Coach_1_Phone.png/b7c5530123b9b9f50ad93b9c12eb145c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Cover_Phone.jpg/260cfdfed5aba101ea5391a228e01308.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_VideoPreview.webm/3a049c7cc7345442e0e65055b17dad53.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/wiiu/TasteTheFeelingALT_banner_bkg.tga.ckd/47938bb1c67110e27a561a561b45e038.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/wiiu/TasteTheFeelingALT_Coach_1.tga.ckd/8b835c3d6e5042d9b68c7c46c7b924d0.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/wiiu/TasteTheFeelingALT_Cover_Generic.tga.ckd/01140371244ce650166d4ad559a47247.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Cover_1024.png/93f6d3fcc2ddf21e4f834f6e16c0ab5c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/wiiu/TasteTheFeelingALT_Cover_Online.tga.ckd/6160b2e7ee825434e93a9aad54dc5d09.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/wiiu/TasteTheFeelingALT_Cover_AlbumBkg.tga.ckd/133b31974868957b668f6eb8ca634d47.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/wiiu/TasteTheFeelingALT_Cover_AlbumCoach.tga.ckd/ee060c386e34bcabddde2c5cefc1e88d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Coach_1_Phone.png/b7c5530123b9b9f50ad93b9c12eb145c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_Cover_Phone.jpg/260cfdfed5aba101ea5391a228e01308.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_VideoPreview.webm/3a049c7cc7345442e0e65055b17dad53.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,31969,63985,96001,127969,159985,192001,223969,255985,288001,319969,351985,384001,415969,447985,480001,511969,543985,576002,607970,639986,672002,703970,735986,768002,799970,831986,864002,895970,927986,960002,991970,1023986,1056002,1087970,1119987,1152003,1183971,1215987,1248003,1279971,1311987,1344003,1375971,1407987],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":286,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":44,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/tastethefeelingalt/tastethefeelingalt_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFB123FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 194.001,
+  "mapName": "TasteTheFeelingALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495174\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"668-1157\">\r\n\t\t\t\t\t<Initialization range=\"0-668\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1337181\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"669-1159\">\r\n\t\t\t\t\t<Initialization range=\"0-669\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1525268\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"669-1159\">\r\n\t\t\t\t\t<Initialization range=\"0-669\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1525522\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"669-1159\">\r\n\t\t\t\t\t<Initialization range=\"0-669\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "TasteTheFeelingALT_mapContent"
+  },
+  "parentMapName": "TasteTheFeelingALT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "007BB0FF",
+    "songColor_1B": "001045FF",
+    "songColor_2A": "FFFFFFFF",
+    "songColor_2B": "FF0000FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Taste The Feeling",
+  "urls": {
+    "jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_AudioPreview.ogg/53b8d77f81f022e979efae2d60c315cd.ogg",
+    "jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/768491c9eedf906bc16f6878a32f4c37.webm",
+    "jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/f1d7d12602805b74699cd377c2ee599c.webm",
+    "jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_LOW.vp8.webm/6b57a46321d3adf6d1b24dd19d41ed79.webm",
+    "jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_LOW.vp9.webm/f6f6f3cbca0dbc941d7b07fc784ef945.webm",
+    "jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_MID.vp8.webm/26e533dfaa4eaf68a5497de9450835ea.webm",
+    "jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_MID.vp9.webm/6448d5858ac7162058337d329e3dce0f.webm",
+    "jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b75e7a7ff287be990dcb07fa2f835910.webm",
+    "jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/TasteTheFeelingALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/6495982eac3228bb2a370978a418528a.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "bdc966542dec69377cadbcce64cc831f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/ps4/TasteTheFeelingALT_MAIN_SCENE_ORBIS.zip/bdc966542dec69377cadbcce64cc831f.zip",
+      "version": 45
+    },
+    "pc": {
+      "md5": "02453f054af8d307a22d95b38ec2c2b7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/pc/TasteTheFeelingALT_MAIN_SCENE_PC.zip/02453f054af8d307a22d95b38ec2c2b7.zip",
+      "version": 29
+    },
+    "wiiu": {
+      "md5": "2b6ff97480dcf87f7eee4bd7708af294",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/wiiu/TasteTheFeelingALT_MAIN_SCENE_WIIU.zip/2b6ff97480dcf87f7eee4bd7708af294.zip",
+      "version": 47
+    },
+    "nx": {
+      "md5": "2133002d6b7919b9e9b9f9060611d8ef",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TasteTheFeelingALT/nx/TasteTheFeelingALT_MAIN_SCENE_NX.zip/2133002d6b7919b9e9b9f9060611d8ef.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 13677
+}

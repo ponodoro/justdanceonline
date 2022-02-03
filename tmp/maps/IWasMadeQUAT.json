@@ -1,0 +1,132 @@
+{
+  "artist": "Kiss",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_banner_bkg.jpg/7f232ef849654e771d5977ff1d45bbf7.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_1.png/3990332b5c3cc5d94d3df1e28294df25.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_2.png/9c887987f24cb5a3dd7a6ac3ce7090dc.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_3.png/5d7bf3d2a9cb546d8c9ce58230f1e8db.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_4.png/9b447e2c2d718ac1d96db5a0ea3e4e4d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Cover_Generic.jpg/2c78739dc20453d40a6513be22fcccf9.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Cover_1024.png/66808744422ec173c4d3fd5a0242f3c2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Cover_Online.jpg/3ac81035d4c65422f3df5d8906cb5397.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Cover_AlbumBkg.jpg/eaf7481cc56aab52f0dcfdb01f3ceba4.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Cover_AlbumCoach.png/bc09d2e7867bc5de8c7a0926ae9fb3ee.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_1_Phone.png/e3ec3b4aa3dcb740a9c708b87ed59bfb.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_2_Phone.png/0020f8e13440d00c2f0a99d793a31b20.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_3_Phone.png/712999c5b1a66b2156122efa655c32df.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_4_Phone.png/4b11cc545fea5e439ff162c8c89e6b3d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Cover_Phone.jpg/3ac81035d4c65422f3df5d8906cb5397.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_VideoPreview.webm/8554f1ec55861291753c414a459f7654.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_banner_bkg.jpg/7f232ef849654e771d5977ff1d45bbf7.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_1.png/3990332b5c3cc5d94d3df1e28294df25.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_2.png/9c887987f24cb5a3dd7a6ac3ce7090dc.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_3.png/5d7bf3d2a9cb546d8c9ce58230f1e8db.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_4.png/9b447e2c2d718ac1d96db5a0ea3e4e4d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Cover_Generic.jpg/2c78739dc20453d40a6513be22fcccf9.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Cover_1024.png/66808744422ec173c4d3fd5a0242f3c2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Cover_Online.jpg/3ac81035d4c65422f3df5d8906cb5397.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Cover_AlbumBkg.jpg/eaf7481cc56aab52f0dcfdb01f3ceba4.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Cover_AlbumCoach.png/bc09d2e7867bc5de8c7a0926ae9fb3ee.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_1_Phone.png/e3ec3b4aa3dcb740a9c708b87ed59bfb.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_2_Phone.png/0020f8e13440d00c2f0a99d793a31b20.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_3_Phone.png/712999c5b1a66b2156122efa655c32df.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_4_Phone.png/4b11cc545fea5e439ff162c8c89e6b3d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Cover_Phone.jpg/3ac81035d4c65422f3df5d8906cb5397.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_VideoPreview.webm/8554f1ec55861291753c414a459f7654.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/wiiu/IWasMadeQUAT_banner_bkg.tga.ckd/d7fc31fb3dd7711a071fec574fcab2d8.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/wiiu/IWasMadeQUAT_Coach_1.tga.ckd/7562d272ac0fa06e653315ca8b1fe492.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/wiiu/IWasMadeQUAT_Coach_2.tga.ckd/4ba0d7780e022cf61c5f88bfc0ec4d61.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/wiiu/IWasMadeQUAT_Coach_3.tga.ckd/e78975d882fbb70ec9a694e3f919b24a.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/wiiu/IWasMadeQUAT_Coach_4.tga.ckd/e9d43434a5c7bfa531f6fd4ab58b994e.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/wiiu/IWasMadeQUAT_Cover_Generic.tga.ckd/1b839215e0c48f692ef31ba3b8fc0b78.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Cover_1024.png/66808744422ec173c4d3fd5a0242f3c2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/wiiu/IWasMadeQUAT_Cover_Online.tga.ckd/5a57368cb92d39256848f2a1bcd3d391.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/wiiu/IWasMadeQUAT_Cover_AlbumBkg.tga.ckd/dac269b416753d0db2eee589b5aebc00.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/wiiu/IWasMadeQUAT_Cover_AlbumCoach.tga.ckd/b9bb320ca42eff49e97fa3079216287d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_1_Phone.png/e3ec3b4aa3dcb740a9c708b87ed59bfb.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_2_Phone.png/0020f8e13440d00c2f0a99d793a31b20.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_3_Phone.png/712999c5b1a66b2156122efa655c32df.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Coach_4_Phone.png/4b11cc545fea5e439ff162c8c89e6b3d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_Cover_Phone.jpg/3ac81035d4c65422f3df5d8906cb5397.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_VideoPreview.webm/8554f1ec55861291753c414a459f7654.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23284,45523,67030,89374,111717,134060,156404,178747,201091,223434,245777,268121,290638,312982,335325,357668,380012,403714,424699,447042,469385,491868,514212,536555,558898,581242,603585,625929,648272,671591,693934,716277,738621,762079,783308,805651,827994,850338,872681,895025,917368,939711,962055,984956,1007160,1029503,1051846,1074190,1096533,1118877,1141220,1163563,1186464,1208807,1231151,1253494,1275838,1298320,1320107,1342450,1364793,1387137,1409480,1433112],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":572,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/iwasmadequat/iwasmadequat_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 266.966,
+  "mapName": "IWasMadeQUAT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496397\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482937\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2938342\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3875768\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "IWasMadeQUAT_mapContent"
+  },
+  "parentMapName": "IWasMadeQUAT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "DB9A17FF",
+    "songColor_1B": "6B0000FF",
+    "songColor_2A": "25A6FFFF",
+    "songColor_2B": "140034FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "I Was Made For Lovin' You",
+  "urls": {
+    "jmcs://jd-contents/IWasMadeQUAT/IWasMadeQUAT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_AudioPreview.ogg/1d6aa4724b4a2cefbb2aec08da5392d2.ogg",
+    "jmcs://jd-contents/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm/7b2e6fd2bc4fc940ac7c10ecd946b983.webm",
+    "jmcs://jd-contents/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_HIGH.vp9.webm/2e0637b3c06897d7ef2b6d43688bf1d0.webm",
+    "jmcs://jd-contents/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm/c7174cc769e1b08b7dee0d3fb2c9d5d9.webm",
+    "jmcs://jd-contents/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_LOW.vp9.webm/369c833869bfc46084b1dfb941bc62ca.webm",
+    "jmcs://jd-contents/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_MID.vp8.webm/ad771eceba20a24fd4045ee96dd8f032.webm",
+    "jmcs://jd-contents/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_MID.vp9.webm/7b48d2ec4d0ceaaa4cf4253981939ce0.webm",
+    "jmcs://jd-contents/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/7a11fd6b6beeb64b030265f1d0f0ae47.webm",
+    "jmcs://jd-contents/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/IWasMadeQUAT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/f874fa11314b1b84c84548a4fa8f6a10.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a97f0353413a2b4375a9c4ea4aeeef3f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/ps4/IWasMadeQUAT_MAIN_SCENE_ORBIS.zip/a97f0353413a2b4375a9c4ea4aeeef3f.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "9c4e0943d2214ad7078e44c01b87ad19",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/pc/IWasMadeQUAT_MAIN_SCENE_PC.zip/9c4e0943d2214ad7078e44c01b87ad19.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "7e7454d6e5ef94a1463c52f6b40ad98e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/wiiu/IWasMadeQUAT_MAIN_SCENE_WIIU.zip/7e7454d6e5ef94a1463c52f6b40ad98e.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "a09de8b917d0f5e828d21d9682b29d3f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IWasMadeQUAT/nx/IWasMadeQUAT_MAIN_SCENE_NX.zip/a09de8b917d0f5e828d21d9682b29d3f.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

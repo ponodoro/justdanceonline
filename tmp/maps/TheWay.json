@@ -1,0 +1,120 @@
+{
+  "artist": "Ariana Grande Ft. Mac Miller",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_banner_bkg.jpg/476670f0937fb987b79567176336fe1c.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Coach_1.png/a09973876bc410ce0bf138db63cda7eb.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Coach_2.png/439e3d75bc59808b83966e30987a3f1f.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Cover_Generic.jpg/4bc453340991d9814c29a96705d46a69.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Cover_1024.png/45f7596d139afd118c849ed5fb7aa6ba.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Cover_Online.jpg/f8753fa80c8aea01efff41bed811e13b.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Cover_AlbumBkg.jpg/bf8e6b863742729e805cccee31e43977.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Cover_AlbumCoach.png/09b78816d5272363663b2e044525ec47.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Coach_1_Phone.png/b66cd2023e417c2f8b905f58c9cc406d.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Coach_2_Phone.png/0dbb5a9b7ca0f088258039ad60f1a289.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Cover_Phone.jpg/f8753fa80c8aea01efff41bed811e13b.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_VideoPreview.webm/82451ac7e7a28fd648194b3a8dad3518.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_banner_bkg.jpg/476670f0937fb987b79567176336fe1c.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Coach_1.png/a09973876bc410ce0bf138db63cda7eb.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Coach_2.png/439e3d75bc59808b83966e30987a3f1f.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Cover_Generic.jpg/4bc453340991d9814c29a96705d46a69.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Cover_1024.png/45f7596d139afd118c849ed5fb7aa6ba.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Cover_Online.jpg/f8753fa80c8aea01efff41bed811e13b.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Cover_AlbumBkg.jpg/bf8e6b863742729e805cccee31e43977.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Cover_AlbumCoach.png/09b78816d5272363663b2e044525ec47.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Coach_1_Phone.png/b66cd2023e417c2f8b905f58c9cc406d.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Coach_2_Phone.png/0dbb5a9b7ca0f088258039ad60f1a289.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Cover_Phone.jpg/f8753fa80c8aea01efff41bed811e13b.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_VideoPreview.webm/82451ac7e7a28fd648194b3a8dad3518.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/wiiu/TheWay_banner_bkg.tga.ckd/10b8288591ceec23af5c190e22a05d4d.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/wiiu/TheWay_Coach_1.tga.ckd/f01952bd09963b7aa32c2fd76cff4066.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/wiiu/TheWay_Coach_2.tga.ckd/ca59765f120f3662b1fa9fb0f7e66e21.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/wiiu/TheWay_Cover_Generic.tga.ckd/c15b92ab12d7be0baf19a72adefa7a2b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Cover_1024.png/45f7596d139afd118c849ed5fb7aa6ba.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/wiiu/TheWay_Cover_Online.tga.ckd/5840407ce97a77c1ebfa8f9aa9afaeb9.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/wiiu/TheWay_Cover_AlbumBkg.tga.ckd/9b67555bf6b03dbcbeee0c404d9bf9ae.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/wiiu/TheWay_Cover_AlbumCoach.tga.ckd/683e929f31b9916785d56214ecc4546e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Coach_1_Phone.png/b66cd2023e417c2f8b905f58c9cc406d.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Coach_2_Phone.png/0dbb5a9b7ca0f088258039ad60f1a289.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_Cover_Phone.jpg/f8753fa80c8aea01efff41bed811e13b.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_VideoPreview.webm/82451ac7e7a28fd648194b3a8dad3518.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,17424,34896,52368,69792,87264,104688,122160,139632,157056,174528,192000,209424,226896,244368,261792,279264,296688,314161,331633,349057,366529,384001,401425,418897,436369,453793,471265,488689,506161,523633,541057,558529,576001,593425,610897,628369,645793,663265,680689,698161,715633,733057,750529,768001,785426,802898,820370,837794,855266,872690,890162,907634,925058,942530,960002,977426,994898,1012370,1029794,1047266,1064690,1082162,1099634,1117058,1134530,1152002,1169426,1186898,1204370,1221794,1239266,1256691,1274163,1291635,1309059,1326531,1344003,1361427,1378899,1396371,1413795,1431267],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":626,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":82,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/theway/theway_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "3399CCFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 229.45499999999998,
+  "mapName": "TheWay",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496378\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheWay/TheWay_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1337940\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheWay/TheWay_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1350157\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheWay/TheWay_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1350213\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheWay/TheWay_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "TheWay_mapContent"
+  },
+  "parentMapName": "TheWay",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "0096C0FF",
+    "songColor_1B": "080044FF",
+    "songColor_2A": "E19617FF",
+    "songColor_2B": "9A0035FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "The Way",
+  "urls": {
+    "jmcs://jd-contents/TheWay/TheWay_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_AudioPreview.ogg/e08b39cb9743921ad0b5bb59de227545.ogg",
+    "jmcs://jd-contents/TheWay/TheWay_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_MapPreviewNoSoundCrop_HIGH.vp8.webm/61494ed1a6d5e1fb5931ac9b7511e3ec.webm",
+    "jmcs://jd-contents/TheWay/TheWay_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_MapPreviewNoSoundCrop_HIGH.vp9.webm/48ef5efa76e71262de15029ea920481d.webm",
+    "jmcs://jd-contents/TheWay/TheWay_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_MapPreviewNoSoundCrop_LOW.vp8.webm/0abe666757e00a51b7ee3562233e1d13.webm",
+    "jmcs://jd-contents/TheWay/TheWay_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_MapPreviewNoSoundCrop_LOW.vp9.webm/4c0f1c51831844e16da710aa26261e72.webm",
+    "jmcs://jd-contents/TheWay/TheWay_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_MapPreviewNoSoundCrop_MID.vp8.webm/1c397d0b5f1fa53d28f21861d0ffed39.webm",
+    "jmcs://jd-contents/TheWay/TheWay_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_MapPreviewNoSoundCrop_MID.vp9.webm/9e5718121792b2f1b32c5e09165f30df.webm",
+    "jmcs://jd-contents/TheWay/TheWay_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_MapPreviewNoSoundCrop_ULTRA.vp8.webm/a59cce78763dab15aeaf11f11a2027e7.webm",
+    "jmcs://jd-contents/TheWay/TheWay_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheWay/TheWay_MapPreviewNoSoundCrop_ULTRA.vp9.webm/49036c9377db13af7172aeecf8e6d82e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "002fc0e07daafd6597827dda4a727421",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheWay/ps4/TheWay_MAIN_SCENE_ORBIS.zip/002fc0e07daafd6597827dda4a727421.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "6c6c8c018e14f33d55d3a21bc2015a06",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheWay/pc/TheWay_MAIN_SCENE_PC.zip/6c6c8c018e14f33d55d3a21bc2015a06.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "112ef80cac6fd7cc1ad2712e97e84cfc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheWay/wiiu/TheWay_MAIN_SCENE_WIIU.zip/112ef80cac6fd7cc1ad2712e97e84cfc.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "58e8cc6046384c77bf06218a2327adc5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheWay/nx/TheWay_MAIN_SCENE_NX.zip/58e8cc6046384c77bf06218a2327adc5.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

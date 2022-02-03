@@ -1,0 +1,101 @@
+{
+  "artist": "AKB48",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Coach_1.png",
+      "coach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Coach_2.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Coach_1.png",
+      "phoneCoach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Coach_2.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_map_bkg.png"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Coach_1.png",
+      "coach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Coach_2.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Coach_1.png",
+      "phoneCoach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Coach_2.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/textures/FortuneCookie_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23615,47231,70799,94415,118031,141647,165263,188831,212447,236063,259679,283295,306863,330479,354095,377711,401327,424895,448511,472127,495743,519359,542927,566543,590159,613775,637391,660959,684575,708191,731807,755423,779039,802607,826223,849839,873455,897071,920639,944255,967871,991486,1015102,1038670,1062286,1085902,1109518,1133134,1156702,1180318,1203934,1227550,1251166,1274734,1298350,1321966,1345582,1369198,1392766,1416382,1439997],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":496,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/FortuneCookie/FortuneCookie_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0061CFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 100,
+  "mapName": "FortuneCookie",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648516\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"589-1079\">\r\n\t\t\t\t\t<Initialization range=\"0-589\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493390\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1075\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2981978\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1075\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5946162\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1082\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4514,
+  "packages": {
+    "mapContent": "FortuneCookie_mapContent"
+  },
+  "parentMapName": "FortuneCookie",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "65029EFF",
+    "songColor_1B": "1C0A21FF",
+    "songColor_2A": "3500BDFF",
+    "songColor_2B": "16072BFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main"
+  ],
+  "title": "Koi Suru Fortune Cookie",
+  "urls": {
+    "jmcs://jd-contents/FortuneCookie/FortuneCookie_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/FortuneCookie_AudioPreview.ogg",
+    "jmcs://jd-contents/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/nx/FortuneCookie_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/nx/FortuneCookie_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/nx/FortuneCookie_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/nx/FortuneCookie_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/nx/FortuneCookie_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/nx/FortuneCookie_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/nx/FortuneCookie_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/nx/FortuneCookie_VideoPreview.vp8.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "27544eedd6ada9e0eecc712e3cde368b",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/pc/27544eedd6ada9e0eecc712e3cde368b.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "52a546388338144b256420c7427565f3",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/nx/52a546388338144b256420c7427565f3.zip",
+      "version": 3
+    },
+    "orbis": {
+      "md5": "f83fb035f1556e8583ff0a828013394a",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/FortuneCookie/ps4/f83fb035f1556e8583ff0a828013394a.zip",
+      "version": 3
+    }
+  },
+  "mapType": "custom"
+}

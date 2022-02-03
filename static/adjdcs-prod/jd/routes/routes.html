@@ -1,0 +1,35 @@
+<h2>API routes</h2>
+<ul class="list-group routes">
+    <li class="list-group-item" ng-class="{'list-group-item-success': route.methods == 'GET', 'list-group-item-warning': route.methods == 'POST', 'list-group-item-info': route.methods == 'PUT', 'list-group-item-danger': route.methods == 'DELETE'}" ng-repeat="route in data.routes">
+        <div class="route" ng-class="{'with-parameters': route.parameters}" ng-click="showParameters = !showParameters">
+            <span class="icon">
+				<span class="fa fa-caret-right" ng-if="route.parameters && !showParameters"></span>
+            <span class="fa fa-caret-down" ng-if="route.parameters && showParameters"></span>
+            <span ng-if="!route.parameters">&nbsp;</span>
+            </span>
+            <strong ng-bind="route.methods"></strong>
+            <span class="path" ng-bind-html="highlightRouteName(route.path)"></span>
+            <a class="fa fa-external-link" ng-if="route.methods === 'GET'" ng-href="{{route.path}}" target="_blank" title="Open route in browser"></a>
+            <span class="fa fa-institution" ng-if="route.ubiticketBackOffice || route.ubiticketBackOfficeOrS2s" title="Requires a back office Ubiticket"></span>
+            <span class="fa fa-gears" ng-if="route.ubiticketS2s || route.ubiticketBackOfficeOrS2s" title="Requires a S2S Ubiticket"></span>
+            <span class="fa fa-globe" ng-if="route.geoip" title="Is geolocalized"></span>
+            <span class="fa fa-bell-o" ng-if="route.skuIdPermit" title="Permits a sku id"></span>
+            <span class="fa fa-bell" ng-if="route.skuIdRequire" title="Requires a sku id"></span>
+            <span class="fa fa-bookmark-o" ng-if="route.ubiticketPermit" title="Permits a Ubiticket"></span>
+            <span class="fa fa-bookmark" ng-if="route.ubiticketRequire" title="Requires a Ubiticket"></span>
+        </div>
+        <div ng-if="showParameters" class="parameters">
+            <div ng-repeat="(objectName, param) in route.parameters">
+                <ul>
+                    <li ng-repeat="(memberName, info) in param">
+                        <span class="icon">
+							<span class="fa fa-square" ng-if="info.mandatory" title="Mandatory"></span>
+                        <span class="fa fa-square-o" ng-if="!info.mandatory" title="Optional"></span>
+                        </span>
+                        {{objectName}}.<strong>{{memberName}}</strong> <small>{{info.type}}</small>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </li>
+</ul>

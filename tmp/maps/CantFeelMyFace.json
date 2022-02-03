@@ -1,0 +1,114 @@
+{
+  "artist": "The Weeknd",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_banner_bkg.jpg/466c92026303b5b3fa2e29c9dfa570c4.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Coach_1.png/cbd0504ac06eee868da36c94ec9fd9fa.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Cover_Generic.jpg/c1b81711933523e2b10d6e532408763a.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Cover_1024.png/ac012c212310b683cf669a836492a77c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Cover_Online.jpg/606ce448f23b52b5de617d706dcf7cae.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Cover_AlbumBkg.jpg/1e9f6c9b69bb594022bc7c9c9903eb7b.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Cover_AlbumCoach.png/44bf6d2908d6e6aacf3e2f9a0311289f.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Coach_1_Phone.png/6c81defbebe765ce3d5c46c5f3d9d9ed.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Cover_Phone.jpg/606ce448f23b52b5de617d706dcf7cae.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_VideoPreview.webm/744c467aa60c9270b361fc896aafe3f0.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_banner_bkg.jpg/466c92026303b5b3fa2e29c9dfa570c4.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Coach_1.png/cbd0504ac06eee868da36c94ec9fd9fa.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Cover_Generic.jpg/c1b81711933523e2b10d6e532408763a.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Cover_1024.png/ac012c212310b683cf669a836492a77c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Cover_Online.jpg/606ce448f23b52b5de617d706dcf7cae.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Cover_AlbumBkg.jpg/1e9f6c9b69bb594022bc7c9c9903eb7b.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Cover_AlbumCoach.png/44bf6d2908d6e6aacf3e2f9a0311289f.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Coach_1_Phone.png/6c81defbebe765ce3d5c46c5f3d9d9ed.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Cover_Phone.jpg/606ce448f23b52b5de617d706dcf7cae.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_VideoPreview.webm/744c467aa60c9270b361fc896aafe3f0.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/wiiu/CantFeelMyFace_banner_bkg.tga.ckd/cbc3d4fe93b55015685303d1f6017e97.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/wiiu/CantFeelMyFace_Coach_1.tga.ckd/d9f68fe50ba9bc89410c24b9757039ab.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/wiiu/CantFeelMyFace_Cover_Generic.tga.ckd/3e503f7f3164be6a9fc2f25d6221bae1.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Cover_1024.png/ac012c212310b683cf669a836492a77c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/wiiu/CantFeelMyFace_Cover_Online.tga.ckd/7408c58d7959415fddcb881ae6d38bce.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/wiiu/CantFeelMyFace_Cover_AlbumBkg.tga.ckd/c9d7cbb7af142ec31d556a740f454529.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/wiiu/CantFeelMyFace_Cover_AlbumCoach.tga.ckd/55d8aada0a5298f227c6a888bc036947.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Coach_1_Phone.png/6c81defbebe765ce3d5c46c5f3d9d9ed.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_Cover_Phone.jpg/606ce448f23b52b5de617d706dcf7cae.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_VideoPreview.webm/744c467aa60c9270b361fc896aafe3f0.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26688,53328,80016,106704,133344,160032,186672,213360,240000,266688,293328,320016,346704,373343,400031,426671,453359,479999,506687,533327,560015,586703,613343,640031,666671,693359,719999,746687,773327,800015,826703,853343,880031,906671,933359,959999,986687,1013326,1040014,1066702,1093342,1120030,1146670,1173358,1199998,1226686,1253326,1280014,1306702,1333342,1360030,1386670,1413358,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":380,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":54,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/cantfeelmyface/cantfeelmyface_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F61F87FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 213.88799999999998,
+  "mapName": "CantFeelMyFace",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495965\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1417941\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1496695\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1496114\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "CantFeelMyFace_mapContent"
+  },
+  "parentMapName": "CantFeelMyFace",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "00A061FF",
+    "songColor_1B": "000049FF",
+    "songColor_2A": "FF9C5AFF",
+    "songColor_2B": "65006DFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Can't Feel My Face",
+  "urls": {
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_AudioPreview.ogg/f84638c37109c73c13d4d95529b759a6.ogg",
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_HIGH.vp8.webm/87ea6eaf06d787bfa5aa9eb39a6c346c.webm",
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_HIGH.vp9.webm/43193f3fb122675b4cb14ff171bdd0bd.webm",
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_LOW.vp8.webm/67098eddcaf0b895a4029c14adf35496.webm",
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_LOW.vp9.webm/5c5b926746bc2d26deb8d6a87bf5dccf.webm",
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_MID.vp8.webm/1851209e30de29b5ddbc48b76831b279.webm",
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_MID.vp9.webm/2831d369eb47454a68bee232125b5ae1.webm",
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_ULTRA.vp8.webm/9f03e7a0a0851531955868de058bd68b.webm",
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_ULTRA.vp9.webm/563c7c9e0693f7e29ba0dd7a00391af7.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "8ebb5b84811baf01bf069d21aa1f87d9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/ps4/CantFeelMyFace_MAIN_SCENE_ORBIS.zip/8ebb5b84811baf01bf069d21aa1f87d9.zip",
+      "version": 13
+    },
+    "pc": {
+      "md5": "32a39b08f1902b60f8777d15959e6f55",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/pc/CantFeelMyFace_MAIN_SCENE_PC.zip/32a39b08f1902b60f8777d15959e6f55.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "5c2c3eab5d67434919ad6cd77e471947",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/wiiu/CantFeelMyFace_MAIN_SCENE_WIIU.zip/5c2c3eab5d67434919ad6cd77e471947.zip",
+      "version": 13
+    },
+    "nx": {
+      "md5": "204a113fd1c1cdcb17a22c81ac0e0dc8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CantFeelMyFace/nx/CantFeelMyFace_MAIN_SCENE_NX.zip/204a113fd1c1cdcb17a22c81ac0e0dc8.zip",
+      "version": 7
+    }
+  },
+  "mapType": "jdu"
+}

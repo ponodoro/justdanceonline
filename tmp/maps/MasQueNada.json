@@ -1,0 +1,100 @@
+{
+  "artist": "Sergio Mendes Ft. The Black Eyed Peas",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/ggp/MasQueNada_banner_bkg.tga.ckd/928cee95fb35b794f1f3adb7aee28053.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/ggp/MasQueNada_Coach_1.tga.ckd/4cc0723f7182b16f5fffbbeef2f95ea9.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/ggp/MasQueNada_Cover_Generic.tga.ckd/f1a662cfadf27f94301408156d8d3dcd.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/ggp/MasQueNada_Cover_Online.tga.ckd/f1a662cfadf27f94301408156d8d3dcd.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/ggp/MasQueNada_Cover_AlbumBkg.tga.ckd/874005d31e74afceb8e1e0e1e67fcd18.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/ggp/MasQueNada_Cover_AlbumCoach.tga.ckd/b4426dab6eb9b7433dc1c5279f5e424b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/MasQueNada_Coach_1_Phone.png/4128696cdcfc6c4628923fed9c0744cc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/MasQueNada_Cover_Phone.jpg/20db005ebbc26cb1f4404114936a590c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MasQueNada/MasQueNada_VideoPreview.webm/d8cfb709099d27982942bdf30ae85d06.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/ggp/MasQueNada_map_bkg.tga.ckd/d1ab2c8c32e2a99ff46d7dbac70dfaed.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/nx/MasQueNada_banner_bkg.tga.ckd/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/nx/MasQueNada_Coach_1.tga.ckd/03d0a09fe96637ed190dc88220005a58.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/nx/MasQueNada_Cover_Generic.tga.ckd/22b5dfcda8c52a246801146a349b8ba8.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/nx/MasQueNada_Cover_Online.tga.ckd/b9fe941f1b423e1abcdfe0f23bb80be4.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/nx/MasQueNada_Cover_AlbumBkg.tga.ckd/de10c1cf3e2c10f707dd72117c2e3b0c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/nx/MasQueNada_Cover_AlbumCoach.tga.ckd/21fb6f35ee7736f587b71661bd1d7f46.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/nx/MasQueNada_map_bkg.tga.ckd/7d16d2a29fa990ae56bf6120a0406235.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/MasQueNada_Coach_1_Phone.png/4128696cdcfc6c4628923fed9c0744cc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MasQueNada/MasQueNada_Cover_Phone.jpg/20db005ebbc26cb1f4404114936a590c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MasQueNada/MasQueNada_VideoPreview.webm/d8cfb709099d27982942bdf30ae85d06.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28800,57600,86400,115200,144000,172800,201600,230400,259200,288000,316800,345600,374400,403200,432000,460800,489600,518400,547200,576000,604800,633600,662400,691200,720000,748800,777600,806400,835200,864000,892800,921600,950400,979200,1008000,1036800,1065600,1094400,1123200,1152000,1180800,1209600,1238400,1267200,1296000,1324800,1353600,1382400,1411200],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":364,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":49,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/masquenada/masquenada_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "300E11FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 218.935,
+  "mapName": "MasQueNada",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497266\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1090\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1476019\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1092\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2305996\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1092\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2306600\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1092\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "MasQueNada_mapContent"
+  },
+  "parentMapName": "MasQueNada",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "63B59AFF",
+    "songColor_1B": "633418FF",
+    "songColor_2A": "EDA235FF",
+    "songColor_2B": "62939CFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Mas Que Nada",
+  "urls": {
+    "jmcs://jd-contents/MasQueNada/MasQueNada_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/MasQueNada/MasQueNada_AudioPreview.ogg/6140d1c0f7ae799e256bfd0f6bcdd698.ogg",
+    "jmcs://jd-contents/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_HIGH.vp8.webm/47c33f7bb7df0a6b4322e4ad2206f99a.webm",
+    "jmcs://jd-contents/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_HIGH.vp9.webm/2e8c6f2e1003706cf75348e23c25cd72.webm",
+    "jmcs://jd-contents/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_LOW.vp8.webm/1f1f9d44350402871a5874c918748724.webm",
+    "jmcs://jd-contents/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_LOW.vp9.webm/f2dabab309f9713d298cf13043df6461.webm",
+    "jmcs://jd-contents/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_MID.vp8.webm/0535e3dd60188b3c552b7961b92599df.webm",
+    "jmcs://jd-contents/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_MID.vp9.webm/7b015921d1ae1287be020a219c5c0fc8.webm",
+    "jmcs://jd-contents/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_ULTRA.vp8.webm/6012c8414b49e2624d70d0585d89ce21.webm",
+    "jmcs://jd-contents/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/MasQueNada/MasQueNada_MapPreviewNoSoundCrop_ULTRA.vp9.webm/f8636ae2f00bb805c4e44756bf5c59c1.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "3a76ccaca0aed675211698fa0a7b8b89",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MasQueNada/pc/MasQueNada_MAIN_SCENE_PC.zip/3a76ccaca0aed675211698fa0a7b8b89.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "",
+      "version": 0
+    },
+    "nx": {
+      "md5": "e23fa8d5f64e7af0167dcfec73b9cbe1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MasQueNada/nx/MasQueNada_MAIN_SCENE_NX.zip/e23fa8d5f64e7af0167dcfec73b9cbe1.zip",
+      "version": 19
+    },
+    "orbis": {
+      "md5": "45b3f4f3c7ddb364ee556b88bbc09bb6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MasQueNada/ps4/MasQueNada_MAIN_SCENE_ORBIS.zip/45b3f4f3c7ddb364ee556b88bbc09bb6.zip",
+      "version": 19
+    }
+  },
+  "mapType": "jdu"
+}

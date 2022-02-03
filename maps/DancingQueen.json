@@ -1,0 +1,126 @@
+{
+  "artist": "ABBA",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_banner_bkg.jpg/1e96e6e15b495c0a2a95bc4597ae426c.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_1.png/370ff83cd0116f75cfd8af7f3b09ea0c.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_2.png/556f69ce2ac4c04ba6030280dc58c217.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_3.png/bb26715cc81def66456d048143c5faff.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_Generic.jpg/5f749798cd816c8174a47fe0a1821edb.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_1024.png/4d92ab9705b2670347fcdb817811d36b.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_Online.jpg/6cc35eaf3527a23770925ed3010f2a46.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_AlbumBkg.jpg/160852870ddb2673df0503db3a93d562.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_AlbumCoach.png/60609862015429e096b0dc52727f28e5.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_1_Phone.png/e072bde771150b8bcc76fda6429a0905.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_2_Phone.png/0a5ab4050630c6d7d0ea549fd15c3860.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_3_Phone.png/71938bf5d57520eda639d52df334a940.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_Phone.jpg/6cc35eaf3527a23770925ed3010f2a46.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_VideoPreview.webm/4a73121f01b21bcda59694220c5439d1.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_banner_bkg.jpg/1e96e6e15b495c0a2a95bc4597ae426c.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_1.png/370ff83cd0116f75cfd8af7f3b09ea0c.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_2.png/556f69ce2ac4c04ba6030280dc58c217.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_3.png/bb26715cc81def66456d048143c5faff.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_Generic.jpg/5f749798cd816c8174a47fe0a1821edb.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_1024.png/4d92ab9705b2670347fcdb817811d36b.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_Online.jpg/6cc35eaf3527a23770925ed3010f2a46.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_AlbumBkg.jpg/160852870ddb2673df0503db3a93d562.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_AlbumCoach.png/60609862015429e096b0dc52727f28e5.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_1_Phone.png/e072bde771150b8bcc76fda6429a0905.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_2_Phone.png/0a5ab4050630c6d7d0ea549fd15c3860.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_3_Phone.png/71938bf5d57520eda639d52df334a940.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_Phone.jpg/6cc35eaf3527a23770925ed3010f2a46.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_VideoPreview.webm/4a73121f01b21bcda59694220c5439d1.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_banner_bkg.tga.ckd/66773012532fc9d8c756396ae49c11d1.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_1.tga.ckd/ebca3ec86c633e28f1e7e4d4c53a0d74.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_2.tga.ckd/e51ff2a21ce38df8458570f07351c855.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_3.tga.ckd/6decc7dbf68a2ccee48a9b5219ebfec6.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_Generic.tga.ckd/28dbdab224b935c7b1b809dd84cc83cf.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_1024.png/4d92ab9705b2670347fcdb817811d36b.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_Online.tga.ckd/706538a5bf635690894dbab98c5295fc.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_AlbumBkg.tga.ckd/a61c4278de4a910995dcfe618747f350.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_AlbumCoach.tga.ckd/59ba622027b80eb9d4ea07197c063c66.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_1_Phone.png/e072bde771150b8bcc76fda6429a0905.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_2_Phone.png/0a5ab4050630c6d7d0ea549fd15c3860.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Coach_3_Phone.png/71938bf5d57520eda639d52df334a940.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_Cover_Phone.jpg/6cc35eaf3527a23770925ed3010f2a46.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_VideoPreview.webm/4a73121f01b21bcda59694220c5439d1.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28655,57311,86015,114671,143327,171983,200639,229295,257951,286607,315263,343919,372575,401231,429887,458543,487199,515855,544558,573262,601966,630670,659374,688078,716830,745534,774238,802942,831646,860350,889054,917758,946462,975166,1003726,1032334,1060893,1089501,1118013,1146477,1174989,1203501,1231965,1260477,1288989,1317501,1345965,1374381,1402845,1431309],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":348,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":50,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/dancingqueen/dancingqueen_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Ulvaeus, Bjoern K.; Andersson, Benny Goran Bror; Anderson, Stig Erik Leopold. Published by Universal Music Publishing. Courtesy of Polydor Limited under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "5CF2FDFF",
+  "lyricsType": 2,
+  "mainCoach": -1,
+  "mapLength": 212.114,
+  "mapName": "DancingQueen",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497961\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478596\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2047042\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2054555\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "DancingQueen_mapContent"
+  },
+  "parentMapName": "DancingQueen",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "89500BFF",
+    "songColor_1B": "F9CD52FF",
+    "songColor_2A": "50CBFCFF",
+    "songColor_2B": "02267AFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "Exclusive"
+  ],
+  "title": "Dancing Queen",
+  "urls": {
+    "jmcs://jd-contents/DancingQueen/DancingQueen_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_AudioPreview.ogg/755c9085e80423f806bb04a0f5e1fd95.ogg",
+    "jmcs://jd-contents/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_HIGH.vp8.webm/ac9a87db10157fc6d89eb39bce602b55.webm",
+    "jmcs://jd-contents/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_HIGH.vp9.webm/5fa5c7a5b03f29da6d80b9027394358a.webm",
+    "jmcs://jd-contents/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_LOW.vp8.webm/be4ebb2cc9f40d4afb8bc5958999bd62.webm",
+    "jmcs://jd-contents/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_LOW.vp9.webm/6fe4c7b917b95c97a8c5abf1f8b3d9e7.webm",
+    "jmcs://jd-contents/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_MID.vp8.webm/0a582fda2e520ce6ffb1741a2318e6aa.webm",
+    "jmcs://jd-contents/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_MID.vp9.webm/6f5300fdaf2e6c2a57262a1d0ef44f60.webm",
+    "jmcs://jd-contents/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_ULTRA.vp8.webm/044b75fe493f263af0ffa4726f8ca4b0.webm",
+    "jmcs://jd-contents/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_ULTRA.vp9.webm/d051e76e5ed8acc3d5d574ca529af757.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "940685f4c64764a84f16d01565128587",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_MAIN_SCENE_ORBIS.zip/940685f4c64764a84f16d01565128587.zip",
+      "version": 42
+    },
+    "nx": {
+      "md5": "d8564971cc2e78e58da1e2260963ac6a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_MAIN_SCENE_NX.zip/d8564971cc2e78e58da1e2260963ac6a.zip",
+      "version": 37
+    },
+    "pc": {
+      "md5": "9bed5eb5c0d47c60f182def2c2c8d0d1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_MAIN_SCENE_PC.zip/9bed5eb5c0d47c60f182def2c2c8d0d1.zip",
+      "version": 31
+    },
+    "wiiu": {
+      "md5": "ddd3c150b0b95f9359be53bd1cfa4439",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DancingQueen/DancingQueen_MAIN_SCENE_WIIU.zip/ddd3c150b0b95f9359be53bd1cfa4439.zip",
+      "version": 42
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 15182
+}

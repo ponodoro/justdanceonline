@@ -1,0 +1,90 @@
+{
+  "artist": "DREAMERS",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeatSeeker/HeatSeeker_banner_bkg.jpg/8f1460fb6a5208f0b3c0947aefbae201.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeatSeeker/HeatSeeker_Coach_1.png/71ca3b19010e929b9da3c87bebf2ce51.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HeatSeeker/HeatSeeker_Cover_Generic.jpg/d6c66a69837811b7a68e2f519cc035af.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HeatSeeker/HeatSeeker_Cover_Online.jpg/b6a5ba06c158baa847cedc69d530a002.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeatSeeker/HeatSeeker_Cover_AlbumBkg.jpg/ba81845a19d7a4fa42200c8075b35065.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HeatSeeker/HeatSeeker_Cover_AlbumCoach.png/a5670f30892a2f1c05edc2090cb3dae5.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeatSeeker/HeatSeeker_Coach_1_Phone.png/ad24ff58e9be9681d4b413031a506d08.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HeatSeeker/HeatSeeker_Cover_Phone.jpg/b6a5ba06c158baa847cedc69d530a002.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeatSeeker/HeatSeeker_banner_bkg.jpg/8f1460fb6a5208f0b3c0947aefbae201.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeatSeeker/HeatSeeker_Coach_1.png/71ca3b19010e929b9da3c87bebf2ce51.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HeatSeeker/HeatSeeker_Cover_Generic.jpg/d6c66a69837811b7a68e2f519cc035af.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HeatSeeker/HeatSeeker_Cover_Online.jpg/b6a5ba06c158baa847cedc69d530a002.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeatSeeker/HeatSeeker_Cover_AlbumBkg.jpg/ba81845a19d7a4fa42200c8075b35065.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HeatSeeker/HeatSeeker_Cover_AlbumCoach.png/a5670f30892a2f1c05edc2090cb3dae5.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeatSeeker/HeatSeeker_Coach_1_Phone.png/ad24ff58e9be9681d4b413031a506d08.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HeatSeeker/HeatSeeker_Cover_Phone.jpg/b6a5ba06c158baa847cedc69d530a002.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,18000,36000,54000,72000,90000,108000,126000,144000,162000,180000,198000,216000,234000,252000,270000,288000,306000,324000,342000,360000,378000,396000,414000,432000,450000,468000,486000,504000,522000,540000,558000,576000,594000,612000,630000,648000,666000,684000,702000,720000,738000,756000,774000,792000,810000,828000,846000,864000,882000,900000,918000,936000,954000,972000,990000,1008000,1026000,1044000,1062000,1080000,1098000,1116000,1134000,1152000,1170000,1188000,1206000,1224000,1242000,1260000,1278000,1296000,1314000,1332000,1350000,1368000,1386000,1404000,1422000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":474,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":79,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/heatseeker/heatseeker_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Peter Anthony Nappi, Elisha Noll, Nicholas Wold, Marc Nelson and Jacob Lee Wick. Published by (P) 2020 Published by Seven Summits Music (BMI) obo Itself, Nick Wold Publishing (BMI) and Fairfax Worldwide Publishing (BMI) / Seven Summits Music (BMI) obo Itself, Music By JLW Publishing (BMI) and Fairfax Worldwide Publishing (BMI) / Seven Summits Music (BMI) obo Itself, Marc Nelson Publishing (BMI) and Fairfax Worldwide Publishing (BMI) / Universal Music Publishing Canada on behalf of Straight From The Art Music, Elijah Noll Publishing, Petenap Publishing and Songs Of Universal, Inc. Courtesy of Hollywood Records.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "07F1D6FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 179.625,
+  "mapName": "HeatSeeker",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495571\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1452679\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2653197\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3341475\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "HeatSeeker_mapContent"
+  },
+  "parentMapName": "HeatSeeker",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "E0AE90FF",
+    "songColor_1B": "090407FF",
+    "songColor_2A": "4BC2C6FF",
+    "songColor_2B": "621C15FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Heat Seeker",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "c71c411b7b9788fdea92d79d46fda9a0",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/HeatSeeker/ps4/HeatSeeker_MAIN_SCENE_ORBIS.zip/c71c411b7b9788fdea92d79d46fda9a0.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "bc3300cd1f83204ce3aa931aca3e1cef",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/HeatSeeker/nx/HeatSeeker_MAIN_SCENE_NX.zip/bc3300cd1f83204ce3aa931aca3e1cef.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "dbffa42425be43eb4a10ec06f2e580d3",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeatSeeker/pc/dbffa42425be43eb4a10ec06f2e580d3.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/HeatSeeker/HeatSeeker_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/HeatSeeker/HeatSeeker_AudioPreview.ogg/d1055f804b61ad234ef321950fffbb58.ogg",
+    "jmcs://jd-contents/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_HIGH.vp8.webm/366b6b0b4e57cedd9cb9149db78d964d.webm",
+    "jmcs://jd-contents/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_HIGH.vp9.webm/079996c60099e621c8490701b38e30b8.webm",
+    "jmcs://jd-contents/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_LOW.vp8.webm/406bbd9e69e37aada46ff91dcbc1a87b.webm",
+    "jmcs://jd-contents/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_LOW.vp9.webm/3f367f622e571dd6eee0980102617f8a.webm",
+    "jmcs://jd-contents/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_MID.vp8.webm/9f3daaf91b1d994217466750af88d71e.webm",
+    "jmcs://jd-contents/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_MID.vp9.webm/9ece5280341527497b10b9f7920f48f1.webm",
+    "jmcs://jd-contents/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_ULTRA.vp8.webm/2ecf22cd8e9f687ca4930a757917a521.webm",
+    "jmcs://jd-contents/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/HeatSeeker/HeatSeeker_MapPreviewNoSoundCrop_ULTRA.vp9.webm/c3abaa06ecc20914ad47ca48a5108e0d.webm"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "artist": "Duck Sauce",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/ggp/BarbraStreisand_banner_bkg.tga.ckd/928cee95fb35b794f1f3adb7aee28053.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/ggp/BarbraStreisand_Coach_1.tga.ckd/5fca86f1390ba38674e656018b257baa.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/ggp/BarbraStreisand_Cover_Generic.tga.ckd/fa91edf22289c94055e23f58b253b0a2.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/ggp/BarbraStreisand_Cover_Online.tga.ckd/fa91edf22289c94055e23f58b253b0a2.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/ggp/BarbraStreisand_Cover_AlbumBkg.tga.ckd/616cfac20b6a4bc42bcfeaf8b5a6a498.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/ggp/BarbraStreisand_Cover_AlbumCoach.tga.ckd/64f8d552726d954e14199dc785acfd77.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/BarbraStreisand_Coach_1_Phone.png/acf54d36091f25f0596b27335679f573.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/BarbraStreisand_Cover_Phone.jpg/04011b46751d62c0cb3592bdb88311b1.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/BarbraStreisand_VideoPreview.webm/6002c358af28554986b3dfd33acab791.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/ggp/BarbraStreisand_map_bkg.tga.ckd/193cf9327a6d5bfdfd60bbce1983eff1.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/nx/BarbraStreisand_banner_bkg.tga.ckd/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/nx/BarbraStreisand_Coach_1.tga.ckd/bbc0439c60a5ea5aa989dc61331441d5.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/nx/BarbraStreisand_Cover_Generic.tga.ckd/97292a42609ee702b72fd53e9249d590.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/nx/BarbraStreisand_Cover_Online.tga.ckd/9a68ad07ee51c9970a9c4ecb3f3dfaba.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/nx/BarbraStreisand_Cover_AlbumBkg.tga.ckd/b0e94a8b602c07bc6e0ad609db188ba7.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/nx/BarbraStreisand_Cover_AlbumCoach.tga.ckd/5d3301a0c90beb24bf876cabce3e3b89.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/nx/BarbraStreisand_map_bkg.tga.ckd/2e8459ee2691f4b376e14189340d4d20.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/BarbraStreisand_Coach_1_Phone.png/acf54d36091f25f0596b27335679f573.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/BarbraStreisand_Cover_Phone.jpg/04011b46751d62c0cb3592bdb88311b1.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/BarbraStreisand_VideoPreview.webm/6002c358af28554986b3dfd33acab791.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22499,44998,67497,89996,112495,134994,157493,179992,202491,224991,247490,269989,292488,314987,337486,359985,382484,404983,427482,449981,472480,494979,517478,539977,562476,584975,607474,629973,652472,674971,697471,719970,742469,764968,787467,809966,832465,854964,877463,899962,922461,944960,967459,989958,1012457,1034956,1057455,1079954,1102453,1124952,1147451,1169951,1192450,1214949,1237448,1259947,1282446,1304945,1327444,1349943,1372442,1394941,1417440,1439939],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":429,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/barbrastreisand/barbrastreisand_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "B205FFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 201.465,
+  "mapName": "BarbraStreisand",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496604\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1136\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1348478\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1426146\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1425650\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "BarbraStreisand_mapContent"
+  },
+  "parentMapName": "BarbraStreisand",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {},
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Barbra Streisand (2019 Edit)",
+  "urls": {
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/BarbraStreisand_AudioPreview.ogg/e3e53bbbada0c1027634065f371e756b.ogg",
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_HIGH.vp8.webm/cfbd35661c040688d38951f09a4701c4.webm",
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_HIGH.vp9.webm/c4761d89fa0e565946dbf4df190fbced.webm",
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_LOW.vp8.webm/ab57b6b6bafc4cd0374637684b41fac7.webm",
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_LOW.vp9.webm/50c13886cd1551245d9660f8cd4e82a5.webm",
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_MID.vp8.webm/0421c0b81e9d2a9596e7d4999f863d10.webm",
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_MID.vp9.webm/ed7b7dc261a329a738d0c45d01a7c48b.webm",
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_ULTRA.vp8.webm/be86e3ad51507f203731dc17651921d9.webm",
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_ULTRA.vp9.webm/2b8a547985f325f8f26cf34b49b043f0.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "d16e40e3aed75fb4db414513a9637fe5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/pc/BarbraStreisand_MAIN_SCENE_PC.zip/d16e40e3aed75fb4db414513a9637fe5.zip",
+      "version": 39
+    },
+    "wiiu": {
+      "md5": "",
+      "version": 0
+    },
+    "nx": {
+      "md5": "a66504ebc7cb0debdf68cefa4e0bc78b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/nx/BarbraStreisand_MAIN_SCENE_NX.zip/a66504ebc7cb0debdf68cefa4e0bc78b.zip",
+      "version": 42
+    },
+    "orbis": {
+      "md5": "66533799addf5ba8c5149c91f6945751",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BarbraStreisand/ps4/BarbraStreisand_MAIN_SCENE_ORBIS.zip/66533799addf5ba8c5149c91f6945751.zip",
+      "version": 42
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,38 @@
+{
+  "__class": "OnlineBlock",
+  "artist": "JDMHaka Artist",
+  "assets": {
+    "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMHaka/pc/JDMHaka_Cover_Generic.tga.ckd/e1550a0f135d37d553a37e9be4e7bf82.ckd",
+    "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMHaka/pc/JDMHaka_Cover_Online.tga.ckd/2ca065e3f108e13df88bcd1456bd7bf0.ckd"
+  },
+  "coachCount": 1,
+  "credits": "CREDITS STRING TO BE FILLED",
+  "customTypeNameId": -1,
+  "difficulty": 2,
+  "jdmAttributes": [
+    "JDM_WhatTheFuck"
+  ],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 20.308,
+  "mapName": "JDMHaka",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "JDMHaka_mapContent"
+  },
+  "parentMapName": "JDMHaka",
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 3,
+  "tags": [
+    "DanceMachine"
+  ],
+  "title": "JDMHaka",
+  "isPlayable": false
+}

@@ -1,0 +1,120 @@
+{
+  "artist": "The Sunlight Shakers",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_banner_bkg.jpg/1cecc68c15aa259d5818dcbc0102fffc.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Coach_1.png/3f4fda9784bdd81fe79987699e2faaf9.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Coach_2.png/f3294fc9c4b74abd05bdc577527b5fe4.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Cover_Generic.jpg/7134cbf1a98a1f9a1ed25dfaa7aace78.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Cover_1024.png/c766edc2c0876692b73f1da0c96ba2e1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Cover_Online.jpg/212506be651a6fb200a599d7f72b6d8d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Cover_AlbumBkg.jpg/5f477864c69e90efcaf799570a30523e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Cover_AlbumCoach.png/402b351e7d563f0cf08f51e02e830871.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Coach_1_Phone.png/f14337405d5389437186ed7e7d1a283a.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Coach_2_Phone.png/55a9389405af042ad476121106f7ae5f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Cover_Phone.jpg/212506be651a6fb200a599d7f72b6d8d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_VideoPreview.webm/d572942c95d7621749da27314426e727.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_banner_bkg.jpg/1cecc68c15aa259d5818dcbc0102fffc.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Coach_1.png/3f4fda9784bdd81fe79987699e2faaf9.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Coach_2.png/f3294fc9c4b74abd05bdc577527b5fe4.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Cover_Generic.jpg/7134cbf1a98a1f9a1ed25dfaa7aace78.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Cover_1024.png/c766edc2c0876692b73f1da0c96ba2e1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Cover_Online.jpg/212506be651a6fb200a599d7f72b6d8d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Cover_AlbumBkg.jpg/5f477864c69e90efcaf799570a30523e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Cover_AlbumCoach.png/402b351e7d563f0cf08f51e02e830871.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Coach_1_Phone.png/f14337405d5389437186ed7e7d1a283a.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Coach_2_Phone.png/55a9389405af042ad476121106f7ae5f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Cover_Phone.jpg/212506be651a6fb200a599d7f72b6d8d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_VideoPreview.webm/d572942c95d7621749da27314426e727.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/wiiu/LoveIsAll_banner_bkg.tga.ckd/824a9dc3c4189d0270baaee7124f9bf2.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/wiiu/LoveIsAll_Coach_1.tga.ckd/cd5f90e2646750630c899ab767714a1a.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/wiiu/LoveIsAll_Coach_2.tga.ckd/840915234bc4f00905bd6dc661b99e67.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/wiiu/LoveIsAll_Cover_Generic.tga.ckd/df1f9b42e7ab2f1d8a67d5d0e5b0484c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Cover_1024.png/c766edc2c0876692b73f1da0c96ba2e1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/wiiu/LoveIsAll_Cover_Online.tga.ckd/84910d61184e6e8de43aff4214838db4.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/wiiu/LoveIsAll_Cover_AlbumBkg.tga.ckd/a815425c03345d61413f17850fdbe1dd.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/wiiu/LoveIsAll_Cover_AlbumCoach.tga.ckd/59be7462caac9fe5513ac91a2ab209d8.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Coach_1_Phone.png/f14337405d5389437186ed7e7d1a283a.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Coach_2_Phone.png/55a9389405af042ad476121106f7ae5f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_Cover_Phone.jpg/212506be651a6fb200a599d7f72b6d8d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_VideoPreview.webm/d572942c95d7621749da27314426e727.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24336,50064,75792,101520,127248,153072,178848,204672,230448,256416,282336,308304,334272,359088,383904,408720,433585,459505,485473,511393,537361,563281,589249,615169,641137,667057,693025,718945,744913,770833,796801,822769,848689,874657,900577,926545,952465,978433,1004449,1030417,1056385,1082353,1108321,1134289,1160257,1187137,1214017,1240897,1267729,1293793,1319809,1345825,1371841,1397905,1423921],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":384,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":55,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/loveisall/loveisall_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F7593CFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 186.929,
+  "mapName": "LoveIsAll",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496617\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480968\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2935084\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3411829\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "LoveIsAll_mapContent"
+  },
+  "parentMapName": "LoveIsAll",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FF6698FF",
+    "songColor_1B": "A91D33FF",
+    "songColor_2A": "F89052FF",
+    "songColor_2B": "A84D2AFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Love Is All",
+  "urls": {
+    "jmcs://jd-contents/LoveIsAll/LoveIsAll_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_AudioPreview.ogg/eedc22fedcbb2d3a3831f2ef129b0d18.ogg",
+    "jmcs://jd-contents/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_HIGH.vp8.webm/c54b62d8caac88df817f601929e8538f.webm",
+    "jmcs://jd-contents/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_HIGH.vp9.webm/79a7f15039c3f9048476ed06e65dfec2.webm",
+    "jmcs://jd-contents/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_LOW.vp8.webm/62ed6761082e81e1b38577ccf1c4c205.webm",
+    "jmcs://jd-contents/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_LOW.vp9.webm/d5e8a2eaa47dcb15a5c2243d3187d0a3.webm",
+    "jmcs://jd-contents/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_MID.vp8.webm/b79c701d3bb8a2778f6c2ff14751702f.webm",
+    "jmcs://jd-contents/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_MID.vp9.webm/ca2a48df36c02900c392330743564d8d.webm",
+    "jmcs://jd-contents/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_ULTRA.vp8.webm/7170e0e0fddf296c8fcbcf45b2271f80.webm",
+    "jmcs://jd-contents/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/LoveIsAll/LoveIsAll_MapPreviewNoSoundCrop_ULTRA.vp9.webm/fa79d2f812dff9126179c333468b2cd2.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "7b258351be720556e56a5d2d7e08581a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LoveIsAll/ps4/LoveIsAll_MAIN_SCENE_ORBIS.zip/7b258351be720556e56a5d2d7e08581a.zip",
+      "version": 17
+    },
+    "pc": {
+      "md5": "1986e89d101b5af4d9bba6d943110074",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LoveIsAll/pc/LoveIsAll_MAIN_SCENE_PC.zip/1986e89d101b5af4d9bba6d943110074.zip",
+      "version": 9
+    },
+    "wiiu": {
+      "md5": "b0b5469785e65f1d343e40cdb233eed1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LoveIsAll/wiiu/LoveIsAll_MAIN_SCENE_WIIU.zip/b0b5469785e65f1d343e40cdb233eed1.zip",
+      "version": 17
+    },
+    "nx": {
+      "md5": "950c1cb7adc4ba831448a13e4fec13bd",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LoveIsAll/nx/LoveIsAll_MAIN_SCENE_NX.zip/950c1cb7adc4ba831448a13e4fec13bd.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

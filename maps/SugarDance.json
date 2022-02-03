@@ -1,0 +1,125 @@
+{
+  "artist": "The Just Dance Band",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/ps4/SugarDance_banner_bkg.tga.ckd/954d7bb0d0e356c065d3f0ed15ab095e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/ps4/SugarDance_Coach_1.tga.ckd/4894b047ddcd998a228af46bb9447807.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/ps4/SugarDance_Cover_Generic.tga.ckd/c81fdea43890ebe19a105e5d0d23f3de.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_Cover_1024.png/24383fe44133da286a99db213d5f58a8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/ps4/SugarDance_Cover_Online.tga.ckd/51fc99a7ce9ddf2c9e3ba4e573db6580.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/ps4/SugarDance_Cover_AlbumBkg.tga.ckd/9ae19d53e0c538ca751c48afdc34e998.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/ps4/SugarDance_Cover_AlbumCoach.tga.ckd/ff544d2fd38f0806b1217a03488ae34d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_Coach_1_Phone.png/82db7c9170c054ee437d868b9f11a2e2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_Cover_Phone.jpg/b47aec6dbd9f0b6d13bf8de87776d965.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_VideoPreview.webm/0e4861cea031488e7ea6b7d511997a20.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/ps4/SugarDance_map_bkg.tga.ckd/ed640a26aeb4db987473ab4e5409f3f5.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/nx/SugarDance_banner_bkg.tga.ckd/fa1e767abb28765f32a9db8c1a6b2f83.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/nx/SugarDance_Coach_1.tga.ckd/af650405531ad6cb6eeb757c4f66d3b8.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/nx/SugarDance_Cover_Generic.tga.ckd/b62484349330340095f95da82dd1c9d6.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_Cover_1024.png/24383fe44133da286a99db213d5f58a8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/nx/SugarDance_Cover_Online.tga.ckd/4888fd06f6813a370a05259223a89f28.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/nx/SugarDance_Cover_AlbumBkg.tga.ckd/d4d966b11b0ce9d13266dfd95b83a8ca.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/nx/SugarDance_Cover_AlbumCoach.tga.ckd/f470ae54d7a8a54ba15db502f596e081.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_Coach_1_Phone.png/82db7c9170c054ee437d868b9f11a2e2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_Cover_Phone.jpg/b47aec6dbd9f0b6d13bf8de87776d965.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_VideoPreview.webm/0e4861cea031488e7ea6b7d511997a20.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/nx/SugarDance_map_bkg.tga.ckd/9c9e75ecb5c203c302cceea07b2025b2.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/wiiu/SugarDance_banner_bkg.tga.ckd/18c6d517611a549b7b32487b3360628e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/wiiu/SugarDance_Coach_1.tga.ckd/9fc03d8d40e9c08627df68d3411f02c3.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/wiiu/SugarDance_Cover_Generic.tga.ckd/1a91b92cdd18d0b760a459d2faaf70b9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_Cover_1024.png/24383fe44133da286a99db213d5f58a8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/wiiu/SugarDance_Cover_Online.tga.ckd/a295097d3aa791d3c6c5202d0f7885b4.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/wiiu/SugarDance_Cover_AlbumBkg.tga.ckd/88e6103913b2607a10acd5d3d8431f62.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/wiiu/SugarDance_Cover_AlbumCoach.tga.ckd/f03a50f66710536e0f0c7d76bb62206d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_Coach_1_Phone.png/82db7c9170c054ee437d868b9f11a2e2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_Cover_Phone.jpg/b47aec6dbd9f0b6d13bf8de87776d965.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_VideoPreview.webm/0e4861cea031488e7ea6b7d511997a20.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24000,48000,72000,96000,120000,143999,168000,192000,216000,240000,264000,288000,312000,336000,360000,384000,408000,432000,456000,480000,504000,528000,552000,576000,600000,624000,648000,672000,696000,720000,744000,768000,792000,816000,840000,864000,888000,912000,936000,960000,984000,1008000,1032000,1056000,1079999,1104000,1128000,1152000,1176000,1200000,1224000,1247999,1272000,1296000,1320000,1344000,1368000,1392000,1416000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":372,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/sugardance/sugardance_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Composed, arranged and produced by J.D Leblanc for Apollo Studios. Published by Ubisoft Music Publishing. Vocals: Jean-Daniel leblanc. Mix and Mastering: Peter Van Uytfanck. Music Supervision – Manu Bachet. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "CA090BFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 187,
+  "mapName": "SugarDance",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"494506\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SugarDance/SugarDance_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1410691\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SugarDance/SugarDance_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"627-1117\">\r\n\t\t\t\t\t<Initialization range=\"0-627\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2432916\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SugarDance/SugarDance_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"627-1117\">\r\n\t\t\t\t\t<Initialization range=\"0-627\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2739582\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SugarDance/SugarDance_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"627-1117\">\r\n\t\t\t\t\t<Initialization range=\"0-627\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "SugarDance_mapContent"
+  },
+  "parentMapName": "SugarDance",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "DEA525FF",
+    "songColor_1B": "1C1507FF",
+    "songColor_2A": "0000FFFF",
+    "songColor_2B": "13011AFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "ExcludedFromWDF",
+    "ExcludedFromWDF-PC",
+    "CnUnlimited2018"
+  ],
+  "title": "Sugar Dance",
+  "urls": {
+    "jmcs://jd-contents/SugarDance/SugarDance_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_AudioPreview.ogg/a6e89fdbb7e1c0adc798c4789491e67b.ogg",
+    "jmcs://jd-contents/SugarDance/SugarDance_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_MapPreviewNoSoundCrop_HIGH.vp8.webm/eb79b53435e5cc76f898f9120a55e03d.webm",
+    "jmcs://jd-contents/SugarDance/SugarDance_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_MapPreviewNoSoundCrop_HIGH.vp9.webm/8ca3d5f8f6ebcec6aa4bf514dfe778e9.webm",
+    "jmcs://jd-contents/SugarDance/SugarDance_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_MapPreviewNoSoundCrop_LOW.vp8.webm/19cf5e86577a2352eb2fcd89f2cdae3a.webm",
+    "jmcs://jd-contents/SugarDance/SugarDance_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_MapPreviewNoSoundCrop_LOW.vp9.webm/2da0b06460c93699db0f6ac695f0a296.webm",
+    "jmcs://jd-contents/SugarDance/SugarDance_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_MapPreviewNoSoundCrop_MID.vp8.webm/3330c79d931668156e82fded46f8ac1b.webm",
+    "jmcs://jd-contents/SugarDance/SugarDance_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_MapPreviewNoSoundCrop_MID.vp9.webm/cf7c905b8e3e87ea0b9ca05996eec0dc.webm",
+    "jmcs://jd-contents/SugarDance/SugarDance_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_MapPreviewNoSoundCrop_ULTRA.vp8.webm/88dea3b778f1fe8a875787220a2970d9.webm",
+    "jmcs://jd-contents/SugarDance/SugarDance_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/SugarDance/SugarDance_MapPreviewNoSoundCrop_ULTRA.vp9.webm/4a2f21d3217d1074adb370260cd8368b.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "15bbf9e6112e5b9ef6c53192480b5f5a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SugarDance/ps4/SugarDance_MAIN_SCENE_ORBIS.zip/15bbf9e6112e5b9ef6c53192480b5f5a.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "2baa527053ed8368123bb19482989fe2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SugarDance/nx/SugarDance_MAIN_SCENE_NX.zip/2baa527053ed8368123bb19482989fe2.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "e77b5a46922a6d4aba14acea7e055c4e",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/SugarDance/pc/e77b5a46922a6d4aba14acea7e055c4e.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "1760d0ef6980f93630f4dfb6833d5356",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SugarDance/wiiu/SugarDance_MAIN_SCENE_WIIU.zip/1760d0ef6980f93630f4dfb6833d5356.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

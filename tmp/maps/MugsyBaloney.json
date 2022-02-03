@@ -1,0 +1,120 @@
+{
+  "artist": "Charleston",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_banner_bkg.jpg/0901a079a3697d763db0d6d8b95ba42e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Coach_1.png/fcac046d7f71f30d7807425b12b92e70.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Coach_2.png/b18c267a8d463e2ccc058071c55e4c8e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Cover_Generic.jpg/3b6450453ce7b47094580259d4389b3d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Cover_1024.png/2dae9129c22017284dbaf2c0908da9cc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Cover_Online.jpg/c4bd77fcc4d2199e2bc599b2bf591647.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Cover_AlbumBkg.jpg/087c7922f27db2a9aef662e41f08441f.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Cover_AlbumCoach.png/2ae8abee35c3d529d534898bfdacb9bb.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Coach_1_Phone.png/b49503261436b7b716182deb593fc19c.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Coach_2_Phone.png/c8cf8c4d91badfa51613112ab2545e70.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Cover_Phone.jpg/c4bd77fcc4d2199e2bc599b2bf591647.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_VideoPreview.webm/3c6c3bbd7e4ae420cea819d10c496f40.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_banner_bkg.jpg/0901a079a3697d763db0d6d8b95ba42e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Coach_1.png/fcac046d7f71f30d7807425b12b92e70.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Coach_2.png/b18c267a8d463e2ccc058071c55e4c8e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Cover_Generic.jpg/3b6450453ce7b47094580259d4389b3d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Cover_1024.png/2dae9129c22017284dbaf2c0908da9cc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Cover_Online.jpg/c4bd77fcc4d2199e2bc599b2bf591647.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Cover_AlbumBkg.jpg/087c7922f27db2a9aef662e41f08441f.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Cover_AlbumCoach.png/2ae8abee35c3d529d534898bfdacb9bb.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Coach_1_Phone.png/b49503261436b7b716182deb593fc19c.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Coach_2_Phone.png/c8cf8c4d91badfa51613112ab2545e70.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Cover_Phone.jpg/c4bd77fcc4d2199e2bc599b2bf591647.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_VideoPreview.webm/3c6c3bbd7e4ae420cea819d10c496f40.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/wiiu/MugsyBaloney_banner_bkg.tga.ckd/4693a5a3b8a2e612974f4ee99c17e641.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/wiiu/MugsyBaloney_Coach_1.tga.ckd/85fc0440fd04a00a1afda2000b3f2207.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/wiiu/MugsyBaloney_Coach_2.tga.ckd/8e7e8f5a145f86a8e9978409b1ce7d55.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/wiiu/MugsyBaloney_Cover_Generic.tga.ckd/66ceeb72067030c34cb4be436b66f8c5.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Cover_1024.png/2dae9129c22017284dbaf2c0908da9cc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/wiiu/MugsyBaloney_Cover_Online.tga.ckd/195bfc801db90aeb2580fd49ddb333d0.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/wiiu/MugsyBaloney_Cover_AlbumBkg.tga.ckd/3d7ec1971d4c2d948ae120622c46f1b0.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/wiiu/MugsyBaloney_Cover_AlbumCoach.tga.ckd/7f1975bfa37db8fb85a5863da3c5dd35.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Coach_1_Phone.png/b49503261436b7b716182deb593fc19c.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Coach_2_Phone.png/c8cf8c4d91badfa51613112ab2545e70.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_Cover_Phone.jpg/c4bd77fcc4d2199e2bc599b2bf591647.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_VideoPreview.webm/3c6c3bbd7e4ae420cea819d10c496f40.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24320,49504,72960,97280,121600,145296,168416,190656,214941,239534,262327,284928,305920,330240,354560,378880,403200,426334,446260,471380,495700,520020,542301,565949,589765,613438,636798,660413,686398,710718,735038,754248,778568,802888,827208,852152,875848,901241,924976,949512,973832,999280,1022472,1047416,1071112,1095432,1119752,1145212,1170536,1194920,1217032,1243720,1268040,1292360,1316680,1341000,1365320,1390824,1413960,1439656],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":266,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":60,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/mugsybaloney/mugsybaloney_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 132.879,
+  "mapName": "MugsyBaloney",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496801\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1446685\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2210977\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2212476\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "MugsyBaloney_mapContent"
+  },
+  "parentMapName": "MugsyBaloney",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "8E21D8FF",
+    "songColor_1B": "36009EFF",
+    "songColor_2A": "FFC65FFF",
+    "songColor_2B": "9D001AFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Mugsy Baloney",
+  "urls": {
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_AudioPreview.ogg/1fef68754c513ea92a6b52fbac8a08c6.ogg",
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_HIGH.vp8.webm/6f91e3689c73baa6a649bd262e4bf02d.webm",
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_HIGH.vp9.webm/c08afa709dfb24e413e60bdb3557b718.webm",
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_LOW.vp8.webm/4f59c2421d18a9b5cc95898fa5884074.webm",
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_LOW.vp9.webm/25e2a1f6dd234a22aa3f5a497b4d3a8c.webm",
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_MID.vp8.webm/a82e757bc9d7afd5e9539d80ad7e0c8c.webm",
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_MID.vp9.webm/9639da192ee429fb3f147663c4be39d4.webm",
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ce273605b0b9586b722c829b813d9f3c.webm",
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_ULTRA.vp9.webm/76d0162808fe0530b615c56c3cdb0501.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "3144f9e3f61e16409e810964e97afe85",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/ps4/MugsyBaloney_MAIN_SCENE_ORBIS.zip/3144f9e3f61e16409e810964e97afe85.zip",
+      "version": 9
+    },
+    "pc": {
+      "md5": "fadf3f6d1ae8b19e18cd0b5ee437ffe4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/pc/MugsyBaloney_MAIN_SCENE_PC.zip/fadf3f6d1ae8b19e18cd0b5ee437ffe4.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "fc920e3e7c865aec9c10471df41b6e6a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/wiiu/MugsyBaloney_MAIN_SCENE_WIIU.zip/fc920e3e7c865aec9c10471df41b6e6a.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "7888cc1d8d946ea318dabe2afe834f15",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MugsyBaloney/nx/MugsyBaloney_MAIN_SCENE_NX.zip/7888cc1d8d946ea318dabe2afe834f15.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

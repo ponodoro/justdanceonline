@@ -1,0 +1,116 @@
+{
+  "artist": "Ike & Tina Turner",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/ggp/ProudMary_banner_bkg.tga.ckd/1cace5e6a5fbb12b00e90318ee44e414.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/ggp/ProudMary_Coach_1.tga.ckd/1263973f0bfe2fc0929255c559cdced8.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/ggp/ProudMary_Cover_Generic.tga.ckd/228b9b42e4df3e2fa63c81cf4b01f7af.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_Cover_1024.png/336c6e125c43e52f93fd843b4b1e3088.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/ggp/ProudMary_Cover_Online.tga.ckd/d62550e8751b3ecf4f1cd438dfe88b70.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/ggp/ProudMary_Cover_AlbumBkg.tga.ckd/59ee913f83feef8a70972cc342286d3f.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/ggp/ProudMary_Cover_AlbumCoach.tga.ckd/14a6fd7e83f586da1dae183877b92713.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_Coach_1_Phone.png/760384ba2bf2b25d7c02fb3010ce67ef.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_Cover_Phone.jpg/d4b8cf24d645bcf2c1d834f5c2c160d4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_VideoPreview.webm/962a5867d4624c3517c44082c0d13ec9.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/ggp/ProudMary_map_bkg.tga.ckd/b9f47264627ce5c2fcaf6915511c9004.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/nx/ProudMary_banner_bkg.tga.ckd/f006672b398c16231228c5b5c98a555b.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/nx/ProudMary_Coach_1.tga.ckd/8b1bbcd558528c110540209322a9e0d2.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/nx/ProudMary_Cover_Generic.tga.ckd/251c6557d934a59748543f6ffef056c2.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_Cover_1024.png/336c6e125c43e52f93fd843b4b1e3088.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/nx/ProudMary_Cover_Online.tga.ckd/f9f48aae77d1bb0f2542d6dd6972bbdc.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/nx/ProudMary_Cover_AlbumBkg.tga.ckd/e0d0cc0768ff79d8264625026810c4a3.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/nx/ProudMary_Cover_AlbumCoach.tga.ckd/7276c5e5724182ff01cf05e53581a6a0.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/nx/ProudMary_map_bkg.tga.ckd/00c55c03d4686fea8f8c365ae5477d5a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_Coach_1_Phone.png/760384ba2bf2b25d7c02fb3010ce67ef.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_Cover_Phone.jpg/d4b8cf24d645bcf2c1d834f5c2c160d4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_VideoPreview.webm/962a5867d4624c3517c44082c0d13ec9.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/wiiu/ProudMary_banner_bkg.tga.ckd/8a2f7d497ec3e92afb89b2e45c02f589.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/wiiu/ProudMary_Coach_1.tga.ckd/ca697357056befa930d095b1cf3cc2b2.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/wiiu/ProudMary_Cover_Generic.tga.ckd/ba9ba1618dff23bf606f7de35e039be0.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_Cover_1024.png/336c6e125c43e52f93fd843b4b1e3088.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/wiiu/ProudMary_Cover_Online.tga.ckd/8755ce774735d72741b670c10b495457.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/wiiu/ProudMary_Cover_AlbumBkg.tga.ckd/b3411ba8ff5ccc74a60a5e363e98a253.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/wiiu/ProudMary_Cover_AlbumCoach.tga.ckd/23e8e886c991aba4f1356997eedd6f09.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_Coach_1_Phone.png/760384ba2bf2b25d7c02fb3010ce67ef.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_Cover_Phone.jpg/d4b8cf24d645bcf2c1d834f5c2c160d4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_VideoPreview.webm/962a5867d4624c3517c44082c0d13ec9.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,33103,65633,99308,132280,165513,197893,230818,263677,296370,328986,362089,395067,427324,459677,492630,524800,557903,590124,624036,655617,687752,721221,754067,786717,818782,851871,884048,916694,948799,982048,1014614,1046831,1079615,1112111,1144512,1176672,1210491,1243593,1275538,1308265,1341179,1374741,1407539],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":373,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":43,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/proudmary/proudmary_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF1400FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 242.765,
+  "mapName": "ProudMary",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496952\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ProudMary/ProudMary_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1345457\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ProudMary/ProudMary_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1350950\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ProudMary/ProudMary_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1351300\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ProudMary/ProudMary_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "ProudMary_mapContent"
+  },
+  "parentMapName": "ProudMary",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "122C43FF",
+    "songColor_1B": "48B1E4FF",
+    "songColor_2A": "E2901FFF",
+    "songColor_2B": "F4A557FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Proud Mary",
+  "urls": {
+    "jmcs://jd-contents/ProudMary/ProudMary_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_AudioPreview.ogg/87cba2db1d9c5a511fac67090de1e092.ogg",
+    "jmcs://jd-contents/ProudMary/ProudMary_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_MapPreviewNoSoundCrop_HIGH.vp8.webm/f005776bfb33affd5ea5ec4fa016ca90.webm",
+    "jmcs://jd-contents/ProudMary/ProudMary_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_MapPreviewNoSoundCrop_HIGH.vp9.webm/6753e79ea814f6024c0cbf0cfd700fbd.webm",
+    "jmcs://jd-contents/ProudMary/ProudMary_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_MapPreviewNoSoundCrop_LOW.vp8.webm/2cfc255b528f3f2756d453bb523a8ed0.webm",
+    "jmcs://jd-contents/ProudMary/ProudMary_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_MapPreviewNoSoundCrop_LOW.vp9.webm/96bfd954d0ab8c9fc8efbe18010fab20.webm",
+    "jmcs://jd-contents/ProudMary/ProudMary_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_MapPreviewNoSoundCrop_MID.vp8.webm/f7a0cbfd6940d218b64001423c0cb97a.webm",
+    "jmcs://jd-contents/ProudMary/ProudMary_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_MapPreviewNoSoundCrop_MID.vp9.webm/12c8ad97cf352693046ecfecedbd164d.webm",
+    "jmcs://jd-contents/ProudMary/ProudMary_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b01edbb878b9c4269ceddb1581194c62.webm",
+    "jmcs://jd-contents/ProudMary/ProudMary_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ProudMary/ProudMary_MapPreviewNoSoundCrop_ULTRA.vp9.webm/1693ff6c7f54ad9ba783c6b0ac9404d5.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "1560e0494e4297ba6dcd6a2bfe72b088",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ProudMary/ps4/ProudMary_MAIN_SCENE_ORBIS.zip/1560e0494e4297ba6dcd6a2bfe72b088.zip",
+      "version": 33
+    },
+    "pc": {
+      "md5": "f9ad6c950f87a948017ab9446f966645",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ProudMary/pc/ProudMary_MAIN_SCENE_PC.zip/f9ad6c950f87a948017ab9446f966645.zip",
+      "version": 32
+    },
+    "wiiu": {
+      "md5": "059d75545b18b754d9893eb390302d04",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ProudMary/wiiu/ProudMary_MAIN_SCENE_WIIU.zip/059d75545b18b754d9893eb390302d04.zip",
+      "version": 32
+    },
+    "nx": {
+      "md5": "c10d9f0950bcdaac4c18478c76aea25b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ProudMary/nx/ProudMary_MAIN_SCENE_NX.zip/c10d9f0950bcdaac4c18478c76aea25b.zip",
+      "version": 33
+    }
+  },
+  "mapType": "jdu"
+}

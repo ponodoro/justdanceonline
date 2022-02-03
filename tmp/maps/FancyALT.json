@@ -1,0 +1,115 @@
+{
+  "artist": "Iggy Azalea Ft. Charli XCX",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_banner_bkg.jpg/637878dc0ab0b03522bb9b7fcc23d835.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Coach_1.png/464a3c107a8bf99ead74a4ea5abfc57b.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Cover_Generic.jpg/fa05d6348245527268866cc8aafd0e16.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Cover_1024.png/37a9ca9c4bc4a55b902737a609b76065.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Cover_Online.jpg/e72dd8019fe1a4f1a4f1ee3a2d4c8756.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Cover_AlbumBkg.jpg/9ec776edad7545e9edcb588af1f79553.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Cover_AlbumCoach.png/1fa3d0e8a90de4933771de64b0477d54.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Coach_1_Phone.png/3ed676bd6a86e0cdb56b6f04527a0651.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Cover_Phone.jpg/e72dd8019fe1a4f1a4f1ee3a2d4c8756.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_VideoPreview.webm/f1ca8570cb6869848ef006df8455b3e2.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_banner_bkg.jpg/637878dc0ab0b03522bb9b7fcc23d835.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Coach_1.png/464a3c107a8bf99ead74a4ea5abfc57b.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Cover_Generic.jpg/fa05d6348245527268866cc8aafd0e16.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Cover_1024.png/37a9ca9c4bc4a55b902737a609b76065.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Cover_Online.jpg/e72dd8019fe1a4f1a4f1ee3a2d4c8756.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Cover_AlbumBkg.jpg/9ec776edad7545e9edcb588af1f79553.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Cover_AlbumCoach.png/1fa3d0e8a90de4933771de64b0477d54.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Coach_1_Phone.png/3ed676bd6a86e0cdb56b6f04527a0651.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Cover_Phone.jpg/e72dd8019fe1a4f1a4f1ee3a2d4c8756.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_VideoPreview.webm/f1ca8570cb6869848ef006df8455b3e2.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/wiiu/FancyALT_banner_bkg.tga.ckd/9a98325a4966d81171d147d19da4e150.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/wiiu/FancyALT_Coach_1.tga.ckd/8dc41e091b66a67f077e128c46d6e8b4.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/wiiu/FancyALT_Cover_Generic.tga.ckd/1e29a5d0dc0523d0711ff65e2ce27662.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Cover_1024.png/37a9ca9c4bc4a55b902737a609b76065.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/wiiu/FancyALT_Cover_Online.tga.ckd/4b6853681dd660c8febe8ca455560193.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/wiiu/FancyALT_Cover_AlbumBkg.tga.ckd/c2f2b6b0a541cf412ca2c3c210ca46de.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/wiiu/FancyALT_Cover_AlbumCoach.tga.ckd/05f47c748d4f5fde4800d48a69e036bf.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Coach_1_Phone.png/3ed676bd6a86e0cdb56b6f04527a0651.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_Cover_Phone.jpg/e72dd8019fe1a4f1a4f1ee3a2d4c8756.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_VideoPreview.webm/f1ca8570cb6869848ef006df8455b3e2.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,30336,60624,90960,121248,151584,181920,212208,242544,272833,303169,333457,363793,394129,424417,454753,485041,515377,545665,576001,606337,636625,666962,697250,727586,757922,788210,818546,848834,879170,909458,939794,970130,1000418,1030754,1061042,1091379,1121667,1152003,1182339,1212627,1242963,1273251,1303587,1333923,1364211,1394547,1424835],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":313,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":47,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/fancyalt/fancyalt_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "E248F5FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 200.209,
+  "mapName": "FancyALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496817\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyALT/FancyALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478668\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyALT/FancyALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2024909\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyALT/FancyALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2028126\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyALT/FancyALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "FancyALT_mapContent"
+  },
+  "parentMapName": "FancyALT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "DE46FFFF",
+    "songColor_1B": "5F1F00FF",
+    "songColor_2A": "FFCC7BFF",
+    "songColor_2B": "FF2397FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Fancy",
+  "urls": {
+    "jmcs://jd-contents/FancyALT/FancyALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_AudioPreview.ogg/a93b3688017da2faed8b0225b1ac9778.ogg",
+    "jmcs://jd-contents/FancyALT/FancyALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/93a5a47d69596068b3599db2b049fffa.webm",
+    "jmcs://jd-contents/FancyALT/FancyALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/67bc77c279c5424eb2998dcded3eda65.webm",
+    "jmcs://jd-contents/FancyALT/FancyALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_MapPreviewNoSoundCrop_LOW.vp8.webm/10284d2893f320a62a07a2fa016f96f8.webm",
+    "jmcs://jd-contents/FancyALT/FancyALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_MapPreviewNoSoundCrop_LOW.vp9.webm/f7af928544047c8ff9cc81fee7107bd1.webm",
+    "jmcs://jd-contents/FancyALT/FancyALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_MapPreviewNoSoundCrop_MID.vp8.webm/fc9329566c8ccdfc2ab8c0ce956a3196.webm",
+    "jmcs://jd-contents/FancyALT/FancyALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_MapPreviewNoSoundCrop_MID.vp9.webm/0dc378c633ab324eaeac95294e800d2f.webm",
+    "jmcs://jd-contents/FancyALT/FancyALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/a0608697c5fa0695451bbf5b5b0d22fa.webm",
+    "jmcs://jd-contents/FancyALT/FancyALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/FancyALT/FancyALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/13ec2a24acf60090fd555018d92b4211.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "724acbf21b6332f478bf08506e2db74b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FancyALT/ps4/FancyALT_MAIN_SCENE_ORBIS.zip/724acbf21b6332f478bf08506e2db74b.zip",
+      "version": 11
+    },
+    "pc": {
+      "md5": "b77a8d0a6b1f5b45d4c975c5e36c5681",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FancyALT/pc/FancyALT_MAIN_SCENE_PC.zip/b77a8d0a6b1f5b45d4c975c5e36c5681.zip",
+      "version": 8
+    },
+    "wiiu": {
+      "md5": "a56583a6f4076e6dc7d339b4af3275b5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FancyALT/wiiu/FancyALT_MAIN_SCENE_WIIU.zip/a56583a6f4076e6dc7d339b4af3275b5.zip",
+      "version": 11
+    },
+    "nx": {
+      "md5": "3912a574ca4ce91fc3b96134d78207de",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FancyALT/nx/FancyALT_MAIN_SCENE_NX.zip/3912a574ca4ce91fc3b96134d78207de.zip",
+      "version": 7
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12628
+}

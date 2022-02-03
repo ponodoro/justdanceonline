@@ -1,0 +1,129 @@
+{
+  "artist": "The Sunlight Shakers",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ps4/ItsyBitsyRetake_banner_bkg.tga.ckd/b271096c4d14ec51483cb88b713afd78.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ps4/ItsyBitsyRetake_Coach_1.tga.ckd/f2a3f798546bf658a827f5afa887f784.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ps4/ItsyBitsyRetake_Coach_2.tga.ckd/51029fd15d8a9cb33056716f48fa1c83.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ps4/ItsyBitsyRetake_Cover_Generic.tga.ckd/726d1428af612d533827c10f9281a1a1.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_Cover_1024.png/0b007abd194ba15bcd683a1961af6251.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ps4/ItsyBitsyRetake_Cover_Online.tga.ckd/44d8d40e33215989ae142f6d13f9b546.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ps4/ItsyBitsyRetake_Cover_AlbumBkg.tga.ckd/e353ddb55e6289cbae3f5a27bf7a6fcb.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ps4/ItsyBitsyRetake_Cover_AlbumCoach.tga.ckd/b75395b65f5f8d8f9478e714ac87f26b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_Coach_1_Phone.png/7fc19e8e9e2adac35ae3c7d4206aeef2.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_Coach_2_Phone.png/2eea39dcd35b64d957eb31320b9438ff.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_Cover_Phone.jpg/cba5e852ebda87730c8c1e2f2f134279.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_VideoPreview.webm/55b550f30e29bd3fc56cb75acfcf0641.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ps4/ItsyBitsyRetake_map_bkg.tga.ckd/7f0b325866b89be1314645bca68ce752.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/nx/ItsyBitsyRetake_banner_bkg.tga.ckd/d0d722d118424ab13d4001e8d4a07c7f.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/nx/ItsyBitsyRetake_Coach_1.tga.ckd/fa83333533d51e0fe5c690dd3626f190.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/nx/ItsyBitsyRetake_Coach_2.tga.ckd/70d26fd39e5857e9aab67f4797519b65.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/nx/ItsyBitsyRetake_Cover_Generic.tga.ckd/15e73e0119149f36febaf613494e7531.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_Cover_1024.png/0b007abd194ba15bcd683a1961af6251.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/nx/ItsyBitsyRetake_Cover_Online.tga.ckd/df6baa80db5ff46327a8b9039cd26075.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/nx/ItsyBitsyRetake_Cover_AlbumBkg.tga.ckd/841d2e7ee3e8cdacf00e287bc970758d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/nx/ItsyBitsyRetake_Cover_AlbumCoach.tga.ckd/dfbe5d928ea392e8d824735aa9c7d2e3.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_Coach_1_Phone.png/7fc19e8e9e2adac35ae3c7d4206aeef2.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_Coach_2_Phone.png/2eea39dcd35b64d957eb31320b9438ff.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_Cover_Phone.jpg/cba5e852ebda87730c8c1e2f2f134279.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_VideoPreview.webm/55b550f30e29bd3fc56cb75acfcf0641.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/nx/ItsyBitsyRetake_map_bkg.tga.ckd/533c77d28504422ef0fd7a70473dc078.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/wiiu/ItsyBitsyRetake_banner_bkg.tga.ckd/dadce0aa992afd8e92f432143717a9ee.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/wiiu/ItsyBitsyRetake_Coach_1.tga.ckd/395a2e6993a33078caeb0de64bd93b56.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/wiiu/ItsyBitsyRetake_Coach_2.tga.ckd/6db231b34dbd81d5d83011bed21e5055.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/wiiu/ItsyBitsyRetake_Cover_Generic.tga.ckd/b27fb4acf6736d8fe3cd1adecf70b633.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_Cover_1024.png/0b007abd194ba15bcd683a1961af6251.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/wiiu/ItsyBitsyRetake_Cover_Online.tga.ckd/6e17e6474dd7ed67ee24453d4757f738.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/wiiu/ItsyBitsyRetake_Cover_AlbumBkg.tga.ckd/96ba295a40073b90e6e100364c9fdd02.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/wiiu/ItsyBitsyRetake_Cover_AlbumCoach.tga.ckd/8f0b7f6f42be358bb10e6e660ad261fa.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_Coach_1_Phone.png/7fc19e8e9e2adac35ae3c7d4206aeef2.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_Coach_2_Phone.png/2eea39dcd35b64d957eb31320b9438ff.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_Cover_Phone.jpg/cba5e852ebda87730c8c1e2f2f134279.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_VideoPreview.webm/55b550f30e29bd3fc56cb75acfcf0641.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24048,48048,72048,95520,118944,142368,165792,189216,212640,236064,259489,283105,306721,330289,353905,377521,401089,424705,448273,471505,494737,517969,541201,564433,587618,610850,634082,657506,680930,704306,727730,751154,774530,798626,822722,846770,870866,894915,919011,943059,967155,990819,1014435,1038099,1061763,1085427,1109043,1132707,1156371,1180035,1203700,1227316,1250980,1274644,1298308,1321924,1345588,1369252,1392916,1416532],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4},{\"__class\":\"MusicSignature\",\"marker\":27,\"beats\":7},{\"__class\":\"MusicSignature\",\"marker\":33,\"beats\":4}],\"startBeat\":-6,\"endBeat\":288,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":60,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/itsybitsyretake/itsybitsyretake_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. 'Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini'. Written by Lee J. Pockriss and Paul Vance. Published by Music Sales Corporation and Emily Music Corporation. Produced and Engineered by Steve Ouimette. Mixed by Steve Ouimette. Drums: Cat Gray. Vocals: Jane Child. Music Supervision – Manu Bachet. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "DB0C13FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 144.654,
+  "mapName": "ItsyBitsyRetake",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497858\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"642-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-642\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484290\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2943203\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3769310\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "ItsyBitsyRetake_mapContent"
+  },
+  "parentMapName": "ItsyBitsyRetake",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "F4DC3FFF",
+    "songColor_1B": "541901FF",
+    "songColor_2A": "48BEF9FF",
+    "songColor_2B": "1669A0FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2018"
+  ],
+  "title": "Itsy Bitsy Teenie Weenie",
+  "urls": {
+    "jmcs://jd-contents/ItsyBitsyRetake/ItsyBitsyRetake_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_AudioPreview.ogg/15ba9576c266288783d6e9467ee5db6b.ogg",
+    "jmcs://jd-contents/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_HIGH.vp8.webm/555d4d0accc8d88f23a072b4723acacb.webm",
+    "jmcs://jd-contents/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_HIGH.vp9.webm/2f08ea718f18f6bde755eb2e33d2bb32.webm",
+    "jmcs://jd-contents/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_LOW.vp8.webm/d2e4d0ba9ae5603d8218dfa2a3b36864.webm",
+    "jmcs://jd-contents/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_LOW.vp9.webm/9520025bd1f182ab87e036a6f800566b.webm",
+    "jmcs://jd-contents/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_MID.vp8.webm/c00e1b10e12e5ec71af7406e7bd391c0.webm",
+    "jmcs://jd-contents/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_MID.vp9.webm/9afbbf9682a5b0304e662f35d536f2ef.webm",
+    "jmcs://jd-contents/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_ULTRA.vp8.webm/9172def4d6cb9ed7038d89d7fb1735fd.webm",
+    "jmcs://jd-contents/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ItsyBitsyRetake_MapPreviewNoSoundCrop_ULTRA.vp9.webm/87d03405a9182319852e293c5390943a.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "14f45ca71d8a2da27ed0f765f1a7d0d4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/ps4/ItsyBitsyRetake_MAIN_SCENE_ORBIS.zip/14f45ca71d8a2da27ed0f765f1a7d0d4.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "043677c5466a78675fc53ab1a7b62282",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/nx/ItsyBitsyRetake_MAIN_SCENE_NX.zip/043677c5466a78675fc53ab1a7b62282.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "c408111f40f32b829cab27b0582168bf",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/ItsyBitsyRetake/pc/c408111f40f32b829cab27b0582168bf.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "e5ac1baa908a35459cc190de8fca1211",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ItsyBitsyRetake/wiiu/ItsyBitsyRetake_MAIN_SCENE_WIIU.zip/e5ac1baa908a35459cc190de8fca1211.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

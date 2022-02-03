@@ -1,0 +1,97 @@
+{
+  "artist": "Rihanna",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_map_bkg.png"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/textures/ManDown_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,18480,36960,55440,73920,92400,110880,129360,147840,166320,184800,203280,221760,240240,258720,277200,295680,314160,332640,351120,369600,388080,406560,425040,443520,462000,480480,498960,517440,535920,554400,572880,591360,609840,628320,646800,665280,683760,702240,720720,739200,757680,776160,794640,813120,831600,850080,868560,887040,905520,924000,942480,960960,979440,997920,1016400,1034880,1053360,1071840,1090320,1108800,1127280,1145760,1164240,1182720,1201200,1219680,1238160,1256640,1275120,1293600,1312080,1330560,1349040,1367520,1386000,1404480,1422960,1441440,1459920,1478400,1496880],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":394,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":81,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/ManDown/ManDown_AudioPreview.ogg\"}\"",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 100,
+  "mapName": "ManDown",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648516\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ManDown/ManDown_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"589-1079\">\r\n\t\t\t\t\t<Initialization range=\"0-589\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493390\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ManDown/ManDown_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1075\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2981978\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ManDown/ManDown_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1075\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5946162\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ManDown/ManDown_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1082\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "ManDown_mapContent"
+  },
+  "parentMapName": "ManDown",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "9c3f1eff",
+    "songColor_1B": "5e240fff",
+    "songColor_2A": "778491ff",
+    "songColor_2B": "2c3033ff"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main"
+  ],
+  "title": "Man Down",
+  "urls": {
+    "jmcs://jd-contents/ManDown/ManDown_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/ManDown_AudioPreview.ogg",
+    "jmcs://jd-contents/ManDown/ManDown_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/nx/ManDown_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/ManDown/ManDown_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/nx/ManDown_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/ManDown/ManDown_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/nx/ManDown_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/ManDown/ManDown_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/nx/ManDown_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/ManDown/ManDown_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/nx/ManDown_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/ManDown/ManDown_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/nx/ManDown_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/ManDown/ManDown_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/nx/ManDown_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/ManDown/ManDown_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/nx/ManDown_VideoPreview.vp8.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "2d1e9ed42ddf236d781b768b19578234",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/pc/2d1e9ed42ddf236d781b768b19578234.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "ed3c3a5b4a189d92127a32795cbe1f0c",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/nx/ed3c3a5b4a189d92127a32795cbe1f0c.zip",
+      "version": 1
+    },
+    "orbis": {
+      "md5": "a58f1d32ff8f0e0a457621b8a36f3e60",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/ManDown/ps4/a58f1d32ff8f0e0a457621b8a36f3e60.zip",
+      "version": 1
+    }
+  },
+  "mapType": "custom"
+}

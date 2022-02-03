@@ -1,0 +1,114 @@
+{
+  "artist": "Disney's \"The Little Mermaid\"",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_banner_bkg.jpg/0c47b54d66962c9eb7310b0c6c692849.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Coach_1.png/b328de7994a8983a9534a9211ba413f8.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Cover_Generic.jpg/5123254c87c30fd54bc7f9f34b853b38.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Cover_1024.png/f730657ea7c2cb23b872f18b79dc7213.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Cover_Online.jpg/ac5f14925bc9a77ebbe8d02f48332121.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Cover_AlbumBkg.jpg/d8b49fafd173406b70f14ebae899a549.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Cover_AlbumCoach.png/cbde4d81c4070192ea76c4543488e7d4.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Coach_1_Phone.png/c3757548b14e37d1a7c04400d4d368d2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Cover_Phone.jpg/ac5f14925bc9a77ebbe8d02f48332121.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_VideoPreview.webm/fe3d79cea64a282ad9e11f90c5a545a0.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_banner_bkg.jpg/0c47b54d66962c9eb7310b0c6c692849.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Coach_1.png/b328de7994a8983a9534a9211ba413f8.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Cover_Generic.jpg/5123254c87c30fd54bc7f9f34b853b38.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Cover_1024.png/f730657ea7c2cb23b872f18b79dc7213.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Cover_Online.jpg/ac5f14925bc9a77ebbe8d02f48332121.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Cover_AlbumBkg.jpg/d8b49fafd173406b70f14ebae899a549.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Cover_AlbumCoach.png/cbde4d81c4070192ea76c4543488e7d4.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Coach_1_Phone.png/c3757548b14e37d1a7c04400d4d368d2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Cover_Phone.jpg/ac5f14925bc9a77ebbe8d02f48332121.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_VideoPreview.webm/fe3d79cea64a282ad9e11f90c5a545a0.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/wiiu/UnderTheSea_banner_bkg.tga.ckd/a7dca586c9855c2990400b23ab02b2e3.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/wiiu/UnderTheSea_Coach_1.tga.ckd/ea5201070b17ffbe2ff0294a28e3f214.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/wiiu/UnderTheSea_Cover_Generic.tga.ckd/51896db37ed600229663dcb8f2e4995e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Cover_1024.png/f730657ea7c2cb23b872f18b79dc7213.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/wiiu/UnderTheSea_Cover_Online.tga.ckd/9568366e8caf47aaa6fc40c58a3ad998.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/wiiu/UnderTheSea_Cover_AlbumBkg.tga.ckd/9ad846ae9047ab9d98200517da2be9d1.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/wiiu/UnderTheSea_Cover_AlbumCoach.tga.ckd/6950c002568852c4947e6378fe8a67d0.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Coach_1_Phone.png/c3757548b14e37d1a7c04400d4d368d2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_Cover_Phone.jpg/ac5f14925bc9a77ebbe8d02f48332121.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_VideoPreview.webm/fe3d79cea64a282ad9e11f90c5a545a0.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28080,56976,85872,114720,143616,172512,201408,230256,259152,288048,316896,345792,374688,403440,432240,460992,489792,518591,547343,576143,604895,634079,663311,692495,721679,750431,779231,807983,836735,865727,894767,923759,952751,981359,1009967,1038575,1067183,1096799,1126463,1156079,1185694,1214398,1243102,1271806,1300558,1329166,1357774,1386382,1414990],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2},{\"__class\":\"MusicSignature\",\"marker\":1,\"beats\":4}],\"startBeat\":-8,\"endBeat\":321,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":49,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/underthesea/underthesea_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "00C7A9FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 198.07999999999998,
+  "mapName": "UnderTheSea",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496669\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1117\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1465043\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2242902\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2277149\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "UnderTheSea_mapContent"
+  },
+  "parentMapName": "UnderTheSea",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "7C8EFFFF",
+    "songColor_1B": "0F0024FF",
+    "songColor_2A": "008AE9FF",
+    "songColor_2B": "051B2CFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Under the Sea",
+  "urls": {
+    "jmcs://jd-contents/UnderTheSea/UnderTheSea_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_AudioPreview.ogg/dd959a55e2787c45540c0c8d3bd5e8f7.ogg",
+    "jmcs://jd-contents/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_HIGH.vp8.webm/d7b4c6cd85dbbd5bc250558db6d262c2.webm",
+    "jmcs://jd-contents/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_HIGH.vp9.webm/ad00d5ea63dfaee5f1f3f47b68abaf66.webm",
+    "jmcs://jd-contents/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_LOW.vp8.webm/51b282fccbc2678a1edc07e978454670.webm",
+    "jmcs://jd-contents/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_LOW.vp9.webm/060da1eadcc294e2e94caf4b814b22c7.webm",
+    "jmcs://jd-contents/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_MID.vp8.webm/e974cc86739157d9e8086e42c0b63f3f.webm",
+    "jmcs://jd-contents/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_MID.vp9.webm/43ea46618efa6e307f97986bc0114e1b.webm",
+    "jmcs://jd-contents/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_ULTRA.vp8.webm/e793799c1441a1f552b2011cc7740f96.webm",
+    "jmcs://jd-contents/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/UnderTheSea/UnderTheSea_MapPreviewNoSoundCrop_ULTRA.vp9.webm/658f9457d95a19987927848e7fe4450b.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "42720f8e94c284d2f98299d1b62e35d8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/UnderTheSea/ps4/UnderTheSea_MAIN_SCENE_ORBIS.zip/42720f8e94c284d2f98299d1b62e35d8.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "0ad8a04d7a3897d7f0dde08bd83c6dce",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/UnderTheSea/pc/UnderTheSea_MAIN_SCENE_PC.zip/0ad8a04d7a3897d7f0dde08bd83c6dce.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "a7e0012f7a3ef13e1078b4cc59fd618c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/UnderTheSea/wiiu/UnderTheSea_MAIN_SCENE_WIIU.zip/a7e0012f7a3ef13e1078b4cc59fd618c.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "33c747a01a85fa84698fee09f0eb228e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/UnderTheSea/nx/UnderTheSea_MAIN_SCENE_NX.zip/33c747a01a85fa84698fee09f0eb228e.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

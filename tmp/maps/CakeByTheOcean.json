@@ -1,0 +1,114 @@
+{
+  "artist": "DNCE",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_banner_bkg.jpg/82573ce1ce28bc3338d173c369dffa8b.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Coach_1.png/3e591e448ca76c26e4d25afc296a58ee.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Cover_Generic.jpg/94411f61fa0e802bb09ae7a042e7d519.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Cover_1024.png/589d8494129511ce858d5c592b4f3042.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Cover_Online.jpg/4d31c2e238c478d82f78fa225ec2dd84.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Cover_AlbumBkg.jpg/6ae4b747539e4e641c008682919786ce.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Cover_AlbumCoach.png/2aaeb455a2321d7458b40a291d82173e.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Coach_1_Phone.png/cbd9c0562c5cb46abdfdb56ebb75d52b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Cover_Phone.jpg/4d31c2e238c478d82f78fa225ec2dd84.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_VideoPreview.webm/6c7beea318943f2d8b41d45f4f55a260.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_banner_bkg.jpg/82573ce1ce28bc3338d173c369dffa8b.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Coach_1.png/3e591e448ca76c26e4d25afc296a58ee.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Cover_Generic.jpg/94411f61fa0e802bb09ae7a042e7d519.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Cover_1024.png/589d8494129511ce858d5c592b4f3042.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Cover_Online.jpg/4d31c2e238c478d82f78fa225ec2dd84.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Cover_AlbumBkg.jpg/6ae4b747539e4e641c008682919786ce.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Cover_AlbumCoach.png/2aaeb455a2321d7458b40a291d82173e.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Coach_1_Phone.png/cbd9c0562c5cb46abdfdb56ebb75d52b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Cover_Phone.jpg/4d31c2e238c478d82f78fa225ec2dd84.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_VideoPreview.webm/6c7beea318943f2d8b41d45f4f55a260.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/wiiu/CakeByTheOcean_banner_bkg.tga.ckd/211f6c6c6aedfd8cad4f1e233643e54e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/wiiu/CakeByTheOcean_Coach_1.tga.ckd/001d5976334c49064f5911c88003a484.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/wiiu/CakeByTheOcean_Cover_Generic.tga.ckd/84f8cdcad7b815966207fc7b306396d3.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Cover_1024.png/589d8494129511ce858d5c592b4f3042.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/wiiu/CakeByTheOcean_Cover_Online.tga.ckd/c47c15fd1e8d6a77ff80608b52731cfe.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/wiiu/CakeByTheOcean_Cover_AlbumBkg.tga.ckd/a79b3b76b3c1e40e14402afbc556d59d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/wiiu/CakeByTheOcean_Cover_AlbumCoach.tga.ckd/11e0e5e2817be17bd474fa40b84da23a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Coach_1_Phone.png/cbd9c0562c5cb46abdfdb56ebb75d52b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_Cover_Phone.jpg/4d31c2e238c478d82f78fa225ec2dd84.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_VideoPreview.webm/6c7beea318943f2d8b41d45f4f55a260.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24192,48384,72576,96816,121008,145200,169391,193583,217823,242015,266207,290399,314591,338831,363023,387215,411407,435599,459839,484031,508223,532415,556607,580847,605039,629230,653422,677614,701854,726046,750238,774430,798622,822862,847054,871246,895438,919630,943870,968062,992254,1016446,1040638,1064878,1089069,1113261,1137453,1161645,1185885,1210077,1234269,1258461,1282653,1306893,1331085,1355277,1379469,1403661,1427901],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-10,\"endBeat\":431,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/cakebytheocean/cakebytheocean_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "ED348DFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 222.35399999999998,
+  "mapName": "CakeByTheOcean",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496941\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482855\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2943029\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4796712\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "CakeByTheOcean_mapContent"
+  },
+  "parentMapName": "CakeByTheOcean",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FF9F00FF",
+    "songColor_1B": "7E0050FF",
+    "songColor_2A": "3CCDFFFF",
+    "songColor_2B": "14125CFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Cake By The Ocean",
+  "urls": {
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_AudioPreview.ogg/5e054189e89eab69800b5d4a52754131.ogg",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_HIGH.vp8.webm/6c14d1e0a2a4f7fdfd550fd44f7cbd97.webm",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_HIGH.vp9.webm/3272a332943551e4ff2be2d50fe09f17.webm",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_LOW.vp8.webm/6d4d467d9afe811a5d9987b3f8f807c7.webm",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_LOW.vp9.webm/ebfdaaec28ea1c3c5aaf0f6094579016.webm",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_MID.vp8.webm/2b95917ec11b16f57768089486222e87.webm",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_MID.vp9.webm/7d13b7e15794c3bd40412b0e1a912c28.webm",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d8b7e3ecdec9228882e2ae0c55de4f7d.webm",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_ULTRA.vp9.webm/317cfac808890ae843d5411aa051b2b1.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "ee4c64149ebafc0d82e21edcf0cc1bbc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/ps4/CakeByTheOcean_MAIN_SCENE_ORBIS.zip/ee4c64149ebafc0d82e21edcf0cc1bbc.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "096ae9941758d946e3ca8d5e2a0cefe8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/pc/CakeByTheOcean_MAIN_SCENE_PC.zip/096ae9941758d946e3ca8d5e2a0cefe8.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "01dc5e07c1e71bc792796bd45d2ea9c5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/wiiu/CakeByTheOcean_MAIN_SCENE_WIIU.zip/01dc5e07c1e71bc792796bd45d2ea9c5.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "407d36fcf1e194bd6840c2e95dea72cb",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CakeByTheOcean/nx/CakeByTheOcean_MAIN_SCENE_NX.zip/407d36fcf1e194bd6840c2e95dea72cb.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,104 @@
+{
+  "artist": "Ed Sheeran & Justin Bieber",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/ps4/IDontCare_banner_bkg.tga.ckd/3c1923dfc449975ceb8a6d2f79e714de.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/ps4/IDontCare_Coach_1.tga.ckd/68ad3ff672f2df4d39e3918f052a2b58.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/ps4/IDontCare_Cover_Generic.tga.ckd/b882903a289f92b45c30f438a5afb422.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/IDontCare_Cover_1024.png/c4cbf8e98eb4fbd14c2215902a39962f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/ps4/IDontCare_Cover_Online.tga.ckd/dcbf7406466c572015b8196916da31c7.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/ps4/IDontCare_Cover_AlbumBkg.tga.ckd/0a83a29fc1ac99bfc78ae2d94e4b6dca.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/ps4/IDontCare_Cover_AlbumCoach.tga.ckd/486cbb183a6d469821d1f3a318c55504.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/IDontCare_Coach_1_Phone.png/5ce3708b12ea7c712c67d33a99a00312.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/IDontCare_Cover_Phone.jpg/0c879baa134ab6dc24ef11c9554ad830.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/ps4/IDontCare_map_bkg.tga.ckd/7aaa3195ac7dfea0292affd9237a6dca.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/nx/IDontCare_banner_bkg.tga.ckd/f3374a1912fad8e98948565d4bdcc371.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/nx/IDontCare_Coach_1.tga.ckd/95926b31c8f34555363329e54cebe1f5.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/nx/IDontCare_Cover_Generic.tga.ckd/c90a26d9cf8fdfa79133ba10f7268ef4.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/IDontCare_Cover_1024.png/c4cbf8e98eb4fbd14c2215902a39962f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/nx/IDontCare_Cover_Online.tga.ckd/54653b2b34c8de38f2ac8a0f762b8ea2.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/nx/IDontCare_Cover_AlbumBkg.tga.ckd/6c7f4848a7d72898d563c04bf77c43bd.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/nx/IDontCare_Cover_AlbumCoach.tga.ckd/6553177d30b4c71ac9208b1b567d1519.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/IDontCare_Coach_1_Phone.png/5ce3708b12ea7c712c67d33a99a00312.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/IDontCare_Cover_Phone.jpg/0c879baa134ab6dc24ef11c9554ad830.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IDontCare/nx/IDontCare_map_bkg.tga.ckd/51e5282d654c8ecb0c3e6c01e9f958ae.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28235,56470,84705,112941,141176,169411,197647,225882,254117,282353,310588,338823,367058,395294,423529,451764,480000,508235,536470,564705,592941,621176,649411,677647,705882,734117,762353,790588,818823,847058,875294,903529,931764,960000,988235,1016470,1044705,1072941,1101176,1129411,1157647,1185882,1214117,1242353,1270588,1298823,1327058,1355294,1383529,1411764],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4},{\"__class\":\"MusicSignature\",\"marker\":2,\"beats\":4}],\"startBeat\":-8,\"endBeat\":376,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":50,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/idontcare/idontcare_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Fred Gibson, Justin Bieber, Max Martin, Johan Schuster, Ed Sheeran and Jason Boyd. Published by Universal Music Publishing Canada on behalf of Universal Music Corp., and Universal Music Publishing Ltd. / MXM (ASCAP). Administered by Kobalt Songs Music Publishing. / BMG Gold Songs (ASCAP) obo itself and Poo BZ Publishing Inc. (ASCAP). / Ed Sheeran Limited and Sony/ATV Music Publishing (UK) Limited. (PRS). All rights reserved. Used with permission. Courtesy of Asylum Records UK / East West Records UK Ltd. By arrangement with Warner Music Group Film & TV Licensing. Justin Bieber appears courtesy of Def Jam Recordings, Inc.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "06EFFFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 225.88299999999998,
+  "mapName": "IDontCare",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497450\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IDontCare/IDontCare_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"596-1085\">\r\n\t\t\t\t\t<Initialization range=\"0-596\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483786\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IDontCare/IDontCare_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2941484\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IDontCare/IDontCare_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4125414\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IDontCare/IDontCare_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "IDontCare_mapContent"
+  },
+  "parentMapName": "IDontCare",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "9359B0FF",
+    "songColor_1B": "331868FF",
+    "songColor_2A": "BD7A57FF",
+    "songColor_2B": "FFC171FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "I Don't Care",
+  "urls": {
+    "jmcs://jd-contents/IDontCare/IDontCare_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/IDontCare/IDontCare_AudioPreview.ogg/49b7eb89acea71a530f5dc642eaa9179.ogg",
+    "jmcs://jd-contents/IDontCare/IDontCare_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/IDontCare/IDontCare_MapPreviewNoSoundCrop_HIGH.vp8.webm/56ec915849764f8049c2c9bc4d402243.webm",
+    "jmcs://jd-contents/IDontCare/IDontCare_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/IDontCare/IDontCare_MapPreviewNoSoundCrop_HIGH.vp9.webm/3945f754c28c485b88af9abd90ad526a.webm",
+    "jmcs://jd-contents/IDontCare/IDontCare_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/IDontCare/IDontCare_MapPreviewNoSoundCrop_LOW.vp8.webm/f9dd6a655382ba9c33bd9b7350ec672e.webm",
+    "jmcs://jd-contents/IDontCare/IDontCare_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/IDontCare/IDontCare_MapPreviewNoSoundCrop_LOW.vp9.webm/312e35075a5c59ce9bdb9ee5b03634bf.webm",
+    "jmcs://jd-contents/IDontCare/IDontCare_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/IDontCare/IDontCare_MapPreviewNoSoundCrop_MID.vp8.webm/01c538ce548a87409e5aee519f10c60f.webm",
+    "jmcs://jd-contents/IDontCare/IDontCare_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/IDontCare/IDontCare_MapPreviewNoSoundCrop_MID.vp9.webm/17ec5074c88d4039f8860fe9d0323040.webm",
+    "jmcs://jd-contents/IDontCare/IDontCare_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/IDontCare/IDontCare_MapPreviewNoSoundCrop_ULTRA.vp8.webm/10e7ec888683552120fa9305e98a73a5.webm",
+    "jmcs://jd-contents/IDontCare/IDontCare_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/IDontCare/IDontCare_MapPreviewNoSoundCrop_ULTRA.vp9.webm/7026e5b28f3f9ebc3d32d74828a0ce24.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "762b21d254a6d0e891a8136d29df6fd1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IDontCare/ps4/IDontCare_MAIN_SCENE_ORBIS.zip/762b21d254a6d0e891a8136d29df6fd1.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "2aa05ce74f094d2243cb790aaf57a7dc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IDontCare/nx/IDontCare_MAIN_SCENE_NX.zip/2aa05ce74f094d2243cb790aaf57a7dc.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "25825a06e6285f7716ac37f921e3c4c8",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/IDontCare/pc/25825a06e6285f7716ac37f921e3c4c8.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

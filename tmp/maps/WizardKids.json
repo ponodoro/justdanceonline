@@ -1,0 +1,103 @@
+{
+  "artist": "The Just Dance Orchestra",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/ps4/WizardKids_banner_bkg.tga.ckd/b71475d5a1e206a526246020034d6a00.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/ps4/WizardKids_Coach_1.tga.ckd/4bfd8c9ef60fe5f7e29bddd43a87f521.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/ps4/WizardKids_Cover_Generic.tga.ckd/2a5fd0d5b9447a10158c4dd7eb2b7558.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/WizardKids_Cover_1024.png/2ac2fd314d75a200d2da13dc13647cdb.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/ps4/WizardKids_Cover_Online.tga.ckd/72cbb36544b0bf6cd85349ccc307e226.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/ps4/WizardKids_Cover_AlbumBkg.tga.ckd/2693f32e54ab20dfd55da3f885515c55.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/ps4/WizardKids_Cover_AlbumCoach.tga.ckd/352a4f979f70b49cd30b2d8fb9c76df2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/WizardKids_Coach_1_Phone.png/13a50e3266c2d0d3ec32a491e5330430.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/WizardKids_Cover_Phone.jpg/9ca0d44ba03dd3084daf8b0404041fcf.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/ps4/WizardKids_map_bkg.tga.ckd/5086a79ace70c57f6d7ac1524fe17c21.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/nx/WizardKids_banner_bkg.tga.ckd/2687aa1c5d7a3317b3e3c6c5f9117c43.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/nx/WizardKids_Coach_1.tga.ckd/bd877aa53f773fcc4425bfd9c509b54f.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/nx/WizardKids_Cover_Generic.tga.ckd/d0d39944623c0b44017d246a5884a7cf.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/WizardKids_Cover_1024.png/2ac2fd314d75a200d2da13dc13647cdb.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/nx/WizardKids_Cover_Online.tga.ckd/2186d570d38e294ccf9c53728a5c3b54.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/nx/WizardKids_Cover_AlbumBkg.tga.ckd/de0ad97749eeb3d11db3f3669e180c5a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/nx/WizardKids_Cover_AlbumCoach.tga.ckd/ed9bbffd28b8f1c7351362a7b8d4efff.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/WizardKids_Coach_1_Phone.png/13a50e3266c2d0d3ec32a491e5330430.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/WizardKids_Cover_Phone.jpg/9ca0d44ba03dd3084daf8b0404041fcf.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WizardKids/nx/WizardKids_map_bkg.tga.ckd/d00ab2651af8821f2501d23f7e030403.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27407,54863,82271,109727,137135,164591,191999,219407,246862,274270,301726,329134,356590,383998,411406,438861,466269,493725,521133,548589,575997,603405,630861,658269,685724,713132,740588,767996,795404,822860,850268,877723,905131,932587,959995,987403,1014859,1042267,1069723,1097131,1124586,1151994,1179402,1206858,1234266,1261722,1289130,1316585,1343993,1371401,1398857,1426265],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":161,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":52,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/wizardkids/wizardkids_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Composed by Steve Ouimette. Published by Ubisoft Music. Performed by Steve Ouimette. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 94.286,
+  "mapName": "WizardKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"481512\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WizardKids/WizardKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1108085\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WizardKids/WizardKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1112027\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WizardKids/WizardKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1111361\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WizardKids/WizardKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "WizardKids_mapContent"
+  },
+  "parentMapName": "WizardKids",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all"
+  ],
+  "songColors": {
+    "songColor_1A": "6C54DAFF",
+    "songColor_1B": "300741FF",
+    "songColor_2A": "6500B3FF",
+    "songColor_2B": "6C3CC0FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "subscribedSong",
+    "ExcludedFromWDF"
+  ],
+  "title": "Magical Morning",
+  "urls": {
+    "jmcs://jd-contents/WizardKids/WizardKids_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/WizardKids/WizardKids_AudioPreview.ogg/184493e4c69e75ccef81e1479e0aea79.ogg",
+    "jmcs://jd-contents/WizardKids/WizardKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/WizardKids/WizardKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/f5a161afffc4e9f2d5406ef7e0fb578e.webm",
+    "jmcs://jd-contents/WizardKids/WizardKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/WizardKids/WizardKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/09b2cf2bb65c650819a6d1b542351334.webm",
+    "jmcs://jd-contents/WizardKids/WizardKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/WizardKids/WizardKids_MapPreviewNoSoundCrop_LOW.vp8.webm/10070f6b900903700a3d0da9297a6b17.webm",
+    "jmcs://jd-contents/WizardKids/WizardKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/WizardKids/WizardKids_MapPreviewNoSoundCrop_LOW.vp9.webm/2fc3ca007747f0c5b903481fcb0ab616.webm",
+    "jmcs://jd-contents/WizardKids/WizardKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/WizardKids/WizardKids_MapPreviewNoSoundCrop_MID.vp8.webm/d279e97b33645249967363d744b44b55.webm",
+    "jmcs://jd-contents/WizardKids/WizardKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/WizardKids/WizardKids_MapPreviewNoSoundCrop_MID.vp9.webm/74264a2a9a2338f822133e301b9f21e3.webm",
+    "jmcs://jd-contents/WizardKids/WizardKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/WizardKids/WizardKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/22fdec4da09bce9e3f39dcf8bd509935.webm",
+    "jmcs://jd-contents/WizardKids/WizardKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/WizardKids/WizardKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/f968c5fac2ff94babdfd8e5504ad9921.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "f0e52ec813d9188e61e7d3ac97a1e1ee",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WizardKids/ps4/WizardKids_MAIN_SCENE_ORBIS.zip/f0e52ec813d9188e61e7d3ac97a1e1ee.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "078de20a1f778df31b165ac2d7644158",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WizardKids/nx/WizardKids_MAIN_SCENE_NX.zip/078de20a1f778df31b165ac2d7644158.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "a630cc026f7f01d98967825294b53726",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/WizardKids/pc/a630cc026f7f01d98967825294b53726.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939
+}

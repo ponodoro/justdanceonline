@@ -1,0 +1,105 @@
+{
+  "artist": "Khalid",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/ps4/TalkALT_banner_bkg.tga.ckd/87e91e8cf91dd69f26b2153b6f6f480c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/ps4/TalkALT_Coach_1.tga.ckd/5bc1195919246c956d4c086d705682a6.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/ps4/TalkALT_Cover_Generic.tga.ckd/fc36d4fc8069164034c02bb92eb565f5.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/TalkALT_Cover_1024.png/fc6b2f0e2b616c2e04f831f4163f9784.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/ps4/TalkALT_Cover_Online.tga.ckd/d38cd25c79c1bd284bc3833a2d789da9.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/ps4/TalkALT_Cover_AlbumBkg.tga.ckd/1d8ac47418071d9fc2a84d855d1bf9cf.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/ps4/TalkALT_Cover_AlbumCoach.tga.ckd/a4ca7c8609b92a0d5562ec21e7529845.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/TalkALT_Coach_1_Phone.png/a9ece35dc68c54f0d188177b4c36e097.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/TalkALT_Cover_Phone.jpg/c143d310f2ad756688fb0b71ed4f2cec.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/ps4/TalkALT_map_bkg.tga.ckd/580e1f9cb82772c7cc3cccaaef0dd01e.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/nx/TalkALT_banner_bkg.tga.ckd/bcbf6f88b85e92dcc44244c51aeaa641.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/nx/TalkALT_Coach_1.tga.ckd/97b65e59717033876f3f51b112dc1b63.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/nx/TalkALT_Cover_Generic.tga.ckd/1c0abcd41b43c9448e3541a7cb5a6d2c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/TalkALT_Cover_1024.png/fc6b2f0e2b616c2e04f831f4163f9784.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/nx/TalkALT_Cover_Online.tga.ckd/3e92ec87518ec4353edd2b2f3c62c455.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/nx/TalkALT_Cover_AlbumBkg.tga.ckd/897434178c6d448edad35650b8befddf.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/nx/TalkALT_Cover_AlbumCoach.tga.ckd/cf59d24f0251dbf67bd1eb9c07ce76e9.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/TalkALT_Coach_1_Phone.png/a9ece35dc68c54f0d188177b4c36e097.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/TalkALT_Cover_Phone.jpg/c143d310f2ad756688fb0b71ed4f2cec.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/nx/TalkALT_map_bkg.tga.ckd/0f3296e710ca7f8fed6f16d23f4510af.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21176,42352,63529,84705,105882,127058,148235,169411,190588,211764,232941,254117,275294,296470,317647,338823,360000,381176,402352,423529,444705,465882,487058,508235,529411,550588,571764,592941,614117,635294,656470,677647,698823,720000,741176,762352,783529,804705,825882,847058,868235,889411,910588,931764,952941,974117,995294,1016470,1037647,1058823,1080000,1101176,1122352,1143529,1164705,1185882,1207058,1228235,1249411,1270588,1291764,1312941,1334117,1355294,1376470,1397647,1418823],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":440,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":67,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/talkalt/talkalt_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Guy William Lawrence, Howard John Lawrence and Khalid Robinson. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing Ltd. / Sony/ATV Songs LLC. (BMI). All rights reserved. Used with permission. Courtesy of Right Hand Music Group/RCA Records. By arrangement with Sony Music Entertainment. ",
+  "difficulty": 4,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFE053FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 194.118,
+  "mapName": "TalkALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496872\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TalkALT/TalkALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"592-1081\">\r\n\t\t\t\t\t<Initialization range=\"0-592\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1466221\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TalkALT/TalkALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1684128\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TalkALT/TalkALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1684244\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TalkALT/TalkALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "TalkALT_mapContent"
+  },
+  "parentMapName": "Talk",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "FF008AFF",
+    "songColor_1B": "7F00FFFF",
+    "songColor_2A": "C300FFFF",
+    "songColor_2B": "6100FFFF"
+  },
+  "status": 12,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Alternate",
+    "subscribedSong"
+  ],
+  "title": "Talk",
+  "urls": {
+    "jmcs://jd-contents/TalkALT/TalkALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TalkALT/TalkALT_AudioPreview.ogg/a8f4e8750ada5fe2ed14cdfe0c0f2dcb.ogg",
+    "jmcs://jd-contents/TalkALT/TalkALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TalkALT/TalkALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/ac0c198ddc557924c096cdfc536fff88.webm",
+    "jmcs://jd-contents/TalkALT/TalkALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TalkALT/TalkALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/4c7f932b845b24647af3dcd45748ee2e.webm",
+    "jmcs://jd-contents/TalkALT/TalkALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TalkALT/TalkALT_MapPreviewNoSoundCrop_LOW.vp8.webm/7a4968789df17b996c1d24e23275c076.webm",
+    "jmcs://jd-contents/TalkALT/TalkALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TalkALT/TalkALT_MapPreviewNoSoundCrop_LOW.vp9.webm/957f6e5abca21b115cd8ffb82c84f011.webm",
+    "jmcs://jd-contents/TalkALT/TalkALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TalkALT/TalkALT_MapPreviewNoSoundCrop_MID.vp8.webm/f798a4c931b1556eea0d8b92cb0aee83.webm",
+    "jmcs://jd-contents/TalkALT/TalkALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TalkALT/TalkALT_MapPreviewNoSoundCrop_MID.vp9.webm/fd1bc9e4896876a5465556f5ed0d5027.webm",
+    "jmcs://jd-contents/TalkALT/TalkALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TalkALT/TalkALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/807a7a15d978ecf8c98ab6e4fcae4ee2.webm",
+    "jmcs://jd-contents/TalkALT/TalkALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TalkALT/TalkALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/c19c0d86e6b20b858860ecc2b4ae2f41.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "0e1a3b4508cf59f72a9a409eb91060aa",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TalkALT/ps4/TalkALT_MAIN_SCENE_ORBIS.zip/0e1a3b4508cf59f72a9a409eb91060aa.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "52418b5e5d4becab37165d15d3e4e630",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TalkALT/nx/TalkALT_MAIN_SCENE_NX.zip/52418b5e5d4becab37165d15d3e4e630.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "82469033386bfb01a3051fefe91395c3",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/TalkALT/pc/82469033386bfb01a3051fefe91395c3.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12631
+}

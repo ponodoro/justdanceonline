@@ -1,0 +1,115 @@
+{
+  "artist": "2 Unlimited",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_banner_bkg.jpg/6cd14e2b257bae77dda73e817afcfe68.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Coach_1.png/48fa715f0e7297eb382ccaa0d4f14732.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Cover_Generic.jpg/15aa001f3a6ad56204609b2305fdfe9f.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Cover_1024.png/eee9e0ca432ecd71290b9f3e51450528.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Cover_Online.jpg/eb909b3e9ce5912c2f03b9a1fce47492.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Cover_AlbumBkg.jpg/6062dd757bd6ade0366699380320c71d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Cover_AlbumCoach.png/155c9d9b002d83b26a13b42bccbbf045.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Coach_1_Phone.png/ec4aa9e2ad75b7a07aebc4d50ab7a7e6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Cover_Phone.jpg/eb909b3e9ce5912c2f03b9a1fce47492.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_VideoPreview.webm/424b351c1259c2d14b29585ea72dc7a7.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_banner_bkg.jpg/6cd14e2b257bae77dda73e817afcfe68.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Coach_1.png/48fa715f0e7297eb382ccaa0d4f14732.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Cover_Generic.jpg/15aa001f3a6ad56204609b2305fdfe9f.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Cover_1024.png/eee9e0ca432ecd71290b9f3e51450528.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Cover_Online.jpg/eb909b3e9ce5912c2f03b9a1fce47492.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Cover_AlbumBkg.jpg/6062dd757bd6ade0366699380320c71d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Cover_AlbumCoach.png/155c9d9b002d83b26a13b42bccbbf045.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Coach_1_Phone.png/ec4aa9e2ad75b7a07aebc4d50ab7a7e6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Cover_Phone.jpg/eb909b3e9ce5912c2f03b9a1fce47492.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_VideoPreview.webm/424b351c1259c2d14b29585ea72dc7a7.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/wiiu/TribalDanceALT_banner_bkg.tga.ckd/bc3594ca773b2fb626bd19bc57d782c8.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/wiiu/TribalDanceALT_Coach_1.tga.ckd/d9bcf2f1806934984103338694cab065.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/wiiu/TribalDanceALT_Cover_Generic.tga.ckd/4ec5d7b683683e14ba70d0b701040d5a.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Cover_1024.png/eee9e0ca432ecd71290b9f3e51450528.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/wiiu/TribalDanceALT_Cover_Online.tga.ckd/f0696cc7ea4cbfba2ba323b2cf4b0d05.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/wiiu/TribalDanceALT_Cover_AlbumBkg.tga.ckd/5189324e7b49c39afc47ea8295e67b7d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/wiiu/TribalDanceALT_Cover_AlbumCoach.tga.ckd/93100e7e0bac739b351b3bc1b57095d0.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Coach_1_Phone.png/ec4aa9e2ad75b7a07aebc4d50ab7a7e6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_Cover_Phone.jpg/eb909b3e9ce5912c2f03b9a1fce47492.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_VideoPreview.webm/424b351c1259c2d14b29585ea72dc7a7.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22128,44256,66384,88512,110640,132768,154896,177024,199152,221280,243408,265536,287664,309792,331920,354048,376176,398304,420432,442560,464688,486816,508944,531072,553200,575328,597456,619584,641712,663840,685968,708096,730224,752352,774480,796608,818736,840864,862992,885120,907248,929376,951504,973632,995760,1017888,1040016,1062144,1084272,1106400,1128528,1150656,1172784,1194912,1217040,1239168,1261296,1283424,1305552,1327680,1349808,1371936,1394064,1416192,1438320],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":487,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/tribaldancealt/tribaldancealt_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "34D1AFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 224.88299999999998,
+  "mapName": "TribalDanceALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496276\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"644-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-644\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1353697\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1428453\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1429408\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "TribalDanceALT_mapContent"
+  },
+  "parentMapName": "TribalDanceALT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "A4001CFF",
+    "songColor_1B": "320000FF",
+    "songColor_2A": "37D09AFF",
+    "songColor_2B": "001F56FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Tribal Dance",
+  "urls": {
+    "jmcs://jd-contents/TribalDanceALT/TribalDanceALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_AudioPreview.ogg/4693c9af13622447cc293b7d2f377fa1.ogg",
+    "jmcs://jd-contents/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/9437294f86f130f64214452dd40f4d14.webm",
+    "jmcs://jd-contents/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/4d21f4ad3552d5988e2fc691197ba234.webm",
+    "jmcs://jd-contents/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_LOW.vp8.webm/c8a6cbde2704e9a71bafdf860c816621.webm",
+    "jmcs://jd-contents/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_LOW.vp9.webm/2fcbb92f49af85b1cefd6362f36738be.webm",
+    "jmcs://jd-contents/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_MID.vp8.webm/0140f3f0dde6564555940edc7b3f8004.webm",
+    "jmcs://jd-contents/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_MID.vp9.webm/a04ea2c01aa3916b6b2880e7e8b114b3.webm",
+    "jmcs://jd-contents/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/37f3c241f4b30c5813cd46cf258d4447.webm",
+    "jmcs://jd-contents/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/TribalDanceALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/7fd3b9c2a06fa6361bdd2a243c86f2bd.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "598ae35f7a12d8420e377dad66f78ba8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/ps4/TribalDanceALT_MAIN_SCENE_ORBIS.zip/598ae35f7a12d8420e377dad66f78ba8.zip",
+      "version": 43
+    },
+    "pc": {
+      "md5": "df66f8c7f77ad44f913ea445fc56b795",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/pc/TribalDanceALT_MAIN_SCENE_PC.zip/df66f8c7f77ad44f913ea445fc56b795.zip",
+      "version": 24
+    },
+    "wiiu": {
+      "md5": "e4241b8ab87644ea69f1b69e8f234e05",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/wiiu/TribalDanceALT_MAIN_SCENE_WIIU.zip/e4241b8ab87644ea69f1b69e8f234e05.zip",
+      "version": 45
+    },
+    "nx": {
+      "md5": "86af1ecb27052ea53f6d1ed464f1c09d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TribalDanceALT/nx/TribalDanceALT_MAIN_SCENE_NX.zip/86af1ecb27052ea53f6d1ed464f1c09d.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 13788
+}

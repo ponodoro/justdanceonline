@@ -1,0 +1,117 @@
+{
+  "artist": "Dua Lipa",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/ps4/BlowYourMind_banner_bkg.tga.ckd/e78bc2c1ca04723810beda4667ddca6e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/ps4/BlowYourMind_Coach_1.tga.ckd/657e53515a17b3381ac8925bf51553ca.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/ps4/BlowYourMind_Cover_Generic.tga.ckd/7676a86b6b701cd956068b82b2c524e1.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_Cover_1024.png/5582b916b3a0663e8bdd7bead6f410fa.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/ps4/BlowYourMind_Cover_Online.tga.ckd/54b13768fcf83464129feafed4cfe487.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/ps4/BlowYourMind_Cover_AlbumBkg.tga.ckd/2b9c51655cf5b0d867e336a957980d50.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/ps4/BlowYourMind_Cover_AlbumCoach.tga.ckd/31150e1ba91974664be8e604b8006b67.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_Coach_1_Phone.png/3858bfce8aeea0dec5bb1de71eeaccbb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_Cover_Phone.jpg/91c038fa0807a00b206897080c392224.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_VideoPreview.webm/40fb36cf51ab047ee2797a39c7fb1b16.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/ps4/BlowYourMind_map_bkg.tga.ckd/312762b36762dacb67162112da552a25.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/nx/BlowYourMind_banner_bkg.tga.ckd/cd3b0ac500c0d612cb516455d71988bf.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/nx/BlowYourMind_Coach_1.tga.ckd/c117c72056b5f53285d783c046bf9e2f.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/nx/BlowYourMind_Cover_Generic.tga.ckd/12795a17f4e6209000bcb9bdb21a66e9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_Cover_1024.png/5582b916b3a0663e8bdd7bead6f410fa.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/nx/BlowYourMind_Cover_Online.tga.ckd/a99878d668b3ee1c5570fa8ac2ee3099.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/nx/BlowYourMind_Cover_AlbumBkg.tga.ckd/7c4bcbe09e58c1a6cb2e9596ef7a7a02.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/nx/BlowYourMind_Cover_AlbumCoach.tga.ckd/d37fce1cd593f54e0732f7a800ddf13f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_Coach_1_Phone.png/3858bfce8aeea0dec5bb1de71eeaccbb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_Cover_Phone.jpg/91c038fa0807a00b206897080c392224.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_VideoPreview.webm/40fb36cf51ab047ee2797a39c7fb1b16.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/nx/BlowYourMind_map_bkg.tga.ckd/b6d6b23e7a0bda999609d1500dd38608.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/wiiu/BlowYourMind_banner_bkg.tga.ckd/8045fa6a50fe3820c4067fbb687f74dc.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/wiiu/BlowYourMind_Coach_1.tga.ckd/8f441bd3a779b1546bc61503a2f4640d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/wiiu/BlowYourMind_Cover_Generic.tga.ckd/e9a255e309a772d1e76c9751b23c467a.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_Cover_1024.png/5582b916b3a0663e8bdd7bead6f410fa.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/wiiu/BlowYourMind_Cover_Online.tga.ckd/0691ccf58ea2b58936f7d572045ed8a9.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/wiiu/BlowYourMind_Cover_AlbumBkg.tga.ckd/4d2fce220efe07e611eeebbe51bd3c42.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/wiiu/BlowYourMind_Cover_AlbumCoach.tga.ckd/3fbbb4f01956764e8513a326184f16d8.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_Coach_1_Phone.png/3858bfce8aeea0dec5bb1de71eeaccbb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_Cover_Phone.jpg/91c038fa0807a00b206897080c392224.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_VideoPreview.webm/40fb36cf51ab047ee2797a39c7fb1b16.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26400,52848,79248,105695,132095,158543,184943,211343,237791,264191,290639,317039,343487,369887,396335,422735,449183,475583,502031,528431,554831,581279,607679,634127,660527,686975,713375,739822,766222,792670,819070,845470,871918,898318,924766,951166,977614,1004014,1030462,1056862,1083310,1109710,1136158,1162558,1188958,1215406,1241806,1268254,1294654,1321101,1347501,1373949,1400349,1426797],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":325,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":54,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/blowyourmind/blowyourmind_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Dua Lipa, Lauren Christy and Jon Levine. Published by Universal - PolyGram Int. Tunes, Inc. on behalf of Universal Music Publishing Ltd. / Old Schul Music Inc. c/o Sony/ATV Music Publishing Canada (SOCAN). / Reservoir 416 (BMI). All rights reserved. Used with permission. (P) Line: 2015 Dua Lipa Limited. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "1A96E6FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 181.653,
+  "mapName": "BlowYourMind",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"478662\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1345470\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1943791\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1948312\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "BlowYourMind_mapContent"
+  },
+  "parentMapName": "BlowYourMind",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "85FFB2FF",
+    "songColor_1B": "359078FF",
+    "songColor_2A": "FFAC9AFF",
+    "songColor_2B": "E376F6FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2018"
+  ],
+  "title": "Blow Your Mind (Mwah)",
+  "urls": {
+    "jmcs://jd-contents/BlowYourMind/BlowYourMind_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_AudioPreview.ogg/e589c44f1bcc65ae796fefbbb0ae0a24.ogg",
+    "jmcs://jd-contents/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_HIGH.vp8.webm/44a992e8010c80dc5f1b880f78a5f138.webm",
+    "jmcs://jd-contents/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_HIGH.vp9.webm/9284c18ce9bd6bdc721a5c81567e24a2.webm",
+    "jmcs://jd-contents/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_LOW.vp8.webm/0e03d4608a02091cbd252472e502074d.webm",
+    "jmcs://jd-contents/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_LOW.vp9.webm/8563c7f91149cd6dd040e9f729bf5750.webm",
+    "jmcs://jd-contents/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_MID.vp8.webm/c592274aa54041d47cc4a5f3d27ec229.webm",
+    "jmcs://jd-contents/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_MID.vp9.webm/58f9d45d86c84624501d2b35547122bb.webm",
+    "jmcs://jd-contents/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d6d89a5101023976833962566af9867d.webm",
+    "jmcs://jd-contents/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BlowYourMind/BlowYourMind_MapPreviewNoSoundCrop_ULTRA.vp9.webm/84ab4427accca548be93d6df4e3216ea.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "1c7c27bd14361fbe44eb1232bb4ccf3f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BlowYourMind/ps4/BlowYourMind_MAIN_SCENE_ORBIS.zip/1c7c27bd14361fbe44eb1232bb4ccf3f.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "03e3fc71a9480afca052d854c3d30fb8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BlowYourMind/nx/BlowYourMind_MAIN_SCENE_NX.zip/03e3fc71a9480afca052d854c3d30fb8.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "72344c8761c39a92e6e1227f8a9491eb",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BlowYourMind/wiiu/BlowYourMind_MAIN_SCENE_WIIU.zip/72344c8761c39a92e6e1227f8a9491eb.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

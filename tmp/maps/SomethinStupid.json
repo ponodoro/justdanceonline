@@ -1,0 +1,120 @@
+{
+  "artist": "Robbie Williams and Nicole Kidman",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_banner_bkg.jpg/b60a9cc0c5621528879450e19428b2e2.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Coach_1.png/33a3a014903c0eeb6f56f2d4deec376d.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Coach_2.png/0138dd7ac359d5e4b926267bb6d59ea1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Cover_Generic.jpg/d7bbbba3b85dfc62c718740931b3895a.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Cover_1024.png/a27970ec91f431876528f4da6106270a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Cover_Online.jpg/914733580a99bc0c8a141d1aee10fc37.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Cover_AlbumBkg.jpg/acc0b323671e511be640db9b5447ff1d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Cover_AlbumCoach.png/37506fb2fe220b3902057684115afc17.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Coach_1_Phone.png/24d117c78559f257b9a78ec22c76a50f.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Coach_2_Phone.png/4ea87a33cceace2c7beeb82551bd1c51.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Cover_Phone.jpg/914733580a99bc0c8a141d1aee10fc37.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_VideoPreview.webm/0974cd37ea6870abb0fa0cfec8660183.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_banner_bkg.jpg/b60a9cc0c5621528879450e19428b2e2.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Coach_1.png/33a3a014903c0eeb6f56f2d4deec376d.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Coach_2.png/0138dd7ac359d5e4b926267bb6d59ea1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Cover_Generic.jpg/d7bbbba3b85dfc62c718740931b3895a.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Cover_1024.png/a27970ec91f431876528f4da6106270a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Cover_Online.jpg/914733580a99bc0c8a141d1aee10fc37.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Cover_AlbumBkg.jpg/acc0b323671e511be640db9b5447ff1d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Cover_AlbumCoach.png/37506fb2fe220b3902057684115afc17.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Coach_1_Phone.png/24d117c78559f257b9a78ec22c76a50f.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Coach_2_Phone.png/4ea87a33cceace2c7beeb82551bd1c51.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Cover_Phone.jpg/914733580a99bc0c8a141d1aee10fc37.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_VideoPreview.webm/0974cd37ea6870abb0fa0cfec8660183.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/wiiu/SomethinStupid_banner_bkg.tga.ckd/e149b2d5203d9751fe9b38fbb225dc0b.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/wiiu/SomethinStupid_Coach_1.tga.ckd/4af6985ca1f15947107dfcb5fde6e463.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/wiiu/SomethinStupid_Coach_2.tga.ckd/eee0390791facc8823a6760eab20da87.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/wiiu/SomethinStupid_Cover_Generic.tga.ckd/a9ab0e0c549c35f9f66d3c074a9a3f5a.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Cover_1024.png/a27970ec91f431876528f4da6106270a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/wiiu/SomethinStupid_Cover_Online.tga.ckd/8ba8b4e9e59da9697bb2223d04faac89.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/wiiu/SomethinStupid_Cover_AlbumBkg.tga.ckd/9fdda66f3fd1b637847ba6565ddaf450.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/wiiu/SomethinStupid_Cover_AlbumCoach.tga.ckd/f6cd5bd4e911535a89627b290df8f76c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Coach_1_Phone.png/24d117c78559f257b9a78ec22c76a50f.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Coach_2_Phone.png/4ea87a33cceace2c7beeb82551bd1c51.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_Cover_Phone.jpg/914733580a99bc0c8a141d1aee10fc37.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_VideoPreview.webm/0974cd37ea6870abb0fa0cfec8660183.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27552,54511,81471,108430,135389,162349,189308,216268,243227,270187,297669,324576,352110,378651,405924,432361,460157,487273,515434,542394,569353,597375,623272,651224,678654,705126,732573,759985,786492,813451,840410,867840,894956,921289,949816,975208,1003421,1030746,1057653,1085031,1112043,1138532,1165491,1192451,1220769,1246370,1274949,1302274,1328554,1355932,1383675,1409798,1437750],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":302,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":53,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/somethinstupid/somethinstupid_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FAB804FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 171.463,
+  "mapName": "SomethinStupid",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497881\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"644-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-644\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1476858\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2214519\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2214513\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "SomethinStupid_mapContent"
+  },
+  "parentMapName": "SomethinStupid",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "F48E00FF",
+    "songColor_1B": "8D0000FF",
+    "songColor_2A": "42CFFFFF",
+    "songColor_2B": "00082CFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Somethin' Stupid",
+  "urls": {
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_AudioPreview.ogg/e2672841409691d7ffbb567c7bcd0585.ogg",
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_HIGH.vp8.webm/7cce2f309a8675636fdaff7bf73fc4b1.webm",
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_HIGH.vp9.webm/fcc1a044d49ec820ee1c7abb631ed756.webm",
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_LOW.vp8.webm/0a1e2413f93308344035682815423c2d.webm",
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_LOW.vp9.webm/9828098379ead09f79278dc8be204dc6.webm",
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_MID.vp8.webm/42cc43f233bc6e6d3e97ce80bf08aa81.webm",
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_MID.vp9.webm/aac307f4c172d46dce75f79a2a0749e0.webm",
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_ULTRA.vp8.webm/4b0f2555782dc261d8321272fd7b97ee.webm",
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_ULTRA.vp9.webm/12fb5a5078df29a46fc28750f5ae5347.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a5cc0020599a3d59dea063391d880cf5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SomethinStupid/ps4/SomethinStupid_MAIN_SCENE_ORBIS.zip/a5cc0020599a3d59dea063391d880cf5.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "40fe4861e032c6f8313af9e9d6550add",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SomethinStupid/pc/SomethinStupid_MAIN_SCENE_PC.zip/40fe4861e032c6f8313af9e9d6550add.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "5bb8832713dabfc3f071b5b14ad70b01",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SomethinStupid/wiiu/SomethinStupid_MAIN_SCENE_WIIU.zip/5bb8832713dabfc3f071b5b14ad70b01.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "7ae440ec8bc6cf2df8ec300a2e32dec3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SomethinStupid/nx/SomethinStupid_MAIN_SCENE_NX.zip/7ae440ec8bc6cf2df8ec300a2e32dec3.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

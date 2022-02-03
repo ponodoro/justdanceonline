@@ -1,0 +1,114 @@
+{
+  "artist": "Frankie Bostello",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_banner_bkg.jpg/1d21b11e3f39213ed6044926ef177db5.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Coach_1.png/eb820fc5e74a0b817e06c6c921f7841a.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Cover_Generic.jpg/55eb3792906f05239eac69407e1f7165.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Cover_1024.png/e18fe2838cf78de3a2f090329497cee8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Cover_Online.jpg/bd56f7052ef50de0c3720fd26bae7486.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Cover_AlbumBkg.jpg/b9f714d3b61be4c66887d9704c7860e3.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Cover_AlbumCoach.png/52657128a4098db5d1eb102f7232228d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Coach_1_Phone.png/26c9663176c62b7fa1c77297e90e7dad.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Cover_Phone.jpg/bd56f7052ef50de0c3720fd26bae7486.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_VideoPreview.webm/39be937e39b5973bd9a4ac11e6b784e9.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_banner_bkg.jpg/1d21b11e3f39213ed6044926ef177db5.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Coach_1.png/eb820fc5e74a0b817e06c6c921f7841a.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Cover_Generic.jpg/55eb3792906f05239eac69407e1f7165.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Cover_1024.png/e18fe2838cf78de3a2f090329497cee8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Cover_Online.jpg/bd56f7052ef50de0c3720fd26bae7486.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Cover_AlbumBkg.jpg/b9f714d3b61be4c66887d9704c7860e3.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Cover_AlbumCoach.png/52657128a4098db5d1eb102f7232228d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Coach_1_Phone.png/26c9663176c62b7fa1c77297e90e7dad.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Cover_Phone.jpg/bd56f7052ef50de0c3720fd26bae7486.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_VideoPreview.webm/39be937e39b5973bd9a4ac11e6b784e9.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/wiiu/LoveBoat_banner_bkg.tga.ckd/13aea532e8aa6717f469e0d5e8fa874b.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/wiiu/LoveBoat_Coach_1.tga.ckd/33e7bbbb75ba08af0d0265a64b7202f1.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/wiiu/LoveBoat_Cover_Generic.tga.ckd/040ee6160a59a1d49d570a4078bed603.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Cover_1024.png/e18fe2838cf78de3a2f090329497cee8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/wiiu/LoveBoat_Cover_Online.tga.ckd/157df38702361e87f8f7e76d98df094d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/wiiu/LoveBoat_Cover_AlbumBkg.tga.ckd/482750eb09cbded255978eaed2a79848.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/wiiu/LoveBoat_Cover_AlbumCoach.tga.ckd/4ff5968e0b8cc1809a9e7995275120e3.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Coach_1_Phone.png/26c9663176c62b7fa1c77297e90e7dad.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_Cover_Phone.jpg/bd56f7052ef50de0c3720fd26bae7486.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_VideoPreview.webm/39be937e39b5973bd9a4ac11e6b784e9.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24432,48816,73248,97632,122064,146448,170880,195264,219696,244080,268512,292896,317280,341712,366096,390527,414911,439343,463727,488159,512543,536975,561359,585791,610175,634607,658991,683423,707807,732239,756623,781007,805439,829823,854255,878639,903071,927455,951887,976271,1000703,1025087,1049519,1073903,1098335,1122719,1147151,1171535,1195967,1220351,1244734,1269166,1293550,1317982,1342366,1366798,1391182,1415614,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":339,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/loveboat/loveboat_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFB311FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 172.373,
+  "mapName": "LoveBoat",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"490889\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1475176\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2566815\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2694872\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "LoveBoat_mapContent"
+  },
+  "parentMapName": "LoveBoat",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "CE2121FF",
+    "songColor_1B": "5D0001FF",
+    "songColor_2A": "FFDEA7FF",
+    "songColor_2B": "620000FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Love Boat",
+  "urls": {
+    "jmcs://jd-contents/LoveBoat/LoveBoat_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_AudioPreview.ogg/b64f7bdce4a15a8e88f92f8dc083f5d1.ogg",
+    "jmcs://jd-contents/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_HIGH.vp8.webm/39e77f0874dab2dfd812cd8676003375.webm",
+    "jmcs://jd-contents/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_HIGH.vp9.webm/3ab173642939b10e05b34c675b2592dd.webm",
+    "jmcs://jd-contents/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_LOW.vp8.webm/8c62faa18e8c87bc9b4cc9d26e5c463b.webm",
+    "jmcs://jd-contents/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_LOW.vp9.webm/3f8a2f93d45193279013eda01150c58c.webm",
+    "jmcs://jd-contents/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_MID.vp8.webm/85bedbda766245aa2399bab79a0e8d81.webm",
+    "jmcs://jd-contents/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_MID.vp9.webm/ebca83a40ac4d10f8110475e67b80db6.webm",
+    "jmcs://jd-contents/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_ULTRA.vp8.webm/2f59b2441ad39fc24a4c73cb51baa68f.webm",
+    "jmcs://jd-contents/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/LoveBoat/LoveBoat_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5c098cd7e2ca7a9a72475f11dc20aa11.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "cf018d4f5e2ade6a5994e7965ff0da5c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LoveBoat/ps4/LoveBoat_MAIN_SCENE_ORBIS.zip/cf018d4f5e2ade6a5994e7965ff0da5c.zip",
+      "version": 13
+    },
+    "pc": {
+      "md5": "ea6118476e258ff51b819ca10e453428",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LoveBoat/pc/LoveBoat_MAIN_SCENE_PC.zip/ea6118476e258ff51b819ca10e453428.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "7c706842951b0a6bb4287f74d7e55788",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LoveBoat/wiiu/LoveBoat_MAIN_SCENE_WIIU.zip/7c706842951b0a6bb4287f74d7e55788.zip",
+      "version": 13
+    },
+    "nx": {
+      "md5": "8333490e60f10aefef8c7b7702288539",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LoveBoat/nx/LoveBoat_MAIN_SCENE_NX.zip/8333490e60f10aefef8c7b7702288539.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,109 @@
+{
+  "artist": "Bomba Estéreo",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/ps4/SoyYoALT_banner_bkg.tga.ckd/79501d234705520a0ff209e5280fa1f2.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/ps4/SoyYoALT_Coach_1.tga.ckd/0c52b78f8208a84137f3a5671ec1c162.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/ps4/SoyYoALT_Coach_2.tga.ckd/d1d0499f835894422cda34839ba31c14.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/ps4/SoyYoALT_Cover_Generic.tga.ckd/0d6f152665d87c32cc5d929a0c5e1cb9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/SoyYoALT_Cover_1024.png/e391e0435d586cc59aff6c0efb199073.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/ps4/SoyYoALT_Cover_Online.tga.ckd/6ca91889fc210b14e5c45a15db45d2f4.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/ps4/SoyYoALT_Cover_AlbumBkg.tga.ckd/674ef72996d76818eaca468e8c07dc9d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/ps4/SoyYoALT_Cover_AlbumCoach.tga.ckd/d7086385ec133d2c5bf7250b49ab6420.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/SoyYoALT_Coach_1_Phone.png/ccb7ca85e936943cc9dfd9f938ca6453.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/SoyYoALT_Coach_2_Phone.png/f26182939f1e99700fc681198db8b935.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/SoyYoALT_Cover_Phone.jpg/8c96c07c5f2ef2b9e43e8e0cafa66513.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/ps4/SoyYoALT_map_bkg.tga.ckd/9ca2dd52917120d193cd70d3efada68f.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/nx/SoyYoALT_banner_bkg.tga.ckd/3e35a04109ed899d79a2002aef00ff8c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/nx/SoyYoALT_Coach_1.tga.ckd/dbf76f45354ba6752fda9259d9a44cb8.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/nx/SoyYoALT_Coach_2.tga.ckd/68871becb961620c273b77d105f61378.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/nx/SoyYoALT_Cover_Generic.tga.ckd/2767b029816fb13f98b024a25c557fb3.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/SoyYoALT_Cover_1024.png/e391e0435d586cc59aff6c0efb199073.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/nx/SoyYoALT_Cover_Online.tga.ckd/6a6a76da99530ee987bc6a7e9f7e74a8.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/nx/SoyYoALT_Cover_AlbumBkg.tga.ckd/452ed34397acf3fbe686b6cae5121d96.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/nx/SoyYoALT_Cover_AlbumCoach.tga.ckd/afd311ca36fea4cfda8973c8aee2fed5.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/SoyYoALT_Coach_1_Phone.png/ccb7ca85e936943cc9dfd9f938ca6453.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/SoyYoALT_Coach_2_Phone.png/f26182939f1e99700fc681198db8b935.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/SoyYoALT_Cover_Phone.jpg/8c96c07c5f2ef2b9e43e8e0cafa66513.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoyYoALT/nx/SoyYoALT_map_bkg.tga.ckd/a6df7b57e4a1c626096187e6992b62db.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24576,49200,73824,98448,123072,147649,172273,196897,221521,246145,270769,295345,319969,344593,369217,393841,418417,443041,467665,492289,516913,541537,566113,590737,615361,639985,664609,689185,713809,738433,763057,787681,812305,836881,861505,886129,910753,935377,960001,984578,1009202,1033826,1058450,1083074,1107650,1132274,1156898,1181522,1206146,1230770,1255346,1279970,1304594,1329218,1353842,1378418,1403042,1427666],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":313,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":58,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/soyyoalt/soyyoalt_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Eric Frederic, Federico Simon Mejia Ochoa, Liliana Margarita Saumet Avila and Joseph Spargur. Published by Nice Life Music/Brodsky Spensive Publishing/Music of Big Deal. / Frederic and Ried Music (BMI) / Songs From The Boardwalk (BMI) / Sony/ATV Songs LLC (BMI) / EMI April Music Inc. (ASCAP). All rights reserved. Used with permission. Courtesy of Sony Music Entertainment US Latin LLC. By arrangement with Sony Music Entertainment.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "E94584FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 163.077,
+  "mapName": "SoyYoALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495891\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"594-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-594\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480662\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"595-1085\">\r\n\t\t\t\t\t<Initialization range=\"0-595\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2929594\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"595-1085\">\r\n\t\t\t\t\t<Initialization range=\"0-595\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4690865\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"595-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-595\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "SoyYoALT_mapContent"
+  },
+  "parentMapName": "SoyYo",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "008F98FF",
+    "songColor_1B": "003B56FF",
+    "songColor_2A": "FFF263FF",
+    "songColor_2B": "2F0E00FF"
+  },
+  "status": 12,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Alternate",
+    "subscribedSong"
+  ],
+  "title": "Soy Yo",
+  "urls": {
+    "jmcs://jd-contents/SoyYoALT/SoyYoALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/SoyYoALT/SoyYoALT_AudioPreview.ogg/b621b40a9349e918cbcf0c47fea74a41.ogg",
+    "jmcs://jd-contents/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/0edc463a7b7b2764a940fcfbcb11af85.webm",
+    "jmcs://jd-contents/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/5a51ff6b3f022284a221447710940319.webm",
+    "jmcs://jd-contents/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_LOW.vp8.webm/5a686d736ed7a30d34a5ef6b7a1e05f5.webm",
+    "jmcs://jd-contents/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_LOW.vp9.webm/eb3d1b895de1b5a2cc86238784191222.webm",
+    "jmcs://jd-contents/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_MID.vp8.webm/ac53397ffb5c36e9a38db59986c4058c.webm",
+    "jmcs://jd-contents/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_MID.vp9.webm/f57d89bdb2469e66c844f57c953e5ffd.webm",
+    "jmcs://jd-contents/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/c2a74a6445cb890e5c1a8038d6b6bc03.webm",
+    "jmcs://jd-contents/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/SoyYoALT/SoyYoALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/8baa841b84ec4622b5aee390f330c66c.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "656a93d5d9558ee60dd507da29afc0db",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SoyYoALT/ps4/SoyYoALT_MAIN_SCENE_ORBIS.zip/656a93d5d9558ee60dd507da29afc0db.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "96a9208f23b5a89dffdb9fe602d51278",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SoyYoALT/nx/SoyYoALT_MAIN_SCENE_NX.zip/96a9208f23b5a89dffdb9fe602d51278.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "f52013d93a403ba86d55f4d8ebfab116",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/SoyYoALT/pc/f52013d93a403ba86d55f4d8ebfab116.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 20000514
+}

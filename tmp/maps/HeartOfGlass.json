@@ -1,0 +1,111 @@
+{
+  "artist": "Blondie",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_banner_bkg.jpg/abdb9b42862da10dd656df0e3b45a61e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Coach_1.png/4b0aa6cb374d5c253858b305cc95e755.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Cover_Generic.jpg/6e755c3cc0da0a2767d3c564f3f0fbce.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Cover_1024.png/689e31a7031ba3467ed7a182b44a5dcc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Cover_Online.jpg/86bdedbdb5ee460e9e4715208f0ba8f8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Cover_AlbumBkg.jpg/2f94a68368c9c02392da6c30010080c9.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Cover_AlbumCoach.png/79602d62708ca9e9aa690a41d5ecc35b.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Coach_1_Phone.png/204162cb355c6c394941e21f98cffa90.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Cover_Phone.jpg/86bdedbdb5ee460e9e4715208f0ba8f8.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_banner_bkg.jpg/abdb9b42862da10dd656df0e3b45a61e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Coach_1.png/4b0aa6cb374d5c253858b305cc95e755.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Cover_Generic.jpg/6e755c3cc0da0a2767d3c564f3f0fbce.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Cover_1024.png/689e31a7031ba3467ed7a182b44a5dcc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Cover_Online.jpg/86bdedbdb5ee460e9e4715208f0ba8f8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Cover_AlbumBkg.jpg/2f94a68368c9c02392da6c30010080c9.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Cover_AlbumCoach.png/79602d62708ca9e9aa690a41d5ecc35b.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Coach_1_Phone.png/204162cb355c6c394941e21f98cffa90.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Cover_Phone.jpg/86bdedbdb5ee460e9e4715208f0ba8f8.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/wiiu/HeartOfGlass_banner_bkg.tga.ckd/a279dec061b1b98841717412cc5f63f3.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/wiiu/HeartOfGlass_Coach_1.tga.ckd/7955e87e2da71bd3785c60211c1b651c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/wiiu/HeartOfGlass_Cover_Generic.tga.ckd/8d784879b94d5f264ec872c3dc62bf75.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Cover_1024.png/689e31a7031ba3467ed7a182b44a5dcc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/wiiu/HeartOfGlass_Cover_Online.tga.ckd/a4b7307631e7ea60754ff3658b5b990b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/wiiu/HeartOfGlass_Cover_AlbumBkg.tga.ckd/fba8e55f42d1543d43032b431fca725a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/wiiu/HeartOfGlass_Cover_AlbumCoach.tga.ckd/c67be604f7d1d3ee69c77b23e5e92b29.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Coach_1_Phone.png/204162cb355c6c394941e21f98cffa90.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_Cover_Phone.jpg/86bdedbdb5ee460e9e4715208f0ba8f8.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26885,51107,76194,102047,126365,151836,177545,202632,227717,252803,277889,302976,328062,353147,378233,404039,429125,454212,479298,504383,529469,554556,579642,604727,629813,654899,679986,705071,730157,755243,780330,805859,831582,857099,882185,907272,932357,957443,982529,1007616,1032702,1057787,1082873,1107960,1133046,1158131,1183217,1208304,1233390,1258475,1284665,1309751,1334837,1359924,1385009,1410095,1435181],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":430,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/heartofglass/heartofglass_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FE0E03FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 226.158,
+  "mapName": "HeartOfGlass",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496635\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"982059\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"982329\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"982774\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 1,
+  "packages": {
+    "mapContent": "HeartOfGlass_mapContent"
+  },
+  "parentMapName": "HeartOfGlass",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "8500C2FF",
+    "songColor_1B": "030034FF",
+    "songColor_2A": "3DD49EFF",
+    "songColor_2B": "02003DFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Heart Of Glass",
+  "urls": {
+    "jmcs://jd-contents/HeartOfGlass/HeartOfGlass_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_AudioPreview.ogg/31590f0ee93cd94a760f571e2501bada.ogg",
+    "jmcs://jd-contents/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_HIGH.vp8.webm/124ea62517bf0b59847ca15449f12175.webm",
+    "jmcs://jd-contents/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_HIGH.vp9.webm/bfc034a286146497b17c1a69a3d13d7b.webm",
+    "jmcs://jd-contents/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_LOW.vp8.webm/65907d05036c6aee1493fbc26bab3b37.webm",
+    "jmcs://jd-contents/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_LOW.vp9.webm/bdf460c97cad5de53c367757b342f311.webm",
+    "jmcs://jd-contents/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_MID.vp8.webm/eb684e2aa9438e883ed2d12a69942ce6.webm",
+    "jmcs://jd-contents/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_MID.vp9.webm/24e1965c87f9ce47a693d2b88d1ffc04.webm",
+    "jmcs://jd-contents/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_ULTRA.vp8.webm/19c5c0783f358cbee8649f87841866f1.webm",
+    "jmcs://jd-contents/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/HeartOfGlass_MapPreviewNoSoundCrop_ULTRA.vp9.webm/24a3968ff876daa47b0aff4dced0b22d.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "e33ace8467640e43548be9e448b05801",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/ps4/HeartOfGlass_MAIN_SCENE_ORBIS.zip/e33ace8467640e43548be9e448b05801.zip",
+      "version": 16
+    },
+    "pc": {
+      "md5": "f184ca74fcbb623d65a9e54bd186d5a7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/pc/HeartOfGlass_MAIN_SCENE_PC.zip/f184ca74fcbb623d65a9e54bd186d5a7.zip",
+      "version": 10
+    },
+    "wiiu": {
+      "md5": "5a5411ba9d5f236663d3997fc01c2166",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/wiiu/HeartOfGlass_MAIN_SCENE_WIIU.zip/5a5411ba9d5f236663d3997fc01c2166.zip",
+      "version": 15
+    },
+    "nx": {
+      "md5": "3fd6f236298a66b185268da5e9338b39",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HeartOfGlass/nx/HeartOfGlass_MAIN_SCENE_NX.zip/3fd6f236298a66b185268da5e9338b39.zip",
+      "version": 10
+    }
+  },
+  "mapType": "jdu"
+}

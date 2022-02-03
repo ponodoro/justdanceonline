@@ -1,0 +1,108 @@
+{
+  "artist": "The Just Dance Orchestra",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/ps4/CanCan_banner_bkg.tga.ckd/f7fdc7b44ee509b7dcc06a494d6008fd.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/ps4/CanCan_Coach_1.tga.ckd/be1c8e2276ddaba37ec690bb5e959db0.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/ps4/CanCan_Coach_2.tga.ckd/af9757e75db3799d7426bb70e8a5a44d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/ps4/CanCan_Cover_Generic.tga.ckd/721bd113d83e3cd39f0580dfb0130e9b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/CanCan_Cover_1024.png/c4241a096a80081398b9448049ac557f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/ps4/CanCan_Cover_Online.tga.ckd/751fda49d6e637d2b492f32757f56d69.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/ps4/CanCan_Cover_AlbumBkg.tga.ckd/5e91021e4568b74c4590c58d55827bd2.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/ps4/CanCan_Cover_AlbumCoach.tga.ckd/674fdd272b93bc0b36b47bbc84622669.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/CanCan_Coach_1_Phone.png/4b645f696003e97f7772aac51d6170ef.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/CanCan_Coach_2_Phone.png/a1907b1b7ce56acc9d0a7f07e85b52ce.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/CanCan_Cover_Phone.jpg/81d6110d0ec559669fe28cc18865874a.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/ps4/CanCan_map_bkg.tga.ckd/a30afd80388c423e06700ea6bab8430e.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/nx/CanCan_banner_bkg.tga.ckd/541c6aa6fd0fe26a466929c800555195.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/nx/CanCan_Coach_1.tga.ckd/17c53ddbb609dad9c6bd738bb3eb024b.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/nx/CanCan_Coach_2.tga.ckd/afad8ae2942d349406916ce88c38a2b8.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/nx/CanCan_Cover_Generic.tga.ckd/9807992f4e8fa698216b4293984a2af1.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/CanCan_Cover_1024.png/c4241a096a80081398b9448049ac557f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/nx/CanCan_Cover_Online.tga.ckd/5443e6cdde88fc32a10728b1147eab0a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/nx/CanCan_Cover_AlbumBkg.tga.ckd/af85b772a9608272b6868e98d21740b6.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/nx/CanCan_Cover_AlbumCoach.tga.ckd/4398c8818591772fcff0605b5e292b0c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/CanCan_Coach_1_Phone.png/4b645f696003e97f7772aac51d6170ef.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/CanCan_Coach_2_Phone.png/a1907b1b7ce56acc9d0a7f07e85b52ce.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/CanCan_Cover_Phone.jpg/81d6110d0ec559669fe28cc18865874a.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CanCan/nx/CanCan_map_bkg.tga.ckd/4d8bbac760b6e43369ab3f19095b405b.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,15158,30316,45473,60631,75789,90947,106105,121263,136421,151579,166737,181894,197052,212210,227368,242526,257684,272842,288000,303158,318316,333473,348631,363789,378947,394105,409263,424421,439579,454737,469894,485052,500210,515368,530526,545684,560842,576000,591158,606316,621473,636631,651789,666947,682105,697263,712421,727579,742737,757894,773052,788210,803368,818526,833684,848842,864000,879158,894316,909473,924631,939789,954947,970105,985263,1000421,1015579,1030737,1045894,1061052,1076210,1091368,1106526,1121684,1136842,1152000,1167158,1182316,1197473,1212631,1227789,1242947,1258105,1273263,1288421,1303579,1318737,1333894,1349052,1364210,1379368,1394526,1409684,1424842],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":451,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":94,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/cancan/cancan_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Jacques Offenbach. Published by Public Domain. Arranged and performed by Steve Ouimette. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FC4229FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 143.635,
+  "mapName": "CanCan",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497224\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CanCan/CanCan_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"595-1084\">\r\n\t\t\t\t\t<Initialization range=\"0-595\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484157\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CanCan/CanCan_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"591-1081\">\r\n\t\t\t\t\t<Initialization range=\"0-591\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2946572\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CanCan/CanCan_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"591-1081\">\r\n\t\t\t\t\t<Initialization range=\"0-591\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4871453\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CanCan/CanCan_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"591-1084\">\r\n\t\t\t\t\t<Initialization range=\"0-591\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "CanCan_mapContent"
+  },
+  "parentMapName": "CanCan",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "361762FF",
+    "songColor_1B": "633E8CFF",
+    "songColor_2A": "2AC0B8FF",
+    "songColor_2B": "30968EFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Infernal Galop (Can-Can)",
+  "urls": {
+    "jmcs://jd-contents/CanCan/CanCan_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/CanCan/CanCan_AudioPreview.ogg/389137c5e624c282a2909f47d511f775.ogg",
+    "jmcs://jd-contents/CanCan/CanCan_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/CanCan/CanCan_MapPreviewNoSoundCrop_HIGH.vp8.webm/5f401d76c8ad823949d47bcebf3fd3fd.webm",
+    "jmcs://jd-contents/CanCan/CanCan_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/CanCan/CanCan_MapPreviewNoSoundCrop_HIGH.vp9.webm/269d42650a64d6ba039d4f58381d6eb1.webm",
+    "jmcs://jd-contents/CanCan/CanCan_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/CanCan/CanCan_MapPreviewNoSoundCrop_LOW.vp8.webm/1ea0fb83def21108fa60fa09007b6d07.webm",
+    "jmcs://jd-contents/CanCan/CanCan_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/CanCan/CanCan_MapPreviewNoSoundCrop_LOW.vp9.webm/3d83d60688044ab3783742162bd9e6ae.webm",
+    "jmcs://jd-contents/CanCan/CanCan_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/CanCan/CanCan_MapPreviewNoSoundCrop_MID.vp8.webm/1742dcd20fc2dbe5941efa5467b604ea.webm",
+    "jmcs://jd-contents/CanCan/CanCan_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/CanCan/CanCan_MapPreviewNoSoundCrop_MID.vp9.webm/6972df6139dc454c0d1884ab31bf6bcf.webm",
+    "jmcs://jd-contents/CanCan/CanCan_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/CanCan/CanCan_MapPreviewNoSoundCrop_ULTRA.vp8.webm/1b5c3731d959aba568026901a451bb11.webm",
+    "jmcs://jd-contents/CanCan/CanCan_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/CanCan/CanCan_MapPreviewNoSoundCrop_ULTRA.vp9.webm/157bab7dacffb25367f56e912f4d94ed.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "0fa2cb8e1a197d389826a2f669c864c5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CanCan/ps4/CanCan_MAIN_SCENE_ORBIS.zip/0fa2cb8e1a197d389826a2f669c864c5.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "66d4f29ae5efc42b901d8c2cb730948d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CanCan/nx/CanCan_MAIN_SCENE_NX.zip/66d4f29ae5efc42b901d8c2cb730948d.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "72ab06ef82f49f1a41869eed8825b79f",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/CanCan/pc/72ab06ef82f49f1a41869eed8825b79f.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

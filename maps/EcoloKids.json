@@ -1,0 +1,96 @@
+{
+  "artist": "The Sunlight Shakers",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_banner_bkg.jpg/8267c02425e6118ab50258d57c9a9d99.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Coach_1.png/3a6a49b2471a5b06469251c4c64f59ff.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Coach_2.png/d0a7b0700a6185e53848054b19a4cd08.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Cover_Generic.jpg/b38a2208adde0aa22f00bb7ef9b829de.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Cover_Online.jpg/14dfe6b51efad79adfe7daccea022055.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Cover_AlbumBkg.jpg/98f26a4ba9442ccb134632795e001def.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Cover_AlbumCoach.png/85aef62fece45f5e498401b96ce12c3f.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Coach_1_Phone.png/8870430e1eefb9b312ba85115b88b896.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Coach_2_Phone.png/1d2d6bad348a5f97e54a2c3964a88193.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Cover_Phone.jpg/14dfe6b51efad79adfe7daccea022055.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_banner_bkg.jpg/8267c02425e6118ab50258d57c9a9d99.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Coach_1.png/3a6a49b2471a5b06469251c4c64f59ff.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Coach_2.png/d0a7b0700a6185e53848054b19a4cd08.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Cover_Generic.jpg/b38a2208adde0aa22f00bb7ef9b829de.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Cover_Online.jpg/14dfe6b51efad79adfe7daccea022055.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Cover_AlbumBkg.jpg/98f26a4ba9442ccb134632795e001def.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Cover_AlbumCoach.png/85aef62fece45f5e498401b96ce12c3f.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Coach_1_Phone.png/8870430e1eefb9b312ba85115b88b896.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Coach_2_Phone.png/1d2d6bad348a5f97e54a2c3964a88193.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/EcoloKids/EcoloKids_Cover_Phone.jpg/14dfe6b51efad79adfe7daccea022055.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27692,55384,83077,110769,138461,166154,193846,221538,249231,276923,304615,332307,360000,387692,415384,443077,470769,498461,526154,553846,581538,609231,636923,664615,692307,720000,747692,775384,803077,830769,858461,886154,913846,941538,969231,996923,1024615,1052307,1080000,1107692,1135384,1163077,1190769,1218461,1246154,1273846,1301538,1329231,1356923,1384615,1412307],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":209,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":51,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/ecolokids/ecolokids_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Barrie Gledden, Chris Bussey and Jason Pedder. Published by Audio Network Canada Inc. Courtesy of Audio Network Canada Inc.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FC2CECFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 124.039,
+  "mapName": "EcoloKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"493970\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1090\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1470696\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1092\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2811908\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1092\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3213192\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1092\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "EcoloKids_mapContent"
+  },
+  "parentMapName": "EcoloKids",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "EFF0F0FF",
+    "songColor_1B": "13123FFF",
+    "songColor_2A": "E1B223FF",
+    "songColor_2B": "DA35E9FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "subscribedSong"
+  ],
+  "title": "Let's Save Our Planet",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "116ca38754303c800982b2a956412ebb",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/EcoloKids/ps4/EcoloKids_MAIN_SCENE_ORBIS.zip/116ca38754303c800982b2a956412ebb.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "305c2dae3b0ba74fc5e55b8f7b83cbcb",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/EcoloKids/nx/EcoloKids_MAIN_SCENE_NX.zip/305c2dae3b0ba74fc5e55b8f7b83cbcb.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "2c298b276a124af13cc0ac83b15df3f6",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/EcoloKids/pc/2c298b276a124af13cc0ac83b15df3f6.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939,
+  "urls": {
+    "jmcs://jd-contents/EcoloKids/EcoloKids_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/EcoloKids/EcoloKids_AudioPreview.ogg/bade82ea06df09fcac5f3a4691554311.ogg",
+    "jmcs://jd-contents/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/56c45725142714e3e72af838a7ae2ce6.webm",
+    "jmcs://jd-contents/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/95a7a09433dc7db67900ef9dd7b53827.webm",
+    "jmcs://jd-contents/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_LOW.vp8.webm/bcd1de7f6ce201c8bc5e432252ac5e82.webm",
+    "jmcs://jd-contents/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_LOW.vp9.webm/8b11b1e1e125952e091d26ab2cf6a686.webm",
+    "jmcs://jd-contents/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_MID.vp8.webm/7e6a2fc8dc122b89a0f10f8fafcc3042.webm",
+    "jmcs://jd-contents/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_MID.vp9.webm/367c1422c95b2312a8e904cad49c5ec8.webm",
+    "jmcs://jd-contents/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/123cb756a450650af17b142f7061b9e2.webm",
+    "jmcs://jd-contents/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/8270adc4139e8f96887e6f89d394086a.webm"
+  }
+}

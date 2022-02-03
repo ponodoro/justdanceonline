@@ -1,0 +1,134 @@
+{
+  "artist": "Bremenskiye Muzykanty",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/ggp/Bremen_banner_bkg.tga.ckd/c3b131729710c5e280486d59f092f0ca.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/ggp/Bremen_Coach_1.tga.ckd/7814fa96c0845d1a579fb2d6c3eea216.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/ggp/Bremen_Coach_2.tga.ckd/913426a30a52efc0197a3457c220f588.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/ggp/Bremen_Coach_3.tga.ckd/6c5cf0008bea4a085f0c3dfb18788162.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/ggp/Bremen_Coach_4.tga.ckd/b3df19e8d21bf15a34d3a29ad866089e.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/ggp/Bremen_Cover_Generic.tga.ckd/db23598dfef9f91748a07234ec486612.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Cover_1024.png/84d01e84f412955879f7e057313871d9.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/ggp/Bremen_Cover_Online.tga.ckd/db23598dfef9f91748a07234ec486612.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/ggp/Bremen_Cover_AlbumBkg.tga.ckd/4e81ed7ca051db4f83b34760e838c126.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/ggp/Bremen_Cover_AlbumCoach.tga.ckd/a1345a50a9771edcccccd98f09077a71.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Coach_1_Phone.png/9161afc17d9a3d6fde48e43e56280cb7.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Coach_2_Phone.png/de1dc57635395fe0c0781771b4ab0c72.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Coach_3_Phone.png/5d9b4d50100fcfedba06dcdbec1e255f.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Coach_4_Phone.png/f6fecbbd10a799ba092cf8ef58d4aa4b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Cover_Phone.jpg/55ac0456dc3e15db4c751c0f70dbab48.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_VideoPreview.webm/2eaf134089dfb6079df84ab3e1f0d353.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/ggp/Bremen_map_bkg.tga.ckd/bf1a13c4f6e6090182d364978c752e48.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/nx/Bremen_banner_bkg.tga.ckd/e68130df59741de5e6f0c58339dcbdca.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/nx/Bremen_Coach_1.tga.ckd/6e779061eb4499076a30708af6fc6f37.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/nx/Bremen_Coach_2.tga.ckd/9cb63df185a2ce3cb6ac1a72f3464fe3.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/nx/Bremen_Coach_3.tga.ckd/bb2677e826c428cbb1134816aea20bf1.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/nx/Bremen_Coach_4.tga.ckd/252a83106c298c633365d5b99b6def1f.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/nx/Bremen_Cover_Generic.tga.ckd/37e9b5e09d4639cacb2f7bb0ad1a92bc.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Cover_1024.png/84d01e84f412955879f7e057313871d9.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/nx/Bremen_Cover_Online.tga.ckd/f5e41779c4506eb4ede8c34c4faebc15.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/nx/Bremen_Cover_AlbumBkg.tga.ckd/eb46911ff43e652bef71309ef8e48f7a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/nx/Bremen_Cover_AlbumCoach.tga.ckd/37e429818df1a95d0e2a7d4836b1590a.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/nx/Bremen_map_bkg.tga.ckd/7de8425bc7e59c4a0f32f7034ad0319d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Coach_1_Phone.png/9161afc17d9a3d6fde48e43e56280cb7.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Coach_2_Phone.png/de1dc57635395fe0c0781771b4ab0c72.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Coach_3_Phone.png/5d9b4d50100fcfedba06dcdbec1e255f.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Coach_4_Phone.png/f6fecbbd10a799ba092cf8ef58d4aa4b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Cover_Phone.jpg/55ac0456dc3e15db4c751c0f70dbab48.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_VideoPreview.webm/2eaf134089dfb6079df84ab3e1f0d353.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/wiiu/Bremen_banner_bkg.tga.ckd/cad1cd3d09704d97a20e95acc1eef4a8.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/wiiu/Bremen_Coach_1.tga.ckd/c002961dc73ce6ee296995b544d77dfa.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/wiiu/Bremen_Coach_2.tga.ckd/d71900e982673e8b7dcf2c4953739ed5.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/wiiu/Bremen_Coach_3.tga.ckd/45221c2047883fc6044c7b49ae39fcb7.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/wiiu/Bremen_Coach_4.tga.ckd/bd7817ac1d63d448c722e985d3e5fcaf.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/wiiu/Bremen_Cover_Generic.tga.ckd/23c8dbf2866d506598721b08a96cd00f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Cover_1024.png/84d01e84f412955879f7e057313871d9.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/wiiu/Bremen_Cover_Online.tga.ckd/44fb78ab3242eec5b4ad6b049dfff175.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/wiiu/Bremen_Cover_AlbumBkg.tga.ckd/cbe269cf249894cfc1fa9dbe74143ca9.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/wiiu/Bremen_Cover_AlbumCoach.tga.ckd/bb18c1f292e2850c2ebf2acc9f5ace2e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Coach_1_Phone.png/9161afc17d9a3d6fde48e43e56280cb7.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Coach_2_Phone.png/de1dc57635395fe0c0781771b4ab0c72.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Coach_3_Phone.png/5d9b4d50100fcfedba06dcdbec1e255f.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Coach_4_Phone.png/f6fecbbd10a799ba092cf8ef58d4aa4b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_Cover_Phone.jpg/55ac0456dc3e15db4c751c0f70dbab48.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_VideoPreview.webm/2eaf134089dfb6079df84ab3e1f0d353.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21744,43488,65280,87024,108960,130896,152832,174768,196896,218976,241104,263232,284880,306480,328128,349776,371904,394032,416208,438336,460176,482016,503904,525744,547920,570096,592272,614448,636192,657936,679728,701472,723504,745488,767520,789552,811536,833568,855600,877633,899617,921649,943633,965665,987649,1009681,1031713,1053697,1075921,1098097,1120321,1142497,1164769,1187041,1209265,1232641,1255105,1277569,1300033,1322497,1344385,1366273,1388209,1410097,1431841],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-12,\"endBeat\":269,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/bremen/bremen_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "D83805FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 122.985,
+  "mapName": "Bremen",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497768\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bremen/Bremen_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1096\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1485616\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bremen/Bremen_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"608-1098\">\r\n\t\t\t\t\t<Initialization range=\"0-608\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2852624\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bremen/Bremen_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"608-1098\">\r\n\t\t\t\t\t<Initialization range=\"0-608\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3387879\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bremen/Bremen_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"608-1098\">\r\n\t\t\t\t\t<Initialization range=\"0-608\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "Bremen_mapContent"
+  },
+  "parentMapName": "Bremen",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "0D958AFF",
+    "songColor_1B": "003D57FF",
+    "songColor_2A": "FFDB6EFF",
+    "songColor_2B": "2F0028FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "There Is Nothing Better In The World (Ничего на свете лучше нету)",
+  "urls": {
+    "jmcs://jd-contents/Bremen/Bremen_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_AudioPreview.ogg/98ad4a407a5ef6b3dfed3061cc6c4441.ogg",
+    "jmcs://jd-contents/Bremen/Bremen_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_MapPreviewNoSoundCrop_HIGH.vp8.webm/e57709077fdb8ac45d1fc4f595e7e284.webm",
+    "jmcs://jd-contents/Bremen/Bremen_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_MapPreviewNoSoundCrop_HIGH.vp9.webm/77201248a74b75da2d4c5fe397178c09.webm",
+    "jmcs://jd-contents/Bremen/Bremen_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_MapPreviewNoSoundCrop_LOW.vp8.webm/35874bfe0a3ade3532dc6b053379b294.webm",
+    "jmcs://jd-contents/Bremen/Bremen_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_MapPreviewNoSoundCrop_LOW.vp9.webm/b914a2da024a1532d72ad64d838b62e1.webm",
+    "jmcs://jd-contents/Bremen/Bremen_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_MapPreviewNoSoundCrop_MID.vp8.webm/6cb95a660f8995e28848ad04ea3fda97.webm",
+    "jmcs://jd-contents/Bremen/Bremen_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_MapPreviewNoSoundCrop_MID.vp9.webm/41e9925fa572c1635bac730da742cb2a.webm",
+    "jmcs://jd-contents/Bremen/Bremen_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_MapPreviewNoSoundCrop_ULTRA.vp8.webm/1d593816c142c57a9102a05367b6c07b.webm",
+    "jmcs://jd-contents/Bremen/Bremen_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Bremen/Bremen_MapPreviewNoSoundCrop_ULTRA.vp9.webm/c0dbb9dd809edbfb5144540a3a298cf6.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "2c02ddcb949432e80af02e353500de17",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Bremen/ps4/Bremen_MAIN_SCENE_ORBIS.zip/2c02ddcb949432e80af02e353500de17.zip",
+      "version": 23
+    },
+    "pc": {
+      "md5": "036c2c50f3548efbd731920fc9369d0a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Bremen/pc/Bremen_MAIN_SCENE_PC.zip/036c2c50f3548efbd731920fc9369d0a.zip",
+      "version": 14
+    },
+    "wiiu": {
+      "md5": "774ed218c56d98d8e27faaa50b885a02",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Bremen/wiiu/Bremen_MAIN_SCENE_WIIU.zip/774ed218c56d98d8e27faaa50b885a02.zip",
+      "version": 23
+    },
+    "nx": {
+      "md5": "90c5a77b6673336613980fe8e08ffed3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Bremen/nx/Bremen_MAIN_SCENE_NX.zip/90c5a77b6673336613980fe8e08ffed3.zip",
+      "version": 23
+    }
+  },
+  "mapType": "jdu"
+}

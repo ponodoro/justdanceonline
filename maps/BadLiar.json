@@ -1,0 +1,123 @@
+{
+  "artist": "Selena Gomez",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/ps4/BadLiar_banner_bkg.tga.ckd/4d972c80e10342eee4190e1833340e26.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/ps4/BadLiar_Coach_1.tga.ckd/70f10cdf111e9c96166aa86190d0d90d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/ps4/BadLiar_Cover_Generic.tga.ckd/6fd36991eab99741dc730a29d1724df3.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_Cover_1024.png/f0d5a13995a339240a1ef04948390147.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/ps4/BadLiar_Cover_Online.tga.ckd/db5e1cb3a54582b9d9dddf7a1632c091.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/ps4/BadLiar_Cover_AlbumBkg.tga.ckd/b713a88068fc841815b5ed9ce36d6ebe.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/ps4/BadLiar_Cover_AlbumCoach.tga.ckd/ce39e66a6c8bc6abc387a4617686a93f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_Coach_1_Phone.png/0d30c243adb27ca78befe77347114c34.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_Cover_Phone.jpg/fcefef00d6ca6a72dcc74c5e58fd735e.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_VideoPreview.webm/2804749f6b46810219f03c41f0d7cf56.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/ps4/BadLiar_map_bkg.tga.ckd/e7e371122ad49f0b4aed500c72e859a3.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/nx/BadLiar_banner_bkg.tga.ckd/4fa4222b259c09c5cab73d589f00c622.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/nx/BadLiar_Coach_1.tga.ckd/c9600f2ffa572b13e5e61b55b32e6c26.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/nx/BadLiar_Cover_Generic.tga.ckd/19634fc4bfb7f1d5c9418e52998b2519.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_Cover_1024.png/f0d5a13995a339240a1ef04948390147.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/nx/BadLiar_Cover_Online.tga.ckd/1bd222eef056fd139ce06f7a76f5c170.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/nx/BadLiar_Cover_AlbumBkg.tga.ckd/fcb48b5ba699e08841e15e063fa0af2c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/nx/BadLiar_Cover_AlbumCoach.tga.ckd/0835cc39d34364020d2ec9d8f4196018.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_Coach_1_Phone.png/0d30c243adb27ca78befe77347114c34.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_Cover_Phone.jpg/fcefef00d6ca6a72dcc74c5e58fd735e.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_VideoPreview.webm/2804749f6b46810219f03c41f0d7cf56.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/nx/BadLiar_map_bkg.tga.ckd/01c1009600368976eca8fc2aeaa5af41.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/wiiu/BadLiar_banner_bkg.tga.ckd/dce96bab80aa46b3e8263ea7ad5e763a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/wiiu/BadLiar_Coach_1.tga.ckd/e2df989f0fd1d68772651096eac23929.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/wiiu/BadLiar_Cover_Generic.tga.ckd/1d4a14a53a6b4ac77ae5a5bbe3b1bedf.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_Cover_1024.png/f0d5a13995a339240a1ef04948390147.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/wiiu/BadLiar_Cover_Online.tga.ckd/8eb815cd09ffad741c0d2523cf98e44b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/wiiu/BadLiar_Cover_AlbumBkg.tga.ckd/38644a421a4e3c789843b4d44deef3b8.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/wiiu/BadLiar_Cover_AlbumCoach.tga.ckd/097199c9ec50b83e5ef9a9cca46c4282.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_Coach_1_Phone.png/0d30c243adb27ca78befe77347114c34.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_Cover_Phone.jpg/fcefef00d6ca6a72dcc74c5e58fd735e.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_VideoPreview.webm/2804749f6b46810219f03c41f0d7cf56.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23808,47616,71424,95232,119040,142848,166608,190416,214224,238032,261840,285648,309456,333216,357024,380832,404640,428448,452256,476064,499872,523632,547440,571248,595056,618864,642672,666480,690240,714048,737856,761664,785472,809280,833088,856896,880656,904464,928272,952080,975888,999696,1023504,1047312,1071072,1094880,1118688,1142496,1166304,1190112,1213920,1237680,1261488,1285296,1309104,1332912,1356720,1380528,1404336,1428096],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":434,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":60,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/badliar/badliar_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Julia Michaels, Ian Kirkpatrick, David Byrne, Selena Gomez, Tina Weymouth, Justin Tranter and Christopher Frantz. Published by WB Music Corp. (ASCAP), Index Music, Inc. (ASCAP), Warner-Tamerlane Publishing Corp. (BMI), Justin's School For Girls (BMI), Thanks For The Songs Richard (BMI) and Buckley Tenenbaum Publishing (BMI). All Rights on behalf of Itself and Index Music, Inc. administered by WB Music Corp. All Rights on behalf of Itself, Justin's School For Girls, Thanks For The Songs Richard and Buckley Tenenbaum Publishing administered by Warner-Tamerlane Publishing Corp. / Universal Music Corp. on behalf of Itself and SMG Tunes. Courtesy of Interscope Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F151D8FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 217.695,
+  "mapName": "BadLiar",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496599\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadLiar/BadLiar_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1449653\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadLiar/BadLiar_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1111\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2591108\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadLiar/BadLiar_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1111\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2920451\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadLiar/BadLiar_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1111\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "BadLiar_mapContent"
+  },
+  "parentMapName": "BadLiar",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "93D9F9FF",
+    "songColor_1B": "0294C9FF",
+    "songColor_2A": "455256FF",
+    "songColor_2B": "071E1EFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2018"
+  ],
+  "title": "Bad Liar",
+  "urls": {
+    "jmcs://jd-contents/BadLiar/BadLiar_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_AudioPreview.ogg/e6f9ecff4749c84181023e7d1930bdf9.ogg",
+    "jmcs://jd-contents/BadLiar/BadLiar_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_MapPreviewNoSoundCrop_HIGH.vp8.webm/1b1515544e143ee9fd23b06d2df8aced.webm",
+    "jmcs://jd-contents/BadLiar/BadLiar_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_MapPreviewNoSoundCrop_HIGH.vp9.webm/b7448d108be67883aa2dc1c4b2a22009.webm",
+    "jmcs://jd-contents/BadLiar/BadLiar_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_MapPreviewNoSoundCrop_LOW.vp8.webm/a3b97617501eb2e1926b954a97b1aa1b.webm",
+    "jmcs://jd-contents/BadLiar/BadLiar_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_MapPreviewNoSoundCrop_LOW.vp9.webm/5ef0456790b88611091fa87a4fe0be05.webm",
+    "jmcs://jd-contents/BadLiar/BadLiar_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_MapPreviewNoSoundCrop_MID.vp8.webm/79b722090c5dc9195f6a1d5cf7f0c2a5.webm",
+    "jmcs://jd-contents/BadLiar/BadLiar_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_MapPreviewNoSoundCrop_MID.vp9.webm/cea44e9b29debcb9025e592b1b4359de.webm",
+    "jmcs://jd-contents/BadLiar/BadLiar_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_MapPreviewNoSoundCrop_ULTRA.vp8.webm/384dc448914ba770d0206d13f1e999c6.webm",
+    "jmcs://jd-contents/BadLiar/BadLiar_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BadLiar/BadLiar_MapPreviewNoSoundCrop_ULTRA.vp9.webm/183e8171f2072c073370b613754aec02.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "d2a0387474929dc0fd34e4f011cf651e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BadLiar/ps4/BadLiar_MAIN_SCENE_ORBIS.zip/d2a0387474929dc0fd34e4f011cf651e.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "9760c7c46d22323900e3974da4d907bf",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BadLiar/nx/BadLiar_MAIN_SCENE_NX.zip/9760c7c46d22323900e3974da4d907bf.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "74bb80b8272ba85d7af062bd3ff42efa",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/BadLiar/pc/74bb80b8272ba85d7af062bd3ff42efa.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "ea36a2ab99485024a0626b55b1beb364",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BadLiar/wiiu/BadLiar_MAIN_SCENE_WIIU.zip/ea36a2ab99485024a0626b55b1beb364.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,117 @@
+{
+  "artist": "Disney's Frozen",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_banner_bkg.jpg/4f63574606feddbddf9dc7aa636e53ce.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Coach_1.png/7c4c3d43e75dc730b7e3df0b0cf452b0.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Coach_2.png/8c2a460896cd4c82ea106dff14bfce35.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Cover_Generic.jpg/49b7b9ce7c9ad5433682cd607d654de3.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Cover_1024.png/b2d4a9cecbaa1a46f7f958230c04d365.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Cover_Online.jpg/487f767d2927bb1f8136472165fc1765.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Cover_AlbumBkg.jpg/cd2e695f1542ee44627ce0d567dfcbff.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Cover_AlbumCoach.png/6459713e663a69f661a482ffb5844e30.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Coach_1_Phone.png/2a5cbbf77f4afd1ad07c0bc3327fb4ff.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Coach_2_Phone.png/4373944d5e30aa016a0a44773c4d0b51.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Cover_Phone.jpg/487f767d2927bb1f8136472165fc1765.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_banner_bkg.jpg/4f63574606feddbddf9dc7aa636e53ce.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Coach_1.png/7c4c3d43e75dc730b7e3df0b0cf452b0.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Coach_2.png/8c2a460896cd4c82ea106dff14bfce35.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Cover_Generic.jpg/49b7b9ce7c9ad5433682cd607d654de3.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Cover_1024.png/b2d4a9cecbaa1a46f7f958230c04d365.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Cover_Online.jpg/487f767d2927bb1f8136472165fc1765.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Cover_AlbumBkg.jpg/cd2e695f1542ee44627ce0d567dfcbff.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Cover_AlbumCoach.png/6459713e663a69f661a482ffb5844e30.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Coach_1_Phone.png/2a5cbbf77f4afd1ad07c0bc3327fb4ff.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Coach_2_Phone.png/4373944d5e30aa016a0a44773c4d0b51.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Cover_Phone.jpg/487f767d2927bb1f8136472165fc1765.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/wiiu/LetItGo_banner_bkg.tga.ckd/6f8fb0096b1106ba3584e36be6e7d33b.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/wiiu/LetItGo_Coach_1.tga.ckd/44fa54188f1c82ea2d3a07d55bbc7c4f.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/wiiu/LetItGo_Coach_2.tga.ckd/eb1e8a5b61536ab86fd9293f355b91f8.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/wiiu/LetItGo_Cover_Generic.tga.ckd/0f7cc6b8e2bdb15a867adf080535b167.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Cover_1024.png/b2d4a9cecbaa1a46f7f958230c04d365.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/wiiu/LetItGo_Cover_Online.tga.ckd/ca1c6c84ed22df95a9851a5781f78026.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/wiiu/LetItGo_Cover_AlbumBkg.tga.ckd/936c0bf89c4e4c772ca0cebac4a84a98.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/wiiu/LetItGo_Cover_AlbumCoach.tga.ckd/3c6098cf05afc5a677a1cb75b86f097c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Coach_1_Phone.png/2a5cbbf77f4afd1ad07c0bc3327fb4ff.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Coach_2_Phone.png/4373944d5e30aa016a0a44773c4d0b51.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_Cover_Phone.jpg/487f767d2927bb1f8136472165fc1765.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,42048,84096,126144,168192,210192,252240,294288,336336,378384,420432,462480,504528,546576,588624,630672,672720,714720,756768,798816,840864,882912,924960,967008,1009056,1051104,1093152,1135200,1177200,1219248,1261296,1303344,1345392,1387440,1429488],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2},{\"__class\":\"MusicSignature\",\"marker\":1,\"beats\":4}],\"startBeat\":-3,\"endBeat\":253,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":34,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/letitgo/letitgo_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F2B668FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 224.23399999999998,
+  "mapName": "LetItGo",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497343\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LetItGo/LetItGo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1466022\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LetItGo/LetItGo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2284965\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LetItGo/LetItGo_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2307972\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LetItGo/LetItGo_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "LetItGo_mapContent"
+  },
+  "parentMapName": "LetItGo",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "184BD0FF",
+    "songColor_1B": "030039FF",
+    "songColor_2A": "C1E0F2FF",
+    "songColor_2B": "2862B0FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Let It Go",
+  "urls": {
+    "jmcs://jd-contents/LetItGo/LetItGo_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_AudioPreview.ogg/b523f2f363e2d1d7d25645488bf14ffd.ogg",
+    "jmcs://jd-contents/LetItGo/LetItGo_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_MapPreviewNoSoundCrop_HIGH.vp8.webm/60f22e2b1b982dc5b48cad948e0dc16f.webm",
+    "jmcs://jd-contents/LetItGo/LetItGo_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_MapPreviewNoSoundCrop_HIGH.vp9.webm/f9bd43622441883dc81a53f67dc48145.webm",
+    "jmcs://jd-contents/LetItGo/LetItGo_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_MapPreviewNoSoundCrop_LOW.vp8.webm/fcb1b19e0e4378a97f0ca8a9cf25acf4.webm",
+    "jmcs://jd-contents/LetItGo/LetItGo_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_MapPreviewNoSoundCrop_LOW.vp9.webm/c049ea1a046aa59842c6427a683fc6f3.webm",
+    "jmcs://jd-contents/LetItGo/LetItGo_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_MapPreviewNoSoundCrop_MID.vp8.webm/a76537d07e1e17816f3eecc06f6ef24d.webm",
+    "jmcs://jd-contents/LetItGo/LetItGo_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_MapPreviewNoSoundCrop_MID.vp9.webm/7af9245dfbc0ab4c795302d49c28988e.webm",
+    "jmcs://jd-contents/LetItGo/LetItGo_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_MapPreviewNoSoundCrop_ULTRA.vp8.webm/40e59d1570462dda4ae91a6fe100bdf1.webm",
+    "jmcs://jd-contents/LetItGo/LetItGo_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/LetItGo/LetItGo_MapPreviewNoSoundCrop_ULTRA.vp9.webm/022f851f81670f07944c41bb403f7e78.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "181f63cd4d653c69fd88c96775cd89c8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LetItGo/ps4/LetItGo_MAIN_SCENE_ORBIS.zip/181f63cd4d653c69fd88c96775cd89c8.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "a1cbb2604dee74458fd8fdfff28da704",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LetItGo/pc/LetItGo_MAIN_SCENE_PC.zip/a1cbb2604dee74458fd8fdfff28da704.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "ed613eed675fa769e489d4276c352653",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LetItGo/wiiu/LetItGo_MAIN_SCENE_WIIU.zip/ed613eed675fa769e489d4276c352653.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "bbba562fdad90bde78fb30d1cca5cb0c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LetItGo/nx/LetItGo_MAIN_SCENE_NX.zip/bbba562fdad90bde78fb30d1cca5cb0c.zip",
+      "version": 7
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,115 @@
+{
+  "artist": "Shakira Ft. El Cata",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_banner_bkg.jpg/bb09e4951ad358992b67c220471330cd.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Coach_1.png/fb20fbbce6abfd636562fde27eaa1ad0.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Cover_Generic.jpg/38ba485a8d70a8d613f0c6bc15f9c444.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Cover_1024.png/d896459bb8e124cd12d37d989a217b1d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Cover_Online.jpg/6876d74839598b71ae2cc1928e9fade4.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Cover_AlbumBkg.jpg/79a61e2e311310eca0861e697b8d356f.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Cover_AlbumCoach.png/b526663fef929b183350bd2f5c2d7d5f.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Coach_1_Phone.png/4dc6bd90474b1937f79515b45ebd43da.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Cover_Phone.jpg/6876d74839598b71ae2cc1928e9fade4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_VideoPreview.webm/ad6011560e8162096e5233783a193360.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_banner_bkg.jpg/bb09e4951ad358992b67c220471330cd.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Coach_1.png/fb20fbbce6abfd636562fde27eaa1ad0.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Cover_Generic.jpg/38ba485a8d70a8d613f0c6bc15f9c444.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Cover_1024.png/d896459bb8e124cd12d37d989a217b1d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Cover_Online.jpg/6876d74839598b71ae2cc1928e9fade4.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Cover_AlbumBkg.jpg/79a61e2e311310eca0861e697b8d356f.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Cover_AlbumCoach.png/b526663fef929b183350bd2f5c2d7d5f.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Coach_1_Phone.png/4dc6bd90474b1937f79515b45ebd43da.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Cover_Phone.jpg/6876d74839598b71ae2cc1928e9fade4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_VideoPreview.webm/ad6011560e8162096e5233783a193360.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/wiiu/RabiosaALT_banner_bkg.tga.ckd/dac01fdc653033d371d0978452d48fa9.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/wiiu/RabiosaALT_Coach_1.tga.ckd/f3bb197dc2d4538b0560fcc190a4cd30.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/wiiu/RabiosaALT_Cover_Generic.tga.ckd/f28b8016123498fd8b5c1fd3134c0333.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Cover_1024.png/d896459bb8e124cd12d37d989a217b1d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/wiiu/RabiosaALT_Cover_Online.tga.ckd/8b10205ec3b8e887667f7b094ec1e93a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/wiiu/RabiosaALT_Cover_AlbumBkg.tga.ckd/ff4975cca9fb5d4fb1c2efff8812a6aa.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/wiiu/RabiosaALT_Cover_AlbumCoach.tga.ckd/7d53a01f32a8c9a9547a432480a46e24.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Coach_1_Phone.png/4dc6bd90474b1937f79515b45ebd43da.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_Cover_Phone.jpg/6876d74839598b71ae2cc1928e9fade4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_VideoPreview.webm/ad6011560e8162096e5233783a193360.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21648,43296,64944,86592,108240,129888,151584,173232,194880,216528,238176,259824,281472,303168,324816,346464,368112,389760,411407,433055,454703,476399,498047,519695,541343,562991,584639,606287,627935,649631,671279,692927,714575,736223,757871,779519,801167,822863,844511,866159,887807,909455,931103,952750,974398,996094,1017742,1039390,1061038,1082686,1104334,1125982,1147630,1169326,1190974,1212622,1234270,1255918,1277566,1299214,1320910,1342558,1364206,1385854,1407502,1429150],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-1,\"endBeat\":380,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":66,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/rabiosaalt/rabiosaalt_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "01F2B5FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 171.87699999999998,
+  "mapName": "RabiosaALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497758\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1108892\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1113656\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1114316\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "RabiosaALT_mapContent"
+  },
+  "parentMapName": "RabiosaALT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FFAC00FF",
+    "songColor_1B": "B64400FF",
+    "songColor_2A": "FD3838FF",
+    "songColor_2B": "9B0010FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Rabiosa",
+  "urls": {
+    "jmcs://jd-contents/RabiosaALT/RabiosaALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_AudioPreview.ogg/76842d3a1024e8b0c1b4c11228bfc598.ogg",
+    "jmcs://jd-contents/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/862a48094072e43ea68eeebf10c32cb5.webm",
+    "jmcs://jd-contents/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/952bb5728b685d00112ff69bc69ea4b8.webm",
+    "jmcs://jd-contents/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_LOW.vp8.webm/20f9a4997791c99937ccb7e2384daded.webm",
+    "jmcs://jd-contents/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_LOW.vp9.webm/8bb7aa89457f587feebcaae733937057.webm",
+    "jmcs://jd-contents/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_MID.vp8.webm/be4e11972f64dd7214d2c55103776e15.webm",
+    "jmcs://jd-contents/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_MID.vp9.webm/8fc5f527a93dad79bf3acdf5f5c40c4d.webm",
+    "jmcs://jd-contents/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b197cfa58021e1d044ffe0ef353443bf.webm",
+    "jmcs://jd-contents/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/RabiosaALT/RabiosaALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/ae2b12eddb1373cab31d7c1e46826233.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "10f00266b68d7824c0677585055e447a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RabiosaALT/ps4/RabiosaALT_MAIN_SCENE_ORBIS.zip/10f00266b68d7824c0677585055e447a.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "ef1e3eb0ac16e57fed68daa113c9ef60",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RabiosaALT/pc/RabiosaALT_MAIN_SCENE_PC.zip/ef1e3eb0ac16e57fed68daa113c9ef60.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "c658d0e2960f016f25d9bd4741a63055",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RabiosaALT/wiiu/RabiosaALT_MAIN_SCENE_WIIU.zip/c658d0e2960f016f25d9bd4741a63055.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "8e737ea3aadee72018302c741382ee0a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RabiosaALT/nx/RabiosaALT_MAIN_SCENE_NX.zip/8e737ea3aadee72018302c741382ee0a.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12626
+}

@@ -1,0 +1,127 @@
+{
+  "artist": "Lady Gaga Ft. Colby O'Donis",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_banner_bkg.jpg/28cc78e21a2e46f1f108301a65a28c8b.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Coach_1.png/fe901e9e2bd76655704fac9911e066f1.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Coach_2.png/a5e272c4f5f612899b3b9ddc6248ebba.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Coach_3.png/6322ada99f88976340c08fb6b556d998.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Cover_Generic.jpg/e4bf66fdc9f71ce5bb0d104d02af25bc.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Cover_1024.png/31989bc738cb5adae648ddda3313c43d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Cover_Online.jpg/fcaa8b4020680c6cb118324f6176fd5f.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Cover_AlbumBkg.jpg/7ba70b7013aa8b3f13283417a247ee74.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Cover_AlbumCoach.png/4256a0d08bc627780ba52dc1d4bc8f84.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Coach_1_Phone.png/91b309d5daebba3a70ef145d3aee8446.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Coach_2_Phone.png/53ea0c4c70b851159c26174a55848e14.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Coach_3_Phone.png/bd40a17c9651bd64a0feb84cb66ab575.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Cover_Phone.jpg/fcaa8b4020680c6cb118324f6176fd5f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_VideoPreview.webm/0cd652efe012ebabfe5346079fa57249.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_banner_bkg.jpg/28cc78e21a2e46f1f108301a65a28c8b.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Coach_1.png/fe901e9e2bd76655704fac9911e066f1.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Coach_2.png/a5e272c4f5f612899b3b9ddc6248ebba.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Coach_3.png/6322ada99f88976340c08fb6b556d998.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Cover_Generic.jpg/e4bf66fdc9f71ce5bb0d104d02af25bc.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Cover_1024.png/31989bc738cb5adae648ddda3313c43d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Cover_Online.jpg/fcaa8b4020680c6cb118324f6176fd5f.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Cover_AlbumBkg.jpg/7ba70b7013aa8b3f13283417a247ee74.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Cover_AlbumCoach.png/4256a0d08bc627780ba52dc1d4bc8f84.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Coach_1_Phone.png/91b309d5daebba3a70ef145d3aee8446.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Coach_2_Phone.png/53ea0c4c70b851159c26174a55848e14.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Coach_3_Phone.png/bd40a17c9651bd64a0feb84cb66ab575.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Cover_Phone.jpg/fcaa8b4020680c6cb118324f6176fd5f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_VideoPreview.webm/0cd652efe012ebabfe5346079fa57249.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/wiiu/JustDanceOSC_banner_bkg.tga.ckd/89b26dd3ceaa62aad118974def999e7f.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/wiiu/JustDanceOSC_Coach_1.tga.ckd/990df34f1a3469b0bc9b18385641c18b.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/wiiu/JustDanceOSC_Coach_2.tga.ckd/acd9a8cfd5b1bdd4d3b75fc0e66a617c.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/wiiu/JustDanceOSC_Coach_3.tga.ckd/54342dbf69cd28f37460a31b4a7cb522.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/wiiu/JustDanceOSC_Cover_Generic.tga.ckd/9ad4bd601390b5f58ac49adb99b2baec.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Cover_1024.png/31989bc738cb5adae648ddda3313c43d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/wiiu/JustDanceOSC_Cover_Online.tga.ckd/6303250af14f190fdc3e67352f08b34a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/wiiu/JustDanceOSC_Cover_AlbumBkg.tga.ckd/121c273ba29510ad4d795d358662bc0c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/wiiu/JustDanceOSC_Cover_AlbumCoach.tga.ckd/0b8f0f8192eb72999a1339086c5959e0.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Coach_1_Phone.png/91b309d5daebba3a70ef145d3aee8446.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Coach_2_Phone.png/53ea0c4c70b851159c26174a55848e14.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Coach_3_Phone.png/bd40a17c9651bd64a0feb84cb66ab575.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_Cover_Phone.jpg/fcaa8b4020680c6cb118324f6176fd5f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_VideoPreview.webm/0cd652efe012ebabfe5346079fa57249.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24192,48384,72624,96816,121008,145200,169392,193632,217824,242016,266208,290400,314640,338832,363024,387216,411408,435648,459840,484032,508224,532416,556656,580848,605040,629232,653424,677664,701856,726048,750240,774432,798672,822864,847056,871248,895440,919680,943872,968064,992256,1016448,1040687,1064879,1089071,1113263,1137455,1161695,1185887,1210079,1234271,1258463,1282703,1306895,1331087,1355279,1379471,1403711,1427903],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":484,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":-2,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/justdanceosc/justdanceosc_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F2BF27FF",
+  "lyricsType": 2,
+  "mainCoach": -1,
+  "mapLength": 248.06799999999998,
+  "mapName": "JustDanceOSC",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495493\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1474205\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2514541\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2529180\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "JustDanceOSC_mapContent"
+  },
+  "parentMapName": "JustDanceOSC",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "A80000FF",
+    "songColor_1B": "53000CFF",
+    "songColor_2A": "FFB400FF",
+    "songColor_2B": "420015FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Just Dance",
+  "urls": {
+    "jmcs://jd-contents/JustDanceOSC/JustDanceOSC_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_AudioPreview.ogg/03a27ac082c14263a8e7e41da00c53b5.ogg",
+    "jmcs://jd-contents/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_HIGH.vp8.webm/8d3c88ccae43fa12e3da7bdb361e8fd9.webm",
+    "jmcs://jd-contents/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_HIGH.vp9.webm/1af2f7c89e22a48900ebe9f52d9a1b07.webm",
+    "jmcs://jd-contents/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_LOW.vp8.webm/4d0eba6a567065fdc5ca48bb9eb4b43f.webm",
+    "jmcs://jd-contents/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_LOW.vp9.webm/4c78c9c84c7f2b345e40c22e38265b6b.webm",
+    "jmcs://jd-contents/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_MID.vp8.webm/70989ebf8f0067e0864934937c7a63e7.webm",
+    "jmcs://jd-contents/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_MID.vp9.webm/0a4cc69649e285db2cc2dec48281756b.webm",
+    "jmcs://jd-contents/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_ULTRA.vp8.webm/e516b7b8d7200a96f587eed6e3c178f0.webm",
+    "jmcs://jd-contents/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/JustDanceOSC_MapPreviewNoSoundCrop_ULTRA.vp9.webm/4c8a14ced4dfead2498e9f762bc8f5e6.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "ae53b7fefc9a84d0996cf550ea78b556",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/ps4/JustDanceOSC_MAIN_SCENE_ORBIS.zip/ae53b7fefc9a84d0996cf550ea78b556.zip",
+      "version": 28
+    },
+    "pc": {
+      "md5": "3e96366ec304dd27f59bd98bbc2913e1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/pc/JustDanceOSC_MAIN_SCENE_PC.zip/3e96366ec304dd27f59bd98bbc2913e1.zip",
+      "version": 16
+    },
+    "wiiu": {
+      "md5": "5b74ce81b5a9b1029b414b85729f5e16",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/wiiu/JustDanceOSC_MAIN_SCENE_WIIU.zip/5b74ce81b5a9b1029b414b85729f5e16.zip",
+      "version": 28
+    },
+    "nx": {
+      "md5": "68e83c88304b8302c3f5b96af84cb0e3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JustDanceOSC/nx/JustDanceOSC_MAIN_SCENE_NX.zip/68e83c88304b8302c3f5b96af84cb0e3.zip",
+      "version": 7
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 15490
+}

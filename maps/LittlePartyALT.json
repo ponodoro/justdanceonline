@@ -1,0 +1,132 @@
+{
+  "artist": "Fergie Ft. Q-Tip, GoonRock",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/ps4/LittlePartyALT_banner_bkg.tga.ckd/432dddd923fcf5a899227a2b563e7658.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/ps4/LittlePartyALT_Coach_1.tga.ckd/cda139d1200f3c286aaf4ebc3e0c8a1c.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/ps4/LittlePartyALT_Coach_2.tga.ckd/060a98e2da91bc0e28d87f5e1807b487.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/ps4/LittlePartyALT_Coach_3.tga.ckd/0f4510117b7e3e334b3f3f15ae6e5935.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/ps4/LittlePartyALT_Cover_Generic.tga.ckd/e3cd11f719ba71e7140950e6dcc03fc2.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Cover_1024.png/9428ef54051decd02241598d9cd11a5b.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/ps4/LittlePartyALT_Cover_Online.tga.ckd/8dc38d4a69e00d57f3c792c06550b01a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/ps4/LittlePartyALT_Cover_AlbumBkg.tga.ckd/0d03e6ddb85700bc051164fccc049aab.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/ps4/LittlePartyALT_Cover_AlbumCoach.tga.ckd/566b21e48e793e0bfdb99d48e234227b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Coach_1_Phone.png/40ed64efba8b2551855b9a360ba2c791.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Coach_2_Phone.png/8eda4474860130b4735b9b7efa048db0.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Coach_3_Phone.png/ef35edfd5ccfb620e067e8f1a155f2c9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Cover_Phone.jpg/256f6ecb3e62476a2d98f071be440c15.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/ps4/LittlePartyALT_map_bkg.tga.ckd/7969d0a362dd9211bc04741b928b5553.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/nx/LittlePartyALT_banner_bkg.tga.ckd/f796dffec854ba31a7be3ebb7b9a2eeb.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/nx/LittlePartyALT_Coach_1.tga.ckd/5d6b0387d6648f77fac587b5989375c5.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/nx/LittlePartyALT_Coach_2.tga.ckd/68fe58766248f4f02aae51f7db93a88b.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/nx/LittlePartyALT_Coach_3.tga.ckd/65a01d3196f5df205c64f11d6baf1eac.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/nx/LittlePartyALT_Cover_Generic.tga.ckd/962627732274425692b3cdb7cb00fb1e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Cover_1024.png/9428ef54051decd02241598d9cd11a5b.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/nx/LittlePartyALT_Cover_Online.tga.ckd/8404a4266dd3b65cbbb7fb3a9d562b0f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/nx/LittlePartyALT_Cover_AlbumBkg.tga.ckd/f7999997b8c9070dec8d62cc9ea2c640.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/nx/LittlePartyALT_Cover_AlbumCoach.tga.ckd/1010ff35dbfae7c1c55f148e8ddf4e5e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Coach_1_Phone.png/40ed64efba8b2551855b9a360ba2c791.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Coach_2_Phone.png/8eda4474860130b4735b9b7efa048db0.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Coach_3_Phone.png/ef35edfd5ccfb620e067e8f1a155f2c9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Cover_Phone.jpg/256f6ecb3e62476a2d98f071be440c15.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/nx/LittlePartyALT_map_bkg.tga.ckd/7d47d5d1cfdcc77a99881f420b48fe65.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_banner_bkg.jpg/bf1c2def4f24767b458ee78a523b47b0.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Coach_1.png/7e95ddb770f5ad8327980f221290e9b8.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Coach_2.png/e8f4eca02c3c45e4673063c1936af539.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Coach_3.png/bb16fd2354f800c11858b79b62f2a419.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Cover_Generic.jpg/d4c78a9a61a84e04ee0a8d9e370702e2.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Cover_1024.png/9428ef54051decd02241598d9cd11a5b.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Cover_Online.jpg/256f6ecb3e62476a2d98f071be440c15.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Cover_AlbumBkg.jpg/176bfa6fb2059de34b0525253469142d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Cover_AlbumCoach.png/5553c52cbed593e92b19d0e6765c01b6.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Coach_1_Phone.png/40ed64efba8b2551855b9a360ba2c791.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Coach_2_Phone.png/8eda4474860130b4735b9b7efa048db0.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Coach_3_Phone.png/ef35edfd5ccfb620e067e8f1a155f2c9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_Cover_Phone.jpg/256f6ecb3e62476a2d98f071be440c15.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22176,44304,66480,88656,110784,132960,155088,177264,199392,221568,243696,265872,288000,310176,332304,354480,376656,398784,420960,443088,465264,487392,509568,531696,553872,576000,598176,620304,642480,664656,686785,708961,731089,753265,775393,797569,819697,841873,864001,886177,908305,930481,952657,974785,996961,1019089,1041265,1063393,1085569,1107697,1129873,1152001,1174177,1196305,1218481,1240657,1262785,1284961,1307089,1329265,1351393,1373569,1395697,1417873],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":463,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/littlepartyalt/littlepartyalt_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Kamaal Fareed, Stacy Ferguson, David Jamahl Listenbee, Andrea Martin, Maureen McDonald, Jordan Orvosh, Francesca Richard and Andre Smith. Published by Kobalt Music Services America Inc (KMSA) obo U Betta Like My Muzic [ASCAP] / KMR Music Royalties II SCSp / Kobalt Music Services Ltd (KMS) obo Verses Of Style Publishing. / BMG Gold Songs on behalf of itself and Headphone Junkie Publishing LLC. All rights administered by BMG Rights Management (US) LLC. / Dre Kroon music / God’s Cryin’ Publishing (ASCAP) c/o Sony/ATV Music Publishing Canada (SOCAN) and Mo Zella Mo Music (ASCAP) c/o EMI April Music (Canada) Ltd. (SOCAN) / Goonrockmusic (ASCAP). All rights reserved. Used with permission. Courtesy of Interscope Records under license from Universal Music Enterprises. Q-Tip appears courtesy of Def Jam Recordings. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F87700FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 215.492,
+  "mapName": "LittlePartyALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496930\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482357\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2918866\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3592326\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "LittlePartyALT_mapContent"
+  },
+  "parentMapName": "LittleParty",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "020002FF",
+    "songColor_1B": "011E2DFF",
+    "songColor_2A": "C6872FFF",
+    "songColor_2B": "4C3900FF"
+  },
+  "status": 9,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Alternate",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "A Little Party Never Killed Nobody (All We Got)",
+  "urls": {
+    "jmcs://jd-contents/LittlePartyALT/LittlePartyALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_AudioPreview.ogg/b3242247364eb7416a301e740e3f7fa7.ogg",
+    "jmcs://jd-contents/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/b7f925d7adcb91f6678a41b5d4bf8181.webm",
+    "jmcs://jd-contents/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/13b198d0c086bb7335fbf32c4be17943.webm",
+    "jmcs://jd-contents/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_LOW.vp8.webm/7613c10686d3d6df9378d8dbe631c0f4.webm",
+    "jmcs://jd-contents/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_LOW.vp9.webm/714754637110452cf838beeb2950f50a.webm",
+    "jmcs://jd-contents/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_MID.vp8.webm/17e0cbd7112acbdea76512bf54ce8407.webm",
+    "jmcs://jd-contents/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_MID.vp9.webm/b409d7716ab23e52e3eb241b3810a503.webm",
+    "jmcs://jd-contents/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b46aff41655c72d48f8d320c0a62584b.webm",
+    "jmcs://jd-contents/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/LittlePartyALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/8741294f56ac76d37d568552c919772f.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "0d4c9211a9bdd45ec26340c2c9954a7c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/ps4/LittlePartyALT_MAIN_SCENE_ORBIS.zip/0d4c9211a9bdd45ec26340c2c9954a7c.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "c0387b9f163eb140e1548b798e73176a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LittlePartyALT/nx/LittlePartyALT_MAIN_SCENE_NX.zip/c0387b9f163eb140e1548b798e73176a.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "c8c3c7a06927238ba616d0d373e786f7",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/littlepartyalt_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 15159
+}

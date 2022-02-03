@@ -1,0 +1,128 @@
+{
+  "artist": "Galantis",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/ggp/Peanut_banner_bkg.tga.ckd/c1d625527734d833a4821bd517f17d7d.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/ggp/Peanut_Coach_1.tga.ckd/5130bbca1c0af9eeddbdd25689639d8f.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/ggp/Peanut_Coach_2.tga.ckd/7ccb93cfca48163a6df52f036c2cf78d.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/ggp/Peanut_Coach_3.tga.ckd/ab4b466a01822a727b3945c6271e2bcc.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/ggp/Peanut_Cover_Generic.tga.ckd/9ef123836d715370f846656135b5b894.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_Cover_1024.png/e26595a05172b6a8b0736fc389d0f585.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/ggp/Peanut_Cover_Online.tga.ckd/19e6a0f38ca54967c3b1a6e39a604ae2.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/ggp/Peanut_Cover_AlbumBkg.tga.ckd/7abccbdfecc0dbe33f92af314bab1de7.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/ggp/Peanut_Cover_AlbumCoach.tga.ckd/96ef59810e097c11052cdecaeef82135.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_Coach_1_Phone.png/35b9ad46c92ab19f09da87f3b62a4fdb.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_Coach_2_Phone.png/97358e6756434fcfb320d8bd787d6821.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_Coach_3_Phone.png/a009f25ce625cd27868f8cf667792af2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_Cover_Phone.jpg/1c3ff6ef3367ab57e1e859895ba8f9b1.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_VideoPreview.webm/6240c4176a8049b1f60c06b32af36f36.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/ggp/Peanut_map_bkg.tga.ckd/42e8a16816d88fe266b72a02b2d17d6a.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/nx/Peanut_banner_bkg.tga.ckd/21de83dc03e6283ad056c01cc3085a62.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/nx/Peanut_Coach_1.tga.ckd/4918e2c1eb73fd99de7cc32577e3b04a.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/nx/Peanut_Coach_2.tga.ckd/47b044f5b9a18091354af0836ca108ff.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/nx/Peanut_Coach_3.tga.ckd/d414e4ef09d957bc0000cf84a3f3f663.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/nx/Peanut_Cover_Generic.tga.ckd/a1fed9eae4d23c8d331190436f1c2d87.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_Cover_1024.png/e26595a05172b6a8b0736fc389d0f585.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/nx/Peanut_Cover_Online.tga.ckd/8c6089d7f2ea81dc0ef8b044939c1c36.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/nx/Peanut_Cover_AlbumBkg.tga.ckd/8f968f4018264ad6424e3bbe8f5a846d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/nx/Peanut_Cover_AlbumCoach.tga.ckd/0b165afa547146bc8c680bc2fac6a0c6.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/nx/Peanut_map_bkg.tga.ckd/f9ec38195095c923e2f8e644fb9ec71d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_Coach_1_Phone.png/35b9ad46c92ab19f09da87f3b62a4fdb.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_Coach_2_Phone.png/97358e6756434fcfb320d8bd787d6821.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_Coach_3_Phone.png/a009f25ce625cd27868f8cf667792af2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_Cover_Phone.jpg/1c3ff6ef3367ab57e1e859895ba8f9b1.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_VideoPreview.webm/6240c4176a8049b1f60c06b32af36f36.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/wiiu/Peanut_banner_bkg.tga.ckd/665a12f0c96ce5e0ced4d0d2effb83eb.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/wiiu/Peanut_Coach_1.tga.ckd/31ebe2bef1f05a3f8966f9024cb8ef4f.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/wiiu/Peanut_Coach_2.tga.ckd/9a10665448813a1ec8f1c31e69037678.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/wiiu/Peanut_Coach_3.tga.ckd/e2a5cc83db1031d2f2870a836f137829.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/wiiu/Peanut_Cover_Generic.tga.ckd/ca21267cb45e002713f73f206dc3feaf.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_Cover_1024.png/7c4e028ae5884785b6a82f2d91d66f7b.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/wiiu/Peanut_Cover_Online.tga.ckd/02991ba43e41c61372857c7d09e7b868.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/wiiu/Peanut_Cover_AlbumBkg.tga.ckd/50b0dc61887850b8ce91cabd38ccb6a1.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/wiiu/Peanut_Cover_AlbumCoach.tga.ckd/3df0fa93ee1d5a03b7996e6a5a497bbd.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_Coach_1_Phone.png/35b9ad46c92ab19f09da87f3b62a4fdb.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_Coach_2_Phone.png/97358e6756434fcfb320d8bd787d6821.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_Coach_3_Phone.png/a009f25ce625cd27868f8cf667792af2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_Cover_Phone.jpg/1c3ff6ef3367ab57e1e859895ba8f9b1.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_VideoPreview.webm/6240c4176a8049b1f60c06b32af36f36.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22511,45023,67488,90000,112511,135023,157487,180000,202511,225023,247487,270000,292511,315024,337488,360000,382511,405023,427487,450000,472511,495023,517487,540000,562512,585023,607487,630000,652512,675023,697487,720000,742512,765023,787487,810000,832511,855023,877487,900000,922511,945023,967487,990000,1012511,1035023,1057488,1080000,1102511,1125024,1147488,1170000,1192511,1215024,1237488,1260000,1282511,1305024,1327487,1350000,1372512,1395023,1417488],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":426,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/peanut/peanut_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "24D8FAFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 202.03199999999998,
+  "mapName": "Peanut",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"494076\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Peanut/Peanut_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"642-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-642\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1465406\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Peanut/Peanut_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2789925\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Peanut/Peanut_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3588742\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Peanut/Peanut_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "Peanut_mapContent"
+  },
+  "parentMapName": "Peanut",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "0061BBFF",
+    "songColor_1B": "071D49FF",
+    "songColor_2A": "FFB401FF",
+    "songColor_2B": "AC2800FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Peanut Butter Jelly",
+  "urls": {
+    "jmcs://jd-contents/Peanut/Peanut_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_AudioPreview.ogg/a9c2252836446d24d0e1d4ed395e70a2.ogg",
+    "jmcs://jd-contents/Peanut/Peanut_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_MapPreviewNoSoundCrop_HIGH.vp8.webm/fa2069048d9f28547e5dd012a14c2fc7.webm",
+    "jmcs://jd-contents/Peanut/Peanut_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_MapPreviewNoSoundCrop_HIGH.vp9.webm/74fd469665e2e38f7f279fb8915fb38b.webm",
+    "jmcs://jd-contents/Peanut/Peanut_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_MapPreviewNoSoundCrop_LOW.vp8.webm/18add363f9d3d792e8e5f631d3b7a804.webm",
+    "jmcs://jd-contents/Peanut/Peanut_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_MapPreviewNoSoundCrop_LOW.vp9.webm/9737829a310406fbadc97266bfc5ef41.webm",
+    "jmcs://jd-contents/Peanut/Peanut_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_MapPreviewNoSoundCrop_MID.vp8.webm/40984decf38e80831a8281f5c70f05fa.webm",
+    "jmcs://jd-contents/Peanut/Peanut_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_MapPreviewNoSoundCrop_MID.vp9.webm/9b81d6af83e8ecd5701c650a821322a5.webm",
+    "jmcs://jd-contents/Peanut/Peanut_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_MapPreviewNoSoundCrop_ULTRA.vp8.webm/9986e4e777af3c9b5538b7ab3d341e88.webm",
+    "jmcs://jd-contents/Peanut/Peanut_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Peanut/Peanut_MapPreviewNoSoundCrop_ULTRA.vp9.webm/06513cfe72a24e876f525dc825fa32dd.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "c02168c7214c5b6822998a6b65e1ba90",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Peanut/ps4/Peanut_MAIN_SCENE_ORBIS.zip/c02168c7214c5b6822998a6b65e1ba90.zip",
+      "version": 20
+    },
+    "pc": {
+      "md5": "29cc7af9cbb8cfd92052454d7162d8b2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Peanut/pc/Peanut_MAIN_SCENE_PC.zip/29cc7af9cbb8cfd92052454d7162d8b2.zip",
+      "version": 16
+    },
+    "wiiu": {
+      "md5": "745b59cf7594563b76c4cdaca0488df0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Peanut/wiiu/Peanut_MAIN_SCENE_WIIU.zip/745b59cf7594563b76c4cdaca0488df0.zip",
+      "version": 17
+    },
+    "nx": {
+      "md5": "a1caa753a3583c86fa42e83b3af25153",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Peanut/nx/Peanut_MAIN_SCENE_NX.zip/a1caa753a3583c86fa42e83b3af25153.zip",
+      "version": 20
+    }
+  },
+  "mapType": "jdu"
+}

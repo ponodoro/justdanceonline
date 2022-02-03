@@ -1,0 +1,102 @@
+{
+  "artist": "The Hit Crew",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/ggp/HotStep_map_bkg.tga.ckd/d18fea33bdabea723f0563fa275e8ee1.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/ggp/HotStep_Coach_1.tga.ckd/942a3414e59c73768cca1e754351b3af.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/ggp/HotStep_Cover_Generic.tga.ckd/c5b4ec69a2f16c2dd4b1912cedfb9e9a.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/HotStep_Cover_1024.png/4bd59de47482299a8fb7c706e11766ba.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/ggp/HotStep_Cover_Online.tga.ckd/c5b4ec69a2f16c2dd4b1912cedfb9e9a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/ggp/HotStep_Cover_AlbumBkg.tga.ckd/50a2d4273c62d9bc6f3b261bb1c3c8fe.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/ggp/HotStep_Cover_AlbumCoach.tga.ckd/03781538ecfd5ed9235fd94437c4964e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/HotStep_Coach_1_Phone.png/d499abce316ab6ca43431534ed745541.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/HotStep_Cover_Phone.jpg/32ea810d3d94255191ccdfe2d274b862.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HotStep/HotStep_VideoPreview.webm/14bc5f7a1ce286ae6220fa2c77dcd038.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/ggp/HotStep_map_bkg.tga.ckd/d18fea33bdabea723f0563fa275e8ee1.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/nx/HotStep_banner_bkg.tga.ckd/505902261fa80f184de507a757a3b669.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/nx/HotStep_Coach_1.tga.ckd/debf3757b98734e6c2716ce0f9050f7e.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/nx/HotStep_Cover_Generic.tga.ckd/610063988918acf8a05ee194b27a976d.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/HotStep_Cover_1024.png/4bd59de47482299a8fb7c706e11766ba.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/nx/HotStep_Cover_Online.tga.ckd/610063988918acf8a05ee194b27a976d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/nx/HotStep_Cover_AlbumBkg.tga.ckd/7008362fe6d2670f486b18d6f7d0c6af.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/nx/HotStep_Cover_AlbumCoach.tga.ckd/91bbefb6ddb61d3cd0b4d9694d5fe128.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/nx/HotStep_map_bkg.tga.ckd/79f2306ce97f67c400a9996d787228f2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/HotStep_Coach_1_Phone.png/d499abce316ab6ca43431534ed745541.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HotStep/HotStep_Cover_Phone.jpg/32ea810d3d94255191ccdfe2d274b862.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HotStep/HotStep_VideoPreview.webm/14bc5f7a1ce286ae6220fa2c77dcd038.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28383,56765,85147,113529,141911,170293,198675,227057,255439,283821,312203,340585,368967,397349,425731,454113,482495,510877,539259,567641,596023,624405,652787,681169,709551,737934,766316,794698,823080,851462,879844,908226,936608,964990,993372,1021754,1050136,1078518,1106900,1135282,1163664,1192046,1220428,1248810,1277192,1305574,1333956,1362338,1390720,1419103],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":363,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":50,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/hotstep/hotstep_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FA9F03FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 215.45999999999998,
+  "mapName": "HotStep",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497206\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HotStep/HotStep_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1414250\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HotStep/HotStep_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1434879\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HotStep/HotStep_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1435613\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HotStep/HotStep_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "HotStep_mapContent"
+  },
+  "parentMapName": "HotStep",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "224786FF",
+    "songColor_1B": "969794FF",
+    "songColor_2A": "C37031FF",
+    "songColor_2B": "A13336FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Here Comes The Hotstepper",
+  "urls": {
+    "jmcs://jd-contents/HotStep/HotStep_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/HotStep/HotStep_AudioPreview.ogg/7c251e9ae9c60057e011dc3b2fcef6bf.ogg",
+    "jmcs://jd-contents/HotStep/HotStep_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/HotStep/HotStep_MapPreviewNoSoundCrop_HIGH.vp8.webm/9a97a0f637d231c7b74d1196f90f5481.webm",
+    "jmcs://jd-contents/HotStep/HotStep_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/HotStep/HotStep_MapPreviewNoSoundCrop_HIGH.vp9.webm/c16f738c49d66c8ffa85debd14442151.webm",
+    "jmcs://jd-contents/HotStep/HotStep_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/HotStep/HotStep_MapPreviewNoSoundCrop_LOW.vp8.webm/37559d2984697704cf188952876aab07.webm",
+    "jmcs://jd-contents/HotStep/HotStep_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/HotStep/HotStep_MapPreviewNoSoundCrop_LOW.vp9.webm/0b5e97481bdb896f5b74cb9f944fe51e.webm",
+    "jmcs://jd-contents/HotStep/HotStep_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/HotStep/HotStep_MapPreviewNoSoundCrop_MID.vp8.webm/1be16e5b42705d93760ea7557994ef93.webm",
+    "jmcs://jd-contents/HotStep/HotStep_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/HotStep/HotStep_MapPreviewNoSoundCrop_MID.vp9.webm/cca674800fb93bf5691033008876ca17.webm",
+    "jmcs://jd-contents/HotStep/HotStep_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/HotStep/HotStep_MapPreviewNoSoundCrop_ULTRA.vp8.webm/5776cc5dbd01e0ecfb285ff1d5474e2d.webm",
+    "jmcs://jd-contents/HotStep/HotStep_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/HotStep/HotStep_MapPreviewNoSoundCrop_ULTRA.vp9.webm/05edcc1e6306f88da3819bf7f145679f.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "eb51f936e0e524b24d7ab4cced887081",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HotStep/ps4/HotStep_MAIN_SCENE_ORBIS.zip/eb51f936e0e524b24d7ab4cced887081.zip",
+      "version": 22
+    },
+    "pc": {
+      "md5": "63b4b76bc15057df867373ac462dcd11",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/HotStep/pc/63b4b76bc15057df867373ac462dcd11.zip",
+      "version": 22
+    },
+    "wiiu": {
+      "md5": "",
+      "version": 0
+    },
+    "nx": {
+      "md5": "9a4797d40662fc403817cb271f2a888a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HotStep/nx/HotStep_MAIN_SCENE_NX.zip/9a4797d40662fc403817cb271f2a888a.zip",
+      "version": 23
+    }
+  },
+  "mapType": "jdu"
+}

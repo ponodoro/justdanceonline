@@ -1,0 +1,124 @@
+{
+  "artist": "Jamiroquai",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/ps4/Automaton_banner_bkg.tga.ckd/e8094155cd9efdbc6d2d7d873a3e4018.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/ps4/Automaton_Coach_1.tga.ckd/644d5d49ec05f7d8fc874dbb07f737b9.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/ps4/Automaton_Cover_Generic.tga.ckd/cff184db689aa4c2eb5f68b9b1393d38.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_Cover_1024.png/5ae784c743b5a8dd28859a41692c932f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/ps4/Automaton_Cover_Online.tga.ckd/4752b986e05d1b61144895131ba28d25.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/ps4/Automaton_Cover_AlbumBkg.tga.ckd/09e219af9247934055515e8b94f7dc7b.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/ps4/Automaton_Cover_AlbumCoach.tga.ckd/65ada182c7b17e73daf22713691b89c3.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_Coach_1_Phone.png/2ab1956aa99574f18ed46ef5b8f3b650.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_Cover_Phone.jpg/3ec295bf836601dce4129408566857ed.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_VideoPreview.webm/c86893d7888ca5f58fd126a4e8bf7f4f.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/ps4/Automaton_map_bkg.tga.ckd/0a0dfd0af330a5e603805d85cff3b7a4.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/nx/Automaton_banner_bkg.tga.ckd/88f2181cb44e9de273c1a8b6507c549d.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/nx/Automaton_Coach_1.tga.ckd/77cbe5f62b4da76204448dfc27bad917.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/nx/Automaton_Cover_Generic.tga.ckd/c9cbede263f37c89fb043397a02e5acb.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_Cover_1024.png/5ae784c743b5a8dd28859a41692c932f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/nx/Automaton_Cover_Online.tga.ckd/789781690a38d4ec73b6d2edd400de92.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/nx/Automaton_Cover_AlbumBkg.tga.ckd/aef1018eb579a1fe509214c323365513.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/nx/Automaton_Cover_AlbumCoach.tga.ckd/3995cb32690078ed22b54b1bcaef6dbd.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_Coach_1_Phone.png/2ab1956aa99574f18ed46ef5b8f3b650.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_Cover_Phone.jpg/3ec295bf836601dce4129408566857ed.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_VideoPreview.webm/c86893d7888ca5f58fd126a4e8bf7f4f.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/nx/Automaton_map_bkg.tga.ckd/2fcec476874fe0af892d9cca6823a0dd.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/wiiu/Automaton_banner_bkg.tga.ckd/2f473a1d27d817362afd180bf33e2891.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/wiiu/Automaton_Coach_1.tga.ckd/29e6199012795b4cfc6fba212274da41.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/wiiu/Automaton_Cover_Generic.tga.ckd/7adbd0fee8f4ef42f9260145f78c93a1.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_Cover_1024.png/5ae784c743b5a8dd28859a41692c932f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/wiiu/Automaton_Cover_Online.tga.ckd/9eb860bce7b4b7784f70a378baf599fa.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/wiiu/Automaton_Cover_AlbumBkg.tga.ckd/5c2fc6da84cb3ffb44e661414b195230.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/wiiu/Automaton_Cover_AlbumCoach.tga.ckd/c8a63700e84153768e8fc0d79a1beb87.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_Coach_1_Phone.png/2ab1956aa99574f18ed46ef5b8f3b650.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_Cover_Phone.jpg/3ec295bf836601dce4129408566857ed.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_VideoPreview.webm/c86893d7888ca5f58fd126a4e8bf7f4f.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26688,53328,80016,106656,133344,160032,186672,213360,240000,266688,293328,320016,346656,373344,400032,426672,453360,480000,506688,533327,560015,586655,613343,640031,666671,693359,719999,746687,773327,800015,826655,853343,880031,906671,933359,959999,986687,1013327,1040015,1066655,1093343,1120030,1146670,1173358,1199998,1226686,1253326,1280014,1306654,1333342,1360030,1386670,1413358,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":460,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":460,\"useFadeEndBeat\":true,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":54,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/automaton/automaton_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Jason Kay and Matthew Johnson. Published by BMG Platinum Songs. All rights administered by BMG Rights Management (US) LLC. Courtesy of Mercury Records Limited under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF10FAFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 259.44399999999996,
+  "mapName": "Automaton",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497370\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Automaton/Automaton_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481736\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Automaton/Automaton_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2936032\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Automaton/Automaton_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5509321\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Automaton/Automaton_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "Automaton_mapContent"
+  },
+  "parentMapName": "Automaton",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "4EFFC3FF",
+    "songColor_1B": "060033FF",
+    "songColor_2A": "0085FFFF",
+    "songColor_2B": "001D66FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "HallOfFame",
+    "CnUnlimited2018"
+  ],
+  "title": "Automaton",
+  "urls": {
+    "jmcs://jd-contents/Automaton/Automaton_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_AudioPreview.ogg/1d2c9402d2398f7f854e6d6789a3488d.ogg",
+    "jmcs://jd-contents/Automaton/Automaton_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_MapPreviewNoSoundCrop_HIGH.vp8.webm/72fc5ba762da310e64a550bc65821185.webm",
+    "jmcs://jd-contents/Automaton/Automaton_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_MapPreviewNoSoundCrop_HIGH.vp9.webm/78cc74cd938545c002a3d6c895c2b01f.webm",
+    "jmcs://jd-contents/Automaton/Automaton_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_MapPreviewNoSoundCrop_LOW.vp8.webm/664b13a231ff4724752571dcbc1a31c8.webm",
+    "jmcs://jd-contents/Automaton/Automaton_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_MapPreviewNoSoundCrop_LOW.vp9.webm/8f7c4cb12dca6992589788d7254686b3.webm",
+    "jmcs://jd-contents/Automaton/Automaton_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_MapPreviewNoSoundCrop_MID.vp8.webm/d8338205638eaa59779820ebaab3109e.webm",
+    "jmcs://jd-contents/Automaton/Automaton_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_MapPreviewNoSoundCrop_MID.vp9.webm/a7184edcf2884d3434e95434135be456.webm",
+    "jmcs://jd-contents/Automaton/Automaton_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ed3ab4ff57a616fb9a00846d0bc5fbba.webm",
+    "jmcs://jd-contents/Automaton/Automaton_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Automaton/Automaton_MapPreviewNoSoundCrop_ULTRA.vp9.webm/dbceb7d2827c3329b3683b6f66fa6f03.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "60ec484dc265fdcc3012c715e50766ea",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Automaton/ps4/Automaton_MAIN_SCENE_ORBIS.zip/60ec484dc265fdcc3012c715e50766ea.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "b0a9cdd00272584d6e2a60a9d2f75284",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Automaton/nx/Automaton_MAIN_SCENE_NX.zip/b0a9cdd00272584d6e2a60a9d2f75284.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "511bc57a8f5337b73e81e109ad7ba99b",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Automaton/pc/511bc57a8f5337b73e81e109ad7ba99b.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "fa465748ce42befc3433b5e5bb530f67",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Automaton/wiiu/Automaton_MAIN_SCENE_WIIU.zip/fa465748ce42befc3433b5e5bb530f67.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

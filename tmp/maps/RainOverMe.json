@@ -1,0 +1,104 @@
+{
+  "artist": "Pitbull Ft. Marc Anthony",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/ps4/RainOverMe_banner_bkg.tga.ckd/6d69f073410d5d33d1135d9876e7c345.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/ps4/RainOverMe_Coach_1.tga.ckd/bf04668c3aa4f92279f665f47f7e0e18.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/ps4/RainOverMe_Cover_Generic.tga.ckd/a1965cb520ef44816ca7fc15e1a43f2f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/RainOverMe_Cover_1024.png/a8f70be49624745d85e3ebd7ad0602ed.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/ps4/RainOverMe_Cover_Online.tga.ckd/be9ce9794f0fb46187d6fc824bb4c122.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/ps4/RainOverMe_Cover_AlbumBkg.tga.ckd/d260703c7f028155fcb7c46803bfa32a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/ps4/RainOverMe_Cover_AlbumCoach.tga.ckd/e19a4f43d3a0b5e7b373c40916fa39f3.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/RainOverMe_Coach_1_Phone.png/0a1200e438e540f87df5236e09eb1c52.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/RainOverMe_Cover_Phone.jpg/5c929803999bb61a84fda367c3f0af34.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/ps4/RainOverMe_map_bkg.tga.ckd/10b7711ccabcee5cc5f6663816930e64.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/nx/RainOverMe_banner_bkg.tga.ckd/5429e26acd402d49c3732688056479d7.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/nx/RainOverMe_Coach_1.tga.ckd/e084d248260c4f3369a7f054738b609b.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/nx/RainOverMe_Cover_Generic.tga.ckd/6c724959643865884b88731e5dc87021.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/RainOverMe_Cover_1024.png/a8f70be49624745d85e3ebd7ad0602ed.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/nx/RainOverMe_Cover_Online.tga.ckd/75a0c22c3218568116985ae7b62ee717.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/nx/RainOverMe_Cover_AlbumBkg.tga.ckd/bad43726a83b679d4ac072ddd9007c16.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/nx/RainOverMe_Cover_AlbumCoach.tga.ckd/9bd977567e019e88c74b9a38f904447e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/RainOverMe_Coach_1_Phone.png/0a1200e438e540f87df5236e09eb1c52.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/RainOverMe_Cover_Phone.jpg/5c929803999bb61a84fda367c3f0af34.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RainOverMe/nx/RainOverMe_map_bkg.tga.ckd/cf0c554ef5c8148ec52b1fd21c93a530.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22500,45000,67500,90000,112500,135000,157500,180000,202500,225000,247500,270000,292500,315000,337500,360000,382500,405000,427500,450000,472500,495000,517500,540000,562500,585000,607500,630000,652500,675000,697500,720000,742500,765000,787500,810000,832500,855000,877500,900000,922500,945000,967500,990000,1012500,1035000,1057500,1080000,1102500,1125000,1147500,1170000,1192500,1215000,1237500,1260000,1282500,1305000,1327500,1350000,1372500,1395000,1417500],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":435,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/rainoverme/rainoverme_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Marc Anthony, Rachis Aziz, Bilal Hajji, Achraf Jannusi, Nadir Khayat, Armando Christian Perez and Jimmy Thornfeldt. Published by Jamz Music Group Inc. (BMI) / Sony/ATV Songs LLC (BMI) / Abuela Y Tia Songs (BMI) / The Wheel Tunes Group Inc. (BMI) / Songs Of Redone (BMI) / Sony/ATV Tunes LLC (ASCAP) / Ole 2101 Songs (BMI). Administered by Anthem Entertainment. All rights reserved. Used with permission. Courtesy of RCA Records. By arrangement with Sony Music Entertainment.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF584AFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 206.719,
+  "mapName": "RainOverMe",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496246\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1472785\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2825075\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3918718\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "RainOverMe_mapContent"
+  },
+  "parentMapName": "RainOverMe",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "68000DFF",
+    "songColor_1B": "180427FF",
+    "songColor_2A": "480C9CFF",
+    "songColor_2B": "411982FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Rain Over Me",
+  "urls": {
+    "jmcs://jd-contents/RainOverMe/RainOverMe_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/RainOverMe/RainOverMe_AudioPreview.ogg/55d1b27380490840a6c598b1f7fe73b5.ogg",
+    "jmcs://jd-contents/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_HIGH.vp8.webm/29e0c061eeca26a540c3fb18a7ff3438.webm",
+    "jmcs://jd-contents/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_HIGH.vp9.webm/bf183501ea3efc69fcbf645f0c29e733.webm",
+    "jmcs://jd-contents/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_LOW.vp8.webm/8c20dea3d5a9110a2de2cd1a9248555f.webm",
+    "jmcs://jd-contents/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_LOW.vp9.webm/46c36707aa2a72696394919c052fc490.webm",
+    "jmcs://jd-contents/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_MID.vp8.webm/55ef436f793cbf69a2c82e504b8ec7ba.webm",
+    "jmcs://jd-contents/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_MID.vp9.webm/7760183f2fdb23c69b1fa9f579382ed7.webm",
+    "jmcs://jd-contents/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm/01ba2a5bb1863d852bfe7fc4dfcae34e.webm",
+    "jmcs://jd-contents/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/RainOverMe/RainOverMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm/f00b46fb15a8719f554c7fe0a56888ec.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "725b318e4ee8c96212a26e2de9265e54",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RainOverMe/ps4/RainOverMe_MAIN_SCENE_ORBIS.zip/725b318e4ee8c96212a26e2de9265e54.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "8478e05356f43a8ef8de556fe39fe91e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RainOverMe/nx/RainOverMe_MAIN_SCENE_NX.zip/8478e05356f43a8ef8de556fe39fe91e.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "6b045080e4b7026da31ff46b2872b86b",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/RainOverMe/pc/6b045080e4b7026da31ff46b2872b86b.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

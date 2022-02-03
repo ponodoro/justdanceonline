@@ -1,0 +1,102 @@
+{
+  "artist": "Sean Paul",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_banner_bkg.jpg/19566bf8456f4cf6b75995cf1eec9e1f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Coach_1.png/fc8efed68b87bcab2c00f3db2ad65eda.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Coach_2.png/a1cc55dc1e964fbcccc05b26d97d0e2f.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Coach_3.png/2c8a13f2d372cbad52e5f7f48b63f5da.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Coach_4.png/5f965a154b71873edd8b102238595a80.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Cover_Generic.jpg/b56e3772f8f0156c51b1e1911e8dcf2d.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Cover_Online.jpg/84229eb0fd0e2b07eff9d2431a3ca83a.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Cover_AlbumBkg.jpg/7a8ba3d91abab3fd27fc17ca3daf471e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Cover_AlbumCoach.png/ccaf47186c5cdcab53625fead6c8170a.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Coach_1_Phone.png/27d7dba2ff4c8c8dcbdc5cf851c57b68.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Coach_2_Phone.png/42173b993ab58295f5c501ce11537f65.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Coach_3_Phone.png/545c159632e147e10856d223c12bc1aa.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Coach_4_Phone.png/6b0ddf6ed2c705e13da3053b585c9932.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Cover_Phone.jpg/84229eb0fd0e2b07eff9d2431a3ca83a.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_banner_bkg.jpg/19566bf8456f4cf6b75995cf1eec9e1f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Coach_1.png/fc8efed68b87bcab2c00f3db2ad65eda.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Coach_2.png/a1cc55dc1e964fbcccc05b26d97d0e2f.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Coach_3.png/2c8a13f2d372cbad52e5f7f48b63f5da.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Coach_4.png/5f965a154b71873edd8b102238595a80.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Cover_Generic.jpg/b56e3772f8f0156c51b1e1911e8dcf2d.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Cover_Online.jpg/84229eb0fd0e2b07eff9d2431a3ca83a.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Cover_AlbumBkg.jpg/7a8ba3d91abab3fd27fc17ca3daf471e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Cover_AlbumCoach.png/ccaf47186c5cdcab53625fead6c8170a.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Coach_1_Phone.png/27d7dba2ff4c8c8dcbdc5cf851c57b68.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Coach_2_Phone.png/42173b993ab58295f5c501ce11537f65.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Coach_3_Phone.png/545c159632e147e10856d223c12bc1aa.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Coach_4_Phone.png/6b0ddf6ed2c705e13da3053b585c9932.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Temperature/Temperature_Cover_Phone.jpg/84229eb0fd0e2b07eff9d2431a3ca83a.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23040,46080,69120,92160,115200,138240,161280,184320,207360,230400,253440,276480,299520,322560,345600,368640,391680,414720,437760,460800,483840,506880,529920,552960,576000,599040,622080,645120,668160,691200,714240,737280,760320,783360,806400,829440,852480,875520,898560,921600,944640,967680,990720,1013760,1036800,1059840,1082880,1105920,1128960,1152000,1175040,1198080,1221120,1244160,1267200,1290240,1313280,1336320,1359360,1382400,1405440,1428480],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":453,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/temperature/temperature_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Adrian Marshall, Rohan Fuller and Sean Paul Henriques. Published by STB Music Inc (PRS) d/b/a Music By STB (ASCAP)/Rohan Fuller (ASCAP). / EMI Music Publishing Ltd. (PRS) / LIFEB4 Music Inc. (NS). All rights reserved. Used with permission. Courtesy of Atlantic Records. By arrangement with Warner Music Group Film & TV Licensing.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFD60CFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 220.32,
+  "mapName": "Temperature",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497131\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Temperature/Temperature_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482737\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Temperature/Temperature_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2950636\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Temperature/Temperature_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4288741\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Temperature/Temperature_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "Temperature_mapContent"
+  },
+  "parentMapName": "Temperature",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "148850FF",
+    "songColor_1B": "0D2D4AFF",
+    "songColor_2A": "00BDECFF",
+    "songColor_2B": "5F007BFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Temperature",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "c2bbf1c941e201fe15f6bea898ddbdf6",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Temperature/ps4/Temperature_MAIN_SCENE_ORBIS.zip/c2bbf1c941e201fe15f6bea898ddbdf6.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "dd6cd459f2d10b1d4e3eb05a4299a591",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Temperature/nx/Temperature_MAIN_SCENE_NX.zip/dd6cd459f2d10b1d4e3eb05a4299a591.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "92f6cde4b308a0e83fce1523f057a784",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Temperature/pc/92f6cde4b308a0e83fce1523f057a784.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/Temperature/Temperature_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/Temperature/Temperature_AudioPreview.ogg/190adc8863f568620a08e813d409d64b.ogg",
+    "jmcs://jd-contents/Temperature/Temperature_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Temperature/Temperature_MapPreviewNoSoundCrop_HIGH.vp8.webm/7f9abcdbc6acc5af30befac0ceaf88c6.webm",
+    "jmcs://jd-contents/Temperature/Temperature_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Temperature/Temperature_MapPreviewNoSoundCrop_HIGH.vp9.webm/23b7d8fd456cfb7340e3f75320c32dfd.webm",
+    "jmcs://jd-contents/Temperature/Temperature_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Temperature/Temperature_MapPreviewNoSoundCrop_LOW.vp8.webm/ccc545cfdc2e2cab70fc37e249474565.webm",
+    "jmcs://jd-contents/Temperature/Temperature_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Temperature/Temperature_MapPreviewNoSoundCrop_LOW.vp9.webm/87e1c4de299dacdbc11ea0f398d91e44.webm",
+    "jmcs://jd-contents/Temperature/Temperature_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Temperature/Temperature_MapPreviewNoSoundCrop_MID.vp8.webm/e09458c4f0dd3303874be2973441c65d.webm",
+    "jmcs://jd-contents/Temperature/Temperature_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Temperature/Temperature_MapPreviewNoSoundCrop_MID.vp9.webm/e3dc4604a26f32e3cc3f1cd99f21baba.webm",
+    "jmcs://jd-contents/Temperature/Temperature_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Temperature/Temperature_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ad14515bc711236f11f193f69b0689ca.webm",
+    "jmcs://jd-contents/Temperature/Temperature_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Temperature/Temperature_MapPreviewNoSoundCrop_ULTRA.vp9.webm/77cb8b7f6abce1ee3198b37b5c189b13.webm"
+  }
+}

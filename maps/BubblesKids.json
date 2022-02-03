@@ -1,0 +1,92 @@
+{
+  "artist": "Dancing Bros.",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BubblesKids/BubblesKids_banner_bkg.jpg/1cbf21637eeaef1cb2d72300e97e84d6.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblesKids/BubblesKids_Coach_1.png/df4625c192dc731d51cf2e4f78852d0c.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BubblesKids/BubblesKids_Cover_Generic.jpg/82bb302169c947e842909780be02aa71.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BubblesKids/BubblesKids_Cover_Online.jpg/75f2d0b1c808b9859b2511b5b2422b80.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BubblesKids/BubblesKids_Cover_AlbumBkg.jpg/10b99f2aa1c4d04a1a3d5a1b4a2ec858.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BubblesKids/BubblesKids_Cover_AlbumCoach.png/e7030fee1bdbbffcd6698360c8f32deb.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblesKids/BubblesKids_Coach_1_Phone.png/3210b8c381cbab79a434e3b0abd04a03.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BubblesKids/BubblesKids_Cover_Phone.jpg/75f2d0b1c808b9859b2511b5b2422b80.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BubblesKids/BubblesKids_banner_bkg.jpg/1cbf21637eeaef1cb2d72300e97e84d6.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblesKids/BubblesKids_Coach_1.png/df4625c192dc731d51cf2e4f78852d0c.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BubblesKids/BubblesKids_Cover_Generic.jpg/82bb302169c947e842909780be02aa71.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BubblesKids/BubblesKids_Cover_Online.jpg/75f2d0b1c808b9859b2511b5b2422b80.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BubblesKids/BubblesKids_Cover_AlbumBkg.jpg/10b99f2aa1c4d04a1a3d5a1b4a2ec858.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BubblesKids/BubblesKids_Cover_AlbumCoach.png/e7030fee1bdbbffcd6698360c8f32deb.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblesKids/BubblesKids_Coach_1_Phone.png/3210b8c381cbab79a434e3b0abd04a03.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BubblesKids/BubblesKids_Cover_Phone.jpg/75f2d0b1c808b9859b2511b5b2422b80.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24000,48000,72000,96000,120000,144000,168000,192000,216000,240000,264000,288000,312000,336000,360000,384000,408000,432000,456000,480000,504000,528000,552000,576000,600000,624000,648000,672000,696000,720000,744000,768000,792000,816000,840000,864000,888000,912000,936000,960000,984000,1008000,1032000,1056000,1080000,1104000,1128000,1152000,1176000,1200000,1224000,1248000,1272000,1296000,1320000,1344000,1368000,1392000,1416000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":-13,\"endBeat\":221,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/bubbleskids/bubbleskids_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Philip Guyler. Published by Audio Network Canada Inc. Courtesy of Audio Network Canada Inc.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF670EFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 117,
+  "mapName": "BubblesKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"491718\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1445991\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1984492\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2031739\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "BubblesKids_mapContent"
+  },
+  "parentMapName": "BubblesKids",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "36D9FFFF",
+    "songColor_1B": "0195BBFF",
+    "songColor_2A": "2FC3B7FF",
+    "songColor_2B": "73E4DBFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "subscribedSong"
+  ],
+  "title": "The Color Lab",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "ce937741febeffb16bc120f33a04d5e7",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/BubblesKids/ps4/BubblesKids_MAIN_SCENE_ORBIS.zip/ce937741febeffb16bc120f33a04d5e7.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "26feacbc68662927be49790e4fc09006",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/BubblesKids/nx/BubblesKids_MAIN_SCENE_NX.zip/26feacbc68662927be49790e4fc09006.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "fc57ca081be657f0dfa0393417a58ff3",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/BubblesKids/pc/fc57ca081be657f0dfa0393417a58ff3.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939,
+  "urls": {
+    "jmcs://jd-contents/BubblesKids/BubblesKids_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/BubblesKids/BubblesKids_AudioPreview.ogg/5e29074792eea721dac358b63249d7d8.ogg",
+    "jmcs://jd-contents/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/189d9c8994369cc3ab322ba76b50c139.webm",
+    "jmcs://jd-contents/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/6791a8cdae89dafb26d3289493fa7159.webm",
+    "jmcs://jd-contents/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_LOW.vp8.webm/6bbde250b4209d0315b12c7a82b5202a.webm",
+    "jmcs://jd-contents/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_LOW.vp9.webm/f35b4ad2db5b92a9ae6a338af8c5da18.webm",
+    "jmcs://jd-contents/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_MID.vp8.webm/e8ad1af1a12195f321bf35adc746768f.webm",
+    "jmcs://jd-contents/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_MID.vp9.webm/0be2cffa157fc7782e75c5abea4e76f6.webm",
+    "jmcs://jd-contents/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/34ad264251b005525777ac3affc71015.webm",
+    "jmcs://jd-contents/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/9c926d4267affd82442e4f73e4a7c01f.webm"
+  }
+}

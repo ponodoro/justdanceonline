@@ -1,0 +1,111 @@
+{
+  "artist": "Cyndi Lauper",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_banner_bkg.jpg/c2e85e3dfad16d426264ab819e89c91b.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Coach_1.png/25596154cf03ec165d1c23c19b7b3052.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Cover_Generic.jpg/046b4f800d6a62532bceafe818e627a3.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Cover_1024.png/df3376fba6352d4a442edca492c736e6.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Cover_Online.jpg/b617795ecaecde95233083bd455afa42.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Cover_AlbumBkg.jpg/8417c5091263724ecb0c491f2688b3e6.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Cover_AlbumCoach.png/08b009889b0f34284616880dd2077d91.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Coach_1_Phone.png/da37126774b60295fb49dea2ff10e946.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Cover_Phone.jpg/b617795ecaecde95233083bd455afa42.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_banner_bkg.jpg/c2e85e3dfad16d426264ab819e89c91b.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Coach_1.png/25596154cf03ec165d1c23c19b7b3052.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Cover_Generic.jpg/046b4f800d6a62532bceafe818e627a3.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Cover_1024.png/df3376fba6352d4a442edca492c736e6.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Cover_Online.jpg/b617795ecaecde95233083bd455afa42.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Cover_AlbumBkg.jpg/8417c5091263724ecb0c491f2688b3e6.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Cover_AlbumCoach.png/08b009889b0f34284616880dd2077d91.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Coach_1_Phone.png/da37126774b60295fb49dea2ff10e946.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Cover_Phone.jpg/b617795ecaecde95233083bd455afa42.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/wiiu/GirlsJustWant_banner_bkg.tga.ckd/2bbf65a3ac46bbbb9306b90b1dc9fae6.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/wiiu/GirlsJustWant_Coach_1.tga.ckd/4c23eedafd9e6ebba3cfe3a6a5645251.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/wiiu/GirlsJustWant_Cover_Generic.tga.ckd/bb5e199b897fcc35056fd8e41501e7d6.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Cover_1024.png/df3376fba6352d4a442edca492c736e6.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/wiiu/GirlsJustWant_Cover_Online.tga.ckd/31c965ccb4a27917c104d87a437d63ef.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/wiiu/GirlsJustWant_Cover_AlbumBkg.tga.ckd/584b56dbf7ea7335957bce31bd45b9d5.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/wiiu/GirlsJustWant_Cover_AlbumCoach.tga.ckd/46a593aa255c5c7e0f642c279290d0a6.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Coach_1_Phone.png/da37126774b60295fb49dea2ff10e946.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_Cover_Phone.jpg/b617795ecaecde95233083bd455afa42.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23856,47712,71616,95472,119328,143184,167088,190944,214800,238704,262560,286416,310320,334176,358032,381936,405840,429744,453648,477552,501456,525360,549312,573216,597120,621024,644928,668832,692736,716688,740592,764496,788400,812304,836208,860112,884064,907968,931872,955776,979680,1003584,1027488,1051440,1075344,1099248,1123152,1147057,1170961,1194865,1218769,1242721,1266625,1290577,1314529,1338481,1362385,1386337,1410289,1434241],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":372,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":60,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/girlsjustwant/girlsjustwant_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0D9EFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 185.48399999999998,
+  "mapName": "GirlsJustWant",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497922\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1293611\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1303293\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1304330\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 1,
+  "packages": {
+    "mapContent": "GirlsJustWant_mapContent"
+  },
+  "parentMapName": "GirlsJustWant",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "C7008BFF",
+    "songColor_1B": "1D0037FF",
+    "songColor_2A": "4EA3EFFF",
+    "songColor_2B": "3D0061FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Girls Just Want To Have Fun",
+  "urls": {
+    "jmcs://jd-contents/GirlsJustWant/GirlsJustWant_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_AudioPreview.ogg/1e8fe4a330670b64d1296b5971e498e1.ogg",
+    "jmcs://jd-contents/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_HIGH.vp8.webm/1c72fb8d568d423f6189cde8f4de8169.webm",
+    "jmcs://jd-contents/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_HIGH.vp9.webm/5b3f565be337387062debac785438129.webm",
+    "jmcs://jd-contents/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_LOW.vp8.webm/fd925630a1f054eb7faaf4eaa0caee17.webm",
+    "jmcs://jd-contents/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_LOW.vp9.webm/ae3b52bc2c04fce70567dcbe5e32170f.webm",
+    "jmcs://jd-contents/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_MID.vp8.webm/4fc75788c670fd8f07317c97ca6d7cdd.webm",
+    "jmcs://jd-contents/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_MID.vp9.webm/3fd237d34a89e8f3ad09d44b06cc1a63.webm",
+    "jmcs://jd-contents/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_ULTRA.vp8.webm/15ca36ef820df0b099474f64a472641c.webm",
+    "jmcs://jd-contents/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/GirlsJustWant_MapPreviewNoSoundCrop_ULTRA.vp9.webm/ab23da9eb5952a66ebb411b9ae3c8c4c.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "bed6c80c53de33f983520bfb8046ca02",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/ps4/GirlsJustWant_MAIN_SCENE_ORBIS.zip/bed6c80c53de33f983520bfb8046ca02.zip",
+      "version": 8
+    },
+    "pc": {
+      "md5": "d7cdce51d994d4205795548b28d44a62",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/pc/GirlsJustWant_MAIN_SCENE_PC.zip/d7cdce51d994d4205795548b28d44a62.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "a31fa562b821e9ba6b312dad6314e274",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/wiiu/GirlsJustWant_MAIN_SCENE_WIIU.zip/a31fa562b821e9ba6b312dad6314e274.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "149e7ee6484c0508d7314caa4d97f519",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GirlsJustWant/nx/GirlsJustWant_MAIN_SCENE_NX.zip/149e7ee6484c0508d7314caa4d97f519.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

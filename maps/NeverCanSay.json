@@ -1,0 +1,114 @@
+{
+  "artist": "Gloria Gaynor",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_banner_bkg.jpg/4d07abbe850a014e20de5f8da6febcfd.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Coach_1.png/5a12c3b91c139b96f3c869eb47452f19.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Cover_Generic.jpg/0111b3cdcd119321f3026906cc164856.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Cover_1024.png/6896d8d168092eb472ec73b163078887.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Cover_Online.jpg/669d8856faa9e73dc6c3b5e853429c65.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Cover_AlbumBkg.jpg/468bc884278012c351e9100b2dbe1f43.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Cover_AlbumCoach.png/40e7c4d10ba1d76947b25d12faa0dcb1.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Coach_1_Phone.png/774b339b88095846ca10ff52977d52ae.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Cover_Phone.jpg/669d8856faa9e73dc6c3b5e853429c65.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_VideoPreview.webm/b5bb55cf602cfbf91bbec69d9f919644.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_banner_bkg.jpg/4d07abbe850a014e20de5f8da6febcfd.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Coach_1.png/5a12c3b91c139b96f3c869eb47452f19.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Cover_Generic.jpg/0111b3cdcd119321f3026906cc164856.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Cover_1024.png/6896d8d168092eb472ec73b163078887.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Cover_Online.jpg/669d8856faa9e73dc6c3b5e853429c65.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Cover_AlbumBkg.jpg/468bc884278012c351e9100b2dbe1f43.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Cover_AlbumCoach.png/40e7c4d10ba1d76947b25d12faa0dcb1.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Coach_1_Phone.png/774b339b88095846ca10ff52977d52ae.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Cover_Phone.jpg/669d8856faa9e73dc6c3b5e853429c65.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_VideoPreview.webm/b5bb55cf602cfbf91bbec69d9f919644.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/wiiu/NeverCanSay_banner_bkg.tga.ckd/2e799b9cdf2f40cdf2fbe7e842076e2a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/wiiu/NeverCanSay_Coach_1.tga.ckd/4e5aca2228c7d15f499b88aa60200cb3.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/wiiu/NeverCanSay_Cover_Generic.tga.ckd/a3a8c2c80163e0b28640e09d00861124.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Cover_1024.png/6896d8d168092eb472ec73b163078887.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/wiiu/NeverCanSay_Cover_Online.tga.ckd/1db9b9b2de2d74b77a74f457bd3bcf8e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/wiiu/NeverCanSay_Cover_AlbumBkg.tga.ckd/9b65eade199cc02c794163af71587980.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/wiiu/NeverCanSay_Cover_AlbumCoach.tga.ckd/27a653930183979a4bdb71d2a9224cfc.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Coach_1_Phone.png/774b339b88095846ca10ff52977d52ae.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_Cover_Phone.jpg/669d8856faa9e73dc6c3b5e853429c65.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_VideoPreview.webm/b5bb55cf602cfbf91bbec69d9f919644.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22704,45408,68160,90864,113568,136272,158976,181728,204624,227568,250464,273408,296304,319249,342145,365089,388129,411169,434209,457249,480289,503329,526417,549457,572497,595537,618577,641617,664705,687745,710785,733825,756721,779617,802465,825361,848449,871585,894721,917857,940946,964082,987218,1010354,1033490,1056626,1079762,1102898,1126034,1149170,1172354,1195490,1218626,1241762,1264898,1288034,1311170,1334354,1357490,1380626,1403762,1426898],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":374,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/nevercansay/nevercansay_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FD0ECAFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 181.13299999999998,
+  "mapName": "NeverCanSay",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496105\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1439148\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2258474\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2649477\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "NeverCanSay_mapContent"
+  },
+  "parentMapName": "NeverCanSay",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "D00050FF",
+    "songColor_1B": "3F0000FF",
+    "songColor_2A": "E85E00FF",
+    "songColor_2B": "3F0000FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Never Can Say Goodbye",
+  "urls": {
+    "jmcs://jd-contents/NeverCanSay/NeverCanSay_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_AudioPreview.ogg/e3a1eef86bffd281371e9e4d70e3fa7d.ogg",
+    "jmcs://jd-contents/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_HIGH.vp8.webm/944aaa202ce4ec07f83edd318bcc60e9.webm",
+    "jmcs://jd-contents/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_HIGH.vp9.webm/57fa6919a9f2f0707af63fd684ee766c.webm",
+    "jmcs://jd-contents/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_LOW.vp8.webm/c2ed95c304238204c59734848764706a.webm",
+    "jmcs://jd-contents/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_LOW.vp9.webm/c572839cbba4b7c556232d9f967086f3.webm",
+    "jmcs://jd-contents/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_MID.vp8.webm/7421714cc61db3772164935635dad693.webm",
+    "jmcs://jd-contents/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_MID.vp9.webm/708cc9a1c94b98a89322b395a19de294.webm",
+    "jmcs://jd-contents/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_ULTRA.vp8.webm/543d5868193fc9a425dce78e48a12a23.webm",
+    "jmcs://jd-contents/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/NeverCanSay/NeverCanSay_MapPreviewNoSoundCrop_ULTRA.vp9.webm/cc0a6e525c3529e8f3b61d75289dd7ba.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a35f43c3349833c3ace426f2fe4a9c6d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/NeverCanSay/ps4/NeverCanSay_MAIN_SCENE_ORBIS.zip/a35f43c3349833c3ace426f2fe4a9c6d.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "e8c7ef2b16723d5dd2588491a76d201d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/NeverCanSay/pc/NeverCanSay_MAIN_SCENE_PC.zip/e8c7ef2b16723d5dd2588491a76d201d.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "c2796dcd32b17de60963fd0564d06826",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/NeverCanSay/wiiu/NeverCanSay_MAIN_SCENE_WIIU.zip/c2796dcd32b17de60963fd0564d06826.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "874559949163c99f8e0c0943517f6eef",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/NeverCanSay/nx/NeverCanSay_MAIN_SCENE_NX.zip/874559949163c99f8e0c0943517f6eef.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

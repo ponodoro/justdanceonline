@@ -1,0 +1,114 @@
+{
+  "artist": "Dyro & Dannic",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_banner_bkg.jpg/37876b4a3916afbe3b10a7b55f972ae4.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Coach_1.png/1990dd2ac16cb4c86611c170e56c8a30.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Cover_Generic.jpg/f14b9c9ba5c4afbbeeeeadc8a2f8eac5.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Cover_1024.png/9b53174f9596853d0a3ea069553845c8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Cover_Online.jpg/fb105136241f6c277a09e4951b3fa074.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Cover_AlbumBkg.jpg/97de1c52de0aa6d8c9d2eef4ad1b322b.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Cover_AlbumCoach.png/4623ba886271a55ed5a4e1df5904f14a.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Coach_1_Phone.png/660ff02395e6e36a218c3a9294609572.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Cover_Phone.jpg/fb105136241f6c277a09e4951b3fa074.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Radical/Radical_VideoPreview.webm/a8f52c4b43b12cd4e842b1e72f2a873d.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_banner_bkg.jpg/37876b4a3916afbe3b10a7b55f972ae4.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Coach_1.png/1990dd2ac16cb4c86611c170e56c8a30.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Cover_Generic.jpg/f14b9c9ba5c4afbbeeeeadc8a2f8eac5.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Cover_1024.png/9b53174f9596853d0a3ea069553845c8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Cover_Online.jpg/fb105136241f6c277a09e4951b3fa074.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Cover_AlbumBkg.jpg/97de1c52de0aa6d8c9d2eef4ad1b322b.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Cover_AlbumCoach.png/4623ba886271a55ed5a4e1df5904f14a.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Coach_1_Phone.png/660ff02395e6e36a218c3a9294609572.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Cover_Phone.jpg/fb105136241f6c277a09e4951b3fa074.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Radical/Radical_VideoPreview.webm/a8f52c4b43b12cd4e842b1e72f2a873d.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/wiiu/Radical_banner_bkg.tga.ckd/d6364a3bf2059de32832fe9b12555d1b.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/wiiu/Radical_Coach_1.tga.ckd/def1de3924d9d23524663123b465352c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/wiiu/Radical_Cover_Generic.tga.ckd/4a2d106aaad2d31e02bb76763c806665.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Cover_1024.png/9b53174f9596853d0a3ea069553845c8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/wiiu/Radical_Cover_Online.tga.ckd/0ab9671526fcfa3074b0fa9fcd9ddaf4.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/wiiu/Radical_Cover_AlbumBkg.tga.ckd/0fbce383c87146ce434099a779844597.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/wiiu/Radical_Cover_AlbumCoach.tga.ckd/447e4e32dd9c1bbc9e1fff35f9d5bfcc.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Coach_1_Phone.png/660ff02395e6e36a218c3a9294609572.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Radical/Radical_Cover_Phone.jpg/fb105136241f6c277a09e4951b3fa074.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Radical/Radical_VideoPreview.webm/a8f52c4b43b12cd4e842b1e72f2a873d.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22512,45024,67488,90000,112512,135024,157488,179999,202511,225023,247487,269999,292511,315023,337487,359999,382511,405023,427487,449999,472511,495023,517487,539999,562511,585023,607487,629999,652511,675023,697487,719999,742511,765023,787487,809999,832511,855023,877487,899999,922510,945022,967486,989998,1012510,1035022,1057486,1079998,1102510,1125022,1147486,1169998,1192510,1215022,1237486,1259998,1282510,1305022,1327486,1349998,1372510,1395022,1417486,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-11,\"endBeat\":408,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/radical/radical_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 196.40599999999998,
+  "mapName": "Radical",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496010\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Radical/Radical_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1477381\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Radical/Radical_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2920134\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Radical/Radical_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4049530\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Radical/Radical_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "Radical_mapContent"
+  },
+  "parentMapName": "Radical",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "DC6D0DFF",
+    "songColor_1B": "000000FF",
+    "songColor_2A": "0031EEFF",
+    "songColor_2B": "000000FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "RADICAL",
+  "urls": {
+    "jmcs://jd-contents/Radical/Radical_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Radical/Radical_AudioPreview.ogg/9adfc64bb1f7856504d59dc92114d6fd.ogg",
+    "jmcs://jd-contents/Radical/Radical_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Radical/Radical_MapPreviewNoSoundCrop_HIGH.vp8.webm/9cd89b9eacdd63e01afda0d624ed2f1b.webm",
+    "jmcs://jd-contents/Radical/Radical_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Radical/Radical_MapPreviewNoSoundCrop_HIGH.vp9.webm/dbafd25f2ee98c75a5ee2f34a0cb4139.webm",
+    "jmcs://jd-contents/Radical/Radical_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Radical/Radical_MapPreviewNoSoundCrop_LOW.vp8.webm/4f60a087706c71de283e37e8d37b7a79.webm",
+    "jmcs://jd-contents/Radical/Radical_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Radical/Radical_MapPreviewNoSoundCrop_LOW.vp9.webm/86f077bb4269f4870648772f7dbf33a1.webm",
+    "jmcs://jd-contents/Radical/Radical_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Radical/Radical_MapPreviewNoSoundCrop_MID.vp8.webm/19cfd4285d106cfa151c72aee57e8813.webm",
+    "jmcs://jd-contents/Radical/Radical_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Radical/Radical_MapPreviewNoSoundCrop_MID.vp9.webm/8fd37e0afa82cc94dea12fbfab823481.webm",
+    "jmcs://jd-contents/Radical/Radical_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Radical/Radical_MapPreviewNoSoundCrop_ULTRA.vp8.webm/6fca3a56dae048b30544f0a063bae7c9.webm",
+    "jmcs://jd-contents/Radical/Radical_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Radical/Radical_MapPreviewNoSoundCrop_ULTRA.vp9.webm/402e979e4c3d3405109f160c5da7252e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "3f52c4e4a8831f970707397c6004bb55",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Radical/ps4/Radical_MAIN_SCENE_ORBIS.zip/3f52c4e4a8831f970707397c6004bb55.zip",
+      "version": 11
+    },
+    "pc": {
+      "md5": "b94d82aa488691997ef28a893d74d63a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Radical/pc/Radical_MAIN_SCENE_PC.zip/b94d82aa488691997ef28a893d74d63a.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "fa700311dcb0a4f0d4b9926470740a08",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Radical/wiiu/Radical_MAIN_SCENE_WIIU.zip/fa700311dcb0a4f0d4b9926470740a08.zip",
+      "version": 13
+    },
+    "nx": {
+      "md5": "87a4cb8b005a6cd8210f4db8fb1f7df0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Radical/nx/Radical_MAIN_SCENE_NX.zip/87a4cb8b005a6cd8210f4db8fb1f7df0.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

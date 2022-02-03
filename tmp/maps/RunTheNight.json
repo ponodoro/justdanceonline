@@ -1,0 +1,114 @@
+{
+  "artist": "Gigi Rowe",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_banner_bkg.jpg/1355d72fa8820cc6706619710c640550.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Coach_1.png/230504ff9403bc9e1141d71baa3c7a88.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Cover_Generic.jpg/064c8d45ccafbe1456c0ba221855958d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Cover_1024.png/56e371f57e00574bf0016569e547cc6f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Cover_Online.jpg/1404561e91352ef0a86ccb9fd12c30bd.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Cover_AlbumBkg.jpg/5f9688b905c8108839554813d096a514.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Cover_AlbumCoach.png/41c30e3110d59e57383f3a0eb35f305c.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Coach_1_Phone.png/fe234e7fab5f215c7b2d984ca3c43a03.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Cover_Phone.jpg/1404561e91352ef0a86ccb9fd12c30bd.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_VideoPreview.webm/64059aaa3e3e45fa0a01af21c2c610b7.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_banner_bkg.jpg/1355d72fa8820cc6706619710c640550.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Coach_1.png/230504ff9403bc9e1141d71baa3c7a88.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Cover_Generic.jpg/064c8d45ccafbe1456c0ba221855958d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Cover_1024.png/56e371f57e00574bf0016569e547cc6f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Cover_Online.jpg/1404561e91352ef0a86ccb9fd12c30bd.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Cover_AlbumBkg.jpg/5f9688b905c8108839554813d096a514.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Cover_AlbumCoach.png/41c30e3110d59e57383f3a0eb35f305c.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Coach_1_Phone.png/fe234e7fab5f215c7b2d984ca3c43a03.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Cover_Phone.jpg/1404561e91352ef0a86ccb9fd12c30bd.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_VideoPreview.webm/64059aaa3e3e45fa0a01af21c2c610b7.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/wiiu/RunTheNight_banner_bkg.tga.ckd/5ab578cfaea87d52c278701db8b21ecf.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/wiiu/RunTheNight_Coach_1.tga.ckd/ab34c518bfa0fb24af1dca807459ea9b.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/wiiu/RunTheNight_Cover_Generic.tga.ckd/9414f7551dc8773667f4058b7f2d9fa1.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Cover_1024.png/56e371f57e00574bf0016569e547cc6f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/wiiu/RunTheNight_Cover_Online.tga.ckd/2ed0f332b23ec675fe440e44c82ebd86.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/wiiu/RunTheNight_Cover_AlbumBkg.tga.ckd/88193b309267f44ed6836e5e18dfa70d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/wiiu/RunTheNight_Cover_AlbumCoach.tga.ckd/d663ea5a5ea319e81eb2ad5ba36b6e31.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Coach_1_Phone.png/fe234e7fab5f215c7b2d984ca3c43a03.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_Cover_Phone.jpg/1404561e91352ef0a86ccb9fd12c30bd.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_VideoPreview.webm/64059aaa3e3e45fa0a01af21c2c610b7.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25248,50496,75792,101040,126288,151536,176832,202080,227328,252624,277872,303120,328416,353664,378912,404208,429456,454704,480000,505248,530496,555792,581039,606287,631535,656831,682079,707327,732623,757871,783119,808415,833663,858911,884207,909455,934703,959999,985247,1010495,1035791,1061039,1086287,1111535,1136831,1162079,1187327,1212623,1237871,1263119,1288415,1313663,1338911,1364207,1389455,1414703,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":415,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/runthenight/runthenight_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "33FDFCFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 220.527,
+  "mapName": "RunTheNight",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496393\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1337115\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1780002\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2006149\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "RunTheNight_mapContent"
+  },
+  "parentMapName": "RunTheNight",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "0039FFFF",
+    "songColor_1B": "05006EFF",
+    "songColor_2A": "72C2F6FF",
+    "songColor_2B": "010029FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Run The Night",
+  "urls": {
+    "jmcs://jd-contents/RunTheNight/RunTheNight_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_AudioPreview.ogg/eda6edbcff976421a2ab9e5e9edfd407.ogg",
+    "jmcs://jd-contents/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_HIGH.vp8.webm/0e147239964e39bb8569db1cca5f79a7.webm",
+    "jmcs://jd-contents/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_HIGH.vp9.webm/5be673bea5bae3b6640cc0902bea6efd.webm",
+    "jmcs://jd-contents/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_LOW.vp8.webm/7aee62df5d5a88e2643b695304c1ec4d.webm",
+    "jmcs://jd-contents/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_LOW.vp9.webm/80ceac5ec983dc8f8e36494f19413691.webm",
+    "jmcs://jd-contents/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_MID.vp8.webm/eda3226b605c737c25535bf0f0c163a1.webm",
+    "jmcs://jd-contents/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_MID.vp9.webm/cd1e5595f8f1a62cf5905c68320d934f.webm",
+    "jmcs://jd-contents/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b78de94f4f2a558251757769e36128a9.webm",
+    "jmcs://jd-contents/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/RunTheNight/RunTheNight_MapPreviewNoSoundCrop_ULTRA.vp9.webm/9c715e39f5c20774a1f364515aebbc82.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "4051ba05a03a3132d8937ae916f10f94",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RunTheNight/ps4/RunTheNight_MAIN_SCENE_ORBIS.zip/4051ba05a03a3132d8937ae916f10f94.zip",
+      "version": 15
+    },
+    "pc": {
+      "md5": "f4b7dcd96aeb1f0c1666fecd63472321",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RunTheNight/pc/RunTheNight_MAIN_SCENE_PC.zip/f4b7dcd96aeb1f0c1666fecd63472321.zip",
+      "version": 8
+    },
+    "wiiu": {
+      "md5": "725ec2fafcef1562f30a65cfebcb1748",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RunTheNight/wiiu/RunTheNight_MAIN_SCENE_WIIU.zip/725ec2fafcef1562f30a65cfebcb1748.zip",
+      "version": 15
+    },
+    "nx": {
+      "md5": "b488b21436829db6dc236abe4224d252",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RunTheNight/nx/RunTheNight_MAIN_SCENE_NX.zip/b488b21436829db6dc236abe4224d252.zip",
+      "version": 8
+    }
+  },
+  "mapType": "jdu"
+}

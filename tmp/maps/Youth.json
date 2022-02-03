@@ -1,0 +1,114 @@
+{
+  "artist": "Troye Sivan",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_banner_bkg.jpg/bbd0af81a8c9f625ea779fcc7677ca5b.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Coach_1.png/003c2a9fffe8778cd8cbd9fb34d20da7.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Cover_Generic.jpg/4c054f19709a6f2d5df9a14ae16cb0ba.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Cover_1024.png/1b083bb835405a0edbe626100b737e50.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Cover_Online.jpg/7dc7a343fb9ad4a5f477e4924cfc0f88.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Cover_AlbumBkg.jpg/03fbd425e8ff8ff0d16321bec55d8a50.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Cover_AlbumCoach.png/7f8c1c95163004b7352d80b8734725f8.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Coach_1_Phone.png/0a96e9ecb83107ca38442871d60112a1.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Cover_Phone.jpg/7dc7a343fb9ad4a5f477e4924cfc0f88.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Youth/Youth_VideoPreview.webm/2c4031cdb412ce59117889d29731d03e.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_banner_bkg.jpg/bbd0af81a8c9f625ea779fcc7677ca5b.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Coach_1.png/003c2a9fffe8778cd8cbd9fb34d20da7.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Cover_Generic.jpg/4c054f19709a6f2d5df9a14ae16cb0ba.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Cover_1024.png/1b083bb835405a0edbe626100b737e50.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Cover_Online.jpg/7dc7a343fb9ad4a5f477e4924cfc0f88.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Cover_AlbumBkg.jpg/03fbd425e8ff8ff0d16321bec55d8a50.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Cover_AlbumCoach.png/7f8c1c95163004b7352d80b8734725f8.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Coach_1_Phone.png/0a96e9ecb83107ca38442871d60112a1.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Cover_Phone.jpg/7dc7a343fb9ad4a5f477e4924cfc0f88.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Youth/Youth_VideoPreview.webm/2c4031cdb412ce59117889d29731d03e.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/wiiu/Youth_banner_bkg.tga.ckd/fe7216dd201f61fe83748eb050df585d.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/wiiu/Youth_Coach_1.tga.ckd/bbcbb58b77b0e850e16532cf034af6da.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/wiiu/Youth_Cover_Generic.tga.ckd/6c25d146e806a7a4a9edde3cadc902eb.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Cover_1024.png/1b083bb835405a0edbe626100b737e50.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/wiiu/Youth_Cover_Online.tga.ckd/503c5d401879f584564e5ebac6e6b2af.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/wiiu/Youth_Cover_AlbumBkg.tga.ckd/4e49ed59741df9827c06e4c11c75e81a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/wiiu/Youth_Cover_AlbumCoach.tga.ckd/9c3cc7b952dc8d51b4da45e6b2a3df4c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Coach_1_Phone.png/0a96e9ecb83107ca38442871d60112a1.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Youth/Youth_Cover_Phone.jpg/7dc7a343fb9ad4a5f477e4924cfc0f88.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Youth/Youth_VideoPreview.webm/2c4031cdb412ce59117889d29731d03e.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,31488,62976,94416,125904,157392,188880,220320,251808,283296,314784,346224,377712,409200,440688,472128,503616,535104,566592,598032,629520,661008,692448,723936,755424,786912,818352,849840,881328,912816,944256,975744,1007232,1038720,1070160,1101648,1133136,1164624,1196064,1227552,1259040,1290528,1321968,1353456,1384944,1416384],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":280,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":45,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/youth/youth_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF3740FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 186.886,
+  "mapName": "Youth",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495794\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Youth/Youth_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"642-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-642\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1462224\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Youth/Youth_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2429253\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Youth/Youth_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2975820\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Youth/Youth_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "Youth_mapContent"
+  },
+  "parentMapName": "Youth",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "63DDFFFF",
+    "songColor_1B": "220570FF",
+    "songColor_2A": "B3C1CEFF",
+    "songColor_2B": "29005EFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "YOUTH",
+  "urls": {
+    "jmcs://jd-contents/Youth/Youth_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Youth/Youth_AudioPreview.ogg/2290fc03b0b916f45ad718f3f1487617.ogg",
+    "jmcs://jd-contents/Youth/Youth_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Youth/Youth_MapPreviewNoSoundCrop_HIGH.vp8.webm/30f81eaf1253b658e2cbb08c094bb7df.webm",
+    "jmcs://jd-contents/Youth/Youth_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Youth/Youth_MapPreviewNoSoundCrop_HIGH.vp9.webm/23e03b0d64dd4e81afbb53c0f68531a4.webm",
+    "jmcs://jd-contents/Youth/Youth_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Youth/Youth_MapPreviewNoSoundCrop_LOW.vp8.webm/78b982fce0a99417e8216147cc3a3f22.webm",
+    "jmcs://jd-contents/Youth/Youth_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Youth/Youth_MapPreviewNoSoundCrop_LOW.vp9.webm/5975719faf9f8ff055b44c5f6d06fe6f.webm",
+    "jmcs://jd-contents/Youth/Youth_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Youth/Youth_MapPreviewNoSoundCrop_MID.vp8.webm/4506f9ab1bc3b63cb79523ad0564abbf.webm",
+    "jmcs://jd-contents/Youth/Youth_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Youth/Youth_MapPreviewNoSoundCrop_MID.vp9.webm/770aab2f8979bb3c13765736cb523e36.webm",
+    "jmcs://jd-contents/Youth/Youth_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Youth/Youth_MapPreviewNoSoundCrop_ULTRA.vp8.webm/a1d625e2f87c2cccf51344a1c8d31d86.webm",
+    "jmcs://jd-contents/Youth/Youth_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Youth/Youth_MapPreviewNoSoundCrop_ULTRA.vp9.webm/77a87e0c80c759616b81f03209aba213.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "1f58f82eb201e173097dc5bf0eb866f9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Youth/ps4/Youth_MAIN_SCENE_ORBIS.zip/1f58f82eb201e173097dc5bf0eb866f9.zip",
+      "version": 15
+    },
+    "pc": {
+      "md5": "209f0740dac1bbe3d4a599e6b27263e2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Youth/pc/Youth_MAIN_SCENE_PC.zip/209f0740dac1bbe3d4a599e6b27263e2.zip",
+      "version": 8
+    },
+    "wiiu": {
+      "md5": "b7764f8e5aac56bb2c11013511cacca4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Youth/wiiu/Youth_MAIN_SCENE_WIIU.zip/b7764f8e5aac56bb2c11013511cacca4.zip",
+      "version": 15
+    },
+    "nx": {
+      "md5": "3e2b6d2cd4c3e1b8e98616105067b16e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Youth/nx/Youth_MAIN_SCENE_NX.zip/3e2b6d2cd4c3e1b8e98616105067b16e.zip",
+      "version": 8
+    }
+  },
+  "mapType": "jdu"
+}

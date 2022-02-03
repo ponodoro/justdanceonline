@@ -1,0 +1,116 @@
+{
+  "artist": "Millennium Alert",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/ps4/Everybody_banner_bkg.tga.ckd/0a5ae558abd4cf20ca29231f70c96043.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/ps4/Everybody_Coach_1.tga.ckd/b2098b5deafff2e6cf253279b2aa3f38.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/ps4/Everybody_Coach_2.tga.ckd/df5ce5963dda48effe6c0a8257ef40e3.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/ps4/Everybody_Coach_3.tga.ckd/d6e791d63bce80f5c8bb0223e2c67d3f.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/ps4/Everybody_Coach_4.tga.ckd/1b4f2448851eb32a59af7860654d8e40.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/ps4/Everybody_Cover_Generic.tga.ckd/35115f3bd71ef7526f04d6056d37f3d0.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Cover_1024.png/aaaceb0e3b5fd8d014ff5e4a0824bcc1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/ps4/Everybody_Cover_Online.tga.ckd/0249b3669b6eb80ca1faa67bb927476b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/ps4/Everybody_Cover_AlbumBkg.tga.ckd/6df175ea4510581f8620ce4197276773.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/ps4/Everybody_Cover_AlbumCoach.tga.ckd/ea60f211e862644b718816bbf1349751.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Coach_1_Phone.png/152d9d87169be30391d93b752a2dae16.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Coach_2_Phone.png/1bedd5b5ce685c8c0d26d3bee022049c.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Coach_3_Phone.png/5f9c1dc1eeac026cdc70ba261a9acb41.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Coach_4_Phone.png/9e5607bfe15dae382e4970ffa202b103.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Cover_Phone.jpg/e44954de9f4034dcef20d1cda5b2daad.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/ps4/Everybody_map_bkg.tga.ckd/aec133a60e7eace4b505f622d20433b0.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/nx/Everybody_banner_bkg.tga.ckd/f331690a2ca71f754f2bdba31ff92f53.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/nx/Everybody_Coach_1.tga.ckd/f4a9f786a093b5153b422c1bfdfe2fce.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/nx/Everybody_Coach_2.tga.ckd/ccdf8b76980c58562f6342ed0ad02a57.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/nx/Everybody_Coach_3.tga.ckd/d31e93171292390b44eeb708926ea426.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/nx/Everybody_Coach_4.tga.ckd/eb06ec671d49324e2534510c8cf4d0c8.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/nx/Everybody_Cover_Generic.tga.ckd/41b4ba79ac57c4dd057ab5c202cdf546.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Cover_1024.png/aaaceb0e3b5fd8d014ff5e4a0824bcc1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/nx/Everybody_Cover_Online.tga.ckd/c2b6db84a221a717557ced5a8024abbe.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/nx/Everybody_Cover_AlbumBkg.tga.ckd/b7363f907f30cb9b74522f14b368c0be.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/nx/Everybody_Cover_AlbumCoach.tga.ckd/865b604091f55b91d98011a9f2bdeda4.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Coach_1_Phone.png/152d9d87169be30391d93b752a2dae16.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Coach_2_Phone.png/1bedd5b5ce685c8c0d26d3bee022049c.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Coach_3_Phone.png/5f9c1dc1eeac026cdc70ba261a9acb41.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Coach_4_Phone.png/9e5607bfe15dae382e4970ffa202b103.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Cover_Phone.jpg/e44954de9f4034dcef20d1cda5b2daad.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/nx/Everybody_map_bkg.tga.ckd/32366763c927545f69012b560d3ccbc1.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26656,53313,79970,106627,133284,159940,186597,213254,239911,266568,293224,319881,346538,373195,399852,426508,453165,479822,506479,533136,559792,586449,613106,639763,666420,693076,719733,746390,773047,799704,826360,853017,879674,906331,932987,959644,986301,1012958,1039615,1066271,1092928,1119585,1146242,1172899,1199555,1226212,1252869,1279526,1306183,1332839,1359496,1386153,1412810,1439467],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":405,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":54,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/everybody/everybody_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Max Martin and Dag Volle. Published by Kobalt Songs Music Publishing obo GV-MSM / GV-Maratone. Performed by Steve Ouimette, Carl Söderqvist, Kasper Tornqvist and Alexander Ostman. Vocals by Brian Chapman, David Loucks, Luke Edgemon, Tim Davis, Steve Ouimette. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "22E9FEFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 226.583,
+  "mapName": "Everybody",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496602\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"596-1085\">\r\n\t\t\t\t\t<Initialization range=\"0-596\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1479012\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2884611\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3728384\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "Everybody_mapContent"
+  },
+  "parentMapName": "Everybody",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "2E0015FF",
+    "songColor_1B": "A60B5BFF",
+    "songColor_2A": "7552FFFF",
+    "songColor_2B": "6C0087FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Everybody (Backstreet's Back)",
+  "urls": {
+    "jmcs://jd-contents/Everybody/Everybody_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_AudioPreview.ogg/6350d2f3f6898f20c1c217017a4da209.ogg",
+    "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_HIGH.vp8.webm/32510ecac6ffbef9b91cdd26ee903b7a.webm",
+    "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_HIGH.vp9.webm/355671bec62f11109bece676c7bc2a3d.webm",
+    "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_LOW.vp8.webm/a384eac5d824f313b48a20c2069b48ca.webm",
+    "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_LOW.vp9.webm/5cd179a596bf06f2b1cae994e751472a.webm",
+    "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_MID.vp8.webm/cacc71b2794270215f38edc9379a08e0.webm",
+    "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_MID.vp9.webm/9f738e8b6a9cf6620fa244823520c34d.webm",
+    "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_ULTRA.vp8.webm/c733d09ed0c409a66ac6b74d965ac682.webm",
+    "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_ULTRA.vp9.webm/65f6b5319817a64476c693bc04d7ff0a.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "734c003099b9de1b002d389aae22ebe0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Everybody/ps4/Everybody_MAIN_SCENE_ORBIS.zip/734c003099b9de1b002d389aae22ebe0.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "3a028381a4ee47a58c852eb4e4666d93",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Everybody/nx/Everybody_MAIN_SCENE_NX.zip/3a028381a4ee47a58c852eb4e4666d93.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "af7bc816704a009f3851d5d768231f2b",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Everybody/pc/af7bc816704a009f3851d5d768231f2b.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

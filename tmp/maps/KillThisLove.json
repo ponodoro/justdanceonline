@@ -1,0 +1,116 @@
+{
+  "artist": "BLACKPINK",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/ps4/KillThisLove_banner_bkg.tga.ckd/f2196750cf8e4fb8224d621396f1a51a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/ps4/KillThisLove_Coach_1.tga.ckd/b4c04089b37310a5b0010be8957c15fd.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/ps4/KillThisLove_Coach_2.tga.ckd/55d2247041a4437c6630ecf97d31c44d.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/ps4/KillThisLove_Coach_3.tga.ckd/f723339666114554e5d5e4dcc76d9f16.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/ps4/KillThisLove_Coach_4.tga.ckd/853fbdae4b9662d8605c1898979aaf8e.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/ps4/KillThisLove_Cover_Generic.tga.ckd/49afde92f9de35c7715113fc5580be1f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Cover_1024.png/5a8880348d66b98055023fc245eb4358.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/ps4/KillThisLove_Cover_Online.tga.ckd/ab72c8b93b59a76693cfc92b0f82819f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/ps4/KillThisLove_Cover_AlbumBkg.tga.ckd/49f257c93f892c7e21edca9ce1ef7f14.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/ps4/KillThisLove_Cover_AlbumCoach.tga.ckd/8667c8cebddfe291c9dfc66f497d6f3e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Coach_1_Phone.png/4fd267ba49a930ad9dc3626250f5c3a4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Coach_2_Phone.png/222057e69fa1445a0c1b4508e766924b.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Coach_3_Phone.png/5c5cfd068b48afc932fab116ceb0e4d5.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Coach_4_Phone.png/176514304f9a58d3a9bf8a97f5b989f4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Cover_Phone.jpg/d930387376a08ebc09aa9d4b77cd5211.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/ps4/KillThisLove_map_bkg.tga.ckd/1df74503487197f7e327e314c262ddf4.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/nx/KillThisLove_banner_bkg.tga.ckd/1dbd5b4631b6b60225fb117b5a496322.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/nx/KillThisLove_Coach_1.tga.ckd/4393aa8315fef5e373640afa4b36902d.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/nx/KillThisLove_Coach_2.tga.ckd/1cc083c52d332ae0af2e2fcf8e2aaedc.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/nx/KillThisLove_Coach_3.tga.ckd/b4a8cf42673d81118d356d83399c3477.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/nx/KillThisLove_Coach_4.tga.ckd/aabb7ab46838bad6d70ffc5aa90414d4.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/nx/KillThisLove_Cover_Generic.tga.ckd/2b2935588526bc6b30147f5f5f3590ea.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Cover_1024.png/5a8880348d66b98055023fc245eb4358.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/nx/KillThisLove_Cover_Online.tga.ckd/dc3c597d28c01c4d6378d742297bd895.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/nx/KillThisLove_Cover_AlbumBkg.tga.ckd/465cbecbbdab31c34990bc41417267c1.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/nx/KillThisLove_Cover_AlbumCoach.tga.ckd/8a9e6ce022d69154194075f9ff354c61.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Coach_1_Phone.png/4fd267ba49a930ad9dc3626250f5c3a4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Coach_2_Phone.png/222057e69fa1445a0c1b4508e766924b.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Coach_3_Phone.png/5c5cfd068b48afc932fab116ceb0e4d5.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Coach_4_Phone.png/176514304f9a58d3a9bf8a97f5b989f4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Cover_Phone.jpg/d930387376a08ebc09aa9d4b77cd5211.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/nx/KillThisLove_map_bkg.tga.ckd/e3e94a39c8d22b0c286d95e3f3891183.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21818,43636,65454,87272,109090,130909,152727,174545,196363,218181,240000,261818,283636,305454,327272,349090,370909,392727,414545,436363,458181,480000,501818,523636,545454,567272,589090,610909,632727,654545,676363,698181,720000,741818,763636,785454,807272,829090,850909,872727,894545,916363,938181,960000,981818,1003636,1025454,1047272,1069090,1090909,1112727,1134545,1156363,1178181,1200000,1221818,1243636,1265454,1287272,1309090,1330909,1352727,1374545,1396363,1418181],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-11,\"endBeat\":417,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/killthislove/killthislove_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Hong Jun Park, Jeong Hun Seo, R.Tee and Rebecca Johnson. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing Korea. / Bekuh Boom Publishing (BMI) and Warner-Tamerlane Publishing Corp. (BMI). All rights on behalf of itself and Bekuh Boom Publishing administered by Warner-Tamerlane Publishing Corp. Courtesy of Interscope Records / YG Entertainment under license from Universal Music Enterprises.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "01E4DDFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 194.54399999999998,
+  "mapName": "KillThisLove",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496838\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480672\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2934094\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5384452\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1099\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "KillThisLove_mapContent"
+  },
+  "parentMapName": "KillThisLove",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "FF351FFF",
+    "songColor_1B": "5B0006FF",
+    "songColor_2A": "A93DDFFF",
+    "songColor_2B": "66247CFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Kill This Love",
+  "urls": {
+    "jmcs://jd-contents/KillThisLove/KillThisLove_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_AudioPreview.ogg/5624da37f1d5caf792bc998eb3506d7e.ogg",
+    "jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_HIGH.vp8.webm/623828995a6363086476701e05093250.webm",
+    "jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_HIGH.vp9.webm/761deeaa45ea812ae939bdd8af75b32c.webm",
+    "jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_LOW.vp8.webm/72c2adfd917a866a7eb825845639a698.webm",
+    "jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_LOW.vp9.webm/2f0d9621d99ea48e3899373f0d85312e.webm",
+    "jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_MID.vp8.webm/be620dd0899d11d22cb258bfbd257daa.webm",
+    "jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_MID.vp9.webm/eca6e6454be3a76e73d718d885bb54c7.webm",
+    "jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm/bc36e641c7624bd0ef9e4f526e69bede.webm",
+    "jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_ULTRA.vp9.webm/ecef034c4186132aef543805ae92d29b.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "bc59dea48649c72aa3e5f3150eaf89af",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KillThisLove/ps4/KillThisLove_MAIN_SCENE_ORBIS.zip/bc59dea48649c72aa3e5f3150eaf89af.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "594b2fbc74381a03d94dc6ee9a25fb20",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KillThisLove/nx/KillThisLove_MAIN_SCENE_NX.zip/594b2fbc74381a03d94dc6ee9a25fb20.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "fd6415761a0af79128db15a315ca99ba",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/KillThisLove/pc/fd6415761a0af79128db15a315ca99ba.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

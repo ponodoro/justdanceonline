@@ -1,0 +1,111 @@
+{
+  "artist": "Wilson Pickett",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_banner_bkg.jpg/82c37514aa8d278301c39b3933250744.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Coach_1.png/3e6697fa538fca7471fff462b04d8671.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Cover_Generic.jpg/62f91808a5412c8c1ba71cb0984f9b9a.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Cover_1024.png/5f3f3b38c54c2407f2e18d5663c92229.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Cover_Online.jpg/14573757f59798682f1d4b628e80480d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Cover_AlbumBkg.jpg/b11854b863572caad8d8ef607fa8a1c8.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Cover_AlbumCoach.png/8de8a70c91ff91d9422e49758ab14fc8.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Coach_1_Phone.png/6df2d6ed4e4e34f7b646a58ddb6df04f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Cover_Phone.jpg/14573757f59798682f1d4b628e80480d.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_banner_bkg.jpg/82c37514aa8d278301c39b3933250744.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Coach_1.png/3e6697fa538fca7471fff462b04d8671.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Cover_Generic.jpg/62f91808a5412c8c1ba71cb0984f9b9a.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Cover_1024.png/5f3f3b38c54c2407f2e18d5663c92229.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Cover_Online.jpg/14573757f59798682f1d4b628e80480d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Cover_AlbumBkg.jpg/b11854b863572caad8d8ef607fa8a1c8.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Cover_AlbumCoach.png/8de8a70c91ff91d9422e49758ab14fc8.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Coach_1_Phone.png/6df2d6ed4e4e34f7b646a58ddb6df04f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Cover_Phone.jpg/14573757f59798682f1d4b628e80480d.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/wiiu/AThousandDances_banner_bkg.tga.ckd/acdd31387e877f38ccb9cbdd039d45e6.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/wiiu/AThousandDances_Coach_1.tga.ckd/ca08fa5956fb75bedc28d536ba42513d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/wiiu/AThousandDances_Cover_Generic.tga.ckd/84a8da7520ec5e6738cb1ecd4848fcf8.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Cover_1024.png/5f3f3b38c54c2407f2e18d5663c92229.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/wiiu/AThousandDances_Cover_Online.tga.ckd/f8b4db7168b2cb537fcbdbe4e210bc37.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/wiiu/AThousandDances_Cover_AlbumBkg.tga.ckd/cea799629451560a00b81b1178d5cb57.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/wiiu/AThousandDances_Cover_AlbumCoach.tga.ckd/263394bdc1e2c6512d6e4de2940efd35.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Coach_1_Phone.png/6df2d6ed4e4e34f7b646a58ddb6df04f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_Cover_Phone.jpg/14573757f59798682f1d4b628e80480d.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,31533,65086,97943,130451,163621,197244,229543,262887,296092,328252,358880,392712,425499,457937,490933,524068,556716,590617,622011,656122,684311,723019,754517,789324,822460,856849,890193,922841,955837,988832,1022664,1054824,1089179,1121130,1153812,1187435,1220709,1254541,1287955,1320324,1354226,1387013,1419103],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":215,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":43,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/athousanddances/athousanddances_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "7F00FFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 148.69799999999998,
+  "mapName": "AThousandDances",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497905\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1090108\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1095300\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1095484\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "AThousandDances_mapContent"
+  },
+  "parentMapName": "AThousandDances",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "6400AFFF",
+    "songColor_1B": "180048FF",
+    "songColor_2A": "E9B34BFF",
+    "songColor_2B": "910000FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Land of 1000 Dances",
+  "urls": {
+    "jmcs://jd-contents/AThousandDances/AThousandDances_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_AudioPreview.ogg/b6225b7e32d79ae5ddf6c9fd71a06583.ogg",
+    "jmcs://jd-contents/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_HIGH.vp8.webm/c41ea6b252145a265f6d8aee07914a87.webm",
+    "jmcs://jd-contents/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_HIGH.vp9.webm/2e3fabf46e9f53fc617b6bc81b1b5f6a.webm",
+    "jmcs://jd-contents/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_LOW.vp8.webm/51b94561a839441e66abb3afd00444b6.webm",
+    "jmcs://jd-contents/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_LOW.vp9.webm/90838e96982757d68b7bfbb05c9d2a23.webm",
+    "jmcs://jd-contents/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_MID.vp8.webm/44901ede9300503ec624f18a4ebcb67a.webm",
+    "jmcs://jd-contents/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_MID.vp9.webm/b2fd37cdba9ffd6303c3cb0b0b4120ee.webm",
+    "jmcs://jd-contents/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_ULTRA.vp8.webm/36896ce0b2c57f5690f8c6575979aaf7.webm",
+    "jmcs://jd-contents/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/AThousandDances/AThousandDances_MapPreviewNoSoundCrop_ULTRA.vp9.webm/9db93c201a38cd5078e5f6b95e71d11e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "9006898b21034c41609f09c25cd51a20",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AThousandDances/ps4/AThousandDances_MAIN_SCENE_ORBIS.zip/9006898b21034c41609f09c25cd51a20.zip",
+      "version": 10
+    },
+    "pc": {
+      "md5": "c60cc6138bc3ea1d7cd6bf0291b925c9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AThousandDances/pc/AThousandDances_MAIN_SCENE_PC.zip/c60cc6138bc3ea1d7cd6bf0291b925c9.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "2d7e5b9252b9118833332ed1a2e708bc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AThousandDances/wiiu/AThousandDances_MAIN_SCENE_WIIU.zip/2d7e5b9252b9118833332ed1a2e708bc.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "2b7f8e64b8b3f0b2caf4a5c0c372e435",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AThousandDances/nx/AThousandDances_MAIN_SCENE_NX.zip/2b7f8e64b8b3f0b2caf4a5c0c372e435.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

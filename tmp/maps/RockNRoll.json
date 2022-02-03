@@ -1,0 +1,111 @@
+{
+  "artist": "Skrillex",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_banner_bkg.jpg/2ff6d387c954a3571f8f6387d04f7ab0.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Coach_1.png/9cc006051039a6d46f457d2711564675.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Cover_Generic.jpg/f7ce99c06430b1a529afc9ed65a0c177.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Cover_1024.png/1d75f4b8a8c161e99e4d9ae777b326f9.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Cover_Online.jpg/73743e45568c2293c88ac269cc17900e.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Cover_AlbumBkg.jpg/88a483dc02e5bf9527e71aca8d2f1730.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Cover_AlbumCoach.png/1ebaafdb6c7629ba1b0001494f86d9c7.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Coach_1_Phone.png/1ca625b011707211d7430a1a2e7fe3a0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Cover_Phone.jpg/73743e45568c2293c88ac269cc17900e.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_banner_bkg.jpg/2ff6d387c954a3571f8f6387d04f7ab0.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Coach_1.png/9cc006051039a6d46f457d2711564675.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Cover_Generic.jpg/f7ce99c06430b1a529afc9ed65a0c177.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Cover_1024.png/1d75f4b8a8c161e99e4d9ae777b326f9.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Cover_Online.jpg/73743e45568c2293c88ac269cc17900e.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Cover_AlbumBkg.jpg/88a483dc02e5bf9527e71aca8d2f1730.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Cover_AlbumCoach.png/1ebaafdb6c7629ba1b0001494f86d9c7.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Coach_1_Phone.png/1ca625b011707211d7430a1a2e7fe3a0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Cover_Phone.jpg/73743e45568c2293c88ac269cc17900e.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/wiiu/RockNRoll_banner_bkg.tga.ckd/10f08110cc65402f91b62c77858283d1.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/wiiu/RockNRoll_Coach_1.tga.ckd/4a95a12d5d41f8df34f052c60f423e35.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/wiiu/RockNRoll_Cover_Generic.tga.ckd/8eaef66dd237e96e42c5c19fb1ab39c1.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Cover_1024.png/1d75f4b8a8c161e99e4d9ae777b326f9.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/wiiu/RockNRoll_Cover_Online.tga.ckd/8eaef66dd237e96e42c5c19fb1ab39c1.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/wiiu/RockNRoll_Cover_AlbumBkg.tga.ckd/dd92f609a8a6347fa8d232e152ea49e0.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/wiiu/RockNRoll_Cover_AlbumCoach.tga.ckd/89a3fddda78965333712b08984192c6c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Coach_1_Phone.png/1ca625b011707211d7430a1a2e7fe3a0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_Cover_Phone.jpg/73743e45568c2293c88ac269cc17900e.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22500,45000,67500,90000,112500,135000,157500,180000,202500,225000,247500,270000,292500,315000,337500,360000,382500,405000,427500,450000,472500,495000,517500,540000,562500,585000,607500,630000,652500,675000,697500,720000,742500,765000,787500,810000,832500,855000,877500,900000,922500,945000,967500,990000,1012500,1035000,1057500,1080000,1102500,1125000,1147500,1170000,1192500,1215000,1237500,1260000,1282500,1305000,1327500,1350000,1372500,1395000,1417500],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":489,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/rocknroll/rocknroll_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 229.5,
+  "mapName": "RockNRoll",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496651\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1408297\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1986565\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1994358\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "RockNRoll_mapContent"
+  },
+  "parentMapName": "RockNRoll",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "0C1FB0FF",
+    "songColor_1B": "05001AFF",
+    "songColor_2A": "EA8400FF",
+    "songColor_2B": "6C0000FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Rock N' Roll (Will Take You To The Mountain)",
+  "urls": {
+    "jmcs://jd-contents/RockNRoll/RockNRoll_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_AudioPreview.ogg/a9574d19559342478a9f954107366715.ogg",
+    "jmcs://jd-contents/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_HIGH.vp8.webm/8fa56bec6d09ff53bc362c00b416399c.webm",
+    "jmcs://jd-contents/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_HIGH.vp9.webm/a093f65e5cb971c22f58173da11f32e7.webm",
+    "jmcs://jd-contents/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_LOW.vp8.webm/708e93072a0efbcc2c4b7a338307461b.webm",
+    "jmcs://jd-contents/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_LOW.vp9.webm/241ef508edd99fb43a12375a289f4efd.webm",
+    "jmcs://jd-contents/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_MID.vp8.webm/1615baca23edebee69697582e7c56a43.webm",
+    "jmcs://jd-contents/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_MID.vp9.webm/6b2339dec65a3b4e435dad962f477e90.webm",
+    "jmcs://jd-contents/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_ULTRA.vp8.webm/0063492ef0cb034680a9bb973022496a.webm",
+    "jmcs://jd-contents/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/RockNRoll/RockNRoll_MapPreviewNoSoundCrop_ULTRA.vp9.webm/44bcfd633e0e42f48d2c60d312a0b3b8.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "dd6ce10409fdcb838bc7c9b6de4971a8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RockNRoll/ps4/RockNRoll_MAIN_SCENE_ORBIS.zip/dd6ce10409fdcb838bc7c9b6de4971a8.zip",
+      "version": 9
+    },
+    "pc": {
+      "md5": "2c2cc5abab05805d1ae05ebb46214721",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RockNRoll/pc/RockNRoll_MAIN_SCENE_PC.zip/2c2cc5abab05805d1ae05ebb46214721.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "e6d014f5c317a5f6fd8a902a50de4015",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RockNRoll/wiiu/RockNRoll_MAIN_SCENE_WIIU.zip/e6d014f5c317a5f6fd8a902a50de4015.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "19e12d6eb42ef42782aba7bca4ffdf44",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RockNRoll/nx/RockNRoll_MAIN_SCENE_NX.zip/19e12d6eb42ef42782aba7bca4ffdf44.zip",
+      "version": 7
+    }
+  },
+  "mapType": "jdu"
+}

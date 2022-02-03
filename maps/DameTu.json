@@ -1,0 +1,112 @@
+{
+  "artist": "El Chombo Ft. Cutty Ranks",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_banner_bkg.jpg/a155433787dd0e5774b79b7ac1692479.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Coach_1.png/1868eb008984b457552d67b559a16030.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_Generic.jpg/f83a6467add2be6f7b655cabc099243c.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_1024.png/267bd24024598b5159797a8027061d4a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_Online.jpg/9658e90d8c5b7cd96c32a9ca304f36b9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_AlbumBkg.jpg/9b4f643ab7141827a260ebfee4a1bcc5.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_AlbumCoach.png/f83ca94219fd0a7e1e11e5a7646dd416.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Coach_1_Phone.png/568c4068c1d6005a475ed03d47098aeb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_Phone.jpg/9658e90d8c5b7cd96c32a9ca304f36b9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_VideoPreview.webm/4509d269f1d7dbca80611b7947c50811.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_banner_bkg.jpg/a155433787dd0e5774b79b7ac1692479.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Coach_1.png/1868eb008984b457552d67b559a16030.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_Generic.jpg/f83a6467add2be6f7b655cabc099243c.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_1024.png/267bd24024598b5159797a8027061d4a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_Online.jpg/9658e90d8c5b7cd96c32a9ca304f36b9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_AlbumBkg.jpg/9b4f643ab7141827a260ebfee4a1bcc5.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_AlbumCoach.png/f83ca94219fd0a7e1e11e5a7646dd416.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Coach_1_Phone.png/568c4068c1d6005a475ed03d47098aeb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_Phone.jpg/9658e90d8c5b7cd96c32a9ca304f36b9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_VideoPreview.webm/4509d269f1d7dbca80611b7947c50811.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_banner_bkg.tga.ckd/4cf51bbc42b0439154890800f760a473.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Coach_1.tga.ckd/28b40ec636fee771592c80eda32b3cdf.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_Generic.tga.ckd/96fa02a925ce250022d277c710124092.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_1024.png/267bd24024598b5159797a8027061d4a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_Online.tga.ckd/4f99a5263a381bf32deb6587a5182bb7.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_AlbumBkg.tga.ckd/1b99693789a781d53639ad7b57a56d77.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_AlbumCoach.tga.ckd/e1e4fd4aea6302f8d12d43db81aec292.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Coach_1_Phone.png/568c4068c1d6005a475ed03d47098aeb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_Cover_Phone.jpg/9658e90d8c5b7cd96c32a9ca304f36b9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_VideoPreview.webm/4509d269f1d7dbca80611b7947c50811.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26208,52368,78576,104736,130944,157104,183265,209473,235633,261841,288001,314209,340369,366577,392737,418945,445105,471265,497474,523634,549842,576002,602210,628370,654578,680738,706946,733106,759266,785475,811635,837843,864003,890211,916371,942579,968739,994947,1021107,1047267,1073475,1099636,1125844,1152004,1178212,1204372,1230580,1256740,1282948,1309108,1335268,1361476,1387637,1413845],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":268,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":54,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/dametu/dametu_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Rodney S. Clark Donalds and Philip Thomas. Published by © 2018 NW Collections (BMI) obo Jack Russell Music Ltd. (PRS) / Juston Records – Jack Russell. Courtesy of Ultra Records, LLC. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFDA07FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 150,
+  "mapName": "DameTu",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497055\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DameTu/DameTu_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1107\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483361\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DameTu/DameTu_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2079405\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DameTu/DameTu_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2079028\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DameTu/DameTu_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "DameTu_mapContent"
+  },
+  "parentMapName": "DameTu",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "0A817DFF",
+    "songColor_1B": "003426FF",
+    "songColor_2A": "1DDEB3FF",
+    "songColor_2B": "0025E2FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Dame Tu Cosita",
+  "urls": {
+    "jmcs://jd-contents/DameTu/DameTu_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_AudioPreview.ogg/3e9408f6a944644994070aa0ca1b9fdf.ogg",
+    "jmcs://jd-contents/DameTu/DameTu_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_MapPreviewNoSoundCrop_HIGH.vp8.webm/5d538e828b899140154fa60072138acf.webm",
+    "jmcs://jd-contents/DameTu/DameTu_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_MapPreviewNoSoundCrop_HIGH.vp9.webm/51bfdf21cfa281432e064cb5f1b5a4b0.webm",
+    "jmcs://jd-contents/DameTu/DameTu_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_MapPreviewNoSoundCrop_LOW.vp8.webm/e564e1b14049257fcff6524589454ab3.webm",
+    "jmcs://jd-contents/DameTu/DameTu_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_MapPreviewNoSoundCrop_LOW.vp9.webm/85f977a6da3a79b4da11e9f25863affd.webm",
+    "jmcs://jd-contents/DameTu/DameTu_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_MapPreviewNoSoundCrop_MID.vp8.webm/d2e15830c19a1356303c0ea73d6611f9.webm",
+    "jmcs://jd-contents/DameTu/DameTu_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_MapPreviewNoSoundCrop_MID.vp9.webm/86607f7b46ce18ed9e3fa8fe2029b245.webm",
+    "jmcs://jd-contents/DameTu/DameTu_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_MapPreviewNoSoundCrop_ULTRA.vp8.webm/7b62817d600c94fd86a63822b9baa64e.webm",
+    "jmcs://jd-contents/DameTu/DameTu_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_MapPreviewNoSoundCrop_ULTRA.vp9.webm/9fe0dc7cc834da30c741e55113b2c1c0.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "e447c2a0e4ba7db4358a0a8ae51bf116",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_MAIN_SCENE_ORBIS.zip/e447c2a0e4ba7db4358a0a8ae51bf116.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "494906240bc908ab294dbda855da8f4f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_MAIN_SCENE_NX.zip/494906240bc908ab294dbda855da8f4f.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "ed46d85b6a761f8bcdb0d9e56cc10806",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_MAIN_SCENE_PC.zip/ed46d85b6a761f8bcdb0d9e56cc10806.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "ca129d1490613969c42b7a72393fe6c4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DameTu/DameTu_MAIN_SCENE_WIIU.zip/ca129d1490613969c42b7a72393fe6c4.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

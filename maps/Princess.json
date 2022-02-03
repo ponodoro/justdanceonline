@@ -1,0 +1,96 @@
+{
+  "artist": "Jam Hsiao",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/ps4/Princess_banner_bkg.tga.ckd/2015435be1f4592f3580fb295cd51991.ckd",
+      "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/ps4/Princess_Coach_1.tga.ckd/3e14d83928c54b0bf7bed92cc7f01efd.ckd",
+      "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/ps4/Princess_Cover_Generic.tga.ckd/833e0966821219a9436393a7a8cad9cf.ckd",
+      "cover_1024ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/Princess_Cover_1024.png/665d9ac0cf5c7b4219174ff2f211e94b.png",
+      "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/ps4/Princess_Cover_Online.tga.ckd/c6b58fac0b013f4bc6a958f5f81cb4ac.ckd",
+      "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/ps4/Princess_Cover_AlbumBkg.tga.ckd/0bfb4fb66cba3e43de0076ef2d425ad5.ckd",
+      "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/ps4/Princess_Cover_AlbumCoach.tga.ckd/a7b785bf222bf272b37c7f61fd82314e.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/Princess_Coach_1_Phone.png/f6b0647818dceb446a43d4ff76705145.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/Princess_Cover_Phone.jpg/ecba396305a63e2d1c444587d76e9f4a.jpg",
+      "videoPreviewVideoURL": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/Princess_VideoPreview.webm/9bfa2a72fcf64ef5a47cfe441d8e6a9e.webm",
+      "map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/ps4/Princess_map_bkg.tga.ckd/81fb85458a2d9d518351c72484c54d3f.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/nx/Princess_banner_bkg.tga.ckd/7ef7b8fcbb68c4452c2651181d109a66.ckd",
+      "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/nx/Princess_Coach_1.tga.ckd/2c0d0ec4704b90c3efccde184bfd3b65.ckd",
+      "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/nx/Princess_Cover_Generic.tga.ckd/5fb08b8824597783aa9a839bd407d2bb.ckd",
+      "cover_1024ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/Princess_Cover_1024.png/665d9ac0cf5c7b4219174ff2f211e94b.png",
+      "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/nx/Princess_Cover_Online.tga.ckd/f165add227d7c7b13c3ac5ba9e625cbe.ckd",
+      "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/nx/Princess_Cover_AlbumBkg.tga.ckd/339f6707b15e7395a6884e0dbe8e260c.ckd",
+      "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/nx/Princess_Cover_AlbumCoach.tga.ckd/df70f8913ceb9924608c3556eea5ba6a.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/Princess_Coach_1_Phone.png/f6b0647818dceb446a43d4ff76705145.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/Princess_Cover_Phone.jpg/ecba396305a63e2d1c444587d76e9f4a.jpg",
+      "videoPreviewVideoURL": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/Princess_VideoPreview.webm/9bfa2a72fcf64ef5a47cfe441d8e6a9e.webm",
+      "map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/nx/Princess_map_bkg.tga.ckd/6ff7410a20f35cf8714dd94b8121e14d.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22677,45355,68032,90709,113386,136063,158740,181417,204095,226772,249449,272126,294803,317480,340158,362835,385512,408189,430866,453543,476221,498898,521575,544252,566929,589606,612284,634961,657638,680315,702992,725669,748347,771024,793701,816378,839055,861732,884410,907087,929764,952441,975118,997795,1020473,1043150,1065827,1088504,1111181,1133858,1156536,1179213,1201890,1224567,1247244,1269921,1292599,1315276,1337953,1360630,1383307,1405984,1428662],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":464,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/princess/princess_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark.  Written by Shih Shiong Lee and Zhen-Chuan Chen. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing MGB Singapore. / Bao Bao Music (MUST) / Wise Entertainment Pte Ltd. (NS). Courtesy of Warner Music Taiwan. By arrangement with Warner Music Group Film & TV Licensing.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "EC3836FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 220.158,
+  "mapName": "Princess",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496037\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Princess/Princess_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478663\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Princess/Princess_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2925909\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Princess/Princess_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4596924\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Princess/Princess_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4514,
+  "packages": {
+    "mapContent": "Princess_mapContent"
+  },
+  "parentMapName": "Princess",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "D3004BFF",
+    "songColor_1B": "89003AFF",
+    "songColor_2A": "FF6868FF",
+    "songColor_2B": "AF0063FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Wangfei (Princess)",
+  "urls": {
+    "jmcs://jd-contents/Princess/Princess_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/Princess_AudioPreview.ogg/0a9980fc5280b89d976db8a789284620.ogg",
+    "jmcs://jd-contents/Princess/Princess_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/Princess_MapPreviewNoSoundCrop_HIGH.vp8.webm/bacf2599b5841c416370484c1b9587cf.webm",
+    "jmcs://jd-contents/Princess/Princess_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/Princess_MapPreviewNoSoundCrop_HIGH.vp9.webm/f487a05426ce4bb854614dbdc5e14bf8.webm",
+    "jmcs://jd-contents/Princess/Princess_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/Princess_MapPreviewNoSoundCrop_LOW.vp8.webm/78e41cacd09a691dfd2b6290f8b97f2f.webm",
+    "jmcs://jd-contents/Princess/Princess_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/Princess_MapPreviewNoSoundCrop_LOW.vp9.webm/e46f2a3ab7c4c1f51ed96e56694d9b55.webm",
+    "jmcs://jd-contents/Princess/Princess_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/Princess_MapPreviewNoSoundCrop_MID.vp8.webm/a11fe4dbabc31a4c1359fdc750b2704e.webm",
+    "jmcs://jd-contents/Princess/Princess_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/Princess_MapPreviewNoSoundCrop_MID.vp9.webm/9cab1c87ebd23f9c821e9df9a3312f32.webm",
+    "jmcs://jd-contents/Princess/Princess_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/Princess_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d98586cf650aba826845f2edd83436fb.webm",
+    "jmcs://jd-contents/Princess/Princess_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/Princess_MapPreviewNoSoundCrop_ULTRA.vp9.webm/37f1ff0e49363eee14a349716643c9df.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "821a334977a9faa7d65d0358ffddf506",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/ps4/Princess_MAIN_SCENE_ORBIS.zip/821a334977a9faa7d65d0358ffddf506.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "c1b1f70440422bbbaa8dd46ed9aaa395",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Princess/nx/Princess_MAIN_SCENE_NX.zip/c1b1f70440422bbbaa8dd46ed9aaa395.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "fc52500ee836a23b9ee8e36b6531d113",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Princess/pc/fc52500ee836a23b9ee8e36b6531d113.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

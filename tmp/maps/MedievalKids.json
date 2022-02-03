@@ -1,0 +1,107 @@
+{
+  "artist": "The Just Dance Orchestra",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/ps4/MedievalKids_banner_bkg.tga.ckd/02bc96a8cb2e4ae6f582f7e2b9826f1e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/ps4/MedievalKids_Coach_1.tga.ckd/db1ad00cc837e401a49dd9476cf40924.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/ps4/MedievalKids_Coach_2.tga.ckd/012d0bc02bcdf95a0e046e05b0566320.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/ps4/MedievalKids_Cover_Generic.tga.ckd/85e92fee0d8086c783a8712b7a1dd124.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/MedievalKids_Cover_1024.png/9618d3b10a429375dfc4b1b3b3067967.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/ps4/MedievalKids_Cover_Online.tga.ckd/6c34036547744ed171cca6954ab70999.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/ps4/MedievalKids_Cover_AlbumBkg.tga.ckd/dd95e27cc2f4b9ca6d8468fd8fbd5d68.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/ps4/MedievalKids_Cover_AlbumCoach.tga.ckd/673424be2dde0abf70e663612f0e4b82.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/MedievalKids_Coach_1_Phone.png/a5e03118eb9cdd5545f0d451686f8faa.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/MedievalKids_Coach_2_Phone.png/ac6ba5fbddd82d5d12855b7c64db9a59.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/MedievalKids_Cover_Phone.jpg/e87ed1425140bebbce9d25e4c5ad7708.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/ps4/MedievalKids_map_bkg.tga.ckd/c888f7d2b14a805c42fc69f196fd066b.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/nx/MedievalKids_banner_bkg.tga.ckd/37d1b00a69a0778d121d3b08e98e3667.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/nx/MedievalKids_Coach_1.tga.ckd/2211360c1906392abb7b1d6fa17be718.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/nx/MedievalKids_Coach_2.tga.ckd/104989fbe30974aa04bffff0115957be.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/nx/MedievalKids_Cover_Generic.tga.ckd/84807bd6108b56ff0367ef4d5fe7d4b7.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/MedievalKids_Cover_1024.png/9618d3b10a429375dfc4b1b3b3067967.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/nx/MedievalKids_Cover_Online.tga.ckd/0ced0eeea9d96bf1b28913fd780907ba.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/nx/MedievalKids_Cover_AlbumBkg.tga.ckd/2dff9a947548c952abecec633fc7e48e.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/nx/MedievalKids_Cover_AlbumCoach.tga.ckd/f2b9fd5fe55c555d6f1ff244d7703a58.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/MedievalKids_Coach_1_Phone.png/a5e03118eb9cdd5545f0d451686f8faa.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/MedievalKids_Coach_2_Phone.png/ac6ba5fbddd82d5d12855b7c64db9a59.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/MedievalKids_Cover_Phone.jpg/e87ed1425140bebbce9d25e4c5ad7708.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MedievalKids/nx/MedievalKids_map_bkg.tga.ckd/ada5065d0f8cf85313ce41401ebd8466.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20256,40560,60816,81120,101376,121681,141937,162241,182497,202801,223057,243361,263665,283921,304225,324481,344786,365042,385346,405602,425906,446162,466466,486722,507026,527282,547586,567891,588147,608451,628707,649011,669267,689571,709827,730131,750387,770691,790948,811252,831556,851812,872116,892372,912676,932932,953236,973492,993796,1014053,1034357,1054613,1074917,1095173,1115477,1135781,1156037,1176341,1196597,1216901,1237158,1257462,1277718,1298022,1318278,1338582,1358838,1379142,1399398,1419702],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-20,\"endBeat\":240,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":70,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/medievalkids/medievalkids_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Composed by Steve Ouimette. Published by Ubisoft Music. Performed by Steve Ouimette, Willie Murillo (trumpet) and Paul Klintworth (French horn). Music Supervision: Manu Bachet. Courtesy of Ubisoft Music.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 109.85799999999999,
+  "mapName": "MedievalKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"492434\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1474501\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2680026\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3005749\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "MedievalKids_mapContent"
+  },
+  "parentMapName": "MedievalKids",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all"
+  ],
+  "songColors": {
+    "songColor_1A": "6FFF78FF",
+    "songColor_1B": "00465BFF",
+    "songColor_2A": "00DC0DFF",
+    "songColor_2B": "A62E06FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "subscribedSong",
+    "ExcludedFromWDF"
+  ],
+  "title": "My Friend The Dragon",
+  "urls": {
+    "jmcs://jd-contents/MedievalKids/MedievalKids_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/MedievalKids/MedievalKids_AudioPreview.ogg/ef75a34173de8d02a93f7413d623e862.ogg",
+    "jmcs://jd-contents/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/6fc642401372facbf7be07f122a9c378.webm",
+    "jmcs://jd-contents/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/6a002ef0228be5235f0b6bc2fba4c3ce.webm",
+    "jmcs://jd-contents/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_LOW.vp8.webm/6695d5f205e3a1a214a7b871d6eceecd.webm",
+    "jmcs://jd-contents/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_LOW.vp9.webm/974b0a5a3e3233725f0e1227f8fc5058.webm",
+    "jmcs://jd-contents/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_MID.vp8.webm/d8c639b83b007c6e2f77a7fa73c5e872.webm",
+    "jmcs://jd-contents/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_MID.vp9.webm/8c373634617adac9f8012f9b6def358b.webm",
+    "jmcs://jd-contents/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/cf9d842c84b244d11c7ecacba2b70608.webm",
+    "jmcs://jd-contents/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/MedievalKids/MedievalKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/ff84cdf57f5a8213727f3dab1e076114.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "24d1fe3a8b9d254c72a98466b91d5d77",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MedievalKids/ps4/MedievalKids_MAIN_SCENE_ORBIS.zip/24d1fe3a8b9d254c72a98466b91d5d77.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "004a52c7c15d2f44dfab8fab2006c55b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MedievalKids/nx/MedievalKids_MAIN_SCENE_NX.zip/004a52c7c15d2f44dfab8fab2006c55b.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "4c02c19f7f8f252730058825c0017dd3",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/MedievalKids/pc/4c02c19f7f8f252730058825c0017dd3.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939
+}

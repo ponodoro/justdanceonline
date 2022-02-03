@@ -1,0 +1,110 @@
+{
+  "artist": "Little Mix Ft. Nicki Minaj",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/ps4/WomanLikeMe_banner_bkg.tga.ckd/b36ae9f1632072021425161ef874cfad.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/ps4/WomanLikeMe_Coach_1.tga.ckd/22d69e6de275b1eddec6d4f30006e99c.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/ps4/WomanLikeMe_Coach_2.tga.ckd/b390f510cebc511ab58917b8b36165fe.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/ps4/WomanLikeMe_Coach_3.tga.ckd/729b64dbeaaf6229272049af2bd428ba.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/ps4/WomanLikeMe_Cover_Generic.tga.ckd/3d9ca357e3012874fb06e45d2b04f2cc.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_Cover_1024.png/363d8659785d40580edb2102e23eda05.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/ps4/WomanLikeMe_Cover_Online.tga.ckd/bac5371b619a5b15edd4b01aa153eeaf.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/ps4/WomanLikeMe_Cover_AlbumBkg.tga.ckd/3046f07e060a4cb48c04b983617cf88d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/ps4/WomanLikeMe_Cover_AlbumCoach.tga.ckd/5340645720faa3db526f391b89b1fdf9.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_Coach_1_Phone.png/6c169bd39132fddb19951bfe6614e945.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_Coach_2_Phone.png/1af58147db8ccf5ae1c3f4b273ed9173.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_Coach_3_Phone.png/741c6c29f0ca266486e73b6312332afe.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_Cover_Phone.jpg/88afe55eeb2742eeb4336e7bbc561ce0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_VideoPreview.webm/0be95fa627071767ddbf00fb558ff643.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/ps4/WomanLikeMe_map_bkg.tga.ckd/2cb00afd955de311811c7cd1e6a5473d.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/nx/WomanLikeMe_banner_bkg.tga.ckd/9547875025b3e238f404205d1732bb75.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/nx/WomanLikeMe_Coach_1.tga.ckd/7753655ccf38977c372986e8fb3a09ff.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/nx/WomanLikeMe_Coach_2.tga.ckd/c1a005de562a9a303cc3595515af2b25.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/nx/WomanLikeMe_Coach_3.tga.ckd/e36c52e5c1d9a39c0ed19f63f42bd781.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/nx/WomanLikeMe_Cover_Generic.tga.ckd/d15431f7d896fe901912dcd815a23823.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_Cover_1024.png/363d8659785d40580edb2102e23eda05.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/nx/WomanLikeMe_Cover_Online.tga.ckd/5406e8d379f3ce35d43717e4cd49b445.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/nx/WomanLikeMe_Cover_AlbumBkg.tga.ckd/3cf6b3de2c9fc99596f778e31aa2a715.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/nx/WomanLikeMe_Cover_AlbumCoach.tga.ckd/bd83e4ec122174bf003f688529fa3a46.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_Coach_1_Phone.png/6c169bd39132fddb19951bfe6614e945.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_Coach_2_Phone.png/1af58147db8ccf5ae1c3f4b273ed9173.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_Coach_3_Phone.png/741c6c29f0ca266486e73b6312332afe.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_Cover_Phone.jpg/88afe55eeb2742eeb4336e7bbc561ce0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_VideoPreview.webm/0be95fa627071767ddbf00fb558ff643.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/nx/WomanLikeMe_map_bkg.tga.ckd/bcf058329d7cdcf427aaa86cbaa0e06c.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,38400,76800,115200,153600,192000,230400,268800,307200,345600,384000,422400,460800,499200,537600,576000,614400,652800,691200,729600,768000,806400,844800,883200,921600,960000,998400,1036800,1075200,1113600,1152000,1190400,1228800,1267200,1305600,1344000,1382400,1420800],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":270,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":37,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/womanlikeme/womanlikeme_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Jessica Hannah Glynne, Steve Mac, Onika Tanya Maraj and Ed Sheeran. Published by BMG Gold Songs (ASCAP) obo Black Butter Music Publishing Ltd. (NS) / Universal Music Publishing Limited / Ed Sheeran Limited (PRS) / Sony/ATV Music Publishing (UK) Limited (PRS). All rights reserved. Used with permission. Courtesy of Simco Limited/Sony Music Entertainment (UK) Limited/Columbia Records. By arrangement with Sony Music Entertainment. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "21F2ECFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 218.39999999999998,
+  "mapName": "WomanLikeMe",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496400\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1107\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484256\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2954165\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5816656\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "WomanLikeMe_mapContent"
+  },
+  "parentMapName": "WomanLikeMe",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "866EFFFF",
+    "songColor_1B": "391566FF",
+    "songColor_2A": "EFAE00FF",
+    "songColor_2B": "9B3E00FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Woman Like Me",
+  "urls": {
+    "jmcs://jd-contents/WomanLikeMe/WomanLikeMe_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_AudioPreview.ogg/671a5e343c01206f6e31f2f9700701c3.ogg",
+    "jmcs://jd-contents/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_HIGH.vp8.webm/b36c7f1fa998442e01ebfe9294c0a6be.webm",
+    "jmcs://jd-contents/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_HIGH.vp9.webm/e70d8c3322f1a381fbc6cdfcea3a91ea.webm",
+    "jmcs://jd-contents/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_LOW.vp8.webm/ef67b61a13ba7b2b314af394670dca9b.webm",
+    "jmcs://jd-contents/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_LOW.vp9.webm/f1908d513f0c909aa4cd504e15b4d023.webm",
+    "jmcs://jd-contents/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_MID.vp8.webm/eb1a7348b049a14f289e3592532e2343.webm",
+    "jmcs://jd-contents/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_MID.vp9.webm/8af30d4d03ac61f0e62bd38db9b359c5.webm",
+    "jmcs://jd-contents/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm/c1ff95b4384a377e043ba65afc2f2fbc.webm",
+    "jmcs://jd-contents/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/WomanLikeMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm/8f136a759948acc1878ffaa37ee9deab.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "3c3092b5740f27af7a6c379a034fdcac",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/ps4/WomanLikeMe_MAIN_SCENE_ORBIS.zip/3c3092b5740f27af7a6c379a034fdcac.zip",
+      "version": 51
+    },
+    "nx": {
+      "md5": "de762ca504544f1215e79f1ee28a62a8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/nx/WomanLikeMe_MAIN_SCENE_NX.zip/de762ca504544f1215e79f1ee28a62a8.zip",
+      "version": 52
+    },
+    "pc": {
+      "md5": "1d4bf876d7cc705380578b7bf1be7484",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/pc/WomanLikeMe_MAIN_SCENE_PC.zip/1d4bf876d7cc705380578b7bf1be7484.zip",
+      "version": 38
+    },
+    "wiiu": {
+      "md5": "23d7ccd8cc6bccaf1a1f65a00e0a070f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WomanLikeMe/wiiu/WomanLikeMe_MAIN_SCENE_WIIU.zip/23d7ccd8cc6bccaf1a1f65a00e0a070f.zip",
+      "version": 18
+    }
+  },
+  "mapType": "jdu"
+}

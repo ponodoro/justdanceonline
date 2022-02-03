@@ -1,0 +1,106 @@
+{
+  "artist": "Ubisoft Meets Nintendo",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/ps4/MarioNX_banner_bkg.tga.ckd/1bc366f71421b2d8935bfa7cf217d271.ckd",
+      "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/ps4/MarioNX_Coach_1.tga.ckd/b89c076082e88a926deef950a8aaadd4.ckd",
+      "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/ps4/MarioNX_Cover_Generic.tga.ckd/1e9e77f7d8c38a6ccbedd69da5607801.ckd",
+      "cover_1024ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/MarioNX_Cover_1024.png/8f6c074706519326dc633f93ee394381.png",
+      "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/ps4/MarioNX_Cover_Online.tga.ckd/af6aabf1a51254d52381e28c2f060772.ckd",
+      "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/ps4/MarioNX_Cover_AlbumBkg.tga.ckd/ae4e427c5cb2977f8cd339cd52662d80.ckd",
+      "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/ps4/MarioNX_Cover_AlbumCoach.tga.ckd/b2e41d07a9dd53b9fb8a3e3085358d56.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/MarioNX_Coach_1_Phone.png/d62f16a274faa7ff6e73b7efbd1c85f8.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/MarioNX_Cover_Phone.jpg/b64cc96088aac0b514bdf96341c3e383.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MarioNX/MarioNX_VideoPreview.webm/efa6d7e43f40b11fe17c1a998e231a37.webm",
+      "map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/ps4/MarioNX_map_bkg.tga.ckd/704d76fbe5adf97920e30ca8f97248b9.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/nx/MarioNX_banner_bkg.tga.ckd/083ebeda72582605effa8d71173df30f.ckd",
+      "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/nx/MarioNX_Coach_1.tga.ckd/88e06e9022f3a0090e8dbc58adb257c1.ckd",
+      "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/nx/MarioNX_Cover_Generic.tga.ckd/a824aba8c23b85250ed87786a5c66e1b.ckd",
+      "cover_1024ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/MarioNX_Cover_1024.png/8f6c074706519326dc633f93ee394381.png",
+      "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/nx/MarioNX_Cover_Online.tga.ckd/8f02cc0a477aee2492f52d0f967b1917.ckd",
+      "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/nx/MarioNX_Cover_AlbumBkg.tga.ckd/00267a736577f68093228a3a2e0860ac.ckd",
+      "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/nx/MarioNX_Cover_AlbumCoach.tga.ckd/f9c8fa0c39672eaa753ca7eff47f3bea.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/MarioNX_Coach_1_Phone.png/d62f16a274faa7ff6e73b7efbd1c85f8.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/MarioNX_Cover_Phone.jpg/b64cc96088aac0b514bdf96341c3e383.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MarioNX/MarioNX_VideoPreview.webm/efa6d7e43f40b11fe17c1a998e231a37.webm",
+      "map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/nx/MarioNX_map_bkg.tga.ckd/f48e9c36713c0e8906b3a7e10994a897.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28704,57408,86112,114864,143568,172271,200975,229679,258431,287135,315839,344543,373247,401999,430703,459407,488111,516815,545567,574271,602975,631679,660383,689135,717839,746543,775247,803951,832703,861407,890111,918815,947519,976271,1004975,1033679,1062383,1091087,1119839,1148543,1177247,1205951,1234703,1263407,1292111,1320815,1349519,1378271,1406975,1435679],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":-2,\"endBeat\":372,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":50,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/marionx/marionx_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Music composed by Kōji Kondō. Arrangements by Steve Ouimette. SUPER MARIO characters and music © Nintendo. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 199.117,
+  "mapName": "MarioNX",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"487973\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MarioNX/MarioNX_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1263045\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MarioNX/MarioNX_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1290999\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MarioNX/MarioNX_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1291433\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MarioNX/MarioNX_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "MarioNX_mapContent"
+  },
+  "parentMapName": "MarioNX",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "75BA26FF",
+    "songColor_1B": "054643FF",
+    "songColor_2A": "7EA5F2FF",
+    "songColor_2B": "284578FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "KidsMode",
+    "FORCERUMBLE",
+    "freeSong",
+    "ExcludedFromWDF",
+    "ExcludedFromWDF-PC"
+  ],
+  "title": "Just Mario - 舞力马力欧",
+  "urls": {
+    "jmcs://jd-contents/MarioNX/MarioNX_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/MarioNX_AudioPreview.ogg/0351962fe79555d41301485a85e4aa80.ogg",
+    "jmcs://jd-contents/MarioNX/MarioNX_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/MarioNX_MapPreviewNoSoundCrop_HIGH.vp8.webm/fbcf9b3a5e78d4c6ecd81a3fae476b98.webm",
+    "jmcs://jd-contents/MarioNX/MarioNX_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/MarioNX_MapPreviewNoSoundCrop_HIGH.vp9.webm/662500a04aad7a5c898873f5658b5778.webm",
+    "jmcs://jd-contents/MarioNX/MarioNX_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/MarioNX_MapPreviewNoSoundCrop_LOW.vp8.webm/47dc09b2ba4238ba311f7bb54b8e0d1a.webm",
+    "jmcs://jd-contents/MarioNX/MarioNX_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/MarioNX_MapPreviewNoSoundCrop_LOW.vp9.webm/3803eecfd0f34f5f0dd24981f525a8b0.webm",
+    "jmcs://jd-contents/MarioNX/MarioNX_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/MarioNX_MapPreviewNoSoundCrop_MID.vp8.webm/1c8c9d3673268b0310b063510b94c36e.webm",
+    "jmcs://jd-contents/MarioNX/MarioNX_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/MarioNX_MapPreviewNoSoundCrop_MID.vp9.webm/bae5637fb4f54cf1f92b022ae3dd1e45.webm",
+    "jmcs://jd-contents/MarioNX/MarioNX_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/MarioNX_MapPreviewNoSoundCrop_ULTRA.vp8.webm/045d5b5de18b7aaf3534631098546687.webm",
+    "jmcs://jd-contents/MarioNX/MarioNX_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/MarioNX/MarioNX_MapPreviewNoSoundCrop_ULTRA.vp9.webm/583f0d082cdd7adb71db8e729a9592b2.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "57c42919b794ca1aea37e0ad5f99026a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MarioNX/ps4/MarioNX_MAIN_SCENE_ORBIS.zip/57c42919b794ca1aea37e0ad5f99026a.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "a7d86f9c0132b6353a9b7df131467ed4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MarioNX/nx/MarioNX_MAIN_SCENE_NX.zip/a7d86f9c0132b6353a9b7df131467ed4.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "66837f467913d0cf30a05af41900764b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MarioNX/pc/MarioNX_MAIN_SCENE_PC.zip/66837f467913d0cf30a05af41900764b.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "fcc0ca19b489a3fa8c29e1da9eebf2ef",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MarioNX/wiiu/MarioNX_MAIN_SCENE_WIIU.zip/fcc0ca19b489a3fa8c29e1da9eebf2ef.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu"
+}

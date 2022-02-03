@@ -1,0 +1,113 @@
+{
+  "artist": "The Just Dance Kids",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/ggp/KIDSFraggleRock_banner_bkg.tga.ckd/4f3cfc61d86243de89f4e670fecf21a0.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/ggp/KIDSFraggleRock_Coach_1.tga.ckd/d78596af877e0cc1eb248dab15b0a512.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/ggp/KIDSFraggleRock_Cover_Generic.tga.ckd/47f4a224551e5ed08a00ed0c44c0abbd.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Cover_1024.png/a50a9058982b40b360317176a211b85b.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/ggp/KIDSFraggleRock_Cover_Online.tga.ckd/47f4a224551e5ed08a00ed0c44c0abbd.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/ggp/KIDSFraggleRock_Cover_AlbumBkg.tga.ckd/6bcdec04b055b28ebac7c2894f3dedde.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/ggp/KIDSFraggleRock_Cover_AlbumCoach.tga.ckd/c0e51045b3447ccfde58f5beb09b676c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Coach_1_Phone.png/9e8fc262fdde2fb278344046cafb2471.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Cover_Phone.jpg/c6adc622b1168a83d8ec1d7167d8a241.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/ggp/KIDSFraggleRock_map_bkg.tga.ckd/36324b891caa82424a93adba820ce4b1.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_banner_bkg.tga.ckd/304d19ea76a3079ee24f094d2287d907.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Coach_1.tga.ckd/252cc4da39d3f8162761b9ce28130d37.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Cover_Generic.tga.ckd/0d18125a5852f19005fff3e484640396.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Cover_1024.png/a50a9058982b40b360317176a211b85b.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Cover_Online.tga.ckd/0d18125a5852f19005fff3e484640396.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Cover_AlbumBkg.tga.ckd/174573e7a2974bab812ee54072744ee7.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Cover_AlbumCoach.tga.ckd/49489af91566b6a6131b1bd704abcc8f.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/nx/KIDSFraggleRock_map_bkg.tga.ckd/216615d5e6fa64e03b694a3a1d80f453.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Coach_1_Phone.png/9e8fc262fdde2fb278344046cafb2471.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Cover_Phone.jpg/c6adc622b1168a83d8ec1d7167d8a241.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_banner_bkg.tga.ckd/5b243a4a6d4ed79b02a48153183d2284.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Coach_1.tga.ckd/a84900a43965ab57102756373caeaab6.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Cover_Generic.tga.ckd/a859495bd59605f9cf44f81591487286.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Cover_1024.png/a50a9058982b40b360317176a211b85b.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Cover_Online.tga.ckd/a859495bd59605f9cf44f81591487286.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Cover_AlbumBkg.tga.ckd/eda567067e1b4ea6c6e4979282851eaf.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Cover_AlbumCoach.tga.ckd/7e3e6d0029f8ff13e3bc2a5923178ba1.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Coach_1_Phone.png/9e8fc262fdde2fb278344046cafb2471.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_Cover_Phone.jpg/c6adc622b1168a83d8ec1d7167d8a241.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25008,50064,75072,100128,125616,151104,175824,200544,225312,250032,274752,299472,324192,348912,373632,398352,423456,448560,473616,498720,523776,548880,573936,599040,624048,649056,674064,699072,724080,749088,774096,799104,824111,849071,874079,899087,924095,949103,974111,999119,1024127,1049135,1074143,1099151,1124159,1149167,1174175,1199183,1223951,1248719,1273487,1298255,1323311,1348367,1373423,1398479,1423535],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":221,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/kidsfragglerock/kidsfragglerock_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0F0FFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 115.38199999999999,
+  "mapName": "KIDSFraggleRock",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"474897\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1426031\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2676426\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2739788\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 123,
+  "packages": {
+    "mapContent": "KIDSFraggleRock_mapContent"
+  },
+  "parentMapName": "KIDSFraggleRock",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FFC600FF",
+    "songColor_1B": "FF8400FF",
+    "songColor_2A": "23FFE1FF",
+    "songColor_2B": "0F8BAEFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Fraggle Rock Theme",
+  "urls": {
+    "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_AudioPreview.ogg/654bfc427ad3efdf964115fac68ffaf3.ogg",
+    "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_HIGH.vp8.webm/e5da2f1c2a933c4168cd979db3d1e192.webm",
+    "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_HIGH.vp9.webm/ee40f9e4e796b6034494f296909ffa85.webm",
+    "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_LOW.vp8.webm/6aebb6b22efa684eb171301bc6b7a32f.webm",
+    "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_LOW.vp9.webm/5a00634752147f9379f6a3953494786a.webm",
+    "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_MID.vp8.webm/17813aa7f6848b4d284adf593702cf61.webm",
+    "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_MID.vp9.webm/0c6684343ccbe4c41e2b2353fe95b8a3.webm",
+    "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_ULTRA.vp8.webm/771f021b495575a284c2955e620f4331.webm",
+    "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_MapPreviewNoSoundCrop_ULTRA.vp9.webm/435d7c9c450a33feccc958151a937798.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "f83055a84c94776abf7543327cb1f142",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_MAIN_SCENE_ORBIS.zip/f83055a84c94776abf7543327cb1f142.zip",
+      "version": 22
+    },
+    "pc": {
+      "md5": "6006664010c5b23a1d5ed5dd11b578ab",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_MAIN_SCENE_PC.zip/6006664010c5b23a1d5ed5dd11b578ab.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "f023c4112a65917c7f69b5a1275e8ae9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_MAIN_SCENE_WIIU.zip/f023c4112a65917c7f69b5a1275e8ae9.zip",
+      "version": 18
+    },
+    "nx": {
+      "md5": "30ae56af7a39cb83929759fa6bcaa1a9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSFraggleRock/KIDSFraggleRock_MAIN_SCENE_NX.zip/30ae56af7a39cb83929759fa6bcaa1a9.zip",
+      "version": 10
+    }
+  },
+  "mapType": "jdu"
+}

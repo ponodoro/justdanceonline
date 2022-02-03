@@ -1,0 +1,114 @@
+{
+  "artist": "Flo Rida",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_banner_bkg.jpg/a172a0065ed35f431307769f427fa796.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Coach_1.png/cd1754d80b746ff4d8614634bb01a630.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Cover_Generic.jpg/59ba78b2e8f632647f86a9de99e6efb8.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Cover_1024.png/5bd397c10f31600c7b3fccd97ee2d5ca.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Cover_Online.jpg/8beb7dbdc024d2076d408bb8190e02f5.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Cover_AlbumBkg.jpg/c3cb94164b77c18d01b378806a4bdd59.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Cover_AlbumCoach.png/b5b268657480290b702c170c24febfb3.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Coach_1_Phone.png/6012cd161bf3b6d4046b4ce296dc1715.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Cover_Phone.jpg/8beb7dbdc024d2076d408bb8190e02f5.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_VideoPreview.webm/9c47e063c59417c9e9d143d883941c1e.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_banner_bkg.jpg/a172a0065ed35f431307769f427fa796.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Coach_1.png/cd1754d80b746ff4d8614634bb01a630.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Cover_Generic.jpg/59ba78b2e8f632647f86a9de99e6efb8.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Cover_1024.png/5bd397c10f31600c7b3fccd97ee2d5ca.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Cover_Online.jpg/8beb7dbdc024d2076d408bb8190e02f5.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Cover_AlbumBkg.jpg/c3cb94164b77c18d01b378806a4bdd59.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Cover_AlbumCoach.png/b5b268657480290b702c170c24febfb3.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Coach_1_Phone.png/6012cd161bf3b6d4046b4ce296dc1715.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Cover_Phone.jpg/8beb7dbdc024d2076d408bb8190e02f5.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_VideoPreview.webm/9c47e063c59417c9e9d143d883941c1e.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/wiiu/GoodFeeling_banner_bkg.tga.ckd/6e66cc0dbe52d5e3c462c68ba73c7292.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/wiiu/GoodFeeling_Coach_1.tga.ckd/482d75add99827afadc9269283a34c93.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/wiiu/GoodFeeling_Cover_Generic.tga.ckd/446219a53a52518ffecaae1ef8682972.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Cover_1024.png/5bd397c10f31600c7b3fccd97ee2d5ca.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/wiiu/GoodFeeling_Cover_Online.tga.ckd/446219a53a52518ffecaae1ef8682972.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/wiiu/GoodFeeling_Cover_AlbumBkg.tga.ckd/dd805c1f8736816c5f85da06b9921188.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/wiiu/GoodFeeling_Cover_AlbumCoach.tga.ckd/8822d88b89c4a45e991a4aab254cd22f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Coach_1_Phone.png/6012cd161bf3b6d4046b4ce296dc1715.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_Cover_Phone.jpg/8beb7dbdc024d2076d408bb8190e02f5.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_VideoPreview.webm/9c47e063c59417c9e9d143d883941c1e.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22500,45000,67500,90000,112500,135000,157500,180000,202500,225000,247500,270000,292500,315000,337500,360000,382500,405000,427500,450000,472500,495000,517500,540000,562500,585000,607500,630000,652500,675000,697500,720000,742500,765000,787500,810000,832500,855000,877500,900000,922500,945000,967500,990000,1012500,1035000,1057500,1080000,1102500,1125000,1147500,1170000,1192500,1215000,1237500,1260000,1282500,1305000,1327500,1350000,1372500,1395000,1417500],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":535,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/goodfeeling/goodfeeling_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F2B668FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 251.439,
+  "mapName": "GoodFeeling",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"499398\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1325556\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1439745\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1439485\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "GoodFeeling_mapContent"
+  },
+  "parentMapName": "GoodFeeling",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "4DD8F2FF",
+    "songColor_1B": "0C1343FF",
+    "songColor_2A": "E64CFFFF",
+    "songColor_2B": "410060FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Good Feeling",
+  "urls": {
+    "jmcs://jd-contents/GoodFeeling/GoodFeeling_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_AudioPreview.ogg/1fe0074e57f51b42332d67593a3ff35b.ogg",
+    "jmcs://jd-contents/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_HIGH.vp8.webm/77224654442100aad499f02d74b20210.webm",
+    "jmcs://jd-contents/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_HIGH.vp9.webm/5e81143114ee628a236a105929b8ca3b.webm",
+    "jmcs://jd-contents/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_LOW.vp8.webm/84f487469e75fe749361b52556df5949.webm",
+    "jmcs://jd-contents/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_LOW.vp9.webm/ba68d165fa867532fc5e4ab7a3558e1b.webm",
+    "jmcs://jd-contents/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_MID.vp8.webm/046ec1becaaf2c8be2aebe28b538eb0e.webm",
+    "jmcs://jd-contents/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_MID.vp9.webm/14b7e08ef7b1a7cdfd96aabe4e6e79c6.webm",
+    "jmcs://jd-contents/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ef8c2d09ab0be5c0309d6c17fbe11ce3.webm",
+    "jmcs://jd-contents/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/GoodFeeling/GoodFeeling_MapPreviewNoSoundCrop_ULTRA.vp9.webm/7399cad64e5778744fbd90d64b988aea.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "4995e81fed7c55d9a890c369a7634c9d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GoodFeeling/ps4/GoodFeeling_MAIN_SCENE_ORBIS.zip/4995e81fed7c55d9a890c369a7634c9d.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "53e2dfb7ca82f087143e0c26d84fdbdf",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GoodFeeling/pc/GoodFeeling_MAIN_SCENE_PC.zip/53e2dfb7ca82f087143e0c26d84fdbdf.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "8b3a8ff69d9e3e949070971accf593f9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GoodFeeling/wiiu/GoodFeeling_MAIN_SCENE_WIIU.zip/8b3a8ff69d9e3e949070971accf593f9.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "103fc51f2a912d7ad4b34ca04f4028f4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GoodFeeling/nx/GoodFeeling_MAIN_SCENE_NX.zip/103fc51f2a912d7ad4b34ca04f4028f4.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

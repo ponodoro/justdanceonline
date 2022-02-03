@@ -1,0 +1,114 @@
+{
+  "artist": "Tommy Sparks",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_banner_bkg.jpg/c4a292853fa0817398f1d3a1231377c0.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Coach_1.png/95f685f665dee858d167114f498b4aea.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Cover_Generic.jpg/21d7378bdd7acd9bed378a28aae2f032.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Cover_1024.png/de0c099665bb71cca265ad9679ae001d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Cover_Online.jpg/bb91f46801bbca6a3235e72c17508db3.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Cover_AlbumBkg.jpg/1a9af6c789a84983b353265d0abe7171.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Cover_AlbumCoach.png/573a8018b055156134d84d0a9d128e00.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Coach_1_Phone.png/22e9c6681baefefa83b4beabdcf910e6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Cover_Phone.jpg/bb91f46801bbca6a3235e72c17508db3.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_VideoPreview.webm/12d46425dbfcad902859703f56fa586c.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_banner_bkg.jpg/c4a292853fa0817398f1d3a1231377c0.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Coach_1.png/95f685f665dee858d167114f498b4aea.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Cover_Generic.jpg/21d7378bdd7acd9bed378a28aae2f032.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Cover_1024.png/de0c099665bb71cca265ad9679ae001d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Cover_Online.jpg/bb91f46801bbca6a3235e72c17508db3.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Cover_AlbumBkg.jpg/1a9af6c789a84983b353265d0abe7171.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Cover_AlbumCoach.png/573a8018b055156134d84d0a9d128e00.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Coach_1_Phone.png/22e9c6681baefefa83b4beabdcf910e6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Cover_Phone.jpg/bb91f46801bbca6a3235e72c17508db3.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_VideoPreview.webm/12d46425dbfcad902859703f56fa586c.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/wiiu/GotMeDancing_banner_bkg.tga.ckd/623140e0faf68762622fb44409a73022.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/wiiu/GotMeDancing_Coach_1.tga.ckd/2bce34e0e61ccda5e3c3dc872daa8941.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/wiiu/GotMeDancing_Cover_Generic.tga.ckd/66fb37b4761f39a56eeb8c1125c4e37c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Cover_1024.png/de0c099665bb71cca265ad9679ae001d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/wiiu/GotMeDancing_Cover_Online.tga.ckd/32952886f5eacefc3a876c602fde3ad7.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/wiiu/GotMeDancing_Cover_AlbumBkg.tga.ckd/8e774f2565ea435d872f5b0e3b20fbbc.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/wiiu/GotMeDancing_Cover_AlbumCoach.tga.ckd/2e4fd9fd46a6e8e5a404b83df6c3b677.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Coach_1_Phone.png/22e9c6681baefefa83b4beabdcf910e6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_Cover_Phone.jpg/bb91f46801bbca6a3235e72c17508db3.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_VideoPreview.webm/12d46425dbfcad902859703f56fa586c.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25714,51428,77143,102857,128571,154286,180000,205714,231428,257143,282857,308571,334286,360000,385714,411428,437143,462857,488571,514286,540000,565714,591428,617143,642857,668571,694286,720000,745714,771428,797143,822857,848571,874286,900000,925714,951428,977143,1002857,1028571,1054286,1080000,1105714,1131428,1157143,1182857,1208571,1234286,1260000,1285714,1311428,1337143,1362857,1388571,1414286],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":397,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":55,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/gotmedancing/gotmedancing_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FC5122FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 213.06699999999998,
+  "mapName": "GotMeDancing",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495911\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1467078\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1927706\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1944224\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "GotMeDancing_mapContent"
+  },
+  "parentMapName": "GotMeDancing",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "F95727FF",
+    "songColor_1B": "330119FF",
+    "songColor_2A": "50CDB6FF",
+    "songColor_2B": "010131FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "She's Got Me Dancing",
+  "urls": {
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_AudioPreview.ogg/b0c70cd890fc1392549a84d01be20261.ogg",
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_HIGH.vp8.webm/e72b90f53e057e320ef35d4c33c8a5c0.webm",
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_HIGH.vp9.webm/4738252b8acb1cd6dc06e44c3c347928.webm",
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_LOW.vp8.webm/cea64875871480c684f1d36b4fcf253e.webm",
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_LOW.vp9.webm/de7610934e1d953c335eef2c3f3ee126.webm",
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_MID.vp8.webm/fb98458def245e3adb1f9b1d4f755e34.webm",
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_MID.vp9.webm/4f7402524f5af4efe8c04234adff0287.webm",
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_ULTRA.vp8.webm/0f63a9b0b056d47c6fd3a4526b649815.webm",
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_ULTRA.vp9.webm/17089a978d2c6a23f51324ecafe75cef.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "b483b909a3eb9a3142c0f541f877d5f1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GotMeDancing/ps4/GotMeDancing_MAIN_SCENE_ORBIS.zip/b483b909a3eb9a3142c0f541f877d5f1.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "8d4c1c55159574aaae7af49666d092c0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GotMeDancing/pc/GotMeDancing_MAIN_SCENE_PC.zip/8d4c1c55159574aaae7af49666d092c0.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "10b7b4daf5d7e9c31b2f0a0c1aaae89a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GotMeDancing/wiiu/GotMeDancing_MAIN_SCENE_WIIU.zip/10b7b4daf5d7e9c31b2f0a0c1aaae89a.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "50d0a9178be9db9867e8478b60d65163",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GotMeDancing/nx/GotMeDancing_MAIN_SCENE_NX.zip/50d0a9178be9db9867e8478b60d65163.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

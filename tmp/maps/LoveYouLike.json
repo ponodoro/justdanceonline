@@ -1,0 +1,114 @@
+{
+  "artist": "Selena Gomez and The Scene",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_banner_bkg.jpg/32f957f6235df99490a9fe5a3eecbe8a.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Coach_1.png/0ef74bcdc54ae7acfe17f8c4ad2acd6a.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Cover_Generic.jpg/a9b3ab5c45bb694fff7e879304dfbfd0.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Cover_1024.png/6bbf368392cd535aceec4ba1541d9c72.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Cover_Online.jpg/b2216cdbe770b30e19b69e2562869fae.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Cover_AlbumBkg.jpg/3538be4871684e47803393e318447a36.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Cover_AlbumCoach.png/804cf41a98c357d7fb6fea43c0daf517.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Coach_1_Phone.png/40ebf8ed864b253ba57a1ddf88c54fa6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Cover_Phone.jpg/b2216cdbe770b30e19b69e2562869fae.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_VideoPreview.webm/f9ba93188ec8422b37f90a02b9b70b82.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_banner_bkg.jpg/32f957f6235df99490a9fe5a3eecbe8a.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Coach_1.png/0ef74bcdc54ae7acfe17f8c4ad2acd6a.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Cover_Generic.jpg/a9b3ab5c45bb694fff7e879304dfbfd0.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Cover_1024.png/6bbf368392cd535aceec4ba1541d9c72.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Cover_Online.jpg/b2216cdbe770b30e19b69e2562869fae.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Cover_AlbumBkg.jpg/3538be4871684e47803393e318447a36.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Cover_AlbumCoach.png/804cf41a98c357d7fb6fea43c0daf517.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Coach_1_Phone.png/40ebf8ed864b253ba57a1ddf88c54fa6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Cover_Phone.jpg/b2216cdbe770b30e19b69e2562869fae.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_VideoPreview.webm/f9ba93188ec8422b37f90a02b9b70b82.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/wiiu/LoveYouLike_banner_bkg.tga.ckd/939d3170284ddc0bbadea6891f94dcaa.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/wiiu/LoveYouLike_Coach_1.tga.ckd/6b0b02c69103293c46589cdc04928f6a.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/wiiu/LoveYouLike_Cover_Generic.tga.ckd/2e73c7e637c48e59351b3a26293ae0f9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Cover_1024.png/6bbf368392cd535aceec4ba1541d9c72.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/wiiu/LoveYouLike_Cover_Online.tga.ckd/2e73c7e637c48e59351b3a26293ae0f9.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/wiiu/LoveYouLike_Cover_AlbumBkg.tga.ckd/11a416d817994b02deba3aa0d3536b5f.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/wiiu/LoveYouLike_Cover_AlbumCoach.tga.ckd/4d57b8113757a9c87cc8226d2946eab9.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Coach_1_Phone.png/40ebf8ed864b253ba57a1ddf88c54fa6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_Cover_Phone.jpg/b2216cdbe770b30e19b69e2562869fae.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_VideoPreview.webm/f9ba93188ec8422b37f90a02b9b70b82.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24615,49230,73845,98460,123075,147690,172305,196920,221535,246150,270765,295380,319995,344610,369225,393840,418455,443070,467685,492300,516915,541530,566145,590760,615375,639990,664605,689219,713834,738449,763064,787679,812294,836909,861524,886139,910754,935369,959984,984599,1009214,1033829,1058444,1083059,1107674,1132289,1156904,1181519,1206134,1230749,1255364,1279979,1304594,1329209,1353824,1378439,1403053,1427668],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":374,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":58,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/loveyoulike/loveyoulike_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F557E2FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 192.076,
+  "mapName": "LoveYouLike",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495524\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1463164\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1657595\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1657602\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "LoveYouLike_mapContent"
+  },
+  "parentMapName": "LoveYouLike",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "6EA9FFFF",
+    "songColor_1B": "00038DFF",
+    "songColor_2A": "FFBCE6FF",
+    "songColor_2B": "3365E7FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Love You Like A Love Song",
+  "urls": {
+    "jmcs://jd-contents/LoveYouLike/LoveYouLike_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_AudioPreview.ogg/26e651dd8b35a592e46c40fd6222c040.ogg",
+    "jmcs://jd-contents/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_HIGH.vp8.webm/43c51fad5b9e1ea823550275e3561e07.webm",
+    "jmcs://jd-contents/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_HIGH.vp9.webm/255491e97cdfbc5078c716bb2ae4cf5e.webm",
+    "jmcs://jd-contents/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_LOW.vp8.webm/0ca061455e5fe20fd6c720954b6c35bd.webm",
+    "jmcs://jd-contents/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_LOW.vp9.webm/0da9523ab7b78e6dbc67327d80bb35de.webm",
+    "jmcs://jd-contents/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_MID.vp8.webm/5ddf9a04da67528f39a7d9c187d6c98f.webm",
+    "jmcs://jd-contents/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_MID.vp9.webm/a063406803e971bfb4a8e96035f21140.webm",
+    "jmcs://jd-contents/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_ULTRA.vp8.webm/11c6c43bfc1e5fa9294df450476477b8.webm",
+    "jmcs://jd-contents/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/LoveYouLike/LoveYouLike_MapPreviewNoSoundCrop_ULTRA.vp9.webm/4ca17c47fcbb72ffdaa134a9056a93de.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "cc347cfe9839e06c6d498183fd8c2405",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LoveYouLike/ps4/LoveYouLike_MAIN_SCENE_ORBIS.zip/cc347cfe9839e06c6d498183fd8c2405.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "d29e117daaec008df151cb1c95876f0e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LoveYouLike/pc/LoveYouLike_MAIN_SCENE_PC.zip/d29e117daaec008df151cb1c95876f0e.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "f48bbf39afdd5806d7e01bcdc563251c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LoveYouLike/wiiu/LoveYouLike_MAIN_SCENE_WIIU.zip/f48bbf39afdd5806d7e01bcdc563251c.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "fec5d9df57b2305d04d9a550ccf094b1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LoveYouLike/nx/LoveYouLike_MAIN_SCENE_NX.zip/fec5d9df57b2305d04d9a550ccf094b1.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

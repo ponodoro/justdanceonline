@@ -1,0 +1,90 @@
+{
+  "artist": "Apashe",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lacrimosa/Lacrimosa_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lacrimosa/Lacrimosa_Coach_1.png/b7b7fd5ffdab6010b046caf46c8b9930.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Lacrimosa/Lacrimosa_Cover_Generic.jpg/d7c295852585b97973294374dae72808.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Lacrimosa/Lacrimosa_Cover_Online.jpg/aa76dd839fc9d88d133c806b133c8604.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lacrimosa/Lacrimosa_Cover_AlbumBkg.jpg/10b99f2aa1c4d04a1a3d5a1b4a2ec858.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Lacrimosa/Lacrimosa_Cover_AlbumCoach.png/f75ba6c583f0c95fd8d6a8963661334b.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lacrimosa/Lacrimosa_Coach_1_Phone.png/99d99dbb31c689a050b3d6a0088d2140.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Lacrimosa/Lacrimosa_Cover_Phone.jpg/aa76dd839fc9d88d133c806b133c8604.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lacrimosa/Lacrimosa_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lacrimosa/Lacrimosa_Coach_1.png/b7b7fd5ffdab6010b046caf46c8b9930.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Lacrimosa/Lacrimosa_Cover_Generic.jpg/d7c295852585b97973294374dae72808.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Lacrimosa/Lacrimosa_Cover_Online.jpg/aa76dd839fc9d88d133c806b133c8604.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lacrimosa/Lacrimosa_Cover_AlbumBkg.jpg/10b99f2aa1c4d04a1a3d5a1b4a2ec858.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Lacrimosa/Lacrimosa_Cover_AlbumCoach.png/f75ba6c583f0c95fd8d6a8963661334b.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lacrimosa/Lacrimosa_Coach_1_Phone.png/99d99dbb31c689a050b3d6a0088d2140.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Lacrimosa/Lacrimosa_Cover_Phone.jpg/aa76dd839fc9d88d133c806b133c8604.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21334,42667,64000,85334,106667,128000,149334,170667,192000,213334,234667,256000,277334,298667,320000,341334,362667,384000,405334,426667,448000,469334,490667,512000,533334,554667,576000,597334,618667,640000,661334,682667,704000,725334,746667,768000,789334,810667,832000,853334,874667,896000,917334,938667,960000,981334,1002667,1024000,1045334,1066667,1088000,1109334,1130667,1152000,1173334,1194667,1216000,1237334,1258667,1280000,1301334,1322667,1344000,1365334,1386667,1408000,1429334],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-17,\"endBeat\":497,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":67,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/lacrimosa/lacrimosa_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by John de Buck. Published by Disques Kannibalen (SOCAN). Courtesy of Kannibalen Records.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "07D2FFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 228.446,
+  "mapName": "Lacrimosa",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496189\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"644-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-644\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1466627\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2355128\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2449764\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "Lacrimosa_mapContent"
+  },
+  "parentMapName": "Lacrimosa",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "F4D62BFF",
+    "songColor_1B": "260F15FF",
+    "songColor_2A": "6D2A1BFF",
+    "songColor_2B": "E02611FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Lacrimosa",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "1cf4e4b3112811a0fbb216ea5bcbf59e",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Lacrimosa/ps4/Lacrimosa_MAIN_SCENE_ORBIS.zip/1cf4e4b3112811a0fbb216ea5bcbf59e.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "93efe51d89e0a8ac467e3cc534d6c2e8",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Lacrimosa/nx/Lacrimosa_MAIN_SCENE_NX.zip/93efe51d89e0a8ac467e3cc534d6c2e8.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "24cbfc44f9e7ca172fff30656e3fe8dc",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Lacrimosa/pc/24cbfc44f9e7ca172fff30656e3fe8dc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/Lacrimosa/Lacrimosa_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/Lacrimosa/Lacrimosa_AudioPreview.ogg/4db8b6f47d807866f54b4e6c64f0ed56.ogg",
+    "jmcs://jd-contents/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_HIGH.vp8.webm/10d1ed738cdfc2002fc734d1132f2611.webm",
+    "jmcs://jd-contents/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_HIGH.vp9.webm/fd6eaa329e9fe9088adf22db46913a5b.webm",
+    "jmcs://jd-contents/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_LOW.vp8.webm/1c3e388d29ec2a64b183df84a981d42c.webm",
+    "jmcs://jd-contents/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_LOW.vp9.webm/17a7462e4c2281ee6edcdc7b895e1d32.webm",
+    "jmcs://jd-contents/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_MID.vp8.webm/28d49bd9672d532f4203965996d62014.webm",
+    "jmcs://jd-contents/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_MID.vp9.webm/ad0b1a51b0114f847f53bf4c21c7b6f7.webm",
+    "jmcs://jd-contents/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d08bb015f6fa2324a461c9d0201ef271.webm",
+    "jmcs://jd-contents/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Lacrimosa/Lacrimosa_MapPreviewNoSoundCrop_ULTRA.vp9.webm/b272e5893b0fdb32b3b0e1479f287879.webm"
+  }
+}

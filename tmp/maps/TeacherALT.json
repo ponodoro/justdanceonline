@@ -1,0 +1,121 @@
+{
+  "artist": "Nick Jonas",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_banner_bkg.jpg/e71b5bc1dff076ae46fd5af9b6553ce3.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Coach_1.png/ef6cd3369896d7a990172b03c8d85676.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Coach_2.png/49363e52268f1da5530218b037ffd526.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Cover_Generic.jpg/5486c4550823c7c8d727c2e2a820a609.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Cover_1024.png/0096d5799f1ce088dfff426cd214b28e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Cover_Online.jpg/50a2fe481d241f9b57e75bc3914ceff6.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Cover_AlbumBkg.jpg/6383bde437b9a125b22e5887062a8db4.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Cover_AlbumCoach.png/3f65f556d958a5bb2dc0801c4fd3a0dc.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Coach_1_Phone.png/4359e9836c85b152bb9eb8feba87cc7c.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Coach_2_Phone.png/81260ce45183e4faa4c38101641886ef.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Cover_Phone.jpg/50a2fe481d241f9b57e75bc3914ceff6.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_VideoPreview.webm/938fe696b0f595470087343ea4ceabbd.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_banner_bkg.jpg/e71b5bc1dff076ae46fd5af9b6553ce3.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Coach_1.png/ef6cd3369896d7a990172b03c8d85676.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Coach_2.png/49363e52268f1da5530218b037ffd526.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Cover_Generic.jpg/5486c4550823c7c8d727c2e2a820a609.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Cover_1024.png/0096d5799f1ce088dfff426cd214b28e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Cover_Online.jpg/50a2fe481d241f9b57e75bc3914ceff6.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Cover_AlbumBkg.jpg/6383bde437b9a125b22e5887062a8db4.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Cover_AlbumCoach.png/3f65f556d958a5bb2dc0801c4fd3a0dc.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Coach_1_Phone.png/4359e9836c85b152bb9eb8feba87cc7c.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Coach_2_Phone.png/81260ce45183e4faa4c38101641886ef.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Cover_Phone.jpg/50a2fe481d241f9b57e75bc3914ceff6.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_VideoPreview.webm/938fe696b0f595470087343ea4ceabbd.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/wiiu/TeacherALT_banner_bkg.tga.ckd/56aa5cdec736a257fd5e0f766131d042.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/wiiu/TeacherALT_Coach_1.tga.ckd/e8da9553aa27b3d7f65b7865b70a448b.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/wiiu/TeacherALT_Coach_2.tga.ckd/c40d18bfd038ff82f92892b3130378a2.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/wiiu/TeacherALT_Cover_Generic.tga.ckd/6af1e02ff30831f4ddbdd256baf8bc54.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Cover_1024.png/0096d5799f1ce088dfff426cd214b28e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/wiiu/TeacherALT_Cover_Online.tga.ckd/2d834090150f526ce7214a0113818fb4.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/wiiu/TeacherALT_Cover_AlbumBkg.tga.ckd/55aa3dfcf456cc641df55e9c6e7ea594.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/wiiu/TeacherALT_Cover_AlbumCoach.tga.ckd/4a5025ffdd9404f10c696340b032e880.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Coach_1_Phone.png/4359e9836c85b152bb9eb8feba87cc7c.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Coach_2_Phone.png/81260ce45183e4faa4c38101641886ef.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_Cover_Phone.jpg/50a2fe481d241f9b57e75bc3914ceff6.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_VideoPreview.webm/938fe696b0f595470087343ea4ceabbd.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24624,49200,73824,98448,123072,147696,172320,196896,221520,246144,270768,295392,319968,344592,369216,393840,418464,443088,467664,492288,516912,541536,566160,590736,615360,639984,664608,689232,713856,738432,763056,787680,812304,836928,861552,886128,910752,935376,960000,984624,1009200,1033824,1058448,1083072,1107696,1132320,1156896,1181520,1206144,1230768,1255392,1279968,1304592,1329216,1353840,1378464,1403088,1427664],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-1,\"endBeat\":388,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":58,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/teacheralt/teacheralt_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF22D6FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 199.487,
+  "mapName": "TeacherALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497625\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483643\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2848919\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3787293\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "TeacherALT_mapContent"
+  },
+  "parentMapName": "TeacherALT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "429CBBFF",
+    "songColor_1B": "0C141FFF",
+    "songColor_2A": "FFF6BCFF",
+    "songColor_2B": "343128FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Teacher",
+  "urls": {
+    "jmcs://jd-contents/TeacherALT/TeacherALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_AudioPreview.ogg/5d102edd8091aec0db3403a6623be410.ogg",
+    "jmcs://jd-contents/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/efdb1958e7b4f8283895b9a87ce01dde.webm",
+    "jmcs://jd-contents/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/7c01e838c21bb6e976159a8f6bda8b35.webm",
+    "jmcs://jd-contents/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_LOW.vp8.webm/e0abfc26d1aaae657516d9d9ef6f6731.webm",
+    "jmcs://jd-contents/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_LOW.vp9.webm/3289f5f992f028748db668fe4808f65b.webm",
+    "jmcs://jd-contents/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_MID.vp8.webm/b0a03244c9401e8e70fd683e723a7faa.webm",
+    "jmcs://jd-contents/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_MID.vp9.webm/b173bbfa4c6454ad7926ad791f616555.webm",
+    "jmcs://jd-contents/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/08d30dfa0be2896b9c9c84147c956886.webm",
+    "jmcs://jd-contents/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TeacherALT/TeacherALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/65d5e4b92f6ba167ce80a13eadbae95d.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a02a32cd4beedb329fcf23add4da8813",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TeacherALT/ps4/TeacherALT_MAIN_SCENE_ORBIS.zip/a02a32cd4beedb329fcf23add4da8813.zip",
+      "version": 13
+    },
+    "pc": {
+      "md5": "c773f5124f1d1e04f8ebfa344d006bf8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TeacherALT/pc/TeacherALT_MAIN_SCENE_PC.zip/c773f5124f1d1e04f8ebfa344d006bf8.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "f241703cf6874249fe10350ff16f09b0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TeacherALT/wiiu/TeacherALT_MAIN_SCENE_WIIU.zip/f241703cf6874249fe10350ff16f09b0.zip",
+      "version": 13
+    },
+    "nx": {
+      "md5": "c2cfdd63fe94c0f3821fddab4c18ef4a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TeacherALT/nx/TeacherALT_MAIN_SCENE_NX.zip/c2cfdd63fe94c0f3821fddab4c18ef4a.zip",
+      "version": 9
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12622
+}

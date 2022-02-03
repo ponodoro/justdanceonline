@@ -1,0 +1,132 @@
+{
+  "artist": "Angry Birds",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_banner_bkg.jpg/7a3e25c6278a1df2318a1c58c4d76d8e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_1.png/7131c0ebd6c93aaf2b3c1f2458f39fa4.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_2.png/dd0b88f112bd575936c96115e327ccf8.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_3.png/d55beeb0cf57c121e77473f2576fe5a4.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_4.png/7e77bcdc98e03d25808cc6c0e756b005.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Cover_Generic.jpg/4d4966caa68e6145e8bb7cb0855648a8.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Cover_1024.png/b66e307fb424341f1d0bca44833ea5b2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Cover_Online.jpg/c41c94d9559cedd5a89c172826c35390.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Cover_AlbumBkg.jpg/0f27903af6a417bcce2a789ee7b3a45c.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Cover_AlbumCoach.png/1c8daf64b174a5993da8cb833cbb344e.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_1_Phone.png/5959efc1b20ed6aa6c41b921d860864b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_2_Phone.png/2ef2e1c63baae9ec44da327d8639c611.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_3_Phone.png/05dc53de8ba1c28162c50a35c009d2d5.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_4_Phone.png/b35cd6ef6cad4f6212433eaae26da50f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Cover_Phone.jpg/c41c94d9559cedd5a89c172826c35390.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_VideoPreview.webm/7b831518c906516acb05eda2168ccd6f.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_banner_bkg.jpg/7a3e25c6278a1df2318a1c58c4d76d8e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_1.png/7131c0ebd6c93aaf2b3c1f2458f39fa4.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_2.png/dd0b88f112bd575936c96115e327ccf8.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_3.png/d55beeb0cf57c121e77473f2576fe5a4.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_4.png/7e77bcdc98e03d25808cc6c0e756b005.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Cover_Generic.jpg/4d4966caa68e6145e8bb7cb0855648a8.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Cover_1024.png/b66e307fb424341f1d0bca44833ea5b2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Cover_Online.jpg/c41c94d9559cedd5a89c172826c35390.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Cover_AlbumBkg.jpg/0f27903af6a417bcce2a789ee7b3a45c.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Cover_AlbumCoach.png/1c8daf64b174a5993da8cb833cbb344e.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_1_Phone.png/5959efc1b20ed6aa6c41b921d860864b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_2_Phone.png/2ef2e1c63baae9ec44da327d8639c611.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_3_Phone.png/05dc53de8ba1c28162c50a35c009d2d5.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_4_Phone.png/b35cd6ef6cad4f6212433eaae26da50f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Cover_Phone.jpg/c41c94d9559cedd5a89c172826c35390.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_VideoPreview.webm/7b831518c906516acb05eda2168ccd6f.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/wiiu/AngryBirds_banner_bkg.tga.ckd/60825edc0e1c29754b97b47616821767.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/wiiu/AngryBirds_Coach_1.tga.ckd/5e3d6c9c6601d9f00ebed6e7bfa500e9.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/wiiu/AngryBirds_Coach_2.tga.ckd/9cccb9c0bdceaf457d8688d2790644b0.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/wiiu/AngryBirds_Coach_3.tga.ckd/8b72d64a44fd2e7ebeac32809055d63d.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/wiiu/AngryBirds_Coach_4.tga.ckd/32ea55c09d1ab893e9a910c6b9d3f69d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/wiiu/AngryBirds_Cover_Generic.tga.ckd/3dcbe07d2aacd6e9d19c49fead2019e6.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Cover_1024.png/b66e307fb424341f1d0bca44833ea5b2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/wiiu/AngryBirds_Cover_Online.tga.ckd/2bc2f2d526ac05d6b638477ddf37aa24.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/wiiu/AngryBirds_Cover_AlbumBkg.tga.ckd/1c003b407d5b2b88a75abdd706230225.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/wiiu/AngryBirds_Cover_AlbumCoach.tga.ckd/a7800ca825057360b5ca50e182584593.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_1_Phone.png/5959efc1b20ed6aa6c41b921d860864b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_2_Phone.png/2ef2e1c63baae9ec44da327d8639c611.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_3_Phone.png/05dc53de8ba1c28162c50a35c009d2d5.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Coach_4_Phone.png/b35cd6ef6cad4f6212433eaae26da50f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_Cover_Phone.jpg/c41c94d9559cedd5a89c172826c35390.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_VideoPreview.webm/7b831518c906516acb05eda2168ccd6f.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24000,48000,72000,96000,120000,144000,168000,192000,215999,239999,263999,287999,311999,335999,359999,383999,407999,431999,455999,479999,503999,527999,551999,575999,599999,623998,647998,671998,695998,719998,743998,767998,791998,815998,839998,863998,887998,911998,935998,959998,983998,1007997,1031997,1055997,1079997,1103997,1127997,1151997,1175997,1199997,1223997,1247997,1271997,1295997,1319997,1343997,1367997,1391997,1415996,1439996],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-19,\"endBeat\":299,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":60,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/angrybirds/angrybirds_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 157.373,
+  "mapName": "AngryBirds",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497108\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1479176\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2677473\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2732364\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "AngryBirds_mapContent"
+  },
+  "parentMapName": "AngryBirds",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "00A8DDFF",
+    "songColor_1B": "004E5AFF",
+    "songColor_2A": "89D105FF",
+    "songColor_2B": "2FA20CFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Balkan Blast Remix",
+  "urls": {
+    "jmcs://jd-contents/AngryBirds/AngryBirds_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_AudioPreview.ogg/cd416dc05b98770fea6dd458a929e2f3.ogg",
+    "jmcs://jd-contents/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_HIGH.vp8.webm/1c3faeea4699a04d322c9c999ddf80d6.webm",
+    "jmcs://jd-contents/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_HIGH.vp9.webm/6e71b4b1a60bbba23a74d9400b3607a7.webm",
+    "jmcs://jd-contents/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_LOW.vp8.webm/b2bc3da0222c1f9f3a17651aef62696e.webm",
+    "jmcs://jd-contents/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_LOW.vp9.webm/f943f35b797e58a15cb5132bf949b8bd.webm",
+    "jmcs://jd-contents/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_MID.vp8.webm/92209302e0d6f572cec86cd8121df86a.webm",
+    "jmcs://jd-contents/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_MID.vp9.webm/26a46cd3bba349c575b3a778bee28adb.webm",
+    "jmcs://jd-contents/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ceeaa3101112abbe340cb68c4612ab0e.webm",
+    "jmcs://jd-contents/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/AngryBirds/AngryBirds_MapPreviewNoSoundCrop_ULTRA.vp9.webm/38e3d0adeea546c7d0612984f9d83c4d.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "7176620c16ce63f93beda4f049bf389a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AngryBirds/ps4/AngryBirds_MAIN_SCENE_ORBIS.zip/7176620c16ce63f93beda4f049bf389a.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "3d5e7b46588e6cdacd36fa6a36e0e2c6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AngryBirds/pc/AngryBirds_MAIN_SCENE_PC.zip/3d5e7b46588e6cdacd36fa6a36e0e2c6.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "cfb556350313dfd21a476d99dd9cccd5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AngryBirds/wiiu/AngryBirds_MAIN_SCENE_WIIU.zip/cfb556350313dfd21a476d99dd9cccd5.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "de712decd4e82a572bbe4b852e044ea2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AngryBirds/nx/AngryBirds_MAIN_SCENE_NX.zip/de712decd4e82a572bbe4b852e044ea2.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

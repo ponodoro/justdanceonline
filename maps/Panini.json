@@ -1,0 +1,102 @@
+{
+  "artist": "Lil Nas X",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/ps4/Panini_banner_bkg.tga.ckd/317d4ea0de9d0d57c846c1eaed784907.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/ps4/Panini_Coach_1.tga.ckd/95ef5bfca3cbcced2756adb6223216ca.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/ps4/Panini_Cover_Generic.tga.ckd/d41e65c9fedb4f2c633af996cdb84848.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/Panini_Cover_1024.png/3ed8a9a85601cb59758ab61c1715cc87.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/ps4/Panini_Cover_Online.tga.ckd/c7ba60bdc0296dce17fb61e20ad1668a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/ps4/Panini_Cover_AlbumBkg.tga.ckd/754290e397c6de5ee9d912f8e4363323.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/ps4/Panini_Cover_AlbumCoach.tga.ckd/55aff24c1c6428d970d58232bdb06eaa.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/Panini_Coach_1_Phone.png/69ae228a8632170d20c371f277b241a9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/Panini_Cover_Phone.jpg/04b1c37bedf5d187b7b4b53f59f43a4d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Panini/Panini_VideoPreview.webm/468f25ca014f62fe890ba45c19e6533c.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/ps4/Panini_map_bkg.tga.ckd/2d307fb8d7bb58d463ae6f68752b6638.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/nx/Panini_banner_bkg.tga.ckd/b9a231653cb9c09712667014c560f138.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/nx/Panini_Coach_1.tga.ckd/184619bd030404df07eeb5ed630379e8.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/nx/Panini_Cover_Generic.tga.ckd/e3e9597744036523826b6807e208f38f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/Panini_Cover_1024.png/3ed8a9a85601cb59758ab61c1715cc87.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/nx/Panini_Cover_Online.tga.ckd/5362a27bff4cd74516dca40a2795fa01.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/nx/Panini_Cover_AlbumBkg.tga.ckd/452a0c8dc730e00ba6dbd98ee97a70e4.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/nx/Panini_Cover_AlbumCoach.tga.ckd/0ec18c280f23c06b4c8cc10999a40a96.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/Panini_Coach_1_Phone.png/69ae228a8632170d20c371f277b241a9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/Panini_Cover_Phone.jpg/04b1c37bedf5d187b7b4b53f59f43a4d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Panini/Panini_VideoPreview.webm/468f25ca014f62fe890ba45c19e6533c.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Panini/nx/Panini_map_bkg.tga.ckd/37bc4ec519230b789be3b8be4660add3.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,37403,74805,112208,149610,187013,224416,261818,299221,336623,374026,411429,448831,486234,523636,561039,598442,635844,673247,710649,748052,785455,822857,860260,897662,935065,972468,1009870,1047273,1084675,1122078,1159481,1196883,1234286,1271688,1309091,1346494,1383896,1421299],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":149,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":38,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/panini/panini_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Kurt Donald Cobain, Denzel Michael-Akil Baptiste, David Biral, Montero Lamar Hill and Oladipo O. Omishore. Published by Universal/MCA Music LTD. / BMG Silver Songs (SESAC) obo itself and The End Of Music (SESAC), BMG Gold Songs (ASCAP) obo itself and Owo Olorun (ASCAP) / Sony/ATV Songs LLC (BMI). All rights reserved. Used with permission. Courtesy of Columbia Records. By arrangement with Sony Music Entertainment. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF8342FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 118.442,
+  "mapName": "Panini",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496680\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Panini/Panini_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482301\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Panini/Panini_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2943665\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Panini/Panini_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4692077\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Panini/Panini_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "Panini_mapContent"
+  },
+  "parentMapName": "Panini",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "939800FF",
+    "songColor_1B": "303100FF",
+    "songColor_2A": "FFF000FF",
+    "songColor_2B": "230000FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Panini",
+  "urls": {
+    "jmcs://jd-contents/Panini/Panini_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Panini/Panini_AudioPreview.ogg/e91c023344aa051f2f86f7cf9f23de62.ogg",
+    "jmcs://jd-contents/Panini/Panini_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Panini/Panini_MapPreviewNoSoundCrop_HIGH.vp8.webm/eb383f3365e4d0ae4feb3b956d8249b0.webm",
+    "jmcs://jd-contents/Panini/Panini_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Panini/Panini_MapPreviewNoSoundCrop_HIGH.vp9.webm/eac9e604decd507f48292be2b7ae32d1.webm",
+    "jmcs://jd-contents/Panini/Panini_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Panini/Panini_MapPreviewNoSoundCrop_LOW.vp8.webm/26b350978910897e0e0092cdb86a5fd5.webm",
+    "jmcs://jd-contents/Panini/Panini_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Panini/Panini_MapPreviewNoSoundCrop_LOW.vp9.webm/04d18cedfa2caa5cecc485c718613bb7.webm",
+    "jmcs://jd-contents/Panini/Panini_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Panini/Panini_MapPreviewNoSoundCrop_MID.vp8.webm/1fd034bb27459895ae8efd3586d8a568.webm",
+    "jmcs://jd-contents/Panini/Panini_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Panini/Panini_MapPreviewNoSoundCrop_MID.vp9.webm/4cad157833ef51e3f54736f172aad696.webm",
+    "jmcs://jd-contents/Panini/Panini_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Panini/Panini_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b949b3e9f38735201d502b287d65e07d.webm",
+    "jmcs://jd-contents/Panini/Panini_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Panini/Panini_MapPreviewNoSoundCrop_ULTRA.vp9.webm/9a879a6fcd47a709e87223f4cdd94dde.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "236f3898c8ad4b0cadd4f21966b2c827",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Panini/ps4/Panini_MAIN_SCENE_ORBIS.zip/236f3898c8ad4b0cadd4f21966b2c827.zip",
+      "version": 48
+    },
+    "nx": {
+      "md5": "c4de4a03d33f30c1a537979278da4b2d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Panini/nx/Panini_MAIN_SCENE_NX.zip/c4de4a03d33f30c1a537979278da4b2d.zip",
+      "version": 50
+    },
+    "pc": {
+      "md5": "ea811617b2d9d37e8b975f7a762f09d5",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Panini/pc/ea811617b2d9d37e8b975f7a762f09d5.zip",
+      "version": 38
+    },
+    "wiiu": {
+      "md5": "ac9e02d5e72b40a8b0c6e8e27c4e468a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Panini/wiiu/Panini_MAIN_SCENE_WIIU.zip/ac9e02d5e72b40a8b0c6e8e27c4e468a.zip",
+      "version": 32
+    }
+  },
+  "mapType": "jdu"
+}

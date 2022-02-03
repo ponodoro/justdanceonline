@@ -1,0 +1,129 @@
+{
+  "artist": "Danny Elfman",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_banner_bkg.jpg/fce5a7e558326430f7612977966fdb5e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_1.png/a837362d452b3b0eaff85b0b6e112887.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_2.png/4d7477b36813b1e9be5d64ceed9f71d9.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_3.png/51e88a352c873583b00abf0fdc72c577.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_4.png/f7447aa04406efabf98e5779a0d66d79.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Cover_Generic.jpg/76418a8137ed4d1426adc7f8c6c1cba8.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Cover_1024.png/e4a3b6fcfe94d37c322c733a091255fa.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Cover_Online.jpg/1c852642f4a87cff98515ce17919af1d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Cover_AlbumBkg.jpg/e3d217808f5c28300cca851afde91deb.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Cover_AlbumCoach.png/49bb95276f6c40a4a64689871ad46375.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_1_Phone.png/5f0328a411bd950c2f6c88469d800fe4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_2_Phone.png/9b56b03a4ee8a0587895644b3f1786ed.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_3_Phone.png/cae44b35f7cca7aeec0494b575eab3c9.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_4_Phone.png/98a20db426c8b3249688e6f2f5f94714.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Cover_Phone.jpg/1c852642f4a87cff98515ce17919af1d.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_banner_bkg.jpg/fce5a7e558326430f7612977966fdb5e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_1.png/a837362d452b3b0eaff85b0b6e112887.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_2.png/4d7477b36813b1e9be5d64ceed9f71d9.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_3.png/51e88a352c873583b00abf0fdc72c577.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_4.png/f7447aa04406efabf98e5779a0d66d79.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Cover_Generic.jpg/76418a8137ed4d1426adc7f8c6c1cba8.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Cover_1024.png/e4a3b6fcfe94d37c322c733a091255fa.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Cover_Online.jpg/1c852642f4a87cff98515ce17919af1d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Cover_AlbumBkg.jpg/e3d217808f5c28300cca851afde91deb.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Cover_AlbumCoach.png/49bb95276f6c40a4a64689871ad46375.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_1_Phone.png/5f0328a411bd950c2f6c88469d800fe4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_2_Phone.png/9b56b03a4ee8a0587895644b3f1786ed.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_3_Phone.png/cae44b35f7cca7aeec0494b575eab3c9.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_4_Phone.png/98a20db426c8b3249688e6f2f5f94714.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Cover_Phone.jpg/1c852642f4a87cff98515ce17919af1d.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/wiiu/HalloweenQUAT_banner_bkg.tga.ckd/cfaf4a043956ab3a83a264581969601a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/wiiu/HalloweenQUAT_Coach_1.tga.ckd/67e090e031163ff011716959ffb59d49.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/wiiu/HalloweenQUAT_Coach_2.tga.ckd/67158cc7b0beb579998a560190f8d492.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/wiiu/HalloweenQUAT_Coach_3.tga.ckd/873a987e3e8a0115eb16e2d3cf0643e8.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/wiiu/HalloweenQUAT_Coach_4.tga.ckd/f483a6d5d21f65806e891b04ed3da7ca.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/wiiu/HalloweenQUAT_Cover_Generic.tga.ckd/e26bd86340a0f1047eaf459c67bd56ee.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Cover_1024.png/e4a3b6fcfe94d37c322c733a091255fa.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/wiiu/HalloweenQUAT_Cover_Online.tga.ckd/22d5606194c39037a46b10f5a484315c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/wiiu/HalloweenQUAT_Cover_AlbumBkg.tga.ckd/648c420d1f6d9ca8c5949a1582f2a826.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/wiiu/HalloweenQUAT_Cover_AlbumCoach.tga.ckd/4d4ed5595fe434043893dacad92df8c2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_1_Phone.png/5f0328a411bd950c2f6c88469d800fe4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_2_Phone.png/9b56b03a4ee8a0587895644b3f1786ed.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_3_Phone.png/cae44b35f7cca7aeec0494b575eab3c9.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Coach_4_Phone.png/98a20db426c8b3249688e6f2f5f94714.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_Cover_Phone.jpg/1c852642f4a87cff98515ce17919af1d.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,17655,34754,51834,68602,86118,102955,120393,137273,154589,172219,188829,206641,223478,240437,258755,276236,292161,309570,326590,344881,361448,377955,397456,412293,428342,445805,463461,480903,498607,515383,533421,548913,565493,583284,602302,616736,636228,654084,671182,687462,705901,722999,740202,756987,774608,790713,807759,825362,843210,858819,877432,893964,911115,928126,946530,962427,978985,996205,1013251,1032335,1048179,1065730,1082306,1099404,1116611,1134054,1150956,1168067,1185592,1202534,1220015,1238019,1255666,1274148,1290271,1307082,1322030,1341192,1357950,1375371,1392930,1409506,1427358],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":536,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":83,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/halloweenquat/halloweenquat_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FE7B00FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 192.251,
+  "mapName": "HalloweenQUAT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497213\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"642-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-642\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480130\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2819661\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2920013\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "HalloweenQUAT_mapContent"
+  },
+  "parentMapName": "HalloweenQUAT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "E09200FF",
+    "songColor_1B": "7E1600FF",
+    "songColor_2A": "00E3DBFF",
+    "songColor_2B": "03001DFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "This Is Halloween",
+  "urls": {
+    "jmcs://jd-contents/HalloweenQUAT/HalloweenQUAT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_AudioPreview.ogg/07c6a4fec28556e2b1ff610c9704a262.ogg",
+    "jmcs://jd-contents/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm/caf9fa171698cabe01e76d9014bc5512.webm",
+    "jmcs://jd-contents/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_HIGH.vp9.webm/af46e3e3f2109a1fa98e448cda7a516f.webm",
+    "jmcs://jd-contents/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm/4ea7b5a7e61134deb48f225ca153e788.webm",
+    "jmcs://jd-contents/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_LOW.vp9.webm/517898594f91c37b5b4d67ab65bff51e.webm",
+    "jmcs://jd-contents/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_MID.vp8.webm/b9c956fa3c98f38914a38e1aca4c2369.webm",
+    "jmcs://jd-contents/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_MID.vp9.webm/03f52839b6cc73baff9cb8f370b82aca.webm",
+    "jmcs://jd-contents/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/1fd8c846c06005b61b94e8f567603013.webm",
+    "jmcs://jd-contents/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/HalloweenQUAT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/467a5cd733b72ffea31754160523557d.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "748c2cbbbcd8570005e0487f7be6113e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/ps4/HalloweenQUAT_MAIN_SCENE_ORBIS.zip/748c2cbbbcd8570005e0487f7be6113e.zip",
+      "version": 10
+    },
+    "pc": {
+      "md5": "980499e6a447bfa1498d124a3f70c77f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/pc/HalloweenQUAT_MAIN_SCENE_PC.zip/980499e6a447bfa1498d124a3f70c77f.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "b600b8e310f4c40f07d945fc406550eb",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/wiiu/HalloweenQUAT_MAIN_SCENE_WIIU.zip/b600b8e310f4c40f07d945fc406550eb.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "b5e68b2dde1b6525422b1085bd52bd67",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HalloweenQUAT/nx/HalloweenQUAT_MAIN_SCENE_NX.zip/b5e68b2dde1b6525422b1085bd52bd67.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

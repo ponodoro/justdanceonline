@@ -1,0 +1,38 @@
+{
+  "__class": "OnlineBlock",
+  "artist": "",
+  "assets": {
+    "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBathroomSinger/pc/JDMUBathroomSinger_Cover_Generic.tga.ckd/f6abc8f865ebab1db2809461e32ae26c.ckd",
+    "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBathroomSinger/pc/JDMUBathroomSinger_Cover_Online.tga.ckd/13cd7472d3825514206edeb3bde04d76.ckd"
+  },
+  "coachCount": 1,
+  "credits": "CREDITS STRING TO BE FILLED",
+  "customTypeNameId": -1,
+  "difficulty": 2,
+  "jdmAttributes": [
+    "JDM_WhatTheFuck"
+  ],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 31.459,
+  "mapName": "JDMUBathroomSinger",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "JDMUBathroomSinger_mapContent"
+  },
+  "parentMapName": "JDMUBathroomSinger",
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 3,
+  "tags": [
+    "DanceMachine"
+  ],
+  "title": "",
+  "isPlayable": false
+}

@@ -1,0 +1,114 @@
+{
+  "artist": "Ellie Goulding",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_banner_bkg.jpg/0c3a35870ced3b8bd469098539fab839.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Coach_1.png/7ab337b08e55ced9daefa1cb4427cc5d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Cover_Generic.jpg/d058b1deac701fb4142c6d2d0c6a131d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Cover_1024.png/725c7365a3497da43894d50982d24e14.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Cover_Online.jpg/f749a7b233af3f6120dbd024725eeede.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Cover_AlbumBkg.jpg/1f785f7875d32aaf11fe098788c88424.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Cover_AlbumCoach.png/bc3115c1d9b1ebf5a416e6016badbccc.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Coach_1_Phone.png/2232e936a9a3cce7c17bd4ec9a089d83.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Cover_Phone.jpg/f749a7b233af3f6120dbd024725eeede.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Lights/Lights_VideoPreview.webm/bb879fb2188826d3fe8fc9e185845353.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_banner_bkg.jpg/0c3a35870ced3b8bd469098539fab839.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Coach_1.png/7ab337b08e55ced9daefa1cb4427cc5d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Cover_Generic.jpg/d058b1deac701fb4142c6d2d0c6a131d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Cover_1024.png/725c7365a3497da43894d50982d24e14.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Cover_Online.jpg/f749a7b233af3f6120dbd024725eeede.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Cover_AlbumBkg.jpg/1f785f7875d32aaf11fe098788c88424.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Cover_AlbumCoach.png/bc3115c1d9b1ebf5a416e6016badbccc.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Coach_1_Phone.png/2232e936a9a3cce7c17bd4ec9a089d83.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Cover_Phone.jpg/f749a7b233af3f6120dbd024725eeede.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Lights/Lights_VideoPreview.webm/bb879fb2188826d3fe8fc9e185845353.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/wiiu/Lights_banner_bkg.tga.ckd/f265e3084fccebed5f0402124100d4d8.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/wiiu/Lights_Coach_1.tga.ckd/45c7292b6fe2680496c16517036fb860.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/wiiu/Lights_Cover_Generic.tga.ckd/23d11d129ba77a46c25c346418ed7f90.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Cover_1024.png/725c7365a3497da43894d50982d24e14.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/wiiu/Lights_Cover_Online.tga.ckd/a9a55c3092fa79d31972bdddec05a31d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/wiiu/Lights_Cover_AlbumBkg.tga.ckd/1d063ee782a47e6dbf92be4b98878bbf.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/wiiu/Lights_Cover_AlbumCoach.tga.ckd/126ba63fcec1b8d42e88325498d5f327.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Coach_1_Phone.png/2232e936a9a3cce7c17bd4ec9a089d83.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Lights/Lights_Cover_Phone.jpg/f749a7b233af3f6120dbd024725eeede.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Lights/Lights_VideoPreview.webm/bb879fb2188826d3fe8fc9e185845353.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24000,48000,72000,96000,120000,144000,167999,192000,216000,240000,264000,288000,312000,336000,360000,384000,408000,432000,456000,480000,504000,528000,552000,576000,600000,624000,647999,671999,696000,720000,744000,768000,792000,816000,840000,864000,888000,912000,936000,960000,984000,1008000,1032000,1055999,1080000,1104000,1128000,1152000,1176000,1200000,1224000,1248000,1272000,1296000,1320000,1344000,1368000,1392000,1416000,1439999],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":423,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":60,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/lights/lights_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0245FFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 214,
+  "mapName": "Lights",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496320\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lights/Lights_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"617-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-617\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478297\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lights/Lights_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2937158\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lights/Lights_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5633517\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lights/Lights_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "Lights_mapContent"
+  },
+  "parentMapName": "Lights",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FF8A2FFF",
+    "songColor_1B": "421701FF",
+    "songColor_2A": "F865EFFF",
+    "songColor_2B": "180016FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Lights",
+  "urls": {
+    "jmcs://jd-contents/Lights/Lights_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Lights/Lights_AudioPreview.ogg/528e267cddac3f06a2c1788b645ef093.ogg",
+    "jmcs://jd-contents/Lights/Lights_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Lights/Lights_MapPreviewNoSoundCrop_HIGH.vp8.webm/24b99b7d2b24bee0bb325f1f45509bc1.webm",
+    "jmcs://jd-contents/Lights/Lights_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Lights/Lights_MapPreviewNoSoundCrop_HIGH.vp9.webm/da7e5c0cf7451d3ac7722b8ddc56e9f7.webm",
+    "jmcs://jd-contents/Lights/Lights_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Lights/Lights_MapPreviewNoSoundCrop_LOW.vp8.webm/58b6c1b9f6cb2c2dedc5caf99d0e89f6.webm",
+    "jmcs://jd-contents/Lights/Lights_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Lights/Lights_MapPreviewNoSoundCrop_LOW.vp9.webm/add287f27673bda0e235da427a489da4.webm",
+    "jmcs://jd-contents/Lights/Lights_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Lights/Lights_MapPreviewNoSoundCrop_MID.vp8.webm/0a8a4c2c3b5d26df50d6a80c47bafc58.webm",
+    "jmcs://jd-contents/Lights/Lights_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Lights/Lights_MapPreviewNoSoundCrop_MID.vp9.webm/f473b73192f0ee5643128989e2a55a1d.webm",
+    "jmcs://jd-contents/Lights/Lights_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Lights/Lights_MapPreviewNoSoundCrop_ULTRA.vp8.webm/abb8cdbffc35968a64c7496dd8f43793.webm",
+    "jmcs://jd-contents/Lights/Lights_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Lights/Lights_MapPreviewNoSoundCrop_ULTRA.vp9.webm/8228232bd3010d44c8fbcbcbf3a589ef.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "8c8fa2c6e1b53e06f4c44373c9427e02",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Lights/ps4/Lights_MAIN_SCENE_ORBIS.zip/8c8fa2c6e1b53e06f4c44373c9427e02.zip",
+      "version": 11
+    },
+    "pc": {
+      "md5": "36d1dc112a48ed5ea6830a9deac96773",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Lights/pc/Lights_MAIN_SCENE_PC.zip/36d1dc112a48ed5ea6830a9deac96773.zip",
+      "version": 10
+    },
+    "wiiu": {
+      "md5": "d08d6f87b2420d181c27acacc5d6baf0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Lights/wiiu/Lights_MAIN_SCENE_WIIU.zip/d08d6f87b2420d181c27acacc5d6baf0.zip",
+      "version": 11
+    },
+    "nx": {
+      "md5": "19beb8678e3ce29eccdfb2f8cef3f966",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Lights/nx/Lights_MAIN_SCENE_NX.zip/19beb8678e3ce29eccdfb2f8cef3f966.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

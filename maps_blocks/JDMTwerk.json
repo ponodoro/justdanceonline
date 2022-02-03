@@ -1,0 +1,39 @@
+{
+  "__class": "OnlineBlock",
+  "artist": "JDMTwerk Artist",
+  "assets": {
+    "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerk/pc/JDMTwerk_Coach_1.tga.ckd/b9394a9a7b10216ab8de50ec9acfb123.ckd",
+    "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerk/pc/JDMTwerk_Cover_Generic.tga.ckd/b2b8ab4d1d3c67b8052f57cd0276b838.ckd",
+    "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerk/pc/JDMTwerk_Cover_Online.tga.ckd/31b274b02dd6c8546733002c2d86142e.ckd"
+  },
+  "coachCount": 1,
+  "credits": "CREDITS STRING TO BE FILLED",
+  "customTypeNameId": -1,
+  "difficulty": 2,
+  "jdmAttributes": [
+    "JDM_Normal"
+  ],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 30.544999999999998,
+  "mapName": "JDMTwerk",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "JDMTwerk_mapContent"
+  },
+  "parentMapName": "JDMTwerk",
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 3,
+  "tags": [
+    "DanceMachine"
+  ],
+  "title": "JDMTwerk",
+  "isPlayable": false
+}

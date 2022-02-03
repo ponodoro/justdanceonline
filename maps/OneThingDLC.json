@@ -1,0 +1,101 @@
+{
+  "artist": "One Direction",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Coach_1.png",
+      "coach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Coach_2.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Coach_1.png",
+      "phoneCoach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Coach_2.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_map_bkg.png"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Coach_1.png",
+      "coach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Coach_2.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Coach_1.png",
+      "phoneCoach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Coach_2.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/textures/OneThingDLC_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22656,45360,68016,90720,113376,136080,158736,181440,204096,226752,249456,272112,294816,317472,340176,362832,385488,408192,430848,453552,476208,498912,521568,544272,566928,589584,612289,634945,657649,680305,703009,725665,748369,771025,793681,816385,839041,861745,884401,907105,929761,952465,975121,997777,1020481,1043137,1065841,1088497,1111201,1133857,1156513,1179217,1201874,1224578,1247234,1269938,1292594,1315298,1337954,1360610,1383314,1405970,1428674],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":496,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/OneThingDLC/OneThingDLC_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "EE40BCFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 100,
+  "mapName": "OneThingDLC",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648877\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493834\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2984420\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5932938\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "OneThingDLC_mapContent"
+  },
+  "parentMapName": "OneThingDLC",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "0579ABFF",
+    "songColor_1B": "082B3BFF",
+    "songColor_2A": "4A2CABFF",
+    "songColor_2B": "0F0826FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main"
+  ],
+  "title": "One Thing",
+  "urls": {
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/OneThingDLC_AudioPreview.ogg",
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/nx/OneThingDLC_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/nx/OneThingDLC_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/nx/OneThingDLC_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/nx/OneThingDLC_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/nx/OneThingDLC_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/nx/OneThingDLC_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/nx/OneThingDLC_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/nx/OneThingDLC_VideoPreview.vp9.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "599d3820e20201c7739c8602d4fb5f86",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/pc/599d3820e20201c7739c8602d4fb5f86.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "2f024fe06e7704b5756cba2c6fde9718",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/nx/2f024fe06e7704b5756cba2c6fde9718.zip",
+      "version": 2
+    },
+    "orbis": {
+      "md5": "b3b4d43a72663078bf9f5946a3ded8e9",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/OneThingDLC/ps4/b3b4d43a72663078bf9f5946a3ded8e9.zip",
+      "version": 2
+    }
+  },
+  "mapType": "custom"
+}

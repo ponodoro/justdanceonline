@@ -1,0 +1,111 @@
+{
+  "artist": "The World Cup Girls",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_banner_bkg.jpg/c5245199ca7f90ad40877f9f048f6965.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Coach_1.png/d4a7fc595270492a2072b68501ba2415.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Cover_Generic.jpg/915039e28f6957d42a71bb9fb2296721.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Cover_1024.png/d4641811285f39fac436483fb3366a57.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Cover_Online.jpg/c4de302e6564ddb99b4b1b20e82ad857.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Cover_AlbumBkg.jpg/e243d04506822ee4c3a6b72949a00200.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Cover_AlbumCoach.png/c5bdc30e52daec39629fe092c12d1aab.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Coach_1_Phone.png/9ad586a89d99eab25910543ed3cc4392.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Cover_Phone.jpg/c4de302e6564ddb99b4b1b20e82ad857.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_banner_bkg.jpg/c5245199ca7f90ad40877f9f048f6965.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Coach_1.png/d4a7fc595270492a2072b68501ba2415.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Cover_Generic.jpg/915039e28f6957d42a71bb9fb2296721.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Cover_1024.png/d4641811285f39fac436483fb3366a57.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Cover_Online.jpg/c4de302e6564ddb99b4b1b20e82ad857.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Cover_AlbumBkg.jpg/e243d04506822ee4c3a6b72949a00200.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Cover_AlbumCoach.png/c5bdc30e52daec39629fe092c12d1aab.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Coach_1_Phone.png/9ad586a89d99eab25910543ed3cc4392.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Cover_Phone.jpg/c4de302e6564ddb99b4b1b20e82ad857.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/wiiu/Futebol_banner_bkg.tga.ckd/c206a0079e2a6e5e9e7c095655745571.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/wiiu/Futebol_Coach_1.tga.ckd/31f09115d6867793db0b44fc397a085e.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/wiiu/Futebol_Cover_Generic.tga.ckd/bfe55e4170757371c7dd9c9cb3321a45.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Cover_1024.png/d4641811285f39fac436483fb3366a57.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/wiiu/Futebol_Cover_Online.tga.ckd/82facd87bc3e2c4ab30809592d0e45af.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/wiiu/Futebol_Cover_AlbumBkg.tga.ckd/e0ce9b1acc68b047b18d082e913e39b2.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/wiiu/Futebol_Cover_AlbumCoach.tga.ckd/2b033b8204974857c056f46d2d09b8a5.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Coach_1_Phone.png/9ad586a89d99eab25910543ed3cc4392.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_Cover_Phone.jpg/c4de302e6564ddb99b4b1b20e82ad857.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21795,43589,65384,87180,108975,130770,152565,174360,196154,217949,239745,261540,283335,305130,326924,348719,370515,392310,414105,435900,457695,479489,501284,523080,544875,566670,588465,610259,632054,653850,675645,697956,719487,741282,763077,784872,806667,828461,850257,872052,893847,915642,937437,959231,981026,1002822,1024617,1046412,1068207,1090001,1111796,1133592,1155387,1177182,1198977,1220772,1242566,1264361,1286157,1307952,1329747,1351542,1373336,1395131,1417150,1438722],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":313,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":66,\"volume\":-0.500000,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/futebol/futebol_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 142.898,
+  "mapName": "Futebol",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"490748\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Futebol/Futebol_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1445470\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Futebol/Futebol_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1538186\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Futebol/Futebol_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1540587\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Futebol/Futebol_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "Futebol_mapContent"
+  },
+  "parentMapName": "Futebol",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "049900FF",
+    "songColor_1B": "002208FF",
+    "songColor_2A": "E89500FF",
+    "songColor_2B": "6E0000FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Futebol Crazy",
+  "urls": {
+    "jmcs://jd-contents/Futebol/Futebol_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_AudioPreview.ogg/9b10b48318da9467ba47433eb1a7c3b3.ogg",
+    "jmcs://jd-contents/Futebol/Futebol_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_MapPreviewNoSoundCrop_HIGH.vp8.webm/a68f1a0f8708fb5afa01d6619c616b29.webm",
+    "jmcs://jd-contents/Futebol/Futebol_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_MapPreviewNoSoundCrop_HIGH.vp9.webm/fe7eb3b022acd83003801f5dfe6ddf8f.webm",
+    "jmcs://jd-contents/Futebol/Futebol_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_MapPreviewNoSoundCrop_LOW.vp8.webm/31faa87ca879096865e231ac8fa4c243.webm",
+    "jmcs://jd-contents/Futebol/Futebol_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_MapPreviewNoSoundCrop_LOW.vp9.webm/7cc8b077aa2677b06d96ca92d628b538.webm",
+    "jmcs://jd-contents/Futebol/Futebol_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_MapPreviewNoSoundCrop_MID.vp8.webm/b5f98a7ad8764cf1cf829d5b51e13e40.webm",
+    "jmcs://jd-contents/Futebol/Futebol_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_MapPreviewNoSoundCrop_MID.vp9.webm/99b4acaee8599c54e6e8682d173abac5.webm",
+    "jmcs://jd-contents/Futebol/Futebol_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_MapPreviewNoSoundCrop_ULTRA.vp8.webm/e7cfabaefe690e57a1a35fc1cc53bf9f.webm",
+    "jmcs://jd-contents/Futebol/Futebol_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Futebol/Futebol_MapPreviewNoSoundCrop_ULTRA.vp9.webm/6d047edd53f572f5fdec6fbd37983138.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "9f7ef78cc20ac902d94479be909d3f43",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Futebol/ps4/Futebol_MAIN_SCENE_ORBIS.zip/9f7ef78cc20ac902d94479be909d3f43.zip",
+      "version": 8
+    },
+    "pc": {
+      "md5": "491e67e2883a41f0ed5e09a54dd70b91",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Futebol/pc/Futebol_MAIN_SCENE_PC.zip/491e67e2883a41f0ed5e09a54dd70b91.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "d174e16a815fb3865683e78cb1affa10",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Futebol/wiiu/Futebol_MAIN_SCENE_WIIU.zip/d174e16a815fb3865683e78cb1affa10.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "7eafa1e6264e3b8190dd84677b52f383",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Futebol/nx/Futebol_MAIN_SCENE_NX.zip/7eafa1e6264e3b8190dd84677b52f383.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

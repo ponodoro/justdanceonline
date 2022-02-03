@@ -1,0 +1,135 @@
+{
+  "artist": "HyunA",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/ps4/BubblePop_banner_bkg.tga.ckd/727afa2c746998b66b6c8fc1b6de23f7.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/ps4/BubblePop_Coach_1.tga.ckd/2b616197d8fdc43c3b6760cde0a82c0f.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/ps4/BubblePop_Coach_2.tga.ckd/c88db69d8ec2d67661e1a5665ee7bdbf.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/ps4/BubblePop_Coach_3.tga.ckd/5e01bfa09497c09a832bdd412d4f0f1e.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/ps4/BubblePop_Cover_Generic.tga.ckd/6c329839c928cc42be71a17fc69721f5.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_Cover_1024.png/dbf8c9c28991e487ad4a78205a5500c1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/ps4/BubblePop_Cover_Online.tga.ckd/108b7351415400b63af23226d9876cdf.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/ps4/BubblePop_Cover_AlbumBkg.tga.ckd/3ff86464de5d7e9900b738654c7cab25.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/ps4/BubblePop_Cover_AlbumCoach.tga.ckd/0b3ddc75c46b22d30d9fa36f5c004dca.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_Coach_1_Phone.png/160074c47febd18b80f0362dd99654e7.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_Coach_2_Phone.png/8aac8022ec9d153096b768ee3e705b06.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_Coach_3_Phone.png/cf31b8c85585720ab4d3da738aa4dfe3.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_Cover_Phone.jpg/e558f09c39ee970ec95b45e171bb488f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_VideoPreview.webm/688dfe846be3a53f47083dc24f1fcf0e.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/ps4/BubblePop_map_bkg.tga.ckd/91e519c307548fce68cb529d91727aab.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/nx/BubblePop_banner_bkg.tga.ckd/35b162542dacdc5a8846d83c3fb63179.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/nx/BubblePop_Coach_1.tga.ckd/ddc1cba966612d92ed422b810cab0295.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/nx/BubblePop_Coach_2.tga.ckd/53e640049aa2f4939fc30ad20756aea0.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/nx/BubblePop_Coach_3.tga.ckd/bbf35d4eda5fe4b877fa89797444f0b5.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/nx/BubblePop_Cover_Generic.tga.ckd/1b37706f2f3f7bf7f2c77ea6d427348d.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_Cover_1024.png/dbf8c9c28991e487ad4a78205a5500c1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/nx/BubblePop_Cover_Online.tga.ckd/5d7f4a06e7ce0fad6d7ab25deec98f6b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/nx/BubblePop_Cover_AlbumBkg.tga.ckd/8a06e2c19d7ccd91fc12746cec78ca7b.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/nx/BubblePop_Cover_AlbumCoach.tga.ckd/3ec88f9e756b00a3a1e61c86fb232866.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_Coach_1_Phone.png/160074c47febd18b80f0362dd99654e7.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_Coach_2_Phone.png/8aac8022ec9d153096b768ee3e705b06.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_Coach_3_Phone.png/cf31b8c85585720ab4d3da738aa4dfe3.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_Cover_Phone.jpg/e558f09c39ee970ec95b45e171bb488f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_VideoPreview.webm/688dfe846be3a53f47083dc24f1fcf0e.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/nx/BubblePop_map_bkg.tga.ckd/5be9eb97f7032e8d99320f642afd6ab7.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/wiiu/BubblePop_banner_bkg.tga.ckd/b1caa06e94a9251c1ff7e8cf915949a8.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/wiiu/BubblePop_Coach_1.tga.ckd/23d3222fe8f566038ccb27243ff52c8b.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/wiiu/BubblePop_Coach_2.tga.ckd/2ed5cdcf803c46c2c917371e805ab48c.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/wiiu/BubblePop_Coach_3.tga.ckd/ed5eb92dd8e70cbd61fedeea051efdea.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/wiiu/BubblePop_Cover_Generic.tga.ckd/b110a3951be3f5de713ed56ac4a97edc.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_Cover_1024.png/dbf8c9c28991e487ad4a78205a5500c1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/wiiu/BubblePop_Cover_Online.tga.ckd/6172d7eb5b3d64ae9bc6effb241fb1f8.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/wiiu/BubblePop_Cover_AlbumBkg.tga.ckd/3659423fb9ac34ad3bc058457093013c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/wiiu/BubblePop_Cover_AlbumCoach.tga.ckd/b98b9711b6b7bffd1972bd948b6b186c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_Coach_1_Phone.png/160074c47febd18b80f0362dd99654e7.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_Coach_2_Phone.png/8aac8022ec9d153096b768ee3e705b06.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_Coach_3_Phone.png/cf31b8c85585720ab4d3da738aa4dfe3.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_Cover_Phone.jpg/e558f09c39ee970ec95b45e171bb488f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_VideoPreview.webm/688dfe846be3a53f47083dc24f1fcf0e.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,19728,39456,59184,78912,98640,118320,138048,157776,177504,197232,216960,236688,256416,276144,295872,315600,335328,355056,374784,394512,414240,433968,453696,473424,493152,512880,532608,552336,572064,591744,611472,631200,650928,670656,690384,710112,729840,749568,769296,789024,808752,828480,848208,867936,887664,907392,927120,946848,966576,986304,1006032,1025760,1045488,1065168,1084896,1104624,1124352,1144080,1163808,1183536,1203264,1222992,1242720,1262448,1282176,1301904,1321632,1341360,1361088,1380816,1400544,1420272],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":521,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":72,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/bubblepop/bubblepop_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Kyu Sung Choi, Ho Yang Lee. Published by Music Cube Inc., administered by peermusic. Courtesy of Cube Entertainment Inc. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF00FFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 216.14999999999998,
+  "mapName": "BubblePop",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496631\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BubblePop/BubblePop_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481178\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BubblePop/BubblePop_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2704058\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BubblePop/BubblePop_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3265347\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BubblePop/BubblePop_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "BubblePop_mapContent"
+  },
+  "parentMapName": "BubblePop",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "02B2D1FF",
+    "songColor_1B": "022E7AFF",
+    "songColor_2A": "EF8A6EFF",
+    "songColor_2B": "A50362FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2018"
+  ],
+  "title": "Bubble Pop!",
+  "urls": {
+    "jmcs://jd-contents/BubblePop/BubblePop_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_AudioPreview.ogg/a12bcf98264a8e00bf14e6632d0e6ba2.ogg",
+    "jmcs://jd-contents/BubblePop/BubblePop_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_MapPreviewNoSoundCrop_HIGH.vp8.webm/4bd519548a37c62ff8f072d8dede3190.webm",
+    "jmcs://jd-contents/BubblePop/BubblePop_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_MapPreviewNoSoundCrop_HIGH.vp9.webm/5ac6709491be9f0db88cb5cc45c66f97.webm",
+    "jmcs://jd-contents/BubblePop/BubblePop_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_MapPreviewNoSoundCrop_LOW.vp8.webm/24ad13742a79160a6d480785d2b4cdb1.webm",
+    "jmcs://jd-contents/BubblePop/BubblePop_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_MapPreviewNoSoundCrop_LOW.vp9.webm/95f4aaf1ed361e6d6571827c79d29f72.webm",
+    "jmcs://jd-contents/BubblePop/BubblePop_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_MapPreviewNoSoundCrop_MID.vp8.webm/419ddc8e65e8df437d6928399f3b9f58.webm",
+    "jmcs://jd-contents/BubblePop/BubblePop_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_MapPreviewNoSoundCrop_MID.vp9.webm/38f32c8418a2fbbbe9bca230fc30267f.webm",
+    "jmcs://jd-contents/BubblePop/BubblePop_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_MapPreviewNoSoundCrop_ULTRA.vp8.webm/a41da7b866d0c8a35c500066009fb0db.webm",
+    "jmcs://jd-contents/BubblePop/BubblePop_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BubblePop/BubblePop_MapPreviewNoSoundCrop_ULTRA.vp9.webm/57fb242617283fca5702d49461c7e97a.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "9c42e455959b175205a7250488ff09d8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BubblePop/ps4/BubblePop_MAIN_SCENE_ORBIS.zip/9c42e455959b175205a7250488ff09d8.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "4dcc68e0ea65aa9db31453636ca2db50",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BubblePop/nx/BubblePop_MAIN_SCENE_NX.zip/4dcc68e0ea65aa9db31453636ca2db50.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "95fd15c6ed9cd68166412e8d7c3703d1",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/BubblePop/pc/95fd15c6ed9cd68166412e8d7c3703d1.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "926927ba74f4f7e6ba81582eb2b63a12",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BubblePop/wiiu/BubblePop_MAIN_SCENE_WIIU.zip/926927ba74f4f7e6ba81582eb2b63a12.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

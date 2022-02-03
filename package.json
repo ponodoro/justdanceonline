@@ -1,0 +1,24 @@
+{
+  "name": "jdcs-prod",
+  "description": "Custom Just Dance Unlimited Server",
+  "version": "2.0.0",
+  "license": "",
+  "author": "",
+  "scripts": {
+    "start": "node jdcs.js"
+  },
+  "dependencies": {
+    "accept-language-parser": "^1.5.0",
+    "aws-sdk": "^2.932.0",
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-ip": "^1.0.4",
+    "md5-dir": "^0.2.0",
+    "mongoose": "^5.12.5",
+    "uuid": "^8.3.2"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "artist": "The Just Dance Kids",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/ggp/KIDSJingleBells_banner_bkg.tga.ckd/4f3cfc61d86243de89f4e670fecf21a0.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/ggp/KIDSJingleBells_Coach_1.tga.ckd/64928a5cb9f84780f363a596ba0cc8b3.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/ggp/KIDSJingleBells_Cover_Generic.tga.ckd/da1b746ff076bb73b54a28ce1831e18f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_Cover_1024.png/9857bd128a4d3d4e0dc768f096bad9cb.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/ggp/KIDSJingleBells_Cover_Online.tga.ckd/da1b746ff076bb73b54a28ce1831e18f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/ggp/KIDSJingleBells_Cover_AlbumBkg.tga.ckd/848f62fcb1ba3e2f026ff7a09d2e8a62.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/ggp/KIDSJingleBells_Cover_AlbumCoach.tga.ckd/f3222cfe2c4b0d3e5b006e9b78f61e18.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_Coach_1_Phone.png/183fdc65a135d93187c192835be28931.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_Cover_Phone.jpg/9c20995271d5167bc5e8639cedae8c99.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/ggp/KIDSJingleBells_map_bkg.tga.ckd/36324b891caa82424a93adba820ce4b1.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/nx/KIDSJingleBells_banner_bkg.tga.ckd/304d19ea76a3079ee24f094d2287d907.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/nx/KIDSJingleBells_Coach_1.tga.ckd/3a59219aec591553254f5bcc3564e896.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/nx/KIDSJingleBells_Cover_Generic.tga.ckd/ee8a2e2ce941932780630be215f2c400.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_Cover_1024.png/9857bd128a4d3d4e0dc768f096bad9cb.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/nx/KIDSJingleBells_Cover_Online.tga.ckd/ee8a2e2ce941932780630be215f2c400.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/nx/KIDSJingleBells_Cover_AlbumBkg.tga.ckd/769455b3025beafaff951abf6ab4ac3d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/nx/KIDSJingleBells_Cover_AlbumCoach.tga.ckd/a43ba389c340bb62609bf06af9be08e7.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/nx/KIDSJingleBells_map_bkg.tga.ckd/216615d5e6fa64e03b694a3a1d80f453.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_Coach_1_Phone.png/183fdc65a135d93187c192835be28931.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_Cover_Phone.jpg/9c20995271d5167bc5e8639cedae8c99.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/wiiu/KIDSJingleBells_banner_bkg.tga.ckd/5b243a4a6d4ed79b02a48153183d2284.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/wiiu/KIDSJingleBells_Coach_1.tga.ckd/09d051b875e2bf0fca7237c055d05eee.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/wiiu/KIDSJingleBells_Cover_Generic.tga.ckd/2df20b71537e7e0dbac2c8c812a6dd1e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_Cover_1024.png/9857bd128a4d3d4e0dc768f096bad9cb.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/wiiu/KIDSJingleBells_Cover_Online.tga.ckd/2df20b71537e7e0dbac2c8c812a6dd1e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/wiiu/KIDSJingleBells_Cover_AlbumBkg.tga.ckd/e1cf1c3ac5087d305b57330063c2bb52.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/wiiu/KIDSJingleBells_Cover_AlbumCoach.tga.ckd/31ecbbb28f11a3d8e633e82723cd50e3.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_Coach_1_Phone.png/183fdc65a135d93187c192835be28931.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_Cover_Phone.jpg/9c20995271d5167bc5e8639cedae8c99.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26880,53809,80737,107665,134545,161473,188401,215329,242209,269137,296065,322945,349873,376801,403729,430609,457538,484466,511394,538274,565202,592130,619058,645938,672866,699794,726722,753602,780530,807458,834386,861266,888195,915123,942051,968931,995859,1022787,1049715,1076595,1103523,1130451,1157379,1184259,1211187,1238115,1265043,1291924,1318852,1345780,1372708,1399588,1426516],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":215,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":53,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/kidsjinglebells/kidsjinglebells_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0F0FFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 120.639,
+  "mapName": "KIDSJingleBells",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495426\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481398\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2928181\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3744667\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 123,
+  "packages": {
+    "mapContent": "KIDSJingleBells_mapContent"
+  },
+  "parentMapName": "KIDSJingleBells",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FFC600FF",
+    "songColor_1B": "FF8400FF",
+    "songColor_2A": "0AD24CFF",
+    "songColor_2B": "029355FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Jingle Bells",
+  "urls": {
+    "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_AudioPreview.ogg/ef7d8e5f31d75fd763a4315a905fd579.ogg",
+    "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_HIGH.vp8.webm/e1cdca89c8880f853dcd93c81840b20f.webm",
+    "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_HIGH.vp9.webm/62083ebd6634d4f262d96a8320b375c3.webm",
+    "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_LOW.vp8.webm/5d0443b68554085a577a325823de1fdb.webm",
+    "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_LOW.vp9.webm/00b954c1b87ddc0e357e175be86c0cb2.webm",
+    "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_MID.vp8.webm/182d0a02f7f096102f3a8c1c71878130.webm",
+    "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_MID.vp9.webm/5eb727c15d78c6b747f386c3d6a79b46.webm",
+    "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_ULTRA.vp8.webm/e11da6f43e695ca7318a19cc7ba55548.webm",
+    "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_ULTRA.vp9.webm/63d70556fcbc1eadc9d741618f2c657c.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "6cd88162b8fdcb82ef35f24679cf58d9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/ps4/KIDSJingleBells_MAIN_SCENE_ORBIS.zip/6cd88162b8fdcb82ef35f24679cf58d9.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "ebf72530844a8d853b0b48a169384dc5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/pc/KIDSJingleBells_MAIN_SCENE_PC.zip/ebf72530844a8d853b0b48a169384dc5.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "112ddb9155d602860667ac7c208b1712",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/wiiu/KIDSJingleBells_MAIN_SCENE_WIIU.zip/112ddb9155d602860667ac7c208b1712.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "b9873f4a5de5d49d189369e4236a7c86",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSJingleBells/nx/KIDSJingleBells_MAIN_SCENE_NX.zip/b9873f4a5de5d49d189369e4236a7c86.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

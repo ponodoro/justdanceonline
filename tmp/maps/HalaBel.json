@@ -1,0 +1,116 @@
+{
+  "artist": "Maan Barghouth",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/ggp/HalaBel_banner_bkg.tga.ckd/31d3acd639acbea6a726ebe87380a3ff.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/ggp/HalaBel_Coach_1.tga.ckd/06aeda762d6246564c56bcb35aac6c80.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/ggp/HalaBel_Cover_Generic.tga.ckd/36b0958ea70d8ce38eb256dfbfe9c13e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_Cover_1024.png/4b63f9249fd7860d0dcf6ab46d1d6932.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/ggp/HalaBel_Cover_Online.tga.ckd/36b0958ea70d8ce38eb256dfbfe9c13e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/ggp/HalaBel_Cover_AlbumBkg.tga.ckd/d74f3b0b81f3e862c477618ba67513af.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/ggp/HalaBel_Cover_AlbumCoach.tga.ckd/3c5d0203d4fec6187f16c0afe10078f0.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_Coach_1_Phone.png/ae1811b9fb7a16aa5429f2f7cb9cc92e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_Cover_Phone.jpg/60ee770141231c3197f6a3fd451efd70.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_VideoPreview.webm/b4f216a2c91e2350e9cfbb6c9c82c0dd.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/ggp/HalaBel_map_bkg.tga.ckd/8c0cfc2b04e86ed2afe22275e4a92615.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/nx/HalaBel_banner_bkg.tga.ckd/bede90d62e8fbea5d93efa84f814aab2.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/nx/HalaBel_Coach_1.tga.ckd/821ebbbc0551ff4959cdf288bb4edffd.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/nx/HalaBel_Cover_Generic.tga.ckd/d91d402c33cf8a074a5b503298749674.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_Cover_1024.png/4b63f9249fd7860d0dcf6ab46d1d6932.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/nx/HalaBel_Cover_Online.tga.ckd/c46305f4491bbec9b65a7b68fc4140c7.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/nx/HalaBel_Cover_AlbumBkg.tga.ckd/fffb025e8f2dd419982d12c848feafd4.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/nx/HalaBel_Cover_AlbumCoach.tga.ckd/0bc2c0618a457c32dec48a9451f18e7a.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/nx/HalaBel_map_bkg.tga.ckd/78e20c4791e273a875f775a54e96c998.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_Coach_1_Phone.png/ae1811b9fb7a16aa5429f2f7cb9cc92e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_Cover_Phone.jpg/60ee770141231c3197f6a3fd451efd70.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_VideoPreview.webm/b4f216a2c91e2350e9cfbb6c9c82c0dd.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/wiiu/HalaBel_banner_bkg.tga.ckd/238f062a0e068ebcf38f119435741e66.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/wiiu/HalaBel_Coach_1.tga.ckd/a7d0baa6dab4c6db313a9c60e4ff06b6.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/wiiu/HalaBel_Cover_Generic.tga.ckd/609c0c8e3b88c792e404d4a4847ecbe3.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_Cover_1024.png/4b63f9249fd7860d0dcf6ab46d1d6932.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/wiiu/HalaBel_Cover_Online.tga.ckd/be8d3abd0130b1555de812a33285649f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/wiiu/HalaBel_Cover_AlbumBkg.tga.ckd/6ae5b4ec37a4665b172c88fb91570dc6.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/wiiu/HalaBel_Cover_AlbumCoach.tga.ckd/97ae8b22df47418402289bc608d76df1.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_Coach_1_Phone.png/ae1811b9fb7a16aa5429f2f7cb9cc92e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_Cover_Phone.jpg/60ee770141231c3197f6a3fd451efd70.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_VideoPreview.webm/b4f216a2c91e2350e9cfbb6c9c82c0dd.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,31296,62592,93888,125232,156528,187824,219120,250416,281760,313056,344352,375648,406944,438240,469584,500880,532176,563472,594768,626064,657408,688704,720000,751296,782592,813888,845232,876528,907824,939121,970417,1001761,1033057,1064353,1095649,1126945,1158241,1189585,1220881,1252177,1283473,1314769,1346065,1377409,1408705],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":290,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":45,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/halabel/halabel_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFAB10FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 190.43599999999998,
+  "mapName": "HalaBel",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495919\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HalaBel/HalaBel_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"610-1099\">\r\n\t\t\t\t\t<Initialization range=\"0-610\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1467301\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HalaBel/HalaBel_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"611-1101\">\r\n\t\t\t\t\t<Initialization range=\"0-611\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2713546\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HalaBel/HalaBel_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"611-1101\">\r\n\t\t\t\t\t<Initialization range=\"0-611\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3026175\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HalaBel/HalaBel_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"611-1101\">\r\n\t\t\t\t\t<Initialization range=\"0-611\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "HalaBel_mapContent"
+  },
+  "parentMapName": "HalaBel",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "C5B6F9FF",
+    "songColor_1B": "270060FF",
+    "songColor_2A": "F7D5C0FF",
+    "songColor_2B": "F7BA51FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Hala Bel Khamis",
+  "urls": {
+    "jmcs://jd-contents/HalaBel/HalaBel_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_AudioPreview.ogg/aa3daeec97808cd00372334abd04e7a2.ogg",
+    "jmcs://jd-contents/HalaBel/HalaBel_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_MapPreviewNoSoundCrop_HIGH.vp8.webm/62a07c28e5e71391d107dafc880d0c26.webm",
+    "jmcs://jd-contents/HalaBel/HalaBel_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_MapPreviewNoSoundCrop_HIGH.vp9.webm/1b1c287b7d467eae2788b38ee697bea2.webm",
+    "jmcs://jd-contents/HalaBel/HalaBel_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_MapPreviewNoSoundCrop_LOW.vp8.webm/db61ed87de3c6e446bd49033cfe4f433.webm",
+    "jmcs://jd-contents/HalaBel/HalaBel_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_MapPreviewNoSoundCrop_LOW.vp9.webm/483da740edfd90582dc7ec0b9dbe819d.webm",
+    "jmcs://jd-contents/HalaBel/HalaBel_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_MapPreviewNoSoundCrop_MID.vp8.webm/ba42f9d1b79dbdeaa7f91e60a6ecd42d.webm",
+    "jmcs://jd-contents/HalaBel/HalaBel_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_MapPreviewNoSoundCrop_MID.vp9.webm/4728d2b76e15778641e7cef3c467d60e.webm",
+    "jmcs://jd-contents/HalaBel/HalaBel_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_MapPreviewNoSoundCrop_ULTRA.vp8.webm/8b0406386e5830dbfada55f0c74f7503.webm",
+    "jmcs://jd-contents/HalaBel/HalaBel_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/HalaBel/HalaBel_MapPreviewNoSoundCrop_ULTRA.vp9.webm/8faa9ca5d71bae1efea648d1774eb410.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a7ecf2f55b8ff7d3d6169efcfd031277",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HalaBel/ps4/HalaBel_MAIN_SCENE_ORBIS.zip/a7ecf2f55b8ff7d3d6169efcfd031277.zip",
+      "version": 35
+    },
+    "pc": {
+      "md5": "1736ec8be4d204f794590275b0b72ca5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HalaBel/pc/HalaBel_MAIN_SCENE_PC.zip/1736ec8be4d204f794590275b0b72ca5.zip",
+      "version": 15
+    },
+    "wiiu": {
+      "md5": "efe6f16ee93bad26b4d23f1af7cd90e7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HalaBel/wiiu/HalaBel_MAIN_SCENE_WIIU.zip/efe6f16ee93bad26b4d23f1af7cd90e7.zip",
+      "version": 35
+    },
+    "nx": {
+      "md5": "4a846a0f3cdeecd25a414501faa88d32",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HalaBel/nx/HalaBel_MAIN_SCENE_NX.zip/4a846a0f3cdeecd25a414501faa88d32.zip",
+      "version": 35
+    }
+  },
+  "mapType": "jdu"
+}

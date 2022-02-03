@@ -1,0 +1,38 @@
+{
+  "__class": "OnlineBlock",
+  "artist": "",
+  "assets": {
+    "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGeisha/pc/JDMUGeisha_Cover_Generic.tga.ckd/1d563e8c93982d007350a7e7c5ac1b53.ckd",
+    "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGeisha/pc/JDMUGeisha_Cover_Online.tga.ckd/6b9aaa8dc78f9249ca758382e0f6c868.ckd"
+  },
+  "coachCount": 1,
+  "credits": "CREDITS STRING TO BE FILLED",
+  "customTypeNameId": -1,
+  "difficulty": 2,
+  "jdmAttributes": [
+    "JDM_Normal"
+  ],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 27.383,
+  "mapName": "JDMUGeisha",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "JDMUGeisha_mapContent"
+  },
+  "parentMapName": "JDMUGeisha",
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 3,
+  "tags": [
+    "DanceMachine"
+  ],
+  "title": "",
+  "isPlayable": false
+}

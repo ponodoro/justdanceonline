@@ -1,0 +1,17 @@
+{
+    "__class": "JD_CarouselContent",
+    "categories": [],
+    "actionLists": {
+        "_None": {
+            "__class": "ActionList",
+            "actions": [{
+                    "__class": "Action",
+                    "title": "None",
+                    "type": "do-nothing"
+                }
+            ],
+            "itemType": "map"
+        }
+    },
+    "songItemLists": {}
+}

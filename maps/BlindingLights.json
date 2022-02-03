@@ -1,0 +1,90 @@
+{
+  "artist": "The Weeknd",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlindingLights/BlindingLights_banner_bkg.jpg/6057960bddb0bcf2746439ce2d201789.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlindingLights/BlindingLights_Coach_1.png/362774066ecbc433d20a6b17311a1cd9.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BlindingLights/BlindingLights_Cover_Generic.jpg/2d54d29ba815873cdf1c3ed6c6e29d73.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BlindingLights/BlindingLights_Cover_Online.jpg/7ce73f311c577d3908880e93c562edfb.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlindingLights/BlindingLights_Cover_AlbumBkg.jpg/19e68d58b430a5b1064fa0496ddedc7e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BlindingLights/BlindingLights_Cover_AlbumCoach.png/f5df006d7cb7280764dcebae10ce47d9.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlindingLights/BlindingLights_Coach_1_Phone.png/91996cc801d81cd10446214c11c4c4c6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BlindingLights/BlindingLights_Cover_Phone.jpg/7ce73f311c577d3908880e93c562edfb.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlindingLights/BlindingLights_banner_bkg.jpg/6057960bddb0bcf2746439ce2d201789.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlindingLights/BlindingLights_Coach_1.png/362774066ecbc433d20a6b17311a1cd9.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BlindingLights/BlindingLights_Cover_Generic.jpg/2d54d29ba815873cdf1c3ed6c6e29d73.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BlindingLights/BlindingLights_Cover_Online.jpg/7ce73f311c577d3908880e93c562edfb.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlindingLights/BlindingLights_Cover_AlbumBkg.jpg/19e68d58b430a5b1064fa0496ddedc7e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BlindingLights/BlindingLights_Cover_AlbumCoach.png/f5df006d7cb7280764dcebae10ce47d9.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlindingLights/BlindingLights_Coach_1_Phone.png/91996cc801d81cd10446214c11c4c4c6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BlindingLights/BlindingLights_Cover_Phone.jpg/7ce73f311c577d3908880e93c562edfb.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,33684,67368,101052,134736,168421,202105,235789,269473,303157,336842,370526,404210,437894,471578,505263,538947,572631,606315,640000,673684,707368,741052,774736,808421,842105,875789,909473,943157,976842,1010526,1044210,1077894,1111578,1145263,1178947,1212631,1246315,1280000,1313684,1347368,1381052,1414736],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-15,\"endBeat\":283,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":42,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/blindinglights/blindinglights_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Abel Tesfaye, Ahmad Balshe, Max Martin, Oscar Thomas Holter and Jason Quenneville. Published By Universal Music Publishing Canada on behalf of Universal Music Corp. and Sal And Co LP. / Sal and Co LP (SOCAN), Songs of Wolf Cousins (STIM) and WC Music Corp. (ASCAP). All rights on behalf of itself and Sal and Co LP and Songs of Wolf Cousins administered by WC Music Corp. / MXM Music AB (ASCAP). Administered by Kobalt Music Publishing America, Inc. Courtesy of The Weeknd XO & Republic Records under license from Universal Music Enterprises.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "4BF3DAFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 209.12199999999999,
+  "mapName": "BlindingLights",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495719\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"654-1143\">\r\n\t\t\t\t\t<Initialization range=\"0-654\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1466180\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2530513\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2951879\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "BlindingLights_mapContent"
+  },
+  "parentMapName": "BlindingLights",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "DEB4C7FF",
+    "songColor_1B": "44B783FF",
+    "songColor_2A": "357455FF",
+    "songColor_2B": "0B1517FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Blinding Lights",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "4adbcf9971f372b79b669a24d067d271",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/ps4/BlindingLights_MAIN_SCENE_ORBIS.zip/4adbcf9971f372b79b669a24d067d271.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "803f6409b4b8d9c5eb49408f605a3be8",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/nx/BlindingLights_MAIN_SCENE_NX.zip/803f6409b4b8d9c5eb49408f605a3be8.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "b3fe1bc5c956324ea3bfb2803d369fbe",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/BlindingLights/pc/b3fe1bc5c956324ea3bfb2803d369fbe.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/BlindingLights/BlindingLights_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_AudioPreview.ogg/d7370af4d668a429e1bdfda558230734.ogg",
+    "jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_HIGH.vp8.webm/a1c1e680f4f8f160eb0cbfcbafc1813f.webm",
+    "jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_HIGH.vp9.webm/f542350cf8ab37eb2e7ab8b8d8722c68.webm",
+    "jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_LOW.vp8.webm/6c1e55a2132cd56e1078509ce7342e2f.webm",
+    "jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_LOW.vp9.webm/f6b820940080921a847ecc20c768dc8d.webm",
+    "jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_MID.vp8.webm/a9bf7ae3ded96edc66d876750fec2ff7.webm",
+    "jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_MID.vp9.webm/681d2741404cf9fab503626effe983fe.webm",
+    "jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_ULTRA.vp8.webm/8b45869a08233323b912479d4ed867dd.webm",
+    "jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_ULTRA.vp9.webm/1bf3138894164f1960993f2dcf1bd0af.webm"
+  }
+}

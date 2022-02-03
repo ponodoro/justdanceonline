@@ -1,0 +1,111 @@
+{
+  "artist": "Maroon 5",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_banner_bkg.jpg/a5d46badb65df5c370b952d30d05a0ae.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Coach_1.png/8c3422b6f3f779d8d8b6bbb69bea2127.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Cover_Generic.jpg/88154673713fbb960a2073a857777b45.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Cover_1024.png/01ceaee25f0f411820421321414603ba.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Cover_Online.jpg/aa35a8fc340b85c25ec2b05c50994855.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Cover_AlbumBkg.jpg/9045943367ee638fbde9195344228643.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Cover_AlbumCoach.png/4639fbd1435a09e2e91a80881acdde08.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Coach_1_Phone.png/19e16f1ce3aa6675fba78a849cb449ed.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Cover_Phone.jpg/aa35a8fc340b85c25ec2b05c50994855.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_banner_bkg.jpg/a5d46badb65df5c370b952d30d05a0ae.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Coach_1.png/8c3422b6f3f779d8d8b6bbb69bea2127.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Cover_Generic.jpg/88154673713fbb960a2073a857777b45.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Cover_1024.png/01ceaee25f0f411820421321414603ba.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Cover_Online.jpg/aa35a8fc340b85c25ec2b05c50994855.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Cover_AlbumBkg.jpg/9045943367ee638fbde9195344228643.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Cover_AlbumCoach.png/4639fbd1435a09e2e91a80881acdde08.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Coach_1_Phone.png/19e16f1ce3aa6675fba78a849cb449ed.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Cover_Phone.jpg/aa35a8fc340b85c25ec2b05c50994855.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/wiiu/RedMangoose_banner_bkg.tga.ckd/d00eb76a497c1324b67f45f896d3e23c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/wiiu/RedMangoose_Coach_1.tga.ckd/a22d3954ae81548da68f6fe0493a390e.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/wiiu/RedMangoose_Cover_Generic.tga.ckd/fa3ea751d86432eabbbdba62e6a29944.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Cover_1024.png/01ceaee25f0f411820421321414603ba.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/wiiu/RedMangoose_Cover_Online.tga.ckd/fbf39acc1bb069a85be58a784d573903.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/wiiu/RedMangoose_Cover_AlbumBkg.tga.ckd/73f890bd087a0a3ce73dc451a34e3e4f.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/wiiu/RedMangoose_Cover_AlbumCoach.tga.ckd/bb1f3478bd6913996a1ab7de102fb16b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Coach_1_Phone.png/19e16f1ce3aa6675fba78a849cb449ed.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_Cover_Phone.jpg/aa35a8fc340b85c25ec2b05c50994855.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28800,57600,86400,115200,144000,172800,201600,230400,259200,288000,316800,345600,374400,403200,432000,460800,489600,518400,547200,576000,604800,633600,662400,691200,720000,748800,777600,806400,835200,864000,892800,921600,950400,979200,1008000,1036800,1065600,1094400,1123200,1152000,1180800,1209600,1238400,1267200,1296000,1324800,1353600,1382400,1411200],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":357,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":49,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/redmangoose/redmangoose_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F7B537FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 216,
+  "mapName": "RedMangoose",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496329\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1474665\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2486358\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2755197\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "RedMangoose_mapContent"
+  },
+  "parentMapName": "RedMangoose",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "B30032FF",
+    "songColor_1B": "26000EFF",
+    "songColor_2A": "FFC73FFF",
+    "songColor_2B": "1A97A7FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Don't Wanna Know",
+  "urls": {
+    "jmcs://jd-contents/RedMangoose/RedMangoose_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_AudioPreview.ogg/11a9d790d3eddd971d2627e7278f19a7.ogg",
+    "jmcs://jd-contents/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_HIGH.vp8.webm/05108f7cf204a10adc5e215877adf604.webm",
+    "jmcs://jd-contents/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_HIGH.vp9.webm/17e89d1cc4cb3152e77fc664d92b0bdc.webm",
+    "jmcs://jd-contents/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_LOW.vp8.webm/58d0cbdb1d56b9026cb4dec580dba592.webm",
+    "jmcs://jd-contents/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_LOW.vp9.webm/bfd02738e9610b01fcc8d36df006c1c0.webm",
+    "jmcs://jd-contents/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_MID.vp8.webm/f053a362a2deb8ff8072614f30e3dead.webm",
+    "jmcs://jd-contents/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_MID.vp9.webm/feb9e088ca8d280464a9924bd92a84ee.webm",
+    "jmcs://jd-contents/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_ULTRA.vp8.webm/511bdab9bea2a5efebf02eda96deb92b.webm",
+    "jmcs://jd-contents/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/RedMangoose/RedMangoose_MapPreviewNoSoundCrop_ULTRA.vp9.webm/098299f74b3350d5d4ee032461034131.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "63d115572224e1634d7e66920266416b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RedMangoose/ps4/RedMangoose_MAIN_SCENE_ORBIS.zip/63d115572224e1634d7e66920266416b.zip",
+      "version": 24
+    },
+    "pc": {
+      "md5": "79b7cae1b32969353ceef1e2e52441f8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RedMangoose/pc/RedMangoose_MAIN_SCENE_PC.zip/79b7cae1b32969353ceef1e2e52441f8.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "e260d1ec6415f4182d4e88b2cc2e7c89",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RedMangoose/wiiu/RedMangoose_MAIN_SCENE_WIIU.zip/e260d1ec6415f4182d4e88b2cc2e7c89.zip",
+      "version": 24
+    },
+    "nx": {
+      "md5": "c057597e0beb106468402eabb912ccd6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RedMangoose/nx/RedMangoose_MAIN_SCENE_NX.zip/c057597e0beb106468402eabb912ccd6.zip",
+      "version": 14
+    }
+  },
+  "mapType": "jdu"
+}

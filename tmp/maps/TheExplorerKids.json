@@ -1,0 +1,102 @@
+{
+  "artist": "Persian Nights",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/ggp/TheExplorerKids_banner_bkg.tga.ckd/3665c31b86902575bd9cc754f24c69d3.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/ggp/TheExplorerKids_Coach_1.tga.ckd/1423cac89f15167fd4582c5e9b30717f.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/ggp/TheExplorerKids_Cover_Generic.tga.ckd/47de4407d825ac259ee03e02520f0e2c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_Cover_1024.png/051f83fa0d0f900c5d851487dfb39b50.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/ggp/TheExplorerKids_Cover_Online.tga.ckd/47de4407d825ac259ee03e02520f0e2c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/ggp/TheExplorerKids_Cover_AlbumBkg.tga.ckd/0e5d1fb9e01718203a6b4c33f3c48c08.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/ggp/TheExplorerKids_Cover_AlbumCoach.tga.ckd/886952dbe5a514dad37da4810f365089.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_Coach_1_Phone.png/69d8d7cad9d3b827bd44ddc1ca754ace.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_Cover_Phone.jpg/b6047d94bb9ca31d73a3b3b252cefbe1.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/ggp/TheExplorerKids_map_bkg.tga.ckd/542663b2058a544c9861e3769abc9712.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/nx/TheExplorerKids_banner_bkg.tga.ckd/50abac5c19477ce7e948ddd5fdeeb912.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/nx/TheExplorerKids_Coach_1.tga.ckd/57053be63f7603ea80e02aa927175206.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/nx/TheExplorerKids_Cover_Generic.tga.ckd/f27754895191c16d521c388226f2900e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_Cover_1024.png/051f83fa0d0f900c5d851487dfb39b50.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/nx/TheExplorerKids_Cover_Online.tga.ckd/7a52df22744fec33f11fe2aa8d8e0adc.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/nx/TheExplorerKids_Cover_AlbumBkg.tga.ckd/ec0dda55a62eb3b781ab349eb375822a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/nx/TheExplorerKids_Cover_AlbumCoach.tga.ckd/30f16d17e586f96cd74841b3f754563c.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/nx/TheExplorerKids_map_bkg.tga.ckd/db7d76a1074bcb967d97756ded354359.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_Coach_1_Phone.png/69d8d7cad9d3b827bd44ddc1ca754ace.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_Cover_Phone.jpg/b6047d94bb9ca31d73a3b3b252cefbe1.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_banner_bkg.jpg/da6306558a3c168cf5be2a9943edfccf.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_Coach_1.png/7f412a2859f3b00bce12ae9eb5a2f625.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_Cover_Generic.jpg/8cde141288d712a6f94408109b1ffdbb.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_Cover_1024.png/051f83fa0d0f900c5d851487dfb39b50.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_Cover_Online.jpg/b6047d94bb9ca31d73a3b3b252cefbe1.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_Cover_AlbumBkg.jpg/17a20093242b8c9012f81d35f21fcb63.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_Cover_AlbumCoach.png/8e9ac0dd66245e97dd290f8384129a51.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_Coach_1_Phone.png/69d8d7cad9d3b827bd44ddc1ca754ace.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_Cover_Phone.jpg/b6047d94bb9ca31d73a3b3b252cefbe1.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28800,57600,86400,115200,144000,172800,201600,230400,259200,288000,316801,345601,374401,403201,432001,460801,489601,518401,547201,576001,604801,633601,662401,691201,720001,748801,777601,806401,835202,864002,892802,921602,950402,979202,1008002,1036802,1065602,1094402,1123202,1152002,1180802,1209602,1238402,1267202,1296002,1324802,1353602,1382403,1411203],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-1,\"endBeat\":198,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":49,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/theexplorerkids/theexplorerkids_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 122.454,
+  "mapName": "TheExplorerKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496115\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1404292\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1789785\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1790466\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "TheExplorerKids_mapContent"
+  },
+  "parentMapName": "TheExplorerKids",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "F9DE45FF",
+    "songColor_1B": "9E4501FF",
+    "songColor_2A": "F99932FF",
+    "songColor_2B": "5F2C82FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Tales Of The Desert",
+  "urls": {
+    "jmcs://jd-contents/TheExplorerKids/TheExplorerKids_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_AudioPreview.ogg/13200882bb52259c65692d1681371749.ogg",
+    "jmcs://jd-contents/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/562e8064870de3a324e61ebfdb44d5a4.webm",
+    "jmcs://jd-contents/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/8707b2ec83fd8d1ff2eb2be082d11362.webm",
+    "jmcs://jd-contents/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_LOW.vp8.webm/898a3f67da0d3a19ba5810fd94135ecf.webm",
+    "jmcs://jd-contents/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_LOW.vp9.webm/1a904bc66840f695412ec6b41ddf9422.webm",
+    "jmcs://jd-contents/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_MID.vp8.webm/ecea8ea6bd389563168d167f302ad291.webm",
+    "jmcs://jd-contents/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_MID.vp9.webm/863c0ee1823fe63c87cbcc6cf6dbc6a5.webm",
+    "jmcs://jd-contents/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/8ff4b94fe6419ce13fee4b51ffbb6a41.webm",
+    "jmcs://jd-contents/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/683ef820eaf7b76191862327fe576b8d.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "afc4711efd9d76e259707ad38e10c1c1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/ps4/TheExplorerKids_MAIN_SCENE_ORBIS.zip/afc4711efd9d76e259707ad38e10c1c1.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "05678fb036707f4819a033ea0ee539ac",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheExplorerKids/nx/TheExplorerKids_MAIN_SCENE_NX.zip/05678fb036707f4819a033ea0ee539ac.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939
+}

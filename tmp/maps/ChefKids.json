@@ -1,0 +1,103 @@
+{
+  "artist": "Cooking Meow Meow",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/ps4/ChefKids_banner_bkg.tga.ckd/7ce010b627554c03890dccb0472efe22.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/ps4/ChefKids_Coach_1.tga.ckd/a6b5a0a731a82220ee98d67f78b4e875.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/ps4/ChefKids_Cover_Generic.tga.ckd/67c5ba3e917b47ffc55df425d5b65513.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/ChefKids_Cover_1024.png/ce9de7c4b3a0c1f0c82da5e940e9ecf0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/ps4/ChefKids_Cover_Online.tga.ckd/f91fb5ccfe87c8a46cea24209edff15a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/ps4/ChefKids_Cover_AlbumBkg.tga.ckd/d00b863bdb49259524d0718123192e6c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/ps4/ChefKids_Cover_AlbumCoach.tga.ckd/8fca0d7213b507149b4d0d476180676c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/ChefKids_Coach_1_Phone.png/01bb617e03b089a314619c452fb7828c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/ChefKids_Cover_Phone.jpg/7264ed26884df4db8dda56d37135606c.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/ps4/ChefKids_map_bkg.tga.ckd/456202b202e6f0f309fc4133059f374b.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/nx/ChefKids_banner_bkg.tga.ckd/83dc0a9af229ece0426e9e54c1c06ee7.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/nx/ChefKids_Coach_1.tga.ckd/6c17aeebac0ef919c0b343233c290c72.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/nx/ChefKids_Cover_Generic.tga.ckd/7d445447423efa9ee3a2b0506cb6e612.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/ChefKids_Cover_1024.png/ce9de7c4b3a0c1f0c82da5e940e9ecf0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/nx/ChefKids_Cover_Online.tga.ckd/5a8700a5bedf0570be6c6b0bfa4dde42.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/nx/ChefKids_Cover_AlbumBkg.tga.ckd/a037f9807d7022a2c69f88a3c66d2b11.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/nx/ChefKids_Cover_AlbumCoach.tga.ckd/0ac2e80e91b78aa176cee75b85d45c59.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/ChefKids_Coach_1_Phone.png/01bb617e03b089a314619c452fb7828c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/ChefKids_Cover_Phone.jpg/7264ed26884df4db8dda56d37135606c.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ChefKids/nx/ChefKids_map_bkg.tga.ckd/828df6d6da9126b67458518eacfd29a3.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20592,41136,61728,82272,102864,123408,144000,164592,185136,205728,226272,246864,267408,288000,308592,329136,349729,370273,390865,411409,432001,452593,473137,493729,514273,534865,555409,576001,596593,617137,637729,658273,678866,699410,720002,740594,761138,781730,802274,822866,843410,864002,884594,905138,925730,946274,966866,987410,1008003,1028595,1049139,1069731,1090275,1110867,1131411,1152003,1172595,1193139,1213731,1234275,1254867,1275411,1296003,1316595,1337139,1357732,1378276,1398868,1419412],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-15,\"endBeat\":231,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":69,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/chefkids/chefkids_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Composed by Steve Ouimette. Published by Ubisoft Music. Performed by Steve Ouimette. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 105.42699999999999,
+  "mapName": "ChefKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496291\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ChefKids/ChefKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1082\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1360742\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ChefKids/ChefKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\r\n\t\t\t\t\t<Initialization range=\"0-594\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1555300\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ChefKids/ChefKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\r\n\t\t\t\t\t<Initialization range=\"0-594\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1554880\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ChefKids/ChefKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\r\n\t\t\t\t\t<Initialization range=\"0-594\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "ChefKids_mapContent"
+  },
+  "parentMapName": "ChefKids",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all"
+  ],
+  "songColors": {
+    "songColor_1A": "FFC83EFF",
+    "songColor_1B": "E75055FF",
+    "songColor_2A": "00DAA6FF",
+    "songColor_2B": "1F8DA9FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "subscribedSong",
+    "ExcludedFromWDF"
+  ],
+  "title": "Kitchen Kittens",
+  "urls": {
+    "jmcs://jd-contents/ChefKids/ChefKids_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ChefKids/ChefKids_AudioPreview.ogg/c27e9c4c6e3897f172f8fe72fa8191e2.ogg",
+    "jmcs://jd-contents/ChefKids/ChefKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ChefKids/ChefKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/06ea947392a225ba6405cd8d65be865f.webm",
+    "jmcs://jd-contents/ChefKids/ChefKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ChefKids/ChefKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/41ff082894257090b62e7f6ea677ad8a.webm",
+    "jmcs://jd-contents/ChefKids/ChefKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ChefKids/ChefKids_MapPreviewNoSoundCrop_LOW.vp8.webm/7437aaef8b244b0400f5f3b333f80f61.webm",
+    "jmcs://jd-contents/ChefKids/ChefKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ChefKids/ChefKids_MapPreviewNoSoundCrop_LOW.vp9.webm/41f9556575dcb475f22d40f1d7a620be.webm",
+    "jmcs://jd-contents/ChefKids/ChefKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ChefKids/ChefKids_MapPreviewNoSoundCrop_MID.vp8.webm/c560da0a9d63fbbc19b46036e348afee.webm",
+    "jmcs://jd-contents/ChefKids/ChefKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ChefKids/ChefKids_MapPreviewNoSoundCrop_MID.vp9.webm/de230fd5b57a7a2fc1d9e094549585bc.webm",
+    "jmcs://jd-contents/ChefKids/ChefKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ChefKids/ChefKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d5c680b8e95f6da6ad84433a26910c00.webm",
+    "jmcs://jd-contents/ChefKids/ChefKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ChefKids/ChefKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/742d5a2335de56d1f9f09f7abee3ea04.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "883d55a8884dd14360151ded74d174fe",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ChefKids/ps4/ChefKids_MAIN_SCENE_ORBIS.zip/883d55a8884dd14360151ded74d174fe.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "c377bc004178a537c0b9bed4877b04ee",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ChefKids/nx/ChefKids_MAIN_SCENE_NX.zip/c377bc004178a537c0b9bed4877b04ee.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "697080a793f8b709e20c3fef944530b0",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/ChefKids/pc/697080a793f8b709e20c3fef944530b0.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939
+}

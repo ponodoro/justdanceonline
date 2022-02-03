@@ -1,0 +1,104 @@
+{
+  "artist": "XS Project",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/ps4/Vodovorot_banner_bkg.tga.ckd/f48c501cb149a14cebafbb2988ebc1c6.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/ps4/Vodovorot_Coach_1.tga.ckd/560bf9f460dc357bb46a7d3217956013.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/ps4/Vodovorot_Cover_Generic.tga.ckd/75021625cd4daa7b0f54ecb0ffca92d3.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/Vodovorot_Cover_1024.png/3beceb22389cfb9d2a7421af3d33560e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/ps4/Vodovorot_Cover_Online.tga.ckd/91714b82140fbcb29fbeda32cfcc1430.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/ps4/Vodovorot_Cover_AlbumBkg.tga.ckd/4acb06e4211992ba8173ddd69cf0c701.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/ps4/Vodovorot_Cover_AlbumCoach.tga.ckd/155fae783f40036697c4ad8d25572e49.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/Vodovorot_Coach_1_Phone.png/978e0f057412475bf67d59c24b000e9c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/Vodovorot_Cover_Phone.jpg/68d5d15913d12f777f5f62a8ac0b35a9.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/ps4/Vodovorot_map_bkg.tga.ckd/19a4e19cdd735f3e0ec0e5fc48ccf319.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/nx/Vodovorot_banner_bkg.tga.ckd/1e866dd859314374198e211b00dcd01e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/nx/Vodovorot_Coach_1.tga.ckd/595a99d52bd2a1f196623aad6ecb653d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/nx/Vodovorot_Cover_Generic.tga.ckd/9f2e6f62b9ca724af9274cfd23ab52db.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/Vodovorot_Cover_1024.png/3beceb22389cfb9d2a7421af3d33560e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/nx/Vodovorot_Cover_Online.tga.ckd/a8fe8fa652a71736e72913ff2971657d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/nx/Vodovorot_Cover_AlbumBkg.tga.ckd/362771e57818795234eccecc48ee5727.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/nx/Vodovorot_Cover_AlbumCoach.tga.ckd/8efbfab1e27512ac39767fb3fd313e7f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/Vodovorot_Coach_1_Phone.png/978e0f057412475bf67d59c24b000e9c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/Vodovorot_Cover_Phone.jpg/68d5d15913d12f777f5f62a8ac0b35a9.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Vodovorot/nx/Vodovorot_map_bkg.tga.ckd/80170d4a3ccf189c879bc161de7670d9.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,19200,38400,57600,76800,96000,115200,134400,153600,172800,192000,211200,230400,249600,268800,288000,307200,326400,345600,364800,384000,403200,422400,441600,460800,480000,499200,518400,537600,556800,576000,595200,614400,633600,652800,672000,691200,710400,729600,748800,768000,787200,806400,825600,844800,864000,883200,902400,921600,940800,960000,979200,998400,1017600,1036800,1056000,1075200,1094400,1113600,1132800,1152000,1171200,1190400,1209600,1228800,1248000,1267200,1286400,1305600,1324800,1344000,1363200,1382400,1401600,1420800],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":452,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":74,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/vodovorot/vodovorot_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Levon Davtiants and Andrei Andriianov. Published by XS Project. Courtesy of XS Project.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "1BDB70FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 183.6,
+  "mapName": "Vodovorot",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"498247\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1486471\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2957269\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4548554\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "Vodovorot_mapContent"
+  },
+  "parentMapName": "Vodovorot",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "008949FF",
+    "songColor_1B": "001E50FF",
+    "songColor_2A": "DA5016FF",
+    "songColor_2B": "891230FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Vodovorot",
+  "urls": {
+    "jmcs://jd-contents/Vodovorot/Vodovorot_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Vodovorot/Vodovorot_AudioPreview.ogg/89c9236c88ab211c92d1422b9c946ab6.ogg",
+    "jmcs://jd-contents/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_HIGH.vp8.webm/466547066a4932a9ab2f2d3c60a79db6.webm",
+    "jmcs://jd-contents/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_HIGH.vp9.webm/286323fb38b061385c63713bafd8b319.webm",
+    "jmcs://jd-contents/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_LOW.vp8.webm/f15d547f9d245eb8b6321c38c7e71358.webm",
+    "jmcs://jd-contents/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_LOW.vp9.webm/dad33c761bb362a344f9eb7899b765d4.webm",
+    "jmcs://jd-contents/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_MID.vp8.webm/17cad2b18e3d897604c4defad8adb0ce.webm",
+    "jmcs://jd-contents/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_MID.vp9.webm/f3e4e40682aac73109a0a2da37659771.webm",
+    "jmcs://jd-contents/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_ULTRA.vp8.webm/8050ebe50c8d3a2ac511b29c20cf83a2.webm",
+    "jmcs://jd-contents/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Vodovorot/Vodovorot_MapPreviewNoSoundCrop_ULTRA.vp9.webm/af3091d8777cf8e7810a53b0a904b31a.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "e6c4d6c76bd1be289e737e3e9c59aca0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Vodovorot/ps4/Vodovorot_MAIN_SCENE_ORBIS.zip/e6c4d6c76bd1be289e737e3e9c59aca0.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "2bd0bba9faaebad8326465f6a4ff4f46",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Vodovorot/nx/Vodovorot_MAIN_SCENE_NX.zip/2bd0bba9faaebad8326465f6a4ff4f46.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "df16c3ea10ee2eedbf002bb5dce1f79d",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Vodovorot/pc/df16c3ea10ee2eedbf002bb5dce1f79d.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

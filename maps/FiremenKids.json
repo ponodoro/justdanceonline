@@ -1,0 +1,96 @@
+{
+  "artist": "The Step Brigade",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_banner_bkg.jpg/98944d8409e4fa307e687e53e3f6e755.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Coach_1.png/3a1706eb1cbac23d8f752a08e7f67b66.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Coach_2.png/86ba5f1264aca90f43b9c8a7eff5d240.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Cover_Generic.jpg/af98038d03f2a71d9e80b03adb5e49f9.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Cover_Online.jpg/f5f7a87eb85d6ea078dd7602717901a7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Cover_AlbumBkg.jpg/d825551aab4da2c81be720a2228d650e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Cover_AlbumCoach.png/318d0a20ddc597317c723fc60291fcab.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Coach_1_Phone.png/fdc128abb8ebbf6a2523009abaa7010e.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Coach_2_Phone.png/c1353c22484eefbdfbf3dd2242e7b229.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Cover_Phone.jpg/f5f7a87eb85d6ea078dd7602717901a7.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_banner_bkg.jpg/98944d8409e4fa307e687e53e3f6e755.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Coach_1.png/3a1706eb1cbac23d8f752a08e7f67b66.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Coach_2.png/86ba5f1264aca90f43b9c8a7eff5d240.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Cover_Generic.jpg/af98038d03f2a71d9e80b03adb5e49f9.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Cover_Online.jpg/f5f7a87eb85d6ea078dd7602717901a7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Cover_AlbumBkg.jpg/d825551aab4da2c81be720a2228d650e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Cover_AlbumCoach.png/318d0a20ddc597317c723fc60291fcab.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Coach_1_Phone.png/fdc128abb8ebbf6a2523009abaa7010e.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Coach_2_Phone.png/c1353c22484eefbdfbf3dd2242e7b229.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FiremenKids/FiremenKids_Cover_Phone.jpg/f5f7a87eb85d6ea078dd7602717901a7.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28800,57600,86400,115200,144000,172800,201600,230400,259200,288000,316800,345600,374400,403200,432000,460800,489600,518400,547200,576000,604800,633600,662400,691200,720000,748800,777600,806400,835200,864000,892800,921600,950400,979200,1008000,1036800,1065600,1094400,1123200,1152000,1180800,1209600,1238400,1267200,1296000,1324800,1353600,1382400,1411200],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-1,\"endBeat\":200,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":49,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/firemenkids/firemenkids_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Terry Devine-King. Published by Audio Network Canada Inc. Courtesy of Audio Network Canada Inc.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "21D2DEFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 120.6,
+  "mapName": "FiremenKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497409\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1486309\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1096\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2952739\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1096\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3913623\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1096\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "FiremenKids_mapContent"
+  },
+  "parentMapName": "FiremenKids",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "28143BFF",
+    "songColor_1B": "EFE7EBFF",
+    "songColor_2A": "0FF1F5FF",
+    "songColor_2B": "F89422FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "subscribedSong"
+  ],
+  "title": "Get On The Fire Truck",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "b7c0a42c493ef2af050241cbacaa4e41",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/FiremenKids/ps4/FiremenKids_MAIN_SCENE_ORBIS.zip/b7c0a42c493ef2af050241cbacaa4e41.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "c78aef8fdd9e70aabbd019853f8b2d0d",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/FiremenKids/nx/FiremenKids_MAIN_SCENE_NX.zip/c78aef8fdd9e70aabbd019853f8b2d0d.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "c3f6e6f5b758d0ff1b8966d7f020f349",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/FiremenKids/pc/c3f6e6f5b758d0ff1b8966d7f020f349.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939,
+  "urls": {
+    "jmcs://jd-contents/FiremenKids/FiremenKids_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/FiremenKids/FiremenKids_AudioPreview.ogg/7fd7d18b7dd88d2350dd183af6faf20f.ogg",
+    "jmcs://jd-contents/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/12d942aba9bd6a8c002cdc75e6174aab.webm",
+    "jmcs://jd-contents/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/c95df983208d6f5832787f92d20f5339.webm",
+    "jmcs://jd-contents/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_LOW.vp8.webm/25bdf26834a63c5103233f97d91b7986.webm",
+    "jmcs://jd-contents/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_LOW.vp9.webm/38bf028dd0edea3c4d4d5694a23bfe6c.webm",
+    "jmcs://jd-contents/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_MID.vp8.webm/63737cba1b467bcca5b27e088104775f.webm",
+    "jmcs://jd-contents/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_MID.vp9.webm/3a481dc2a1f535b75b3558503fb0fc9d.webm",
+    "jmcs://jd-contents/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/18ccb2c8d11badda208b1ed2e03cf013.webm",
+    "jmcs://jd-contents/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/0190d32ab1b7952029be810412a0fb61.webm"
+  }
+}

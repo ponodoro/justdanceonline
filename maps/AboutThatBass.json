@@ -1,0 +1,114 @@
+{
+  "artist": "Meghan Trainor",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_banner_bkg.jpg/c470fe7231bf38d92d8c6b1c9b926b7f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Coach_1.png/84ae20bfa225e99361b702bae948e8d2.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Cover_Generic.jpg/f64a26aa4f08c80ed42243d916ba2cdd.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Cover_1024.png/5124c387687c2aa1557e0a788842efab.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Cover_Online.jpg/b8f2bbb5eda030df35fd0239f52ff797.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Cover_AlbumBkg.jpg/acccbd35f4148ed7a6a709d1c4b009d3.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Cover_AlbumCoach.png/cedc92e569bc9b24b9631d1eae5e2385.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Coach_1_Phone.png/3d9643daba8abf3741adf96c3d137b7e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Cover_Phone.jpg/b8f2bbb5eda030df35fd0239f52ff797.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_VideoPreview.webm/93ac284dd958bf0d432699d5b2cdf22e.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_banner_bkg.jpg/c470fe7231bf38d92d8c6b1c9b926b7f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Coach_1.png/84ae20bfa225e99361b702bae948e8d2.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Cover_Generic.jpg/f64a26aa4f08c80ed42243d916ba2cdd.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Cover_1024.png/5124c387687c2aa1557e0a788842efab.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Cover_Online.jpg/b8f2bbb5eda030df35fd0239f52ff797.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Cover_AlbumBkg.jpg/acccbd35f4148ed7a6a709d1c4b009d3.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Cover_AlbumCoach.png/cedc92e569bc9b24b9631d1eae5e2385.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Coach_1_Phone.png/3d9643daba8abf3741adf96c3d137b7e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Cover_Phone.jpg/b8f2bbb5eda030df35fd0239f52ff797.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_VideoPreview.webm/93ac284dd958bf0d432699d5b2cdf22e.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/wiiu/AboutThatBass_banner_bkg.tga.ckd/6ff6336f0da9e85c0a7a062d5730945f.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/wiiu/AboutThatBass_Coach_1.tga.ckd/5088873c9ef5b680d10f50ec42442c83.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/wiiu/AboutThatBass_Cover_Generic.tga.ckd/30e44b5469f02192321f4da06284073c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Cover_1024.png/5124c387687c2aa1557e0a788842efab.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/wiiu/AboutThatBass_Cover_Online.tga.ckd/05ae8378226976948255f24530438285.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/wiiu/AboutThatBass_Cover_AlbumBkg.tga.ckd/27536ce3feff787eb641c016b8d09cf6.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/wiiu/AboutThatBass_Cover_AlbumCoach.tga.ckd/7bb66aed08ebd7dfddb35f8db266e598.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Coach_1_Phone.png/3d9643daba8abf3741adf96c3d137b7e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_Cover_Phone.jpg/b8f2bbb5eda030df35fd0239f52ff797.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_VideoPreview.webm/93ac284dd958bf0d432699d5b2cdf22e.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21504,43008,64464,85968,107472,128976,150432,171936,193439,214943,236399,257903,279407,300911,322415,343871,365375,386879,408383,429839,451343,472847,494351,515807,537311,558815,580319,601775,623279,644783,666287,687743,709247,730751,752255,773759,795215,816719,838222,859726,881182,902686,924190,945694,967150,988654,1010158,1031662,1053118,1074622,1096126,1117630,1139086,1160590,1182094,1203598,1225054,1246558,1268062,1289566,1311070,1332526,1354030,1375534,1397038,1418494,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":422,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":67,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/aboutthatbass/aboutthatbass_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "6F46F0FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 189.852,
+  "mapName": "AboutThatBass",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495785\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1159754\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1160789\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1160778\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "AboutThatBass_mapContent"
+  },
+  "parentMapName": "AboutThatBass",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FFC052FF",
+    "songColor_1B": "CE6F2FFF",
+    "songColor_2A": "8669FFFF",
+    "songColor_2B": "30006CFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "All About That Bass",
+  "urls": {
+    "jmcs://jd-contents/AboutThatBass/AboutThatBass_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_AudioPreview.ogg/4dde4e8e7aa25c84516d6771803d79c1.ogg",
+    "jmcs://jd-contents/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_HIGH.vp8.webm/2ed6da87c34e2105035df171372c5192.webm",
+    "jmcs://jd-contents/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_HIGH.vp9.webm/635368ac17f788cb5be79e75f8a59fff.webm",
+    "jmcs://jd-contents/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_LOW.vp8.webm/94ee4ccf8bfa84fd3fc0eb721d5581a7.webm",
+    "jmcs://jd-contents/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_LOW.vp9.webm/2a2be34cb365aececbc355ed7d9b1ea6.webm",
+    "jmcs://jd-contents/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_MID.vp8.webm/6f6abc7150ff35863d6703321195bac7.webm",
+    "jmcs://jd-contents/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_MID.vp9.webm/0b750d0d89bca7a9ab750091f3ebf5a1.webm",
+    "jmcs://jd-contents/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_ULTRA.vp8.webm/374ac0e5d8a4147b665b9e70062056e4.webm",
+    "jmcs://jd-contents/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/AboutThatBass/AboutThatBass_MapPreviewNoSoundCrop_ULTRA.vp9.webm/d1361612d5ef1b6680518528867b79b7.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "15ac7a8c910ed3b1c1786762a0348230",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AboutThatBass/ps4/AboutThatBass_MAIN_SCENE_ORBIS.zip/15ac7a8c910ed3b1c1786762a0348230.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "4c5356f788dddc5058e65f116dc533e4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AboutThatBass/pc/AboutThatBass_MAIN_SCENE_PC.zip/4c5356f788dddc5058e65f116dc533e4.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "bdf1548251a85d46a07ba630e5e807a3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AboutThatBass/wiiu/AboutThatBass_MAIN_SCENE_WIIU.zip/bdf1548251a85d46a07ba630e5e807a3.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "a73539e5249323896ab628c2612a74ae",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AboutThatBass/nx/AboutThatBass_MAIN_SCENE_NX.zip/a73539e5249323896ab628c2612a74ae.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

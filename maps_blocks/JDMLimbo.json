@@ -1,0 +1,38 @@
+{
+  "__class": "OnlineBlock",
+  "artist": "JDMLimbo Artist",
+  "assets": {
+    "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimbo/pc/JDMLimbo_Cover_Generic.tga.ckd/ff8ffe96ae317f70b9f5215da2b5239b.ckd",
+    "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimbo/pc/JDMLimbo_Cover_Online.tga.ckd/a99da58746a98986ca9dc81348112026.ckd"
+  },
+  "coachCount": 1,
+  "credits": "CREDITS STRING TO BE FILLED",
+  "customTypeNameId": -1,
+  "difficulty": 2,
+  "jdmAttributes": [
+    "JDM_Cool"
+  ],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 28.695999999999998,
+  "mapName": "JDMLimbo",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "JDMLimbo_mapContent"
+  },
+  "parentMapName": "JDMLimbo",
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 6,
+  "tags": [
+    "DanceMachine"
+  ],
+  "title": "JDMLimbo",
+  "isPlayable": false
+}

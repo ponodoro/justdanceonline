@@ -1,0 +1,119 @@
+{
+  "artist": "Calvin Harris, Dua Lipa",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/ps4/OneKiss_banner_bkg.tga.ckd/59a05b04ef933f7e5c7572418ef411f4.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/ps4/OneKiss_Coach_1.tga.ckd/acf3f65a740590ef6a6b3da80c867c57.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/ps4/OneKiss_Cover_Generic.tga.ckd/a728ec5685ba1438214e1312befb96bf.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_Cover_1024.png/6c0423b8ceb6106e69076ad53c39ffe3.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/ps4/OneKiss_Cover_Online.tga.ckd/c9bc37846c1aca333ad2088a2cd4bb1c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/ps4/OneKiss_Cover_AlbumBkg.tga.ckd/ec9b608d1bd4ba85b1db942bf209458d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/ps4/OneKiss_Cover_AlbumCoach.tga.ckd/aebf6aa94a2066bebd7323f35ade5219.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_Coach_1_Phone.png/b3bdaa139c0b4a07a916c2a7a4d7d74c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_Cover_Phone.jpg/b6378a785cfebd97eae84d2fa0a0e647.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/ps4/OneKiss_map_bkg.tga.ckd/3bee4fde4f63167f7b1cb3180e77f467.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/nx/OneKiss_banner_bkg.tga.ckd/431d63c116e8b8d2e9fa9ebe883683f0.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/nx/OneKiss_Coach_1.tga.ckd/7621aeabf4b0405aa3547b5596836d00.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/nx/OneKiss_Cover_Generic.tga.ckd/abe15e30da0489950db2da8c2b03ca0f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_Cover_1024.png/6c0423b8ceb6106e69076ad53c39ffe3.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/nx/OneKiss_Cover_Online.tga.ckd/0bf43fa095f68776815a57176af2d6f1.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/nx/OneKiss_Cover_AlbumBkg.tga.ckd/bf39bf93beb59aef9d9be0f52f26d9bd.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/nx/OneKiss_Cover_AlbumCoach.tga.ckd/31442abdb7f61fc47bfa0abd4afe00f6.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_Coach_1_Phone.png/b3bdaa139c0b4a07a916c2a7a4d7d74c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_Cover_Phone.jpg/b6378a785cfebd97eae84d2fa0a0e647.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/nx/OneKiss_map_bkg.tga.ckd/ecfd01a4480a16c92026d8bc9af20b7d.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_banner_bkg.jpg/e2c88875d34880db4b6e6339a6d9559a.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_Coach_1.png/bae6e97f88d0597c40a3801cbd22b119.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_Cover_Generic.jpg/61f11931af5dd5d5e8bae7ae02256f47.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_Cover_1024.png/6c0423b8ceb6106e69076ad53c39ffe3.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_Cover_Online.jpg/b6378a785cfebd97eae84d2fa0a0e647.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_Cover_AlbumBkg.jpg/b4a8262a438b4e7a10611a255fe0b9a2.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_Cover_AlbumCoach.png/af55da5748db2e0654f0b03c8708820a.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_Coach_1_Phone.png/b3bdaa139c0b4a07a916c2a7a4d7d74c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_Cover_Phone.jpg/b6378a785cfebd97eae84d2fa0a0e647.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23232,46464,69696,92928,116160,139392,162624,185808,209040,232272,255504,278736,301968,325200,348384,371616,394848,418080,441313,464545,487777,511009,534193,557425,580657,603889,627121,650353,673585,696817,720001,743233,766465,789697,812929,836161,859393,882625,905809,929041,952273,975505,998737,1021969,1045201,1068385,1091617,1114849,1138081,1161313,1184545,1207777,1231009,1254193,1277425,1300657,1323889,1347121,1370353,1393585,1416817],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":438,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/onekiss/onekiss_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Calvin Harris, Dua Lipa, Jessica Reyes and Adam Richard Wiles. Published by TSJ Merlyn Licensing B.V. (PRS) c/o EMI April Music (Canada) Ltd. (SOCAN) / BMG Gold Songs. All rights administered by BMG Rights Management (US) LLC. / Universal PolyGram Int. Publishing, Inc. on behalf of Universal Music Publishing Ltd. All rights reserved. Used with permission. Courtesy of Sony Music Entertainment UK Limited. By arrangement with Sony Music Entertainment. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FBF04BFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 212.903,
+  "mapName": "OneKiss",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496596\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OneKiss/OneKiss_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"595-1084\">\r\n\t\t\t\t\t<Initialization range=\"0-595\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1463645\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OneKiss/OneKiss_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"596-1086\">\r\n\t\t\t\t\t<Initialization range=\"0-596\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1735132\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OneKiss/OneKiss_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"596-1086\">\r\n\t\t\t\t\t<Initialization range=\"0-596\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1735867\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OneKiss/OneKiss_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"596-1086\">\r\n\t\t\t\t\t<Initialization range=\"0-596\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "OneKiss_mapContent"
+  },
+  "parentMapName": "OneKiss",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "820E0EFF",
+    "songColor_1B": "F98918FF",
+    "songColor_2A": "029366FF",
+    "songColor_2B": "004C60FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "One Kiss",
+  "urls": {
+    "jmcs://jd-contents/OneKiss/OneKiss_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_AudioPreview.ogg/e1ddd2fb9b36e8dd71025fadb184c834.ogg",
+    "jmcs://jd-contents/OneKiss/OneKiss_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_MapPreviewNoSoundCrop_HIGH.vp8.webm/25d3e9d2822812da0690a15f50e38f99.webm",
+    "jmcs://jd-contents/OneKiss/OneKiss_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_MapPreviewNoSoundCrop_HIGH.vp9.webm/b28da6f430e9ee15b3e73454379aaf1c.webm",
+    "jmcs://jd-contents/OneKiss/OneKiss_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_MapPreviewNoSoundCrop_LOW.vp8.webm/a9c9504c87a76e77f0b24bbaacf96d1e.webm",
+    "jmcs://jd-contents/OneKiss/OneKiss_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_MapPreviewNoSoundCrop_LOW.vp9.webm/397b7ffaffe03ddf5d5a3111cc4427f1.webm",
+    "jmcs://jd-contents/OneKiss/OneKiss_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_MapPreviewNoSoundCrop_MID.vp8.webm/7587bab6032aa5158d0c5d320dfc11ad.webm",
+    "jmcs://jd-contents/OneKiss/OneKiss_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_MapPreviewNoSoundCrop_MID.vp9.webm/f5fb1e154ca78a9915c093be0211011e.webm",
+    "jmcs://jd-contents/OneKiss/OneKiss_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ab98e11d6ceb893780cc2e6f00921c36.webm",
+    "jmcs://jd-contents/OneKiss/OneKiss_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/OneKiss/OneKiss_MapPreviewNoSoundCrop_ULTRA.vp9.webm/984f43dbea70238793cb0e62a208d977.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "ac558538499cc050b9ea3a744fb5ac0c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/OneKiss/ps4/OneKiss_MAIN_SCENE_ORBIS.zip/ac558538499cc050b9ea3a744fb5ac0c.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "fa837e091748000d949c0f05c5efa52b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/OneKiss/nx/OneKiss_MAIN_SCENE_NX.zip/fa837e091748000d949c0f05c5efa52b.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "71740b34aeb255e3b322b4f15cf0c0db",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/onekiss_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

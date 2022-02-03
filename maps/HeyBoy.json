@@ -1,0 +1,97 @@
+{
+  "artist": "The Chemical Brothers",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_map_bkg.png"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/textures/HeyBoy_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0, 23232, 46464, 69744, 92976, 116208, 139488, 162720, 185952, 209232, 232464, 255696, 278976, 301632, 324336, 346992, 369648, 392352, 415008, 437712, 460464, 483072, 505728, 528432, 551376, 576096, 596448, 619152, 641808, 664512, 687168, 709872, 732576, 755232, 777888, 800592, 823392, 846096, 869328, 891312, 914304, 936672, 959328, 982032, 1005168, 1027392, 1050048, 1074480, 1095696, 1118352, 1140768, 1163472, 1186560, 1208832, 1231824, 1254192, 1277424, 1299744, 1322208, 1345872, 1367616, 1390416, 1413168, 1435632, 1458288, 1480992, 1503648],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":394,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":66,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/HeyBoy/HeyBoy_AudioPreview.ogg\"}\"",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0083FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 100,
+  "mapName": "HeyBoy",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648516\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"589-1079\">\r\n\t\t\t\t\t<Initialization range=\"0-589\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493390\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1075\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2981978\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1075\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5946162\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1082\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "HeyBoy_mapContent"
+  },
+  "parentMapName": "HeyBoy",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "5c0c4fff",
+    "songColor_1B": "340534ff",
+    "songColor_2A": "290656ff",
+    "songColor_2B": "3b40aaff"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main"
+  ],
+  "title": "Hey Boy Hey Girl",
+  "urls": {
+    "jmcs://jd-contents/HeyBoy/HeyBoy_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/HeyBoy_AudioPreview.ogg",
+    "jmcs://jd-contents/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/nx/HeyBoy_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/nx/HeyBoy_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/nx/HeyBoy_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/nx/HeyBoy_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/nx/HeyBoy_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/nx/HeyBoy_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/nx/HeyBoy_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/nx/HeyBoy_VideoPreview.vp8.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "09440f19b29c8516c2a5a702f58b318b",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/pc/09440f19b29c8516c2a5a702f58b318b.zip",
+      "version": 4
+    },
+    "nx": {
+      "md5": "b27eb393b288abfdc732cefbf88e7647",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/nx/b27eb393b288abfdc732cefbf88e7647.zip",
+      "version": 1
+    },
+    "orbis": {
+      "md5": "fdcb19ab5dfc729b26a582f828d23154",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/HeyBoy/nx/fdcb19ab5dfc729b26a582f828d23154.zip",
+      "version": 1
+    }
+  },
+  "mapType": "custom"
+}

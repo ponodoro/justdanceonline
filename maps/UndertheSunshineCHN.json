@@ -1,0 +1,103 @@
+{
+  "artist": "Qu Wan Ting (Wanting Qu)",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Cover_Generic.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Cover_Generic.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Cover_Generic.png",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_map_bkg.png",
+      "coach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Coach_2.png",
+      "phoneCoach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Coach_2.png",
+      "coach3ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Coach_3.png",
+      "phoneCoach3ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Coach_3.png",
+      "coach4ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Coach_4.png",
+      "phoneCoach4ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Coach_4.png"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Cover_Generic.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Cover_Generic.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Cover_Generic.png",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_map_bkg.png",
+      "coach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Coach_2.png",
+      "phoneCoach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Coach_2.png",
+      "coach3ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Coach_3.png",
+      "phoneCoach3ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Coach_3.png",
+      "coach4ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Coach_4.png",
+      "phoneCoach4ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/textures/UndertheSunshineCHN_Coach_4.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23232,46464,69696,92880,116112,139344,162576,185808,209040,232272,255504,278688,301920,325152,348384,371616,394848,418080,441312,464496,487728,510960,534192,557424,580656,603888,627120,650304,673536,696768,720000,743232,766464,789696,812880,836112,859344,882576,905808,929040,952272,975504,998688,1021920,1045152,1068384,1091616,1114848,1138080,1161312,1184496,1207728,1230960,1254192,1277424,1300656,1323888,1347120,1370304],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":\"440\",\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/UndertheSunshineCHN/UndertheSunshineCHN_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "DA1D42FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 440,
+  "mapName": "UndertheSunshineCHN",
+  "mapType": "custom",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497536\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UndertheSunshineCHN/UndertheSunshineCHN_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1486093\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UndertheSunshineCHN/UndertheSunshineCHN_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2964966\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UndertheSunshineCHN/UndertheSunshineCHN_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5891936\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UndertheSunshineCHN/UndertheSunshineCHN_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4514,
+  "packages": {
+    "mapContent": "UndertheSunshineCHN_mapContent"
+  },
+  "parentMapName": "UndertheSunshineCHN",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "3077A9FF",
+    "songColor_1B": "0E314AFF",
+    "songColor_2A": "7A7B24FF",
+    "songColor_2B": "45531DFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main"
+  ],
+  "title": "Yang Guang Xia De Wo Men (Us Under The Sunshine)",
+  "urls": {
+    "jmcs://jd-contents/UndertheSunshineCHN/UndertheSunshineCHN_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/UndertheSunshineCHN_AudioPreview.ogg",
+    "jmcs://jd-contents/UndertheSunshineCHN/UndertheSunshineCHN_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/UndertheSunshineCHN_VideoPreview.webm",
+    "jmcs://jd-contents/UndertheSunshineCHN/UndertheSunshineCHN_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/UndertheSunshineCHN_VideoPreview.webm",
+    "jmcs://jd-contents/UndertheSunshineCHN/UndertheSunshineCHN_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/UndertheSunshineCHN_VideoPreview.webm",
+    "jmcs://jd-contents/UndertheSunshineCHN/UndertheSunshineCHN_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/UndertheSunshineCHN_VideoPreview.webm",
+    "jmcs://jd-contents/UndertheSunshineCHN/UndertheSunshineCHN_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/UndertheSunshineCHN_VideoPreview.webm",
+    "jmcs://jd-contents/UndertheSunshineCHN/UndertheSunshineCHN_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/UndertheSunshineCHN_VideoPreview.webm",
+    "jmcs://jd-contents/UndertheSunshineCHN/UndertheSunshineCHN_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/UndertheSunshineCHN_VideoPreview.webm",
+    "jmcs://jd-contents/UndertheSunshineCHN/UndertheSunshineCHN_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/UndertheSunshineCHN_VideoPreview.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "nx": {
+      "md5": "ada86ab565601fdc57ebd285afbc5190",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/nx/nx_ada86ab565601fdc57ebd285afbc5190.zip",
+      "version": 1
+    },
+    "ps4": {
+      "md5": "1c9cc16b890bb1c6756547e4211cdc9c",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/ps4/orbis_1c9cc16b890bb1c6756547e4211cdc9c.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "61b55e29a5317bb5021fd7d5af993757",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/UndertheSunshineCHN/pc/pc_61b55e29a5317bb5021fd7d5af993757.zip",
+      "version": 1
+    }
+  }
+}

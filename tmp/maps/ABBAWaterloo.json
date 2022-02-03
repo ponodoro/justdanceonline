@@ -1,0 +1,134 @@
+{
+  "artist": "ABBA",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ggp/ABBAWaterloo_banner_bkg.tga.ckd/39f1ae1e27b54b5b04f190a28d672c31.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ggp/ABBAWaterloo_Coach_1.tga.ckd/ff10c0548f38004ed8661fa25ecedaa7.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ggp/ABBAWaterloo_Coach_2.tga.ckd/c8b87093057e18063d449934d4f05a08.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ggp/ABBAWaterloo_Coach_3.tga.ckd/c74a43ca62fd4cca36f6d0e9f014e80f.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ggp/ABBAWaterloo_Coach_4.tga.ckd/cb7d4571e94a0ff3ca2121eef57683f5.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ggp/ABBAWaterloo_Cover_Generic.tga.ckd/8830882c9c1d9f742e3da3eb75173d8e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Cover_1024.png/0809b84c64c5bf34bd3772c95f8a36a4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ggp/ABBAWaterloo_Cover_Online.tga.ckd/8830882c9c1d9f742e3da3eb75173d8e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ggp/ABBAWaterloo_Cover_AlbumBkg.tga.ckd/5d695399b5406c1af0016f2a214c9ad5.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ggp/ABBAWaterloo_Cover_AlbumCoach.tga.ckd/6cb25fde596e303d162437120ab20a7a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Coach_1_Phone.png/b41fe2b352b5a47ecdc17a8ea1b00c49.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Coach_2_Phone.png/57d2c42457d342859fed0e4218f47e38.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Coach_3_Phone.png/c02fa5973db12e00d7028fb01daa1f83.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Coach_4_Phone.png/cbc50fd0f6c742b7639d2b044e99e890.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Cover_Phone.jpg/e48ea41db089e4a8dab9939ecf41053f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_VideoPreview.webm/62bf814215b6c30b57fd5f5a7ec7bd32.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ggp/ABBAWaterloo_map_bkg.tga.ckd/cdb1f205d2485f3fefeb5c10c349aceb.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/nx/ABBAWaterloo_banner_bkg.tga.ckd/f72414919b3cb275894e51c072b63c06.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/nx/ABBAWaterloo_Coach_1.tga.ckd/6d78d2b3a911e6b4b5e773cca089eff6.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/nx/ABBAWaterloo_Coach_2.tga.ckd/eb02a07132ae895496bdffb5e7757785.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/nx/ABBAWaterloo_Coach_3.tga.ckd/694877f10f2a837ee570fd60bcac1ed0.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/nx/ABBAWaterloo_Coach_4.tga.ckd/bb8c428acaf44d0b4fcc97a556ca25ab.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/nx/ABBAWaterloo_Cover_Generic.tga.ckd/21dcf829734a96e7e898235f6ab6f8b6.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Cover_1024.png/0809b84c64c5bf34bd3772c95f8a36a4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/nx/ABBAWaterloo_Cover_Online.tga.ckd/21dcf829734a96e7e898235f6ab6f8b6.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/nx/ABBAWaterloo_Cover_AlbumBkg.tga.ckd/227215951d5a91e7a30f52ed825ec795.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/nx/ABBAWaterloo_Cover_AlbumCoach.tga.ckd/c49c6e6e260791ecd377a0dc73fe37d2.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/nx/ABBAWaterloo_map_bkg.tga.ckd/5aad30feec2fd45f825b18be378b20a6.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Coach_1_Phone.png/b41fe2b352b5a47ecdc17a8ea1b00c49.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Coach_2_Phone.png/57d2c42457d342859fed0e4218f47e38.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Coach_3_Phone.png/c02fa5973db12e00d7028fb01daa1f83.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Coach_4_Phone.png/cbc50fd0f6c742b7639d2b044e99e890.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Cover_Phone.jpg/e48ea41db089e4a8dab9939ecf41053f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_VideoPreview.webm/62bf814215b6c30b57fd5f5a7ec7bd32.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/wiiu/ABBAWaterloo_banner_bkg.tga.ckd/6311d3aff2ea103ea180b09bc2a0d159.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/wiiu/ABBAWaterloo_Coach_1.tga.ckd/ef68accac3da5af2213cd87e42d7ecaf.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/wiiu/ABBAWaterloo_Coach_2.tga.ckd/08318d4aace71c69438512ed084f926f.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/wiiu/ABBAWaterloo_Coach_3.tga.ckd/def60b58d85b1c7eb55c43a1af1b1c3e.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/wiiu/ABBAWaterloo_Coach_4.tga.ckd/d9dc46aeb8fcc8bc2befc3ed9852ff05.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/wiiu/ABBAWaterloo_Cover_Generic.tga.ckd/7b63545047573800438243ca79d42417.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Cover_1024.png/0809b84c64c5bf34bd3772c95f8a36a4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/wiiu/ABBAWaterloo_Cover_Online.tga.ckd/7b63545047573800438243ca79d42417.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/wiiu/ABBAWaterloo_Cover_AlbumBkg.tga.ckd/21e61fb9643711d7e2540d2e1d5575de.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/wiiu/ABBAWaterloo_Cover_AlbumCoach.tga.ckd/ee3777fb1fe26e50603c1dbe5db728a0.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Coach_1_Phone.png/b41fe2b352b5a47ecdc17a8ea1b00c49.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Coach_2_Phone.png/57d2c42457d342859fed0e4218f47e38.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Coach_3_Phone.png/c02fa5973db12e00d7028fb01daa1f83.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Coach_4_Phone.png/cbc50fd0f6c742b7639d2b044e99e890.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_Cover_Phone.jpg/e48ea41db089e4a8dab9939ecf41053f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_VideoPreview.webm/62bf814215b6c30b57fd5f5a7ec7bd32.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,19871,39696,59568,79439,99167,118896,138624,158352,177696,196992,216336,235680,254976,274319,293615,312960,332303,351599,370943,390240,409583,428928,448223,467568,486864,506208,525552,544848,564192,583488,602831,622176,641856,661536,681264,700943,720672,740352,759600,778800,798048,817248,836543,855888,875232,894527,913871,933168,952511,971855,991152,1010495,1029792,1049136,1068480,1087776,1107119,1126416,1145760,1165007,1184256,1203504,1222752,1241999,1261248,1280496,1299744,1318991,1338239,1357488,1376736,1395984,1415231,1434480],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":411,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":74,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/abbawaterloo/abbawaterloo_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F55A3FFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 167.048,
+  "mapName": "ABBAWaterloo",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496202\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1475959\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2605372\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2604748\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4884,
+  "packages": {
+    "mapContent": "ABBAWaterloo_mapContent"
+  },
+  "parentMapName": "ABBAWaterloo",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FEB500FF",
+    "songColor_1B": "333333FF",
+    "songColor_2A": "FEC800FF",
+    "songColor_2B": "CD4F00FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Waterloo",
+  "urls": {
+    "jmcs://jd-contents/ABBAWaterloo/ABBAWaterloo_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_AudioPreview.ogg/fd84bb4dab1f61e226484e14760e786a.ogg",
+    "jmcs://jd-contents/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_HIGH.vp8.webm/0f5825fca4aa925c1fc3376891d946ae.webm",
+    "jmcs://jd-contents/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_HIGH.vp9.webm/15283a3c08b681db4b4251da454368c2.webm",
+    "jmcs://jd-contents/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_LOW.vp8.webm/4ac0a01e781b67be2b62b51461bb1726.webm",
+    "jmcs://jd-contents/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_LOW.vp9.webm/082105b482220a1ba181b8afb7fc11ed.webm",
+    "jmcs://jd-contents/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_MID.vp8.webm/79841882e553a1f89325a5591f536b50.webm",
+    "jmcs://jd-contents/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_MID.vp9.webm/46f7c772c7629c15b762849a5c76330c.webm",
+    "jmcs://jd-contents/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_ULTRA.vp8.webm/abbb3bc29ceea042817fe2dc677f73fe.webm",
+    "jmcs://jd-contents/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ABBAWaterloo_MapPreviewNoSoundCrop_ULTRA.vp9.webm/fc51cfee259da06350e4ecac3c7de3f0.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "7ebdd78739396421b5b3d8369abb6ec1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/ps4/ABBAWaterloo_MAIN_SCENE_ORBIS.zip/7ebdd78739396421b5b3d8369abb6ec1.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "9c3167e06db77240a5aa4608d477f5b5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/pc/ABBAWaterloo_MAIN_SCENE_PC.zip/9c3167e06db77240a5aa4608d477f5b5.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "fdad7e852f7631ed1a8b855b902c0017",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/wiiu/ABBAWaterloo_MAIN_SCENE_WIIU.zip/fdad7e852f7631ed1a8b855b902c0017.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "df6151d22919f34a435be03a00e6d409",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ABBAWaterloo/nx/ABBAWaterloo_MAIN_SCENE_NX.zip/df6151d22919f34a435be03a00e6d409.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu"
+}

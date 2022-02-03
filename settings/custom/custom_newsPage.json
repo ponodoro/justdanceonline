@@ -1,0 +1,60 @@
+{
+    "mapName": "_news_content",
+    "actionType": "newsPage",
+    "title": "HOME",
+    "title_translation": {
+        "tr": "ANA SAYFA",
+        "zh": "主页",
+        "ru": "ГЛАВНАЯ",
+        "es": "INICIO",
+        "pt": "INICIAL",
+        "fr": "ACCUEIL"
+    },
+    "artist": "",
+    "artist_translation": {
+        "tr": "",
+        "zh": "",
+        "ru": "",
+        "es": "",
+        "pt": "",
+        "fr": ""
+    },
+    "credits": "Welcome to Just Dance Best! Enjoy over 700 songs all for free.",
+    "credits_translation": {
+        "tr": "Just Dance Best'e hoş geldiniz! Artık 700'den fazla şarkının keyfini ücretsiz olarak çıkarabilirsiniz.",
+        "zh": "欢迎来到Just Dance Best！ 欣赏700多首歌曲。",
+        "ru": "Добро пожаловать в Just Dance Best! Наслаждайтесь более чем 700 песнями.",
+        "es": "¡Bienvenido a Just Dance Best! Disfruta de más de 700 canciones.",
+        "pt": "Bem-vindo ao Just Dance Best! Desfrute de mais de 700 músicas.",
+        "fr": "Bienvenue dans Just Dance Best! Écoutez plus de 700 chansons."
+    },
+    "newsColors": {
+        "songColor_1A": "5F24C4FF",
+        "songColor_1B": "4A7AE0FF",
+        "songColor_2A": "5252D0FF",
+        "songColor_2B": "4D60DCFF"
+    },
+    "newsAssets": {
+        "banner_bkgImageUrl": "",
+        "coach1ImageUrl": "",
+        "coverImageUrl": "https://public-cdn.justdancebest.tk/public/home/_news_content/textures/_news_content_Cover_Generic_JDB.png",
+        "cover_1024ImageUrl": "",
+        "cover_smallImageUrl": "https://public-cdn.justdancebest.tk/public/home/_news_content/textures/_news_content_Cover_Generic_JDB.png",
+        "expandBkgImageUrl": "",
+        "expandCoachImageUrl": "",
+        "phoneCoach1ImageUrl": "",
+        "phoneCoverImageUrl": "https://public-cdn.justdancebest.tk/public/home/_news_content/textures/_news_content_Cover_Generic_JDB.png",
+        "map_bkgImageUrl": ""
+    },
+    "skupackages": {
+        "pc": {
+            "url": ""
+        },
+        "nx": {
+            "url": ""
+        },
+        "orbis": {
+            "url": ""
+        }
+    }
+}

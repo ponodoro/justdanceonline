@@ -1,0 +1,105 @@
+{
+  "artist": "Lexa ",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/ps4/DoCarnaval_banner_bkg.tga.ckd/87e2f075d7b3d197e2be70427d208478.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/ps4/DoCarnaval_Coach_1.tga.ckd/da2c677ba6b3a29fb42f3f04b8908245.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/ps4/DoCarnaval_Cover_Generic.tga.ckd/377904657aa1ba2809da2cd954edf7fc.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/DoCarnaval_Cover_1024.png/16b635edcd41c92044f505227419c02a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/ps4/DoCarnaval_Cover_Online.tga.ckd/a10996c26ecdad2c77920c0ac3cdf3ba.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/ps4/DoCarnaval_Cover_AlbumBkg.tga.ckd/655a2faa12c00e3974c2d5ee0a57dda9.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/ps4/DoCarnaval_Cover_AlbumCoach.tga.ckd/9a08755cccd0531e8c7b6d5463b5f614.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/DoCarnaval_Coach_1_Phone.png/5f72e6acfca7d64be9f984b388f1c4aa.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/DoCarnaval_Cover_Phone.jpg/f653cfcaf03e3a1127386eeb0e69998f.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/ps4/DoCarnaval_map_bkg.tga.ckd/a16c9955eeb0872a1bcbadc7bd970930.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/nx/DoCarnaval_banner_bkg.tga.ckd/a605e73117c1f7db6c7c2cb9785cc5ae.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/nx/DoCarnaval_Coach_1.tga.ckd/4d616288c6549f0cbb332338a0709ac6.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/nx/DoCarnaval_Cover_Generic.tga.ckd/f92e58fb068d1273b771311930f55e1a.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/DoCarnaval_Cover_1024.png/16b635edcd41c92044f505227419c02a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/nx/DoCarnaval_Cover_Online.tga.ckd/f41a214c4ac7136775aef2f2dd22aec7.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/nx/DoCarnaval_Cover_AlbumBkg.tga.ckd/87c5723102272920987e986cd15d88b2.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/nx/DoCarnaval_Cover_AlbumCoach.tga.ckd/b4406a78027f55c215a02722886bfd65.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/DoCarnaval_Coach_1_Phone.png/5f72e6acfca7d64be9f984b388f1c4aa.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/DoCarnaval_Cover_Phone.jpg/f653cfcaf03e3a1127386eeb0e69998f.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DoCarnaval/nx/DoCarnaval_map_bkg.tga.ckd/e2927f4c375d9732f2e0f351d5a8f3d2.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20000,40000,60000,80000,100000,120000,140000,160000,180000,200000,220000,240000,260000,280000,300000,320000,340000,360000,380000,400000,420000,440000,460000,480000,500000,520000,540000,560000,580000,600000,620000,640000,660000,680000,700000,720000,740000,760000,780000,800000,820000,840000,860000,880000,900000,920000,940000,960000,980000,1000000,1020000,1040000,1060000,1080000,1100000,1120000,1140000,1160000,1180000,1200000,1220000,1240000,1260000,1280000,1300000,1320000,1340000,1360000,1380000,1400000,1420000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":398,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":71,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/docarnaval/docarnaval_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Wallace Alexandre Dos Santos Cruz, Pedro Henrique Breder Rodrigues, Anderson Brito Teixeira and Andre Luiz de Souza Vieira. Published by Universal Music Publishing Canada on behalf of Universal Mus. Publishing MGB Brasil Ltd. Courtesy of Som Livre.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0DE1F7FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 167.084,
+  "mapName": "DoCarnaval",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496437\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1462089\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2452012\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2451990\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "DoCarnaval_mapContent"
+  },
+  "parentMapName": "DoCarnaval",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "E6853AFF",
+    "songColor_1B": "FFDD6EFF",
+    "songColor_2A": "6EFFAAFF",
+    "songColor_2B": "3AE691FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "ExcludedFromWDF"
+  ],
+  "title": "Só Depois Do Carnaval",
+  "urls": {
+    "jmcs://jd-contents/DoCarnaval/DoCarnaval_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/DoCarnaval/DoCarnaval_AudioPreview.ogg/e0344e09442f9f2a2979cb6365e492b5.ogg",
+    "jmcs://jd-contents/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_HIGH.vp8.webm/91abf06074974aa07e4888e2c30dd922.webm",
+    "jmcs://jd-contents/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_HIGH.vp9.webm/1abbea20a7e1a25d844a0dea0c8cada6.webm",
+    "jmcs://jd-contents/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_LOW.vp8.webm/7857c82bfae54ca12f25bc38e1883344.webm",
+    "jmcs://jd-contents/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_LOW.vp9.webm/34900ff34f1234bf4de1fde8d8280af8.webm",
+    "jmcs://jd-contents/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_MID.vp8.webm/897ceda537ae6a7d7f2e742005a4cb43.webm",
+    "jmcs://jd-contents/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_MID.vp9.webm/dfcb54d1eddeb10b69033750ef3fe0de.webm",
+    "jmcs://jd-contents/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_ULTRA.vp8.webm/4340b69c6235a922c89db84c89b6f06b.webm",
+    "jmcs://jd-contents/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/DoCarnaval/DoCarnaval_MapPreviewNoSoundCrop_ULTRA.vp9.webm/96a05b40ff4859f4dd94400a9bcbcfe0.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "91f9466d04f4aae012767e8c68533c39",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DoCarnaval/ps4/DoCarnaval_MAIN_SCENE_ORBIS.zip/91f9466d04f4aae012767e8c68533c39.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "f32de8891484eac127a0bcf2347bf432",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DoCarnaval/nx/DoCarnaval_MAIN_SCENE_NX.zip/f32de8891484eac127a0bcf2347bf432.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "995c7fb0c5ccab739d9d712a610bb1cc",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/DoCarnaval/pc/995c7fb0c5ccab739d9d712a610bb1cc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

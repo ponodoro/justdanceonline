@@ -1,0 +1,91 @@
+{
+  "artist": "TWICE",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecialALT/FeelSpecialALT_banner_bkg.jpg/24566d522174f2c4db07e83b035f5f02.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecialALT/FeelSpecialALT_Coach_1.png/de0f47138340d0c7a6a582d924dfc5bd.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecialALT/FeelSpecialALT_Cover_Generic.jpg/2e98b1979a00c237791e192f45e27b98.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecialALT/FeelSpecialALT_Cover_Online.jpg/0561cdc38b42603c84d13af9a629c624.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecialALT/FeelSpecialALT_Cover_AlbumBkg.jpg/cfa5ded3a03c4d9025592a9bc6a9f3c5.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecialALT/FeelSpecialALT_Cover_AlbumCoach.png/8d291ac9873064fd6b2c381e01aed772.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecialALT/FeelSpecialALT_Coach_1_Phone.png/14e91ed8543c30edf3fbfdd4d7642ba0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecialALT/FeelSpecialALT_Cover_Phone.jpg/0561cdc38b42603c84d13af9a629c624.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecialALT/FeelSpecialALT_banner_bkg.jpg/24566d522174f2c4db07e83b035f5f02.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecialALT/FeelSpecialALT_Coach_1.png/de0f47138340d0c7a6a582d924dfc5bd.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecialALT/FeelSpecialALT_Cover_Generic.jpg/2e98b1979a00c237791e192f45e27b98.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecialALT/FeelSpecialALT_Cover_Online.jpg/0561cdc38b42603c84d13af9a629c624.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecialALT/FeelSpecialALT_Cover_AlbumBkg.jpg/cfa5ded3a03c4d9025592a9bc6a9f3c5.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecialALT/FeelSpecialALT_Cover_AlbumCoach.png/8d291ac9873064fd6b2c381e01aed772.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecialALT/FeelSpecialALT_Coach_1_Phone.png/14e91ed8543c30edf3fbfdd4d7642ba0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FeelSpecialALT/FeelSpecialALT_Cover_Phone.jpg/0561cdc38b42603c84d13af9a629c624.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22326,44652,66977,89303,111628,133954,156279,178605,200931,223256,245582,267907,290233,312559,334884,357210,379535,401861,424186,446512,468838,491163,513489,535814,558140,580466,602791,625117,647442,669768,692093,714419,736745,759070,781396,803721,826047,848372,870698,893024,915349,937675,960000,982326,1004652,1026977,1049303,1071628,1093954,1116279,1138605,1160931,1183256,1205582,1227907,1250233,1272559,1294884,1317210,1339535,1361861,1384186,1406512,1428838],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":440,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/feelspecialalt/feelspecialalt_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by J.Y. Park “The Asian Soul”, Woo Min Lee “collapsedone”, Ollipop and Hayley Michelle Aitken. Published by Universal Music Publishing Canada on behalf of Kennel AB, The and Universal Music Publishing AB / JYP Publishing (KOMCA), The Kennel AB. / JYP Publishing (KOMCA). All rights reserved. Used with permission. Courtesy of JYP Entertainment.",
+  "difficulty": 4,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F41978FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 206.511,
+  "mapName": "FeelSpecialALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496927\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"654-1143\">\r\n\t\t\t\t\t<Initialization range=\"0-654\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1479754\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2935345\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5396645\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1151\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "FeelSpecialALT_mapContent"
+  },
+  "parentMapName": "FeelSpecial",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "242E33FF",
+    "songColor_1B": "D6BF82FF",
+    "songColor_2A": "CB2375FF",
+    "songColor_2B": "EEE3EDFF"
+  },
+  "status": 12,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Alternate",
+    "subscribedSong"
+  ],
+  "title": "Feel Special",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "e2f13825d55771eb442e6424c8675dcf",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/ps4/FeelSpecialALT_MAIN_SCENE_ORBIS.zip/e2f13825d55771eb442e6424c8675dcf.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "001b1a4993f4a59d2ae7cc62d859c635",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/nx/FeelSpecialALT_MAIN_SCENE_NX.zip/001b1a4993f4a59d2ae7cc62d859c635.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "8b425de6416c75ece92c84d6a8908428",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/FeelSpecialALT/pc/8b425de6416c75ece92c84d6a8908428.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12624,
+  "urls": {
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_AudioPreview.ogg/f335fbac0d5aea2375e3cfd569c2b4be.ogg",
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/9cfd05e6c42cd3c71d996efbf43b55d5.webm",
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/0c75ab0fbdc5a276a1d2d0642a04220f.webm",
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_LOW.vp8.webm/180e63e7393555f885914dce0e3353cd.webm",
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_LOW.vp9.webm/296e13e278ac4f94061e9df31bfef65d.webm",
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_MID.vp8.webm/24618661f2232996c07c552beb20ad97.webm",
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_MID.vp9.webm/9bdae0b5e0325af29277078b15a7a89d.webm",
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d47d534f7c92ce470cf75f6a9ac86681.webm",
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/f45e32edfbebd139ae7f7dcf8cd080ff.webm"
+  }
+}

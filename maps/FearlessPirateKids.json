@@ -1,0 +1,117 @@
+{
+  "artist": "Marine Band",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/ggp/FearlessPirateKids_banner_bkg.tga.ckd/750e230136f6b3f9463fed64c1b73fca.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/ggp/FearlessPirateKids_Coach_1.tga.ckd/a2cc8f8ff93e802d0a7c6fc76498798d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/ggp/FearlessPirateKids_Cover_Generic.tga.ckd/93cae6cdfe2a93093929fe532fa71b26.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_Cover_1024.png/4b7a27275e0a689ab66df2a45c610343.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/ggp/FearlessPirateKids_Cover_Online.tga.ckd/93cae6cdfe2a93093929fe532fa71b26.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/ggp/FearlessPirateKids_Cover_AlbumBkg.tga.ckd/90ce7f0135548025609ef7e916b80f04.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/ggp/FearlessPirateKids_Cover_AlbumCoach.tga.ckd/29fd401383467222163151dc2ebcbe1d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_Coach_1_Phone.png/e89b03dfa70680120338774c483255b7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_Cover_Phone.jpg/81d2194aba62317300d0e73637af75cf.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_VideoPreview.webm/fa58e1a7597e423cddd3b6ab017f1728.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/ggp/FearlessPirateKids_map_bkg.tga.ckd/ed2d9d971ec321d3e74cc9394b38d63e.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/nx/FearlessPirateKids_banner_bkg.tga.ckd/97827bd508929de00be37d66e303d51d.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/nx/FearlessPirateKids_Coach_1.tga.ckd/b43c9ec230b1046165471a63238ea7b2.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/nx/FearlessPirateKids_Cover_Generic.tga.ckd/22962e2b08aca82991888ff85bffe93d.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_Cover_1024.png/4b7a27275e0a689ab66df2a45c610343.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/nx/FearlessPirateKids_Cover_Online.tga.ckd/11fe3ef02fd09198a48843f67dba36e4.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/nx/FearlessPirateKids_Cover_AlbumBkg.tga.ckd/e694432ef501b63193b42bc0e150bb77.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/nx/FearlessPirateKids_Cover_AlbumCoach.tga.ckd/66d26bab0d0da49a75cc7bbcab502632.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/nx/FearlessPirateKids_map_bkg.tga.ckd/9c8ccdb4e00ba2e6c9707738cfab8fde.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_Coach_1_Phone.png/e89b03dfa70680120338774c483255b7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_Cover_Phone.jpg/81d2194aba62317300d0e73637af75cf.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_VideoPreview.webm/fa58e1a7597e423cddd3b6ab017f1728.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/wiiu/FearlessPirateKids_banner_bkg.tga.ckd/9ba80e117df2fc45bdc274fcf8826a1a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/wiiu/FearlessPirateKids_Coach_1.tga.ckd/acdf78eb00a1b2f1acf45d61d3af6eb4.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/wiiu/FearlessPirateKids_Cover_Generic.tga.ckd/b562a0113323da4a4d7decc8a5297352.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_Cover_1024.png/4b7a27275e0a689ab66df2a45c610343.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/wiiu/FearlessPirateKids_Cover_Online.tga.ckd/7a298b994c830d7a1188f1969e5ed908.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/wiiu/FearlessPirateKids_Cover_AlbumBkg.tga.ckd/b7b72dfb1afdf67bfafba685367c4641.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/wiiu/FearlessPirateKids_Cover_AlbumCoach.tga.ckd/9c5601a668557764808c3e2f1d458c2b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_Coach_1_Phone.png/e89b03dfa70680120338774c483255b7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_Cover_Phone.jpg/81d2194aba62317300d0e73637af75cf.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_VideoPreview.webm/fa58e1a7597e423cddd3b6ab017f1728.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23424,46848,71328,95808,120288,143472,166608,189792,212976,236640,260304,283967,307631,331295,354959,378623,401903,425231,448511,471791,495071,518399,541679,564958,588238,611566,634846,658126,681406,705406,729358,753310,777310,801262,825214,849213,873165,897117,921117,945069,969069,991869,1014717,1037565,1060365,1083741,1107165,1130540,1153916,1177292,1200668,1224044,1247420,1270796,1294172,1317548,1340924,1363916,1386860,1409852,1432795],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-18,\"endBeat\":249,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/fearlesspiratekids/fearlesspiratekids_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "19FBEEFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 129.575,
+  "mapName": "FearlessPirateKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496823\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"642-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-642\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1485336\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2941283\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4617524\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1134\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "FearlessPirateKids_mapContent"
+  },
+  "parentMapName": "FearlessPirateKids",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FF9D00FF",
+    "songColor_1B": "6C1300FF",
+    "songColor_2A": "00E0FFFF",
+    "songColor_2B": "004B84FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Fearless Pirate",
+  "urls": {
+    "jmcs://jd-contents/FearlessPirateKids/FearlessPirateKids_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_AudioPreview.ogg/3dbbff45833ecf20e1ec185f3b66ad9f.ogg",
+    "jmcs://jd-contents/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/40843fc8d9ac97d3d3879ec1e2c97c7b.webm",
+    "jmcs://jd-contents/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/708a6452a8cfd9f76284799a33ebe1e1.webm",
+    "jmcs://jd-contents/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_LOW.vp8.webm/6031b9f3fe47d3638865fdc484866675.webm",
+    "jmcs://jd-contents/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_LOW.vp9.webm/1728148afe2578ccebf6d2f819c6507d.webm",
+    "jmcs://jd-contents/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_MID.vp8.webm/6231ccc350bd36d553cc7ced93271f97.webm",
+    "jmcs://jd-contents/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_MID.vp9.webm/c50f2d861f8927fe33863bd5b53be8ea.webm",
+    "jmcs://jd-contents/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/e4f2457380d154d2d766f40a8a7f9153.webm",
+    "jmcs://jd-contents/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/FearlessPirateKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/17482a612ef5671a7b80fd8da2a95659.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "76e1e79cdf0b7faed1ee6eb8901550cf",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/ps4/FearlessPirateKids_MAIN_SCENE_ORBIS.zip/76e1e79cdf0b7faed1ee6eb8901550cf.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "5768eebe9c7992b8e8161eaa3b63741a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/wiiu/FearlessPirateKids_MAIN_SCENE_WIIU.zip/5768eebe9c7992b8e8161eaa3b63741a.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "25902238c760977e62f269f55e4f9719",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FearlessPirateKids/nx/FearlessPirateKids_MAIN_SCENE_NX.zip/25902238c760977e62f269f55e4f9719.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "8e5e9fa730e3b9e922c7b3b4b197dd25",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/FearlessPirateKids/pc/8e5e9fa730e3b9e922c7b3b4b197dd25.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939
+}

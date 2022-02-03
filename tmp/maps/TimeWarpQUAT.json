@@ -1,0 +1,132 @@
+{
+  "artist": "Halloween Thrills",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_banner_bkg.jpg/70a6112ff254ab8823548a6f1d283430.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_1.png/e40c9e035510fcff61ac664421a81063.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_2.png/06286750214f3aae7090b42a1aa993f7.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_3.png/7a4c916412075e2d1c9cdd620815a519.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_4.png/e3d4bdeec7e16a781c98352f717b962f.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Cover_Generic.jpg/1f5cc696276e2ad342156eca135c47fa.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Cover_1024.png/b744af4209aec0b68a78a5130dcf5a4f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Cover_Online.jpg/79fa0b853543be845107ed2d7a4d60c8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Cover_AlbumBkg.jpg/0de139414d9c2b54c8e7f4d32700452a.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Cover_AlbumCoach.png/36e747e72d438aaecdb8cd93f6df7032.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_1_Phone.png/f935d70ce4dd6d0d9e445050bb287a4d.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_2_Phone.png/4577ad53134d436e28af23bf0ab4e350.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_3_Phone.png/6927ab19617dc7a5c6ae443326f752ea.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_4_Phone.png/e00cebb414fcd35bca90a1b6a728c6cb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Cover_Phone.jpg/79fa0b853543be845107ed2d7a4d60c8.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_VideoPreview.webm/c61a3ba76454b55975f3127a92c21da7.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_banner_bkg.jpg/70a6112ff254ab8823548a6f1d283430.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_1.png/e40c9e035510fcff61ac664421a81063.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_2.png/06286750214f3aae7090b42a1aa993f7.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_3.png/7a4c916412075e2d1c9cdd620815a519.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_4.png/e3d4bdeec7e16a781c98352f717b962f.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Cover_Generic.jpg/1f5cc696276e2ad342156eca135c47fa.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Cover_1024.png/b744af4209aec0b68a78a5130dcf5a4f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Cover_Online.jpg/79fa0b853543be845107ed2d7a4d60c8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Cover_AlbumBkg.jpg/0de139414d9c2b54c8e7f4d32700452a.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Cover_AlbumCoach.png/36e747e72d438aaecdb8cd93f6df7032.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_1_Phone.png/f935d70ce4dd6d0d9e445050bb287a4d.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_2_Phone.png/4577ad53134d436e28af23bf0ab4e350.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_3_Phone.png/6927ab19617dc7a5c6ae443326f752ea.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_4_Phone.png/e00cebb414fcd35bca90a1b6a728c6cb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Cover_Phone.jpg/79fa0b853543be845107ed2d7a4d60c8.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_VideoPreview.webm/c61a3ba76454b55975f3127a92c21da7.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/wiiu/TimeWarpQUAT_banner_bkg.tga.ckd/e3582c33914ea6228d918c6ca55ffdff.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/wiiu/TimeWarpQUAT_Coach_1.tga.ckd/09fd50d416b26d6d6b657f9aa24a183e.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/wiiu/TimeWarpQUAT_Coach_2.tga.ckd/6176c682a3c0aafe2716592d04de40ed.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/wiiu/TimeWarpQUAT_Coach_3.tga.ckd/28ced76e5abbf3ab35308d53e9dab19d.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/wiiu/TimeWarpQUAT_Coach_4.tga.ckd/2215db53b9116c7e8367c85da1d7ed1e.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/wiiu/TimeWarpQUAT_Cover_Generic.tga.ckd/0c75b1e195830b149f5d967c6adde856.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Cover_1024.png/b744af4209aec0b68a78a5130dcf5a4f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/wiiu/TimeWarpQUAT_Cover_Online.tga.ckd/0c75b1e195830b149f5d967c6adde856.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/wiiu/TimeWarpQUAT_Cover_AlbumBkg.tga.ckd/ebb38f0aefa4c428c84b4f7d3d45fca4.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/wiiu/TimeWarpQUAT_Cover_AlbumCoach.tga.ckd/1bc7f6d5907df89587723b0ee4f3f04d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_1_Phone.png/f935d70ce4dd6d0d9e445050bb287a4d.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_2_Phone.png/4577ad53134d436e28af23bf0ab4e350.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_3_Phone.png/6927ab19617dc7a5c6ae443326f752ea.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Coach_4_Phone.png/e00cebb414fcd35bca90a1b6a728c6cb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_Cover_Phone.jpg/79fa0b853543be845107ed2d7a4d60c8.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_VideoPreview.webm/c61a3ba76454b55975f3127a92c21da7.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,16647,33294,49941,66588,83235,99882,116529,133176,149823,166470,183117,199764,216411,233058,249705,266352,282999,299646,316293,332940,349587,366234,382881,399528,416175,432822,449469,466116,482763,499410,516057,532704,549351,565998,582645,599292,615939,632586,649233,665880,682527,699174,715821,732468,749115,765762,782409,799056,815703,832350,848997,865644,882291,898938,915585,932232,948879,965526,982173,998820,1015467,1032114,1048761,1065408,1082055,1098702,1115349,1131996,1148643,1165290,1181937,1198584,1215231,1231878,1248525,1265172,1281819,1298466,1315113,1331760,1348407,1365054,1381701,1398348,1414995,1431642],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4},{\"__class\":\"MusicSignature\",\"marker\":29,\"beats\":6},{\"__class\":\"MusicSignature\",\"marker\":35,\"beats\":4}],\"startBeat\":0,\"endBeat\":600,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":86,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/timewarpquat/timewarpquat_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "5D69BBFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 208.277,
+  "mapName": "TimeWarpQUAT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496682\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481301\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2923951\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3982515\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "TimeWarpQUAT_mapContent"
+  },
+  "parentMapName": "TimeWarpQUAT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "0426A7FF",
+    "songColor_1B": "000028FF",
+    "songColor_2A": "00B0ABFF",
+    "songColor_2B": "00053AFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Time Warp",
+  "urls": {
+    "jmcs://jd-contents/TimeWarpQUAT/TimeWarpQUAT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_AudioPreview.ogg/3bbef17dabe845d83f3d614f5e5e7db0.ogg",
+    "jmcs://jd-contents/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm/16ad53641fd59b1b1ff0d4e0425cc8b3.webm",
+    "jmcs://jd-contents/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_HIGH.vp9.webm/23ab2f5e7f2d5c2fd89504a9c1e0de6c.webm",
+    "jmcs://jd-contents/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm/c40ab5f6d2b71416eabd581b3a0759b0.webm",
+    "jmcs://jd-contents/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_LOW.vp9.webm/c40cfea37fe9874fba3b4390070bf6c2.webm",
+    "jmcs://jd-contents/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_MID.vp8.webm/fb6df42665610f3555a8c07687eacebb.webm",
+    "jmcs://jd-contents/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_MID.vp9.webm/49b192d18378b4747b5d5839675e1daf.webm",
+    "jmcs://jd-contents/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/6cd5135d36c4b1c7e0306e01430b8eee.webm",
+    "jmcs://jd-contents/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/TimeWarpQUAT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/408617f3f61b96dc7d79da1b87816081.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "64ee427ffde7ad31dc3b79d2eed85f61",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/ps4/TimeWarpQUAT_MAIN_SCENE_ORBIS.zip/64ee427ffde7ad31dc3b79d2eed85f61.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "a8260b911cebcc101fd6eaa04092afc5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/pc/TimeWarpQUAT_MAIN_SCENE_PC.zip/a8260b911cebcc101fd6eaa04092afc5.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "f3dbccf7acb05f872ef14850b9144df8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/wiiu/TimeWarpQUAT_MAIN_SCENE_WIIU.zip/f3dbccf7acb05f872ef14850b9144df8.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "0b5b46d157183c7932844ee09338b47a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TimeWarpQUAT/nx/TimeWarpQUAT_MAIN_SCENE_NX.zip/0b5b46d157183c7932844ee09338b47a.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

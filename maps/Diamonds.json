@@ -1,0 +1,88 @@
+{
+  "artist": "Rihanna",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/textures/Diamonds_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/textures/Diamonds_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/textures/Diamonds_Cover_Generic.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/textures/Diamonds_Cover_Generic.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/textures/Diamonds_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/textures/Diamonds_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/textures/Diamonds_Cover_Generic.png",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/textures/Diamonds_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,31295,62591,93935,125231,156527,187823,219119,250415,281759,313055,344351,375647,406943,438239,469583,500879,532175,563471,594767,626063,657407,688703,719999,751295,782591,813935,845231,876527,907823,939119,970415,1001759,1033055,1064351,1095647,1126943,1158239,1189583,1220879,1252175,1283471,1314767,1346063],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":\"344\",\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":43,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/Diamonds/Diamonds_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "DA8634FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 344,
+  "mapName": "Diamonds",
+  "mapType": "custom",
+  "serverBoosterOnly": true,
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497536\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Diamonds/Diamonds_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1486093\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Diamonds/Diamonds_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2964966\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Diamonds/Diamonds_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5891936\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Diamonds/Diamonds_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "Diamonds_mapContent"
+  },
+  "parentMapName": "Diamonds",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "554899FF",
+    "songColor_1B": "1F0E69FF",
+    "songColor_2A": "8C72B3FF",
+    "songColor_2B": "111111FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main"
+  ],
+  "title": "Diamonds",
+  "urls": {
+    "jmcs://jd-contents/Diamonds/Diamonds_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/Diamonds_AudioPreview.ogg",
+    "jmcs://jd-contents/Diamonds/Diamonds_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/Diamonds_VideoPreview.webm",
+    "jmcs://jd-contents/Diamonds/Diamonds_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/Diamonds_VideoPreview.webm",
+    "jmcs://jd-contents/Diamonds/Diamonds_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/Diamonds_VideoPreview.webm",
+    "jmcs://jd-contents/Diamonds/Diamonds_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/Diamonds_VideoPreview.webm",
+    "jmcs://jd-contents/Diamonds/Diamonds_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/Diamonds_VideoPreview.webm",
+    "jmcs://jd-contents/Diamonds/Diamonds_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/Diamonds_VideoPreview.webm",
+    "jmcs://jd-contents/Diamonds/Diamonds_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/Diamonds_VideoPreview.webm",
+    "jmcs://jd-contents/Diamonds/Diamonds_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/Diamonds_VideoPreview.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "21c62a5d88e80d7650d9554f476374f9",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/pc/pc_21c62a5d88e80d7650d9554f476374f9.zip",
+      "version": 2
+    },
+    "ps4": {
+      "md5": "7c97b52d57a35bf682ac9bc8a548ddb3",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/ps4/orbis_7c97b52d57a35bf682ac9bc8a548ddb3.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "099fc33b94e775174a181bd159222da0",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/nx/nx_099fc33b94e775174a181bd159222da0.zip",
+      "version": 2
+    },
+    "orbis": {
+      "md5": "f474b535f6a237b482a24207f6267a04",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diamonds/orbis/orbis_f474b535f6a237b482a24207f6267a04.zip",
+      "version": 1
+    }
+  }
+}

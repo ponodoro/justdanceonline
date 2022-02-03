@@ -1,0 +1,111 @@
+{
+  "artist": "Avishay Goren and Yossi Cohen",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_banner_bkg.jpg/76da4c03f10eae5f6a22fc2073c01a1d.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Coach_1.png/60993d3116e33127a94c5ec55c6b68a8.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Cover_Generic.jpg/be847602344fd01489885ab6ae8f4500.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Cover_1024.png/24310e76fa4e2228aa005a6fcce206fe.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Cover_Online.jpg/c0812b43d0cea6f3fd822bd125339a0d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Cover_AlbumBkg.jpg/1c38276f533ab15ff0bba206d73d6342.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Cover_AlbumCoach.png/521b807ea15a256a4d919adc8d52dcf8.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Coach_1_Phone.png/c43964a6dabe7f222f02e029410df696.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Cover_Phone.jpg/c0812b43d0cea6f3fd822bd125339a0d.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_banner_bkg.jpg/76da4c03f10eae5f6a22fc2073c01a1d.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Coach_1.png/60993d3116e33127a94c5ec55c6b68a8.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Cover_Generic.jpg/be847602344fd01489885ab6ae8f4500.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Cover_1024.png/24310e76fa4e2228aa005a6fcce206fe.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Cover_Online.jpg/c0812b43d0cea6f3fd822bd125339a0d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Cover_AlbumBkg.jpg/1c38276f533ab15ff0bba206d73d6342.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Cover_AlbumCoach.png/521b807ea15a256a4d919adc8d52dcf8.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Coach_1_Phone.png/c43964a6dabe7f222f02e029410df696.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Cover_Phone.jpg/c0812b43d0cea6f3fd822bd125339a0d.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/wiiu/FindYourMove_banner_bkg.tga.ckd/a0863776a6ad852df56c02553ae2b1de.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/wiiu/FindYourMove_Coach_1.tga.ckd/64ed70cdb95fc4deeecf3f4df458b828.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/wiiu/FindYourMove_Cover_Generic.tga.ckd/4454b85dcb83b776112ded70d4353c2c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Cover_1024.png/24310e76fa4e2228aa005a6fcce206fe.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/wiiu/FindYourMove_Cover_Online.tga.ckd/6df6d8df2d553203b41ffe34f2692083.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/wiiu/FindYourMove_Cover_AlbumBkg.tga.ckd/ad78479b739ed101b9501596bda77128.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/wiiu/FindYourMove_Cover_AlbumCoach.tga.ckd/fc29cb6e9560140f652d7f54975f4bee.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Coach_1_Phone.png/c43964a6dabe7f222f02e029410df696.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_Cover_Phone.jpg/c0812b43d0cea6f3fd822bd125339a0d.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26208,52368,78528,104736,130896,157104,183264,209472,235633,261841,288001,314209,340369,366529,392737,418897,445105,471265,497473,523633,549841,576001,602209,628369,654529,680738,706898,733106,759266,785474,811634,837842,864002,890210,916370,942530,968738,994898,1021106,1047266,1073474,1099634,1125843,1152003,1178211,1204371,1230531,1256739,1282899,1309107,1335267,1361475,1387635,1413843],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":395,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":54,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/findyourmove/findyourmove_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "11FE9AFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 217.637,
+  "mapName": "FindYourMove",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496435\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1464971\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2428987\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2437721\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "FindYourMove_mapContent"
+  },
+  "parentMapName": "FindYourMove",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "F5E044FF",
+    "songColor_1B": "B64D00FF",
+    "songColor_2A": "DD4DB5FF",
+    "songColor_2B": "600069FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Movement is Happiness (Find Your Thing)",
+  "urls": {
+    "jmcs://jd-contents/FindYourMove/FindYourMove_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_AudioPreview.ogg/9372591621e0ed0f18f61630edf7f6af.ogg",
+    "jmcs://jd-contents/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_HIGH.vp8.webm/8228df0614046d6f3bf43c105ac1cccc.webm",
+    "jmcs://jd-contents/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_HIGH.vp9.webm/ad82060fc8961fb5bdfa3130591f1aa7.webm",
+    "jmcs://jd-contents/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_LOW.vp8.webm/2122e21f87a1fc5c5a5b25c079cf5733.webm",
+    "jmcs://jd-contents/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_LOW.vp9.webm/446e595255281139a2fc9ac7b67cada3.webm",
+    "jmcs://jd-contents/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_MID.vp8.webm/6f80ce2e539ec1c92e62621f1a4ba196.webm",
+    "jmcs://jd-contents/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_MID.vp9.webm/1f27390cff18d4b3e6c1f95a63665b65.webm",
+    "jmcs://jd-contents/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b715371dd6fae1339e6ee08c098bc52e.webm",
+    "jmcs://jd-contents/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_ULTRA.vp9.webm/78cbc79c80de810e77f70d82884d6c25.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "18cff0973bb15ed4a302cc7ecc3f6e45",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FindYourMove/ps4/FindYourMove_MAIN_SCENE_ORBIS.zip/18cff0973bb15ed4a302cc7ecc3f6e45.zip",
+      "version": 12
+    },
+    "pc": {
+      "md5": "214b39187ebd6c8b543f6b13dd16a988",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FindYourMove/pc/FindYourMove_MAIN_SCENE_PC.zip/214b39187ebd6c8b543f6b13dd16a988.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "fcedb10c1e56a781d821b53c8433a129",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FindYourMove/wiiu/FindYourMove_MAIN_SCENE_WIIU.zip/fcedb10c1e56a781d821b53c8433a129.zip",
+      "version": 11
+    },
+    "nx": {
+      "md5": "39a7f0c144de8ba4555f61feed684489",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FindYourMove/nx/FindYourMove_MAIN_SCENE_NX.zip/39a7f0c144de8ba4555f61feed684489.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

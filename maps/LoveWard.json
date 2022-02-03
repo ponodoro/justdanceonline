@@ -1,0 +1,136 @@
+{
+  "artist": "Hatsune Miku",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/ps4/LoveWard_banner_bkg.tga.ckd/f14dd26c29652f500fe7e6b29de197d1.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/ps4/LoveWard_Coach_1.tga.ckd/7857ca39dd41fd5ba2cb46b53dedfc96.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/ps4/LoveWard_Coach_2.tga.ckd/230eefbc419fc923c8b137944c3332f9.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/ps4/LoveWard_Coach_3.tga.ckd/7857ca39dd41fd5ba2cb46b53dedfc96.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/ps4/LoveWard_Cover_Generic.tga.ckd/f79790478a539dc3aa21c45b82f443a8.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_Cover_1024.png/fb870eebbef3e1e7eb49599a561ba1e2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/ps4/LoveWard_Cover_Online.tga.ckd/07e852967fe7063a435ee2b3f8c8dadf.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/ps4/LoveWard_Cover_AlbumBkg.tga.ckd/ee0667db5f8444003a4a744e4b5f3d0d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/ps4/LoveWard_Cover_AlbumCoach.tga.ckd/275ede64931bcae87ce416018832533a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_Coach_1_Phone.png/f2d019e43427165043ec6736ddcc04d0.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_Coach_2_Phone.png/febd20390eafd8d12ecdfb57d3beba27.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_Coach_3_Phone.png/f2d019e43427165043ec6736ddcc04d0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_Cover_Phone.jpg/404342b08b1fcaa39578ae827bbe9638.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_VideoPreview.webm/49fa6ef6e544ff11ae084cc19ae17acb.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/ps4/LoveWard_map_bkg.tga.ckd/207120cc2f5eccae59479c9c8b482890.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/nx/LoveWard_banner_bkg.tga.ckd/5675d03cb742042dcfc1aa7a0d4083f8.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/nx/LoveWard_Coach_1.tga.ckd/d3a46bff7eba8e8a133297a4c21fb9b0.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/nx/LoveWard_Coach_2.tga.ckd/8029be88c206ae4be3db2632036f24be.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/nx/LoveWard_Coach_3.tga.ckd/d3a46bff7eba8e8a133297a4c21fb9b0.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/nx/LoveWard_Cover_Generic.tga.ckd/4c4d7ed3b36feb2f3d3ec11b80bec37a.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_Cover_1024.png/fb870eebbef3e1e7eb49599a561ba1e2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/nx/LoveWard_Cover_Online.tga.ckd/eb853430fac34e36682854830db18152.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/nx/LoveWard_Cover_AlbumBkg.tga.ckd/8d0a1c9e01ea15bc0b5b3d5010d6ffbd.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/nx/LoveWard_Cover_AlbumCoach.tga.ckd/b216261a17e213cc45508d13da94f895.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_Coach_1_Phone.png/f2d019e43427165043ec6736ddcc04d0.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_Coach_2_Phone.png/febd20390eafd8d12ecdfb57d3beba27.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_Coach_3_Phone.png/f2d019e43427165043ec6736ddcc04d0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_Cover_Phone.jpg/404342b08b1fcaa39578ae827bbe9638.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_VideoPreview.webm/49fa6ef6e544ff11ae084cc19ae17acb.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/nx/LoveWard_map_bkg.tga.ckd/198404c1a7234c9e8aa9b55fc66853c3.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/wiiu/LoveWard_banner_bkg.tga.ckd/98a50c914258f88924453698b569eb0a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/wiiu/LoveWard_Coach_1.tga.ckd/7debec92cbc4b29c168cceb5822bc7a9.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/wiiu/LoveWard_Coach_2.tga.ckd/a77ac2a185ba7d1e9bba854587e257a0.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/wiiu/LoveWard_Coach_3.tga.ckd/7debec92cbc4b29c168cceb5822bc7a9.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/wiiu/LoveWard_Cover_Generic.tga.ckd/4f3eb8c76b047c3ccc98c44a0b32ca70.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_Cover_1024.png/fb870eebbef3e1e7eb49599a561ba1e2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/wiiu/LoveWard_Cover_Online.tga.ckd/30a995f2b42d4925f6f0262363cfb95b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/wiiu/LoveWard_Cover_AlbumBkg.tga.ckd/68d04750df473ff05f7f24d44f8cf1b3.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/wiiu/LoveWard_Cover_AlbumCoach.tga.ckd/d3e9b04a57a4224a265d319365f48d71.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_Coach_1_Phone.png/f2d019e43427165043ec6736ddcc04d0.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_Coach_2_Phone.png/febd20390eafd8d12ecdfb57d3beba27.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_Coach_3_Phone.png/f2d019e43427165043ec6736ddcc04d0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_Cover_Phone.jpg/404342b08b1fcaa39578ae827bbe9638.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_VideoPreview.webm/49fa6ef6e544ff11ae084cc19ae17acb.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,16464,32928,49392,65856,82272,98736,115199,131663,148127,164591,181055,197471,213935,230399,246863,263327,279791,296255,312671,329135,345599,362063,378527,394991,411455,427871,444335,460799,477263,493727,510191,526655,543071,559535,575999,592463,608927,625391,641855,658271,674734,691198,707662,724126,740590,757054,773470,789934,806398,822862,839326,855790,872254,888670,905134,921598,938062,954526,970990,987454,1003870,1020334,1036798,1053262,1069726,1086190,1102654,1119070,1135534,1151998,1168462,1184926,1201390,1217853,1234269,1250733,1267197,1283661,1300125,1316589,1333053,1349469,1365933,1382397,1398861,1415325,1431789],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-14,\"endBeat\":600,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":87,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/loveward/loveward_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by OSTER project. Published by © Crypton Future Media, INC. www.piapro.net Courtesy of © Crypton Future Media, INC. www.piapro.net. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF6633FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 213.094,
+  "mapName": "LoveWard",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496895\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveWard/LoveWard_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482434\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveWard/LoveWard_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2944398\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveWard/LoveWard_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5135228\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveWard/LoveWard_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "LoveWard_mapContent"
+  },
+  "parentMapName": "LoveWard",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "FFA7D3FF",
+    "songColor_1B": "96349FFF",
+    "songColor_2A": "78ECFFFF",
+    "songColor_2B": "0067ADFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "HallOfFame",
+    "CnUnlimited2018"
+  ],
+  "title": "Love Ward",
+  "urls": {
+    "jmcs://jd-contents/LoveWard/LoveWard_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_AudioPreview.ogg/c189454ceb67457648b31ae9a38845bd.ogg",
+    "jmcs://jd-contents/LoveWard/LoveWard_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_MapPreviewNoSoundCrop_HIGH.vp8.webm/e4033d77cd8f41b16abe929d828f2f7c.webm",
+    "jmcs://jd-contents/LoveWard/LoveWard_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_MapPreviewNoSoundCrop_HIGH.vp9.webm/33f9ffb5e2f95f51f4eda49e66f8c45f.webm",
+    "jmcs://jd-contents/LoveWard/LoveWard_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_MapPreviewNoSoundCrop_LOW.vp8.webm/ebcb06d5ff29633b4a3e841d78e6c262.webm",
+    "jmcs://jd-contents/LoveWard/LoveWard_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_MapPreviewNoSoundCrop_LOW.vp9.webm/545c119623432575e644d5b9461e4abf.webm",
+    "jmcs://jd-contents/LoveWard/LoveWard_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_MapPreviewNoSoundCrop_MID.vp8.webm/c032ce0690b550f6f5f5c5208d51fca0.webm",
+    "jmcs://jd-contents/LoveWard/LoveWard_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_MapPreviewNoSoundCrop_MID.vp9.webm/b73f26053d68e2c1aeba5e274427c59f.webm",
+    "jmcs://jd-contents/LoveWard/LoveWard_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_MapPreviewNoSoundCrop_ULTRA.vp8.webm/335bff09e36d5d9f2c47d46e15097ab5.webm",
+    "jmcs://jd-contents/LoveWard/LoveWard_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/LoveWard/LoveWard_MapPreviewNoSoundCrop_ULTRA.vp9.webm/d105e002b94ef6c712ae6105efbb712e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "f20bede658c50dd6e6a6079851baa2b5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LoveWard/ps4/LoveWard_MAIN_SCENE_ORBIS.zip/f20bede658c50dd6e6a6079851baa2b5.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "ff5d63cc06318fe7c304f39ae792d796",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LoveWard/nx/LoveWard_MAIN_SCENE_NX.zip/ff5d63cc06318fe7c304f39ae792d796.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "c37b99d96c14c3e09acd5dee7567a8eb",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/LoveWard/pc/c37b99d96c14c3e09acd5dee7567a8eb.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "b180af367200ad4cff6f0f41189d3abd",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LoveWard/wiiu/LoveWard_MAIN_SCENE_WIIU.zip/b180af367200ad4cff6f0f41189d3abd.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

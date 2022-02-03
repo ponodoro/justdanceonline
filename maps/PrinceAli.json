@@ -1,0 +1,129 @@
+{
+  "artist": "Disney's Aladdin",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_banner_bkg.jpg/9f3fbe2bf7cdc4d3ff9d79bc5e944bf8.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_1.png/5e0b86e31f0e7b8143c22ec46610c36e.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_2.png/060d65f1337875dadf134b20655ba79a.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_3.png/d5de9e90a397fb1b9fa1351b54cf48b8.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_4.png/98dfe717d75b0d47c6ec2849b00d8f01.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Cover_Generic.jpg/d78c3d5c52c6e73be82bb3d80a4941c0.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Cover_1024.png/1df6bf354fd671b969eb13e1a7379519.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Cover_Online.jpg/c09c66e67e610b67128cd93e60290a63.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Cover_AlbumBkg.jpg/dd25e9e59587c422cdc69b2c01b6813e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Cover_AlbumCoach.png/df66b3c908e463604c6ba430821e3493.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_1_Phone.png/830940ab305da6bf5f8bb480e3658321.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_2_Phone.png/a6db63efcca9dc42d6407dc4594d2740.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_3_Phone.png/6e9dfc840183457702307a021e0b3425.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_4_Phone.png/d927a3d01f735246811effea9e3d75f1.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Cover_Phone.jpg/c09c66e67e610b67128cd93e60290a63.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_banner_bkg.jpg/9f3fbe2bf7cdc4d3ff9d79bc5e944bf8.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_1.png/5e0b86e31f0e7b8143c22ec46610c36e.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_2.png/060d65f1337875dadf134b20655ba79a.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_3.png/d5de9e90a397fb1b9fa1351b54cf48b8.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_4.png/98dfe717d75b0d47c6ec2849b00d8f01.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Cover_Generic.jpg/d78c3d5c52c6e73be82bb3d80a4941c0.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Cover_1024.png/1df6bf354fd671b969eb13e1a7379519.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Cover_Online.jpg/c09c66e67e610b67128cd93e60290a63.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Cover_AlbumBkg.jpg/dd25e9e59587c422cdc69b2c01b6813e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Cover_AlbumCoach.png/df66b3c908e463604c6ba430821e3493.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_1_Phone.png/830940ab305da6bf5f8bb480e3658321.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_2_Phone.png/a6db63efcca9dc42d6407dc4594d2740.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_3_Phone.png/6e9dfc840183457702307a021e0b3425.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_4_Phone.png/d927a3d01f735246811effea9e3d75f1.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Cover_Phone.jpg/c09c66e67e610b67128cd93e60290a63.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/wiiu/PrinceAli_banner_bkg.tga.ckd/73e8158d9cc4bfec3f3cd1ab2e2771fa.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/wiiu/PrinceAli_Coach_1.tga.ckd/6a65db89a7c7983164cf9884f7167d45.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/wiiu/PrinceAli_Coach_2.tga.ckd/1836e042650086222aa426a64f6b7335.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/wiiu/PrinceAli_Coach_3.tga.ckd/71480a27c2cbc91860527d9bc966dbb2.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/wiiu/PrinceAli_Coach_4.tga.ckd/7bb3e215e0db77236e00bac96e8a145e.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/wiiu/PrinceAli_Cover_Generic.tga.ckd/132d505676949cb117e7f6d321245eb4.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Cover_1024.png/1df6bf354fd671b969eb13e1a7379519.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/wiiu/PrinceAli_Cover_Online.tga.ckd/0c2f47dd35e2756f360853bac3b47507.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/wiiu/PrinceAli_Cover_AlbumBkg.tga.ckd/59e740b2022499d0d387feb84b0c7cfb.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/wiiu/PrinceAli_Cover_AlbumCoach.tga.ckd/37c26c8a799176d0dc4bb76cb2f2f427.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_1_Phone.png/830940ab305da6bf5f8bb480e3658321.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_2_Phone.png/a6db63efcca9dc42d6407dc4594d2740.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_3_Phone.png/6e9dfc840183457702307a021e0b3425.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Coach_4_Phone.png/d927a3d01f735246811effea9e3d75f1.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_Cover_Phone.jpg/c09c66e67e610b67128cd93e60290a63.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27840,55968,84144,112320,140448,169920,199391,228863,258335,286079,313871,341663,369455,397439,425471,453455,481487,509039,536639,564239,591839,619535,647231,674927,702623,729934,757246,785854,814510,842014,869518,897022,924526,952270,980014,1007758,1035502,1063294,1091086,1118830,1146622,1174174,1201726,1229278,1256829,1284333,1311789,1339245,1366749,1394541,1422333],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-12,\"endBeat\":296,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":51,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/princeali/princeali_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0E91EEFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 182.708,
+  "mapName": "PrinceAli",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496476\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481900\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2888889\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3596094\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "PrinceAli_mapContent"
+  },
+  "parentMapName": "PrinceAli",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "007CAAFF",
+    "songColor_1B": "001E4AFF",
+    "songColor_2A": "E1C305FF",
+    "songColor_2B": "6A2400FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Prince Ali",
+  "urls": {
+    "jmcs://jd-contents/PrinceAli/PrinceAli_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_AudioPreview.ogg/c679056833ff74cea253e9e991d846ae.ogg",
+    "jmcs://jd-contents/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_HIGH.vp8.webm/849ddb6b9295a86bf3cad265fd9ccb29.webm",
+    "jmcs://jd-contents/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_HIGH.vp9.webm/a4a415ab313234d634df6df34a66780d.webm",
+    "jmcs://jd-contents/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_LOW.vp8.webm/a9f1b9c7f31b6c08c2655977568bd06b.webm",
+    "jmcs://jd-contents/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_LOW.vp9.webm/03c7e2445354d7b2fee281b8f0da2803.webm",
+    "jmcs://jd-contents/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_MID.vp8.webm/cf72849754e3d94001a2f89f6698059f.webm",
+    "jmcs://jd-contents/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_MID.vp9.webm/2b066fd34e997725bc1e9ddde6e88e6c.webm",
+    "jmcs://jd-contents/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_ULTRA.vp8.webm/9c47cd3d6000823561b848d942c0bfd8.webm",
+    "jmcs://jd-contents/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/PrinceAli/PrinceAli_MapPreviewNoSoundCrop_ULTRA.vp9.webm/7b4f649783cdb991582813622a2be81c.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "cd623f52ef21b84c3cb3f1781e42a712",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PrinceAli/ps4/PrinceAli_MAIN_SCENE_ORBIS.zip/cd623f52ef21b84c3cb3f1781e42a712.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "638c4a69f3ad4e5d610e89ea58fff1db",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PrinceAli/pc/PrinceAli_MAIN_SCENE_PC.zip/638c4a69f3ad4e5d610e89ea58fff1db.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "ac9a8f7cdf1ba540dee066236ac3ec78",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PrinceAli/wiiu/PrinceAli_MAIN_SCENE_WIIU.zip/ac9a8f7cdf1ba540dee066236ac3ec78.zip",
+      "version": 8
+    },
+    "nx": {
+      "md5": "b4ff2b6bf1aea3c6f5586d76eab35793",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PrinceAli/nx/PrinceAli_MAIN_SCENE_NX.zip/b4ff2b6bf1aea3c6f5586d76eab35793.zip",
+      "version": 7
+    }
+  },
+  "mapType": "jdu"
+}

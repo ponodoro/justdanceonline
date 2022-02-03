@@ -1,0 +1,114 @@
+{
+  "artist": "The Girly Team",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_banner_bkg.jpg/ace0355c8f55f89f4d9603dc88368971.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Coach_1.png/27ac28f2a7aa4ad2143d5f2f1d792259.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Cover_Generic.jpg/8247264634c32c327a108b83b3776bb8.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Cover_1024.png/e42b4041d8d5318bc3492f0d30636e33.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Cover_Online.jpg/b936098a25f658b61db6d74625a709ee.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Cover_AlbumBkg.jpg/f0d08c7fc2b5f03553e3b5c50a3c42a9.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Cover_AlbumCoach.png/bb7294a79740572d3fd1c9673e36de30.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Coach_1_Phone.png/af48f7eff4001418a38278342b1d2919.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Cover_Phone.jpg/b936098a25f658b61db6d74625a709ee.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_VideoPreview.webm/c912d3b5851c380d94e73727f7283ff5.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_banner_bkg.jpg/ace0355c8f55f89f4d9603dc88368971.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Coach_1.png/27ac28f2a7aa4ad2143d5f2f1d792259.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Cover_Generic.jpg/8247264634c32c327a108b83b3776bb8.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Cover_1024.png/e42b4041d8d5318bc3492f0d30636e33.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Cover_Online.jpg/b936098a25f658b61db6d74625a709ee.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Cover_AlbumBkg.jpg/f0d08c7fc2b5f03553e3b5c50a3c42a9.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Cover_AlbumCoach.png/bb7294a79740572d3fd1c9673e36de30.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Coach_1_Phone.png/af48f7eff4001418a38278342b1d2919.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Cover_Phone.jpg/b936098a25f658b61db6d74625a709ee.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_VideoPreview.webm/c912d3b5851c380d94e73727f7283ff5.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/wiiu/WhatAFeeling_banner_bkg.tga.ckd/1a4cbae20bcac8126aa82ce338d317a1.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/wiiu/WhatAFeeling_Coach_1.tga.ckd/43a38467c7cbbfc8313a4c3956510f38.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/wiiu/WhatAFeeling_Cover_Generic.tga.ckd/dafd82bdfc8e726d79585c4e42886932.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Cover_1024.png/e42b4041d8d5318bc3492f0d30636e33.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/wiiu/WhatAFeeling_Cover_Online.tga.ckd/c5ffedb36b20de6e68f8bc2b7cc0c56c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/wiiu/WhatAFeeling_Cover_AlbumBkg.tga.ckd/f60ffb7adea4453fc12ae4949539ea69.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/wiiu/WhatAFeeling_Cover_AlbumCoach.tga.ckd/3a22186de2924a3eb574dde79ef9e0cf.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Coach_1_Phone.png/af48f7eff4001418a38278342b1d2919.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_Cover_Phone.jpg/b936098a25f658b61db6d74625a709ee.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_VideoPreview.webm/c912d3b5851c380d94e73727f7283ff5.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23232,46416,69648,92880,116112,139343,162575,185807,208991,232223,255455,278687,301919,325151,348383,371615,394799,418031,441263,464495,487727,510959,534191,557423,580607,603839,627071,650303,673535,696767,719999,743231,766415,789647,812879,836111,859343,882575,905807,928991,952223,975455,998687,1021919,1045151,1068383,1091615,1114799,1138031,1161263,1184495,1207727,1230958,1254190,1277422,1300606,1323838,1347070,1370302,1393534,1416766,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":393,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/whatafeeling/whatafeeling_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "00FFFFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 204.194,
+  "mapName": "WhatAFeeling",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496273\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"911640\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"923107\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"923149\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "WhatAFeeling_mapContent"
+  },
+  "parentMapName": "WhatAFeeling",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "1EA1B9FF",
+    "songColor_1B": "001832FF",
+    "songColor_2A": "37DBF3FF",
+    "songColor_2B": "05003DFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Flashdance... What A Feeling",
+  "urls": {
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_AudioPreview.ogg/ce3efbfd0727a78fe959a0230095ee6f.ogg",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_HIGH.vp8.webm/5c3ca53cdcf9d0e63e2b51383045fc35.webm",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_HIGH.vp9.webm/b4114ee813dc56f17479c334c234b24b.webm",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_LOW.vp8.webm/98b96f7e775300354d7b85b4c405b8f1.webm",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_LOW.vp9.webm/3d20ecdebfa936f16382a1ecf24bc5b4.webm",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_MID.vp8.webm/bc0e96852849efc351ed37421eb0685f.webm",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_MID.vp9.webm/ed1fdc7dcabec2f2ddf863ce5cf027fe.webm",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_ULTRA.vp8.webm/48effa3d0f72012130af84458e6d920a.webm",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_ULTRA.vp9.webm/d6c33219020add8c505c1528e6fac686.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "449071ff531c7647ba36c88d7e30e4cb",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/ps4/WhatAFeeling_MAIN_SCENE_ORBIS.zip/449071ff531c7647ba36c88d7e30e4cb.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "6029a7fcb6d5a2a62b3cc37cb656cdb5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/pc/WhatAFeeling_MAIN_SCENE_PC.zip/6029a7fcb6d5a2a62b3cc37cb656cdb5.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "5c136d006a1afb10848551e7ad58f484",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/wiiu/WhatAFeeling_MAIN_SCENE_WIIU.zip/5c136d006a1afb10848551e7ad58f484.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "2b40d273f1922e6e541ea4c7c95a7524",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WhatAFeeling/nx/WhatAFeeling_MAIN_SCENE_NX.zip/2b40d273f1922e6e541ea4c7c95a7524.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

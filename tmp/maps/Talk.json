@@ -1,0 +1,104 @@
+{
+  "artist": "Khalid",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/ps4/Talk_banner_bkg.tga.ckd/660c834cd18eef2a18ad8a822460f6d9.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/ps4/Talk_Coach_1.tga.ckd/b668a042b1107916781899b3a779b7f2.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/ps4/Talk_Cover_Generic.tga.ckd/8f3a2dd46eda5f0188b74592dbcc03dc.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/Talk_Cover_1024.png/1c859bf573d22e05977db6d57f965333.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/ps4/Talk_Cover_Online.tga.ckd/234dc03dde3e1937d39eb576fdfe0f21.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/ps4/Talk_Cover_AlbumBkg.tga.ckd/b5d5d0231176f1c803ff8ae3c69578c3.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/ps4/Talk_Cover_AlbumCoach.tga.ckd/4933f313842eaf9c7e144bb4e1d6d69d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/Talk_Coach_1_Phone.png/57bdb814e8a08b3ced990d9285e2e347.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/Talk_Cover_Phone.jpg/9fd62f7a66ef04583d6ed6f19cc7b61f.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/ps4/Talk_map_bkg.tga.ckd/16b7ad7081e59911b874018ae836cb50.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/nx/Talk_banner_bkg.tga.ckd/66a58a9ad218a6743b05a29c1b02a83c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/nx/Talk_Coach_1.tga.ckd/d81bfcafd61035f23f60bca775e47e1f.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/nx/Talk_Cover_Generic.tga.ckd/6590569544b94b5ef543a859775196f6.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/Talk_Cover_1024.png/1c859bf573d22e05977db6d57f965333.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/nx/Talk_Cover_Online.tga.ckd/37ff14257233403ba033ecd753d8ba3f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/nx/Talk_Cover_AlbumBkg.tga.ckd/56d4eede833dc3ac7ce4fe0a8b8ddefa.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/nx/Talk_Cover_AlbumCoach.tga.ckd/0311d231229351186f9e19e8be34dba1.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/Talk_Coach_1_Phone.png/57bdb814e8a08b3ced990d9285e2e347.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/Talk_Cover_Phone.jpg/9fd62f7a66ef04583d6ed6f19cc7b61f.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Talk/nx/Talk_map_bkg.tga.ckd/1488c0b77394b63c6477fbb0b8b0759d.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21176,42352,63529,84705,105882,127058,148235,169411,190588,211764,232941,254117,275294,296470,317647,338823,360000,381176,402352,423529,444705,465882,487058,508235,529411,550588,571764,592941,614117,635294,656470,677647,698823,720000,741176,762352,783529,804705,825882,847058,868235,889411,910588,931764,952941,974117,995294,1016470,1037647,1058823,1080000,1101176,1122352,1143529,1164705,1185882,1207058,1228235,1249411,1270588,1291764,1312941,1334117,1355294,1376470,1397647,1418823],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-1,\"endBeat\":445,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":67,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/talk/talk_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Guy William Lawrence, Howard John Lawrence and Khalid Robinson. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing Ltd. / Sony/ATV Songs LLC. (BMI). All rights reserved. Used with permission. Courtesy of Right Hand Music Group/RCA Records. By arrangement with Sony Music Entertainment. ",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "07E8A3FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 196.765,
+  "mapName": "Talk",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495828\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Talk/Talk_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"586-1075\">\r\n\t\t\t\t\t<Initialization range=\"0-586\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1405143\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Talk/Talk_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"587-1077\">\r\n\t\t\t\t\t<Initialization range=\"0-587\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1497042\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Talk/Talk_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"587-1077\">\r\n\t\t\t\t\t<Initialization range=\"0-587\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1496976\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Talk/Talk_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"587-1077\">\r\n\t\t\t\t\t<Initialization range=\"0-587\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "Talk_mapContent"
+  },
+  "parentMapName": "Talk",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "022B5BFF",
+    "songColor_1B": "3E2FEAFF",
+    "songColor_2A": "4BC8FFFF",
+    "songColor_2B": "B100D2FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Talk",
+  "urls": {
+    "jmcs://jd-contents/Talk/Talk_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Talk/Talk_AudioPreview.ogg/e7a7fad43dc547f3e34d731024b75ada.ogg",
+    "jmcs://jd-contents/Talk/Talk_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Talk/Talk_MapPreviewNoSoundCrop_HIGH.vp8.webm/e985b6f205abfcf613899dd0a1f9fa0d.webm",
+    "jmcs://jd-contents/Talk/Talk_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Talk/Talk_MapPreviewNoSoundCrop_HIGH.vp9.webm/3432b3f260fa65f3a37693f6723f8859.webm",
+    "jmcs://jd-contents/Talk/Talk_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Talk/Talk_MapPreviewNoSoundCrop_LOW.vp8.webm/7ee5bdd84c5e3e7a639bbe4cee49868c.webm",
+    "jmcs://jd-contents/Talk/Talk_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Talk/Talk_MapPreviewNoSoundCrop_LOW.vp9.webm/fadf7006ef8ae6f13efbccdc82581862.webm",
+    "jmcs://jd-contents/Talk/Talk_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Talk/Talk_MapPreviewNoSoundCrop_MID.vp8.webm/4f0ccaa74b20d7a23e297bbc47ca8e27.webm",
+    "jmcs://jd-contents/Talk/Talk_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Talk/Talk_MapPreviewNoSoundCrop_MID.vp9.webm/74e884a4c6ae1186d3b7fe112145d1c9.webm",
+    "jmcs://jd-contents/Talk/Talk_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Talk/Talk_MapPreviewNoSoundCrop_ULTRA.vp8.webm/7c8167f2b7298c1b6e081c9d46e68e21.webm",
+    "jmcs://jd-contents/Talk/Talk_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Talk/Talk_MapPreviewNoSoundCrop_ULTRA.vp9.webm/c5bf8eeab74f388b634b0a2d4340d885.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "d138f95d530b23441fb52df0ff13e608",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Talk/ps4/Talk_MAIN_SCENE_ORBIS.zip/d138f95d530b23441fb52df0ff13e608.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "067aa34e0068415709ac563ed0a7a92e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Talk/nx/Talk_MAIN_SCENE_NX.zip/067aa34e0068415709ac563ed0a7a92e.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "1a2d7973ab8b19174f2b3fc293d19b28",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Talk/pc/1a2d7973ab8b19174f2b3fc293d19b28.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

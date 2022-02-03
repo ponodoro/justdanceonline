@@ -1,0 +1,102 @@
+{
+  "artist": "Aya Nakamura",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/ps4/DjaDja_banner_bkg.tga.ckd/1f2a08932de8f8de2f021dc5c2a2b80a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/ps4/DjaDja_Coach_1.tga.ckd/908ef6917fc589c3b50bf78ff2a48b7e.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/ps4/DjaDja_Cover_Generic.tga.ckd/9921fa1a66332831f6988e0aed3a91e0.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/DjaDja_Cover_1024.png/dd13cfbb1147809ae34a7baa4bfe4205.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/ps4/DjaDja_Cover_Online.tga.ckd/ced081b00d129fee90ccb8bd1498aa46.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/ps4/DjaDja_Cover_AlbumBkg.tga.ckd/3ec05a38ac08e089abafc768c4d52873.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/ps4/DjaDja_Cover_AlbumCoach.tga.ckd/aad2aebc2e4ac711ceeb48f3db4bffdc.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/DjaDja_Coach_1_Phone.png/48fad59fb36e966fc9f6f082ee8edf1a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/DjaDja_Cover_Phone.jpg/535fe50fbe36902ab530dd524db5643e.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DjaDja/DjaDja_VideoPreview.webm/898b789f952c801129eb0dfb2500169f.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/ps4/DjaDja_map_bkg.tga.ckd/376ff557f236fbbfc38064d460992931.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/nx/DjaDja_banner_bkg.tga.ckd/241def8a579a7e935e77f8a590831648.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/nx/DjaDja_Coach_1.tga.ckd/22243d93765eafc6633f37b09504310c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/nx/DjaDja_Cover_Generic.tga.ckd/e67730282aefcf72d42bd746fbb974d9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/DjaDja_Cover_1024.png/dd13cfbb1147809ae34a7baa4bfe4205.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/nx/DjaDja_Cover_Online.tga.ckd/b50c70815669ee97e08e74f861abc4ff.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/nx/DjaDja_Cover_AlbumBkg.tga.ckd/18076bb61c8de1d906fc6788e5a1bd54.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/nx/DjaDja_Cover_AlbumCoach.tga.ckd/084adb8d9ca75de211eb265719a8faf8.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/DjaDja_Coach_1_Phone.png/48fad59fb36e966fc9f6f082ee8edf1a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/DjaDja_Cover_Phone.jpg/535fe50fbe36902ab530dd524db5643e.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DjaDja/DjaDja_VideoPreview.webm/898b789f952c801129eb0dfb2500169f.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DjaDja/nx/DjaDja_map_bkg.tga.ckd/e5afd3a4b04c2584dcfc68819d237ff7.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,29388,58776,88163,117551,146939,176327,205714,235102,264490,293878,323265,352653,382041,411429,440816,470204,499592,528980,558367,587755,617143,646531,675918,705306,734694,764082,793469,822857,852245,881633,911020,940408,969796,999184,1028571,1057959,1087347,1116735,1146122,1175510,1204898,1234286,1263673,1293061,1322449,1351837,1381224,1410612],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-10,\"endBeat\":277,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":48,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/djadja/djadja_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Machynist, Some 1NE, Alois Zandry and Aya Nakamura. Published by Universal Music Publishing on behalf of itself, Perspective Productions, and 6 et 7 with permission from Universal Music Publishing Film & TV. / Warner Chappell Music France. Courtesy of Warner France France. (P) 2018 Rec. 118 / Warner Music France, a Warner Music Group Company. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "3AFE9CFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 175.715,
+  "mapName": "DjaDja",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497340\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DjaDja/DjaDja_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1096\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480229\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DjaDja/DjaDja_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"608-1098\">\r\n\t\t\t\t\t<Initialization range=\"0-608\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2666624\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DjaDja/DjaDja_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"608-1098\">\r\n\t\t\t\t\t<Initialization range=\"0-608\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2964012\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DjaDja/DjaDja_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"608-1098\">\r\n\t\t\t\t\t<Initialization range=\"0-608\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "DjaDja_mapContent"
+  },
+  "parentMapName": "DjaDja",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "FF967FFF",
+    "songColor_1B": "FF173EFF",
+    "songColor_2A": "FFCE74FF",
+    "songColor_2B": "E27D19FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Djadja",
+  "urls": {
+    "jmcs://jd-contents/DjaDja/DjaDja_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/DjaDja/DjaDja_AudioPreview.ogg/1f0f855e29a9469f511e8813aed32e23.ogg",
+    "jmcs://jd-contents/DjaDja/DjaDja_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/DjaDja/DjaDja_MapPreviewNoSoundCrop_HIGH.vp8.webm/335e2fd20dbe7f7f4435327c945714bd.webm",
+    "jmcs://jd-contents/DjaDja/DjaDja_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/DjaDja/DjaDja_MapPreviewNoSoundCrop_HIGH.vp9.webm/1ca924f2b6cf5113604f56d1389998b6.webm",
+    "jmcs://jd-contents/DjaDja/DjaDja_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/DjaDja/DjaDja_MapPreviewNoSoundCrop_LOW.vp8.webm/09ea0b771ded08d712b1fa3ef4e948e4.webm",
+    "jmcs://jd-contents/DjaDja/DjaDja_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/DjaDja/DjaDja_MapPreviewNoSoundCrop_LOW.vp9.webm/81ce2a66a568a1895c7398bce2992798.webm",
+    "jmcs://jd-contents/DjaDja/DjaDja_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/DjaDja/DjaDja_MapPreviewNoSoundCrop_MID.vp8.webm/176a54a7911d3afdee3f64ce353f146a.webm",
+    "jmcs://jd-contents/DjaDja/DjaDja_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/DjaDja/DjaDja_MapPreviewNoSoundCrop_MID.vp9.webm/4cf3c0b36085080f8f6cfc770710e0a4.webm",
+    "jmcs://jd-contents/DjaDja/DjaDja_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/DjaDja/DjaDja_MapPreviewNoSoundCrop_ULTRA.vp8.webm/80279e44f2b0ca50e249ae040b4f5885.webm",
+    "jmcs://jd-contents/DjaDja/DjaDja_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/DjaDja/DjaDja_MapPreviewNoSoundCrop_ULTRA.vp9.webm/b55bb5b8ed8521bcf6641762123e20cd.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "59d1c8d8f2a16dfab189559576244e10",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DjaDja/ps4/DjaDja_MAIN_SCENE_ORBIS.zip/59d1c8d8f2a16dfab189559576244e10.zip",
+      "version": 31
+    },
+    "nx": {
+      "md5": "976f218cf761ab9b013ac44496b9a63e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DjaDja/nx/DjaDja_MAIN_SCENE_NX.zip/976f218cf761ab9b013ac44496b9a63e.zip",
+      "version": 31
+    },
+    "pc": {
+      "md5": "67520df2330dc4d46c67e72d48fa5afc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DjaDja/pc/DjaDja_MAIN_SCENE_PC.zip/67520df2330dc4d46c67e72d48fa5afc.zip",
+      "version": 11
+    },
+    "wiiu": {
+      "md5": "f3a1abe890970e1b01c2a4ed3868f941",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DjaDja/wiiu/DjaDja_MAIN_SCENE_WIIU.zip/f3a1abe890970e1b01c2a4ed3868f941.zip",
+      "version": 25
+    }
+  },
+  "mapType": "jdu"
+}

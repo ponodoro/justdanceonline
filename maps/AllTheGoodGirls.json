@@ -1,0 +1,90 @@
+{
+  "artist": "Billie Eilish",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AllTheGoodGirls/AllTheGoodGirls_banner_bkg.jpg/d8b9ea4d9778ab376d6c898ad4c060aa.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AllTheGoodGirls/AllTheGoodGirls_Coach_1.png/256a31387506ad18753696b8da17615d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AllTheGoodGirls/AllTheGoodGirls_Cover_Generic.jpg/0e1c16efd5bf403497844a408c6c0e77.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AllTheGoodGirls/AllTheGoodGirls_Cover_Online.jpg/40e1a9cef0c2560070b43fa795dced3a.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AllTheGoodGirls/AllTheGoodGirls_Cover_AlbumBkg.jpg/6677251cad5390db3dbb516dea56443a.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AllTheGoodGirls/AllTheGoodGirls_Cover_AlbumCoach.png/4fc0d8ba4bc0765fb2c22f7696f2100a.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AllTheGoodGirls/AllTheGoodGirls_Coach_1_Phone.png/f5ab1e2dabb89e85f09589885187af50.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AllTheGoodGirls/AllTheGoodGirls_Cover_Phone.jpg/40e1a9cef0c2560070b43fa795dced3a.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AllTheGoodGirls/AllTheGoodGirls_banner_bkg.jpg/d8b9ea4d9778ab376d6c898ad4c060aa.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AllTheGoodGirls/AllTheGoodGirls_Coach_1.png/256a31387506ad18753696b8da17615d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AllTheGoodGirls/AllTheGoodGirls_Cover_Generic.jpg/0e1c16efd5bf403497844a408c6c0e77.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AllTheGoodGirls/AllTheGoodGirls_Cover_Online.jpg/40e1a9cef0c2560070b43fa795dced3a.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AllTheGoodGirls/AllTheGoodGirls_Cover_AlbumBkg.jpg/6677251cad5390db3dbb516dea56443a.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AllTheGoodGirls/AllTheGoodGirls_Cover_AlbumCoach.png/4fc0d8ba4bc0765fb2c22f7696f2100a.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AllTheGoodGirls/AllTheGoodGirls_Coach_1_Phone.png/f5ab1e2dabb89e85f09589885187af50.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AllTheGoodGirls/AllTheGoodGirls_Cover_Phone.jpg/40e1a9cef0c2560070b43fa795dced3a.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,31135,62270,93406,124541,155676,186811,217946,249081,280216,311352,342487,373622,404757,435892,467027,498162,529297,560433,591568,622703,653838,684973,716108,747243,778379,809514,840649,871784,902919,934054,965189,996325,1027460,1058595,1089730,1120865,1152000,1183135,1214270,1245406,1276541,1307676,1338811,1369946,1401081,1432216],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-1,\"endBeat\":255,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":46,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/allthegoodgirls/allthegoodgirls_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Billie Eilish O'Connell and Finneas O’Connell. Published by Last Frontier (ASCAP). Administered by Kobalt Music Publishing America, Inc. / Universal Music Publishing Canada on behalf of DRUP and Universal Music Corp. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "38C4FDFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 166.054,
+  "mapName": "AllTheGoodGirls",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"494835\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"656-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-656\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1476192\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"657-1147\">\r\n\t\t\t\t\t<Initialization range=\"0-657\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2594682\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"657-1147\">\r\n\t\t\t\t\t<Initialization range=\"0-657\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2885560\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"657-1147\">\r\n\t\t\t\t\t<Initialization range=\"0-657\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "AllTheGoodGirls_mapContent"
+  },
+  "parentMapName": "AllTheGoodGirls",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "0095EAFF",
+    "songColor_1B": "1F2499FF",
+    "songColor_2A": "E90042FF",
+    "songColor_2B": "311670FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "All the good girls go to hell",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "1f3ba8a1e2ebc6d1a7762e1ee49ba700",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/ps4/AllTheGoodGirls_MAIN_SCENE_ORBIS.zip/1f3ba8a1e2ebc6d1a7762e1ee49ba700.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "b3333a75c5d8f5cac579f568f41128c6",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/nx/AllTheGoodGirls_MAIN_SCENE_NX.zip/b3333a75c5d8f5cac579f568f41128c6.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "5fecec9f2a93fd3ecd1f4b08e53e7639",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/AllTheGoodGirls/pc/5fecec9f2a93fd3ecd1f4b08e53e7639.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_AudioPreview.ogg/8561313c4ef61b340752e3012df7b9d7.ogg",
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_HIGH.vp8.webm/54af2bfc20485d5f567ce6fbad55ad79.webm",
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_HIGH.vp9.webm/bdf74cdb2881d6f69584a1869dcb9b8f.webm",
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_LOW.vp8.webm/2bf081b71f9390b283235b11824f765a.webm",
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_LOW.vp9.webm/ef73e663d088bf86336644611065c5d4.webm",
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_MID.vp8.webm/ff6d5ab603e7bad29e418a561c5d796f.webm",
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_MID.vp9.webm/5f5e0310a34c524e9e1dd30b1ddef5b9.webm",
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_ULTRA.vp8.webm/7b79692dfe978831db6537d3d9baa57d.webm",
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_ULTRA.vp9.webm/a589579a4064c6af72081d82b1a5e679.webm"
+  }
+}

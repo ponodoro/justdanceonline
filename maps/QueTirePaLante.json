@@ -1,0 +1,102 @@
+{
+  "artist": "Daddy Yankee",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Coach_1.png/a56d8d952af824381b6d48256a2ea0ed.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Coach_2.png/048336e0a23e177a2fb853aa2ef1c9c4.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Coach_3.png/b186e3743cecd219e665f53ef717a0e6.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Coach_4.png/c90c4a08133fdec5a8e85bec8303f9dc.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Cover_Generic.jpg/2dd50fc7a6e93ff718a50971fe507191.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Cover_Online.jpg/3569d9b9a3c07c393c0aef8199c00497.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Cover_AlbumBkg.jpg/f420a9aa44f95eb7543f375e8d661b32.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Cover_AlbumCoach.png/55ba207524630f22f6f322041af9abe2.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Coach_1_Phone.png/2081513b6e2cfff019e86560ca4a98bb.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Coach_2_Phone.png/7401e9c4a46bbf3b837a2cc71f6c8582.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Coach_3_Phone.png/f92df0f02a32200f96641f9455ca2ab9.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Coach_4_Phone.png/06f369e856736b6f7080fa6176e6b3a4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Cover_Phone.jpg/3569d9b9a3c07c393c0aef8199c00497.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Coach_1.png/a56d8d952af824381b6d48256a2ea0ed.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Coach_2.png/048336e0a23e177a2fb853aa2ef1c9c4.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Coach_3.png/b186e3743cecd219e665f53ef717a0e6.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Coach_4.png/c90c4a08133fdec5a8e85bec8303f9dc.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Cover_Generic.jpg/2dd50fc7a6e93ff718a50971fe507191.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Cover_Online.jpg/3569d9b9a3c07c393c0aef8199c00497.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Cover_AlbumBkg.jpg/f420a9aa44f95eb7543f375e8d661b32.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Cover_AlbumCoach.png/55ba207524630f22f6f322041af9abe2.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Coach_1_Phone.png/2081513b6e2cfff019e86560ca4a98bb.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Coach_2_Phone.png/7401e9c4a46bbf3b837a2cc71f6c8582.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Coach_3_Phone.png/f92df0f02a32200f96641f9455ca2ab9.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Coach_4_Phone.png/06f369e856736b6f7080fa6176e6b3a4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/QueTirePaLante/QueTirePaLante_Cover_Phone.jpg/3569d9b9a3c07c393c0aef8199c00497.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,30638,61276,91914,122553,153191,183829,214468,245106,275744,306383,337021,367659,398297,428936,459574,490212,520851,551489,582127,612765,643404,674042,704680,735319,765957,796595,827234,857872,888510,919148,949787,980425,1011063,1041702,1072340,1102978,1133617,1164255,1194893,1225531,1256170,1286808,1317446,1348085,1378723,1409361],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":329,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":46,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/quetirepalante/quetirepalante_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Juan Rivera Vazquez, Ramon Ayala, Urbani Cedeno Mota, Luis Jorge Romero, Jimmy Cliff, Philip Antonio Thomas, Sly Dunbar, Everton Bonner, John Christopher Taylor, Philip Smart, Bobby Dixon, Lloyd Oliver Willis and Patrick Allen Thompson. Published by BMG Gold Songs (ASCAP) obo Tafari Music, Inc. (ASCAP) obo C And I Jah Bless Music (ASCAP), BMG Platinum Songs US (BMI) obo Music By Tafari, Inc. (BMI). All rights administered by BMG Rights Management (US) LLC. / Universal Music Publishing Canada on behalf of Universal Songs Of PolyGram Int., Inc. and Universal PolyGram Int. Publishing, Inc. / Musica de Gaby Publishing (BMI) and Warner-Tamerlane Publishing Corp. (BMI). All rights on behalf of itself and Musica de Gaby Publishing administered by Warner-Tamerlane Publishing Corp. / EVO Black Music (BMI) / Urbani Music Publishing (ASCAP). Administered by Kobalt Music Publishing America, Inc. / Ultra Music Publishing Europe AG (SUISA). / STB Music Inc (PRS) d/b/a Songs of STB (BMI)/Bobby Dixon (BMI). / Los Cangris Inc. Courtesy of El Cartel Records under license from Universal Music Enterprises.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "35F626FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 213.82999999999998,
+  "mapName": "QueTirePaLante",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496132\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"654-1143\">\r\n\t\t\t\t\t<Initialization range=\"0-654\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478364\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2909863\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3443224\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "QueTirePaLante_mapContent"
+  },
+  "parentMapName": "QueTirePaLante",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "F2CCA3FF",
+    "songColor_1B": "41269DFF",
+    "songColor_2A": "2B1215FF",
+    "songColor_2B": "2FB8A0FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Que Tire Pa Lante",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "51224e202dcf8bf07c503f2f213cb6de",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/QueTirePaLante/ps4/QueTirePaLante_MAIN_SCENE_ORBIS.zip/51224e202dcf8bf07c503f2f213cb6de.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "8c91af062848fc559e9c0d437f99ab0c",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/QueTirePaLante/nx/QueTirePaLante_MAIN_SCENE_NX.zip/8c91af062848fc559e9c0d437f99ab0c.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "c9e81657f4a5ba972d4acc9512cc4bae",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/QueTirePaLante/pc/c9e81657f4a5ba972d4acc9512cc4bae.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/QueTirePaLante/QueTirePaLante_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/QueTirePaLante/QueTirePaLante_AudioPreview.ogg/9a5274c13820242b4732d868926d0794.ogg",
+    "jmcs://jd-contents/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_HIGH.vp8.webm/00d08ef866f0325bedf41a17768bf089.webm",
+    "jmcs://jd-contents/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_HIGH.vp9.webm/d82ff7765c48ec47acfaaa16272b148f.webm",
+    "jmcs://jd-contents/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_LOW.vp8.webm/c5360d10db308ff525a7a186f1b7a0e6.webm",
+    "jmcs://jd-contents/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_LOW.vp9.webm/1aa46b134cd823783a7cdac42c476f89.webm",
+    "jmcs://jd-contents/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_MID.vp8.webm/3d4e1fdc75212a30a380011f79d9e9d7.webm",
+    "jmcs://jd-contents/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_MID.vp9.webm/e2dbe6e36d7ce947b09f144d90477cd0.webm",
+    "jmcs://jd-contents/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b8c2305548c25cb3f04cc0fb8d0ed86a.webm",
+    "jmcs://jd-contents/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/QueTirePaLante/QueTirePaLante_MapPreviewNoSoundCrop_ULTRA.vp9.webm/0ddaee6cf1e00788e0bd08d29b6f619d.webm"
+  }
+}

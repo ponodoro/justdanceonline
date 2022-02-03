@@ -1,0 +1,117 @@
+{
+  "artist": "Boys Town Gang",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_banner_bkg.jpg/0a8dd25238a587032f225b3e18773c94.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Coach_1.png/60a300c7b51601fc0ee4a6ad7f98f978.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Coach_2.png/7b86391ad341f038d2cd0bc64d93186e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Cover_Generic.jpg/b5fb12f5745f15336fdaf9fb5ad65e71.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Cover_1024.png/a4e428d6af12b9f998e44fbefe113ea1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Cover_Online.jpg/340e4e635bcd513d1a1fca8dd7057709.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Cover_AlbumBkg.jpg/886399bf18dbae8f16e2d415c4140258.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Cover_AlbumCoach.png/02266ee71b0fe05a85d480cf6d87861c.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Coach_1_Phone.png/2b272fa3c40b535deba03ffe95ce2bc4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Coach_2_Phone.png/9a694f4630bba866cc227d18c201e504.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Cover_Phone.jpg/340e4e635bcd513d1a1fca8dd7057709.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_banner_bkg.jpg/0a8dd25238a587032f225b3e18773c94.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Coach_1.png/60a300c7b51601fc0ee4a6ad7f98f978.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Coach_2.png/7b86391ad341f038d2cd0bc64d93186e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Cover_Generic.jpg/b5fb12f5745f15336fdaf9fb5ad65e71.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Cover_1024.png/a4e428d6af12b9f998e44fbefe113ea1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Cover_Online.jpg/340e4e635bcd513d1a1fca8dd7057709.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Cover_AlbumBkg.jpg/886399bf18dbae8f16e2d415c4140258.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Cover_AlbumCoach.png/02266ee71b0fe05a85d480cf6d87861c.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Coach_1_Phone.png/2b272fa3c40b535deba03ffe95ce2bc4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Coach_2_Phone.png/9a694f4630bba866cc227d18c201e504.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Cover_Phone.jpg/340e4e635bcd513d1a1fca8dd7057709.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/wiiu/CantTakeMyEyes_banner_bkg.tga.ckd/9fa1ce9dd5884fbea5c459959869755b.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/wiiu/CantTakeMyEyes_Coach_1.tga.ckd/2ee51dcdc1235ea867dcf496f489a18c.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/wiiu/CantTakeMyEyes_Coach_2.tga.ckd/90c9d49a153efc309941df34b6ba9c61.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/wiiu/CantTakeMyEyes_Cover_Generic.tga.ckd/d06aa5cab3fe7f69bc17c988e0a16cf4.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Cover_1024.png/a4e428d6af12b9f998e44fbefe113ea1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/wiiu/CantTakeMyEyes_Cover_Online.tga.ckd/32cfe166a27a61d8e66d4182feb9f8f0.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/wiiu/CantTakeMyEyes_Cover_AlbumBkg.tga.ckd/a5c6a58a7f1aee6d26a917ba5d41a9cf.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/wiiu/CantTakeMyEyes_Cover_AlbumCoach.tga.ckd/c0853db7441de4f8abd092319a6f5add.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Coach_1_Phone.png/2b272fa3c40b535deba03ffe95ce2bc4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Coach_2_Phone.png/9a694f4630bba866cc227d18c201e504.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_Cover_Phone.jpg/340e4e635bcd513d1a1fca8dd7057709.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21792,44448,67200,89520,111696,134256,156672,179087,201167,223727,246191,268415,290591,313055,335615,357935,380303,402815,425279,447503,469775,492191,514559,537167,559535,581759,604079,626447,648767,671183,693455,715967,738383,760607,783119,805631,827759,850319,872639,895151,917519,939983,962207,984575,1006895,1029359,1051631,1074190,1096750,1119406,1141822,1164430,1186846,1209406,1231678,1254094,1276270,1298830,1321054,1343854,1366318,1388926,1411630,1433998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":490,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/canttakemyeyes/canttakemyeyes_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "27C7B1FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 228.21099999999998,
+  "mapName": "CantTakeMyEyes",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"494504\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1448253\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"642-1132\">\r\n\t\t\t\t\t<Initialization range=\"0-642\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2386718\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"642-1132\">\r\n\t\t\t\t\t<Initialization range=\"0-642\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2389407\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"642-1132\">\r\n\t\t\t\t\t<Initialization range=\"0-642\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "CantTakeMyEyes_mapContent"
+  },
+  "parentMapName": "CantTakeMyEyes",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "4A00AFFF",
+    "songColor_1B": "06002DFF",
+    "songColor_2A": "FF51CEFF",
+    "songColor_2B": "3A004BFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Can't Take My Eyes Off You",
+  "urls": {
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_AudioPreview.ogg/edb125d27eb7bffd6191ff274487127e.ogg",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_HIGH.vp8.webm/2dffb79438c8038927564bedab0915a6.webm",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_HIGH.vp9.webm/d2ba81e3a29d56e8d938974d3a0cf3d9.webm",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_LOW.vp8.webm/99e8966a631f19e00cdbd8de1ab94bdc.webm",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_LOW.vp9.webm/eb4d8e41daa9ae2fd73d9b62e59b8d99.webm",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_MID.vp8.webm/3e3b1925e57bd0ccdc6e562ed4b4d1de.webm",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_MID.vp9.webm/725af0e06d6e796a4871171b78bfc8d2.webm",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_ULTRA.vp8.webm/a1d9d1f267fdb4c4674cf1f1acbc5cb8.webm",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_ULTRA.vp9.webm/b5f05f3f66e6f54ee10ed7ac70deeb7c.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "e2fed738e09a5d6d87803537507c91e2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/ps4/CantTakeMyEyes_MAIN_SCENE_ORBIS.zip/e2fed738e09a5d6d87803537507c91e2.zip",
+      "version": 8
+    },
+    "pc": {
+      "md5": "64bdadd5c6196d5f1627b4c0c4ca7472",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/pc/CantTakeMyEyes_MAIN_SCENE_PC.zip/64bdadd5c6196d5f1627b4c0c4ca7472.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "b5323b5a94df3eab3815b859eb63b416",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/wiiu/CantTakeMyEyes_MAIN_SCENE_WIIU.zip/b5323b5a94df3eab3815b859eb63b416.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "8fda5f42f12785bdb063336c15aab234",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CantTakeMyEyes/nx/CantTakeMyEyes_MAIN_SCENE_NX.zip/8fda5f42f12785bdb063336c15aab234.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

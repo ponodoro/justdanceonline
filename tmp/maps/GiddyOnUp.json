@@ -1,0 +1,107 @@
+{
+  "artist": "Laura Bell Bundy",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/ps4/GiddyOnUp_banner_bkg.tga.ckd/fd7bc5ac9fd156c92c331054326586a6.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/ps4/GiddyOnUp_Coach_1.tga.ckd/427d6f1452c22fe85b47643f855c3c7c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/ps4/GiddyOnUp_Cover_Generic.tga.ckd/d0405ea7141a76c7d5beb016aaabc551.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/GiddyOnUp_Cover_1024.png/a7f71990e6436d5a0e9449ee15d34172.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/ps4/GiddyOnUp_Cover_Online.tga.ckd/42efa3a3ea2af7509601e5b50cc138a7.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/ps4/GiddyOnUp_Cover_AlbumBkg.tga.ckd/b632b539c05ff928c2f78440fc79b476.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/ps4/GiddyOnUp_Cover_AlbumCoach.tga.ckd/eee131ca9f73afc9deffb9190d9d060b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/GiddyOnUp_Coach_1_Phone.png/bf088ca5f05534e9de58dd3d374d6f69.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/GiddyOnUp_Cover_Phone.jpg/b28ca559965b9028896084b7127650e5.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/GiddyOnUp_VideoPreview.webm/d98387f426538115ca7a8bc2e6ac8bbf.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/ps4/GiddyOnUp_map_bkg.tga.ckd/df125b24f15fd2cc60e866de918ac65e.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/nx/GiddyOnUp_banner_bkg.tga.ckd/30973175dcba319f7ce752125c6b43a6.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/nx/GiddyOnUp_Coach_1.tga.ckd/2a1578c795dee44fb637623ba975cf62.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/nx/GiddyOnUp_Cover_Generic.tga.ckd/4b1014b25c6066f86ff2a306a0cb1436.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/GiddyOnUp_Cover_1024.png/a7f71990e6436d5a0e9449ee15d34172.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/nx/GiddyOnUp_Cover_Online.tga.ckd/bea9362cbf4e0f4a5dec5935625462e2.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/nx/GiddyOnUp_Cover_AlbumBkg.tga.ckd/c527aaaa8f13df552cd37d1fff74f3ef.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/nx/GiddyOnUp_Cover_AlbumCoach.tga.ckd/79c64571f3ff671a70c48c851fa984f1.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/nx/GiddyOnUp_map_bkg.tga.ckd/5f8a24c1571dc537c3998d237ae113f4.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/GiddyOnUp_Coach_1_Phone.png/bf088ca5f05534e9de58dd3d374d6f69.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/GiddyOnUp_Cover_Phone.jpg/b28ca559965b9028896084b7127650e5.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/GiddyOnUp_VideoPreview.webm/d98387f426538115ca7a8bc2e6ac8bbf.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26666,53332,79997,106663,133328,159994,186660,213325,239991,266656,293322,319987,346653,373319,399984,426650,453315,479981,506646,533312,559978,586643,613309,639974,666640,693306,719971,746637,773302,799968,826633,853299,879965,906630,933296,959961,986627,1013292,1039958,1066624,1093289,1119955,1146620,1173286,1199951,1226617,1253283,1279948,1306614,1333279,1359945,1386611,1413276,1439942],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":384,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":54,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/giddyonup/giddyonup_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0172F2FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 213.571,
+  "mapName": "GiddyOnUp",
+  "mapPreviewMpd": {
+    "videoEncoding": {
+      "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"498527\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1264120\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1271961\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1272061\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+      "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"668425\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1522447\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"3004399\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5820860\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+    }
+  },
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "GiddyOnUp_mapContent"
+  },
+  "parentMapName": "GiddyOnUp",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "EAA942FF",
+    "songColor_1B": "BD345DFF",
+    "songColor_2A": "4691E7FF",
+    "songColor_2B": "2392CAFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Giddy On Up (Giddy On Out)",
+  "urls": {
+    "jmcs://jd-contents/GiddyOnUp/GiddyOnUp_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/GiddyOnUp_AudioPreview.ogg/8da882a93624fb1ce0d3b212041ba206.ogg",
+    "jmcs://jd-contents/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_HIGH.vp8.webm/83d2007eb6bf5d7ae2949c2fdcb1ee4f.webm",
+    "jmcs://jd-contents/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_HIGH.vp9.webm/a4480350e5b59977ed703c5bb33a2c2d.webm",
+    "jmcs://jd-contents/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_LOW.vp8.webm/ff6f96b434a87fea93168afec429a703.webm",
+    "jmcs://jd-contents/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_LOW.vp9.webm/607a481f0cc623ba679c583fe8dce185.webm",
+    "jmcs://jd-contents/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_MID.vp8.webm/ced31de9ec88f59db17d6efd0c639dc4.webm",
+    "jmcs://jd-contents/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_MID.vp9.webm/733c3184689133a87fb72db42a7bd8cf.webm",
+    "jmcs://jd-contents/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_ULTRA.vp8.webm/9037e63e03dbcd7ce35744eca6909463.webm",
+    "jmcs://jd-contents/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/GiddyOnUp_MapPreviewNoSoundCrop_ULTRA.vp9.webm/83d7e76219b46451803fa9c44bbb7b5d.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "e9ac506c1c51c38beb7c8b6334cbc436",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/pc/GiddyOnUp_MAIN_SCENE_PC.zip/e9ac506c1c51c38beb7c8b6334cbc436.zip",
+      "version": 11
+    },
+    "wiiu": {
+      "md5": "",
+      "version": 0
+    },
+    "nx": {
+      "md5": "e203687fe757edf8b26dd9c6b8215121",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/nx/GiddyOnUp_MAIN_SCENE_NX.zip/e203687fe757edf8b26dd9c6b8215121.zip",
+      "version": 22
+    },
+    "orbis": {
+      "md5": "29fe79a05bca5bde4be7e997a5a4881b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GiddyOnUp/ps4/GiddyOnUp_MAIN_SCENE_ORBIS.zip/29fe79a05bca5bde4be7e997a5a4881b.zip",
+      "version": 22
+    }
+  },
+  "mapType": "jdu"
+}

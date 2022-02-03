@@ -1,0 +1,119 @@
+{
+  "artist": "Daddy Yankee",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/ps4/Shaky_banner_bkg.tga.ckd/324c58e70cf9892bc4d174aa7c1c6887.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/ps4/Shaky_Coach_1.tga.ckd/6965592f59c525eafc815381dfc241e2.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/ps4/Shaky_Cover_Generic.tga.ckd/f5a0b2d2af5a9575d49486f0e70acccb.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_Cover_1024.png/a3e2df00e066b785e39ea3e8a9ec7b10.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/ps4/Shaky_Cover_Online.tga.ckd/4424911bd22a4e16c5aea99c4377909a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/ps4/Shaky_Cover_AlbumBkg.tga.ckd/a79d302d4a38ec5da3708e85be2089f7.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/ps4/Shaky_Cover_AlbumCoach.tga.ckd/612d0eea92ea9a37a1c2b7f9c66f559f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_Coach_1_Phone.png/13c5b66c575bb8c3bc79cc840c20db7d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_Cover_Phone.jpg/3362b8ebcc9baae0fb1d4a18fd4e300b.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/ps4/Shaky_map_bkg.tga.ckd/6225aac73f88a5d4f92da3074fdd4bd2.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/nx/Shaky_banner_bkg.tga.ckd/e672511378bdcd06c97019f7b0ae55fb.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/nx/Shaky_Coach_1.tga.ckd/f2b2e1a71749a2d172de18c0246b40f7.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/nx/Shaky_Cover_Generic.tga.ckd/9d411131cdb4cd56a4108930062e90bf.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_Cover_1024.png/a3e2df00e066b785e39ea3e8a9ec7b10.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/nx/Shaky_Cover_Online.tga.ckd/418e849312cd7904c3149d4343776ca5.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/nx/Shaky_Cover_AlbumBkg.tga.ckd/602b90835535625d626db96e20c49aeb.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/nx/Shaky_Cover_AlbumCoach.tga.ckd/ecedb8a8a034f4bdd4aed76397bff63d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_Coach_1_Phone.png/13c5b66c575bb8c3bc79cc840c20db7d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_Cover_Phone.jpg/3362b8ebcc9baae0fb1d4a18fd4e300b.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/nx/Shaky_map_bkg.tga.ckd/60d4dd1bc547fb0587604f68c31f58bf.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_banner_bkg.jpg/0526159bde051aefc72040249a9fae23.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_Coach_1.png/9412858a8feb09745bdf65f590540507.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_Cover_Generic.jpg/26889f0bc408a650463ebc72ae26cc55.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_Cover_1024.png/a3e2df00e066b785e39ea3e8a9ec7b10.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_Cover_Online.jpg/3362b8ebcc9baae0fb1d4a18fd4e300b.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_Cover_AlbumBkg.jpg/c98ee00f59d375394b9663b1ec703fc2.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_Cover_AlbumCoach.png/d9dc93d1c3d3814072538efbc1935a18.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_Coach_1_Phone.png/13c5b66c575bb8c3bc79cc840c20db7d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_Cover_Phone.jpg/3362b8ebcc9baae0fb1d4a18fd4e300b.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,32736,65472,98208,130896,163631,196367,229103,261839,294527,327263,359999,392735,425471,458207,490895,523631,556367,589103,621839,654527,687263,719999,752735,785471,818207,850894,883630,916366,949102,981838,1014526,1047262,1079998,1112734,1145470,1178206,1210894,1243630,1276366,1309102,1341838,1374526,1407262,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":274,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":44,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/shaky/shaky_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Ramon Ayala, Urbani Mota and Luis Romero. Published by Los Cangris Inc. (ASCAP) c/o EMI April Music (Canada) Ltd. (SOCAN) / Kobalt Music Services America Inc (KMSA) obo EVO Black Music (BMI) / Urbani Music Publishing (ASCAP). All rights reserved. Used with permission. Courtesy of El Cartel Records under license from Universal Music Enterprises. All rights of the producer and other right holders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "CE45ADFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 190.909,
+  "mapName": "Shaky",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495518\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Shaky/Shaky_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"617-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-617\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1325703\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Shaky/Shaky_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1387476\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Shaky/Shaky_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1387886\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Shaky/Shaky_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "Shaky_mapContent"
+  },
+  "parentMapName": "Shaky",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "3BE1F7F9",
+    "songColor_1B": "2347A3FF",
+    "songColor_2A": "9DD0F9FF",
+    "songColor_2B": "9EDCF7FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Shaky Shaky",
+  "urls": {
+    "jmcs://jd-contents/Shaky/Shaky_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_AudioPreview.ogg/5a53834bbabff6deac000986a8d3643a.ogg",
+    "jmcs://jd-contents/Shaky/Shaky_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_MapPreviewNoSoundCrop_HIGH.vp8.webm/897a500e477e31a4b2df35a10b88e87a.webm",
+    "jmcs://jd-contents/Shaky/Shaky_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_MapPreviewNoSoundCrop_HIGH.vp9.webm/ccaa57d562a4f1ba106419f1510f2014.webm",
+    "jmcs://jd-contents/Shaky/Shaky_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_MapPreviewNoSoundCrop_LOW.vp8.webm/573bfd87fc2288ee1c50eb392c9af877.webm",
+    "jmcs://jd-contents/Shaky/Shaky_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_MapPreviewNoSoundCrop_LOW.vp9.webm/25773afc26c608b77703bb27db7988f5.webm",
+    "jmcs://jd-contents/Shaky/Shaky_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_MapPreviewNoSoundCrop_MID.vp8.webm/429ad833c979f9ffafc8cea1c7d4ba3e.webm",
+    "jmcs://jd-contents/Shaky/Shaky_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_MapPreviewNoSoundCrop_MID.vp9.webm/4390d46a54d8a490f72db068e1201087.webm",
+    "jmcs://jd-contents/Shaky/Shaky_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_MapPreviewNoSoundCrop_ULTRA.vp8.webm/6d0993499640158fea7de4ccbb01e9bb.webm",
+    "jmcs://jd-contents/Shaky/Shaky_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Shaky/Shaky_MapPreviewNoSoundCrop_ULTRA.vp9.webm/ed797988984a0569e8aba8262f96eb89.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "6b76cde13cac700228044bf77c8084d6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Shaky/ps4/Shaky_MAIN_SCENE_ORBIS.zip/6b76cde13cac700228044bf77c8084d6.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "61af4f2041c475bb26752f9b14a15211",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Shaky/nx/Shaky_MAIN_SCENE_NX.zip/61af4f2041c475bb26752f9b14a15211.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "0907fede57720ae0c129e6c0074321a6",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/shaky_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

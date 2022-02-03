@@ -1,0 +1,116 @@
+{
+  "artist": "Chris Brown",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/ggp/FineChina_banner_bkg.tga.ckd/2a647850a39c23f781fde6c01c34cbed.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/ggp/FineChina_Coach_1.tga.ckd/ddf8493ad42ec7730d4867c7487d22ce.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/ggp/FineChina_Cover_Generic.tga.ckd/b189da54d842c1998f8f660a62137d70.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_Cover_1024.png/bfd45d7f30cff0a901decdbdacfc135e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/ggp/FineChina_Cover_Online.tga.ckd/1d35b7e397c2ef53ab617f37a36d7b07.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/ggp/FineChina_Cover_AlbumBkg.tga.ckd/9989681ca481fcf77245e82e26f27605.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/ggp/FineChina_Cover_AlbumCoach.tga.ckd/b98b850bf3836bee0e711f7f2defc767.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_Coach_1_Phone.png/0be8f9f901912ceabc26f4f06ee4acd0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_Cover_Phone.jpg/b103efb45b5a1f9e686822a8a7303095.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_VideoPreview.webm/e96b15be712d80165c15fc2596490c91.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/ggp/FineChina_map_bkg.tga.ckd/d61ee6fe6d5316ca138585caab29fd3a.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/nx/FineChina_banner_bkg.tga.ckd/81fcc738371fe681ae237cb4d37ebab8.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/nx/FineChina_Coach_1.tga.ckd/6589cd56ee3d019a40059dcf38e0434f.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/nx/FineChina_Cover_Generic.tga.ckd/49ed813c45e2b26a41ea972f8c15f748.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_Cover_1024.png/bfd45d7f30cff0a901decdbdacfc135e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/nx/FineChina_Cover_Online.tga.ckd/8e75927ef8c41f6d313ab97a68ad26a5.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/nx/FineChina_Cover_AlbumBkg.tga.ckd/a37987c70f76cceb016d8377cd050570.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/nx/FineChina_Cover_AlbumCoach.tga.ckd/12c449bda5d5e897e4453a32c6d84f61.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/nx/FineChina_map_bkg.tga.ckd/86bffe1c624f3442e91ec3bfa62f64d2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_Coach_1_Phone.png/0be8f9f901912ceabc26f4f06ee4acd0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_Cover_Phone.jpg/b103efb45b5a1f9e686822a8a7303095.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_VideoPreview.webm/e96b15be712d80165c15fc2596490c91.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/wiiu/FineChina_banner_bkg.tga.ckd/88923b2c5589ede309fa3857fa173a73.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/wiiu/FineChina_Coach_1.tga.ckd/1fd065b2df2b380e5d99fca926fbdd71.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/wiiu/FineChina_Cover_Generic.tga.ckd/8122e696a45400336eaf0fee5be154c1.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_Cover_1024.png/bfd45d7f30cff0a901decdbdacfc135e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/wiiu/FineChina_Cover_Online.tga.ckd/af5c43d207d1145e166de3501253d35b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/wiiu/FineChina_Cover_AlbumBkg.tga.ckd/47a87186c26473e86222bcd9abb222dd.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/wiiu/FineChina_Cover_AlbumCoach.tga.ckd/69d13ac2535452c160e928f18adc6ba2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_Coach_1_Phone.png/0be8f9f901912ceabc26f4f06ee4acd0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_Cover_Phone.jpg/b103efb45b5a1f9e686822a8a7303095.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_VideoPreview.webm/e96b15be712d80165c15fc2596490c91.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27696,55392,83088,110784,138432,166128,193824,221520,249216,276912,304608,332304,360000,387696,415392,443088,470784,498432,526128,553824,581520,609216,636912,664607,692303,719999,747695,775391,803087,830783,858431,886127,913823,941519,969215,996911,1024607,1052303,1079999,1107695,1135391,1163087,1190783,1218431,1246127,1273823,1301519,1329215,1356911,1384607,1412303,1439999],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":357,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":52,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/finechina/finechina_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0099CCFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 207.69299999999998,
+  "mapName": "FineChina",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495905\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FineChina/FineChina_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1467110\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FineChina/FineChina_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1934066\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FineChina/FineChina_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1934073\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FineChina/FineChina_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "FineChina_mapContent"
+  },
+  "parentMapName": "FineChina",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "E42232FF",
+    "songColor_1B": "411128FF",
+    "songColor_2A": "32897DFF",
+    "songColor_2B": "512B84FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Fine China",
+  "urls": {
+    "jmcs://jd-contents/FineChina/FineChina_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_AudioPreview.ogg/6fd98d6ca66ddd7046d01f3e1c6ccfd6.ogg",
+    "jmcs://jd-contents/FineChina/FineChina_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_MapPreviewNoSoundCrop_HIGH.vp8.webm/77553f11b815c21ea9f4a83acf2f3fd7.webm",
+    "jmcs://jd-contents/FineChina/FineChina_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_MapPreviewNoSoundCrop_HIGH.vp9.webm/3eb32cb8d8e72ad2631385dbc8cfd688.webm",
+    "jmcs://jd-contents/FineChina/FineChina_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_MapPreviewNoSoundCrop_LOW.vp8.webm/03adf39ce13fc47f7719f2e9a8d12a2b.webm",
+    "jmcs://jd-contents/FineChina/FineChina_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_MapPreviewNoSoundCrop_LOW.vp9.webm/aa49da220f8035e9fc85c8cc615db261.webm",
+    "jmcs://jd-contents/FineChina/FineChina_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_MapPreviewNoSoundCrop_MID.vp8.webm/051616900129190f08e5667cae96ad0d.webm",
+    "jmcs://jd-contents/FineChina/FineChina_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_MapPreviewNoSoundCrop_MID.vp9.webm/39a17906eb9705c3c6b5eb71f1298247.webm",
+    "jmcs://jd-contents/FineChina/FineChina_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_MapPreviewNoSoundCrop_ULTRA.vp8.webm/78b9ca864b5c5ad30fd9ed88e73b8760.webm",
+    "jmcs://jd-contents/FineChina/FineChina_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/FineChina/FineChina_MapPreviewNoSoundCrop_ULTRA.vp9.webm/6c07389cba7198d97baed0ed4c792722.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "35132d64dee0fa968634a741573bbdd6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FineChina/ps4/FineChina_MAIN_SCENE_ORBIS.zip/35132d64dee0fa968634a741573bbdd6.zip",
+      "version": 17
+    },
+    "pc": {
+      "md5": "2fa6de8180f1f1bb068eb6dc953cee44",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FineChina/pc/FineChina_MAIN_SCENE_PC.zip/2fa6de8180f1f1bb068eb6dc953cee44.zip",
+      "version": 16
+    },
+    "wiiu": {
+      "md5": "b3bd4382c4eb6c1d2dd414c8decbde9b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FineChina/wiiu/FineChina_MAIN_SCENE_WIIU.zip/b3bd4382c4eb6c1d2dd414c8decbde9b.zip",
+      "version": 16
+    },
+    "nx": {
+      "md5": "47fe7392d908ee17addb65667212cd90",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FineChina/nx/FineChina_MAIN_SCENE_NX.zip/47fe7392d908ee17addb65667212cd90.zip",
+      "version": 17
+    }
+  },
+  "mapType": "jdu"
+}

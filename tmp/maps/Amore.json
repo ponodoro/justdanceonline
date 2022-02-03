@@ -1,0 +1,114 @@
+{
+  "artist": "Emma",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_banner_bkg.jpg/1544d63a546dc06f1115c8f7310535c5.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Coach_1.png/a6221a822de55f08d824afe7d7c5f406.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Cover_Generic.jpg/db0d2e625efcd391fb57f143b3352c90.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Cover_1024.png/a56ab6fe9db00e80ab9a3ab5fec8f83f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Cover_Online.jpg/693949eff8da373c6db7a16b2263320c.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Cover_AlbumBkg.jpg/ee0a525bfe6ee26aa542eadca2325c32.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Cover_AlbumCoach.png/3ed7ce6c2e1b89aab878cc17bd388006.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Coach_1_Phone.png/562f837778e99005604ed6b0c47610a1.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Cover_Phone.jpg/693949eff8da373c6db7a16b2263320c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Amore/Amore_VideoPreview.webm/0ee2aa0f42b384cb0fccde07d4168ec6.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_banner_bkg.jpg/1544d63a546dc06f1115c8f7310535c5.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Coach_1.png/a6221a822de55f08d824afe7d7c5f406.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Cover_Generic.jpg/db0d2e625efcd391fb57f143b3352c90.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Cover_1024.png/a56ab6fe9db00e80ab9a3ab5fec8f83f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Cover_Online.jpg/693949eff8da373c6db7a16b2263320c.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Cover_AlbumBkg.jpg/ee0a525bfe6ee26aa542eadca2325c32.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Cover_AlbumCoach.png/3ed7ce6c2e1b89aab878cc17bd388006.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Coach_1_Phone.png/562f837778e99005604ed6b0c47610a1.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Cover_Phone.jpg/693949eff8da373c6db7a16b2263320c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Amore/Amore_VideoPreview.webm/0ee2aa0f42b384cb0fccde07d4168ec6.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/wiiu/Amore_banner_bkg.tga.ckd/f6bffc7758d0c0c7e27482e5f1f48a27.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/wiiu/Amore_Coach_1.tga.ckd/91c9c8d28fde4d403604aef84d064123.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/wiiu/Amore_Cover_Generic.tga.ckd/f2cf6376067559d71deed399e8a081fa.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Cover_1024.png/a56ab6fe9db00e80ab9a3ab5fec8f83f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/wiiu/Amore_Cover_Online.tga.ckd/f2cf6376067559d71deed399e8a081fa.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/wiiu/Amore_Cover_AlbumBkg.tga.ckd/a99b9392fce270f69f112c51a3639c38.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/wiiu/Amore_Cover_AlbumCoach.tga.ckd/b0f8c25b1e59e741b1999525745ef078.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Coach_1_Phone.png/562f837778e99005604ed6b0c47610a1.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Amore/Amore_Cover_Phone.jpg/693949eff8da373c6db7a16b2263320c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Amore/Amore_VideoPreview.webm/0ee2aa0f42b384cb0fccde07d4168ec6.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22152,44305,66458,88611,110764,132917,155070,177223,199376,221529,243682,265835,287988,310140,332293,354446,376599,398752,420905,443058,465211,487364,509517,531670,553823,575976,598128,620281,642434,664587,686740,708893,731046,753199,775352,797505,819658,841811,863964,886117,908269,930422,952575,974728,996881,1019034,1041187,1063340,1085493,1107646,1129799,1151952,1174105,1196257,1218410,1240563,1262716,1284869,1307022,1329175,1351328,1373481,1395634,1417787,1439940],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":471,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/amore/amore_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "1717C1FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 217.635,
+  "mapName": "Amore",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496865\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Amore/Amore_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1470819\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Amore/Amore_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1929576\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Amore/Amore_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1934244\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Amore/Amore_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "Amore_mapContent"
+  },
+  "parentMapName": "Amore",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "005884FF",
+    "songColor_1B": "00031EFF",
+    "songColor_2A": "FFE971FF",
+    "songColor_2B": "6F2D1EFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Cercavo Amore",
+  "urls": {
+    "jmcs://jd-contents/Amore/Amore_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Amore/Amore_AudioPreview.ogg/81a4c62e629fa97ae9e7d87d4d66bb74.ogg",
+    "jmcs://jd-contents/Amore/Amore_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Amore/Amore_MapPreviewNoSoundCrop_HIGH.vp8.webm/0e271057fbf650f4ebdb554163c58c0f.webm",
+    "jmcs://jd-contents/Amore/Amore_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Amore/Amore_MapPreviewNoSoundCrop_HIGH.vp9.webm/b5f9d9bd956e654a73f94ca04f901067.webm",
+    "jmcs://jd-contents/Amore/Amore_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Amore/Amore_MapPreviewNoSoundCrop_LOW.vp8.webm/b52c08322f81d6ce4fdc92760646c31e.webm",
+    "jmcs://jd-contents/Amore/Amore_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Amore/Amore_MapPreviewNoSoundCrop_LOW.vp9.webm/efc470f594ec41efa8ace543714d2e48.webm",
+    "jmcs://jd-contents/Amore/Amore_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Amore/Amore_MapPreviewNoSoundCrop_MID.vp8.webm/6f5c8a88ae3d2e8203f8bf3cd2fa10fc.webm",
+    "jmcs://jd-contents/Amore/Amore_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Amore/Amore_MapPreviewNoSoundCrop_MID.vp9.webm/2c336487f4ef1f17db939d0e48468c0d.webm",
+    "jmcs://jd-contents/Amore/Amore_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Amore/Amore_MapPreviewNoSoundCrop_ULTRA.vp8.webm/106e3af1966cdac01fb3dee449476617.webm",
+    "jmcs://jd-contents/Amore/Amore_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Amore/Amore_MapPreviewNoSoundCrop_ULTRA.vp9.webm/b8bb3ad8c35c22b82766429e99e709d8.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "ab8ec23e940af92b15b51e50b107f0ee",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Amore/ps4/Amore_MAIN_SCENE_ORBIS.zip/ab8ec23e940af92b15b51e50b107f0ee.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "99c4d25d4c073bb23fa6f05c412865c0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Amore/pc/Amore_MAIN_SCENE_PC.zip/99c4d25d4c073bb23fa6f05c412865c0.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "16d14b2206fc7b9462ccc4f4d14bc1a1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Amore/wiiu/Amore_MAIN_SCENE_WIIU.zip/16d14b2206fc7b9462ccc4f4d14bc1a1.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "442c2f10acbf749d2b365722e10ea786",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Amore/nx/Amore_MAIN_SCENE_NX.zip/442c2f10acbf749d2b365722e10ea786.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu"
+}

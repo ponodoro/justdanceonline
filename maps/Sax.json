@@ -1,0 +1,124 @@
+{
+  "artist": "Fleur East",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_banner_bkg.jpg/941d04df5252ca53e6044c1ac53a8301.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Coach_1.png/d2c4948010b4c5117dc96c2588d46932.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Coach_2.png/895cdfe56eac2cbcde4bc3be8b2386af.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Coach_3.png/0410b749c31d8417f3f99b9653f17b52.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Cover_Generic.jpg/3eb39e4f1376fdc0962597ba84d082f6.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Cover_1024.png/f9dda249090dc230a7a8196ea6e37f92.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Cover_Online.jpg/e03347d0b3fd178c09f531c6dd5bc8f0.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Cover_AlbumBkg.jpg/ba0c8b91d154115b72b695e3ed81a673.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Cover_AlbumCoach.png/d2fcc5e49c80c142c26f1368ed3962a2.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Coach_1_Phone.png/0b95e414c26104c66f301ce844e6df1b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Coach_2_Phone.png/3c31fd886aa8c3fd723cc2d7b888c3f0.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Coach_3_Phone.png/e20c8ba47a2754347129c751f4e42ebf.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Cover_Phone.jpg/e03347d0b3fd178c09f531c6dd5bc8f0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Sax/Sax_VideoPreview.webm/a2f4c74e66353d32a322ac724fcaa229.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_banner_bkg.jpg/941d04df5252ca53e6044c1ac53a8301.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Coach_1.png/d2c4948010b4c5117dc96c2588d46932.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Coach_2.png/895cdfe56eac2cbcde4bc3be8b2386af.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Coach_3.png/0410b749c31d8417f3f99b9653f17b52.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Cover_Generic.jpg/3eb39e4f1376fdc0962597ba84d082f6.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Cover_1024.png/f9dda249090dc230a7a8196ea6e37f92.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Cover_Online.jpg/e03347d0b3fd178c09f531c6dd5bc8f0.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Cover_AlbumBkg.jpg/ba0c8b91d154115b72b695e3ed81a673.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Cover_AlbumCoach.png/d2fcc5e49c80c142c26f1368ed3962a2.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Coach_1_Phone.png/0b95e414c26104c66f301ce844e6df1b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Coach_2_Phone.png/3c31fd886aa8c3fd723cc2d7b888c3f0.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Coach_3_Phone.png/e20c8ba47a2754347129c751f4e42ebf.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Cover_Phone.jpg/e03347d0b3fd178c09f531c6dd5bc8f0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Sax/Sax_VideoPreview.webm/a2f4c74e66353d32a322ac724fcaa229.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/wiiu/Sax_banner_bkg.tga.ckd/413b549df4ebdfb04a88fff4784ff594.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/wiiu/Sax_Coach_1.tga.ckd/3439ab75437a1eb292ff6e6a8cacb209.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/wiiu/Sax_Coach_2.tga.ckd/14d5d1e389fa3f49b0c743664aaaf9b1.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/wiiu/Sax_Coach_3.tga.ckd/0bda0e275050819e4ddfe27f158ca42c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/wiiu/Sax_Cover_Generic.tga.ckd/a37e870f9e7cbf1163664e9a1784fe3f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Cover_1024.png/f9dda249090dc230a7a8196ea6e37f92.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/wiiu/Sax_Cover_Online.tga.ckd/b5f81fd7dae72c1c2a9074bb826c8cfb.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/wiiu/Sax_Cover_AlbumBkg.tga.ckd/96bc994cd7389f8fa1df533d57327f0b.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/wiiu/Sax_Cover_AlbumCoach.tga.ckd/8d13cea2fe0d2e2c42ba84923f550a2d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Coach_1_Phone.png/0b95e414c26104c66f301ce844e6df1b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Coach_2_Phone.png/3c31fd886aa8c3fd723cc2d7b888c3f0.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Coach_3_Phone.png/e20c8ba47a2754347129c751f4e42ebf.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Sax/Sax_Cover_Phone.jpg/e03347d0b3fd178c09f531c6dd5bc8f0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Sax/Sax_VideoPreview.webm/a2f4c74e66353d32a322ac724fcaa229.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24384,48816,73200,97632,122016,146448,170832,195264,219648,244080,268464,292896,317280,341712,366096,390528,414912,439296,463728,488112,512544,536928,561360,585744,610176,634560,658992,683376,707808,732192,756624,781008,805440,829824,854256,878640,903072,927456,951840,976272,1000656,1025088,1049472,1073904,1098288,1122720,1147104,1171536,1195920,1220352,1244736,1269168,1293552,1317984,1342368,1366800,1391184,1415568],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":435,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":58,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/sax/sax_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by James John Abrahart Jr., Edvard Foerre Erfjord, Henrik Barman Michelsen, Camille Purcell and Fleur East. Published by San Remo Music Limited (BMI) administered by Songs of Kobalt Music Publishing / Published by BMG Gold Songs. All rights administered by BMG Rights Managements (US) LLC. / 360 Music on behalf of itself and Jayded Ink Publishing / Sony/ATV Music Publishing Allegro (UK) (PRS) c/o Sony/ATV Music Publishing Canada (SOCAN). All rights reserved. Used with permission. Courtesy of SME UK Ltd. By arrangement with Sony Music Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FD7A07FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 223.861,
+  "mapName": "Sax",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497104\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sax/Sax_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"613-1102\">\r\n\t\t\t\t\t<Initialization range=\"0-613\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481836\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sax/Sax_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\r\n\t\t\t\t\t<Initialization range=\"0-614\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2936934\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sax/Sax_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\r\n\t\t\t\t\t<Initialization range=\"0-614\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4815570\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sax/Sax_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"614-1107\">\r\n\t\t\t\t\t<Initialization range=\"0-614\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "Sax_mapContent"
+  },
+  "parentMapName": "Sax",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "2EB5FFFF",
+    "songColor_1B": "090033FF",
+    "songColor_2A": "FF7B7BFF",
+    "songColor_2B": "69016FFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Sax",
+  "urls": {
+    "jmcs://jd-contents/Sax/Sax_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Sax/Sax_AudioPreview.ogg/e3f48d42342eece0738e7336193d0d57.ogg",
+    "jmcs://jd-contents/Sax/Sax_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Sax/Sax_MapPreviewNoSoundCrop_HIGH.vp8.webm/02971e8368c1d1e3e1a945e1d07cf60a.webm",
+    "jmcs://jd-contents/Sax/Sax_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Sax/Sax_MapPreviewNoSoundCrop_HIGH.vp9.webm/9b0bf858977f9b970aba2414450a26d8.webm",
+    "jmcs://jd-contents/Sax/Sax_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Sax/Sax_MapPreviewNoSoundCrop_LOW.vp8.webm/b5fd049587981d434bd805cb0c6fd4fd.webm",
+    "jmcs://jd-contents/Sax/Sax_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Sax/Sax_MapPreviewNoSoundCrop_LOW.vp9.webm/703d4c8ce26c146c528122df6303aa18.webm",
+    "jmcs://jd-contents/Sax/Sax_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Sax/Sax_MapPreviewNoSoundCrop_MID.vp8.webm/bc7ca981251c4a139ad5667a0c1e727a.webm",
+    "jmcs://jd-contents/Sax/Sax_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Sax/Sax_MapPreviewNoSoundCrop_MID.vp9.webm/953a84caada90c54b8a5f1199bc74c1b.webm",
+    "jmcs://jd-contents/Sax/Sax_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Sax/Sax_MapPreviewNoSoundCrop_ULTRA.vp8.webm/23ee3d4ee23dd98dffd8a6659ce8c3ec.webm",
+    "jmcs://jd-contents/Sax/Sax_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Sax/Sax_MapPreviewNoSoundCrop_ULTRA.vp9.webm/d3af899e3e7a6d8b92e853ea40f24f57.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "092d0a352bf7a7f08da5f21d500ff293",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Sax/ps4/Sax_MAIN_SCENE_ORBIS.zip/092d0a352bf7a7f08da5f21d500ff293.zip",
+      "version": 6
+    },
+    "nx": {
+      "md5": "7b33d0857ae88b58ecbc395b573e3549",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Sax/nx/Sax_MAIN_SCENE_NX.zip/7b33d0857ae88b58ecbc395b573e3549.zip",
+      "version": 4
+    },
+    "pc": {
+      "md5": "be6921e11cd9e0c1e0809b604e2a7762",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Sax/pc/Sax_MAIN_SCENE_PC.zip/be6921e11cd9e0c1e0809b604e2a7762.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "a8054771f3f619f5b1c0c7af6b3a8b0d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Sax/wiiu/Sax_MAIN_SCENE_WIIU.zip/a8054771f3f619f5b1c0c7af6b3a8b0d.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

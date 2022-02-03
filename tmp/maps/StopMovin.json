@@ -1,0 +1,112 @@
+{
+  "artist": "Royal Republic",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/ps4/StopMovin_banner_bkg.tga.ckd/afca6ef6fe3a96e5e6f9cd1616ac9c6a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/ps4/StopMovin_Coach_1.tga.ckd/ce7a999701b625ea400f9fced9d83230.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/ps4/StopMovin_Coach_2.tga.ckd/bee359bfcd20553c2e0dfe76b31adae0.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/ps4/StopMovin_Coach_3.tga.ckd/ccd0e5d3069903ca95dcd5eef7226036.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/ps4/StopMovin_Cover_Generic.tga.ckd/5b6ba99d5c5627f67e277d7b538fb2ba.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_Cover_1024.png/0430c7b39e712be7a980a08412863f6c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/ps4/StopMovin_Cover_Online.tga.ckd/06425fb45ccb6c1e2d10315fc553b954.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/ps4/StopMovin_Cover_AlbumBkg.tga.ckd/770a0a3af8d4a35a1426b49a0dc82e98.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/ps4/StopMovin_Cover_AlbumCoach.tga.ckd/ea0507dfa2baea697be457af5deb14db.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_Coach_1_Phone.png/a35d961f79bb7d036311895a739ef30a.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_Coach_2_Phone.png/d23d001675d1d8c0b88c893dc366e32f.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_Coach_3_Phone.png/6dc41af085d812e667dc81a8a415fbaa.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_Cover_Phone.jpg/d7b81f070184c44492e6a32cb16d7fc7.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/ps4/StopMovin_map_bkg.tga.ckd/80b9bdf417023cfaba8ff20117cec777.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/nx/StopMovin_banner_bkg.tga.ckd/49511b8a1e0e3ded07ef47eb0dd6752d.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/nx/StopMovin_Coach_1.tga.ckd/814bd947ce51776a07d4a473b8b36963.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/nx/StopMovin_Coach_2.tga.ckd/f4e8158be4440be134abfac1a5213a75.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/nx/StopMovin_Coach_3.tga.ckd/c84ddfdec33ac36ba344d137ceaa8b6b.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/nx/StopMovin_Cover_Generic.tga.ckd/a556afc976b2df54aa090a53789f8beb.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_Cover_1024.png/0430c7b39e712be7a980a08412863f6c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/nx/StopMovin_Cover_Online.tga.ckd/f1133c9f9eac600d4caa96dd98f2f5ab.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/nx/StopMovin_Cover_AlbumBkg.tga.ckd/0a9b67953608cb42dad695be5c2c0347.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/nx/StopMovin_Cover_AlbumCoach.tga.ckd/a9f934a00ed65bb84d57387587582b55.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_Coach_1_Phone.png/a35d961f79bb7d036311895a739ef30a.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_Coach_2_Phone.png/d23d001675d1d8c0b88c893dc366e32f.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_Coach_3_Phone.png/6dc41af085d812e667dc81a8a415fbaa.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_Cover_Phone.jpg/d7b81f070184c44492e6a32cb16d7fc7.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/StopMovin/nx/StopMovin_map_bkg.tga.ckd/4a4a66521e8d87fa8f5cd8872baf3673.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,17888,35777,53665,71553,89441,107329,125218,143106,160994,178882,196770,214659,232547,250435,268323,286211,304100,321988,339876,357764,375652,393541,411429,429317,447205,465093,482981,500870,518758,536646,554534,572422,590311,608199,626087,643975,661863,679752,697640,715528,733416,751304,769193,787081,804969,822857,840745,858634,876522,894410,912298,930186,948075,965963,983851,1001739,1019627,1037516,1055404,1073292,1091180,1109068,1126957,1144845,1162733,1180621,1198509,1216398,1234286,1252174,1270062,1287950,1305839,1323727,1341615,1359503,1377391,1395280,1413168,1431056],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":-4,\"endBeat\":477,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":80,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/stopmovin/stopmovin_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Jonas Kristoffer Almen, Per Rickard Hendrik Andreasson, John Carl Adam Grahn, Hannes Viktor Hugo Irengard and Michael Tibes. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing GmbH. / Halbe Miete Publishing. Courtesy of Nuclear Blast GmbH. ",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "E1227BFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 179.255,
+  "mapName": "StopMovin",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496406\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/StopMovin/StopMovin_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1477909\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/StopMovin/StopMovin_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"600-1090\">\r\n\t\t\t\t\t<Initialization range=\"0-600\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2853539\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/StopMovin/StopMovin_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"600-1090\">\r\n\t\t\t\t\t<Initialization range=\"0-600\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4838529\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/StopMovin/StopMovin_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"600-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-600\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "StopMovin_mapContent"
+  },
+  "parentMapName": "StopMovin",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "D56A00FF",
+    "songColor_1B": "FFC268FF",
+    "songColor_2A": "5775D7FF",
+    "songColor_2B": "975DFFFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Stop Movin'",
+  "urls": {
+    "jmcs://jd-contents/StopMovin/StopMovin_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_AudioPreview.ogg/aa21f653642b5adc951dca2396752155.ogg",
+    "jmcs://jd-contents/StopMovin/StopMovin_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_MapPreviewNoSoundCrop_HIGH.vp8.webm/2bbca0e3f9a960397dad5551a1d7aedd.webm",
+    "jmcs://jd-contents/StopMovin/StopMovin_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_MapPreviewNoSoundCrop_HIGH.vp9.webm/7db51d80a5979eb09882fe1e8610de2f.webm",
+    "jmcs://jd-contents/StopMovin/StopMovin_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_MapPreviewNoSoundCrop_LOW.vp8.webm/deec55d92bca4ec6f3642730654f9f91.webm",
+    "jmcs://jd-contents/StopMovin/StopMovin_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_MapPreviewNoSoundCrop_LOW.vp9.webm/c148e864fc28a7f7823ba7053ae6a79e.webm",
+    "jmcs://jd-contents/StopMovin/StopMovin_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_MapPreviewNoSoundCrop_MID.vp8.webm/e706115a54253f776b2ef13e56cc35d0.webm",
+    "jmcs://jd-contents/StopMovin/StopMovin_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_MapPreviewNoSoundCrop_MID.vp9.webm/3cd13134d239e51fafdd1fa91312aaee.webm",
+    "jmcs://jd-contents/StopMovin/StopMovin_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_MapPreviewNoSoundCrop_ULTRA.vp8.webm/8c13ae5befe585ace44a8cbfef55e0f6.webm",
+    "jmcs://jd-contents/StopMovin/StopMovin_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/StopMovin/StopMovin_MapPreviewNoSoundCrop_ULTRA.vp9.webm/afbc148916b78fffe2a6a6611d43ac93.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "6b0dc2f483130881923523ddd96e9a22",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/StopMovin/ps4/StopMovin_MAIN_SCENE_ORBIS.zip/6b0dc2f483130881923523ddd96e9a22.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "7b8f6676349a73bf02492f5d12d4a2ee",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/StopMovin/nx/StopMovin_MAIN_SCENE_NX.zip/7b8f6676349a73bf02492f5d12d4a2ee.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "65f0680b398a391a3ff261b66833a1d7",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/StopMovin/pc/65f0680b398a391a3ff261b66833a1d7.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

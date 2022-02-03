@@ -1,0 +1,117 @@
+{
+  "artist": "O'Callaghan's Orchestra",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/ps4/SaintPatrickKids_banner_bkg.tga.ckd/91b38c615c90df85ad430874f7c7105f.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/ps4/SaintPatrickKids_Coach_1.tga.ckd/7ef2ea41cdcb265a2f929eca68ee8c58.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/ps4/SaintPatrickKids_Coach_2.tga.ckd/2235d2debe435787c0f15e747a9d2211.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/ps4/SaintPatrickKids_Cover_Generic.tga.ckd/7a427e96dc2eed8cff50ab696ac58c16.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Cover_1024.png/363661dcac959ab44b3cf94247e17d6d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/ps4/SaintPatrickKids_Cover_Online.tga.ckd/bef9c2f1c317f24a80e98fcb72239972.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/ps4/SaintPatrickKids_Cover_AlbumBkg.tga.ckd/9477735f6ee62b1b74c990f657ae3a81.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/ps4/SaintPatrickKids_Cover_AlbumCoach.tga.ckd/8a4269b4c9e20a485fe17030e2d17e5c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Coach_1_Phone.png/9eb041b10b46476eed8f54529f48637f.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Coach_2_Phone.png/e59306758197bafa6fba97b24cbc0fe8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Cover_Phone.jpg/0ee9bf83d2f904c0994abbf5cea9ce1c.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/ps4/SaintPatrickKids_map_bkg.tga.ckd/a8f07598a61fbe6b9e9f826885ad5336.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/nx/SaintPatrickKids_banner_bkg.tga.ckd/dc3c0517186b44f68c5f799ae97f3810.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/nx/SaintPatrickKids_Coach_1.tga.ckd/0315f708055af532035c2f85de86140a.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/nx/SaintPatrickKids_Coach_2.tga.ckd/d215f8e068c4ddf14e3d170b6f12cdf7.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/nx/SaintPatrickKids_Cover_Generic.tga.ckd/43e6e93c78ffb574b2c0636937ecf35b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Cover_1024.png/363661dcac959ab44b3cf94247e17d6d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/nx/SaintPatrickKids_Cover_Online.tga.ckd/70cecaa86e00930b03fbead96a87d856.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/nx/SaintPatrickKids_Cover_AlbumBkg.tga.ckd/c479554381965b9cc3a596687921e9a7.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/nx/SaintPatrickKids_Cover_AlbumCoach.tga.ckd/cb6954128f23f551191d3e2a1a120ffc.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Coach_1_Phone.png/9eb041b10b46476eed8f54529f48637f.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Coach_2_Phone.png/e59306758197bafa6fba97b24cbc0fe8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Cover_Phone.jpg/0ee9bf83d2f904c0994abbf5cea9ce1c.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/nx/SaintPatrickKids_map_bkg.tga.ckd/da6d3f680a1e242011ee3ef1de81200c.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_banner_bkg.jpg/c1368886a3703f3b7cac55d469838b44.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Coach_1.png/f7b62bf37de8ecdba01baa134e6a78ee.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Coach_2.png/551362f3585e4a59373e42fdbc66b5a7.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Cover_Generic.jpg/b6f48781b4dc613cb0f06a8e370c4417.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Cover_1024.png/363661dcac959ab44b3cf94247e17d6d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Cover_Online.jpg/0ee9bf83d2f904c0994abbf5cea9ce1c.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Cover_AlbumBkg.jpg/455f6ebb48aa15c0cf314b7b9ba23ff8.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Cover_AlbumCoach.png/00fc529699b7f3a4c923bdb9c7642914.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Coach_1_Phone.png/9eb041b10b46476eed8f54529f48637f.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Coach_2_Phone.png/e59306758197bafa6fba97b24cbc0fe8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_Cover_Phone.jpg/0ee9bf83d2f904c0994abbf5cea9ce1c.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25056,50112,75120,100176,125232,150288,175344,200352,225408,250464,275520,300576,325632,350640,375696,400751,425807,450863,475919,500927,525983,551039,576095,601151,626207,651215,676271,701327,726383,751439,776447,801503,826559,851615,876671,901727,926735,951791,976847,1001903,1026959,1052015,1077023,1102079,1127135,1152191,1177246,1202302,1227310,1252366,1277422,1302478,1327534,1352590,1377598,1402654,1427710],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":223,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/saintpatrickkids/saintpatrickkids_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Composed and produced by Steve Ouimette. Published by Ubisoft Music Publishing. Violin: Éanán Patterson. Whistle: Alan Doherty. Pipes: Maitiú Ó Casaide. Acoustic Guitar Bouzouoki, Bodhran: Steve Ouimette. Mixed by Rob Beaton. Additional engineering: Éanán Patterson. Music supervision: Manu Bachet and Alkis Argyriadis. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 120.08,
+  "mapName": "SaintPatrickKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496419\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"613-1102\">\r\n\t\t\t\t\t<Initialization range=\"0-613\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481048\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\r\n\t\t\t\t\t<Initialization range=\"0-614\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2785905\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\r\n\t\t\t\t\t<Initialization range=\"0-614\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2965942\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\r\n\t\t\t\t\t<Initialization range=\"0-614\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "SaintPatrickKids_mapContent"
+  },
+  "parentMapName": "SaintPatrickKids",
+  "skuIds": [
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "00D4FFFF",
+    "songColor_1B": "071B42FF",
+    "songColor_2A": "0073F7FF",
+    "songColor_2B": "636611FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "subscribedSong",
+    "ExcludedFromWDF",
+    "ExcludedFromWDF-PC",
+    "JDChinaRemoved"
+  ],
+  "title": "Irish Meadow Dance",
+  "urls": {
+    "jmcs://jd-contents/SaintPatrickKids/SaintPatrickKids_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_AudioPreview.ogg/2c279e6171a4b05c2f4fad183641d5a2.ogg",
+    "jmcs://jd-contents/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/ffca7f24003e76b1bf491799f29a8bd9.webm",
+    "jmcs://jd-contents/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/bcd8f165d7ef72f2c6fe894a4997bc84.webm",
+    "jmcs://jd-contents/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_LOW.vp8.webm/16d1af61aacf8a290ca38a96ab6a01dc.webm",
+    "jmcs://jd-contents/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_LOW.vp9.webm/34c01c3e1abfbab74afd2bb84fd823cf.webm",
+    "jmcs://jd-contents/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_MID.vp8.webm/9730e6c8e8d519989f4d9d8d6cc9c08f.webm",
+    "jmcs://jd-contents/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_MID.vp9.webm/9c6cfccbfd621bbf939e48061e98d02d.webm",
+    "jmcs://jd-contents/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/9ae1da908fdcdf8815f229c6b2fd4241.webm",
+    "jmcs://jd-contents/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/SaintPatrickKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5ed8e06d61f7d728e3332a51684f44c5.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "461e7472fceae904c950481245d721ac",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/ps4/SaintPatrickKids_MAIN_SCENE_ORBIS.zip/461e7472fceae904c950481245d721ac.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "c6032eff77b4174c54ff5217d4a9a621",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SaintPatrickKids/nx/SaintPatrickKids_MAIN_SCENE_NX.zip/c6032eff77b4174c54ff5217d4a9a621.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939
+}

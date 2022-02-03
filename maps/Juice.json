@@ -1,0 +1,98 @@
+{
+  "artist": "Lizzo",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_banner_bkg.jpg/1b261b85d5427821f8948db5adc69040.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Coach_1.png/96210a1ce4ab3ccb7baa72a2c733f797.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Coach_2.png/0a0df4af88aabbb50eef893c1eac460e.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Coach_3.png/c595611a22ead5adc02d6d59a775e878.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Cover_Generic.jpg/6c306c69245b1010716dc1d4d266886e.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Cover_Online.jpg/e8bf6cc5bb1b460787c332deb4a75802.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Cover_AlbumBkg.jpg/e850f7ddd9ffd9aee0298aaefd8016e9.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Cover_AlbumCoach.png/b0ce290827f571124e59c962731c4b48.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Coach_1_Phone.png/21fc3460f99125ff5701d885f5f37feb.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Coach_2_Phone.png/a8f732a339c59a86ae5bf496b0a414a7.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Coach_3_Phone.png/581e4150a2b7bbdac3df307723b9816d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Cover_Phone.jpg/e8bf6cc5bb1b460787c332deb4a75802.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_banner_bkg.jpg/1b261b85d5427821f8948db5adc69040.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Coach_1.png/96210a1ce4ab3ccb7baa72a2c733f797.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Coach_2.png/0a0df4af88aabbb50eef893c1eac460e.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Coach_3.png/c595611a22ead5adc02d6d59a775e878.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Cover_Generic.jpg/6c306c69245b1010716dc1d4d266886e.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Cover_Online.jpg/e8bf6cc5bb1b460787c332deb4a75802.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Cover_AlbumBkg.jpg/e850f7ddd9ffd9aee0298aaefd8016e9.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Cover_AlbumCoach.png/b0ce290827f571124e59c962731c4b48.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Coach_1_Phone.png/21fc3460f99125ff5701d885f5f37feb.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Coach_2_Phone.png/a8f732a339c59a86ae5bf496b0a414a7.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Coach_3_Phone.png/581e4150a2b7bbdac3df307723b9816d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Juice/Juice_Cover_Phone.jpg/e8bf6cc5bb1b460787c332deb4a75802.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24000,48000,72000,96000,120000,144000,168000,192000,216000,240000,264000,288000,312000,336000,360000,384000,408000,432000,456000,480000,504000,528000,552000,576000,600000,624000,648000,672000,696000,720000,744000,768000,792000,816000,840000,864000,888000,912000,936000,960000,984000,1008000,1032000,1056000,1080000,1104000,1128000,1152000,1176000,1200000,1224000,1248000,1272000,1296000,1320000,1344000,1368000,1392000,1416000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":391,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/juice/juice_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Lizzo, Eric Frederic, Ricky Reed, Theron Makiel Thomas, Sam Sumser and Sean Small. Published by Lizzo Music Publishing (BMI). All rights on behalf of Lizzo Music Publishing administered by Warner-Tamerlane Publishing Corp. / BMG Gold Songs (ASCAP) obo Jim Daddy Smoke Ya (ASCAP). All rights administered by BMG Rights Management (US) LLC. / Prescription Songs [ASCAP] / Sean Small Music (ASCAP). Administered by Kobalt Music Publishing America, Inc. / Frederic and Ried Music (BMI) / Songs From The Boardwalk (BMI) / Sony/ATV Songs LLC (BMI). All rights reserved. Used with permission. Courtesy of Atlantic Recording Corporation. By arrangement with Warner Music Group Film & TV Licensing.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "E6157DFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 198,
+  "mapName": "Juice",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497548\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Juice/Juice_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483505\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Juice/Juice_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2946014\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Juice/Juice_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4210121\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Juice/Juice_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "Juice_mapContent"
+  },
+  "parentMapName": "Juice",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "DF2AABFF",
+    "songColor_1B": "F7DDD1FF",
+    "songColor_2A": "441E74FF",
+    "songColor_2B": "F7D122FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Juice",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "21024866431cca86586902a259cb8589",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Juice/ps4/Juice_MAIN_SCENE_ORBIS.zip/21024866431cca86586902a259cb8589.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "547b18f0689ffdb8dcd6acf7d6cac101",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Juice/nx/Juice_MAIN_SCENE_NX.zip/547b18f0689ffdb8dcd6acf7d6cac101.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "1042a086255d6d26f1bd964c19e8a76c",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Juice/pc/1042a086255d6d26f1bd964c19e8a76c.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/Juice/Juice_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/Juice/Juice_AudioPreview.ogg/1dc1d07569ded2a0c2dc445b58378ab9.ogg",
+    "jmcs://jd-contents/Juice/Juice_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Juice/Juice_MapPreviewNoSoundCrop_HIGH.vp8.webm/3a7183a31f6d63d732a12dfa32cc7997.webm",
+    "jmcs://jd-contents/Juice/Juice_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Juice/Juice_MapPreviewNoSoundCrop_HIGH.vp9.webm/984df117f809345010283f0b571d1174.webm",
+    "jmcs://jd-contents/Juice/Juice_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Juice/Juice_MapPreviewNoSoundCrop_LOW.vp8.webm/c3393d6ca77dee89386e68d062e837a2.webm",
+    "jmcs://jd-contents/Juice/Juice_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Juice/Juice_MapPreviewNoSoundCrop_LOW.vp9.webm/2145f391709131ddae38444341400d38.webm",
+    "jmcs://jd-contents/Juice/Juice_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Juice/Juice_MapPreviewNoSoundCrop_MID.vp8.webm/1bcc00f8bc25670a062698fcd1493ccc.webm",
+    "jmcs://jd-contents/Juice/Juice_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Juice/Juice_MapPreviewNoSoundCrop_MID.vp9.webm/60375889c26855e06cfc589d4a23c184.webm",
+    "jmcs://jd-contents/Juice/Juice_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Juice/Juice_MapPreviewNoSoundCrop_ULTRA.vp8.webm/962476f63459c6c6874d8faab93add9f.webm",
+    "jmcs://jd-contents/Juice/Juice_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Juice/Juice_MapPreviewNoSoundCrop_ULTRA.vp9.webm/dd0fca3b6d2f414b41ad47ae7f5509ca.webm"
+  }
+}

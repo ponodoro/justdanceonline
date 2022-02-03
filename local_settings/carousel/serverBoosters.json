@@ -1,0 +1,13 @@
+{
+    "__class": "Category",
+    "title": {
+        "en": "Server Boosters-Only"
+    },
+    "filter": {
+        "type": "serverBoosterOnly",
+        "serverBoosterOnly": true
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}

@@ -1,0 +1,39 @@
+{
+  "__class": "OnlineBlock",
+  "artist": "JDMSirtaki Artist",
+  "assets": {
+    "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSirtaki/pc/JDMSirtaki_Coach_1.tga.ckd/b9394a9a7b10216ab8de50ec9acfb123.ckd",
+    "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSirtaki/pc/JDMSirtaki_Cover_Generic.tga.ckd/13e1b00254df9838f3ccd6b715fe0ae9.ckd",
+    "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSirtaki/pc/JDMSirtaki_Cover_Online.tga.ckd/0a4cdb9b9b800a9427eecc3c80d12349.ckd"
+  },
+  "coachCount": 1,
+  "credits": "CREDITS STRING TO BE FILLED",
+  "customTypeNameId": -1,
+  "difficulty": 2,
+  "jdmAttributes": [
+    "JDM_WhatTheFuck"
+  ],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 29.215999999999998,
+  "mapName": "JDMSirtaki",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "JDMSirtaki_mapContent"
+  },
+  "parentMapName": "JDMSirtaki",
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 6,
+  "tags": [
+    "DanceMachine"
+  ],
+  "title": "JDMSirtaki",
+  "isPlayable": false
+}

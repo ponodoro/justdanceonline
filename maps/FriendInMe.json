@@ -1,0 +1,90 @@
+{
+  "artist": "Disney•Pixar's Toy Story",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FriendInMe/FriendInMe_banner_bkg.jpg/771027302bc09b4e2ce43313fc932359.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FriendInMe/FriendInMe_Coach_1.png/3cacefcca7aea4d5b7c399823177c4b9.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FriendInMe/FriendInMe_Cover_Generic.jpg/29383aaf908eb632ddd6a7928e197638.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FriendInMe/FriendInMe_Cover_Online.jpg/31afed8ff068d770bea7c94021f389e7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FriendInMe/FriendInMe_Cover_AlbumBkg.jpg/ce2056128022d1d0657da12deebde537.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FriendInMe/FriendInMe_Cover_AlbumCoach.png/c875cbc6ffd9a6fc2c8f2d856a07afd4.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FriendInMe/FriendInMe_Coach_1_Phone.png/dc7f1d7fc9a307fd4487ffdfe8fafef7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FriendInMe/FriendInMe_Cover_Phone.jpg/31afed8ff068d770bea7c94021f389e7.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FriendInMe/FriendInMe_banner_bkg.jpg/771027302bc09b4e2ce43313fc932359.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FriendInMe/FriendInMe_Coach_1.png/3cacefcca7aea4d5b7c399823177c4b9.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FriendInMe/FriendInMe_Cover_Generic.jpg/29383aaf908eb632ddd6a7928e197638.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FriendInMe/FriendInMe_Cover_Online.jpg/31afed8ff068d770bea7c94021f389e7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FriendInMe/FriendInMe_Cover_AlbumBkg.jpg/ce2056128022d1d0657da12deebde537.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FriendInMe/FriendInMe_Cover_AlbumCoach.png/c875cbc6ffd9a6fc2c8f2d856a07afd4.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FriendInMe/FriendInMe_Coach_1_Phone.png/dc7f1d7fc9a307fd4487ffdfe8fafef7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FriendInMe/FriendInMe_Cover_Phone.jpg/31afed8ff068d770bea7c94021f389e7.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24828,49655,74483,99311,124138,148966,173793,198621,223449,248276,273104,297931,322759,347586,372414,397242,422069,446897,471724,496552,521380,546207,571035,595862,620690,645517,670345,695173,720000,744828,769655,794483,819311,844138,868966,893793,918621,943449,968276,993104,1017931,1042759,1067586,1092414,1117242,1142069,1166897,1191724,1216552,1241380,1266207,1291035,1315862,1340690,1365517,1390345,1415173],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-11,\"endBeat\":242,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/friendinme/friendinme_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Randy Newman. (P) 1995 Published by Walt Disney Music Company (ASCAP) All Rights Reserved. Courtesy of Walt Disney Records.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "ED18C4FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 130.862,
+  "mapName": "FriendInMe",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496178\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1388506\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1468637\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1469119\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "FriendInMe_mapContent"
+  },
+  "parentMapName": "FriendInMe",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "E2BFA9FF",
+    "songColor_1B": "75A3D3FF",
+    "songColor_2A": "331F23FF",
+    "songColor_2B": "95603EFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "You've Got A Friend In Me",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "bdd4edb11e7ea6a83567f54f658e7560",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/FriendInMe/ps4/FriendInMe_MAIN_SCENE_ORBIS.zip/bdd4edb11e7ea6a83567f54f658e7560.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "d108f554914f052272796eec8b203428",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/FriendInMe/nx/FriendInMe_MAIN_SCENE_NX.zip/d108f554914f052272796eec8b203428.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "bc07cf9ba4e397937dc0f99899970f4a",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/FriendInMe/pc/bc07cf9ba4e397937dc0f99899970f4a.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/FriendInMe/FriendInMe_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/FriendInMe/FriendInMe_AudioPreview.ogg/c9ab26c848643889f2cfddf2d8edf45f.ogg",
+    "jmcs://jd-contents/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_HIGH.vp8.webm/710c2f819f6b75f67538f6e06b0439f0.webm",
+    "jmcs://jd-contents/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_HIGH.vp9.webm/96d5451021bd3e1c2a688711d1ceeb8f.webm",
+    "jmcs://jd-contents/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_LOW.vp8.webm/2bad7e105962ee8258d82624188f582a.webm",
+    "jmcs://jd-contents/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_LOW.vp9.webm/9ba1559d39abba14c36a2e865eb4b9c2.webm",
+    "jmcs://jd-contents/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_MID.vp8.webm/c52adcc586eea30e970a4bcede5ca750.webm",
+    "jmcs://jd-contents/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_MID.vp9.webm/ef7a8f63d76dd42d02d9b1fb02d7a062.webm",
+    "jmcs://jd-contents/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm/bc00c182ce2611cacc9ecb9efc05c3b9.webm",
+    "jmcs://jd-contents/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FriendInMe/FriendInMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm/cdb10e59adeaa85d5ace6de88424eac4.webm"
+  }
+}

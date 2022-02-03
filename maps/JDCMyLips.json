@@ -1,0 +1,91 @@
+{
+  "artist": "Wu Mo Chou (Momo Wu)",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_map_bkg.png"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/textures/JDCMyLips_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20832,41712,62544,83424,104304,125184,146016,166896,187776,208656,229536,250368,271248,292128,313008,333888,354720,375600,396480,417360,438192,459072,479952,500832,521712,542544,563424,584304,605184,626016,646896,667776,688656,709536,730368,751248,772128,793008,813888,834720,855600,876480,897360,918192,939072,959952,980832,1001712,1022544,1043424,1064304,1085184,1106016,1126896,1147776,1168656,1189536,1210368,1231248,1252128,1273008,1293888,1314720,1335600,1356480,1377360,1398192,1419072,1439952,1460832,1481712],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":394,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":72,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/JDCMyLips/JDCMyLips_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 100,
+  "mapName": "JDCMyLips",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648516\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCMyLips/JDCMyLips_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"589-1079\">\r\n\t\t\t\t\t<Initialization range=\"0-589\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493390\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCMyLips/JDCMyLips_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1075\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2981978\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCMyLips/JDCMyLips_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1075\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5946162\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCMyLips/JDCMyLips_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1082\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4514,
+  "packages": {
+    "mapContent": "JDCMyLips_mapContent"
+  },
+  "parentMapName": "JDCMyLips",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "E11661FF",
+    "songColor_1B": "F11E84FF",
+    "songColor_2A": "13C1E3FF",
+    "songColor_2B": "2D8F7FFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main"
+  ],
+  "title": "Da Meili (My Lips)",
+  "urls": {
+    "jmcs://jd-contents/JDCMyLips/JDCMyLips_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/JDCMyLips_AudioPreview.ogg",
+    "jmcs://jd-contents/JDCMyLips/JDCMyLips_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/nx/JDCMyLips_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/JDCMyLips/JDCMyLips_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/nx/JDCMyLips_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/JDCMyLips/JDCMyLips_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/nx/JDCMyLips_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/JDCMyLips/JDCMyLips_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/nx/JDCMyLips_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/JDCMyLips/JDCMyLips_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/nx/JDCMyLips_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/JDCMyLips/JDCMyLips_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/nx/JDCMyLips_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/JDCMyLips/JDCMyLips_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/nx/JDCMyLips_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/JDCMyLips/JDCMyLips_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/nx/JDCMyLips_VideoPreview.vp8.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "54bc05f69ae6f8cad097a26c4ca24d49",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/pc/54bc05f69ae6f8cad097a26c4ca24d49.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "a300aa6ea000b1e87c11823cca8fa58a",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCMyLips/nx/a300aa6ea000b1e87c11823cca8fa58a.zip",
+      "version": 1
+    }
+  },
+  "mapType": "custom"
+}

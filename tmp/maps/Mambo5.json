@@ -1,0 +1,120 @@
+{
+  "artist": "The Lemon Cubes",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_banner_bkg.jpg/8f0f714b140f55fb51440ac4dcbf5e28.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Coach_1.png/7436ea207f70043b6ca13bfa5fc87c06.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Coach_2.png/aa596f2d7f4a91c2468bc6876ed7cacc.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Cover_Generic.jpg/4ef0ec02adc2b75a3789a925fb7836fd.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Cover_1024.png/c1a670f26488d7ea7890565a93e9f5f4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Cover_Online.jpg/0612879883147da5d7795d525a710968.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Cover_AlbumBkg.jpg/3af0a4de2204ae750fd61ad4886a92fd.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Cover_AlbumCoach.png/b51dfb22a2e7cec65b0054d772534eae.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Coach_1_Phone.png/c3e9c6b3e13b9e3d55fc1cc1a476aea3.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Coach_2_Phone.png/c215c2d595e373721babe2e4eea59528.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Cover_Phone.jpg/0612879883147da5d7795d525a710968.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_VideoPreview.webm/695c0058fd90631113a1b76a72b04c39.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_banner_bkg.jpg/8f0f714b140f55fb51440ac4dcbf5e28.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Coach_1.png/7436ea207f70043b6ca13bfa5fc87c06.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Coach_2.png/aa596f2d7f4a91c2468bc6876ed7cacc.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Cover_Generic.jpg/4ef0ec02adc2b75a3789a925fb7836fd.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Cover_1024.png/c1a670f26488d7ea7890565a93e9f5f4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Cover_Online.jpg/0612879883147da5d7795d525a710968.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Cover_AlbumBkg.jpg/3af0a4de2204ae750fd61ad4886a92fd.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Cover_AlbumCoach.png/b51dfb22a2e7cec65b0054d772534eae.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Coach_1_Phone.png/c3e9c6b3e13b9e3d55fc1cc1a476aea3.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Coach_2_Phone.png/c215c2d595e373721babe2e4eea59528.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Cover_Phone.jpg/0612879883147da5d7795d525a710968.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_VideoPreview.webm/695c0058fd90631113a1b76a72b04c39.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/wiiu/Mambo5_banner_bkg.tga.ckd/1b79f2906cbd67eea9af1b460b7ce3a7.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/wiiu/Mambo5_Coach_1.tga.ckd/df9255f1c47d9c1698892c85832c4ae8.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/wiiu/Mambo5_Coach_2.tga.ckd/69b6de2f4ee326b0352e913447061e62.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/wiiu/Mambo5_Cover_Generic.tga.ckd/2a5d7034961781254aa01f64343fab75.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Cover_1024.png/c1a670f26488d7ea7890565a93e9f5f4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/wiiu/Mambo5_Cover_Online.tga.ckd/e6bf0e6de3293b4a32b252922b8165fc.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/wiiu/Mambo5_Cover_AlbumBkg.tga.ckd/4c5acb5c68659ad56785fc4b7351cb30.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/wiiu/Mambo5_Cover_AlbumCoach.tga.ckd/8e8d0947fd090656a92c84e46c2b12f8.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Coach_1_Phone.png/c3e9c6b3e13b9e3d55fc1cc1a476aea3.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Coach_2_Phone.png/c215c2d595e373721babe2e4eea59528.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_Cover_Phone.jpg/0612879883147da5d7795d525a710968.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_VideoPreview.webm/695c0058fd90631113a1b76a72b04c39.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,33103,66206,99308,132411,165513,198616,231718,264821,297924,331026,364129,397231,430334,463437,496539,529642,562744,595847,628949,662052,695155,728257,761360,794462,827565,860668,893770,926873,959975,993078,1026180,1059283,1092386,1125488,1158591,1191693,1224796,1257899,1291001,1324104,1357206,1390309,1423411],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":305,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":43,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/mambo5/mambo5_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF1953FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 211.016,
+  "mapName": "Mambo5",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497009\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Mambo5/Mambo5_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1476393\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Mambo5/Mambo5_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2534690\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Mambo5/Mambo5_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2535348\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Mambo5/Mambo5_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "Mambo5_mapContent"
+  },
+  "parentMapName": "Mambo5",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "E5003AFF",
+    "songColor_1B": "1D042BFF",
+    "songColor_2A": "E86DF1FF",
+    "songColor_2B": "1F0439FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Mambo No. 5 (A Little Bit Of Monika)",
+  "urls": {
+    "jmcs://jd-contents/Mambo5/Mambo5_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_AudioPreview.ogg/f3c8407fdb7bf0ce64c93eab1399774c.ogg",
+    "jmcs://jd-contents/Mambo5/Mambo5_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_MapPreviewNoSoundCrop_HIGH.vp8.webm/4747b233a1b0b0756975a2cfd4415c3e.webm",
+    "jmcs://jd-contents/Mambo5/Mambo5_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_MapPreviewNoSoundCrop_HIGH.vp9.webm/40580f6336a7c6c014385c787b45e6dc.webm",
+    "jmcs://jd-contents/Mambo5/Mambo5_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_MapPreviewNoSoundCrop_LOW.vp8.webm/e5ebfe8bb74f83a72de2a7fc68896995.webm",
+    "jmcs://jd-contents/Mambo5/Mambo5_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_MapPreviewNoSoundCrop_LOW.vp9.webm/aabbf48fbe1ed2f41a9efeb18a390059.webm",
+    "jmcs://jd-contents/Mambo5/Mambo5_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_MapPreviewNoSoundCrop_MID.vp8.webm/1fe47f5007fe0819bf50021297b67150.webm",
+    "jmcs://jd-contents/Mambo5/Mambo5_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_MapPreviewNoSoundCrop_MID.vp9.webm/67784adf47f59d8993a10d9a2e0003ef.webm",
+    "jmcs://jd-contents/Mambo5/Mambo5_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_MapPreviewNoSoundCrop_ULTRA.vp8.webm/69d13516003a7dd232c67f35a92b8777.webm",
+    "jmcs://jd-contents/Mambo5/Mambo5_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Mambo5/Mambo5_MapPreviewNoSoundCrop_ULTRA.vp9.webm/039afc0a049065121847416834bc112b.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "af1c2ada69141963703aec2e5d08b624",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Mambo5/ps4/Mambo5_MAIN_SCENE_ORBIS.zip/af1c2ada69141963703aec2e5d08b624.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "dc3bd70b6ab690a451cfcbb69c4693e4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Mambo5/pc/Mambo5_MAIN_SCENE_PC.zip/dc3bd70b6ab690a451cfcbb69c4693e4.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "4d531d528920b038f891c7929b3a1f84",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Mambo5/wiiu/Mambo5_MAIN_SCENE_WIIU.zip/4d531d528920b038f891c7929b3a1f84.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "d8095071485daed11ad7417c6cb4fdcc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Mambo5/nx/Mambo5_MAIN_SCENE_NX.zip/d8095071485daed11ad7417c6cb4fdcc.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,124 @@
+{
+  "artist": "Top Culture",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/ps4/Footloose_banner_bkg.tga.ckd/1ae614031a167f36de085995ffac327d.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/ps4/Footloose_Coach_1.tga.ckd/1e5badf3f35dac037a632400df16ea7f.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/ps4/Footloose_Cover_Generic.tga.ckd/2802ee8ba2e7d223350b9bdecf418866.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_Cover_1024.png/95f645ea080350fc2b1777a3e1d78352.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/ps4/Footloose_Cover_Online.tga.ckd/f29caed6ba43b29a9aecad6e29a053bc.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/ps4/Footloose_Cover_AlbumBkg.tga.ckd/6bc5ab306977777d30743c4e1befaef9.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/ps4/Footloose_Cover_AlbumCoach.tga.ckd/8da05df65cdb4235dbbfbf47d5be6d7a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_Coach_1_Phone.png/ba0a9cbcce448410c6c28d661be2d6ed.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_Cover_Phone.jpg/2b21819cdbf68148166b5b5fb76e1bc2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_VideoPreview.webm/a243ea730b3e2bedadd04e1efa87495c.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/ps4/Footloose_map_bkg.tga.ckd/76d4cd14508e5d44d812aa860afb7ab9.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/nx/Footloose_banner_bkg.tga.ckd/be07fa270a6b7c8d3de150097a2463b0.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/nx/Footloose_Coach_1.tga.ckd/1c2ea5c6fa080b007427c5fff5edbaad.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/nx/Footloose_Cover_Generic.tga.ckd/053fb0e26c148a7da6396d8e940711cd.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_Cover_1024.png/95f645ea080350fc2b1777a3e1d78352.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/nx/Footloose_Cover_Online.tga.ckd/718d9f9cbaf11316a7bef8183cd41308.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/nx/Footloose_Cover_AlbumBkg.tga.ckd/8cb2f35599d30633e0febaa47cbdb8ad.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/nx/Footloose_Cover_AlbumCoach.tga.ckd/16fcd38864373aa4df850e3b4daa29e4.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_Coach_1_Phone.png/ba0a9cbcce448410c6c28d661be2d6ed.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_Cover_Phone.jpg/2b21819cdbf68148166b5b5fb76e1bc2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_VideoPreview.webm/a243ea730b3e2bedadd04e1efa87495c.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/nx/Footloose_map_bkg.tga.ckd/5d220cd0b23b0e189024c4429e1d9017.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/wiiu/Footloose_banner_bkg.tga.ckd/1801e3a4495c86e7c9fcf859857bb7cb.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/wiiu/Footloose_Coach_1.tga.ckd/a17c369d0372d5f72bb13d593f53f7de.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/wiiu/Footloose_Cover_Generic.tga.ckd/7d7c3d5be0f249a01f7cb511ecf3d5e9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_Cover_1024.png/95f645ea080350fc2b1777a3e1d78352.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/wiiu/Footloose_Cover_Online.tga.ckd/d2528d8cb2bbd38db63c4d43afaffe26.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/wiiu/Footloose_Cover_AlbumBkg.tga.ckd/996d2999aa3c4218ea26c5526a0a045b.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/wiiu/Footloose_Cover_AlbumCoach.tga.ckd/87bb46c7a5cd5e09a681f343a7c73a04.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_Coach_1_Phone.png/ba0a9cbcce448410c6c28d661be2d6ed.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_Cover_Phone.jpg/2b21819cdbf68148166b5b5fb76e1bc2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_VideoPreview.webm/a243ea730b3e2bedadd04e1efa87495c.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,16560,33120,51024,67104,83664,100176,116736,133296,149856,166320,182736,199200,215664,232128,248544,265008,281472,297936,314352,330960,347568,364176,380784,397392,413952,430560,447168,463776,480384,496992,513552,530160,546768,563376,579985,596545,613057,629617,646177,662737,679297,695857,712369,728929,745489,762049,778609,795169,811681,828241,844801,861361,877921,894481,910993,927553,943969,960385,976849,993265,1009681,1026097,1042513,1059697,1076881,1093489,1110049,1126657,1143265,1159874,1176482,1193522,1210610,1226498,1242434,1258946,1275458,1292018,1308530,1325042,1341554,1358066,1374626,1391138,1407650,1424162],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-19,\"endBeat\":529,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":86,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/footloose/footloose_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Kenny Loggins and Dean Pitchford. Published by Famous Music LLC. / Sony/ATV Harmony (ASCAP) and Ensign Music / Sony/ATV Melody (BMI) both c/o Sony/ATV Music Publishing Canada (SOCAN). All rights reserved. Used with permission. Produced, Engineered and Mixed by Steve Ouimette. Vocals: Marc Martel. Additional Vocals: Steve Ouimette, Brian Chapman. Programming, Drums, Keys, Guitars: Steve Ouimette. Bass: J.R. McNeely. Music Supervision - Manu Bachet. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F78E2BFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 188.826,
+  "mapName": "Footloose",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496552\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Footloose/Footloose_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1443942\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Footloose/Footloose_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2151113\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Footloose/Footloose_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2150467\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Footloose/Footloose_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "Footloose_mapContent"
+  },
+  "parentMapName": "Footloose",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "670066FF",
+    "songColor_1B": "3C0035FF",
+    "songColor_2A": "66D1D1FF",
+    "songColor_2B": "E5B6EAFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "Sweat",
+    "subscribedSong",
+    "CnUnlimited2018"
+  ],
+  "title": "Footloose",
+  "urls": {
+    "jmcs://jd-contents/Footloose/Footloose_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_AudioPreview.ogg/eb0b7d637df2754f84abc9f359f2720c.ogg",
+    "jmcs://jd-contents/Footloose/Footloose_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_MapPreviewNoSoundCrop_HIGH.vp8.webm/51bff56743f7262252efd26f39efa4da.webm",
+    "jmcs://jd-contents/Footloose/Footloose_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_MapPreviewNoSoundCrop_HIGH.vp9.webm/d788f22f6e6552f4beb7a1cb35849724.webm",
+    "jmcs://jd-contents/Footloose/Footloose_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_MapPreviewNoSoundCrop_LOW.vp8.webm/7aac23bbbd8a78de6783b4950fc97887.webm",
+    "jmcs://jd-contents/Footloose/Footloose_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_MapPreviewNoSoundCrop_LOW.vp9.webm/148582e34b434c399287131b5de0fd04.webm",
+    "jmcs://jd-contents/Footloose/Footloose_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_MapPreviewNoSoundCrop_MID.vp8.webm/a958a8d06a162ea9fafabae943428ba9.webm",
+    "jmcs://jd-contents/Footloose/Footloose_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_MapPreviewNoSoundCrop_MID.vp9.webm/4c03ff7dd8a0f2e53f4d3189d8e95d5f.webm",
+    "jmcs://jd-contents/Footloose/Footloose_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_MapPreviewNoSoundCrop_ULTRA.vp8.webm/6e1423179d4cc0085e3dff40062b524c.webm",
+    "jmcs://jd-contents/Footloose/Footloose_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Footloose/Footloose_MapPreviewNoSoundCrop_ULTRA.vp9.webm/aea8a6da3c33fa01003965a7580754d7.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "9623f434ec132fdb0b4521511b8be62c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Footloose/ps4/Footloose_MAIN_SCENE_ORBIS.zip/9623f434ec132fdb0b4521511b8be62c.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "2248115e5ee8bed7836d59521f96f52e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Footloose/nx/Footloose_MAIN_SCENE_NX.zip/2248115e5ee8bed7836d59521f96f52e.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "5159af59405276662d685233dd3b2d5b",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Footloose/pc/5159af59405276662d685233dd3b2d5b.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "c756be21fe70d3efdcb8eaceb920bdc3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Footloose/wiiu/Footloose_MAIN_SCENE_WIIU.zip/c756be21fe70d3efdcb8eaceb920bdc3.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

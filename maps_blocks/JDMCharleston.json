@@ -1,0 +1,31 @@
+{
+  "__class": "OnlineBlock",
+  "artist": "JDMCharleston Artist",
+  "coachCount": 1,
+  "credits": "CREDITS STRING TO BE FILLED",
+  "customTypeNameId": -1,
+  "difficulty": 2,
+  "jdmAttributes": [
+    "JDM_Speed"
+  ],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 28.297,
+  "mapName": "JDMCharleston",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "parentMapName": "JDMCharleston",
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 6,
+  "tags": [
+    "DanceMachine"
+  ],
+  "title": "JDMCharleston",
+  "isPlayable": false
+}

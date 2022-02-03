@@ -1,0 +1,72 @@
+{
+    "__class": "JD_CarouselContent",
+    "categories": [{
+        "__class": "Category",
+        "title": "Just Dance 2018",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "items": [{
+            "__class": "Item",
+            "offlineRequest": {
+                "__class": "JD_CarouselMapRequest",
+                "actionListName": "ftue",
+                "actionListNameUpsell": "_None",
+                "excludedTags": ["Alternate", "DOUBLESCORING", "KidsOnly"],
+                "includedTags": ["Main"],
+                "offline": true,
+                "order": "title",
+                "originalJDVersion": 2018,
+                "uuid": "20159b9f-c439-4745-965f-a56c19e43c00"
+            }
+        }]
+    }, {
+        "__class": "Category",
+        "title": "Coming up next!",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "items": [{
+            "__class": "Item",
+            "offlineRequest": {
+                "__class": "JD_CarouselItemRequest",
+                "itemList": "teaser_ftue",
+                "offline": true,
+                "uuid": "80846f30-94d0-41e1-ad14-8b91565e6140"
+            }
+        }]
+    }],
+    "actionLists": {
+        "ftue": {
+            "__class": "ActionList",
+            "actions": [{
+                "__class": "Action",
+                "bannerContext": "family_rival",
+                "bannerTheme": "DEFAULT",
+                "bannerType": "song",
+                "title": "Dance",
+                "type": "play-song"
+            }],
+            "itemType": "map"
+        },
+        "teaser_ftue": {
+            "__class": "ActionList",
+            "actions": [{
+                "__class": "Action",
+                "bannerType": "TEASER",
+                "title": "",
+                "type": "teaser"
+            }],
+            "itemType": "map"
+        }
+    },
+    "songItemLists": {
+        "teaser_ftue": {
+            "__class": "SongItemList",
+            "actionListName": "teaser_ftue",
+            "list": [{
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "teaser_item"
+            }]
+        }
+    }
+}

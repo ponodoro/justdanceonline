@@ -1,0 +1,119 @@
+{
+  "artist": "Ultraclub 90",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/ps4/Rhythm_banner_bkg.tga.ckd/3df12223b0a37a1a90afaec98fbcb318.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/ps4/Rhythm_Coach_1.tga.ckd/9ef5b84a5f314423c4f1baaa2b0dbebc.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/ps4/Rhythm_Cover_Generic.tga.ckd/e301966d001dfb53c7987883286e89d0.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_Cover_1024.png/02a4872cdafdd65989ed445016499fcd.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/ps4/Rhythm_Cover_Online.tga.ckd/4242dbc9b6576763f0c29e008aebefcf.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/ps4/Rhythm_Cover_AlbumBkg.tga.ckd/02e691d363f1e47df16922a6bbc94084.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/ps4/Rhythm_Cover_AlbumCoach.tga.ckd/0bf81aca33851a8d4c6d2ba0a934e577.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_Coach_1_Phone.png/712608aa729df898561de480799062dd.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_Cover_Phone.jpg/52312c6118f35d95513556049ea6ea0a.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/ps4/Rhythm_map_bkg.tga.ckd/1bd5c4b2f7d2d26ad060accf6bea9ae8.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/nx/Rhythm_banner_bkg.tga.ckd/0ef025a82c7131421b1da3e47d75b0fb.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/nx/Rhythm_Coach_1.tga.ckd/a1006d28d19392abf6840beca8fe8d59.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/nx/Rhythm_Cover_Generic.tga.ckd/50c4c1ecccb96015e5e5ca6a26b784c0.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_Cover_1024.png/02a4872cdafdd65989ed445016499fcd.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/nx/Rhythm_Cover_Online.tga.ckd/4beaeaafcf3d3d32cda4319b8fb2a653.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/nx/Rhythm_Cover_AlbumBkg.tga.ckd/bd42033119b5715568a8b72bcad234bb.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/nx/Rhythm_Cover_AlbumCoach.tga.ckd/c6c0f25fda989ccbc60a9e3a5bb9f46b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_Coach_1_Phone.png/712608aa729df898561de480799062dd.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_Cover_Phone.jpg/52312c6118f35d95513556049ea6ea0a.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/nx/Rhythm_map_bkg.tga.ckd/aa50002d8ac285df7572fab4e7f100f1.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_banner_bkg.jpg/44a712bc132527217bdfd33bc9316c94.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_Coach_1.png/229b58bbe99b9b2f1c4ac847b38e01c0.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_Cover_Generic.jpg/bcaded35726073dcc75b25b873cb27cf.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_Cover_1024.png/02a4872cdafdd65989ed445016499fcd.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_Cover_Online.jpg/52312c6118f35d95513556049ea6ea0a.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_Cover_AlbumBkg.jpg/6efd1ff977456b270b2b570ee1bade00.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_Cover_AlbumCoach.png/c583505a1302541ee4770a811e05d438.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_Coach_1_Phone.png/712608aa729df898561de480799062dd.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_Cover_Phone.jpg/52312c6118f35d95513556049ea6ea0a.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22560,45072,67584,90096,112608,135168,157680,180192,202704,225216,247776,270289,292801,315313,337825,360385,382897,405409,427921,450433,472993,495505,518017,540529,563089,585601,608113,630625,653137,675697,698209,720721,743233,765746,788306,810818,833330,855842,878354,900914,923426,945938,968450,990962,1013522,1036034,1058546,1081058,1103618,1126130,1148642,1171154,1193666,1216226,1238739,1261251,1283763,1306275,1328835,1351347,1373859,1396371,1418883],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":443,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/rhythm/rhythm_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Peter Wilfred Glenister, Michael Gaffey, Giorgio Spagna, Annerley Gordon, Francesco Bontempi. Produced, Engineered and Mixed by Steve Ouimette. Additional Engineering: Paddy Hill. Published by Extravagnza Publishing SRL administered by Peermusic (UK) Ltd. / INTERSONG MUSIC LTD (PRS) and EXTRAVAGANZA PUBLISHING SRL (SIAE) / BMG Firefly. All rights administered by BMG Rights Management (US) LLC. Vocals: Jenny B. Synths, Drums and Programming: Steve Ouimette. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F90891FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 209.736,
+  "mapName": "Rhythm",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497930\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rhythm/Rhythm_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1082\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480913\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rhythm/Rhythm_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\r\n\t\t\t\t\t<Initialization range=\"0-594\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2857984\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rhythm/Rhythm_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\r\n\t\t\t\t\t<Initialization range=\"0-594\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3156947\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rhythm/Rhythm_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\r\n\t\t\t\t\t<Initialization range=\"0-594\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "Rhythm_mapContent"
+  },
+  "parentMapName": "Rhythm",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "7C0143FF",
+    "songColor_1B": "3E094FFF",
+    "songColor_2A": "CC1E7DFF",
+    "songColor_2B": "8501C6FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Rhythm Of The Night",
+  "urls": {
+    "jmcs://jd-contents/Rhythm/Rhythm_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_AudioPreview.ogg/bb35d209c29a35369b15bad6776d5c9c.ogg",
+    "jmcs://jd-contents/Rhythm/Rhythm_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_MapPreviewNoSoundCrop_HIGH.vp8.webm/0c5267c81b7d071a03aa8ffcceeb1a4a.webm",
+    "jmcs://jd-contents/Rhythm/Rhythm_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_MapPreviewNoSoundCrop_HIGH.vp9.webm/81dc09623066a595f19286e3fbd9fde4.webm",
+    "jmcs://jd-contents/Rhythm/Rhythm_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_MapPreviewNoSoundCrop_LOW.vp8.webm/d516be2f18d1d718210c68e967fc9aab.webm",
+    "jmcs://jd-contents/Rhythm/Rhythm_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_MapPreviewNoSoundCrop_LOW.vp9.webm/144c5026ebae06e2b96acf5cebb0938e.webm",
+    "jmcs://jd-contents/Rhythm/Rhythm_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_MapPreviewNoSoundCrop_MID.vp8.webm/31ea50f1c84ea921d879852fc6a4b345.webm",
+    "jmcs://jd-contents/Rhythm/Rhythm_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_MapPreviewNoSoundCrop_MID.vp9.webm/292d860bb8b0d86601820a2589792e14.webm",
+    "jmcs://jd-contents/Rhythm/Rhythm_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_MapPreviewNoSoundCrop_ULTRA.vp8.webm/5aad2911d60d9f463d678094f03c57ca.webm",
+    "jmcs://jd-contents/Rhythm/Rhythm_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Rhythm/Rhythm_MapPreviewNoSoundCrop_ULTRA.vp9.webm/7efa61105784ab91058c9a1a2b0e4e7a.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a35e7b1c7946707f6f32d24c92f64365",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Rhythm/ps4/Rhythm_MAIN_SCENE_ORBIS.zip/a35e7b1c7946707f6f32d24c92f64365.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "82487a1382bb8a064145eefd6b69bad2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Rhythm/nx/Rhythm_MAIN_SCENE_NX.zip/82487a1382bb8a064145eefd6b69bad2.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "13398f337049d06564ba0c27f5d9c408",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/rhythm_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

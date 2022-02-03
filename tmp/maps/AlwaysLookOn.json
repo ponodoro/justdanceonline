@@ -1,0 +1,112 @@
+{
+  "artist": "The Frankie Bostello Orchestra",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/ps4/AlwaysLookOn_banner_bkg.tga.ckd/78ae073d4c651d4844e5cb49767d5045.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/ps4/AlwaysLookOn_Coach_1.tga.ckd/4c50da30c7726de8620b9249fb228f11.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/ps4/AlwaysLookOn_Coach_2.tga.ckd/37585817cabce46eacd3c64c5d8734b9.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/ps4/AlwaysLookOn_Coach_3.tga.ckd/9171caa15b45b3505e4b4c5ad5c1f70a.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/ps4/AlwaysLookOn_Coach_4.tga.ckd/d9b2b11579a9ee8a8297cec67438c754.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/ps4/AlwaysLookOn_Cover_Generic.tga.ckd/4612a32ba71cec91e2a2b6de91b2c2f2.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_Cover_1024.png/9cb731fdad1335914673499346b0c3bd.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/ps4/AlwaysLookOn_Cover_Online.tga.ckd/207f7f534e26c36c3b7862a46cf2f9c8.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/ps4/AlwaysLookOn_Cover_AlbumBkg.tga.ckd/a2db0bd13a59be4a60190cbac657880f.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/ps4/AlwaysLookOn_Cover_AlbumCoach.tga.ckd/fa3461752a2b5f3b0493a2f927753be7.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_Coach_1_Phone.png/c1d33e6faeaa66a56a57c6baca80684e.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_Coach_2_Phone.png/272a3c3fe285ae5df90283da92f76e26.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_Coach_3_Phone.png/b1bd5a6b358f6dd1a02f7ab309b65b30.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_Coach_4_Phone.png/89e52a722cfc21092a90ba342dbed4f3.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_Cover_Phone.jpg/7a52fce804327c5895207a21a50a302a.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/ps4/AlwaysLookOn_map_bkg.tga.ckd/ea92997afe98f083202ee00a9ea83cee.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/nx/AlwaysLookOn_banner_bkg.tga.ckd/daeab88a8da530c20eec89d8ba0acaea.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/nx/AlwaysLookOn_Coach_1.tga.ckd/861ec923c6c4660920adb815e7dd2c15.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/nx/AlwaysLookOn_Coach_2.tga.ckd/edf84f34134354e34b8b07368049664d.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/nx/AlwaysLookOn_Coach_3.tga.ckd/a2f5e808ff7dd50c718ca829f5701ea2.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/nx/AlwaysLookOn_Coach_4.tga.ckd/f3d37ae1d19eb19b134962ac4feba8a8.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/nx/AlwaysLookOn_Cover_Generic.tga.ckd/6b6c042e81f44ae8104c1280b6684d83.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_Cover_1024.png/9cb731fdad1335914673499346b0c3bd.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/nx/AlwaysLookOn_Cover_Online.tga.ckd/32d82e3d68096b892f56cb5a37eb3c5a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/nx/AlwaysLookOn_Cover_AlbumBkg.tga.ckd/123540102c193b8565af9c93197431eb.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/nx/AlwaysLookOn_Cover_AlbumCoach.tga.ckd/cbcf6ebc46c11f17e05f72c50421a9db.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_Coach_1_Phone.png/c1d33e6faeaa66a56a57c6baca80684e.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_Coach_2_Phone.png/272a3c3fe285ae5df90283da92f76e26.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_Coach_3_Phone.png/b1bd5a6b358f6dd1a02f7ab309b65b30.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_Coach_4_Phone.png/89e52a722cfc21092a90ba342dbed4f3.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_Cover_Phone.jpg/7a52fce804327c5895207a21a50a302a.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/nx/AlwaysLookOn_map_bkg.tga.ckd/dd577b8aa87a8672f1a5966938f52878.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22176,44352,66528,88704,111360,134016,156624,179280,201360,223440,245520,267600,289680,311760,333792,355872,378240,400608,422976,445344,467712,490080,512448,534816,556800,578784,600768,622752,644736,666720,688704,710736,732720,754703,776687,798671,820655,842639,864623,886655,908687,930767,952799,974879,996959,1018991,1041071,1063151,1085279,1107407,1129535,1151663,1173839,1195967,1218095,1240223,1262207,1284191,1306223,1328207,1352399,1376639,1400111,1423631],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4},{\"__class\":\"MusicSignature\",\"marker\":60,\"beats\":2},{\"__class\":\"MusicSignature\",\"marker\":62,\"beats\":4}],\"startBeat\":-9,\"endBeat\":407,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/alwayslookon/alwayslookon_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "1E9DFEFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 199.048,
+  "mapName": "AlwaysLookOn",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"647069\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"610-1100\">\r\n\t\t\t\t\t<Initialization range=\"0-610\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1490845\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1096\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2977778\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1096\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5927601\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1103\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "AlwaysLookOn_mapContent"
+  },
+  "parentMapName": "AlwaysLookOn",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "B04C08FF",
+    "songColor_1B": "2517FFFF",
+    "songColor_2A": "B38600FF",
+    "songColor_2B": "B84F05FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Always Look On The Bright Side Of Life",
+  "urls": {
+    "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_AudioPreview.ogg/1f94b874f61ab9499871a7ca89ecf671.ogg",
+    "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_HIGH.vp8.webm/0c5da8df68e1bfc98f6cc303586c8906.webm",
+    "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_HIGH.vp9.webm/8e7c41507a387e8c2aa3728bea407b6a.webm",
+    "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_LOW.vp8.webm/b76df5a2500304a2854e2c089c8b5683.webm",
+    "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_LOW.vp9.webm/e0a24f8246acf2400df4ca864f2fa909.webm",
+    "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_MID.vp8.webm/68cdf82b5d97280b116211d96a918038.webm",
+    "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_MID.vp9.webm/967db2b9f815997b165bafb90c405382.webm",
+    "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_ULTRA.vp8.webm/df8619dae26022e5d3170f22a5c8eab8.webm",
+    "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_ULTRA.vp9.webm/1521b2ebafd3ab593b109a736904c29a.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "wiiu": {
+      "md5": "",
+      "version": 0
+    },
+    "nx": {
+      "md5": "b7a4078413ea2fbabf244d392c41eac9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/nx/AlwaysLookOn_MAIN_SCENE_NX.zip/b7a4078413ea2fbabf244d392c41eac9.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "ee6c926b6cc0133d0ebc3971d7e92c1a",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/AlwaysLookOn/pc/ee6c926b6cc0133d0ebc3971d7e92c1a.zip",
+      "version": 1
+    },
+    "orbis": {
+      "md5": "727fb85a141a702e98d10464bffc5190",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AlwaysLookOn/ps4/AlwaysLookOn_MAIN_SCENE_ORBIS.zip/727fb85a141a702e98d10464bffc5190.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

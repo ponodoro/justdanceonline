@@ -1,0 +1,124 @@
+{
+  "artist": "Ariana Grande ft. Nicki Minaj",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/ps4/SideTo_banner_bkg.tga.ckd/a2cf631ba3df4d7dbf67c1b3f765f82c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/ps4/SideTo_Coach_1.tga.ckd/0c0a3635fc0d8233b744d65fd2862bb8.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/ps4/SideTo_Cover_Generic.tga.ckd/d21e78960f5374bddd7f84a9ae82cec1.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_Cover_1024.png/7320f4995b0adb0dc4de4e5840b0de29.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/ps4/SideTo_Cover_Online.tga.ckd/062009d0f5be99a6bd5fb05cfa5511ef.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/ps4/SideTo_Cover_AlbumBkg.tga.ckd/b11d748edefaac8afacf8fe788d42f93.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/ps4/SideTo_Cover_AlbumCoach.tga.ckd/7bc64e2c18d4ff7b2df189e5912c6ee0.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_Coach_1_Phone.png/85105fa10b03d8712d2a95c52f15ec69.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_Cover_Phone.jpg/12127d980c54d00c7876c218334a1e73.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_VideoPreview.webm/9ba4829b0c3025c3ac0189d2c6740079.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/ps4/SideTo_map_bkg.tga.ckd/9423638d4059437106d71a84d3f6a9d2.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/nx/SideTo_banner_bkg.tga.ckd/5d81e4a8038dedbf79bd452b4bcd6338.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/nx/SideTo_Coach_1.tga.ckd/f5a58026ba97d51428ff541b3c76cd99.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/nx/SideTo_Cover_Generic.tga.ckd/2b9d8fd54534a1a3e87e082c9935a55c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_Cover_1024.png/7320f4995b0adb0dc4de4e5840b0de29.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/nx/SideTo_Cover_Online.tga.ckd/6e6c3db6454aab2bb86428410dbf3ebc.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/nx/SideTo_Cover_AlbumBkg.tga.ckd/b3ed8192c37e2c44dc361f9c0691511f.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/nx/SideTo_Cover_AlbumCoach.tga.ckd/a2e56bd9e92152176814b6b853225e0f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_Coach_1_Phone.png/85105fa10b03d8712d2a95c52f15ec69.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_Cover_Phone.jpg/12127d980c54d00c7876c218334a1e73.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_VideoPreview.webm/9ba4829b0c3025c3ac0189d2c6740079.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/nx/SideTo_map_bkg.tga.ckd/15979cad61f841304bcf5d203206430a.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/wiiu/SideTo_banner_bkg.tga.ckd/eb33c538c58e93bfa72c73060f14dfc3.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/wiiu/SideTo_Coach_1.tga.ckd/10b710e20cfd935f9649d722c4cf7e1d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/wiiu/SideTo_Cover_Generic.tga.ckd/f69b7e6030e162085fdaf33c8fec54eb.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_Cover_1024.png/7320f4995b0adb0dc4de4e5840b0de29.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/wiiu/SideTo_Cover_Online.tga.ckd/fc26d4f09920fda9e01bd0f40abfab4e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/wiiu/SideTo_Cover_AlbumBkg.tga.ckd/aee6c110c6312dcdab0c66cf74e7d9fa.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/wiiu/SideTo_Cover_AlbumCoach.tga.ckd/3d2e247fad9a35328c6af870e802f7b3.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_Coach_1_Phone.png/85105fa10b03d8712d2a95c52f15ec69.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_Cover_Phone.jpg/12127d980c54d00c7876c218334a1e73.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_VideoPreview.webm/9ba4829b0c3025c3ac0189d2c6740079.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,36240,72480,108672,144912,181152,217344,253584,289824,326064,362256,398496,434736,470927,507167,543407,579647,615839,652079,688319,724511,760751,796991,833231,869423,905663,941903,978095,1014335,1050575,1086815,1123006,1159246,1195486,1231678,1267918,1304158,1340398,1376590,1412830],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":298,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":39,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/sideto/sideto_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Ariana Grande, Ilya Salmanzadeh, Savan Kotecha, Alexander Kronlund, Onika Tanya Maraj and Max Martin. Published by MXM (ASCAP). Admin by Kobalt Music Publishing America, Inc. / Universal Music Corp. on behalf of itself and Grandarimusic / Songs Of Universal, Inc. / Wolf Cousins (STIM) and Warner/Chappell Music Scandinavia AB (STIM). All rights on behalf of Wolf Cousins and Warner/Chappell Music Scandinavia AB administered by WB Music Corp. / BMG Gold Songs. All rights administered by BMG Rights Management (US) LLC. Courtesy of Republic Records under license from Universal Music Enterprises. / Nicki Minaj appears courtesy of Cash Money Records. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "1AE4EFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 227.92499999999998,
+  "mapName": "SideTo",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495510\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SideTo/SideTo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1107\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1474610\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SideTo/SideTo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2909627\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SideTo/SideTo_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4145167\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SideTo/SideTo_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "SideTo_mapContent"
+  },
+  "parentMapName": "SideTo",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "9B09BFFF",
+    "songColor_1B": "230030FF",
+    "songColor_2A": "FF3CB7FF",
+    "songColor_2B": "0B00A2FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "HallOfFame",
+    "CnUnlimited2018"
+  ],
+  "title": "Side To Side",
+  "urls": {
+    "jmcs://jd-contents/SideTo/SideTo_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_AudioPreview.ogg/7f12f1e78a0993f660b72d49e40e30aa.ogg",
+    "jmcs://jd-contents/SideTo/SideTo_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_MapPreviewNoSoundCrop_HIGH.vp8.webm/d8c6af6defacd1d68a637bf74429aeb9.webm",
+    "jmcs://jd-contents/SideTo/SideTo_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_MapPreviewNoSoundCrop_HIGH.vp9.webm/b5f77918f0ca5e85e2682cdab5b5fcc9.webm",
+    "jmcs://jd-contents/SideTo/SideTo_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_MapPreviewNoSoundCrop_LOW.vp8.webm/6b7ded8942f84e13cd3eb14dfab23ac0.webm",
+    "jmcs://jd-contents/SideTo/SideTo_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_MapPreviewNoSoundCrop_LOW.vp9.webm/4ff9d90589d34a958062a02a3793d3d5.webm",
+    "jmcs://jd-contents/SideTo/SideTo_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_MapPreviewNoSoundCrop_MID.vp8.webm/0ad359822386a8a2f468977718d97283.webm",
+    "jmcs://jd-contents/SideTo/SideTo_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_MapPreviewNoSoundCrop_MID.vp9.webm/beb2a0484199869e1d06ee8f79a4fab0.webm",
+    "jmcs://jd-contents/SideTo/SideTo_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_MapPreviewNoSoundCrop_ULTRA.vp8.webm/68114dc5064508394c0616bee0a60d18.webm",
+    "jmcs://jd-contents/SideTo/SideTo_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/SideTo/SideTo_MapPreviewNoSoundCrop_ULTRA.vp9.webm/21b0a6ae8d2ac531550d3b42b3269fc2.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "4ba27db2950e9c6c0547b48eb6ed3272",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SideTo/ps4/SideTo_MAIN_SCENE_ORBIS.zip/4ba27db2950e9c6c0547b48eb6ed3272.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "b85e9a6cbfc8785c485e1f218e4ebea3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SideTo/nx/SideTo_MAIN_SCENE_NX.zip/b85e9a6cbfc8785c485e1f218e4ebea3.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "8a457b249b580b7e133c886f43446907",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/SideTo/pc/8a457b249b580b7e133c886f43446907.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "9c34793235e048ce1a0892a4982c7f49",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SideTo/wiiu/SideTo_MAIN_SCENE_WIIU.zip/9c34793235e048ce1a0892a4982c7f49.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,114 @@
+{
+  "artist": "Sia Ft. Sean Paul",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_banner_bkg.jpg/fcb2967de261a17770a39d8837ecde3b.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Coach_1.png/259f1346d1de41f10832598da5ca8abc.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Cover_Generic.jpg/e290b916198d4fb1333bffa49c48f753.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Cover_1024.png/eab6f03d9d58ee63c66ed73d66ef3dc0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Cover_Online.jpg/7be3191b538dbaa9f4fda7b32c6831a9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Cover_AlbumBkg.jpg/a88bb7418639e05d01f2755662e7bd52.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Cover_AlbumCoach.png/d3a1937a3301761ec6000cfdc30fbe43.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Coach_1_Phone.png/9a4b18b5cb66eaddd20189b1bc9b0060.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Cover_Phone.jpg/7be3191b538dbaa9f4fda7b32c6831a9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_VideoPreview.webm/fac6c0df8ff61f0b82ac2f924ae503a7.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_banner_bkg.jpg/fcb2967de261a17770a39d8837ecde3b.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Coach_1.png/259f1346d1de41f10832598da5ca8abc.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Cover_Generic.jpg/e290b916198d4fb1333bffa49c48f753.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Cover_1024.png/eab6f03d9d58ee63c66ed73d66ef3dc0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Cover_Online.jpg/7be3191b538dbaa9f4fda7b32c6831a9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Cover_AlbumBkg.jpg/a88bb7418639e05d01f2755662e7bd52.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Cover_AlbumCoach.png/d3a1937a3301761ec6000cfdc30fbe43.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Coach_1_Phone.png/9a4b18b5cb66eaddd20189b1bc9b0060.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Cover_Phone.jpg/7be3191b538dbaa9f4fda7b32c6831a9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_VideoPreview.webm/fac6c0df8ff61f0b82ac2f924ae503a7.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/wiiu/CheapThrills_banner_bkg.tga.ckd/cb92d61c464bce3cc83523e1e8367122.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/wiiu/CheapThrills_Coach_1.tga.ckd/f5560c4005ebcf9ddab670aa122b1ee4.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/wiiu/CheapThrills_Cover_Generic.tga.ckd/bbcfaebb973952fe0da746113ccf0b77.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Cover_1024.png/eab6f03d9d58ee63c66ed73d66ef3dc0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/wiiu/CheapThrills_Cover_Online.tga.ckd/3369d78313fbfc52c1a40fd0b49288cb.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/wiiu/CheapThrills_Cover_AlbumBkg.tga.ckd/9b5033fd4ed04741f2108f825b576679.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/wiiu/CheapThrills_Cover_AlbumCoach.tga.ckd/510df423e0d4db14a943023f8fe89ddd.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Coach_1_Phone.png/9a4b18b5cb66eaddd20189b1bc9b0060.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_Cover_Phone.jpg/7be3191b538dbaa9f4fda7b32c6831a9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_VideoPreview.webm/fac6c0df8ff61f0b82ac2f924ae503a7.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,32016,63984,96000,128015,159983,191999,224015,255983,287999,320015,351983,383999,416015,447983,479999,512015,543983,575999,608015,639983,671999,704015,735983,767999,800015,831983,863998,896014,927982,959998,992014,1023982,1055998,1088014,1119982,1151998,1184014,1215982,1247998,1280014,1311982,1343998,1376014,1407982,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":330,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":45,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/cheapthrills/cheapthrills_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "7350CCFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 222,
+  "mapName": "CheapThrills",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496403\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478862\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2931614\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3701891\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "CheapThrills_mapContent"
+  },
+  "parentMapName": "CheapThrills",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "7146F3FF",
+    "songColor_1B": "46006BFF",
+    "songColor_2A": "FFFFFFFF",
+    "songColor_2B": "F71BB6FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Cheap Thrills",
+  "urls": {
+    "jmcs://jd-contents/CheapThrills/CheapThrills_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_AudioPreview.ogg/1ae51705a4341745c63dda9f0949c7c0.ogg",
+    "jmcs://jd-contents/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_HIGH.vp8.webm/bc1a0b3eb1f17d71a6ed1ad21b4f8697.webm",
+    "jmcs://jd-contents/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_HIGH.vp9.webm/284c707c58046f7c979405c33fc32231.webm",
+    "jmcs://jd-contents/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_LOW.vp8.webm/bb6b8a827c544e665ab74dc63f330248.webm",
+    "jmcs://jd-contents/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_LOW.vp9.webm/15865957eca256bca390f528873a6137.webm",
+    "jmcs://jd-contents/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_MID.vp8.webm/4821985bf384f7967a48060d472092a2.webm",
+    "jmcs://jd-contents/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_MID.vp9.webm/80745aec8c17c573d0476d11d4df4233.webm",
+    "jmcs://jd-contents/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_ULTRA.vp8.webm/5e8dd4dee8bd07ac0b60cdaff9b87c85.webm",
+    "jmcs://jd-contents/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/CheapThrills/CheapThrills_MapPreviewNoSoundCrop_ULTRA.vp9.webm/cc25cf8bb448ecd65cadbac3a6e1ebda.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "8b74cc1365d300cb5ca2b92a774c3e8f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CheapThrills/ps4/CheapThrills_MAIN_SCENE_ORBIS.zip/8b74cc1365d300cb5ca2b92a774c3e8f.zip",
+      "version": 13
+    },
+    "pc": {
+      "md5": "6c1ec841b34c29163c4ae8e95f87722e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CheapThrills/pc/CheapThrills_MAIN_SCENE_PC.zip/6c1ec841b34c29163c4ae8e95f87722e.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "5971fd957647fd30194de486efeabebd",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CheapThrills/wiiu/CheapThrills_MAIN_SCENE_WIIU.zip/5971fd957647fd30194de486efeabebd.zip",
+      "version": 13
+    },
+    "nx": {
+      "md5": "c193ff702e634bc440ae429f620d4ecb",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CheapThrills/nx/CheapThrills_MAIN_SCENE_NX.zip/c193ff702e634bc440ae429f620d4ecb.zip",
+      "version": 7
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,114 @@
+{
+  "artist": "The Frighteners (in the style of Bobby 'Boris' Pickett & The Crypt-Kickers)",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_banner_bkg.jpg/bf192c61c4f5cbe54e88a8ca59b4dda4.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Coach_1.png/21276a6584f197ec10b25add632debf0.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Cover_Generic.jpg/0abe57ac2754d9653643e0dce9a07e5b.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Cover_1024.png/df456ac9eab3abe8a0d12b47be87be4f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Cover_Online.jpg/aeb0e2eec079f7098d1320372dfc1905.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Cover_AlbumBkg.jpg/082b70ee7c7a6a1f15635e7122207224.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Cover_AlbumCoach.png/30463309150dc743523857bb4b490d40.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Coach_1_Phone.png/a0488ee33e59eac6f2afea633df38ef4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Cover_Phone.jpg/aeb0e2eec079f7098d1320372dfc1905.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_VideoPreview.webm/24004bb6b7c78f6cabed3fa80920a0ad.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_banner_bkg.jpg/bf192c61c4f5cbe54e88a8ca59b4dda4.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Coach_1.png/21276a6584f197ec10b25add632debf0.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Cover_Generic.jpg/0abe57ac2754d9653643e0dce9a07e5b.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Cover_1024.png/df456ac9eab3abe8a0d12b47be87be4f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Cover_Online.jpg/aeb0e2eec079f7098d1320372dfc1905.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Cover_AlbumBkg.jpg/082b70ee7c7a6a1f15635e7122207224.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Cover_AlbumCoach.png/30463309150dc743523857bb4b490d40.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Coach_1_Phone.png/a0488ee33e59eac6f2afea633df38ef4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Cover_Phone.jpg/aeb0e2eec079f7098d1320372dfc1905.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_VideoPreview.webm/24004bb6b7c78f6cabed3fa80920a0ad.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/wiiu/MonsterMash_banner_bkg.tga.ckd/ac04d5291268e8b5532db0bf54c8ccc5.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/wiiu/MonsterMash_Coach_1.tga.ckd/5c5580b9f6b5de757acdb6dcb350727b.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/wiiu/MonsterMash_Cover_Generic.tga.ckd/41b72fb8c0c7c4720905758a78c99dd0.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Cover_1024.png/df456ac9eab3abe8a0d12b47be87be4f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/wiiu/MonsterMash_Cover_Online.tga.ckd/4cb7965a1a26c5256c279ecd646b0e28.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/wiiu/MonsterMash_Cover_AlbumBkg.tga.ckd/cace79352ac1e6cdf9b2e18b243790f2.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/wiiu/MonsterMash_Cover_AlbumCoach.tga.ckd/31f5e3e6c8a315bea8f394daf334ce1e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Coach_1_Phone.png/a0488ee33e59eac6f2afea633df38ef4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_Cover_Phone.jpg/aeb0e2eec079f7098d1320372dfc1905.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_VideoPreview.webm/24004bb6b7c78f6cabed3fa80920a0ad.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20410,40821,61231,81641,102052,122462,142872,163283,183693,204104,224514,244924,265335,285745,306155,326566,346976,367386,387797,408207,428617,449028,469438,489848,510259,530669,551079,571490,591900,612310,632721,653131,673541,693952,714362,734772,755183,775593,796003,816414,836824,857234,877645,898055,918465,938876,959286,979696,1000107,1020517,1040927,1061338,1081748,1102158,1122569,1142979,1163389,1183800,1204210,1224621,1245031,1265441,1285852,1306262,1326672,1347083,1367493,1387903,1408314,1428724],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":435,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":70,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/monstermash/monstermash_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "CE3816FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 185.40599999999998,
+  "mapName": "MonsterMash",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495184\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1109345\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1123897\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1123592\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "MonsterMash_mapContent"
+  },
+  "parentMapName": "MonsterMash",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "006F5DFF",
+    "songColor_1B": "001A26FF",
+    "songColor_2A": "FDFFC5FF",
+    "songColor_2B": "003B28FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Monster Mash",
+  "urls": {
+    "jmcs://jd-contents/MonsterMash/MonsterMash_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_AudioPreview.ogg/b40a10a1d3095cffc2bd1a98efc5925f.ogg",
+    "jmcs://jd-contents/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_HIGH.vp8.webm/b3bf2b22c8a597a708b9901333571aed.webm",
+    "jmcs://jd-contents/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_HIGH.vp9.webm/fe325292fba1a145d9ef9c6fe4ff28ab.webm",
+    "jmcs://jd-contents/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_LOW.vp8.webm/35a208bec652290c2f483944e07f3672.webm",
+    "jmcs://jd-contents/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_LOW.vp9.webm/dbb7f68201d2052ddfb5530859570f5c.webm",
+    "jmcs://jd-contents/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_MID.vp8.webm/2c02b2236bd4a32093a09f71871a8930.webm",
+    "jmcs://jd-contents/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_MID.vp9.webm/6ad31b13ea83a6cd64319d902099cdfb.webm",
+    "jmcs://jd-contents/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_ULTRA.vp8.webm/1b28271d398364e3393c0abf122d24ff.webm",
+    "jmcs://jd-contents/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_ULTRA.vp9.webm/6409e45d3b9d95864b393a654464c3ab.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a1076d4fdf7dd11f8fe80f41ce10a94c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MonsterMash/ps4/MonsterMash_MAIN_SCENE_ORBIS.zip/a1076d4fdf7dd11f8fe80f41ce10a94c.zip",
+      "version": 9
+    },
+    "pc": {
+      "md5": "4eef460b54fedfc5202630e797c0061a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MonsterMash/pc/MonsterMash_MAIN_SCENE_PC.zip/4eef460b54fedfc5202630e797c0061a.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "3aed6e4b1be594a26e1e213d26da7dfb",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MonsterMash/wiiu/MonsterMash_MAIN_SCENE_WIIU.zip/3aed6e4b1be594a26e1e213d26da7dfb.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "c07d54cd15f5096fc3fa0702a02612d9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MonsterMash/nx/MonsterMash_MAIN_SCENE_NX.zip/c07d54cd15f5096fc3fa0702a02612d9.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

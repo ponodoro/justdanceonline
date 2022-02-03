@@ -1,0 +1,114 @@
+{
+  "artist": "The Jackson 5",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_banner_bkg.jpg/f5ead07621b843476939b779e6fe3c82.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Coach_1.png/a2dc3f89641ff2a6cec844aff6d05826.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Cover_Generic.jpg/8a6a9e04e15b12d5f8bf5d202f46b9df.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Cover_1024.png/4cdf86a0f0fa62b42db18422c4573190.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Cover_Online.jpg/91fdbb537dde1be7815851b527c5ea1e.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Cover_AlbumBkg.jpg/de702f5386d8c21ed39f183e006f18db.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Cover_AlbumCoach.png/1084f3f7e1323b5348f393f3ceb7b1e3.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Coach_1_Phone.png/2f254d79031f14cf54f7bc0399e23623.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Cover_Phone.jpg/91fdbb537dde1be7815851b527c5ea1e.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_VideoPreview.webm/9186653fcfcb0136f29f9f35809fe63e.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_banner_bkg.jpg/f5ead07621b843476939b779e6fe3c82.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Coach_1.png/a2dc3f89641ff2a6cec844aff6d05826.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Cover_Generic.jpg/8a6a9e04e15b12d5f8bf5d202f46b9df.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Cover_1024.png/4cdf86a0f0fa62b42db18422c4573190.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Cover_Online.jpg/91fdbb537dde1be7815851b527c5ea1e.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Cover_AlbumBkg.jpg/de702f5386d8c21ed39f183e006f18db.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Cover_AlbumCoach.png/1084f3f7e1323b5348f393f3ceb7b1e3.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Coach_1_Phone.png/2f254d79031f14cf54f7bc0399e23623.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Cover_Phone.jpg/91fdbb537dde1be7815851b527c5ea1e.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_VideoPreview.webm/9186653fcfcb0136f29f9f35809fe63e.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/wiiu/IWantYouBack_banner_bkg.tga.ckd/a84a0c83623c79dff5a20da61dce7058.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/wiiu/IWantYouBack_Coach_1.tga.ckd/e5002bcbe8d85ecf4f7cfc6199ee89aa.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/wiiu/IWantYouBack_Cover_Generic.tga.ckd/3867783168be900fb656b5cb444cfb83.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Cover_1024.png/4cdf86a0f0fa62b42db18422c4573190.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/wiiu/IWantYouBack_Cover_Online.tga.ckd/cf473f5fcb65acc645632aee533f78c9.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/wiiu/IWantYouBack_Cover_AlbumBkg.tga.ckd/fed75117aa8450ae1489a747002935f8.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/wiiu/IWantYouBack_Cover_AlbumCoach.tga.ckd/319660a0380b33ffd33819dc5833d448.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Coach_1_Phone.png/2f254d79031f14cf54f7bc0399e23623.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_Cover_Phone.jpg/91fdbb537dde1be7815851b527c5ea1e.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_VideoPreview.webm/9186653fcfcb0136f29f9f35809fe63e.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,29373,58744,88118,117490,146862,176235,205608,234979,264353,293724,321745,351118,380491,409862,439236,468609,497980,527354,556726,586098,615471,644844,674215,703589,732961,762333,790921,819957,849330,878703,906612,935985,965357,994730,1024102,1053475,1082846,1112220,1141593,1170964,1200338,1229710,1259081,1288455,1317828,1347199,1376573,1405945,1435319],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4},{\"__class\":\"MusicSignature\",\"marker\":44,\"beats\":2},{\"__class\":\"MusicSignature\",\"marker\":46,\"beats\":4}],\"startBeat\":0,\"endBeat\":294,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":49,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/iwantyouback/iwantyouback_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "1FCFE5FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 180.144,
+  "mapName": "IWantYouBack",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497491\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1409973\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1491036\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1490585\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "IWantYouBack_mapContent"
+  },
+  "parentMapName": "IWantYouBack",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "EA5900FF",
+    "songColor_1B": "5B0000FF",
+    "songColor_2A": "00C5FFFF",
+    "songColor_2B": "001338FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "I Want You Back",
+  "urls": {
+    "jmcs://jd-contents/IWantYouBack/IWantYouBack_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_AudioPreview.ogg/4a56154b1b7a4d4e05ad9230df6f2d68.ogg",
+    "jmcs://jd-contents/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_HIGH.vp8.webm/7a384e39fcef889e4e1008f2bc46e96b.webm",
+    "jmcs://jd-contents/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_HIGH.vp9.webm/320b46e68988e78418003216374d350d.webm",
+    "jmcs://jd-contents/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_LOW.vp8.webm/201c76c31eecd105c67a8c1912759113.webm",
+    "jmcs://jd-contents/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_LOW.vp9.webm/045b8b900bb2d48888d66ca3ce39f5d3.webm",
+    "jmcs://jd-contents/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_MID.vp8.webm/ed0e40d11626585dc0f1f40699502a16.webm",
+    "jmcs://jd-contents/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_MID.vp9.webm/96fbcdc32e56367daacfc77e2a331096.webm",
+    "jmcs://jd-contents/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d0443dfcd75c8e43dcb21982ba916181.webm",
+    "jmcs://jd-contents/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/IWantYouBack/IWantYouBack_MapPreviewNoSoundCrop_ULTRA.vp9.webm/bcca26b6f27a49246b599038cea21785.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "4059a151ec1665943337fdeeacf697f0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IWantYouBack/ps4/IWantYouBack_MAIN_SCENE_ORBIS.zip/4059a151ec1665943337fdeeacf697f0.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "25278c816d7724dc2e62f44e6a118948",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IWantYouBack/pc/IWantYouBack_MAIN_SCENE_PC.zip/25278c816d7724dc2e62f44e6a118948.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "fb8df4521631a4b070082c57d66e4e18",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IWantYouBack/wiiu/IWantYouBack_MAIN_SCENE_WIIU.zip/fb8df4521631a4b070082c57d66e4e18.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "7f368643aa447117701868b806a269d2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IWantYouBack/nx/IWantYouBack_MAIN_SCENE_NX.zip/7f368643aa447117701868b806a269d2.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

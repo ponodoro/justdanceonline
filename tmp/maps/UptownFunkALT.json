@@ -1,0 +1,127 @@
+{
+  "artist": "Mark Ronson Ft. Bruno Mars",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_banner_bkg.jpg/92a097dccabc67793ed14ba85aad8559.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Coach_1.png/31d67993ecf96bcf6419a04317c8d751.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Coach_2.png/d07627f6d498c1e175d243cfb7cd10c1.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Coach_3.png/0775af43d027ccc87334bb7905ef4d92.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Cover_Generic.jpg/2bfefba676209a6d961d58cf740f8ea5.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Cover_1024.png/169bf9ae95ed22342c763337280d6a92.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Cover_Online.jpg/b5b9ef2d359365d30b88314a34085ff2.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Cover_AlbumBkg.jpg/912a609b1736ead5402c1e7dc0c1a739.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Cover_AlbumCoach.png/150517dfd704c383d7b4cda4ba9ed064.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Coach_1_Phone.png/99d5622cd7498ec32c4788645b3dd6a5.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Coach_2_Phone.png/0b3a8d610d576b279de82f912fbda47f.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Coach_3_Phone.png/1112b2ca55cf5510ac40d21b8fbd937d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Cover_Phone.jpg/b5b9ef2d359365d30b88314a34085ff2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_VideoPreview.webm/97fcd99bd0a4920d8f06e82acebc7262.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_banner_bkg.jpg/92a097dccabc67793ed14ba85aad8559.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Coach_1.png/31d67993ecf96bcf6419a04317c8d751.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Coach_2.png/d07627f6d498c1e175d243cfb7cd10c1.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Coach_3.png/0775af43d027ccc87334bb7905ef4d92.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Cover_Generic.jpg/2bfefba676209a6d961d58cf740f8ea5.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Cover_1024.png/169bf9ae95ed22342c763337280d6a92.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Cover_Online.jpg/b5b9ef2d359365d30b88314a34085ff2.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Cover_AlbumBkg.jpg/912a609b1736ead5402c1e7dc0c1a739.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Cover_AlbumCoach.png/150517dfd704c383d7b4cda4ba9ed064.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Coach_1_Phone.png/99d5622cd7498ec32c4788645b3dd6a5.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Coach_2_Phone.png/0b3a8d610d576b279de82f912fbda47f.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Coach_3_Phone.png/1112b2ca55cf5510ac40d21b8fbd937d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Cover_Phone.jpg/b5b9ef2d359365d30b88314a34085ff2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_VideoPreview.webm/97fcd99bd0a4920d8f06e82acebc7262.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/wiiu/UptownFunkALT_banner_bkg.tga.ckd/582e7275d6d32371848466e2c2ca3b08.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/wiiu/UptownFunkALT_Coach_1.tga.ckd/84971322ccd9c167ee27c2930cf8ae24.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/wiiu/UptownFunkALT_Coach_2.tga.ckd/693bd0a1a8c5056fde457d150001fa13.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/wiiu/UptownFunkALT_Coach_3.tga.ckd/6a252822ce39608893467d528c11c68d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/wiiu/UptownFunkALT_Cover_Generic.tga.ckd/818ed60cc0f932267d2c101c7ecc0561.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Cover_1024.png/169bf9ae95ed22342c763337280d6a92.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/wiiu/UptownFunkALT_Cover_Online.tga.ckd/b3c47bc6944d90f33b878e58f1ee20e4.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/wiiu/UptownFunkALT_Cover_AlbumBkg.tga.ckd/59af98e0d0f5fb23171485281f360fd1.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/wiiu/UptownFunkALT_Cover_AlbumCoach.tga.ckd/e6dce5ce514adf4c0b8ace336c97bd26.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Coach_1_Phone.png/99d5622cd7498ec32c4788645b3dd6a5.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Coach_2_Phone.png/0b3a8d610d576b279de82f912fbda47f.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Coach_3_Phone.png/1112b2ca55cf5510ac40d21b8fbd937d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_Cover_Phone.jpg/b5b9ef2d359365d30b88314a34085ff2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_VideoPreview.webm/97fcd99bd0a4920d8f06e82acebc7262.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25008,50064,75120,100176,125184,150240,175296,200304,225360,250416,275472,300480,325537,350593,375649,400657,425713,450769,475825,500833,525889,550945,576001,601009,626065,651121,676177,701185,726241,751297,776305,801361,826417,851473,876481,901537,926593,951649,976657,1001713,1026769,1051825,1076834,1101890,1126946,1152002,1177010,1202066,1227122,1252178,1277186,1302242,1327298,1352306,1377362,1402418,1427474],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":453,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/uptownfunkalt/uptownfunkalt_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "26EEF8FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 237.91299999999998,
+  "mapName": "UptownFunkALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497304\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1416333\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1706070\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1705935\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "UptownFunkALT_mapContent"
+  },
+  "parentMapName": "UptownFunkALT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "64FDFFFF",
+    "songColor_1B": "172021FF",
+    "songColor_2A": "AEA393FF",
+    "songColor_2B": "61605CFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Uptown Funk",
+  "urls": {
+    "jmcs://jd-contents/UptownFunkALT/UptownFunkALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_AudioPreview.ogg/68b0c31d0f9598e713d4b36accf9d5a2.ogg",
+    "jmcs://jd-contents/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/81fc31b074dd0f944f1644970af5c6bd.webm",
+    "jmcs://jd-contents/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/7161c1ce163e72ca1d88f5b09d6093a8.webm",
+    "jmcs://jd-contents/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_LOW.vp8.webm/3beb0a0388f1350348780a01972d91b6.webm",
+    "jmcs://jd-contents/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_LOW.vp9.webm/bb5707efde62afaf95f81a4998610d75.webm",
+    "jmcs://jd-contents/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_MID.vp8.webm/5aadf98ee9bf52eb1b9c9c5afe448795.webm",
+    "jmcs://jd-contents/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_MID.vp9.webm/eb413accc7c93c6134f8cdf46d22ad41.webm",
+    "jmcs://jd-contents/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/957214ffaa140ee8b52c15da1ba41c76.webm",
+    "jmcs://jd-contents/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/UptownFunkALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/06d3c29074dab1643a7ff5681c9b52b6.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "2c94d31047054b88a1ffc01ce660879e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/ps4/UptownFunkALT_MAIN_SCENE_ORBIS.zip/2c94d31047054b88a1ffc01ce660879e.zip",
+      "version": 9
+    },
+    "pc": {
+      "md5": "d45b7b144a435d5f0198cc244f414b5f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/pc/UptownFunkALT_MAIN_SCENE_PC.zip/d45b7b144a435d5f0198cc244f414b5f.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "0bd14eaa96daf50e55ec2d70374927d5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/wiiu/UptownFunkALT_MAIN_SCENE_WIIU.zip/0bd14eaa96daf50e55ec2d70374927d5.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "cfe6b79af9adf1e529e08426e931cb66",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/UptownFunkALT/nx/UptownFunkALT_MAIN_SCENE_NX.zip/cfe6b79af9adf1e529e08426e931cb66.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12623
+}

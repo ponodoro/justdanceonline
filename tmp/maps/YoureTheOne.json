@@ -1,0 +1,120 @@
+{
+  "artist": "From The Movie Grease",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_banner_bkg.jpg/bdf0d5ef25b8619b81028581b2988626.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Coach_1.png/26e1da2b8af9d4f77a2729cf05f4b7c0.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Coach_2.png/df45c3e8d2203c137f914951172ab0cc.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Cover_Generic.jpg/c3ef794b358aaae208d78676b3905f03.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Cover_1024.png/0ebdcc2ec30e3b9d90f92a04fd5abf37.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Cover_Online.jpg/6b340db41986c02c114898228e350aa9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Cover_AlbumBkg.jpg/478bd77b7138546656846b29bc87e32c.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Cover_AlbumCoach.png/3119119f295fef4a88855b67ac513cc7.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Coach_1_Phone.png/9f89081ac1b9202f52c34dde9de7d404.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Coach_2_Phone.png/fa959a487404ae5e01aa39f579055bb9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Cover_Phone.jpg/6b340db41986c02c114898228e350aa9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_VideoPreview.webm/94788b9e3ea3cb491cc793e164784627.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_banner_bkg.jpg/bdf0d5ef25b8619b81028581b2988626.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Coach_1.png/26e1da2b8af9d4f77a2729cf05f4b7c0.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Coach_2.png/df45c3e8d2203c137f914951172ab0cc.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Cover_Generic.jpg/c3ef794b358aaae208d78676b3905f03.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Cover_1024.png/0ebdcc2ec30e3b9d90f92a04fd5abf37.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Cover_Online.jpg/6b340db41986c02c114898228e350aa9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Cover_AlbumBkg.jpg/478bd77b7138546656846b29bc87e32c.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Cover_AlbumCoach.png/3119119f295fef4a88855b67ac513cc7.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Coach_1_Phone.png/9f89081ac1b9202f52c34dde9de7d404.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Coach_2_Phone.png/fa959a487404ae5e01aa39f579055bb9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Cover_Phone.jpg/6b340db41986c02c114898228e350aa9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_VideoPreview.webm/94788b9e3ea3cb491cc793e164784627.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/wiiu/YoureTheOne_banner_bkg.tga.ckd/e35d46f34273614fc50eabd3c622beaf.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/wiiu/YoureTheOne_Coach_1.tga.ckd/0c0669595c51c9ea761389846a23240d.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/wiiu/YoureTheOne_Coach_2.tga.ckd/4f551e2f93f54b241705f284186ab722.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/wiiu/YoureTheOne_Cover_Generic.tga.ckd/799160d597a88d4b408920f33c0307a5.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Cover_1024.png/0ebdcc2ec30e3b9d90f92a04fd5abf37.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/wiiu/YoureTheOne_Cover_Online.tga.ckd/2af8e78f965adefb7a2e9a122e722be8.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/wiiu/YoureTheOne_Cover_AlbumBkg.tga.ckd/1a773a2b7949ce3406a4ef52115417c5.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/wiiu/YoureTheOne_Cover_AlbumCoach.tga.ckd/c3c9f508dc33db46f632832d71b2ba5d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Coach_1_Phone.png/9f89081ac1b9202f52c34dde9de7d404.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Coach_2_Phone.png/fa959a487404ae5e01aa39f579055bb9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_Cover_Phone.jpg/6b340db41986c02c114898228e350aa9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_VideoPreview.webm/94788b9e3ea3cb491cc793e164784627.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26976,54960,82080,109200,135408,162432,189456,216480,242736,270144,297600,324240,350928,377856,404784,431760,458688,485711,512783,539807,566879,593519,620399,647615,674831,701471,728063,754703,781295,808271,835295,862271,889247,916559,943871,971135,998447,1025423,1052399,1079375,1106351,1133039,1159679,1186367,1213055,1240127,1267199,1294271,1321343,1348367,1375438,1402462,1429534],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-26,\"endBeat\":300,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":53,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/youretheone/youretheone_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "42BD78FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 182.49699999999999,
+  "mapName": "YoureTheOne",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495274\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1476480\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2749170\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3259585\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "YoureTheOne_mapContent"
+  },
+  "parentMapName": "YoureTheOne",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "0577D1FF",
+    "songColor_1B": "1C1625FF",
+    "songColor_2A": "D16F14FF",
+    "songColor_2B": "AB0000FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "You're The One That I Want",
+  "urls": {
+    "jmcs://jd-contents/YoureTheOne/YoureTheOne_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_AudioPreview.ogg/cab4cc126533fbdb830585237abb2464.ogg",
+    "jmcs://jd-contents/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_HIGH.vp8.webm/6b04b21e90fa098fd44793b8b17fc7d9.webm",
+    "jmcs://jd-contents/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_HIGH.vp9.webm/1f35d62d3dbb751cd18ff6448f30515b.webm",
+    "jmcs://jd-contents/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_LOW.vp8.webm/b37fe6800bb5f3b3b9c732674a842ef3.webm",
+    "jmcs://jd-contents/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_LOW.vp9.webm/050ce42991ef86dedb8b4bc4de825a31.webm",
+    "jmcs://jd-contents/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_MID.vp8.webm/96433aa8d444b1794d377c6ba4a2fb1f.webm",
+    "jmcs://jd-contents/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_MID.vp9.webm/41eb404d8778101437a037b2052ba300.webm",
+    "jmcs://jd-contents/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_ULTRA.vp8.webm/82b4d8be6a0696ecc840efd4a721443f.webm",
+    "jmcs://jd-contents/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/YoureTheOne/YoureTheOne_MapPreviewNoSoundCrop_ULTRA.vp9.webm/d9b15ab122fcc01037b93541b0bf262e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "86c1de188727915963112ef5c33f0545",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/YoureTheOne/ps4/YoureTheOne_MAIN_SCENE_ORBIS.zip/86c1de188727915963112ef5c33f0545.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "9e55fdba6c349d1589660c58d89d6d14",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/YoureTheOne/pc/YoureTheOne_MAIN_SCENE_PC.zip/9e55fdba6c349d1589660c58d89d6d14.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "b5e43887c34da55aaaa49902706185e0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/YoureTheOne/wiiu/YoureTheOne_MAIN_SCENE_WIIU.zip/b5e43887c34da55aaaa49902706185e0.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "c222e73698cd0669b16079bba2a07756",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/YoureTheOne/nx/YoureTheOne_MAIN_SCENE_NX.zip/c222e73698cd0669b16079bba2a07756.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,64 @@
+[{
+    "title": {
+        "zh": "Zhōngguó gēqǔ",
+        "ru": "Китайские песни",
+        "es": "Canciones Chinas",
+        "pt": "Canções Chinesas",
+        "fr": "Chansons Chinoises",
+        "en": "Chinese Hits"
+    },
+    "isAvailable": 1,
+    "songs": ["JDCBuyBuyBuy", "BigBowlThickNoodle", "RainbowRhythm", "Princess", "UglyBeauty", "LegSongCHN", "KaraokeForeverCHN", "JDCChickChick","JDCCoolestEthnic","JDCHotPot","JDCMyLips","JDCSoGood","JDCRealLove", "NewWorld", "DancingDivaCHN"]
+},{
+    "title": {
+        "tr": "Sadece Kankalar",
+        "zh": "Yǒngyuǎn de péngyǒu",
+        "ru": "Друзья навсегда",
+        "es": "Amigos Por Siempre",
+        "pt": "Amigos Para Sempre",
+        "fr": "Amis pour Toujours",
+        "en": "Bestie Vibes Only"
+    },
+    "isAvailable": 1,
+    "songs": ["DontLet", "TwistShakeIt", "CantTakeMyEyes", "BlurredLines", "RunTheShow", "24K", "Aquarius", "KetchupSong", "KissingStrangers", "GetBusy", "BadBoy", "Fire"]
+},
+{
+    "title": {
+        "tr": "Latinler!",
+        "zh": "Lādīng yì!",
+        "ru": "Латиноамериканцы!",
+        "es": "¡Latinas!",
+        "pt": "Latinas!",
+        "fr": "Latinas!",
+        "en": "Latinas!"
+    },
+    "isAvailable": 1,
+    "songs": ["Chantaje", "Despacito", "MiGente", "Obsession", "Limbo", "Hips", "JamboMambo", "ILikeItLike", "Rabiosa", "Fun", "ElTiki", "Boom", "JuntoATi", "Mambo5", "Bailar"]
+},
+{
+    "title": {
+        "tr": "Kadın Gücü",
+        "zh": "Nǚrén de lìliàng!",
+        "ru": "Женщины Сила",
+        "es": "Poder De Las Mujeres",
+        "pt": "Poder Feminino",
+        "fr": "Le Pouvoir des Femmes",
+        "en": "Girl Power"
+    },
+    "isAvailable": 1,
+    "songs": ["RichGirl", "Sidewinder", "WorkWork", "WomanLikeMe", "OnTheFloor", "ET", "SingleLadies", "Disturbia", "GodIsAWoman", "WhereHaveYou", "TeenageDream","Maneater"]
+},
+{
+    "title": {
+        "tr": "Dünya'nın Hit Şarkıları",
+        "zh": "Huán yóu shìjiè",
+        "ru": "Во всем мире",
+        "es": "Alrededor Del Mundo",
+        "pt": "Em Todo o Mundo",
+        "fr": "Autour du Monde",
+        "en": "Around The World"
+    },
+    "isAvailable": 1,
+    "songs": ["HalaBel", "Adeyyo", "Leila", "LoveWard", "NewWorld", "Tumbum", "GangnamStyle", "Jumpin", "MiGente", "Chantaje", "BumBumTamTam", "Bicicleta", "SoyYo", "FollowTheLeader"]
+}
+]

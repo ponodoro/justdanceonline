@@ -1,0 +1,114 @@
+{
+  "artist": "ABBA",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_banner_bkg.jpg/4167ceb525c1299a59921b0ef6f11a6d.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Coach_1.png/e94e8b68146f1372ae70d7f0173de8e2.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Cover_Generic.jpg/fd30c26214dbf9d7c76a2391baa38119.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Cover_1024.png/1f89f40e67a2ba047d6e12c6352f766f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Cover_Online.jpg/3fdb949acfe9bb6a7b45512dd5d50b9b.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Cover_AlbumBkg.jpg/6a53ae54933fccc08e80f538d0be79db.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Cover_AlbumCoach.png/6b3b01dc4cd1db8916c6bca8cf4ee259.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Coach_1_Phone.png/46e580a31824a622f4549db41a54c3fc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Cover_Phone.jpg/3fdb949acfe9bb6a7b45512dd5d50b9b.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_VideoPreview.webm/b488a823a298b1b572d7d0003d092f13.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_banner_bkg.jpg/4167ceb525c1299a59921b0ef6f11a6d.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Coach_1.png/e94e8b68146f1372ae70d7f0173de8e2.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Cover_Generic.jpg/fd30c26214dbf9d7c76a2391baa38119.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Cover_1024.png/1f89f40e67a2ba047d6e12c6352f766f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Cover_Online.jpg/3fdb949acfe9bb6a7b45512dd5d50b9b.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Cover_AlbumBkg.jpg/6a53ae54933fccc08e80f538d0be79db.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Cover_AlbumCoach.png/6b3b01dc4cd1db8916c6bca8cf4ee259.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Coach_1_Phone.png/46e580a31824a622f4549db41a54c3fc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Cover_Phone.jpg/3fdb949acfe9bb6a7b45512dd5d50b9b.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_VideoPreview.webm/b488a823a298b1b572d7d0003d092f13.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/wiiu/GimmeGimme_banner_bkg.tga.ckd/67a2afe28dd160a3a92a417f6746955e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/wiiu/GimmeGimme_Coach_1.tga.ckd/8a17be61da25abf1f97bbb705c2cf584.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/wiiu/GimmeGimme_Cover_Generic.tga.ckd/09e5aed6e9c123c3741684938a91b11b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Cover_1024.png/1f89f40e67a2ba047d6e12c6352f766f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/wiiu/GimmeGimme_Cover_Online.tga.ckd/d91f3abe2b65eb6dd36705ea1fae78ef.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/wiiu/GimmeGimme_Cover_AlbumBkg.tga.ckd/a4c36beca1be11f4b91540f0fa23bdc2.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/wiiu/GimmeGimme_Cover_AlbumCoach.tga.ckd/1ad02414fc4f96f68acfa555eb756cbd.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Coach_1_Phone.png/46e580a31824a622f4549db41a54c3fc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_Cover_Phone.jpg/3fdb949acfe9bb6a7b45512dd5d50b9b.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_VideoPreview.webm/b488a823a298b1b572d7d0003d092f13.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24192,48576,72960,97392,121776,145632,169392,193872,218400,242496,266592,290640,314736,339312,363888,388512,412560,436560,460560,484560,508560,532753,556945,580561,604177,628033,651889,675745,699601,723697,747793,771937,795745,819505,843313,867121,890881,914161,938401,962689,985969,1009921,1033921,1057921,1081873,1105681,1129393,1153153,1176913,1200865,1224865,1248817,1272817,1296817,1320769,1344769,1368769,1391857,1416193],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":567,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":-1,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/gimmegimme/gimmegimme_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FCC530FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 285.76099999999997,
+  "mapName": "GimmeGimme",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496599\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1473856\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2305370\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2305591\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "GimmeGimme_mapContent"
+  },
+  "parentMapName": "GimmeGimme",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "6600E1FF",
+    "songColor_1B": "050049FF",
+    "songColor_2A": "E2A011FF",
+    "songColor_2B": "811E1EFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+  "urls": {
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_AudioPreview.ogg/44c9ba902639401cd7cec05e14e8caaf.ogg",
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_HIGH.vp8.webm/e159d513c18bfc7315c838746e170fc6.webm",
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_HIGH.vp9.webm/19b5d6c6722ae349d1f1ac37a0c46f3f.webm",
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_LOW.vp8.webm/bfc7ce18efe981d136db0e9e8b7f722e.webm",
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_LOW.vp9.webm/40ca85e095f171586693c00334e346dd.webm",
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_MID.vp8.webm/cabe8f2a236ab8226780036f637c3c81.webm",
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_MID.vp9.webm/3788b8dd90e202e8042bf916e7006560.webm",
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_ULTRA.vp8.webm/27d0495cc3105228fe18bcfacd2437be.webm",
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_ULTRA.vp9.webm/e3882fbbbf62e5f6529d8699cb6aca38.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "bba976e9101ce46fd1e4cdb3426426b1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GimmeGimme/ps4/GimmeGimme_MAIN_SCENE_ORBIS.zip/bba976e9101ce46fd1e4cdb3426426b1.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "17960b0ae4bed974f89b5e479a3631b2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GimmeGimme/pc/GimmeGimme_MAIN_SCENE_PC.zip/17960b0ae4bed974f89b5e479a3631b2.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "93e3b800e096b733d57992e1f31bffcb",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GimmeGimme/wiiu/GimmeGimme_MAIN_SCENE_WIIU.zip/93e3b800e096b733d57992e1f31bffcb.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "7bc0831c2a28975cb53ad13ea9dcead2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GimmeGimme/nx/GimmeGimme_MAIN_SCENE_NX.zip/7bc0831c2a28975cb53ad13ea9dcead2.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

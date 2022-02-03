@@ -1,0 +1,100 @@
+{
+  "artist": "Rick Astley",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/ggp/NeverGonna_banner_bkg.tga.ckd/a3550c1bd498c3544d0601dbd62290b1.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/ggp/NeverGonna_Coach_1.tga.ckd/959ce3bb41c96245dc82f9de68ebac26.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/ggp/NeverGonna_Cover_Generic.tga.ckd/f5e3df31fa49f603a591512101e56f82.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/ggp/NeverGonna_Cover_Online.tga.ckd/f5e3df31fa49f603a591512101e56f82.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/ggp/NeverGonna_Cover_AlbumBkg.tga.ckd/d188aec867c7eea1a6d1341c07d06b40.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/ggp/NeverGonna_Cover_AlbumCoach.tga.ckd/aaa736204a89d2c8cd20251eee47c847.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/NeverGonna_Coach_1_Phone.png/762b6840663fff3d4b30096007d71b79.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/NeverGonna_Cover_Phone.jpg/f42e099f473f608b8574756b9acd1784.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/NeverGonna/NeverGonna_VideoPreview.webm/94e3bc63413623b6573165c631572b81.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/ggp/NeverGonna_map_bkg.tga.ckd/61ef9c6cfc575110c636a9f22eef232e.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/nx/NeverGonna_banner_bkg.tga.ckd/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/nx/NeverGonna_Coach_1.tga.ckd/13463a1680c9621180f5fa845f13403b.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/nx/NeverGonna_Cover_Generic.tga.ckd/971e3dad4f977b01174ede12b883a418.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/nx/NeverGonna_Cover_Online.tga.ckd/a3cbbf5736efec95bb7a9affd570dc7a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/nx/NeverGonna_Cover_AlbumBkg.tga.ckd/04095f9663dd5de4af15b4db12e2a460.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/nx/NeverGonna_Cover_AlbumCoach.tga.ckd/cc3b59d11fb842e485cfb3420db4600a.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/nx/NeverGonna_map_bkg.tga.ckd/c708b99b71e35d6a802334f830bd6b71.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/NeverGonna_Coach_1_Phone.png/762b6840663fff3d4b30096007d71b79.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/NeverGonna/NeverGonna_Cover_Phone.jpg/f42e099f473f608b8574756b9acd1784.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/NeverGonna/NeverGonna_VideoPreview.webm/94e3bc63413623b6573165c631572b81.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25403,50806,76209,101612,127015,152418,177821,203224,228627,254030,279433,304836,330239,355642,381045,406448,431851,457254,482657,508060,533463,558866,584269,609672,635075,660478,685881,711284,736687,762090,787493,812896,838299,863702,889105,914508,939911,965314,990717,1016120,1041523,1066926,1092329,1117732,1143135,1168538,1193941,1219344,1244747,1270150,1295553,1320956,1346359,1371762,1397165,1422568],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":398,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":56,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/nevergonna/nevergonna_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "E54174FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 211.19,
+  "mapName": "NeverGonna",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495437\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1440504\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1687145\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1687326\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "NeverGonna_mapContent"
+  },
+  "parentMapName": "NeverGonna",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "D0A58DFF",
+    "songColor_1B": "362D4CFF",
+    "songColor_2A": "505286FF",
+    "songColor_2B": "8850C0FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Never Gonna Give You Up",
+  "urls": {
+    "jmcs://jd-contents/NeverGonna/NeverGonna_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/NeverGonna/NeverGonna_AudioPreview.ogg/31c940cfd2388dbaeeb977ad687a8eed.ogg",
+    "jmcs://jd-contents/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_HIGH.vp8.webm/2042426c07ead743f5d43843388651e9.webm",
+    "jmcs://jd-contents/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_HIGH.vp9.webm/ce9196d87cd9501cdf05bc9f8f25bfc2.webm",
+    "jmcs://jd-contents/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_LOW.vp8.webm/9f04d330fc2dea1fc8717e94059f2afb.webm",
+    "jmcs://jd-contents/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_LOW.vp9.webm/014819af5dcc640a20bb8e8e9dafe828.webm",
+    "jmcs://jd-contents/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_MID.vp8.webm/832a71bbc09faac33520d80c30ace871.webm",
+    "jmcs://jd-contents/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_MID.vp9.webm/cdcf089875b3eceecb765118cfa7e77c.webm",
+    "jmcs://jd-contents/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_ULTRA.vp8.webm/cb79ad8e0c3c1d4450167fbef0a296f7.webm",
+    "jmcs://jd-contents/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/NeverGonna/NeverGonna_MapPreviewNoSoundCrop_ULTRA.vp9.webm/281fc5c5524f17eb4cbea1d665a46c3d.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "aa6ff7983bc709d56d5c11df0ba4d1ae",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/NeverGonna/ps4/NeverGonna_MAIN_SCENE_ORBIS.zip/aa6ff7983bc709d56d5c11df0ba4d1ae.zip",
+      "version": 30
+    },
+    "pc": {
+      "md5": "491b23dfb8bd927eb75e48f08f412550",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/NeverGonna/pc/NeverGonna_MAIN_SCENE_PC.zip/491b23dfb8bd927eb75e48f08f412550.zip",
+      "version": 26
+    },
+    "wiiu": {
+      "md5": "",
+      "version": 0
+    },
+    "nx": {
+      "md5": "a1130e69ccc41128023167d06798717c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/NeverGonna/nx/NeverGonna_MAIN_SCENE_NX.zip/a1130e69ccc41128023167d06798717c.zip",
+      "version": 31
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,111 @@
+{
+  "artist": "David Correy Ft. Monobloco",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_banner_bkg.jpg/c1e122d1718a7e861696b2f2311366af.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Coach_1.png/35ac1a4b0db073637fb16e25a4309e8c.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Cover_Generic.jpg/11a4f927a6c3e50522222001b4549551.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Cover_1024.png/7d00c98aa07135dac14f6a25fa074592.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Cover_Online.jpg/3e7917aa80469477cba8ffd730f1d026.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Cover_AlbumBkg.jpg/163d4a600367bcde3451691b17e30f85.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Cover_AlbumCoach.png/1a7835b9d49157d35255b2105c7208ed.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Coach_1_Phone.png/270407f21a148e504bcfcb3cb3911c21.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Cover_Phone.jpg/3e7917aa80469477cba8ffd730f1d026.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_banner_bkg.jpg/c1e122d1718a7e861696b2f2311366af.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Coach_1.png/35ac1a4b0db073637fb16e25a4309e8c.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Cover_Generic.jpg/11a4f927a6c3e50522222001b4549551.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Cover_1024.png/7d00c98aa07135dac14f6a25fa074592.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Cover_Online.jpg/3e7917aa80469477cba8ffd730f1d026.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Cover_AlbumBkg.jpg/163d4a600367bcde3451691b17e30f85.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Cover_AlbumCoach.png/1a7835b9d49157d35255b2105c7208ed.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Coach_1_Phone.png/270407f21a148e504bcfcb3cb3911c21.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Cover_Phone.jpg/3e7917aa80469477cba8ffd730f1d026.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/wiiu/TheWorldDLC_banner_bkg.tga.ckd/cf09f82b0523bcb966a201d7decd40d3.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/wiiu/TheWorldDLC_Coach_1.tga.ckd/12286e4f315367e6e973f3d7f9bbfa18.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/wiiu/TheWorldDLC_Cover_Generic.tga.ckd/2a602f1aff132dfbc86f849d926b4a3e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Cover_1024.png/7d00c98aa07135dac14f6a25fa074592.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/wiiu/TheWorldDLC_Cover_Online.tga.ckd/688ea894f3e1cbd082130d8c777a419f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/wiiu/TheWorldDLC_Cover_AlbumBkg.tga.ckd/46c29b0d12b3ac70e2a390af9e9ef941.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/wiiu/TheWorldDLC_Cover_AlbumCoach.tga.ckd/613c1e29fe8e9df87f342f28dea1983a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Coach_1_Phone.png/270407f21a148e504bcfcb3cb3911c21.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_Cover_Phone.jpg/3e7917aa80469477cba8ffd730f1d026.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22513,45025,67537,90001,112513,135025,157536,180001,202513,225025,247537,270001,292513,315025,337537,360001,382513,405024,427536,450001,472513,495025,517536,540001,562513,585024,607537,630001,652513,675024,697536,720001,742513,765025,787536,810001,832513,855024,877537,900000,922513,945024,967537,990000,1012513,1035024,1057537,1080000,1102513,1125025,1147537,1170001,1192513,1215024,1237537,1260000,1282513,1305024,1327537,1350000,1372513,1395025,1417537],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":332,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/theworlddlc/theworlddlc_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "E61D2BFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 155.625,
+  "mapName": "TheWorldDLC",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496842\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1443552\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1612968\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1614152\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "TheWorldDLC_mapContent"
+  },
+  "parentMapName": "TheWorldDLC",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "F35100FF",
+    "songColor_1B": "4A0000FF",
+    "songColor_2A": "FFF500FF",
+    "songColor_2B": "3F6F00FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "The World Is Ours",
+  "urls": {
+    "jmcs://jd-contents/TheWorldDLC/TheWorldDLC_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_AudioPreview.ogg/03f138db0bb4b4f5780de2a23723f2a7.ogg",
+    "jmcs://jd-contents/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm/7d8f28ff4b190b7192949e0d55b5113a.webm",
+    "jmcs://jd-contents/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm/1c93db54337a7de1d0cdfcf3f3700b94.webm",
+    "jmcs://jd-contents/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/cdcddadaa5c90d6c7905c4f17e88b0b6.webm",
+    "jmcs://jd-contents/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_LOW.vp9.webm/bd253df06827680dacd2cbaf8f0a1717.webm",
+    "jmcs://jd-contents/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_MID.vp8.webm/4e6178067ac43aff6dd244ee744b539b.webm",
+    "jmcs://jd-contents/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_MID.vp9.webm/4bbd295d88f94ea78eabd0ef57f15e86.webm",
+    "jmcs://jd-contents/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm/c7e971e58ddca40c429a53809aed9228.webm",
+    "jmcs://jd-contents/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/TheWorldDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm/78d7148a544f13ca30917fbca4d3f326.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "fe57eda87d477ce6862943d44203e905",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/ps4/TheWorldDLC_MAIN_SCENE_ORBIS.zip/fe57eda87d477ce6862943d44203e905.zip",
+      "version": 8
+    },
+    "pc": {
+      "md5": "80f1a717511cfc140f75d1de209053f3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/pc/TheWorldDLC_MAIN_SCENE_PC.zip/80f1a717511cfc140f75d1de209053f3.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "c6c8da0569077615f03038ce8c6f6d7a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/wiiu/TheWorldDLC_MAIN_SCENE_WIIU.zip/c6c8da0569077615f03038ce8c6f6d7a.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "75b1d2a3ab61a6df4d91969606bc2be2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheWorldDLC/nx/TheWorldDLC_MAIN_SCENE_NX.zip/75b1d2a3ab61a6df4d91969606bc2be2.zip",
+      "version": 8
+    }
+  },
+  "mapType": "jdu"
+}

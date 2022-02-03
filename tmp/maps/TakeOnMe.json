@@ -1,0 +1,111 @@
+{
+  "artist": "a-ha",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_banner_bkg.jpg/ae028a4d0f976350708dd114b2bad873.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Coach_1.png/3b70d34cc98a437390d2b29db59a5ec9.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Cover_Generic.jpg/d11fc570dab59ce7c0fda42ea2d1ca5f.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Cover_1024.png/a96c1dc896ef521fdeabb84268438d15.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Cover_Online.jpg/1fc46a338896629726595db59d28cdc8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Cover_AlbumBkg.jpg/0aae7ea57d96734e948e112c206715ce.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Cover_AlbumCoach.png/d7897de90f72ad4a80d5359d1cec91ce.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Coach_1_Phone.png/3cea6c12969c5ff990e28fc8de97cc87.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Cover_Phone.jpg/1fc46a338896629726595db59d28cdc8.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_banner_bkg.jpg/ae028a4d0f976350708dd114b2bad873.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Coach_1.png/3b70d34cc98a437390d2b29db59a5ec9.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Cover_Generic.jpg/d11fc570dab59ce7c0fda42ea2d1ca5f.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Cover_1024.png/a96c1dc896ef521fdeabb84268438d15.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Cover_Online.jpg/1fc46a338896629726595db59d28cdc8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Cover_AlbumBkg.jpg/0aae7ea57d96734e948e112c206715ce.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Cover_AlbumCoach.png/d7897de90f72ad4a80d5359d1cec91ce.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Coach_1_Phone.png/3cea6c12969c5ff990e28fc8de97cc87.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Cover_Phone.jpg/1fc46a338896629726595db59d28cdc8.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/wiiu/TakeOnMe_banner_bkg.tga.ckd/31af1d97ccf3b75ab4f62ae760965048.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/wiiu/TakeOnMe_Coach_1.tga.ckd/988e4c5fa39772e30a2f4918813bac31.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/wiiu/TakeOnMe_Cover_Generic.tga.ckd/98e6d3aa260f86863ced497166868f6d.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Cover_1024.png/a96c1dc896ef521fdeabb84268438d15.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/wiiu/TakeOnMe_Cover_Online.tga.ckd/e747343df24e349e359e3c9adce8c079.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/wiiu/TakeOnMe_Cover_AlbumBkg.tga.ckd/c4192c7479a7ad4d823a59127c6e4d04.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/wiiu/TakeOnMe_Cover_AlbumCoach.tga.ckd/bc758ae1596e0e3839dcfe3e3c7a2c1a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Coach_1_Phone.png/3cea6c12969c5ff990e28fc8de97cc87.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_Cover_Phone.jpg/1fc46a338896629726595db59d28cdc8.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,16884,33964,51018,68163,85203,102244,119284,136325,153374,171011,187412,205096,221493,238638,255508,272667,289629,306669,323666,341351,357765,374875,391848,409513,425910,443594,460008,477676,494115,511219,528188,545489,563470,579309,596493,613573,630490,647619,664599,681768,699324,715856,733031,749993,767056,784057,801215,818347,835266,852367,869451,889156,903606,920730,937770,954898,971851,989005,1006002,1023156,1040127,1057145,1074225,1091383,1108350,1125373,1142466,1159689,1176586,1193653,1210719,1228017,1244827,1261828,1278908,1296423,1312993,1331270,1347126,1364724,1381260,1398261,1415321,1432492],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":624,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":84,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/takeonme/takeonme_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFFF10FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 221.748,
+  "mapName": "TakeOnMe",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496513\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1134501\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1140293\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1140387\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "TakeOnMe_mapContent"
+  },
+  "parentMapName": "TakeOnMe",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "00D3DAFF",
+    "songColor_1B": "020033FF",
+    "songColor_2A": "CC1379FF",
+    "songColor_2B": "31124BFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Take On Me",
+  "urls": {
+    "jmcs://jd-contents/TakeOnMe/TakeOnMe_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_AudioPreview.ogg/873835a632afbfd029ff0b4b7620f977.ogg",
+    "jmcs://jd-contents/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_HIGH.vp8.webm/54360720cb28dec84da01f630b43d5c3.webm",
+    "jmcs://jd-contents/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_HIGH.vp9.webm/10f68fa162fe5da32b52436122664759.webm",
+    "jmcs://jd-contents/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_LOW.vp8.webm/1766e1df9907d13294f480ed0d9bf495.webm",
+    "jmcs://jd-contents/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_LOW.vp9.webm/1ded49cebde1e0b761230206b8c51bae.webm",
+    "jmcs://jd-contents/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_MID.vp8.webm/64176b57c8882930cd615710bd890d43.webm",
+    "jmcs://jd-contents/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_MID.vp9.webm/4ee14ebdfbe91668d47161e25bb5eca9.webm",
+    "jmcs://jd-contents/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm/0528bc763a747b73384620bd949f4c72.webm",
+    "jmcs://jd-contents/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TakeOnMe/TakeOnMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm/63d9932b1ca5507d9ecd3118f2b1c065.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "6d18f44a6d1c15811845c7680ede4947",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TakeOnMe/ps4/TakeOnMe_MAIN_SCENE_ORBIS.zip/6d18f44a6d1c15811845c7680ede4947.zip",
+      "version": 9
+    },
+    "pc": {
+      "md5": "1cea98e4fc085893d2e882548954b582",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TakeOnMe/pc/TakeOnMe_MAIN_SCENE_PC.zip/1cea98e4fc085893d2e882548954b582.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "d4b7b09340f54cbe9e655d4c98c13e30",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TakeOnMe/wiiu/TakeOnMe_MAIN_SCENE_WIIU.zip/d4b7b09340f54cbe9e655d4c98c13e30.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "d94f0d64fdbac719d754fea100b3a361",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TakeOnMe/nx/TakeOnMe_MAIN_SCENE_NX.zip/d94f0d64fdbac719d754fea100b3a361.zip",
+      "version": 10
+    }
+  },
+  "mapType": "jdu"
+}

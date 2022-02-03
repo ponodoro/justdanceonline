@@ -1,0 +1,96 @@
+{
+  "artist": "The Just Dance Orchestra",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_banner_bkg.jpg/53dfb87cc39dd83e81dc681f1b363de6.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Coach_1.png/7b3f337ba4e149c8d38b84b2958aedd5.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Coach_2.png/38ecac1e1437f062a5d5cbe1d38591d1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Cover_Generic.jpg/3aa46fec17b075fb516bb72ec2ac7c42.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Cover_Online.jpg/4dac98b0522688660cd491327b2f7db4.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Cover_AlbumBkg.jpg/68e5313f7afb61bf08fbe41e46062920.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Cover_AlbumCoach.png/642ee8e869ca33497b8e4bf8ca18ce4d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Coach_1_Phone.png/1bf69fed51ea1c051e88a96da9e388d9.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Coach_2_Phone.png/ec702cdca510562bc68d5246b6d0fd25.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Cover_Phone.jpg/4dac98b0522688660cd491327b2f7db4.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_banner_bkg.jpg/53dfb87cc39dd83e81dc681f1b363de6.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Coach_1.png/7b3f337ba4e149c8d38b84b2958aedd5.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Coach_2.png/38ecac1e1437f062a5d5cbe1d38591d1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Cover_Generic.jpg/3aa46fec17b075fb516bb72ec2ac7c42.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Cover_Online.jpg/4dac98b0522688660cd491327b2f7db4.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Cover_AlbumBkg.jpg/68e5313f7afb61bf08fbe41e46062920.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Cover_AlbumCoach.png/642ee8e869ca33497b8e4bf8ca18ce4d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Coach_1_Phone.png/1bf69fed51ea1c051e88a96da9e388d9.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Coach_2_Phone.png/ec702cdca510562bc68d5246b6d0fd25.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BalletKids/BalletKids_Cover_Phone.jpg/4dac98b0522688660cd491327b2f7db4.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24038,48076,72114,96152,120478,144805,169131,193458,217028,240599,264170,287741,312696,337651,362606,387561,411183,434804,458426,482048,505288,528529,551769,575010,598822,622634,646446,670258,695213,720169,745124,770079,794272,818465,842658,866851,890854,914856,938859,962861,986102,1009343,1032583,1055824,1080207,1104591,1128975,1153358,1177075,1200792,1224509,1248226,1272133,1296040,1319948,1343855,1367667,1391479,1415291,1439103],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-10,\"endBeat\":176,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":60,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/balletkids/balletkids_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Julian Gallant, Jeff Meegan, David Tobin and Rob Kelly. Published by Audio Network Canada Inc. Courtesy of Audio Network Canada Inc.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "C48BF9FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 93.28399999999999,
+  "mapName": "BalletKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495267\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BalletKids/BalletKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"644-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-644\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480360\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BalletKids/BalletKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2431334\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BalletKids/BalletKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2497420\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BalletKids/BalletKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "BalletKids_mapContent"
+  },
+  "parentMapName": "BalletKids",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "9542BBFF",
+    "songColor_1B": "271626FF",
+    "songColor_2A": "D9E4E6FF",
+    "songColor_2B": "FADD09FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "subscribedSong"
+  ],
+  "title": "Dance Of The Mirlitons",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "f40687b15b0ec720ea9ced2641a1abe3",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/BalletKids/ps4/BalletKids_MAIN_SCENE_ORBIS.zip/f40687b15b0ec720ea9ced2641a1abe3.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "b3f993dd87fcd6f043d13d63ef5ca9d1",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/BalletKids/nx/BalletKids_MAIN_SCENE_NX.zip/b3f993dd87fcd6f043d13d63ef5ca9d1.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "5d1d7d0603960d90e35b1c5ab6634c65",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/BalletKids/pc/5d1d7d0603960d90e35b1c5ab6634c65.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939,
+  "urls": {
+    "jmcs://jd-contents/BalletKids/BalletKids_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/BalletKids/BalletKids_AudioPreview.ogg/2a9b69894607e57c4f4d3ad6e7c66b01.ogg",
+    "jmcs://jd-contents/BalletKids/BalletKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BalletKids/BalletKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/5db9333acb5a76da0ef33d068225e52b.webm",
+    "jmcs://jd-contents/BalletKids/BalletKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BalletKids/BalletKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/4cc3a0c937557561447ac146a290281d.webm",
+    "jmcs://jd-contents/BalletKids/BalletKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BalletKids/BalletKids_MapPreviewNoSoundCrop_LOW.vp8.webm/7aa78d2973050cbb9198a664874d8a97.webm",
+    "jmcs://jd-contents/BalletKids/BalletKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BalletKids/BalletKids_MapPreviewNoSoundCrop_LOW.vp9.webm/ea89874f1a462e9112f10998d7228073.webm",
+    "jmcs://jd-contents/BalletKids/BalletKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BalletKids/BalletKids_MapPreviewNoSoundCrop_MID.vp8.webm/c36d286f76add9992119ef57d5e5d81d.webm",
+    "jmcs://jd-contents/BalletKids/BalletKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BalletKids/BalletKids_MapPreviewNoSoundCrop_MID.vp9.webm/4d93ebfa52462777d346b79ebb5297db.webm",
+    "jmcs://jd-contents/BalletKids/BalletKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BalletKids/BalletKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d4a8aabb44934e6feb74dfc675390760.webm",
+    "jmcs://jd-contents/BalletKids/BalletKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BalletKids/BalletKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/dee70b2077890e4a30c2d82d58913377.webm"
+  }
+}

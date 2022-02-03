@@ -1,0 +1,119 @@
+{
+  "artist": "Ece Seçkin",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/ps4/Adeyyo_banner_bkg.tga.ckd/ca298f1048d7bd306e728fd505fee6b0.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/ps4/Adeyyo_Coach_1.tga.ckd/744987608a290d2616b413c9c70e6e6d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/ps4/Adeyyo_Cover_Generic.tga.ckd/9ad6533384a2bf8d39cbb4e38aaf8960.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_Cover_1024.png/08a00a0139d849c6b60773936f2a65fd.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/ps4/Adeyyo_Cover_Online.tga.ckd/832572296b07d0c707f06f8bc3f70029.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/ps4/Adeyyo_Cover_AlbumBkg.tga.ckd/e4d851feb4ff984e7ec887745a0e255f.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/ps4/Adeyyo_Cover_AlbumCoach.tga.ckd/7a6e2f0f1539a20a2c3f3b49bc5df63b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_Coach_1_Phone.png/46005183903b8e9e661779f2b080c0c9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_Cover_Phone.jpg/9e25608813d888a169d4c5ff1a58e521.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/ps4/Adeyyo_map_bkg.tga.ckd/676003cdfd2ae3ea4638fc7251f1a365.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/nx/Adeyyo_banner_bkg.tga.ckd/1357e48abee2b1bab3883f318f746738.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/nx/Adeyyo_Coach_1.tga.ckd/9dc17125858947a1edd8d1166813633e.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/nx/Adeyyo_Cover_Generic.tga.ckd/7bdec2eb4063836568fc888cce1e5215.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_Cover_1024.png/08a00a0139d849c6b60773936f2a65fd.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/nx/Adeyyo_Cover_Online.tga.ckd/667fa53f7b5d39e17ad68eb5a017c121.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/nx/Adeyyo_Cover_AlbumBkg.tga.ckd/1b68f7d9910be3f5e08847f53f11bf2b.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/nx/Adeyyo_Cover_AlbumCoach.tga.ckd/728cb47d295e74c83466e593b4cfd8ea.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_Coach_1_Phone.png/46005183903b8e9e661779f2b080c0c9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_Cover_Phone.jpg/9e25608813d888a169d4c5ff1a58e521.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/nx/Adeyyo_map_bkg.tga.ckd/4c709223152b129d44969a6adcec1cb9.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_banner_bkg.jpg/cb0133b2ce1d48c02f05a2dfec03fb85.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_Coach_1.png/28a0216b9dca3a6ac696814e0f944757.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_Cover_Generic.jpg/eb0519d0cec562ddd81a59454b3a1920.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_Cover_1024.png/08a00a0139d849c6b60773936f2a65fd.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_Cover_Online.jpg/9e25608813d888a169d4c5ff1a58e521.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_Cover_AlbumBkg.jpg/fd98e5509f6d354e276dd37027f26fa5.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_Cover_AlbumCoach.png/76166943148421490de48f710787e02e.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_Coach_1_Phone.png/46005183903b8e9e661779f2b080c0c9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_Cover_Phone.jpg/9e25608813d888a169d4c5ff1a58e521.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,30288,60624,90960,121248,151584,181872,212208,242496,272832,303168,333456,363792,394080,424416,454752,485040,515376,545664,576001,606289,636625,666961,697249,727585,757873,788209,818497,848833,879169,909457,939793,970081,1000417,1030753,1061041,1091378,1121666,1152002,1182290,1212626,1242962,1273250,1303586,1333874,1364210,1394498,1424834],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":363,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":47,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/adeyyo/adeyyo_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Aysen Şimşekyay, Kemal Şimşekyay and arranged by Ozan Doğulu. Published by DMC & PRM. Courtesy of DGL. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "6FFFB6FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 231.78799999999998,
+  "mapName": "Adeyyo",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"494515\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1105\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1479108\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"617-1107\">\r\n\t\t\t\t\t<Initialization range=\"0-617\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2941218\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"617-1107\">\r\n\t\t\t\t\t<Initialization range=\"0-617\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4363527\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"617-1107\">\r\n\t\t\t\t\t<Initialization range=\"0-617\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "Adeyyo_mapContent"
+  },
+  "parentMapName": "Adeyyo",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "010342FF",
+    "songColor_1B": "411554FF",
+    "songColor_2A": "97FAFCFF",
+    "songColor_2B": "11B7C6FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Adeyyo",
+  "urls": {
+    "jmcs://jd-contents/Adeyyo/Adeyyo_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_AudioPreview.ogg/02f14559419c919b5045e67afe886bbb.ogg",
+    "jmcs://jd-contents/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_HIGH.vp8.webm/87bafe50891e3c2f7b464e9a9a3642a5.webm",
+    "jmcs://jd-contents/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_HIGH.vp9.webm/4ee523e060d3883f767e44b65bad323c.webm",
+    "jmcs://jd-contents/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_LOW.vp8.webm/26926b2960299c40c8215868089a5b55.webm",
+    "jmcs://jd-contents/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_LOW.vp9.webm/d00e6861667de214d68f20dd986bb7fb.webm",
+    "jmcs://jd-contents/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_MID.vp8.webm/45dbf07161ea6463297bb717c7fc2672.webm",
+    "jmcs://jd-contents/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_MID.vp9.webm/67fa7ca6a1f356d4aea7bfc42249c9e1.webm",
+    "jmcs://jd-contents/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_ULTRA.vp8.webm/bf622b44f199afe46706f33c67a407f9.webm",
+    "jmcs://jd-contents/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_ULTRA.vp9.webm/80a0a6ef57ad80e3ad2d6a305299ee8c.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "6e7eb1b6f253eb3dc63b0d23cc44c463",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Adeyyo/ps4/Adeyyo_MAIN_SCENE_ORBIS.zip/6e7eb1b6f253eb3dc63b0d23cc44c463.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "aa87529a784bf1cc6a14b2d4d1e1eb60",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Adeyyo/nx/Adeyyo_MAIN_SCENE_NX.zip/aa87529a784bf1cc6a14b2d4d1e1eb60.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "218f16387e152f77a083e7c87ef80f62",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/adeyyo_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,123 @@
+{
+  "artist": "Michelle Delamor",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/ps4/KeepOn_banner_bkg.tga.ckd/5fc6e84e50d2d1ede6a777843fe3eb1e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/ps4/KeepOn_Coach_1.tga.ckd/da38b65be30547b7926a0543a1bcc4dd.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/ps4/KeepOn_Cover_Generic.tga.ckd/5dc32bc68d0aaf4181237c763d0c209f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_Cover_1024.png/cc775b80fdf8b3744eaa74c4201d2b48.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/ps4/KeepOn_Cover_Online.tga.ckd/975cf9f801044f4256d944976c317097.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/ps4/KeepOn_Cover_AlbumBkg.tga.ckd/94bcdf225e6fd6523679d82e6ab101a9.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/ps4/KeepOn_Cover_AlbumCoach.tga.ckd/825dfb9e558903279f35c718e27d65b1.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_Coach_1_Phone.png/8b69a6abb398056c315816b2d2f24568.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_Cover_Phone.jpg/362233c3a0ab0a0a9fd89b2ce9f1c456.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_VideoPreview.webm/ee5cf249dc31af0a47ba04c79e493912.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/ps4/KeepOn_map_bkg.tga.ckd/034b2075ad2089f140678ba19d56b8ca.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/nx/KeepOn_banner_bkg.tga.ckd/82ce41caff9bee079c93dd6be64bd897.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/nx/KeepOn_Coach_1.tga.ckd/e9a6154b6fbfdfebc2892309a8d613cc.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/nx/KeepOn_Cover_Generic.tga.ckd/6c4676be14148819a4b39ee754d8c8db.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_Cover_1024.png/cc775b80fdf8b3744eaa74c4201d2b48.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/nx/KeepOn_Cover_Online.tga.ckd/37449c363aa4f759cb7082efd0dffb00.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/nx/KeepOn_Cover_AlbumBkg.tga.ckd/486c5c0612f26398b6b4312f2e46a461.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/nx/KeepOn_Cover_AlbumCoach.tga.ckd/b6d5c724cb30abf883c44e046f23bc90.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_Coach_1_Phone.png/8b69a6abb398056c315816b2d2f24568.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_Cover_Phone.jpg/362233c3a0ab0a0a9fd89b2ce9f1c456.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_VideoPreview.webm/ee5cf249dc31af0a47ba04c79e493912.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/nx/KeepOn_map_bkg.tga.ckd/947d1d6078e806eb5a6a39fddf26d71b.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/wiiu/KeepOn_banner_bkg.tga.ckd/6816ce6315b4102a664e9a7e037b4638.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/wiiu/KeepOn_Coach_1.tga.ckd/0dfdcb724fdcebb40130e249cae11964.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/wiiu/KeepOn_Cover_Generic.tga.ckd/cd8c4e856818a15644f25f4d07317169.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_Cover_1024.png/cc775b80fdf8b3744eaa74c4201d2b48.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/wiiu/KeepOn_Cover_Online.tga.ckd/28d413cace2a741bc9d489f13be7c1be.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/wiiu/KeepOn_Cover_AlbumBkg.tga.ckd/e9c20f2e11dabf3649d918b4d908339e.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/wiiu/KeepOn_Cover_AlbumCoach.tga.ckd/b834c8ca59f28d86ecf9dfe2571831f2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_Coach_1_Phone.png/8b69a6abb398056c315816b2d2f24568.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_Cover_Phone.jpg/362233c3a0ab0a0a9fd89b2ce9f1c456.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_VideoPreview.webm/ee5cf249dc31af0a47ba04c79e493912.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28224,56448,84672,112944,141168,169392,197616,225840,254112,282336,310560,338784,367056,395280,423504,451728,480000,508224,536447,564671,592943,621167,649391,677615,705839,734111,762335,790559,818783,847055,875279,903503,931727,959999,988223,1016447,1044671,1072943,1101166,1129390,1157614,1185838,1214110,1242334,1270558,1298782,1327054,1355278,1383502,1411726,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":313,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":51,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/keepon/keepon_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Ivan Corraliza, Michelle Delamor and Robert Stefan. Published by Kobalt Music Publishing, Michelle Delamor and Robert Stefan. Courtesy of Ubiloud / Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "43C1F0FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 188.236,
+  "mapName": "KeepOn",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495778\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KeepOn/KeepOn_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1332592\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KeepOn/KeepOn_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1557625\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KeepOn/KeepOn_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1560783\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KeepOn/KeepOn_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "KeepOn_mapContent"
+  },
+  "parentMapName": "KeepOn",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "3BBEF2FF",
+    "songColor_1B": "0C2732FF",
+    "songColor_2A": "F3B873FF",
+    "songColor_2B": "E1521AFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2018"
+  ],
+  "title": "Keep On Moving",
+  "urls": {
+    "jmcs://jd-contents/KeepOn/KeepOn_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_AudioPreview.ogg/d0e170d9cc8eb57398a048e2b3cc869b.ogg",
+    "jmcs://jd-contents/KeepOn/KeepOn_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_MapPreviewNoSoundCrop_HIGH.vp8.webm/3f62b866f758e668b397e48ba8f9f2e1.webm",
+    "jmcs://jd-contents/KeepOn/KeepOn_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_MapPreviewNoSoundCrop_HIGH.vp9.webm/ce54bc147053ee02fc18e47740c38988.webm",
+    "jmcs://jd-contents/KeepOn/KeepOn_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_MapPreviewNoSoundCrop_LOW.vp8.webm/5c9c854eeac2a38eb864490578114caf.webm",
+    "jmcs://jd-contents/KeepOn/KeepOn_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_MapPreviewNoSoundCrop_LOW.vp9.webm/0d4ddb3d056c517a2e4fdcf4857f13d5.webm",
+    "jmcs://jd-contents/KeepOn/KeepOn_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_MapPreviewNoSoundCrop_MID.vp8.webm/05d113ca6dd16ac769a9305007cf6f2d.webm",
+    "jmcs://jd-contents/KeepOn/KeepOn_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_MapPreviewNoSoundCrop_MID.vp9.webm/b37edb992966cafe5b949a0cbf436fcc.webm",
+    "jmcs://jd-contents/KeepOn/KeepOn_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_MapPreviewNoSoundCrop_ULTRA.vp8.webm/2b81697e7be3829a22768f6308239a6f.webm",
+    "jmcs://jd-contents/KeepOn/KeepOn_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KeepOn/KeepOn_MapPreviewNoSoundCrop_ULTRA.vp9.webm/da21396764ea7d4f887789409fbfb6f1.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a20f95678289aac97fb8dae8714b5c94",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KeepOn/ps4/KeepOn_MAIN_SCENE_ORBIS.zip/a20f95678289aac97fb8dae8714b5c94.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "40e920c3c4e192bf3a52ad255c9b4de3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KeepOn/nx/KeepOn_MAIN_SCENE_NX.zip/40e920c3c4e192bf3a52ad255c9b4de3.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "0d3c8567017f15c5fedb2d1b96c22046",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/KeepOn/pc/0d3c8567017f15c5fedb2d1b96c22046.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "fb9dc554b8db55ee402d9a46edec284f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KeepOn/wiiu/KeepOn_MAIN_SCENE_WIIU.zip/fb9dc554b8db55ee402d9a46edec284f.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

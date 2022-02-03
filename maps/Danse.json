@@ -1,0 +1,114 @@
+{
+  "artist": "Tal",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_banner_bkg.jpg/0b8b1f463242d7529ed65fe3728bd2ee.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Coach_1.png/d2ddef61a83bbbf064e70ff79cd768d1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Cover_Generic.jpg/ae0cb58c173bf8222dffec8cdeaed474.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Cover_1024.png/381e021fe9dda56a080933d92248f781.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Cover_Online.jpg/d39c6742fd01eecb256aa7252396cad8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Cover_AlbumBkg.jpg/6b278ff1b8fb47379e68199818df02a3.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Cover_AlbumCoach.png/3c1ffbed90ffc03aabc7ac4afeacfa6d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Coach_1_Phone.png/3b401f0dca09a170d154665fda25ad24.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Cover_Phone.jpg/d39c6742fd01eecb256aa7252396cad8.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Danse/Danse_VideoPreview.webm/5623baf67988111e6536a5ddb2e972fa.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_banner_bkg.jpg/0b8b1f463242d7529ed65fe3728bd2ee.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Coach_1.png/d2ddef61a83bbbf064e70ff79cd768d1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Cover_Generic.jpg/ae0cb58c173bf8222dffec8cdeaed474.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Cover_1024.png/381e021fe9dda56a080933d92248f781.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Cover_Online.jpg/d39c6742fd01eecb256aa7252396cad8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Cover_AlbumBkg.jpg/6b278ff1b8fb47379e68199818df02a3.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Cover_AlbumCoach.png/3c1ffbed90ffc03aabc7ac4afeacfa6d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Coach_1_Phone.png/3b401f0dca09a170d154665fda25ad24.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Cover_Phone.jpg/d39c6742fd01eecb256aa7252396cad8.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Danse/Danse_VideoPreview.webm/5623baf67988111e6536a5ddb2e972fa.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/wiiu/Danse_banner_bkg.tga.ckd/4b93a17bda2d297775c5ff55efed1fbb.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/wiiu/Danse_Coach_1.tga.ckd/a8a52a9367a45bcf27416ceb658655b1.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/wiiu/Danse_Cover_Generic.tga.ckd/984a1b0759a64dbf657f9c3257ddee9b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Cover_1024.png/381e021fe9dda56a080933d92248f781.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/wiiu/Danse_Cover_Online.tga.ckd/1684c4ede714467c62b26b067a43b721.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/wiiu/Danse_Cover_AlbumBkg.tga.ckd/363c4903290412e015428c1d367d36c1.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/wiiu/Danse_Cover_AlbumCoach.tga.ckd/23908e3a5ae4431e401541fe8f4e8bb3.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Coach_1_Phone.png/3b401f0dca09a170d154665fda25ad24.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Danse/Danse_Cover_Phone.jpg/d39c6742fd01eecb256aa7252396cad8.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Danse/Danse_VideoPreview.webm/5623baf67988111e6536a5ddb2e972fa.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22848,45744,68592,91440,114288,137136,160032,182880,205728,228576,251424,274272,297168,320016,342864,365712,388560,411456,434303,457151,479999,502847,525743,548591,571439,594287,617135,640031,662879,685727,708575,731423,754271,777167,800015,822863,845711,868559,891455,914302,937150,959998,982846,1005742,1028590,1051438,1074286,1097134,1120030,1142878,1165726,1188574,1211422,1234270,1257166,1280014,1302862,1325710,1348558,1371454,1394301,1417149,1439997],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":376,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/danse/danse_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FB7910FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 179.048,
+  "mapName": "Danse",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496496\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Danse/Danse_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1475122\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Danse/Danse_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2401428\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Danse/Danse_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2427476\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Danse/Danse_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "Danse_mapContent"
+  },
+  "parentMapName": "Danse",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "3DC8F5FF",
+    "songColor_1B": "470061FF",
+    "songColor_2A": "F5AC80FF",
+    "songColor_2B": "7F0060FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Danse (Pop version)",
+  "urls": {
+    "jmcs://jd-contents/Danse/Danse_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Danse/Danse_AudioPreview.ogg/3c67c1db430a26f749829da81f00b9a2.ogg",
+    "jmcs://jd-contents/Danse/Danse_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Danse/Danse_MapPreviewNoSoundCrop_HIGH.vp8.webm/6f67f23f82fb7774a124cc2a299d6370.webm",
+    "jmcs://jd-contents/Danse/Danse_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Danse/Danse_MapPreviewNoSoundCrop_HIGH.vp9.webm/0b8e28ce2e0ffdeb7caf02e791bcaa42.webm",
+    "jmcs://jd-contents/Danse/Danse_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Danse/Danse_MapPreviewNoSoundCrop_LOW.vp8.webm/44c5b0c64af6d85abc6aeb572b06952b.webm",
+    "jmcs://jd-contents/Danse/Danse_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Danse/Danse_MapPreviewNoSoundCrop_LOW.vp9.webm/5a5468be2a86cfad6222422b1eca19f6.webm",
+    "jmcs://jd-contents/Danse/Danse_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Danse/Danse_MapPreviewNoSoundCrop_MID.vp8.webm/66785f64d885803af0437a563ca8d86c.webm",
+    "jmcs://jd-contents/Danse/Danse_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Danse/Danse_MapPreviewNoSoundCrop_MID.vp9.webm/cfa7f717bf8cdabe38e357e9516186ee.webm",
+    "jmcs://jd-contents/Danse/Danse_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Danse/Danse_MapPreviewNoSoundCrop_ULTRA.vp8.webm/dac99279904fa9f82c39c589085c44fa.webm",
+    "jmcs://jd-contents/Danse/Danse_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Danse/Danse_MapPreviewNoSoundCrop_ULTRA.vp9.webm/7843b0e6472edecf060c6902b711c227.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "5996804735f9de584296b4d82c472342",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Danse/ps4/Danse_MAIN_SCENE_ORBIS.zip/5996804735f9de584296b4d82c472342.zip",
+      "version": 13
+    },
+    "pc": {
+      "md5": "a222ff06faa06d1ef09f79f24d9762e2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Danse/pc/Danse_MAIN_SCENE_PC.zip/a222ff06faa06d1ef09f79f24d9762e2.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "142a861aae15646c1750ad0d33bbc9be",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Danse/wiiu/Danse_MAIN_SCENE_WIIU.zip/142a861aae15646c1750ad0d33bbc9be.zip",
+      "version": 13
+    },
+    "nx": {
+      "md5": "adac05a61ce231f7619cb7ee0da6f949",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Danse/nx/Danse_MAIN_SCENE_NX.zip/adac05a61ce231f7619cb7ee0da6f949.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

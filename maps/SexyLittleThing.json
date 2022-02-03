@@ -1,0 +1,81 @@
+{
+  "artist": "Anja",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/textures/SexyLittleThing_banner_bkg.png",
+      "coach1ImageUrl": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/textures/SexyLittleThing_Coach_1.png",
+      "coverImageUrl": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/textures/SexyLittleThing_Cover_Generic.png",
+      "cover_smallImageUrl": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/textures/SexyLittleThing_Cover_Generic.png",
+      "expandCoachImageUrl": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/textures/SexyLittleThing_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/textures/SexyLittleThing_Coach_1.png",
+      "phoneCoverImageUrl": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/textures/SexyLittleThing_Cover_Generic.png",
+      "map_bkgImageUrl": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/textures/SexyLittleThing_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,15743,38063,60382,82701,105021,127388,149707,172027,194346,216665,238985,261304,283624,305943,328262,350630,372949,395268,417588,439907,462226,484546,506865,529184,551552,573871,596191,618510,640829,663149,685468,707787,730107,752426,774793,797113,819432,841751,864071,886390,908710,931029,953348,975668,998035,1020354,1042674,1064993,1087312,1109632,1131951,1154270,1176590,1198957,1221277,1243596,1265915,1288235,1310554,1332873,1355193],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":\"438\",\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/SexyLittleThing/SexyLittleThing_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "f30188FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 438,
+  "mapName": "SexyLittleThing",
+  "mapType": "custom",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497536\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SexyLittleThing/SexyLittleThing_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1486093\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SexyLittleThing/SexyLittleThing_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2964966\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SexyLittleThing/SexyLittleThing_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5891936\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SexyLittleThing/SexyLittleThing_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "SexyLittleThing_mapContent"
+  },
+  "parentMapName": "SexyLittleThing",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "203D7CFF",
+    "songColor_1B": "0B173AFF",
+    "songColor_2A": "3FC0E5FF",
+    "songColor_2B": "090924FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main"
+  ],
+  "title": "Crazy Little Thing",
+  "urls": {
+    "jmcs://jd-contents/SexyLittleThing/SexyLittleThing_AudioPreview.ogg": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/SexyLittleThing_AudioPreview.ogg",
+    "jmcs://jd-contents/SexyLittleThing/SexyLittleThing_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/SexyLittleThing_VideoPreview.webm",
+    "jmcs://jd-contents/SexyLittleThing/SexyLittleThing_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/SexyLittleThing_VideoPreview.webm",
+    "jmcs://jd-contents/SexyLittleThing/SexyLittleThing_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/SexyLittleThing_VideoPreview.webm",
+    "jmcs://jd-contents/SexyLittleThing/SexyLittleThing_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/SexyLittleThing_VideoPreview.webm",
+    "jmcs://jd-contents/SexyLittleThing/SexyLittleThing_MapPreviewNoSoundCrop_MID.vp8.webm": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/SexyLittleThing_VideoPreview.webm",
+    "jmcs://jd-contents/SexyLittleThing/SexyLittleThing_MapPreviewNoSoundCrop_MID.vp9.webm": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/SexyLittleThing_VideoPreview.webm",
+    "jmcs://jd-contents/SexyLittleThing/SexyLittleThing_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/SexyLittleThing_VideoPreview.webm",
+    "jmcs://jd-contents/SexyLittleThing/SexyLittleThing_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/SexyLittleThing_VideoPreview.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "df9f320051bc6f2df5de2ab299369f96",
+      "storageType": 0,
+      "url": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/pc/pc_df9f320051bc6f2df5de2ab299369f96.zip",
+      "version": 2
+    },
+    "ps4": {
+      "md5": "f347f3517185e8c6fde60a16c478e867",
+      "storageType": 0,
+      "url": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/ps4/orbis_f347f3517185e8c6fde60a16c478e867.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "ee0ba0a10ca4195ba9667467589a3e0f",
+      "storageType": 0,
+      "url": "https://public-cdn.justdancebest.tk/public/map/SexyLittleThing/nx/nx_ee0ba0a10ca4195ba9667467589a3e0f.zip",
+      "version": 2
+    }
+  }
+}

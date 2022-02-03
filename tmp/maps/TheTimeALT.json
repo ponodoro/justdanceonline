@@ -1,0 +1,105 @@
+{
+  "artist": "Black Eyed Peas",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/ps4/TheTimeALT_banner_bkg.tga.ckd/351f23cff8f3f92abfa6467d374bffc4.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/ps4/TheTimeALT_Coach_1.tga.ckd/3c467cf94bff244d6a610fb1ef2d8fc5.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/ps4/TheTimeALT_Cover_Generic.tga.ckd/56d5ea215b68e7b584a7177349b34109.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/TheTimeALT_Cover_1024.png/5cbea1ce0bb84edee713934cbae397e0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/ps4/TheTimeALT_Cover_Online.tga.ckd/6ff883e716ab795dbc7e3958a785a196.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/ps4/TheTimeALT_Cover_AlbumBkg.tga.ckd/f31559f9f1328e56ac9e5fae0598f291.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/ps4/TheTimeALT_Cover_AlbumCoach.tga.ckd/c4bee599bb1dffe71ec8624c683dabba.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/TheTimeALT_Coach_1_Phone.png/3812c8c2a033ddd795877769d157a577.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/TheTimeALT_Cover_Phone.jpg/71d3f25b44d051d94615b841aadced05.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/ps4/TheTimeALT_map_bkg.tga.ckd/547b036502377828bf6b433f13b97120.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/nx/TheTimeALT_banner_bkg.tga.ckd/dbdbf3088ae692e291968bed71dbac8c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/nx/TheTimeALT_Coach_1.tga.ckd/e14fcd8eaaab62c4c503a5b49d6e088a.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/nx/TheTimeALT_Cover_Generic.tga.ckd/a67e37728aaf72a682af38ca5f9f9b2b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/TheTimeALT_Cover_1024.png/5cbea1ce0bb84edee713934cbae397e0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/nx/TheTimeALT_Cover_Online.tga.ckd/0cc127717974aaf1e2ed102d1c77ee2c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/nx/TheTimeALT_Cover_AlbumBkg.tga.ckd/963ee9c91c1ad8502f61002bcef0e8e7.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/nx/TheTimeALT_Cover_AlbumCoach.tga.ckd/a4cd1691451ee4723c70a3fe73fca837.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/TheTimeALT_Coach_1_Phone.png/3812c8c2a033ddd795877769d157a577.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/TheTimeALT_Cover_Phone.jpg/71d3f25b44d051d94615b841aadced05.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheTimeALT/nx/TheTimeALT_map_bkg.tga.ckd/f8091f2f90cce093d46565cbeb2062b7.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22500,45000,67500,90000,112500,135000,157500,180000,202500,225000,247500,270000,292500,315000,337500,360000,382500,405000,427500,450000,472500,495000,517500,540000,562500,585000,607500,630000,652500,675000,697500,720000,742500,765000,787500,810000,832500,855000,877500,900000,922500,945000,967500,990000,1012500,1035000,1057500,1080000,1102500,1125000,1147500,1170000,1192500,1215000,1237500,1260000,1282500,1305000,1327500,1350000,1372500,1395000,1417500],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":520,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/thetimealt/thetimealt_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Will Adams, John DeNicola, Damien Leroy, Donald Markowitz, Allan Apll Pineda and Franke Previte. Published by Sony/ATV Tunes LLC (ASCAP). / Kobalt Songs Music Publishing obo Marcu Music Company Inc. / RU Cyrius Publishing (ASCAP) / Knockout Music (ASCAP) / Calspen Music (ASCAP) / BMG Sapphire Songs on behalf of itself, I am composing LLC., BMG Sapphire Songs on behalf of Apl de ap publishing LLC. All rights administered by BMG Rights Management (US) LLC. All rights reserved. Used with permission. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+  "difficulty": 4,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "C3FF31FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 245.625,
+  "mapName": "TheTimeALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496916\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1372081\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1709702\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1711043\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "TheTimeALT_mapContent"
+  },
+  "parentMapName": "TheTime",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "00949CFF",
+    "songColor_1B": "25004EFF",
+    "songColor_2A": "FF3F00FF",
+    "songColor_2B": "720018FF"
+  },
+  "status": 12,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Alternate",
+    "subscribedSong"
+  ],
+  "title": "The Time (Dirty Bit)",
+  "urls": {
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TheTimeALT/TheTimeALT_AudioPreview.ogg/6c3397959370794bf40a361d73b04f90.ogg",
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/31bf77b661e5cbe069c62dfe9251620d.webm",
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/2300a427bb87b677553f83adc12facc4.webm",
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_LOW.vp8.webm/9882b7e09e48ae131bffdee9d82ab875.webm",
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_LOW.vp9.webm/28db77476173e67ed0d9886ef3be8169.webm",
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_MID.vp8.webm/18935b301342c5cdf7aa5fbf5aee6b30.webm",
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_MID.vp9.webm/95ba3c9433a949edb496c8c1f62052ac.webm",
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/c873c4e9af3d3a3c880da35467855082.webm",
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/27da3fd8d1ae3328c62e37fd1b6b0c11.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "2b941defcd1579d75cf32e77bc4fa5fb",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheTimeALT/ps4/TheTimeALT_MAIN_SCENE_ORBIS.zip/2b941defcd1579d75cf32e77bc4fa5fb.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "4c0a307826bfd03215cf8d29bca5d6f6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheTimeALT/nx/TheTimeALT_MAIN_SCENE_NX.zip/4c0a307826bfd03215cf8d29bca5d6f6.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "ff9deaad090527b9d9551e3d9f98544a",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/TheTimeALT/pc/ff9deaad090527b9d9551e3d9f98544a.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12631
+}

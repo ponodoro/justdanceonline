@@ -1,0 +1,67 @@
+{
+    "__class": "JD_CarouselContent",
+    "categories": [
+        {
+            "__class": "Category",
+            "title": "Just Dance 2017",
+            "act": "quest_carousel",
+            "isc": "quest_row",
+            "items": [
+                {
+                    "__class": "Item",
+                    "offlineRequest": {
+                        "__class": "JD_CarouselQuestRequest",
+                        "offline": true,
+                        "uuid": "c5a89b10-6130-45f7-b259-b50202e375a0",
+                        "actionListName": "questUnlocked"
+                    }
+                }
+            ]
+        },
+        {
+            "__class": "Category",
+            "title": "Just Dance Best",
+            "act": "quest_carousel",
+            "isc": "quest_row_unlimited",
+            "items": [
+                {
+                    "__class": "Item",
+                    "isc": "quest_item",
+                    "act": "ui_component_base",
+                    "components": [
+                        {
+                            "__class": "JD_CarouselContentComponent_Quest",
+                            "questId": "23888482"
+                        }
+                    ],
+                    "actionList": "questUnlocked"
+                }
+            ]
+        }
+    ],
+    "actionLists": {
+        "questUnlocked": {
+            "__class": "ActionList",
+            "actions": [
+                {
+                    "__class": "Action",
+                    "title": "Dance",
+                    "type": "start-quest"
+                }
+            ],
+            "itemType": "quest"
+        },
+        "questLocked": {
+            "__class": "ActionList",
+            "actions": [
+                {
+                    "__class": "Action",
+                    "title": "Dance",
+                    "type": "display-upsell-quest"
+                }
+            ],
+            "itemType": "quest"
+        }
+    },
+    "songItemLists": {}
+}

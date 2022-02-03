@@ -1,0 +1,220 @@
+{
+	"__class": "JD_CarouselContent",
+	"categories": [
+		{
+			"__class": "Category",
+			"title": "Dancer Cards",
+			"act": "ui_carousel",
+			"isc": "grp_row",
+			"items": [
+				{
+					"__class": "Item",
+					"offlineRequest": {
+						"__class": "JD_CarouselDancerCardRequest",
+						"isSaveItem": true,
+						"uuid": "f02934b9-647d-46b3-9d8f-d9983e7cfd7d",
+						"actions": []
+					}
+				},
+				{
+					"__class": "Item",
+					"offlineRequest": {
+						"__class": "JD_CarouselDancerCardRequest",
+						"main": true,
+						"uuid": "0ff6ad3b-a0fb-4253-b12a-ef01e813874f",
+						"actions": [
+							{
+								"__class": "Action",
+								"bannerType": "dancer",
+								"title": "Change Avatar",
+								"type": "change-avatar"
+							},
+							{
+								"__class": "Action",
+								"bannerType": "dancer",
+								"title": "Change Skin",
+								"type": "change-skin"
+							},
+							{
+								"__class": "Action",
+								"bannerType": "dancer",
+								"title": "Edit Nickname",
+								"type": "edit-nickname"
+							}
+						]
+					}
+				},
+				{
+					"__class": "Item",
+					"offlineRequest": {
+						"__class": "JD_CarouselDancerCardRequest",
+						"uuid": "a22c81fd-4e56-439c-a42d-74d17c55a6c0",
+						"actions": [
+							{
+								"__class": "Action",
+								"bannerType": "dancer",
+								"title": "Set as Active",
+								"type": "set-as-main"
+							},
+							{
+								"__class": "Action",
+								"bannerType": "dancer",
+								"title": "Change Avatar",
+								"type": "change-avatar"
+							},
+							{
+								"__class": "Action",
+								"bannerType": "dancer",
+								"title": "Change Skin",
+								"type": "change-skin"
+							},
+							{
+								"__class": "Action",
+								"bannerType": "dancer",
+								"title": "Edit Nickname",
+								"type": "edit-nickname"
+							},
+							{
+								"__class": "Action",
+								"bannerType": "dancer",
+								"title": "Delete",
+								"type": "delete-dancer-card"
+							}
+						]
+					}
+				},
+				{
+					"__class": "Item",
+					"offlineRequest": {
+						"__class": "JD_CarouselDancerCardRequest",
+						"create": true,
+						"uuid": "69478a6a-20ad-47ee-9cfa-c42af702984a",
+						"actions": [
+							{
+								"__class": "Action",
+								"bannerContext": "CONTEXT_ADD",
+								"bannerType": "dancer",
+								"title": "New Dancer Card",
+								"type": "create-dancer-card"
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"__class": "Category",
+			"title": "Friends",
+			"act": "ui_carousel",
+			"isc": "grp_row",
+			"items": []
+		},
+		{
+			"__class": "Category",
+			"title": "Autodances",
+			"act": "ui_carousel",
+			"isc": "grp_row_wide",
+			"order": "ugc-time",
+			"items": [
+				{
+					"__class": "Item",
+					"offlineRequest": {
+						"__class": "JD_CarouselUgcRequest",
+						"actionListNameSelf": "localautodance",
+						"actionListNameUpsell": "upsell",
+						"display": "ugc",
+						"maxCount": 30,
+						"offline": true,
+						"type": "ad",
+						"uuid": "7f6445f1-f8fa-4a58-b3a6-e5f4fe4e337a",
+						"actions": [
+							{
+								"__class": "Action",
+								"bannerType": "AUTODANCE_LOCAL",
+								"title": "Share to Video Galleries",
+								"type": "share-autodance-jdtv"
+							},
+							{
+								"__class": "Action",
+								"bannerType": "AUTODANCE_LOCAL",
+								"title": "Share to Facebook & JDTV",
+								"type": "share-autodance-jdtv-facebook"
+							},
+							{
+								"__class": "Action",
+								"bannerType": "AUTODANCE_LOCAL",
+								"title": "Delete",
+								"type": "delete-autodance"
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"__class": "Category",
+			"title": "Just Dance Machine",
+			"act": "ui_carousel",
+			"isc": "grp_row_wide",
+			"order": "ugc-time",
+			"items": [
+				{
+					"__class": "Item",
+					"offlineRequest": {
+						"__class": "JD_CarouselUgcRequest",
+						"actionListNameSelf": "localdancemachine",
+						"actionListNameUpsell": "upsell",
+						"display": "ugc",
+						"maxCount": 30,
+						"offline": true,
+						"playerPid": true,
+						"type": "dm",
+						"uuid": "ca68227e-4b0b-4703-8421-f33d1cae5df2",
+						"actions": [
+							{
+								"__class": "Action",
+								"bannerType": "autodance_jdm_local",
+								"title": "Share to Video Galleries",
+								"type": "share-autodance-jdtv"
+							},
+							{
+								"__class": "Action",
+								"bannerType": "autodance_jdm_local",
+								"title": "Share to Facebook & JDTV",
+								"type": "share-autodance-jdtv-facebook"
+							},
+							{
+								"__class": "Action",
+								"bannerType": "autodance_jdm_local",
+								"title": "Delete",
+								"type": "delete-autodance"
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"__class": "Category",
+			"title": "Photos",
+			"act": "ui_carousel",
+			"isc": "grp_row",
+			"items": [
+				{
+					"__class": "Item",
+					"offlineRequest": {
+						"__class": "JD_CarouselPhotoRequest",
+						"actions": [
+							{
+								"__class": "Action",
+								"bannerType": "PHOTO",
+								"title": "Delete photo",
+								"type": "photo-delete"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}

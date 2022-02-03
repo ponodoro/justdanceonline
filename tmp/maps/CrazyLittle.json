@@ -1,0 +1,117 @@
+{
+  "artist": "Queen",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_banner_bkg.jpg/d9b94243477aa4095b47464a2a014c25.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Coach_1.png/01731777c83f0ac32773dc05515991ea.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Coach_2.png/a0b18325b0763009ff50762cd7aef4af.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Cover_Generic.jpg/981a850e3fdb3d9fa06994bf303c3ca1.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Cover_1024.png/f1b16128b36936acc7cbc0d327ce2d2e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Cover_Online.jpg/6e9846c4262564bd989a75efc036ed5b.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Cover_AlbumBkg.jpg/635815c5f6d3e9e1062e0d52ab212dca.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Cover_AlbumCoach.png/792f58046d27f7fa46ad0c560defe2f2.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Coach_1_Phone.png/db1feb88b6a73cf6bc538dc17633a3ac.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Coach_2_Phone.png/419c8fe509165131ecac321d3cc78245.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Cover_Phone.jpg/6e9846c4262564bd989a75efc036ed5b.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_banner_bkg.jpg/d9b94243477aa4095b47464a2a014c25.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Coach_1.png/01731777c83f0ac32773dc05515991ea.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Coach_2.png/a0b18325b0763009ff50762cd7aef4af.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Cover_Generic.jpg/981a850e3fdb3d9fa06994bf303c3ca1.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Cover_1024.png/f1b16128b36936acc7cbc0d327ce2d2e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Cover_Online.jpg/6e9846c4262564bd989a75efc036ed5b.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Cover_AlbumBkg.jpg/635815c5f6d3e9e1062e0d52ab212dca.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Cover_AlbumCoach.png/792f58046d27f7fa46ad0c560defe2f2.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Coach_1_Phone.png/db1feb88b6a73cf6bc538dc17633a3ac.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Coach_2_Phone.png/419c8fe509165131ecac321d3cc78245.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Cover_Phone.jpg/6e9846c4262564bd989a75efc036ed5b.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/wiiu/CrazyLittle_banner_bkg.tga.ckd/194b0466cfa1af77ef62aee6f27e8792.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/wiiu/CrazyLittle_Coach_1.tga.ckd/c906017aecefe371fd7d1b57b6f2c3ea.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/wiiu/CrazyLittle_Coach_2.tga.ckd/8faf7d955de17c1aba8e5b4450d63de8.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/wiiu/CrazyLittle_Cover_Generic.tga.ckd/d841701b34140232445172a86b31e43d.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Cover_1024.png/f1b16128b36936acc7cbc0d327ce2d2e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/wiiu/CrazyLittle_Cover_Online.tga.ckd/f68777a207cec449879fff0a2f2da2c8.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/wiiu/CrazyLittle_Cover_AlbumBkg.tga.ckd/55673730c4219b2e45b7685e17dbd19a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/wiiu/CrazyLittle_Cover_AlbumCoach.tga.ckd/62eeb15db9600b1c3a8f3224e0a03f86.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Coach_1_Phone.png/db1feb88b6a73cf6bc538dc17633a3ac.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Coach_2_Phone.png/419c8fe509165131ecac321d3cc78245.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_Cover_Phone.jpg/6e9846c4262564bd989a75efc036ed5b.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,19410,38507,56837,76491,94264,113988,131691,149969,169118,187832,206545,225259,243972,264828,282548,302255,320446,339681,357559,377108,395021,414823,433249,451962,470676,489389,508103,527931,546087,565704,584419,603133,622682,641753,659273,678892,697606,716319,735033,753746,773087,791452,804592,821495,836586,850771,872550,891233,909625,930153,950515,968416,987687,1005739,1023721,1042434,1061148,1079861,1097460,1115930,1134539,1153879,1172523,1192142,1210855,1229569,1247690,1266996,1284804,1304423,1323136,1341170,1360250,1379276,1397050,1415763,1434476],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":418,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":77,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/crazylittle/crazylittle_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "47D6FFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 163.394,
+  "mapName": "CrazyLittle",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495649\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1469674\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2521486\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2521687\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "CrazyLittle_mapContent"
+  },
+  "parentMapName": "CrazyLittle",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "BB0052FF",
+    "songColor_1B": "280033FF",
+    "songColor_2A": "32AD97FF",
+    "songColor_2B": "090035FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Crazy Little Thing Called Love",
+  "urls": {
+    "jmcs://jd-contents/CrazyLittle/CrazyLittle_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_AudioPreview.ogg/7eae69232fef91b877841d3ecb16a30e.ogg",
+    "jmcs://jd-contents/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_HIGH.vp8.webm/2bb23d22168005f1b6c0821e2716dd46.webm",
+    "jmcs://jd-contents/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_HIGH.vp9.webm/f12eb70bdf7091b7d4fec071994408d4.webm",
+    "jmcs://jd-contents/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_LOW.vp8.webm/072c4ad3b203987fc26c0a8f1e6e4138.webm",
+    "jmcs://jd-contents/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_LOW.vp9.webm/e4a558e4696f2373980ceb04165bb011.webm",
+    "jmcs://jd-contents/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_MID.vp8.webm/ff4aa4b9f36cdf8869390f787621cde4.webm",
+    "jmcs://jd-contents/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_MID.vp9.webm/8047e9ad5c697bde91414fc1189043ce.webm",
+    "jmcs://jd-contents/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_ULTRA.vp8.webm/66bec2bfd692dc6d8d1f9c051f42d207.webm",
+    "jmcs://jd-contents/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/CrazyLittle/CrazyLittle_MapPreviewNoSoundCrop_ULTRA.vp9.webm/50dfd12864f3314067660dbfdbd4dbd1.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "abc23ccff94b279e2bc9eae0f2ebc8b0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CrazyLittle/ps4/CrazyLittle_MAIN_SCENE_ORBIS.zip/abc23ccff94b279e2bc9eae0f2ebc8b0.zip",
+      "version": 10
+    },
+    "pc": {
+      "md5": "7476ed0caffa5bbd1826735ee0141328",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CrazyLittle/pc/CrazyLittle_MAIN_SCENE_PC.zip/7476ed0caffa5bbd1826735ee0141328.zip",
+      "version": 8
+    },
+    "wiiu": {
+      "md5": "91049a80f4218bb55bcd2c6500beef68",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CrazyLittle/wiiu/CrazyLittle_MAIN_SCENE_WIIU.zip/91049a80f4218bb55bcd2c6500beef68.zip",
+      "version": 13
+    },
+    "nx": {
+      "md5": "697783c113b95dea3407bf7032ebdddd",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CrazyLittle/nx/CrazyLittle_MAIN_SCENE_NX.zip/697783c113b95dea3407bf7032ebdddd.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

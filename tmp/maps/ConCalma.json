@@ -1,0 +1,108 @@
+{
+  "artist": "Daddy Yankee Ft. Snow",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/ps4/ConCalma_banner_bkg.tga.ckd/f3067282de74ec204b94677666ff45d5.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/ps4/ConCalma_Coach_1.tga.ckd/767363a2e24e36b65754b5562016a000.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/ps4/ConCalma_Coach_2.tga.ckd/da4a2878cb6663ee322b7b0705125ca8.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/ps4/ConCalma_Cover_Generic.tga.ckd/3520e2b6f705a990587251a62ebcd9b5.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/ConCalma_Cover_1024.png/94079dee7ccc73800ab067d4db2f7894.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/ps4/ConCalma_Cover_Online.tga.ckd/2f3db0ca59abca787556e12b29ae1426.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/ps4/ConCalma_Cover_AlbumBkg.tga.ckd/80eaf990aed7e6b765d0dae04df5590e.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/ps4/ConCalma_Cover_AlbumCoach.tga.ckd/6c970c723487ba1c187636ad56e676a7.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/ConCalma_Coach_1_Phone.png/f4f2b7e831c14d47a691c0e3dcbc827a.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/ConCalma_Coach_2_Phone.png/1e74e015f1353089ced2140f9e1176b8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/ConCalma_Cover_Phone.jpg/22effbab76eb00c3222495b571ef69cf.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/ps4/ConCalma_map_bkg.tga.ckd/cb8b9ddcc7fb8b3f9180b0a0ddb69333.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/nx/ConCalma_banner_bkg.tga.ckd/6fa7846b1c6b9a1f203ba0321e45a07c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/nx/ConCalma_Coach_1.tga.ckd/48b0cb606e0ea325314811e0a004512b.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/nx/ConCalma_Coach_2.tga.ckd/c6a76e8f1aab976cf495d19f6ae9a02c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/nx/ConCalma_Cover_Generic.tga.ckd/353411937f41230b9af678227c324821.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/ConCalma_Cover_1024.png/94079dee7ccc73800ab067d4db2f7894.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/nx/ConCalma_Cover_Online.tga.ckd/da869e8fad3e375524b54d430b6cafea.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/nx/ConCalma_Cover_AlbumBkg.tga.ckd/57a3caffd172032963001409224a1abf.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/nx/ConCalma_Cover_AlbumCoach.tga.ckd/d342c0bde0ca529f71da7205a0e5b263.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/ConCalma_Coach_1_Phone.png/f4f2b7e831c14d47a691c0e3dcbc827a.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/ConCalma_Coach_2_Phone.png/1e74e015f1353089ced2140f9e1176b8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/ConCalma_Cover_Phone.jpg/22effbab76eb00c3222495b571ef69cf.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ConCalma/nx/ConCalma_map_bkg.tga.ckd/9df6bcc76ad8c423485085a6d9cb2af7.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,30638,61277,91915,122553,153191,183830,214468,245106,275745,306383,337021,367660,398298,428936,459574,490213,520851,551489,582128,612766,643404,674043,704681,735319,765957,796596,827234,857872,888511,919149,949787,980426,1011064,1041702,1072340,1102979,1133617,1164255,1194894,1225532,1256170,1286809,1317447,1348085,1378723,1409362],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":303,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":46,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/concalma/concalma_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Ramon Ayala, Michael L. Grier, Edmond Daryll Leary, Shawn Leigh Moltke, Terri Moltke, Darrin O'Brien, Juan Salinas and Oscar Salinas. Published by Universal Music Publishing Canada on behalf of Universal PolyGram Int. Publishing, Inc. / Green Snow Music (ASCAP). All rights on behalf of Green Snow Music administered by WB Music Corp. / EMI April Music Inc. (ASCAP) / Play For Play N Skillz Music (ASCAP) / Los Cangris Inc. (ASCAP). All rights reserved. Used with permission. Courtesy of El Cartel Records/Universal Music Latin Entertainment under license from Universal Music Enterprises. ",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "5C07A2FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 195.319,
+  "mapName": "ConCalma",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497043\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ConCalma/ConCalma_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1090\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483893\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ConCalma/ConCalma_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1088\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2947026\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ConCalma/ConCalma_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1088\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4244221\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ConCalma/ConCalma_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1088\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "ConCalma_mapContent"
+  },
+  "parentMapName": "ConCalma",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "008BBBFF",
+    "songColor_1B": "76CD00FF",
+    "songColor_2A": "24008FFF",
+    "songColor_2B": "3200B6FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Con Calma",
+  "urls": {
+    "jmcs://jd-contents/ConCalma/ConCalma_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ConCalma/ConCalma_AudioPreview.ogg/10dbbae8514859ca1eff545dfda4cacf.ogg",
+    "jmcs://jd-contents/ConCalma/ConCalma_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ConCalma/ConCalma_MapPreviewNoSoundCrop_HIGH.vp8.webm/483cc79e8085b43493f574fb7e19e887.webm",
+    "jmcs://jd-contents/ConCalma/ConCalma_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ConCalma/ConCalma_MapPreviewNoSoundCrop_HIGH.vp9.webm/5854d2abe1f15dd45944170625309566.webm",
+    "jmcs://jd-contents/ConCalma/ConCalma_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ConCalma/ConCalma_MapPreviewNoSoundCrop_LOW.vp8.webm/7c683151b161ae2a3c78cad3ff1383f2.webm",
+    "jmcs://jd-contents/ConCalma/ConCalma_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ConCalma/ConCalma_MapPreviewNoSoundCrop_LOW.vp9.webm/d63bec2296aeae6c504ccdb14d98fee4.webm",
+    "jmcs://jd-contents/ConCalma/ConCalma_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ConCalma/ConCalma_MapPreviewNoSoundCrop_MID.vp8.webm/ecae14771811ead96e0f390d9073e0e1.webm",
+    "jmcs://jd-contents/ConCalma/ConCalma_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ConCalma/ConCalma_MapPreviewNoSoundCrop_MID.vp9.webm/d7e3a8a0f3cb6f2efa7b062f239fad76.webm",
+    "jmcs://jd-contents/ConCalma/ConCalma_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ConCalma/ConCalma_MapPreviewNoSoundCrop_ULTRA.vp8.webm/24a49d5cff31e0356bea30d22a74939b.webm",
+    "jmcs://jd-contents/ConCalma/ConCalma_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ConCalma/ConCalma_MapPreviewNoSoundCrop_ULTRA.vp9.webm/bd0e7aedce60337ebc0d982f3fdfaca3.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "652d198de56754f248dc23c4e1d68181",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ConCalma/ps4/ConCalma_MAIN_SCENE_ORBIS.zip/652d198de56754f248dc23c4e1d68181.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "781c572f83fdd6d40f8d03dbca14bbdf",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ConCalma/nx/ConCalma_MAIN_SCENE_NX.zip/781c572f83fdd6d40f8d03dbca14bbdf.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "57866c90398239d9c8ac92426a8bacc3",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/ConCalma/pc/57866c90398239d9c8ac92426a8bacc3.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

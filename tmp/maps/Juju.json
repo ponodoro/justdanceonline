@@ -1,0 +1,120 @@
+{
+  "artist": "Zay Hilfigerrr & Zayion McCall",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_banner_bkg.jpg/e577c1c4443ca135bb53f0d6d8b3a84d.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Coach_1.png/8cad2e49a3784df4f58e631c82b0c576.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Coach_2.png/c56dbbc0260ee92eb84f27258ab111ca.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Cover_Generic.jpg/7df3af4503251d3bb5a92ac3fa1a04e8.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Cover_1024.png/c97a3ee6f152d30e4f5da72cfa7a3740.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Cover_Online.jpg/c264061f67bb5eadd32544999f64d4a7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Cover_AlbumBkg.jpg/12a4b3e091cf260aca6365f8fd8a7877.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Cover_AlbumCoach.png/12ad072ab10821e243f0c456de189cf4.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Coach_1_Phone.png/5805b6b3b4f68f985d9046788859ecba.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Coach_2_Phone.png/783fc4361c0bda56b4964cc1cc97eea6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Cover_Phone.jpg/c264061f67bb5eadd32544999f64d4a7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Juju/Juju_VideoPreview.webm/14782a8364198e163a60658f89bebbd7.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_banner_bkg.jpg/e577c1c4443ca135bb53f0d6d8b3a84d.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Coach_1.png/8cad2e49a3784df4f58e631c82b0c576.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Coach_2.png/c56dbbc0260ee92eb84f27258ab111ca.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Cover_Generic.jpg/7df3af4503251d3bb5a92ac3fa1a04e8.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Cover_1024.png/c97a3ee6f152d30e4f5da72cfa7a3740.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Cover_Online.jpg/c264061f67bb5eadd32544999f64d4a7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Cover_AlbumBkg.jpg/12a4b3e091cf260aca6365f8fd8a7877.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Cover_AlbumCoach.png/12ad072ab10821e243f0c456de189cf4.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Coach_1_Phone.png/5805b6b3b4f68f985d9046788859ecba.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Coach_2_Phone.png/783fc4361c0bda56b4964cc1cc97eea6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Cover_Phone.jpg/c264061f67bb5eadd32544999f64d4a7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Juju/Juju_VideoPreview.webm/14782a8364198e163a60658f89bebbd7.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/wiiu/Juju_banner_bkg.tga.ckd/a2633195fae3516817dbaf1cfd23c8b8.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/wiiu/Juju_Coach_1.tga.ckd/61af1ed3acfa05a0b5e6fd351702a22d.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/wiiu/Juju_Coach_2.tga.ckd/c5192d673bd17e0d2a78322aa9ee3bc6.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/wiiu/Juju_Cover_Generic.tga.ckd/9c6139dcaa4e0eee98e9727a36b8cbdd.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Cover_1024.png/c97a3ee6f152d30e4f5da72cfa7a3740.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/wiiu/Juju_Cover_Online.tga.ckd/c29d2dc0300d3c47a0698d7964f2e63d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/wiiu/Juju_Cover_AlbumBkg.tga.ckd/f96a24196f27351ed40f454e9820b286.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/wiiu/Juju_Cover_AlbumCoach.tga.ckd/a7bed758f2fbf7d7a17ecdcedd44885c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Coach_1_Phone.png/5805b6b3b4f68f985d9046788859ecba.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Coach_2_Phone.png/783fc4361c0bda56b4964cc1cc97eea6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Juju/Juju_Cover_Phone.jpg/c264061f67bb5eadd32544999f64d4a7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Juju/Juju_VideoPreview.webm/14782a8364198e163a60658f89bebbd7.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,35904,71760,107664,143568,179568,215520,251520,287472,322992,358512,394032,429936,465840,501744,537648,573552,609456,645360,681264,717168,753072,788976,824880,860784,896640,932544,968448,1004352,1040351,1076351,1112351,1148351,1184351,1220351,1256303,1292303,1328015,1363679,1399343,1435007],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":197,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":40,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/juju/juju_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "9803D7FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 151.781,
+  "mapName": "Juju",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495134\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Juju/Juju_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1467071\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Juju/Juju_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"642-1132\">\r\n\t\t\t\t\t<Initialization range=\"0-642\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2544744\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Juju/Juju_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2989790\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Juju/Juju_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "Juju_mapContent"
+  },
+  "parentMapName": "Juju",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "2BB076FF",
+    "songColor_1B": "2F837DFF",
+    "songColor_2A": "29B6AFFF",
+    "songColor_2B": "48FF80FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Juju On That Beat (TZ Anthem)",
+  "urls": {
+    "jmcs://jd-contents/Juju/Juju_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Juju/Juju_AudioPreview.ogg/68666aad9bc5340b389c08a2ef016703.ogg",
+    "jmcs://jd-contents/Juju/Juju_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Juju/Juju_MapPreviewNoSoundCrop_HIGH.vp8.webm/433fd4cfb4553d370c75419c6b42442b.webm",
+    "jmcs://jd-contents/Juju/Juju_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Juju/Juju_MapPreviewNoSoundCrop_HIGH.vp9.webm/dd77f4b9a12e9771dcf9a23d7edc1362.webm",
+    "jmcs://jd-contents/Juju/Juju_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Juju/Juju_MapPreviewNoSoundCrop_LOW.vp8.webm/db7c58b1baf792bba35d9c4c43ad9365.webm",
+    "jmcs://jd-contents/Juju/Juju_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Juju/Juju_MapPreviewNoSoundCrop_LOW.vp9.webm/bd6bf40b77b372dbda14dd3e914b8ea9.webm",
+    "jmcs://jd-contents/Juju/Juju_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Juju/Juju_MapPreviewNoSoundCrop_MID.vp8.webm/7babf834c28bdc12457c90b9820bcd2f.webm",
+    "jmcs://jd-contents/Juju/Juju_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Juju/Juju_MapPreviewNoSoundCrop_MID.vp9.webm/b2b1006d137b58d5853950fb9102e698.webm",
+    "jmcs://jd-contents/Juju/Juju_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Juju/Juju_MapPreviewNoSoundCrop_ULTRA.vp8.webm/5ac8c570adc508debd61173accbf892b.webm",
+    "jmcs://jd-contents/Juju/Juju_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Juju/Juju_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5b93de1d64d47ff987bb0046f65d9faf.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "c9887c7722ff2a10ff1d7c661996808e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Juju/ps4/Juju_MAIN_SCENE_ORBIS.zip/c9887c7722ff2a10ff1d7c661996808e.zip",
+      "version": 33
+    },
+    "pc": {
+      "md5": "3a0db9c4d104080dc5e4a180e21c1c3b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Juju/pc/Juju_MAIN_SCENE_PC.zip/3a0db9c4d104080dc5e4a180e21c1c3b.zip",
+      "version": 17
+    },
+    "wiiu": {
+      "md5": "fe63d5c77e8d71edac3aee611aee164f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Juju/wiiu/Juju_MAIN_SCENE_WIIU.zip/fe63d5c77e8d71edac3aee611aee164f.zip",
+      "version": 33
+    },
+    "nx": {
+      "md5": "5e407625f845b7117c45472e165b4d3c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Juju/nx/Juju_MAIN_SCENE_NX.zip/5e407625f845b7117c45472e165b4d3c.zip",
+      "version": 9
+    }
+  },
+  "mapType": "jdu"
+}

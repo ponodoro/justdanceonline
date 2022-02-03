@@ -1,0 +1,74 @@
+{
+  "artist": "Robbie Williams",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/textures/Candy_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/textures/Candy_Coach_1.png",
+      "coach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/textures/Candy_Coach_2.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/textures/Candy_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/textures/Candy_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/textures/Candy_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/textures/Candy_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/textures/Candy_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/textures/Candy_Coach_1.png",
+      "phoneCoach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/textures/Candy_Coach_2.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/textures/Candy_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/textures/Candy_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/textures/Candy_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22511,44976,67488,90000,112511,134976,157488,180000,202511,224976,247488,269999,292511,314976,337488,359999,382511,404976,427488,449999,472512,494976,517488,539999,562511,584976,607488,629999,652512,674976,697488,719999,742511,764976,787488,809999,832512,854976,877488,899999,922512,944975,967488,989999,1012512,1034976,1057488,1079999,1102512,1124975,1147488,1169999,1192512,1214976,1237488,1259999,1282512,1304975,1327488,1349999,1372512,1394976,1417488],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":488,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/Candy/Candy_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF4500FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 100,
+  "mapName": "Candy",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497759\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Candy/Candy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484234\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Candy/Candy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2956729\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Candy/Candy_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5790405\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Candy/Candy_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "Candy_mapContent"
+  },
+  "parentMapName": "Candy",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FF5105FF",
+    "songColor_1B": "A13100FF",
+    "songColor_2A": "0F5098FF",
+    "songColor_2B": "6385ABFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main"
+  ],
+  "title": "Candy",
+  "urls": {
+    "jmcs://jd-contents/Candy/Candy_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/Candy_AudioPreview.ogg",
+    "jmcs://jd-contents/Candy/Candy_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/nx/Candy_VideoPreview.webm",
+    "jmcs://jd-contents/Candy/Candy_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/nx/Candy_VideoPreview.webm",
+    "jmcs://jd-contents/Candy/Candy_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/nx/Candy_VideoPreview.webm",
+    "jmcs://jd-contents/Candy/Candy_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/nx/Candy_VideoPreview.webm",
+    "jmcs://jd-contents/Candy/Candy_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/nx/Candy_VideoPreview.webm",
+    "jmcs://jd-contents/Candy/Candy_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/nx/Candy_VideoPreview.webm",
+    "jmcs://jd-contents/Candy/Candy_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/nx/Candy_VideoPreview.webm",
+    "jmcs://jd-contents/Candy/Candy_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/nx/Candy_VideoPreview.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "nx": {
+      "md5": "ac1b9c96f4b9bd7fd697040dab994b90",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Candy/nx/ac1b9c96f4b9bd7fd697040dab994b90.zip",
+      "version": 1
+    }
+  },
+  "mapType": "custom"
+}

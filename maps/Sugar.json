@@ -1,0 +1,125 @@
+{
+  "artist": "Maroon 5",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/ps4/Sugar_banner_bkg.tga.ckd/510731b982979a4cd9b33673c9f7f217.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/ps4/Sugar_Coach_1.tga.ckd/81aa5f93e049af520d517db9c5bdde70.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/ps4/Sugar_Coach_2.tga.ckd/104d32a15494e3bc2971f283030cb919.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/ps4/Sugar_Cover_Generic.tga.ckd/fcce0f82af893afb8011a1963ff93a30.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Cover_1024.png/ebdc8edfefe5ee3cda0f7b861a2ffd2a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/ps4/Sugar_Cover_Online.tga.ckd/4fd32cda836248b333a2ab46e7668194.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/ps4/Sugar_Cover_AlbumBkg.tga.ckd/f3e721f185ece05f15f2756ad6ea0d16.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/ps4/Sugar_Cover_AlbumCoach.tga.ckd/4ad9c53cb550c36419f197d4c0854bef.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Coach_1_Phone.png/7d93e602147722ed4d6da3fcafba7ad5.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Coach_2_Phone.png/cf2cf33c478f0cf62bd835b75494c70e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Cover_Phone.jpg/d29d25e42d12887dde4f9819552629c4.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/ps4/Sugar_map_bkg.tga.ckd/58fff44071d9e85717f485c09cd1a7b1.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/nx/Sugar_banner_bkg.tga.ckd/5e8a7e6f2462e457460135d885bc0b9b.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/nx/Sugar_Coach_1.tga.ckd/9fc0633ffbbc64fc1af3916808f2c926.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/nx/Sugar_Coach_2.tga.ckd/d6759ac5157eadba739b1a02cb4b969d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/nx/Sugar_Cover_Generic.tga.ckd/adb00f7d6cc50b0e6401ad39aacd80f1.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Cover_1024.png/ebdc8edfefe5ee3cda0f7b861a2ffd2a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/nx/Sugar_Cover_Online.tga.ckd/f86549d470419faa8cbf635158b83fa6.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/nx/Sugar_Cover_AlbumBkg.tga.ckd/14a126018320fd07487d34cf67d5b63f.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/nx/Sugar_Cover_AlbumCoach.tga.ckd/79ed1505fb226175d935e47b257c3b8f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Coach_1_Phone.png/7d93e602147722ed4d6da3fcafba7ad5.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Coach_2_Phone.png/cf2cf33c478f0cf62bd835b75494c70e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Cover_Phone.jpg/d29d25e42d12887dde4f9819552629c4.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/nx/Sugar_map_bkg.tga.ckd/9787398291252be477030082770f8fa3.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_banner_bkg.jpg/bfef80cfeba6fb83399027383574d0ab.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Coach_1.png/cc22aa5e62c73ceb1bf354bfea6939db.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Coach_2.png/97ec55b2d810a7f3af8049393bbb43f3.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Cover_Generic.jpg/b430f03334280f4e342e7de6abf224ac.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Cover_1024.png/ebdc8edfefe5ee3cda0f7b861a2ffd2a.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Cover_Online.jpg/d29d25e42d12887dde4f9819552629c4.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Cover_AlbumBkg.jpg/a5a104d8bd8d35aedcb484f532ab6a26.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Cover_AlbumCoach.png/1eabc2121f42cd8ec2225e5ea9c70cbd.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Coach_1_Phone.png/7d93e602147722ed4d6da3fcafba7ad5.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Coach_2_Phone.png/cf2cf33c478f0cf62bd835b75494c70e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_Cover_Phone.jpg/d29d25e42d12887dde4f9819552629c4.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24000,48000,71999,96000,120000,144000,168000,192000,216000,240000,264000,288000,312000,336000,360000,384000,408000,432000,456000,480000,504000,528000,552000,576000,600000,624000,648000,672000,696000,720000,744000,768000,792000,816000,840000,864000,888000,912000,936000,960000,983999,1008000,1032000,1056000,1080000,1104000,1128000,1152000,1176000,1200000,1224000,1248000,1272000,1296000,1320000,1343999,1368000,1392000,1416000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":473,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/sugar/sugar_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Adam Noah Levine, Jacob Hindlin, Joshua Coleman, Lukasz Gottwald, Henry Walter and Mike Posner. Published by Songs Of Universal, Inc. on behalf of itself, and Sudgee 2 Music. / Kobalt Music Services America Inc (KMSA) obo Prescription Songs (ASCAP) / Kasz Money Publishing (ASCAP) / Each Note Counts (ASCAP) / Cirkut Breaker LLC (ASCAP) / Kobalt Music Services Ltd (KMS) obo J Kasher Publishing (ASCAP) / Kobalt Music Copyrights SARL / North Greenway Productions (ASCAP) ) c/o Sony/ATV Music Publishing Canada (SOCAN). All rights reserved. Used with permission. Courtesy of Interscope Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FE74C8FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 240,
+  "mapName": "Sugar",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496467\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sugar/Sugar_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"615-1104\">\r\n\t\t\t\t\t<Initialization range=\"0-615\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480782\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sugar/Sugar_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2790706\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sugar/Sugar_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3010104\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sugar/Sugar_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "Sugar_mapContent"
+  },
+  "parentMapName": "Sugar",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "028AC9FF",
+    "songColor_1B": "106CA5FF",
+    "songColor_2A": "E2AA4FFF",
+    "songColor_2B": "FCD2C4FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Sugar",
+  "urls": {
+    "jmcs://jd-contents/Sugar/Sugar_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_AudioPreview.ogg/b1084b8cef4b272531f7d3edafcffe50.ogg",
+    "jmcs://jd-contents/Sugar/Sugar_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_MapPreviewNoSoundCrop_HIGH.vp8.webm/a38d85479fdae7bc8a98732acdbaeb15.webm",
+    "jmcs://jd-contents/Sugar/Sugar_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_MapPreviewNoSoundCrop_HIGH.vp9.webm/1b64854be7ca332a486be4726c666024.webm",
+    "jmcs://jd-contents/Sugar/Sugar_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_MapPreviewNoSoundCrop_LOW.vp8.webm/fe5e8967aaf54b04b6058b41d6d08d31.webm",
+    "jmcs://jd-contents/Sugar/Sugar_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_MapPreviewNoSoundCrop_LOW.vp9.webm/a473bb1a8a3650fd166c5a086cb75c0c.webm",
+    "jmcs://jd-contents/Sugar/Sugar_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_MapPreviewNoSoundCrop_MID.vp8.webm/7d940fe5aa58b7642fdf7893bfc8d2f7.webm",
+    "jmcs://jd-contents/Sugar/Sugar_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_MapPreviewNoSoundCrop_MID.vp9.webm/e645d6086a727bf5ca3e86d5534828ac.webm",
+    "jmcs://jd-contents/Sugar/Sugar_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_MapPreviewNoSoundCrop_ULTRA.vp8.webm/96ac835fab390670388c1c7c47ce175d.webm",
+    "jmcs://jd-contents/Sugar/Sugar_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Sugar/Sugar_MapPreviewNoSoundCrop_ULTRA.vp9.webm/e458a736a15a16c6ccae99d5a27abf7a.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "3f737bfe002dd6ba423d76f52d32586f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Sugar/ps4/Sugar_MAIN_SCENE_ORBIS.zip/3f737bfe002dd6ba423d76f52d32586f.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "ec5ef6acec52fea02e2aa52788783188",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Sugar/nx/Sugar_MAIN_SCENE_NX.zip/ec5ef6acec52fea02e2aa52788783188.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "3720d23d4adc6a5f9c72f4bdfb1f99e0",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/sugar_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

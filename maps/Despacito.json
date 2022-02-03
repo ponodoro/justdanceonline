@@ -1,0 +1,134 @@
+{
+  "artist": "Luis Fonsi & Daddy Yankee",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/ggp/Despacito_banner_bkg.tga.ckd/88287cb3293166e4cb1bc20620d5fd46.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/ggp/Despacito_Coach_1.tga.ckd/31fa537276504e9e30d7711d0f5f0d81.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/ggp/Despacito_Coach_2.tga.ckd/5a4693ea24548348b23a1e550cb80810.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/ggp/Despacito_Coach_3.tga.ckd/ab155330225e6a08da878ccf777253e9.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/ggp/Despacito_Coach_4.tga.ckd/64e2e13ce941a06ec71eaee59efd77f2.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/ggp/Despacito_Cover_Generic.tga.ckd/b24dc6789834fc0c10a7f18d3b48979a.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Cover_1024.png/e01c321219f1da05abb565cd008d35f7.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/ggp/Despacito_Cover_Online.tga.ckd/b24dc6789834fc0c10a7f18d3b48979a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/ggp/Despacito_Cover_AlbumBkg.tga.ckd/9558c029905d135e0d268170fd04e6ef.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/ggp/Despacito_Cover_AlbumCoach.tga.ckd/b7a2aa422e606ee90c3b254c02267e42.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Coach_1_Phone.png/e8b90227c95470f1e8a27269a685c899.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Coach_2_Phone.png/a74941ec8bef75883230776d952e9fca.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Coach_3_Phone.png/a656e3ecfcfc7498e4b13e1672617f38.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Coach_4_Phone.png/bcff3e8e426bae94c8c3f0ce6ce48760.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Cover_Phone.jpg/37a6d939c5417fc8ffe803221d74c380.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_VideoPreview.webm/f07ae5e9ba18fbf313ef242d2704127d.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/ggp/Despacito_map_bkg.tga.ckd/c05f8782ce0e8cea0b7f61d485785341.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/nx/Despacito_banner_bkg.tga.ckd/261ad36277687ab5412ac7067f4adf25.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/nx/Despacito_Coach_1.tga.ckd/499a179bbf3011d9cc50532264027525.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/nx/Despacito_Coach_2.tga.ckd/8dc29e66a381419a31c8df96fabbe5ff.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/nx/Despacito_Coach_3.tga.ckd/ae10961858d35348e65ca38a671b0f89.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/nx/Despacito_Coach_4.tga.ckd/d963b51ee137c0d1a07f561d6b540e51.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/nx/Despacito_Cover_Generic.tga.ckd/3b4a5cd3c15fab2ebe8ceb7a9e403922.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Cover_1024.png/e01c321219f1da05abb565cd008d35f7.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/nx/Despacito_Cover_Online.tga.ckd/3f1945b9e673c58b03fb8a19e4e77ef8.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/nx/Despacito_Cover_AlbumBkg.tga.ckd/ac65d949f911ae89a89df216c9b4502a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/nx/Despacito_Cover_AlbumCoach.tga.ckd/3157921e6ce22ec9c2e03e0f7021b729.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/nx/Despacito_map_bkg.tga.ckd/53a1cc4c2c1fbd06eafffa39f21496b2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Coach_1_Phone.png/e8b90227c95470f1e8a27269a685c899.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Coach_2_Phone.png/a74941ec8bef75883230776d952e9fca.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Coach_3_Phone.png/a656e3ecfcfc7498e4b13e1672617f38.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Coach_4_Phone.png/bcff3e8e426bae94c8c3f0ce6ce48760.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Cover_Phone.jpg/37a6d939c5417fc8ffe803221d74c380.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_VideoPreview.webm/f07ae5e9ba18fbf313ef242d2704127d.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/wiiu/Despacito_banner_bkg.tga.ckd/e5951db20c79918fef92a64b7f43a081.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/wiiu/Despacito_Coach_1.tga.ckd/d945ade949a96351dedbaa342d49283d.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/wiiu/Despacito_Coach_2.tga.ckd/3235ffb04d817108728bedb1d91b9ed9.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/wiiu/Despacito_Coach_3.tga.ckd/235a2035694435226c87eaff685481a5.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/wiiu/Despacito_Coach_4.tga.ckd/4ba6e27fe7bcbcc9e0b2f1eaa3974bad.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/wiiu/Despacito_Cover_Generic.tga.ckd/80cedc07f72ac4d98f20e17240ab0aec.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Cover_1024.png/e01c321219f1da05abb565cd008d35f7.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/wiiu/Despacito_Cover_Online.tga.ckd/377792f2dc333c40af48774b7490ee19.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/wiiu/Despacito_Cover_AlbumBkg.tga.ckd/2f7fafda1a8eacb25e43087814d664ff.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/wiiu/Despacito_Cover_AlbumCoach.tga.ckd/5abdaa6d817c660d1b404332e9306885.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Coach_1_Phone.png/e8b90227c95470f1e8a27269a685c899.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Coach_2_Phone.png/a74941ec8bef75883230776d952e9fca.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Coach_3_Phone.png/a656e3ecfcfc7498e4b13e1672617f38.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Coach_4_Phone.png/bcff3e8e426bae94c8c3f0ce6ce48760.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_Cover_Phone.jpg/37a6d939c5417fc8ffe803221d74c380.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_VideoPreview.webm/f07ae5e9ba18fbf313ef242d2704127d.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,44064,88080,120432,152832,185184,217536,249888,282240,314592,346992,379344,411696,444048,476399,508751,541103,573503,605855,638207,670559,702911,735263,767663,800015,832367,864719,897071,929423,961775,994175,1026527,1058879,1091230,1123582,1155934,1188334,1220686,1253038,1285390,1317742,1350094,1382494,1414846],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2},{\"__class\":\"MusicSignature\",\"marker\":2,\"beats\":4}],\"startBeat\":-5,\"endBeat\":333,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":43,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/despacito/despacito_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "43FFBEFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 228.35299999999998,
+  "mapName": "Despacito",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495544\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Despacito/Despacito_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1475953\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Despacito/Despacito_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2828903\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Despacito/Despacito_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3784096\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Despacito/Despacito_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "Despacito_mapContent"
+  },
+  "parentMapName": "Despacito",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "89500BFF",
+    "songColor_1B": "F9CD52FF",
+    "songColor_2A": "50CBFCFF",
+    "songColor_2B": "02267AFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Despacito",
+  "urls": {
+    "jmcs://jd-contents/Despacito/Despacito_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_AudioPreview.ogg/b7e46bd256856fdf802aa84451015c90.ogg",
+    "jmcs://jd-contents/Despacito/Despacito_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_MapPreviewNoSoundCrop_HIGH.vp8.webm/8e3c668453341a01db89e387ace8d1a3.webm",
+    "jmcs://jd-contents/Despacito/Despacito_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_MapPreviewNoSoundCrop_HIGH.vp9.webm/fe1996ffcb7a022efe7bf8db1fb0c334.webm",
+    "jmcs://jd-contents/Despacito/Despacito_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_MapPreviewNoSoundCrop_LOW.vp8.webm/4b23b3ee2cabe4817381b90fb1024db5.webm",
+    "jmcs://jd-contents/Despacito/Despacito_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_MapPreviewNoSoundCrop_LOW.vp9.webm/3aae356f820a9506afcfc4ec48278c9b.webm",
+    "jmcs://jd-contents/Despacito/Despacito_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_MapPreviewNoSoundCrop_MID.vp8.webm/30d09d05502939ba2b2fcfef2dd2f235.webm",
+    "jmcs://jd-contents/Despacito/Despacito_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_MapPreviewNoSoundCrop_MID.vp9.webm/2ec92c2bc7e5a418bcac4d92072ee04a.webm",
+    "jmcs://jd-contents/Despacito/Despacito_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f138123f2b9339fb273c36f470987a89.webm",
+    "jmcs://jd-contents/Despacito/Despacito_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Despacito/Despacito_MapPreviewNoSoundCrop_ULTRA.vp9.webm/9e36a22c9161bcbbec39022d88d187bb.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "0f0f66f7883f6057fbc88d7accf1910a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Despacito/ps4/Despacito_MAIN_SCENE_ORBIS.zip/0f0f66f7883f6057fbc88d7accf1910a.zip",
+      "version": 8
+    },
+    "pc": {
+      "md5": "394a6d87d767aea40764d7f51ab1c127",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Despacito/pc/Despacito_MAIN_SCENE_PC.zip/394a6d87d767aea40764d7f51ab1c127.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "bf3de1264cc8b57f558f8ee2ea359af5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Despacito/wiiu/Despacito_MAIN_SCENE_WIIU.zip/bf3de1264cc8b57f558f8ee2ea359af5.zip",
+      "version": 8
+    },
+    "nx": {
+      "md5": "938871f3641338323294848eb01e889d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Despacito/nx/Despacito_MAIN_SCENE_NX.zip/938871f3641338323294848eb01e889d.zip",
+      "version": 7
+    }
+  },
+  "mapType": "jdu"
+}

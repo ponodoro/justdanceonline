@@ -1,0 +1,83 @@
+{
+  "artist": "Xiao Hu Dui (The Little Tigers)",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://public-cdn.justdancebest.tk/public/map/JDCLove/textures/JDCLove_banner_bkg.png",
+      "coach1ImageUrl": "https://public-cdn.justdancebest.tk/public/map/JDCLove/textures/JDCLove_Coach_1.png",
+      "coverImageUrl": "https://public-cdn.justdancebest.tk/public/map/JDCLove/textures/JDCLove_Cover_Generic.png",
+      "cover_smallImageUrl": "https://public-cdn.justdancebest.tk/public/map/JDCLove/textures/JDCLove_Cover_Generic.png",
+      "expandCoachImageUrl": "https://public-cdn.justdancebest.tk/public/map/JDCLove/textures/JDCLove_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://public-cdn.justdancebest.tk/public/map/JDCLove/textures/JDCLove_Coach_1.png",
+      "phoneCoverImageUrl": "https://public-cdn.justdancebest.tk/public/map/JDCLove/textures/JDCLove_Cover_Generic.png",
+      "map_bkgImageUrl": "https://public-cdn.justdancebest.tk/public/map/JDCLove/textures/JDCLove_map_bkg.png",
+      "coach2ImageUrl": "https://public-cdn.justdancebest.tk/public/map/JDCLove/textures/JDCLove_Coach_2.png",
+      "phoneCoach2ImageUrl": "https://public-cdn.justdancebest.tk/public/map/JDCLove/textures/JDCLove_Coach_2.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,183648,206592,229536,252528,275472,298416,321360,344304,367248,390240,413184,436128,459072,482016,504960,527952,550896,573840,596640,619392,642192,664992,687792,710544,733344,756144,778896,801696,824496,847248,870048,892848,915648,938400,961200,984000,1006800,1029648,1052448,1075248,1098048,1120848,1143648,1166448,1189248,1212048,1234848,1257648,1280448,1303248,1326048,1348848,1371696],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":\"411\",\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":53,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/JDCLove/JDCLove_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "282bc8FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 411,
+  "mapName": "JDCLove",
+  "mapType": "custom",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497536\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCLove/JDCLove_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1486093\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCLove/JDCLove_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2964966\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCLove/JDCLove_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5891936\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCLove/JDCLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4514,
+  "packages": {
+    "mapContent": "JDCLove_mapContent"
+  },
+  "parentMapName": "JDCLove",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "E16EC7FF",
+    "songColor_1B": "D835B4FF",
+    "songColor_2A": "C4B237FF",
+    "songColor_2B": "998115FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main"
+  ],
+  "title": "Ai (LOVE)",
+  "urls": {
+    "jmcs://jd-contents/JDCLove/JDCLove_AudioPreview.ogg": "https://public-cdn.justdancebest.tk/public/map/JDCLove/JDCLove_AudioPreview.ogg",
+    "jmcs://jd-contents/JDCLove/JDCLove_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://public-cdn.justdancebest.tk/public/map/JDCLove/JDCLove_VideoPreview.webm",
+    "jmcs://jd-contents/JDCLove/JDCLove_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://public-cdn.justdancebest.tk/public/map/JDCLove/JDCLove_VideoPreview.webm",
+    "jmcs://jd-contents/JDCLove/JDCLove_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://public-cdn.justdancebest.tk/public/map/JDCLove/JDCLove_VideoPreview.webm",
+    "jmcs://jd-contents/JDCLove/JDCLove_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://public-cdn.justdancebest.tk/public/map/JDCLove/JDCLove_VideoPreview.webm",
+    "jmcs://jd-contents/JDCLove/JDCLove_MapPreviewNoSoundCrop_MID.vp8.webm": "https://public-cdn.justdancebest.tk/public/map/JDCLove/JDCLove_VideoPreview.webm",
+    "jmcs://jd-contents/JDCLove/JDCLove_MapPreviewNoSoundCrop_MID.vp9.webm": "https://public-cdn.justdancebest.tk/public/map/JDCLove/JDCLove_VideoPreview.webm",
+    "jmcs://jd-contents/JDCLove/JDCLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://public-cdn.justdancebest.tk/public/map/JDCLove/JDCLove_VideoPreview.webm",
+    "jmcs://jd-contents/JDCLove/JDCLove_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://public-cdn.justdancebest.tk/public/map/JDCLove/JDCLove_VideoPreview.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "ff5e3dc0b6c41d20343e949841da5a3b",
+      "storageType": 0,
+      "url": "https://public-cdn.justdancebest.tk/public/map/JDCLove/pc/pc_ff5e3dc0b6c41d20343e949841da5a3b.zip",
+      "version": 2
+    },
+    "ps4": {
+      "md5": "cefa326dac536e9635056f711c78dfa6",
+      "storageType": 0,
+      "url": "https://public-cdn.justdancebest.tk/public/map/JDCLove/ps4/orbis_cefa326dac536e9635056f711c78dfa6.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "e4fc49df7396a2dd2a09a7f1cebd6c03",
+      "storageType": 0,
+      "url": "https://public-cdn.justdancebest.tk/public/map/JDCLove/nx/nx_e4fc49df7396a2dd2a09a7f1cebd6c03.zip",
+      "version": 2
+    }
+  }
+}

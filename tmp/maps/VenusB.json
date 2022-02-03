@@ -1,0 +1,116 @@
+{
+  "artist": "Bananarama",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/ggp/VenusB_banner_bkg.tga.ckd/29feb4d7fcbecd00a0098e3eda5a8a29.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/ggp/VenusB_Coach_1.tga.ckd/a3731012112ee0dee41759a0aab96e46.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/ggp/VenusB_Cover_Generic.tga.ckd/67ff46512f660ed056274516d278372e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_Cover_1024.png/2dfa062cb47e364e81620f8bfefd5550.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/ggp/VenusB_Cover_Online.tga.ckd/47d0f9ee2da8266687e89534f21c7035.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/ggp/VenusB_Cover_AlbumBkg.tga.ckd/9ebfe2cc51eb76adc70726b04fd8891f.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/ggp/VenusB_Cover_AlbumCoach.tga.ckd/055f8fc074e1cc012dc5e50237e28498.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_Coach_1_Phone.png/abce7bbad64deb1e732a7269d549921d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_Cover_Phone.jpg/d2a8e71f3292c4066efc706266133684.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_VideoPreview.webm/320098a1c6d9cc71cdd7388411e8a075.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/ggp/VenusB_map_bkg.tga.ckd/61872e3e3645e18fa42c27a6c070e879.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/nx/VenusB_banner_bkg.tga.ckd/22559ce8e82cad8b466102e148501cbb.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/nx/VenusB_Coach_1.tga.ckd/acf76f5ab39bc6763f7d1a32fdce50a3.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/nx/VenusB_Cover_Generic.tga.ckd/f646fd2497fee3a7ac2ad24c975b68cd.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_Cover_1024.png/2dfa062cb47e364e81620f8bfefd5550.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/nx/VenusB_Cover_Online.tga.ckd/5833070da35b56a1f62a9e5d6f8c582f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/nx/VenusB_Cover_AlbumBkg.tga.ckd/a4497d9ed964f74bbc2527f821d427a6.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/nx/VenusB_Cover_AlbumCoach.tga.ckd/4b3d62de7e9cd9d3e1a7e2ebf1116c58.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/nx/VenusB_map_bkg.tga.ckd/c5c279431b6867e2ff4ecb1b06123da5.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_Coach_1_Phone.png/abce7bbad64deb1e732a7269d549921d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_Cover_Phone.jpg/d2a8e71f3292c4066efc706266133684.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_VideoPreview.webm/320098a1c6d9cc71cdd7388411e8a075.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/wiiu/VenusB_banner_bkg.tga.ckd/88d243f69bae51ff487bda02e7264755.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/wiiu/VenusB_Coach_1.tga.ckd/36516f7866426effa120b05438f03f80.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/wiiu/VenusB_Cover_Generic.tga.ckd/12de027aaad134a87380dc2f725b6f11.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_Cover_1024.png/2dfa062cb47e364e81620f8bfefd5550.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/wiiu/VenusB_Cover_Online.tga.ckd/a531e8a1473ec24658592ef91996d92d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/wiiu/VenusB_Cover_AlbumBkg.tga.ckd/bea9df7e088350d3ddd21c3cfcebf2d1.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/wiiu/VenusB_Cover_AlbumCoach.tga.ckd/4660c609b44d88d4565f4d1489330b9a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_Coach_1_Phone.png/abce7bbad64deb1e732a7269d549921d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_Cover_Phone.jpg/d2a8e71f3292c4066efc706266133684.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_VideoPreview.webm/320098a1c6d9cc71cdd7388411e8a075.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22840,45680,68520,91359,114199,137039,159879,182718,205558,228398,251237,274077,296917,319757,342596,365436,388276,411116,433955,456795,479635,502474,525314,548154,570994,593833,616673,639513,662353,685192,708032,730872,753711,776551,799391,822231,845070,867910,890750,913590,936429,959269,982109,1004948,1027788,1050628,1073468,1096307,1119147,1141987,1164827,1187666,1210506,1233346,1256185,1279025,1301865,1324705,1347544,1370384,1393224,1416064,1438903],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":448,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/venusb/venusb_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFD711FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 213.76999999999998,
+  "mapName": "VenusB",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496669\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/VenusB/VenusB_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"627-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-627\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1245494\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/VenusB/VenusB_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1261772\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/VenusB/VenusB_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1261815\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/VenusB/VenusB_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "VenusB_mapContent"
+  },
+  "parentMapName": "VenusB",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "EFC438FF",
+    "songColor_1B": "BD3113FF",
+    "songColor_2A": "1FA5AEFF",
+    "songColor_2B": "8C0087FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Venus",
+  "urls": {
+    "jmcs://jd-contents/VenusB/VenusB_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_AudioPreview.ogg/b81f6c701ad9f85fca7ded8f7b3feaab.ogg",
+    "jmcs://jd-contents/VenusB/VenusB_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_MapPreviewNoSoundCrop_HIGH.vp8.webm/29df3444d64368ef6b38fedbd7202b06.webm",
+    "jmcs://jd-contents/VenusB/VenusB_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_MapPreviewNoSoundCrop_HIGH.vp9.webm/42b206158c28a215ec76e29a54320f89.webm",
+    "jmcs://jd-contents/VenusB/VenusB_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_MapPreviewNoSoundCrop_LOW.vp8.webm/fec09fe137b55894fd9b2ab14ee41ff1.webm",
+    "jmcs://jd-contents/VenusB/VenusB_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_MapPreviewNoSoundCrop_LOW.vp9.webm/936c3014d921d509c3d8ee69da3a888e.webm",
+    "jmcs://jd-contents/VenusB/VenusB_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_MapPreviewNoSoundCrop_MID.vp8.webm/d917f69a5b26ca07a641e5e148b201c2.webm",
+    "jmcs://jd-contents/VenusB/VenusB_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_MapPreviewNoSoundCrop_MID.vp9.webm/e9eb34f16edc8db124878ef7032912a5.webm",
+    "jmcs://jd-contents/VenusB/VenusB_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_MapPreviewNoSoundCrop_ULTRA.vp8.webm/521babb41638c46542e3475c90250ccd.webm",
+    "jmcs://jd-contents/VenusB/VenusB_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/VenusB/VenusB_MapPreviewNoSoundCrop_ULTRA.vp9.webm/c9dfc375d4fed1ce3113951f8964d388.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "c9b367c9cff74b04c2b5a7d6df59855c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/VenusB/ps4/VenusB_MAIN_SCENE_ORBIS.zip/c9b367c9cff74b04c2b5a7d6df59855c.zip",
+      "version": 19
+    },
+    "pc": {
+      "md5": "f7c1e46808ee4ba86c7fe29ce25c8f06",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/VenusB/pc/VenusB_MAIN_SCENE_PC.zip/f7c1e46808ee4ba86c7fe29ce25c8f06.zip",
+      "version": 10
+    },
+    "wiiu": {
+      "md5": "2dcc138212258ba938e9337008bad83c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/VenusB/wiiu/VenusB_MAIN_SCENE_WIIU.zip/2dcc138212258ba938e9337008bad83c.zip",
+      "version": 16
+    },
+    "nx": {
+      "md5": "4b416498ffb6290f2823978232fa8532",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/VenusB/nx/VenusB_MAIN_SCENE_NX.zip/4b416498ffb6290f2823978232fa8532.zip",
+      "version": 19
+    }
+  },
+  "mapType": "jdu"
+}

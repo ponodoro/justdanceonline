@@ -1,0 +1,97 @@
+{
+  "artist": "Avicii",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_map_bkg.png"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/textures/AddictedToYou_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22511,45023,67487,89999,112511,135023,157487,179999,202511,225023,247487,269999,292511,315023,337487,359999,382511,405023,427487,449999,472511,495023,517487,539999,562511,585023,607486,629998,652510,675022,697486,719998,742510,765022,787486,809998,832510,855022,877486,899998,922510,945022,967486,989998,1012510,1035022,1057486,1079998,1102510,1125022,1147486,1169998,1192510,1215021,1237485,1259997,1282509,1305021,1327485,1349997,1372509],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":322,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/AddictedToYou/AddictedToYou_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "44D4D2FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 322,
+  "mapName": "AddictedToYou",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648877\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AddictedToYou/AddictedToYou_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493834\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AddictedToYou/AddictedToYou_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2984420\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AddictedToYou/AddictedToYou_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5932938\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AddictedToYou/AddictedToYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "AddictedToYou_mapContent"
+  },
+  "parentMapName": "AddictedToYou",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "EBA80EFF",
+    "songColor_1B": "631200FF",
+    "songColor_2A": "5902BFFF",
+    "songColor_2B": "101010FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main"
+  ],
+  "title": "Addicted To You",
+  "urls": {
+    "jmcs://jd-contents/AddictedToYou/AddictedToYou_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/AddictedToYou_AudioPreview.ogg",
+    "jmcs://jd-contents/AddictedToYou/AddictedToYou_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/nx/AddictedToYou_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/AddictedToYou/AddictedToYou_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/nx/AddictedToYou_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/AddictedToYou/AddictedToYou_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/nx/AddictedToYou_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/AddictedToYou/AddictedToYou_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/nx/AddictedToYou_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/AddictedToYou/AddictedToYou_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/nx/AddictedToYou_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/AddictedToYou/AddictedToYou_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/nx/AddictedToYou_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/AddictedToYou/AddictedToYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/nx/AddictedToYou_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/AddictedToYou/AddictedToYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/nx/AddictedToYou_VideoPreview.vp9.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "3efda6f18166ad3ad52faba988529e3e",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/pc/3efda6f18166ad3ad52faba988529e3e.zip",
+      "version": 1
+    },
+    "orbis": {
+      "md5": "06a06cc1484fe0223b8306cf3b95e21c",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/ps4/06a06cc1484fe0223b8306cf3b95e21c.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "b8ef9db767b9b289bcb86c0a2d4a81e9",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/AddictedToYou/nx/b8ef9db767b9b289bcb86c0a2d4a81e9.zip",
+      "version": 1
+    }
+  },
+  "mapType": "custom"
+}

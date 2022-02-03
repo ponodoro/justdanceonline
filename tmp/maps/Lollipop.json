@@ -1,0 +1,111 @@
+{
+  "artist": "MIKA",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_banner_bkg.jpg/3f842ee59593476e4f389be9b4802192.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Coach_1.png/8e6bf636bb927ddff4a5cc8a3cfa17af.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Cover_Generic.jpg/444dc19ee96de7f80de7d10ec46a770c.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Cover_1024.png/e5e24f6dd3696fa6d05a0c2df398f47d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Cover_Online.jpg/c2b353092440f98ea38e6456766e77dd.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Cover_AlbumBkg.jpg/91d0e1db4d80e2a6849004106a235518.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Cover_AlbumCoach.png/4021cd544313d46fd008b1609cd5d1b8.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Coach_1_Phone.png/54b51ef93bd1e10ea7757e875af11f62.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Cover_Phone.jpg/c2b353092440f98ea38e6456766e77dd.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_banner_bkg.jpg/3f842ee59593476e4f389be9b4802192.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Coach_1.png/8e6bf636bb927ddff4a5cc8a3cfa17af.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Cover_Generic.jpg/444dc19ee96de7f80de7d10ec46a770c.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Cover_1024.png/e5e24f6dd3696fa6d05a0c2df398f47d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Cover_Online.jpg/c2b353092440f98ea38e6456766e77dd.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Cover_AlbumBkg.jpg/91d0e1db4d80e2a6849004106a235518.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Cover_AlbumCoach.png/4021cd544313d46fd008b1609cd5d1b8.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Coach_1_Phone.png/54b51ef93bd1e10ea7757e875af11f62.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Cover_Phone.jpg/c2b353092440f98ea38e6456766e77dd.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/wiiu/Lollipop_banner_bkg.tga.ckd/2201d781da3d4113f521b50ea2bd9dd0.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/wiiu/Lollipop_Coach_1.tga.ckd/156b0e5fae8c2d043b4843a89b6719d3.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/wiiu/Lollipop_Cover_Generic.tga.ckd/9e315889227ffe146c32ff23e70d27ab.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Cover_1024.png/e5e24f6dd3696fa6d05a0c2df398f47d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/wiiu/Lollipop_Cover_Online.tga.ckd/7b21ce12789864b8230eff76d0191447.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/wiiu/Lollipop_Cover_AlbumBkg.tga.ckd/9204621d34c67a3de871ab0f61e54111.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/wiiu/Lollipop_Cover_AlbumCoach.tga.ckd/86bd2f2e6474794e2f3dac47de7ee9b8.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Coach_1_Phone.png/54b51ef93bd1e10ea7757e875af11f62.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_Cover_Phone.jpg/c2b353092440f98ea38e6456766e77dd.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,29999,59999,89998,119998,149997,179996,209996,239995,269995,300673,329994,359993,389993,420556,451036,479991,509990,539990,569989,599989,629988,659988,689987,719987,749986,780682,811169,839984,869984,899983,929983,959982,989982,1019981,1049981,1079980,1110816,1141024,1170484,1199978,1229977,1260464,1290464,1320463,1349975,1379975,1409974,1439974],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":299,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":48,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/lollipop/lollipop_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "63DEB1FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 187.541,
+  "mapName": "Lollipop",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497434\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lollipop/Lollipop_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1471458\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lollipop/Lollipop_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1952962\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lollipop/Lollipop_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1953585\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lollipop/Lollipop_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "Lollipop_mapContent"
+  },
+  "parentMapName": "Lollipop",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "8000DCFF",
+    "songColor_1B": "0A012AFF",
+    "songColor_2A": "FA8623FF",
+    "songColor_2B": "4C0467FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Lollipop",
+  "urls": {
+    "jmcs://jd-contents/Lollipop/Lollipop_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_AudioPreview.ogg/c7ba60b9ef66e793684c90e4c2fe96df.ogg",
+    "jmcs://jd-contents/Lollipop/Lollipop_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_MapPreviewNoSoundCrop_HIGH.vp8.webm/042dc105b44223192e57b79994989d64.webm",
+    "jmcs://jd-contents/Lollipop/Lollipop_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_MapPreviewNoSoundCrop_HIGH.vp9.webm/cebcda1366acf0e6e671b0cf70b897a7.webm",
+    "jmcs://jd-contents/Lollipop/Lollipop_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_MapPreviewNoSoundCrop_LOW.vp8.webm/29fcce74852dea34119600a51bcf1764.webm",
+    "jmcs://jd-contents/Lollipop/Lollipop_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_MapPreviewNoSoundCrop_LOW.vp9.webm/087b5b93710815af70bab2c307da1589.webm",
+    "jmcs://jd-contents/Lollipop/Lollipop_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_MapPreviewNoSoundCrop_MID.vp8.webm/33a4c102d6b266d48f7ff7e8926799a4.webm",
+    "jmcs://jd-contents/Lollipop/Lollipop_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_MapPreviewNoSoundCrop_MID.vp9.webm/144bb146765ebc7d58512685d1754cf6.webm",
+    "jmcs://jd-contents/Lollipop/Lollipop_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_MapPreviewNoSoundCrop_ULTRA.vp8.webm/c64589b3914e12ab589477e4debff710.webm",
+    "jmcs://jd-contents/Lollipop/Lollipop_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Lollipop/Lollipop_MapPreviewNoSoundCrop_ULTRA.vp9.webm/c6cdb91a28980b8e67d113bd1a4e24a9.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "2b144121b39ae9e58727a0f76f92258a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Lollipop/ps4/Lollipop_MAIN_SCENE_ORBIS.zip/2b144121b39ae9e58727a0f76f92258a.zip",
+      "version": 8
+    },
+    "pc": {
+      "md5": "0af9c9c7360b09c00fc5152066e02d15",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Lollipop/pc/Lollipop_MAIN_SCENE_PC.zip/0af9c9c7360b09c00fc5152066e02d15.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "69c43101a4ffb7bee9b5d7efcfd21497",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Lollipop/wiiu/Lollipop_MAIN_SCENE_WIIU.zip/69c43101a4ffb7bee9b5d7efcfd21497.zip",
+      "version": 8
+    },
+    "nx": {
+      "md5": "f4fa84efade7a338b8fb6d4fbdaa8cc1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Lollipop/nx/Lollipop_MAIN_SCENE_NX.zip/f4fa84efade7a338b8fb6d4fbdaa8cc1.zip",
+      "version": 8
+    }
+  },
+  "mapType": "jdu"
+}

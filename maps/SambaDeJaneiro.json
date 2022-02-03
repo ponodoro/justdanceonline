@@ -1,0 +1,98 @@
+{
+  "artist": "Ultraclub 90",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_banner_bkg.jpg/228806c4c24d80c69e27c812e28dedce.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Coach_1.png/23943d45ae8504b6e581b86540b100a5.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Coach_2.png/141361ee67db838e5b6e12d7707b4f01.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Coach_3.png/a339d1675804a5af3bed749c78be97cc.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Cover_Generic.jpg/0851869467914abc5708426f669e797b.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Cover_Online.jpg/2936657ff77b2603448dac30c30547ec.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Cover_AlbumBkg.jpg/364277ea9be181b220904ee04ba81204.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Cover_AlbumCoach.png/d132333e41e9df3c0153beb80bb948d0.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Coach_1_Phone.png/ebe602fba0d3def443eed0a64a79b7ea.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Coach_2_Phone.png/20fde336e3f469023db8c591a2638daa.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Coach_3_Phone.png/2a611d6b12dfcdf83c798c5d72b56138.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Cover_Phone.jpg/2936657ff77b2603448dac30c30547ec.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_banner_bkg.jpg/228806c4c24d80c69e27c812e28dedce.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Coach_1.png/23943d45ae8504b6e581b86540b100a5.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Coach_2.png/141361ee67db838e5b6e12d7707b4f01.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Coach_3.png/a339d1675804a5af3bed749c78be97cc.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Cover_Generic.jpg/0851869467914abc5708426f669e797b.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Cover_Online.jpg/2936657ff77b2603448dac30c30547ec.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Cover_AlbumBkg.jpg/364277ea9be181b220904ee04ba81204.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Cover_AlbumCoach.png/d132333e41e9df3c0153beb80bb948d0.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Coach_1_Phone.png/ebe602fba0d3def443eed0a64a79b7ea.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Coach_2_Phone.png/20fde336e3f469023db8c591a2638daa.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Coach_3_Phone.png/2a611d6b12dfcdf83c798c5d72b56138.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SambaDeJaneiro/SambaDeJaneiro_Cover_Phone.jpg/2936657ff77b2603448dac30c30547ec.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21656,43313,64970,86627,108284,129941,151598,173255,194912,216569,238225,259882,281539,303196,324853,346510,368167,389824,411481,433138,454795,476451,498108,519765,541422,563079,584736,606393,628050,649707,671364,693020,714677,736334,757991,779648,801305,822962,844619,866276,887933,909590,931246,952903,974560,996217,1017874,1039531,1061188,1082845,1104502,1126159,1147815,1169472,1191129,1212786,1234443,1256100,1277757,1299414,1321071,1342728,1364384,1386041,1407698,1429355],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":372,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":66,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/sambadejaneiro/sambadejaneiro_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Gottfried Engels, Zenker Ramon and Airto Moreira. Published by Tumba Music (BMI). / Universal Music Publishing Canada on behalf of Ed. God's Heaven. / Upright Songs GmbH. Produced, engineered and mixed by Steve Ouimette. Additional engineering - Mauricio Domene, Derek Arnold. Synths, percussion, programming & vocals – Steve Ouimette. Vocals - Seloane Nkhela. Vocals - Simony Brown. Courtesy of Ubisoft Music.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0AD9EFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 169.195,
+  "mapName": "SambaDeJaneiro",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497863\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"652-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-652\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483188\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"653-1143\">\r\n\t\t\t\t\t<Initialization range=\"0-653\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2954658\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"653-1143\">\r\n\t\t\t\t\t<Initialization range=\"0-653\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5713236\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"653-1149\">\r\n\t\t\t\t\t<Initialization range=\"0-653\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "SambaDeJaneiro_mapContent"
+  },
+  "parentMapName": "SambaDeJaneiro",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "FF8B3EFF",
+    "songColor_1B": "9A9CFFFF",
+    "songColor_2A": "FFD373FF",
+    "songColor_2B": "7800FFFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Samba de Janeiro",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "49a386e66ccab8f54ac07169eab8cfef",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/SambaDeJaneiro/ps4/SambaDeJaneiro_MAIN_SCENE_ORBIS.zip/49a386e66ccab8f54ac07169eab8cfef.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "b53fb7cf8c912eda3f9afd85193ccca2",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/SambaDeJaneiro/nx/SambaDeJaneiro_MAIN_SCENE_NX.zip/b53fb7cf8c912eda3f9afd85193ccca2.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "7c59cf77a10add335c57e381645a8565",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/SambaDeJaneiro/pc/7c59cf77a10add335c57e381645a8565.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/SambaDeJaneiro/SambaDeJaneiro_AudioPreview.ogg/629212666d99850389661b7db73bf458.ogg",
+    "jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_HIGH.vp8.webm/add1eafa9120acd66431078fe9328dcf.webm",
+    "jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_HIGH.vp9.webm/d481ff0e913e5e28073697fb3e78f389.webm",
+    "jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_LOW.vp8.webm/76dc87aa2784e844c8aab1f0c1a9780f.webm",
+    "jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_LOW.vp9.webm/c7a6f5df2ccc255485b9e8b280ae0662.webm",
+    "jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_MID.vp8.webm/184ada41abdbbd08df9b8136b661d192.webm",
+    "jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_MID.vp9.webm/a9ceaa7db3ea9496a3ba8467bbd9a026.webm",
+    "jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d179aa4f3a868836f9cc69a79bd88788.webm",
+    "jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/SambaDeJaneiro/SambaDeJaneiro_MapPreviewNoSoundCrop_ULTRA.vp9.webm/165df01ce32fd3f04b5cffae3bc5d85a.webm"
+  }
+}

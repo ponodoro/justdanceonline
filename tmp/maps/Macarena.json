@@ -1,0 +1,132 @@
+{
+  "artist": "The Girly Team",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_banner_bkg.jpg/b98c41e02fe1e14e9f686c3ca3753f49.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_1.png/65384739365f46ef8ede9f71c51028cd.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_2.png/3906e9bc710748bd581b28f94d81f76b.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_3.png/f48a736e1445be6c217580d9d616b32a.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_4.png/a921117d730992a642c9952a4fe738a2.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Cover_Generic.jpg/6ef59e191136059877b099ce2c8b0c24.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Cover_1024.png/4027a34702b86906f8b5d92d1606349f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Cover_Online.jpg/a3b11ee97da53a160d556e448619fa1a.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Cover_AlbumBkg.jpg/98600e7f29dfd48ad30802c7f0818491.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Cover_AlbumCoach.png/11cc4e6378cd55e8628d7c5c7039120b.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_1_Phone.png/803c872a4e73aed4c18d5f049d472f37.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_2_Phone.png/52c3e6ba0e45caa397cc70cf1d156b39.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_3_Phone.png/8afacd911c7bc860f1b8d3179be39659.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_4_Phone.png/c6875eee0695b68d4832d15d79c8c6ed.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Cover_Phone.jpg/a3b11ee97da53a160d556e448619fa1a.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_VideoPreview.webm/2d9d05329a39b56e7b7483a26fe990b8.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_banner_bkg.jpg/b98c41e02fe1e14e9f686c3ca3753f49.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_1.png/65384739365f46ef8ede9f71c51028cd.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_2.png/3906e9bc710748bd581b28f94d81f76b.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_3.png/f48a736e1445be6c217580d9d616b32a.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_4.png/a921117d730992a642c9952a4fe738a2.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Cover_Generic.jpg/6ef59e191136059877b099ce2c8b0c24.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Cover_1024.png/4027a34702b86906f8b5d92d1606349f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Cover_Online.jpg/a3b11ee97da53a160d556e448619fa1a.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Cover_AlbumBkg.jpg/98600e7f29dfd48ad30802c7f0818491.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Cover_AlbumCoach.png/11cc4e6378cd55e8628d7c5c7039120b.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_1_Phone.png/803c872a4e73aed4c18d5f049d472f37.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_2_Phone.png/52c3e6ba0e45caa397cc70cf1d156b39.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_3_Phone.png/8afacd911c7bc860f1b8d3179be39659.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_4_Phone.png/c6875eee0695b68d4832d15d79c8c6ed.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Cover_Phone.jpg/a3b11ee97da53a160d556e448619fa1a.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_VideoPreview.webm/2d9d05329a39b56e7b7483a26fe990b8.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/wiiu/Macarena_banner_bkg.tga.ckd/133f6a4c72248c6760d5bb54f34cdc81.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/wiiu/Macarena_Coach_1.tga.ckd/736ff17153e77e0f5a917004a6827e46.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/wiiu/Macarena_Coach_2.tga.ckd/00949919c6edf68101eb13af6a8c5179.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/wiiu/Macarena_Coach_3.tga.ckd/10c3703880effdad4b92a761906585a9.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/wiiu/Macarena_Coach_4.tga.ckd/a31a3fe5476195571e67220b585d90d7.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/wiiu/Macarena_Cover_Generic.tga.ckd/ea78c183ec48b0dc579b13f0907618ae.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Cover_1024.png/4027a34702b86906f8b5d92d1606349f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/wiiu/Macarena_Cover_Online.tga.ckd/bbcde699f29d297c00a1cee38f1f4b01.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/wiiu/Macarena_Cover_AlbumBkg.tga.ckd/19058d8813d88c06bb2dc630e893a22d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/wiiu/Macarena_Cover_AlbumCoach.tga.ckd/396f1ac454a5f10f556864f2569b88e5.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_1_Phone.png/803c872a4e73aed4c18d5f049d472f37.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_2_Phone.png/52c3e6ba0e45caa397cc70cf1d156b39.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_3_Phone.png/8afacd911c7bc860f1b8d3179be39659.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Coach_4_Phone.png/c6875eee0695b68d4832d15d79c8c6ed.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_Cover_Phone.jpg/a3b11ee97da53a160d556e448619fa1a.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_VideoPreview.webm/2d9d05329a39b56e7b7483a26fe990b8.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27888,55824,83712,111600,139536,167424,195360,223248,251184,279072,307008,334896,362832,390720,418608,446544,474432,502368,530256,558192,586080,614016,641904,669840,697728,725664,753552,781440,809376,837264,865200,893088,921024,948912,976848,1004736,1032672,1060560,1088448,1116384,1144272,1172208,1200096,1228032,1255920,1283856,1311744,1339680,1367568,1395504,1423392],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":284,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":51,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/macarena/macarena_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "49B7D2FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 167.45999999999998,
+  "mapName": "Macarena",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496786\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Macarena/Macarena_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482233\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Macarena/Macarena_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2911165\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Macarena/Macarena_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3056385\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Macarena/Macarena_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "Macarena_mapContent"
+  },
+  "parentMapName": "Macarena",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "E100B3FF",
+    "songColor_1B": "630082FF",
+    "songColor_2A": "FFFC00FF",
+    "songColor_2B": "EB2E2EFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Macarena",
+  "urls": {
+    "jmcs://jd-contents/Macarena/Macarena_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_AudioPreview.ogg/f02f7e225b6de343edac806f1860a631.ogg",
+    "jmcs://jd-contents/Macarena/Macarena_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_MapPreviewNoSoundCrop_HIGH.vp8.webm/f3772e247b7eaced594c5b3b10acaa31.webm",
+    "jmcs://jd-contents/Macarena/Macarena_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_MapPreviewNoSoundCrop_HIGH.vp9.webm/72e12eaa670e714f365b76bf9ef0274b.webm",
+    "jmcs://jd-contents/Macarena/Macarena_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_MapPreviewNoSoundCrop_LOW.vp8.webm/9d754c6283c6192221a2416c14395b7d.webm",
+    "jmcs://jd-contents/Macarena/Macarena_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_MapPreviewNoSoundCrop_LOW.vp9.webm/81bfbb7b6dbacad37231f16471233050.webm",
+    "jmcs://jd-contents/Macarena/Macarena_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_MapPreviewNoSoundCrop_MID.vp8.webm/3d4a70ebbd4628f0241c2d1b3c372bce.webm",
+    "jmcs://jd-contents/Macarena/Macarena_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_MapPreviewNoSoundCrop_MID.vp9.webm/705ebea0c741b65c9e08799f0cc70fe8.webm",
+    "jmcs://jd-contents/Macarena/Macarena_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_MapPreviewNoSoundCrop_ULTRA.vp8.webm/a799bfff9f6783d0db0ebfafc0c3475d.webm",
+    "jmcs://jd-contents/Macarena/Macarena_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Macarena/Macarena_MapPreviewNoSoundCrop_ULTRA.vp9.webm/0c82660fb6efe2131c0d03d979d7b955.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "4beb008a53fd19d81e58d0003f68f552",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Macarena/ps4/Macarena_MAIN_SCENE_ORBIS.zip/4beb008a53fd19d81e58d0003f68f552.zip",
+      "version": 11
+    },
+    "pc": {
+      "md5": "603f2ad4c645fbdb13aa5c5da93324f7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Macarena/pc/Macarena_MAIN_SCENE_PC.zip/603f2ad4c645fbdb13aa5c5da93324f7.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "60a351712f6195ca7b7fbae33c77ecba",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Macarena/wiiu/Macarena_MAIN_SCENE_WIIU.zip/60a351712f6195ca7b7fbae33c77ecba.zip",
+      "version": 11
+    },
+    "nx": {
+      "md5": "61551ab3c7bb382e7c46524fdf2b150b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Macarena/nx/Macarena_MAIN_SCENE_NX.zip/61551ab3c7bb382e7c46524fdf2b150b.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

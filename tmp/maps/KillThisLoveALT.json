@@ -1,0 +1,105 @@
+{
+  "artist": "BLACKPINK",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/ps4/KillThisLoveALT_banner_bkg.tga.ckd/8385f83462a4393141951a8118daa921.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/ps4/KillThisLoveALT_Coach_1.tga.ckd/8a2af67df5ccaa5a696eb11df5cacce9.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/ps4/KillThisLoveALT_Cover_Generic.tga.ckd/d4679b8025120c8a73c8a5af82dc22b7.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_Cover_1024.png/5b490ead33846012d8930c698e3eb564.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/ps4/KillThisLoveALT_Cover_Online.tga.ckd/6bc0f062e0e59e31028f362d115d17da.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/ps4/KillThisLoveALT_Cover_AlbumBkg.tga.ckd/8fb94cf85f5c36fad20cb11e0e825ff2.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/ps4/KillThisLoveALT_Cover_AlbumCoach.tga.ckd/6398a189397b640f1eff5776a165f90d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_Coach_1_Phone.png/3ed32a6ab417e6123b821b431487aef8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_Cover_Phone.jpg/d9b212e3ab0eb6eb507f2a51dab795e3.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/ps4/KillThisLoveALT_map_bkg.tga.ckd/f7a9e128c926324676e83c666c5f4fd8.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/nx/KillThisLoveALT_banner_bkg.tga.ckd/05f4ee44edac12d2296d87ce822afc34.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/nx/KillThisLoveALT_Coach_1.tga.ckd/e481ce562f29aac65e75b37e5b37cb60.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/nx/KillThisLoveALT_Cover_Generic.tga.ckd/22d3c0867c1cc91db744fdd6d61cd8b5.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_Cover_1024.png/5b490ead33846012d8930c698e3eb564.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/nx/KillThisLoveALT_Cover_Online.tga.ckd/a505bd79173c973ea55dc2c739f424c0.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/nx/KillThisLoveALT_Cover_AlbumBkg.tga.ckd/85f8f54c83442b92a49ffd5dd1b9a03d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/nx/KillThisLoveALT_Cover_AlbumCoach.tga.ckd/eaf1ff801b9059d0a2a26fbb34ca628b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_Coach_1_Phone.png/3ed32a6ab417e6123b821b431487aef8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_Cover_Phone.jpg/d9b212e3ab0eb6eb507f2a51dab795e3.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/nx/KillThisLoveALT_map_bkg.tga.ckd/ce799d327270a3b8044ebc8ac12f2048.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21818,43636,65454,87272,109090,130909,152727,174545,196363,218181,240000,261818,283636,305454,327272,349090,370909,392727,414545,436363,458181,480000,501818,523636,545454,567272,589090,610909,632727,654545,676363,698181,720000,741818,763636,785454,807272,829090,850909,872727,894545,916363,938181,960000,981818,1003636,1025454,1047272,1069090,1090909,1112727,1134545,1156363,1178181,1200000,1221818,1243636,1265454,1287272,1309090,1330909,1352727,1374545,1396363,1418181],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":415,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/killthislovealt/killthislovealt_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Hong Jun Park, Jeong Hun Seo, R.Tee and Rebecca Johnson. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing Korea. / Bekuh Boom Publishing (BMI) and Warner-Tamerlane Publishing Corp. (BMI). All rights on behalf of itself and Bekuh Boom Publishing administered by Warner-Tamerlane Publishing Corp. Courtesy of Interscope Records / YG Entertainment under license from Universal Music Enterprises.",
+  "difficulty": 4,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "11D2C0FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 190,
+  "mapName": "KillThisLoveALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496589\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"608-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-608\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482913\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"609-1099\">\r\n\t\t\t\t\t<Initialization range=\"0-609\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2947546\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"609-1099\">\r\n\t\t\t\t\t<Initialization range=\"0-609\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5512656\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"609-1104\">\r\n\t\t\t\t\t<Initialization range=\"0-609\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "KillThisLoveALT_mapContent"
+  },
+  "parentMapName": "KillThisLove",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "0D0012FF",
+    "songColor_1B": "310082FF",
+    "songColor_2A": "FF0026FF",
+    "songColor_2B": "290000FF"
+  },
+  "status": 12,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Alternate",
+    "subscribedSong"
+  ],
+  "title": "Kill This Love",
+  "urls": {
+    "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_AudioPreview.ogg/bfe0abcb72a0e9321c49ec2da79fff0f.ogg",
+    "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/1c02fb308ecfdfd824151f1ec655717c.webm",
+    "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/d445b1f65fffafcf903901c457c2adad.webm",
+    "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_LOW.vp8.webm/5f693f0dc37230dd603f284791d758ea.webm",
+    "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_LOW.vp9.webm/e440e2a6f96c89e5ddd35dcf1d431a76.webm",
+    "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_MID.vp8.webm/d2bf1ee7bedd6d6511581a1ff1a42e7e.webm",
+    "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_MID.vp9.webm/58fca1ddbe9c1b6910441994fcf2820f.webm",
+    "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f094ceea3c2c700dd1714dabd99bce08.webm",
+    "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5230c15fe6883d9d68c07c7945fa1282.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "3f0329fed9807aa0d448e1d35548de24",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/ps4/KillThisLoveALT_MAIN_SCENE_ORBIS.zip/3f0329fed9807aa0d448e1d35548de24.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "6893c7c866b873875d116a63b652b362",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/nx/KillThisLoveALT_MAIN_SCENE_NX.zip/6893c7c866b873875d116a63b652b362.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "f8d3e1db00e9890dd8cf01781c29fc55",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/KillThisLoveALT/pc/f8d3e1db00e9890dd8cf01781c29fc55.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12631
+}

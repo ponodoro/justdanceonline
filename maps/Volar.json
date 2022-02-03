@@ -1,0 +1,90 @@
+{
+  "artist": "Lele Pons Ft. Susan Diaz and Victor Cardenas",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Volar/Volar_banner_bkg.jpg/10524016f4e31663f2f28e834940f542.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Volar/Volar_Coach_1.png/ce924922cff08641550bc946301a25d0.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Volar/Volar_Cover_Generic.jpg/329d7488185d1db9244af7fdb1a8a676.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Volar/Volar_Cover_Online.jpg/75d37e144022efb022d5de240ca8e6ef.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Volar/Volar_Cover_AlbumBkg.jpg/5a7384db4ab8d0ba14ecd4e3910209f5.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Volar/Volar_Cover_AlbumCoach.png/d6011a101841b316ef5ad1e605c6101d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Volar/Volar_Coach_1_Phone.png/fd5ff6330c84e146b4067882ddea2fb7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Volar/Volar_Cover_Phone.jpg/75d37e144022efb022d5de240ca8e6ef.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Volar/Volar_banner_bkg.jpg/10524016f4e31663f2f28e834940f542.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Volar/Volar_Coach_1.png/ce924922cff08641550bc946301a25d0.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Volar/Volar_Cover_Generic.jpg/329d7488185d1db9244af7fdb1a8a676.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Volar/Volar_Cover_Online.jpg/75d37e144022efb022d5de240ca8e6ef.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Volar/Volar_Cover_AlbumBkg.jpg/5a7384db4ab8d0ba14ecd4e3910209f5.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Volar/Volar_Cover_AlbumCoach.png/d6011a101841b316ef5ad1e605c6101d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Volar/Volar_Coach_1_Phone.png/fd5ff6330c84e146b4067882ddea2fb7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Volar/Volar_Cover_Phone.jpg/75d37e144022efb022d5de240ca8e6ef.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22500,45000,67500,90000,112500,135000,157500,180000,202500,225000,247500,270000,292500,315000,337500,360000,382500,405000,427500,450000,472500,495000,517500,540000,562500,585000,607500,630000,652500,675000,697500,720000,742500,765000,787500,810000,832500,855000,877500,900000,922500,945000,967500,990000,1012500,1035000,1057500,1080000,1102500,1125000,1147500,1170000,1192500,1215000,1237500,1260000,1282500,1305000,1327500,1350000,1372500,1395000,1417500],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":389,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/volar/volar_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Eleonora Pons Maronese, Susan Isabel Diaz Cabezas and Victor Cardena. Published by Songtrust Ave. (ASCAP) / Areyanes Music. / Nitido Publishing, LLC c/o The Hachar Law. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "31FEC3FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 184.219,
+  "mapName": "Volar",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496693\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Volar/Volar_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1474391\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Volar/Volar_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2680805\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Volar/Volar_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2745002\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Volar/Volar_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "Volar_mapContent"
+  },
+  "parentMapName": "Volar",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "0088BBFF",
+    "songColor_1B": "0C0040FF",
+    "songColor_2A": "FFF000FF",
+    "songColor_2B": "004903FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Volar",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "f0aaf0eeb430dcc40155378c640b87eb",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Volar/ps4/Volar_MAIN_SCENE_ORBIS.zip/f0aaf0eeb430dcc40155378c640b87eb.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "2ec4a3ceba6caab1a6e8608644691385",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Volar/nx/Volar_MAIN_SCENE_NX.zip/2ec4a3ceba6caab1a6e8608644691385.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "89c909db0d7b0e170bd903c06295798d",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Volar/pc/89c909db0d7b0e170bd903c06295798d.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/Volar/Volar_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/Volar/Volar_AudioPreview.ogg/2312dffdae4d1596b4e2eb26af28b2f3.ogg",
+    "jmcs://jd-contents/Volar/Volar_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Volar/Volar_MapPreviewNoSoundCrop_HIGH.vp8.webm/c6299c430bbec9de8f260ca1d209abdf.webm",
+    "jmcs://jd-contents/Volar/Volar_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Volar/Volar_MapPreviewNoSoundCrop_HIGH.vp9.webm/a98e70d540edde52a2efdd30eda16dee.webm",
+    "jmcs://jd-contents/Volar/Volar_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Volar/Volar_MapPreviewNoSoundCrop_LOW.vp8.webm/3f39f54d009f3982bcaa6c11b86d87b1.webm",
+    "jmcs://jd-contents/Volar/Volar_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Volar/Volar_MapPreviewNoSoundCrop_LOW.vp9.webm/060f2f809e3ee6c08eddd2f6338687e3.webm",
+    "jmcs://jd-contents/Volar/Volar_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Volar/Volar_MapPreviewNoSoundCrop_MID.vp8.webm/a5ef959efc9a9f9128bdfd9d55044a2b.webm",
+    "jmcs://jd-contents/Volar/Volar_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Volar/Volar_MapPreviewNoSoundCrop_MID.vp9.webm/ffc729f41c03571d703be894171c7fd6.webm",
+    "jmcs://jd-contents/Volar/Volar_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Volar/Volar_MapPreviewNoSoundCrop_ULTRA.vp8.webm/599cdb6135bea9a7f39e2e4ba7737540.webm",
+    "jmcs://jd-contents/Volar/Volar_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Volar/Volar_MapPreviewNoSoundCrop_ULTRA.vp9.webm/24a428753ffaf928723457bfab834763.webm"
+  }
+}

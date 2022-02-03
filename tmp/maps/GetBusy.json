@@ -1,0 +1,109 @@
+{
+  "artist": "KOYOTIE",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/ps4/GetBusy_banner_bkg.tga.ckd/930ce469e292ae7ac3a32c17d28e21cd.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/ps4/GetBusy_Coach_1.tga.ckd/7a8963d8a6d697b8bd629db42416cbc9.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/ps4/GetBusy_Coach_2.tga.ckd/2190c9688844383ff5220ace417999a9.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/ps4/GetBusy_Cover_Generic.tga.ckd/e5092e0f6779c295e424caeb179e525c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/GetBusy_Cover_1024.png/9305727c4faabb95d5564daedf090ba3.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/ps4/GetBusy_Cover_Online.tga.ckd/614b3e69382cb46748d2807d9c4f0256.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/ps4/GetBusy_Cover_AlbumBkg.tga.ckd/0d594486b0c495fd01895a8da064f96c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/ps4/GetBusy_Cover_AlbumCoach.tga.ckd/6de6d41d09cfbe6306fd478c085179af.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/GetBusy_Coach_1_Phone.png/ecc72b99316f2c6acc1b89ab4f8ef9b7.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/GetBusy_Coach_2_Phone.png/51e07bb0f397d540befd5845c56954d5.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/GetBusy_Cover_Phone.jpg/493ed483c1fd49747561995529e922a7.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/ps4/GetBusy_map_bkg.tga.ckd/3a125ce67ae4c254d23295e0e5ed1820.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/nx/GetBusy_banner_bkg.tga.ckd/e2330333711423a3b29adcc52f58c3a7.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/nx/GetBusy_Coach_1.tga.ckd/bd6481d3b2af1bd941c126ca5e24cfa7.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/nx/GetBusy_Coach_2.tga.ckd/a8422df844a4c0c1a81b82f2e48e0cf1.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/nx/GetBusy_Cover_Generic.tga.ckd/01d3fb0bbdc446bcbb1a897127c94a5c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/GetBusy_Cover_1024.png/9305727c4faabb95d5564daedf090ba3.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/nx/GetBusy_Cover_Online.tga.ckd/348f5539f648d614cdb82c44ebbea551.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/nx/GetBusy_Cover_AlbumBkg.tga.ckd/238cedbce7b52647a88022cf1cab4cee.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/nx/GetBusy_Cover_AlbumCoach.tga.ckd/29030e2c6cdb44d5db8d3732ed12095a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/GetBusy_Coach_1_Phone.png/ecc72b99316f2c6acc1b89ab4f8ef9b7.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/GetBusy_Coach_2_Phone.png/51e07bb0f397d540befd5845c56954d5.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/GetBusy_Cover_Phone.jpg/493ed483c1fd49747561995529e922a7.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GetBusy/nx/GetBusy_map_bkg.tga.ckd/6f0173a3716c49168e2c2465ade54b94.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23040,46080,69120,92160,115200,138240,161280,184320,207360,230400,253440,276480,299520,322560,345600,368640,391680,414720,437760,460800,483840,506880,529920,552960,576000,599040,622080,645120,668160,691200,714240,737280,760320,783360,806400,829440,852480,875520,898560,921600,944640,967680,990720,1013760,1036800,1059840,1082880,1105920,1128960,1152000,1175040,1198080,1221120,1244160,1267200,1290240,1313280,1336320,1359360,1382400,1405440,1428480],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":392,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/getbusy/getbusy_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Dustin Burnett and Laney Jones. Published by Mixed Metaphor Music / Position Music Publishing / Red Coco Music / Laney Jones Publishing. Courtesy of Position Music. ",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F78101FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 190.97899999999998,
+  "mapName": "GetBusy",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497098\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GetBusy/GetBusy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"592-1081\">\r\n\t\t\t\t\t<Initialization range=\"0-592\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483313\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GetBusy/GetBusy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2939530\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GetBusy/GetBusy_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4270423\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GetBusy/GetBusy_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "GetBusy_mapContent"
+  },
+  "parentMapName": "GetBusy",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "8A2D00FF",
+    "songColor_1B": "351A00FF",
+    "songColor_2A": "FEA700FF",
+    "songColor_2B": "030029FF"
+  },
+  "status": 4,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "ExcludedFromWDF"
+  ],
+  "title": "Get Busy",
+  "urls": {
+    "jmcs://jd-contents/GetBusy/GetBusy_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/GetBusy/GetBusy_AudioPreview.ogg/dce952d39a920a9bd9fd2ffd04d9bb94.ogg",
+    "jmcs://jd-contents/GetBusy/GetBusy_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/GetBusy/GetBusy_MapPreviewNoSoundCrop_HIGH.vp8.webm/527b4d4b913eab413b748f12acd19406.webm",
+    "jmcs://jd-contents/GetBusy/GetBusy_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/GetBusy/GetBusy_MapPreviewNoSoundCrop_HIGH.vp9.webm/42333c733c8cbd7d7e0bbc43f112cfab.webm",
+    "jmcs://jd-contents/GetBusy/GetBusy_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/GetBusy/GetBusy_MapPreviewNoSoundCrop_LOW.vp8.webm/d041dfb9aca8435b13736947fd534c2d.webm",
+    "jmcs://jd-contents/GetBusy/GetBusy_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/GetBusy/GetBusy_MapPreviewNoSoundCrop_LOW.vp9.webm/ede533de10e1c9348b952c02e6d75d1d.webm",
+    "jmcs://jd-contents/GetBusy/GetBusy_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/GetBusy/GetBusy_MapPreviewNoSoundCrop_MID.vp8.webm/7d04c14511f0df0a8ec4e47589fd331d.webm",
+    "jmcs://jd-contents/GetBusy/GetBusy_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/GetBusy/GetBusy_MapPreviewNoSoundCrop_MID.vp9.webm/76a096b3b062afbf2304bed20caa12d1.webm",
+    "jmcs://jd-contents/GetBusy/GetBusy_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/GetBusy/GetBusy_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d2c3f7f806b3375e41cac182d8620fae.webm",
+    "jmcs://jd-contents/GetBusy/GetBusy_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/GetBusy/GetBusy_MapPreviewNoSoundCrop_ULTRA.vp9.webm/1c8f311dc1e1e20a6621a963e4b7f6fe.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a959de7e9eac9fdc3d4def117fbf0ebd",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GetBusy/ps4/GetBusy_MAIN_SCENE_ORBIS.zip/a959de7e9eac9fdc3d4def117fbf0ebd.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "1e3398a76d80aa51ad4d59e0ce27cfe4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GetBusy/nx/GetBusy_MAIN_SCENE_NX.zip/1e3398a76d80aa51ad4d59e0ce27cfe4.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "0f96689691c0300b4c38244d7fe72dfe",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/GetBusy/pc/0f96689691c0300b4c38244d7fe72dfe.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

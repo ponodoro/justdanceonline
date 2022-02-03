@@ -1,0 +1,120 @@
+{
+  "artist": "The Blackout Allstars",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_banner_bkg.jpg/998f32a4d58f032d7190dac2c0bcbcc2.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Coach_1.png/c42bd0c07abec98e045beb88615662fd.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Coach_2.png/a0b633cc2da82cf75aed98fbacbddf2d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Cover_Generic.jpg/4417fec713497b7c85bed95d7bcd75bf.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Cover_1024.png/61d1593db13736de265d9a4d08bb2145.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Cover_Online.jpg/a72c3e237436f42cf463b8a2a4c46d08.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Cover_AlbumBkg.jpg/08e213b64a9d6726d75b64d1a8a4059a.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Cover_AlbumCoach.png/a7aafbc6a12efc9a755be6365e2be33f.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Coach_1_Phone.png/9aaf97ba12d1d25f690109a5006d86fe.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Coach_2_Phone.png/ff7ec21710ea38d75a2a794bce446f6b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Cover_Phone.jpg/a72c3e237436f42cf463b8a2a4c46d08.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_VideoPreview.webm/618495822236219fcdbad96833bce642.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_banner_bkg.jpg/998f32a4d58f032d7190dac2c0bcbcc2.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Coach_1.png/c42bd0c07abec98e045beb88615662fd.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Coach_2.png/a0b633cc2da82cf75aed98fbacbddf2d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Cover_Generic.jpg/4417fec713497b7c85bed95d7bcd75bf.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Cover_1024.png/61d1593db13736de265d9a4d08bb2145.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Cover_Online.jpg/a72c3e237436f42cf463b8a2a4c46d08.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Cover_AlbumBkg.jpg/08e213b64a9d6726d75b64d1a8a4059a.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Cover_AlbumCoach.png/a7aafbc6a12efc9a755be6365e2be33f.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Coach_1_Phone.png/9aaf97ba12d1d25f690109a5006d86fe.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Coach_2_Phone.png/ff7ec21710ea38d75a2a794bce446f6b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Cover_Phone.jpg/a72c3e237436f42cf463b8a2a4c46d08.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_VideoPreview.webm/618495822236219fcdbad96833bce642.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/wiiu/ILikeItLike_banner_bkg.tga.ckd/d825f181bcb024bf9ba0eb1adef0bfbb.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/wiiu/ILikeItLike_Coach_1.tga.ckd/a70990ca6536d634a6b2307cad716611.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/wiiu/ILikeItLike_Coach_2.tga.ckd/5b13baa23977fe16b4583b91c8d467dd.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/wiiu/ILikeItLike_Cover_Generic.tga.ckd/3b7a307de77cb389159a8f94e5551a19.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Cover_1024.png/61d1593db13736de265d9a4d08bb2145.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/wiiu/ILikeItLike_Cover_Online.tga.ckd/3b7a307de77cb389159a8f94e5551a19.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/wiiu/ILikeItLike_Cover_AlbumBkg.tga.ckd/19c7f6b77d3ad7ec4d9b6c5acc7f0529.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/wiiu/ILikeItLike_Cover_AlbumCoach.tga.ckd/7ddf0b00a8db5c6e2fdc680ba7e73a19.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Coach_1_Phone.png/9aaf97ba12d1d25f690109a5006d86fe.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Coach_2_Phone.png/ff7ec21710ea38d75a2a794bce446f6b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_Cover_Phone.jpg/a72c3e237436f42cf463b8a2a4c46d08.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_VideoPreview.webm/618495822236219fcdbad96833bce642.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,42529,86060,128316,171484,213803,257454,300439,342884,385911,428842,472031,514036,557273,600182,642642,685066,728051,770754,813739,856724,899709,942694,985399,1028040,1070849,1113834,1157275,1199804,1242789,1285774,1328505,1370936,1413313],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":232,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":33,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/ilikeitlike/ilikeitlike_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "CB853AFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 207.791,
+  "mapName": "ILikeItLike",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496805\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1475296\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1898667\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1897508\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "ILikeItLike_mapContent"
+  },
+  "parentMapName": "ILikeItLike",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "DB3900FF",
+    "songColor_1B": "480000FF",
+    "songColor_2A": "FFE134FF",
+    "songColor_2B": "540000FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "I Like It",
+  "urls": {
+    "jmcs://jd-contents/ILikeItLike/ILikeItLike_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_AudioPreview.ogg/4453413935c54e345a8bc1ef16040fc6.ogg",
+    "jmcs://jd-contents/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_HIGH.vp8.webm/f10c528e1f11fb21bb5404248638c001.webm",
+    "jmcs://jd-contents/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_HIGH.vp9.webm/8af39dc1f4615ef2e1876625158768da.webm",
+    "jmcs://jd-contents/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_LOW.vp8.webm/edf9d0561012de134ad8460c40254c25.webm",
+    "jmcs://jd-contents/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_LOW.vp9.webm/60280957ece93bd1deb28ce45e07a3e4.webm",
+    "jmcs://jd-contents/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_MID.vp8.webm/57379ce3d23ab6b3374a53bc94ad7c65.webm",
+    "jmcs://jd-contents/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_MID.vp9.webm/3bb6a242d3dc0d93891d5428e377e4a1.webm",
+    "jmcs://jd-contents/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_ULTRA.vp8.webm/bf3850fd96ff3588c209df503a2aab87.webm",
+    "jmcs://jd-contents/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ILikeItLike_MapPreviewNoSoundCrop_ULTRA.vp9.webm/fec7b9ac5efa8df1bbff6cd9110b20b2.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a751291cb74f8cbe7a31f7b8e1cf8f4f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ILikeItLike/ps4/ILikeItLike_MAIN_SCENE_ORBIS.zip/a751291cb74f8cbe7a31f7b8e1cf8f4f.zip",
+      "version": 9
+    },
+    "pc": {
+      "md5": "b40328c12583af5eedc511ca527d23d1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ILikeItLike/pc/ILikeItLike_MAIN_SCENE_PC.zip/b40328c12583af5eedc511ca527d23d1.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "e7c54a946f1d2acc01075a4f02b5731e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ILikeItLike/wiiu/ILikeItLike_MAIN_SCENE_WIIU.zip/e7c54a946f1d2acc01075a4f02b5731e.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "68fad1164fda6fefa2c9be60c57fe0c5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ILikeItLike/nx/ILikeItLike_MAIN_SCENE_NX.zip/68fad1164fda6fefa2c9be60c57fe0c5.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

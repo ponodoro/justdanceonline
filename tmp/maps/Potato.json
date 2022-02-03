@@ -1,0 +1,114 @@
+{
+  "artist": "Dee Dee Sharp",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_banner_bkg.jpg/ae531bf758a0b1f2180acf4bdde1fa34.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Coach_1.png/ba9e4e8d2d45ffeaaf0c3a6be3992f5c.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Cover_Generic.jpg/c91c53e1524224837cb9f7c42f220c4b.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Cover_1024.png/6c06c6f73c3ff780bef704f3d1acd411.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Cover_Online.jpg/82fe6c0ba665ab23280efabd8091edd0.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Cover_AlbumBkg.jpg/b8e3019051e79a507ff75ebf906a606d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Cover_AlbumCoach.png/97d76bd3aa8e4d35c6c23706ea8b9681.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Coach_1_Phone.png/04223318efc72e904636f0dc8a6e5125.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Cover_Phone.jpg/82fe6c0ba665ab23280efabd8091edd0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Potato/Potato_VideoPreview.webm/7d2b812788eae027d727a82afb9842cd.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_banner_bkg.jpg/ae531bf758a0b1f2180acf4bdde1fa34.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Coach_1.png/ba9e4e8d2d45ffeaaf0c3a6be3992f5c.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Cover_Generic.jpg/c91c53e1524224837cb9f7c42f220c4b.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Cover_1024.png/6c06c6f73c3ff780bef704f3d1acd411.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Cover_Online.jpg/82fe6c0ba665ab23280efabd8091edd0.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Cover_AlbumBkg.jpg/b8e3019051e79a507ff75ebf906a606d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Cover_AlbumCoach.png/97d76bd3aa8e4d35c6c23706ea8b9681.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Coach_1_Phone.png/04223318efc72e904636f0dc8a6e5125.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Cover_Phone.jpg/82fe6c0ba665ab23280efabd8091edd0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Potato/Potato_VideoPreview.webm/7d2b812788eae027d727a82afb9842cd.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/wiiu/Potato_banner_bkg.tga.ckd/9ea8fb967e2214b3c701a0d41e0336fb.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/wiiu/Potato_Coach_1.tga.ckd/3da64ca42674cb27b45517d6d926482a.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/wiiu/Potato_Cover_Generic.tga.ckd/5e8c3bbc35a7f6aa6278b0d5823b70d8.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Cover_1024.png/6c06c6f73c3ff780bef704f3d1acd411.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/wiiu/Potato_Cover_Online.tga.ckd/71d2097a8ee1b1bb8bc3ce7443db9d15.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/wiiu/Potato_Cover_AlbumBkg.tga.ckd/59c94b754122949d036d1b3b3d828ffc.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/wiiu/Potato_Cover_AlbumCoach.tga.ckd/4d8d4f2bae6cfa3519c7bfea632d0d32.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Coach_1_Phone.png/04223318efc72e904636f0dc8a6e5125.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Potato/Potato_Cover_Phone.jpg/82fe6c0ba665ab23280efabd8091edd0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Potato/Potato_VideoPreview.webm/7d2b812788eae027d727a82afb9842cd.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22500,45000,67500,90000,112500,135000,157500,180000,202122,224352,246852,269352,291852,314352,336852,359352,381852,404352,426852,449352,471852,494352,516852,539352,561852,585504,608004,630504,653004,674352,696852,718560,739692,762192,784692,807192,829692,852192,875652,898152,920652,943152,965652,988152,1010652,1033152,1055652,1078152,1100652,1123152,1145652,1168782,1192092,1214592,1237092,1259592,1282092,1304592,1327092,1349592,1372092,1394592,1415292,1436424],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":322,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/potato/potato_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0DB2FFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 150.927,
+  "mapName": "Potato",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496009\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Potato/Potato_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1117\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1166818\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Potato/Potato_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1173248\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Potato/Potato_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1173261\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Potato/Potato_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 1,
+  "packages": {
+    "mapContent": "Potato_mapContent"
+  },
+  "parentMapName": "Potato",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "DB246EFF",
+    "songColor_1B": "22013AFF",
+    "songColor_2A": "26A7EBFF",
+    "songColor_2B": "030347FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Mashed Potato Time",
+  "urls": {
+    "jmcs://jd-contents/Potato/Potato_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Potato/Potato_AudioPreview.ogg/4f0d054d5c9d8eb31ed417f9cb567a75.ogg",
+    "jmcs://jd-contents/Potato/Potato_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Potato/Potato_MapPreviewNoSoundCrop_HIGH.vp8.webm/caecfc8121dcf2eb0bc1bdf04f10d46c.webm",
+    "jmcs://jd-contents/Potato/Potato_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Potato/Potato_MapPreviewNoSoundCrop_HIGH.vp9.webm/6a057e6c4f46e63aca9a2e225d5daba3.webm",
+    "jmcs://jd-contents/Potato/Potato_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Potato/Potato_MapPreviewNoSoundCrop_LOW.vp8.webm/99833b8ecf5763f556937e46db185064.webm",
+    "jmcs://jd-contents/Potato/Potato_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Potato/Potato_MapPreviewNoSoundCrop_LOW.vp9.webm/c8e1281547a67a92034f904bd42e234e.webm",
+    "jmcs://jd-contents/Potato/Potato_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Potato/Potato_MapPreviewNoSoundCrop_MID.vp8.webm/34e11532a7d1ec5b0cc8feb11087696d.webm",
+    "jmcs://jd-contents/Potato/Potato_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Potato/Potato_MapPreviewNoSoundCrop_MID.vp9.webm/5217f85c387843b35811230319a159d4.webm",
+    "jmcs://jd-contents/Potato/Potato_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Potato/Potato_MapPreviewNoSoundCrop_ULTRA.vp8.webm/aeb366c0088062925836fa51993a1eee.webm",
+    "jmcs://jd-contents/Potato/Potato_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Potato/Potato_MapPreviewNoSoundCrop_ULTRA.vp9.webm/da523d54b1d3939d99e8f63d43b989a4.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "d5e18facb5fc5f03e061bcb957d3058c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Potato/ps4/Potato_MAIN_SCENE_ORBIS.zip/d5e18facb5fc5f03e061bcb957d3058c.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "6a04dc020d6391137ea3409329c1d691",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Potato/pc/Potato_MAIN_SCENE_PC.zip/6a04dc020d6391137ea3409329c1d691.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "ac0d2afe41deded0a567077dd0e82e25",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Potato/wiiu/Potato_MAIN_SCENE_WIIU.zip/ac0d2afe41deded0a567077dd0e82e25.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "5a7e77c274a780571f7fe641d71d91ec",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Potato/nx/Potato_MAIN_SCENE_NX.zip/5a7e77c274a780571f7fe641d71d91ec.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

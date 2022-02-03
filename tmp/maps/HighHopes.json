@@ -1,0 +1,117 @@
+{
+  "artist": "Panic! At The Disco",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/ps4/HighHopes_banner_bkg.tga.ckd/f1403a3c35a9f0d690d201a18d8c74a8.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/ps4/HighHopes_Coach_1.tga.ckd/83033263f658df0dc60ec4f771936b6c.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/ps4/HighHopes_Coach_2.tga.ckd/3e7072f9152cc55514191aec50ae9ca8.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/ps4/HighHopes_Coach_3.tga.ckd/b9e6c839a5cf8248b63017ac58eb9dc5.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/ps4/HighHopes_Coach_4.tga.ckd/e3826a6a5c491373f73706a09b1ca67c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/ps4/HighHopes_Cover_Generic.tga.ckd/733b035f7a5cabdf18e05c1d4d38b1ab.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_Cover_1024.png/0ad0b428babbe9dcd209fb7024cef18b.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/ps4/HighHopes_Cover_Online.tga.ckd/7628c34aa3ba92a27f609e3fa2aaff5e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/ps4/HighHopes_Cover_AlbumBkg.tga.ckd/05396e61c9e66670119c987d522693df.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/ps4/HighHopes_Cover_AlbumCoach.tga.ckd/e5fa3057c499a0ad4ceeff0344380298.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_Coach_1_Phone.png/6628043ed3717ef2cd8462beed16a673.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_Coach_2_Phone.png/85ff0e2030bd3a0ac120a7f75c603ee4.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_Coach_3_Phone.png/1fc9dffc79336ead58ff34ee23173107.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_Coach_4_Phone.png/7e65bad9dcad98746fc64adcbc00f7cb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_Cover_Phone.jpg/f4070d3ae0b7a83842c4174039279e6a.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/ps4/HighHopes_map_bkg.tga.ckd/37db0992e494b85c56a8a8c2bb272f46.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/nx/HighHopes_banner_bkg.tga.ckd/461ac84f509e5cbfd2bc1100ad657f2c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/nx/HighHopes_Coach_1.tga.ckd/90745d0de757ac2997242cc8d42d7568.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/nx/HighHopes_Coach_2.tga.ckd/84ef4abb73cbc804e1ea1e5ecb4499cd.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/nx/HighHopes_Coach_3.tga.ckd/8a8bd2fe6aa72a0e64ab152ab6678700.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/nx/HighHopes_Coach_4.tga.ckd/e39094cf04f937966bc38d4945bf00fe.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/nx/HighHopes_Cover_Generic.tga.ckd/fc5a6ebe1940b124e6893b55e7afe180.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_Cover_1024.png/0ad0b428babbe9dcd209fb7024cef18b.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/nx/HighHopes_Cover_Online.tga.ckd/d5d50c3e700676cda9ce7b213e54bc7b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/nx/HighHopes_Cover_AlbumBkg.tga.ckd/83d9a7e9c7c9cb7602eb36edf146cfc0.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/nx/HighHopes_Cover_AlbumCoach.tga.ckd/580230239fe1fff13ad08b9d3a993a56.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_Coach_1_Phone.png/6628043ed3717ef2cd8462beed16a673.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_Coach_2_Phone.png/85ff0e2030bd3a0ac120a7f75c603ee4.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_Coach_3_Phone.png/1fc9dffc79336ead58ff34ee23173107.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_Coach_4_Phone.png/7e65bad9dcad98746fc64adcbc00f7cb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_Cover_Phone.jpg/f4070d3ae0b7a83842c4174039279e6a.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HighHopes/nx/HighHopes_map_bkg.tga.ckd/ff8e28b7e489ae20fd0413397cf4d15d.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,35122,70244,105366,140488,175610,210732,245854,280976,316098,351220,386342,421464,456586,491708,526830,561952,597074,632195,667317,702439,737561,772683,807805,842927,878049,913171,948293,983415,1018537,1053659,1088781,1123903,1159025,1194147,1229269,1264391,1299513,1334635,1369756,1404878],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-1,\"endBeat\":262,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":40,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/highhopes/highhopes_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by William Lobban-Bean, Samuel Hollander, Jonas Jeberg, Ilsey Juber, Tayla Parx, Lauren Pritchard, Jacob Sinclair, Brendon Urie and Jennifer Owen Youngs. Published by Taylor Monet Music (BMI) and Warner-Tamerlane Publishing Corp. (BMI). All rights on behalf of itself and Taylor Monet Music administered by Warner-Tamerlane Publishing Corp. / Sony/ATV Songs LLC (BMI) / Sparko Phone Music (BMI) / Lolopritch Music (BMI). / Kobalt Music Services America Inc. (KMSA) obo Artist 101 Publishing Group / Listen To This Shhh / Songs By Cook Classic / Slushie Fund / BMG Gold Songs. All rights administered by BMG Rights Management (US) LLC. / Sinclair Empire/Big Deal beats, Girls Raised By Wolves /A Song Can Be About Anything Music/Big Deal Notes. All rights reserved. Used with permission. Courtesy of Fueled By Ramen / Atlantic Recording Corporation. By arrangement with Warner Music Group Film & TV Licensing.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "CB041EFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 192.439,
+  "mapName": "HighHopes",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496452\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HighHopes/HighHopes_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1090\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481240\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HighHopes/HighHopes_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1088\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2921505\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HighHopes/HighHopes_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1088\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3771913\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HighHopes/HighHopes_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1088\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "HighHopes_mapContent"
+  },
+  "parentMapName": "HighHopes",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "00B3C0FF",
+    "songColor_1B": "00FFD8FF",
+    "songColor_2A": "FFC069FF",
+    "songColor_2B": "E24F0DFF"
+  },
+  "status": 13,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "ExcludedFromWDF"
+  ],
+  "title": "High Hopes",
+  "urls": {
+    "jmcs://jd-contents/HighHopes/HighHopes_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_AudioPreview.ogg/2e58ba2a15d7a8e0150fbb969eb9b193.ogg",
+    "jmcs://jd-contents/HighHopes/HighHopes_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_MapPreviewNoSoundCrop_HIGH.vp8.webm/79a7c116ae5e392b2b9021685f43afe3.webm",
+    "jmcs://jd-contents/HighHopes/HighHopes_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_MapPreviewNoSoundCrop_HIGH.vp9.webm/65a0014572f3b5319f87964f1cd7f98a.webm",
+    "jmcs://jd-contents/HighHopes/HighHopes_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_MapPreviewNoSoundCrop_LOW.vp8.webm/f178ee1f03a249f8a386b59649765b09.webm",
+    "jmcs://jd-contents/HighHopes/HighHopes_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_MapPreviewNoSoundCrop_LOW.vp9.webm/7ec85bc5120056e1f3849369d9774fd7.webm",
+    "jmcs://jd-contents/HighHopes/HighHopes_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_MapPreviewNoSoundCrop_MID.vp8.webm/8904e82ccb57420cf4ebc84cd8fafbe2.webm",
+    "jmcs://jd-contents/HighHopes/HighHopes_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_MapPreviewNoSoundCrop_MID.vp9.webm/dfe56d91c88203abacfc429a2b084de3.webm",
+    "jmcs://jd-contents/HighHopes/HighHopes_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_MapPreviewNoSoundCrop_ULTRA.vp8.webm/eba2f9e58dd3e93112baf27df8a1bfb3.webm",
+    "jmcs://jd-contents/HighHopes/HighHopes_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/HighHopes/HighHopes_MapPreviewNoSoundCrop_ULTRA.vp9.webm/8da0aa479d1633469531769208fd7d3b.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "1b7db71bdba58f9fb6a21429ae7a5034",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HighHopes/ps4/HighHopes_MAIN_SCENE_ORBIS.zip/1b7db71bdba58f9fb6a21429ae7a5034.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "6bdbc61dbbf9cb3558ed2e7f7b25839c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HighHopes/nx/HighHopes_MAIN_SCENE_NX.zip/6bdbc61dbbf9cb3558ed2e7f7b25839c.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "54442d48adfd579c716c7d8bc147c6fb",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/HighHopes/pc/54442d48adfd579c716c7d8bc147c6fb.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

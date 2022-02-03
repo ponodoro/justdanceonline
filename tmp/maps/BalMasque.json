@@ -1,0 +1,116 @@
+{
+  "artist": "Dr. Creole",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/ps4/BalMasque_banner_bkg.tga.ckd/46411b18c5d80fde25150ca33359dfdd.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/ps4/BalMasque_Coach_1.tga.ckd/7231c4314cc5d2dd6f0af4a256dbc120.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/ps4/BalMasque_Coach_2.tga.ckd/4a0f1342731dbc2b5f8d98d18b7e58da.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/ps4/BalMasque_Coach_3.tga.ckd/a47ec40bf317b069b7ddd9520763e503.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/ps4/BalMasque_Coach_4.tga.ckd/6263ef31d853921b796300caea2d2164.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/ps4/BalMasque_Cover_Generic.tga.ckd/729e4d243352284cea7829b025cb0ce3.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_Cover_1024.png/c095d6138d911a7c452b9b49c24fd059.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/ps4/BalMasque_Cover_Online.tga.ckd/1761debf23e2be73ccd7ca75576d3e0c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/ps4/BalMasque_Cover_AlbumBkg.tga.ckd/1b751364b2f54189e1a828db5cf1a521.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/ps4/BalMasque_Cover_AlbumCoach.tga.ckd/fc1844b2a8e165bed88365dfaf3ca5e3.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_Coach_1_Phone.png/64fbfe6913fe7973ade20d9c6ee3d1ca.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_Coach_2_Phone.png/d0f002f559c274427a0e36474438d3fc.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_Coach_3_Phone.png/233c87d853b2ad905f82ebab715d8bda.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_Coach_4_Phone.png/05c8cb7c03fb857dffd409e512d29d2e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_Cover_Phone.jpg/58fb4c1318a9dcef23ca45c0d569e4bc.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/ps4/BalMasque_map_bkg.tga.ckd/c72e310b9305b06f75b7da2370e320f8.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/nx/BalMasque_banner_bkg.tga.ckd/1cd9003b60245d993b6980e5c2d148b5.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/nx/BalMasque_Coach_1.tga.ckd/def35a407e72907def550e0f9e9979c2.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/nx/BalMasque_Coach_2.tga.ckd/cffe240db10cebabd016c664663f130d.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/nx/BalMasque_Coach_3.tga.ckd/a207b04079f76b6a286b1ddf8e89fd4a.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/nx/BalMasque_Coach_4.tga.ckd/d62ca85d339b3e88bfa3cc2a54a9a00c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/nx/BalMasque_Cover_Generic.tga.ckd/3d1c7a25b1a2ee9a1fbdd02aa00b75a3.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_Cover_1024.png/c095d6138d911a7c452b9b49c24fd059.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/nx/BalMasque_Cover_Online.tga.ckd/d584342d886f5a37172cd964edae6cba.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/nx/BalMasque_Cover_AlbumBkg.tga.ckd/cdd45cc3b683ed4f683f0e9ed3a22fb8.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/nx/BalMasque_Cover_AlbumCoach.tga.ckd/219ab6de9b71cc0665840a2c4b35f931.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_Coach_1_Phone.png/64fbfe6913fe7973ade20d9c6ee3d1ca.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_Coach_2_Phone.png/d0f002f559c274427a0e36474438d3fc.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_Coach_3_Phone.png/233c87d853b2ad905f82ebab715d8bda.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_Coach_4_Phone.png/05c8cb7c03fb857dffd409e512d29d2e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_Cover_Phone.jpg/58fb4c1318a9dcef23ca45c0d569e4bc.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BalMasque/nx/BalMasque_map_bkg.tga.ckd/2eaa7eefee63f7b1cc9574616aedc420.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23664,47328,70992,94656,118272,141936,165600,189264,212928,236592,260208,283872,307536,331201,354865,378529,402145,425809,449473,473137,496801,520465,544081,567745,591409,615073,638737,662401,686017,709681,733345,757009,780673,804337,827953,851617,875281,898945,922609,946273,969889,993553,1017217,1040881,1064545,1088209,1111825,1135489,1159153,1182817,1206481,1230145,1253761,1277425,1301089,1324753,1348417,1372081,1395697,1419361],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":426,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":60,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/balmasque/balmasque_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Jean Kluger and Daniel Vangarde. Published by Bleu Blanc Rouge Editions / Zagora. Performed by Steve Ouimette. Vocals by Michel April, Maryse April, Alexis Marceaux, Sam Craft and Skyler Stroup. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "00EBEFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 211.91799999999998,
+  "mapName": "BalMasque",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496264\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BalMasque/BalMasque_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"596-1085\">\r\n\t\t\t\t\t<Initialization range=\"0-596\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480719\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BalMasque/BalMasque_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2932974\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BalMasque/BalMasque_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4886452\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BalMasque/BalMasque_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1090\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "BalMasque_mapContent"
+  },
+  "parentMapName": "BalMasque",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "1911B0FF",
+    "songColor_1B": "EA38FFFF",
+    "songColor_2A": "6AB9FFFF",
+    "songColor_2B": "692C96FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Le Bal Masqué",
+  "urls": {
+    "jmcs://jd-contents/BalMasque/BalMasque_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_AudioPreview.ogg/03e2a9401472bc1d0024890bcf7ba4fa.ogg",
+    "jmcs://jd-contents/BalMasque/BalMasque_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_MapPreviewNoSoundCrop_HIGH.vp8.webm/3ccb96c0daaa618e7fea7c7236d78da1.webm",
+    "jmcs://jd-contents/BalMasque/BalMasque_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_MapPreviewNoSoundCrop_HIGH.vp9.webm/8871962127c186649dc5a761db99ab14.webm",
+    "jmcs://jd-contents/BalMasque/BalMasque_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_MapPreviewNoSoundCrop_LOW.vp8.webm/32a2c5675b1c01adcbbd8d3630613983.webm",
+    "jmcs://jd-contents/BalMasque/BalMasque_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_MapPreviewNoSoundCrop_LOW.vp9.webm/164b9dede1c4de5753afe78affa43b6e.webm",
+    "jmcs://jd-contents/BalMasque/BalMasque_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_MapPreviewNoSoundCrop_MID.vp8.webm/ac1bfeca4ffd64062e7cfc9b1e5fbdf3.webm",
+    "jmcs://jd-contents/BalMasque/BalMasque_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_MapPreviewNoSoundCrop_MID.vp9.webm/ed9b3567bb59eb03b8091ed45799b387.webm",
+    "jmcs://jd-contents/BalMasque/BalMasque_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b0a375d950b5fb6548fc11f3ae8aabc9.webm",
+    "jmcs://jd-contents/BalMasque/BalMasque_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BalMasque/BalMasque_MapPreviewNoSoundCrop_ULTRA.vp9.webm/bf6b863b3e3bf28f1981f807d52a3275.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "f47b6d9eaf0c5fc662338c421e6e1960",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BalMasque/ps4/BalMasque_MAIN_SCENE_ORBIS.zip/f47b6d9eaf0c5fc662338c421e6e1960.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "77e6a4e5d6b2985d190d8cb771088fe5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BalMasque/nx/BalMasque_MAIN_SCENE_NX.zip/77e6a4e5d6b2985d190d8cb771088fe5.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "7b6331e1d3cd5d1279b6d66455947952",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/BalMasque/pc/7b6331e1d3cd5d1279b6d66455947952.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

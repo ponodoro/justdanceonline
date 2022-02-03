@@ -1,0 +1,76 @@
+<div class="row" ng-controller="ScriptsCtrl">
+    <div class="col-md-2">
+        <h2>Scripts</h2>
+        <div class="list-group">
+            <a class="list-group-item" ng-class="{active: selectedScriptId === scriptId}" ng-repeat="scriptId in Scripts.scriptIds" href="" ng-click="selectScript(scriptId)">{{Scripts.scripts[scriptId].title}}</a>
+        </div>
+    </div>
+    <div class="col-md-5" ng-if="selectedScript">
+        <h3>{{selectedScript.title}}</h3>
+        <form ng-submit="submit()">
+            <div ng-repeat="parameter in selectedScript.parameters" ng-switch="parameter.control">
+                <div class="form-group" ng-switch-when="checkbox">
+                    <label><input type="checkbox" name="{{parameter.id}}" ng-model="data[parameter.id]" value="{{true}}"> {{parameter.title}}</label>
+                    <a class="label label-default" ng-if="parameter.optional" ng-click="clearData(parameter)">Optional</a>
+                </div>
+                <div class="form-group" ng-switch-when="country">
+                    <label for="{{parameter.id}}">{{parameter.title}}</label>
+                    <a class="label label-default" ng-if="parameter.optional" ng-click="clearData(parameter)">Optional</a>
+                    <select class="form-control" id="{{parameter.id}}" name="{{parameter.id}}" ng-model="data[parameter.id]" ng-options="countryCode + ' ' + countries[countryCode] for countryCode in countryCodes"></select>
+                </div>
+                <div class="form-group" ng-switch-when="env">
+                    <label for="{{parameter.id}}">{{parameter.title}}</label>
+                    <a class="label label-default" ng-if="parameter.optional" ng-click="clearData(parameter)">Optional</a>
+                    <select class="form-control" id="{{parameter.id}}" name="{{parameter.id}}" ng-model="data[parameter.id]" ng-options="env for env in Envs.envs"></select>
+                </div>
+                <div class="form-group" ng-switch-when="input">
+                    <label for="{{parameter.id}}">{{parameter.title}}</label>
+                    <a class="label label-default" ng-if="parameter.optional" ng-click="clearData(parameter)">Optional</a>
+                    <input class="form-control" type="input" id="{{parameter.id}}" name="{{parameter.id}}" ng-model="data[parameter.id]" placeholder="{{parameter.placeholder}}">
+                </div>
+                <div class="form-group" ng-switch-when="language">
+                    <label for="{{parameter.id}}">{{parameter.title}}</label>
+                    <a class="label label-default" ng-if="parameter.optional" ng-click="clearData(parameter)">Optional</a>
+                    <select class="form-control" id="{{parameter.id}}" name="{{parameter.id}}" ng-model="data[parameter.id]" ng-options="language + ' ' + languages[language] for language in languageCodes"></select>
+                </div>
+                <div class="form-group" ng-switch-when="map">
+                    <label for="{{parameter.id}}">{{parameter.title}}</label>
+                    <a class="label label-default" ng-if="parameter.optional" ng-click="clearData(parameter)">Optional</a>
+                    <select class="form-control" id="{{parameter.id}}" name="{{parameter.id}}" ng-model="data[parameter.id]" ng-options="mapName + ' ' + Songs.songs.songlist[mapName].title + ' by ' + Songs.songs.songlist[mapName].artist for mapName in Songs.songs.mapNames"></select>
+                </div>
+                <div class="form-group" ng-switch-when="number">
+                    <label for="{{parameter.id}}">{{parameter.title}}</label>
+                    <a class="label label-default" ng-if="parameter.optional" ng-click="clearData(parameter)">Optional</a>
+                    <input class="form-control" type="number" id="{{parameter.id}}" name="{{parameter.id}}" ng-model="data[parameter.id]" min="{{parameter.min}}" max="{{parameter.max}}" step="{{parameter.step || 1}}">
+                </div>
+                <div class="form-group" ng-switch-when="select">
+                    <label for="{{parameter.id}}">{{parameter.title}}</label>
+                    <a class="label label-default" ng-if="parameter.optional" ng-click="clearData(parameter)">Optional</a>
+                    <select class="form-control" id="{{parameter.id}}" name="{{parameter.id}}" ng-model="data[parameter.id]" ng-options="option.value as option.name for option in parameter.options"></select>
+                </div>
+                <div class="form-group" ng-switch-when="sku">
+                    <label for="{{parameter.id}}">{{parameter.title}}</label>
+                    <a class="label label-default" ng-if="parameter.optional" ng-click="clearData(parameter)">Optional</a>
+                    <select class="form-control" id="{{parameter.id}}" name="{{parameter.id}}" ng-model="data[parameter.id]" ng-options="skuId for skuId in Skus.skuIds"></select>
+                </div>
+                <div class="form-group" ng-switch-when="textarea">
+                    <label for="{{parameter.id}}">{{parameter.title}}</label>
+                    <a class="label label-default" ng-if="parameter.optional" ng-click="clearData(parameter)">Optional</a>
+                    <textarea class="form-control" id="{{parameter.id}}" name="{{parameter.id}}" ng-model="data[parameter.id]" placeholder="{{parameter.placeholder}}"></textarea>
+                </div>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Execute</button>
+                <button type="button" class="btn btn-default" ng-click="resetForm()">Reset form</button>
+            </div>
+        </form>
+    </div>
+    <div class="col-md-5" ng-if="status">
+        <h3>Response</h3>
+        <div ng-class="statusClassName(status)">Status: <strong>{{status}}</strong></div>
+        <div class="clipboard">
+            <button type="button" class="btn btn-default" clip-copy="response" clip-click="copied()">Copy</button>
+        </div>
+        <pre>{{response}}</pre>
+    </div>
+</div>

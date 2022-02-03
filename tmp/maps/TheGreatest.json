@@ -1,0 +1,114 @@
+{
+  "artist": "Sia",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_banner_bkg.jpg/7280ab7c513d666a60f1733d9a5b8f49.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Coach_1.png/bc7c35d9c11a514048adbcd7f8b44765.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Cover_Generic.jpg/8093c337f512aeb34688bcbee1582b5d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Cover_1024.png/e9aa42dd58f39d64a92e8031acc00e05.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Cover_Online.jpg/ecf2640ec3bb6aa34702383f2ef4b1f8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Cover_AlbumBkg.jpg/d365d3ddc416d24a5e86583cbb619b99.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Cover_AlbumCoach.png/ba428a5c19da0f4d32675c422079fb9b.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Coach_1_Phone.png/d6aa73d04615b3d357905b6c6075c72f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Cover_Phone.jpg/ecf2640ec3bb6aa34702383f2ef4b1f8.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_VideoPreview.webm/e6249a1c17a84b83f312b668e4cd732e.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_banner_bkg.jpg/7280ab7c513d666a60f1733d9a5b8f49.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Coach_1.png/bc7c35d9c11a514048adbcd7f8b44765.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Cover_Generic.jpg/8093c337f512aeb34688bcbee1582b5d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Cover_1024.png/e9aa42dd58f39d64a92e8031acc00e05.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Cover_Online.jpg/ecf2640ec3bb6aa34702383f2ef4b1f8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Cover_AlbumBkg.jpg/d365d3ddc416d24a5e86583cbb619b99.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Cover_AlbumCoach.png/ba428a5c19da0f4d32675c422079fb9b.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Coach_1_Phone.png/d6aa73d04615b3d357905b6c6075c72f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Cover_Phone.jpg/ecf2640ec3bb6aa34702383f2ef4b1f8.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_VideoPreview.webm/e6249a1c17a84b83f312b668e4cd732e.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/wiiu/TheGreatest_banner_bkg.tga.ckd/e4bdfe7bc622d7bc6cee4cef767837c1.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/wiiu/TheGreatest_Coach_1.tga.ckd/0591742645313fd1daa7f3f4524cd3a3.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/wiiu/TheGreatest_Cover_Generic.tga.ckd/c2437d2d8c423f371ad7c9e94eb3446e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Cover_1024.png/e9aa42dd58f39d64a92e8031acc00e05.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/wiiu/TheGreatest_Cover_Online.tga.ckd/39f484b2b8dbcf1fe87ae4cca831b993.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/wiiu/TheGreatest_Cover_AlbumBkg.tga.ckd/1cb7434a8aafa2e9968e2a8beb2ba999.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/wiiu/TheGreatest_Cover_AlbumCoach.tga.ckd/f9282ea2287d4bde9cf56f246357c235.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Coach_1_Phone.png/d6aa73d04615b3d357905b6c6075c72f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_Cover_Phone.jpg/ecf2640ec3bb6aa34702383f2ef4b1f8.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_VideoPreview.webm/e6249a1c17a84b83f312b668e4cd732e.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,30000,60000,90000,120000,150000,180000,210000,240000,270000,300000,330000,360000,390000,420000,450000,480000,510000,540000,570000,600000,630000,660000,690000,720000,750000,780000,810000,839999,870000,900000,930000,960000,990000,1020000,1050000,1080000,1110000,1140000,1170000,1200000,1230000,1260000,1290000,1320000,1350000,1379999,1410000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":313,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":47,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/thegreatest/thegreatest_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "5BCCF1FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 197.5,
+  "mapName": "TheGreatest",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"494361\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"657-1146\">\r\n\t\t\t\t\t<Initialization range=\"0-657\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1253807\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"658-1148\">\r\n\t\t\t\t\t<Initialization range=\"0-658\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1744991\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"658-1148\">\r\n\t\t\t\t\t<Initialization range=\"0-658\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1744959\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"658-1148\">\r\n\t\t\t\t\t<Initialization range=\"0-658\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "TheGreatest_mapContent"
+  },
+  "parentMapName": "TheGreatest",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "4E1467FF",
+    "songColor_1B": "0A1E59FF",
+    "songColor_2A": "4A229DFF",
+    "songColor_2B": "001549FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "The Greatest",
+  "urls": {
+    "jmcs://jd-contents/TheGreatest/TheGreatest_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_AudioPreview.ogg/f34f46a2f41aa5c40b1e639d74b8af4b.ogg",
+    "jmcs://jd-contents/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_HIGH.vp8.webm/83312b3e5c3f56fe3397922d11f8a9ca.webm",
+    "jmcs://jd-contents/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_HIGH.vp9.webm/ea77b7b68ca34a4d9d21932fb510c5e6.webm",
+    "jmcs://jd-contents/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_LOW.vp8.webm/a61d29a42f01993469a04e5cb615212f.webm",
+    "jmcs://jd-contents/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_LOW.vp9.webm/df5cc9303fd5c40cfc57443cb03b0e85.webm",
+    "jmcs://jd-contents/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_MID.vp8.webm/120dabd63f3a27c5ed9b73665c473c26.webm",
+    "jmcs://jd-contents/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_MID.vp9.webm/f45d058b07dd02e816c6bbbd43896e7d.webm",
+    "jmcs://jd-contents/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_ULTRA.vp8.webm/06fe65716935708bf740cf299cdbfc0f.webm",
+    "jmcs://jd-contents/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheGreatest/TheGreatest_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5c5e7bdc7b7016472176c3d683bc0066.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "b174a410adaefdf5db74b1d764bb3bba",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheGreatest/ps4/TheGreatest_MAIN_SCENE_ORBIS.zip/b174a410adaefdf5db74b1d764bb3bba.zip",
+      "version": 57
+    },
+    "pc": {
+      "md5": "1b619fec698a05bbaaaf70a84bb34553",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheGreatest/pc/TheGreatest_MAIN_SCENE_PC.zip/1b619fec698a05bbaaaf70a84bb34553.zip",
+      "version": 30
+    },
+    "wiiu": {
+      "md5": "dae7f37150b2d8bd43f9e223b83f4505",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheGreatest/wiiu/TheGreatest_MAIN_SCENE_WIIU.zip/dae7f37150b2d8bd43f9e223b83f4505.zip",
+      "version": 59
+    },
+    "nx": {
+      "md5": "ba28c4fa75023c06987b43bac6e9aae3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheGreatest/nx/TheGreatest_MAIN_SCENE_NX.zip/ba28c4fa75023c06987b43bac6e9aae3.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

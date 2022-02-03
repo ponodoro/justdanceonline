@@ -1,0 +1,97 @@
+{
+  "artist": "Chris Lee (Li Yu Cun)",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_map_bkg.png"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/textures/JDCRealLove_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,177120,199248,221376,243552,265680,287856,309984,332160,354288,376464,398592,420768,442896,465072,487248,509376,531552,553680,575856,597984,620160,642288,664464,686592,708768,730896,753072,775248,797376,819552,841680,863856,885984,908160,930288,952464,974592,996768,1018896,1041072,1063248,1085376,1107552,1129680,1151856,1173984,1196160,1218288,1240464,1262592,1284768,1306896,1329072,1351248,1373376,1395552,1417680],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":496,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/JDCRealLove/JDCRealLove_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFB700FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 100,
+  "mapName": "JDCRealLove",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648877\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCRealLove/JDCRealLove_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493834\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCRealLove/JDCRealLove_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2984420\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCRealLove/JDCRealLove_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5932938\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCRealLove/JDCRealLove_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4514,
+  "packages": {
+    "mapContent": "JDCRealLove_mapContent"
+  },
+  "parentMapName": "JDCRealLove",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "3197F2FF",
+    "songColor_1B": "013666FF",
+    "songColor_2A": "B6CDF0FF",
+    "songColor_2B": "366EB3FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main"
+  ],
+  "title": "Real Love",
+  "urls": {
+    "jmcs://jd-contents/JDCRealLove/JDCRealLove_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/JDCRealLove_AudioPreview.ogg",
+    "jmcs://jd-contents/JDCRealLove/JDCRealLove_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/nx/JDCRealLove_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/JDCRealLove/JDCRealLove_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/nx/JDCRealLove_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/JDCRealLove/JDCRealLove_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/nx/JDCRealLove_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/JDCRealLove/JDCRealLove_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/nx/JDCRealLove_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/JDCRealLove/JDCRealLove_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/nx/JDCRealLove_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/JDCRealLove/JDCRealLove_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/nx/JDCRealLove_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/JDCRealLove/JDCRealLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/nx/JDCRealLove_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/JDCRealLove/JDCRealLove_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/nx/JDCRealLove_VideoPreview.vp9.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "6d1772bd33b18899643a9623a7a10c4b",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/pc/6d1772bd33b18899643a9623a7a10c4b.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "33f653b558bd724e371b92a40932237c",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/nx/33f653b558bd724e371b92a40932237c.zip",
+      "version": 1
+    },
+    "orbis": {
+      "md5": "01b9889082e1c5141e310d937143a97e",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/JDCRealLove/ps4/01b9889082e1c5141e310d937143a97e.zip",
+      "version": 1
+    }
+  },
+  "mapType": "custom"
+}

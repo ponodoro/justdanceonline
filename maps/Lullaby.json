@@ -1,0 +1,103 @@
+{
+  "artist": "Disney's Frozen 2",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/ps4/Lullaby_banner_bkg.tga.ckd/e98f0c51dd469884d230316bfe43b593.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/ps4/Lullaby_Coach_1.tga.ckd/8b49be4f05f7aa4b1086d16e4328385d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/ps4/Lullaby_Cover_Generic.tga.ckd/6d77b071d6891f15a0a9c541d6b9665f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/Lullaby_Cover_1024.png/f6060fb93406eabdd1808c0f12c9f0aa.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/ps4/Lullaby_Cover_Online.tga.ckd/ee28d58945742fa2eeb5b7223e003035.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/ps4/Lullaby_Cover_AlbumBkg.tga.ckd/9673f88725e4ac17926206678a29b02b.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/ps4/Lullaby_Cover_AlbumCoach.tga.ckd/e51f95cfd2f6c1b83c7a5e24378c8e44.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/Lullaby_Coach_1_Phone.png/afe3fb897739255a6778fb017e526f94.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/Lullaby_Cover_Phone.jpg/155aad2a937c4967b2e98b6a3e5a4207.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Lullaby/Lullaby_VideoPreview.webm/57a85b0ce1f0a03186be4684daa18444.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/ps4/Lullaby_map_bkg.tga.ckd/5573b509ac2e255933f58eaf629fa545.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/nx/Lullaby_banner_bkg.tga.ckd/f6a0a05170bc14de25da2eae97c6f411.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/nx/Lullaby_Coach_1.tga.ckd/0048270223eb641925806841721ed701.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/nx/Lullaby_Cover_Generic.tga.ckd/ad8612c15f4e9d1dca5bbee7da6cf4b6.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/Lullaby_Cover_1024.png/f6060fb93406eabdd1808c0f12c9f0aa.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/nx/Lullaby_Cover_Online.tga.ckd/8a4712263ab63d93d1e21b29c2d7a918.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/nx/Lullaby_Cover_AlbumBkg.tga.ckd/9690797fdae6b35efacbd0789ce43a90.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/nx/Lullaby_Cover_AlbumCoach.tga.ckd/2bbdc85afbc7ffb420bdbb3b2bd3bef0.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/Lullaby_Coach_1_Phone.png/afe3fb897739255a6778fb017e526f94.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/Lullaby_Cover_Phone.jpg/155aad2a937c4967b2e98b6a3e5a4207.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Lullaby/Lullaby_VideoPreview.webm/57a85b0ce1f0a03186be4684daa18444.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Lullaby/nx/Lullaby_map_bkg.tga.ckd/dc7a3e29b071013714c052f61aea02c6.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26667,53334,80000,106667,133334,160000,186667,213334,240000,266667,293334,320000,346667,373334,400000,426667,453334,480000,506667,533334,560000,586667,613334,640000,666667,693334,720000,746667,773334,800000,826667,853334,880000,906667,933334,960000,986667,1013334,1040000,1066667,1093334,1120000,1146667,1173334,1200000,1226667,1253334,1280000,1306667,1333334,1360000,1386667,1413334],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":333,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":53,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/lullaby/lullaby_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Kristen Anderson-Lopez and Robert Lopez. Published by Wonderland Music Company, Inc. (BMI). Courtesy of Walt Disney Records. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFB753FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 196.65599999999998,
+  "mapName": "Lullaby",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"494054\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lullaby/Lullaby_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"654-1143\">\r\n\t\t\t\t\t<Initialization range=\"0-654\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1434126\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lullaby/Lullaby_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2709540\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lullaby/Lullaby_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3864927\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lullaby/Lullaby_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "Lullaby_mapContent"
+  },
+  "parentMapName": "Lullaby",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "110055FF",
+    "songColor_1B": "00B2FFFF",
+    "songColor_2A": "BB6900FF",
+    "songColor_2B": "2841DDFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "JD20DealLullaby",
+    "subscribedSong"
+  ],
+  "title": "Into The Unknown",
+  "urls": {
+    "jmcs://jd-contents/Lullaby/Lullaby_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Lullaby/Lullaby_AudioPreview.ogg/939cb8db3ab7fbb309b94366e80ef0cf.ogg",
+    "jmcs://jd-contents/Lullaby/Lullaby_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Lullaby/Lullaby_MapPreviewNoSoundCrop_HIGH.vp8.webm/027a1557bc6b0c5d350ea1ae22829e03.webm",
+    "jmcs://jd-contents/Lullaby/Lullaby_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Lullaby/Lullaby_MapPreviewNoSoundCrop_HIGH.vp9.webm/d432617c5c4e006b28cc901c1553634f.webm",
+    "jmcs://jd-contents/Lullaby/Lullaby_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Lullaby/Lullaby_MapPreviewNoSoundCrop_LOW.vp8.webm/1cf3604f46690edec3ea05eefcea6463.webm",
+    "jmcs://jd-contents/Lullaby/Lullaby_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Lullaby/Lullaby_MapPreviewNoSoundCrop_LOW.vp9.webm/30c2760e2843ed96587898088a80088e.webm",
+    "jmcs://jd-contents/Lullaby/Lullaby_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Lullaby/Lullaby_MapPreviewNoSoundCrop_MID.vp8.webm/8c0e4bdfdf06f4d3ce06399df965c82d.webm",
+    "jmcs://jd-contents/Lullaby/Lullaby_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Lullaby/Lullaby_MapPreviewNoSoundCrop_MID.vp9.webm/1b031af216ee240796ca450845243906.webm",
+    "jmcs://jd-contents/Lullaby/Lullaby_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Lullaby/Lullaby_MapPreviewNoSoundCrop_ULTRA.vp8.webm/388d589fdc3d55a86384b70bfb878762.webm",
+    "jmcs://jd-contents/Lullaby/Lullaby_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Lullaby/Lullaby_MapPreviewNoSoundCrop_ULTRA.vp9.webm/3d7d2e54962580dd8cc043d69eb52921.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "c2744e9812b571659d0f2d50a41ad7ee",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Lullaby/ps4/Lullaby_MAIN_SCENE_ORBIS.zip/c2744e9812b571659d0f2d50a41ad7ee.zip",
+      "version": 16
+    },
+    "nx": {
+      "md5": "a37db4e79d4139d277025e084d187bbb",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Lullaby/nx/Lullaby_MAIN_SCENE_NX.zip/a37db4e79d4139d277025e084d187bbb.zip",
+      "version": 16
+    },
+    "pc": {
+      "md5": "73e380082132949363e47248db0ffa9e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Lullaby/pc/Lullaby_MAIN_SCENE_PC.zip/73e380082132949363e47248db0ffa9e.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "da2080fe093319adf4f488e17019b169",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Lullaby/wiiu/Lullaby_MAIN_SCENE_WIIU.zip/da2080fe093319adf4f488e17019b169.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu"
+}

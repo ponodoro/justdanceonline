@@ -1,0 +1,136 @@
+{
+  "artist": "Glorious Black Belts",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_banner_bkg.jpg/87a0eaf2e265c74f39669fc2ee74c08b.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Coach_1.png/53c0c1de695d35a5d0ee42bee3aed382.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Coach_2.png/f654ced6e2e5c78b181d803b730376e5.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Cover_Generic.jpg/89dfa7d41cdc287b94dfc46bb8fb289e.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Cover_1024.png/c00670e0503cec5c7976cd43ba9e2bab.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Cover_Online.jpg/6e6285c3e75e0a13836e4b591eedc9f9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Cover_AlbumBkg.jpg/7a6798a49fdc7012a719163797fee2c8.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Cover_AlbumCoach.png/363e1e61b728496142e856ab62a9cca6.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Coach_1_Phone.png/a552929931cb0ae420e3e6b54cd21e64.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Coach_2_Phone.png/e2cea3a27448a6bb5e806e768a2aebbb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Cover_Phone.jpg/6e6285c3e75e0a13836e4b591eedc9f9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_VideoPreview.webm/5e3651acad1f0ab23320a7e4a92c46fc.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_banner_bkg.jpg/87a0eaf2e265c74f39669fc2ee74c08b.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Coach_1.png/53c0c1de695d35a5d0ee42bee3aed382.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Coach_2.png/f654ced6e2e5c78b181d803b730376e5.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Cover_Generic.jpg/89dfa7d41cdc287b94dfc46bb8fb289e.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Cover_1024.png/c00670e0503cec5c7976cd43ba9e2bab.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Cover_Online.jpg/6e6285c3e75e0a13836e4b591eedc9f9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Cover_AlbumBkg.jpg/7a6798a49fdc7012a719163797fee2c8.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Cover_AlbumCoach.png/363e1e61b728496142e856ab62a9cca6.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Coach_1_Phone.png/a552929931cb0ae420e3e6b54cd21e64.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Coach_2_Phone.png/e2cea3a27448a6bb5e806e768a2aebbb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Cover_Phone.jpg/6e6285c3e75e0a13836e4b591eedc9f9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_VideoPreview.webm/5e3651acad1f0ab23320a7e4a92c46fc.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/wiiu/KungFunk_banner_bkg.tga.ckd/25e52065522bcf1eb54b3b5880255238.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/wiiu/KungFunk_Coach_1.tga.ckd/929c36c995ea89a6ba49093e9c9d0e28.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/wiiu/KungFunk_Coach_2.tga.ckd/f52b46700dbdcf29c474ce19aa654de7.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/wiiu/KungFunk_Cover_Generic.tga.ckd/68d72dd195e1574e0367aa16c3f0e617.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Cover_1024.png/c00670e0503cec5c7976cd43ba9e2bab.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/wiiu/KungFunk_Cover_Online.tga.ckd/d6edaf5a88a44a41607073986d60a590.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/wiiu/KungFunk_Cover_AlbumBkg.tga.ckd/5834c584a3f7c93b32673f155170acf8.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/wiiu/KungFunk_Cover_AlbumCoach.tga.ckd/d5617cafa9a7c37e4da4d2c17f5401be.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Coach_1_Phone.png/a552929931cb0ae420e3e6b54cd21e64.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Coach_2_Phone.png/e2cea3a27448a6bb5e806e768a2aebbb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_Cover_Phone.jpg/6e6285c3e75e0a13836e4b591eedc9f9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_VideoPreview.webm/5e3651acad1f0ab23320a7e4a92c46fc.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24624,49248,73872,98448,123072,147696,172320,196944,221520,246144,270768,295392,320016,344640,369216,393840,418464,443088,467712,492288,516912,541536,566160,590784,615408,639984,664608,689232,713856,738480,763104,787680,812304,836929,861553,886177,910753,935377,960001,984625,1009249,1033873,1058449,1083073,1107697,1132321,1156945,1181521,1206145,1230769,1255393,1280017,1304641,1329217,1353841,1378465,1403089,1427713],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":317,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":58,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/kungfunk/kungfunk_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Published by Ubisoft Music Publishing. Courtesy of Ubisoft Music. Composed and produced by Steve Ouimette. All instruments - Steve Ouimette and Cat Gray. Mixed by Cat Gray and Steve Ouimette. Music supervision - Manu Bachet and Alkis Argyriadis.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": -1,
+  "mainCoach": -1,
+  "mapLength": 164.102,
+  "mapName": "KungFunk",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496965\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KungFunk/KungFunk_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1479042\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KungFunk/KungFunk_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2524646\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KungFunk/KungFunk_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2529372\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KungFunk/KungFunk_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "KungFunk_mapContent"
+  },
+  "parentMapName": "KungFunk",
+  "skuIds": [
+    "jd2017-pc-ww",
+    "jd2017-ps4-scea",
+    "jd2017-ps4-scee",
+    "jd2017-wiiu-noa",
+    "jd2017-wiiu-noe",
+    "jd2017-xone-emea",
+    "jd2017-xone-ncsa",
+    "jd2016-ps4-scea",
+    "jd2016-ps4-scee",
+    "jd2016-wiiu-noa",
+    "jd2016-wiiu-noe",
+    "jd2016-xone-emea",
+    "jd2016-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "62E8FFFF",
+    "songColor_1B": "003349FF",
+    "songColor_2A": "A9BE29FF",
+    "songColor_2B": "053300FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 2,
+  "tags": [
+    "NoSweat",
+    "Main",
+    "Uplay2017",
+    "freeSong",
+    "ExcludedFromWDF",
+    "HallOfFame"
+  ],
+  "title": "Kool Kontact",
+  "urls": {
+    "jmcs://jd-contents/KungFunk/KungFunk_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_AudioPreview.ogg/d5f2d616178e4263b379363ef104e5be.ogg",
+    "jmcs://jd-contents/KungFunk/KungFunk_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_MapPreviewNoSoundCrop_HIGH.vp8.webm/99c7100bc95b2bed7d17d066504fe573.webm",
+    "jmcs://jd-contents/KungFunk/KungFunk_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_MapPreviewNoSoundCrop_HIGH.vp9.webm/19af20d34058dbf24ed43918a54b3153.webm",
+    "jmcs://jd-contents/KungFunk/KungFunk_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_MapPreviewNoSoundCrop_LOW.vp8.webm/fa5129154b1a46be84e7320c37ba26ae.webm",
+    "jmcs://jd-contents/KungFunk/KungFunk_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_MapPreviewNoSoundCrop_LOW.vp9.webm/192ffb7c3c67d47377ce331d9339161c.webm",
+    "jmcs://jd-contents/KungFunk/KungFunk_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_MapPreviewNoSoundCrop_MID.vp8.webm/9707b67cd24b55b53d2d1404536a4965.webm",
+    "jmcs://jd-contents/KungFunk/KungFunk_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_MapPreviewNoSoundCrop_MID.vp9.webm/32e2656069e1b2abec33921e107d8a1c.webm",
+    "jmcs://jd-contents/KungFunk/KungFunk_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_MapPreviewNoSoundCrop_ULTRA.vp8.webm/8d007db372ceb3d4564a2e386f3a066f.webm",
+    "jmcs://jd-contents/KungFunk/KungFunk_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KungFunk/KungFunk_MapPreviewNoSoundCrop_ULTRA.vp9.webm/c984466d3d66e490c84a0a2b358df079.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "d3fb10a490f82f4e44255efe8251e73f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KungFunk/ps4/KungFunk_MAIN_SCENE_ORBIS.zip/d3fb10a490f82f4e44255efe8251e73f.zip",
+      "version": 33
+    },
+    "nx": {
+      "md5": "2611619120794a63abe2810274ee7c41",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KungFunk/nx/KungFunk_MAIN_SCENE_NX.zip/2611619120794a63abe2810274ee7c41.zip",
+      "version": 17
+    },
+    "pc": {
+      "md5": "ee1cec4e1ff969d9a5d26f2b10841c87",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KungFunk/pc/KungFunk_MAIN_SCENE_PC.zip/ee1cec4e1ff969d9a5d26f2b10841c87.zip",
+      "version": 9
+    },
+    "wiiu": {
+      "md5": "8b80809a4ef41fe7c6890fa43bd2f1f3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KungFunk/wiiu/KungFunk_MAIN_SCENE_WIIU.zip/8b80809a4ef41fe7c6890fa43bd2f1f3.zip",
+      "version": 34
+    }
+  },
+  "mapType": "jdu"
+}

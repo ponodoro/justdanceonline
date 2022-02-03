@@ -1,0 +1,114 @@
+{
+  "artist": "Outkast",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_banner_bkg.jpg/d732a83e61b7159aeb33d6390057963e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Coach_1.png/dac15a4f8f26a89f4f7720e049808894.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Cover_Generic.jpg/e30094324388b612518fc22941e96430.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Cover_1024.png/f29cb9ca3dee7073d01d3108e5bfa8c5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Cover_Online.jpg/45853e7de26620fd3518b17f002bfdf2.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Cover_AlbumBkg.jpg/ae2d0725dd32210bde95425e27c893e2.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Cover_AlbumCoach.png/f5e336887ded8294807cf50923f2c392.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Coach_1_Phone.png/84957365a6e0d17dcf03be66e2c8a697.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Cover_Phone.jpg/45853e7de26620fd3518b17f002bfdf2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_VideoPreview.webm/b17d5eb76caa1f0d1e634238903356ea.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_banner_bkg.jpg/d732a83e61b7159aeb33d6390057963e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Coach_1.png/dac15a4f8f26a89f4f7720e049808894.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Cover_Generic.jpg/e30094324388b612518fc22941e96430.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Cover_1024.png/f29cb9ca3dee7073d01d3108e5bfa8c5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Cover_Online.jpg/45853e7de26620fd3518b17f002bfdf2.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Cover_AlbumBkg.jpg/ae2d0725dd32210bde95425e27c893e2.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Cover_AlbumCoach.png/f5e336887ded8294807cf50923f2c392.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Coach_1_Phone.png/84957365a6e0d17dcf03be66e2c8a697.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Cover_Phone.jpg/45853e7de26620fd3518b17f002bfdf2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_VideoPreview.webm/b17d5eb76caa1f0d1e634238903356ea.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/wiiu/HeyYa_banner_bkg.tga.ckd/e79c757a9ecde62c190280d9e446f263.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/wiiu/HeyYa_Coach_1.tga.ckd/b0006cfe98bce4d9bba8355f85f84212.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/wiiu/HeyYa_Cover_Generic.tga.ckd/096dbb851bf14f3280c1ae1b3160913b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Cover_1024.png/f29cb9ca3dee7073d01d3108e5bfa8c5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/wiiu/HeyYa_Cover_Online.tga.ckd/1be95895d5e994fa3c8310ac6294b907.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/wiiu/HeyYa_Cover_AlbumBkg.tga.ckd/239afe95ee3295691407ba1baaf78eef.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/wiiu/HeyYa_Cover_AlbumCoach.tga.ckd/50878cc8d4945971160e8a462d94e24f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Coach_1_Phone.png/84957365a6e0d17dcf03be66e2c8a697.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_Cover_Phone.jpg/45853e7de26620fd3518b17f002bfdf2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_VideoPreview.webm/b17d5eb76caa1f0d1e634238903356ea.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,18113,36226,54338,72451,90564,108676,126789,144902,163014,181127,199239,217352,235465,253577,271690,289803,307915,326028,344141,362253,380366,398479,416591,434704,452817,470929,489042,507155,525267,543380,561493,579605,597718,615831,633943,652056,670168,688281,706394,724506,742619,760732,778844,796957,815070,833182,851295,869408,887520,905633,923746,941858,959971,978084,996196,1014309,1032422,1050534,1068647,1086759,1104872,1122985,1141097,1159210,1177323,1195435,1213548,1231661,1249773,1267886,1285999,1304111,1322224,1340337,1358449,1376562,1394675,1412787,1430900],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":617,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":79,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/heyya/heyya_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "CF125DFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 233.142,
+  "mapName": "HeyYa",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496247\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyYa/HeyYa_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1455869\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyYa/HeyYa_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1662305\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyYa/HeyYa_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1661137\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyYa/HeyYa_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "HeyYa_mapContent"
+  },
+  "parentMapName": "HeyYa",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "DA1A62FF",
+    "songColor_1B": "15002CFF",
+    "songColor_2A": "5CDDDFFF",
+    "songColor_2B": "002145FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Hey Ya!",
+  "urls": {
+    "jmcs://jd-contents/HeyYa/HeyYa_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_AudioPreview.ogg/f21ee387efae2684a4b70e245dfbd329.ogg",
+    "jmcs://jd-contents/HeyYa/HeyYa_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_MapPreviewNoSoundCrop_HIGH.vp8.webm/8fe475e506709125b0249c911093875f.webm",
+    "jmcs://jd-contents/HeyYa/HeyYa_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_MapPreviewNoSoundCrop_HIGH.vp9.webm/cb2916cc2686b53a7c35f5ae2b582bfa.webm",
+    "jmcs://jd-contents/HeyYa/HeyYa_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_MapPreviewNoSoundCrop_LOW.vp8.webm/ccbe631cf8faf42a7732d9118387f797.webm",
+    "jmcs://jd-contents/HeyYa/HeyYa_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_MapPreviewNoSoundCrop_LOW.vp9.webm/8169aff17abbe8604a0963acb32c9b52.webm",
+    "jmcs://jd-contents/HeyYa/HeyYa_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_MapPreviewNoSoundCrop_MID.vp8.webm/60e67723182bb0a2c38245d76244b27d.webm",
+    "jmcs://jd-contents/HeyYa/HeyYa_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_MapPreviewNoSoundCrop_MID.vp9.webm/e4eaa2772535580660fdca0ddc8dc9b4.webm",
+    "jmcs://jd-contents/HeyYa/HeyYa_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_MapPreviewNoSoundCrop_ULTRA.vp8.webm/9ec8c6cb45d215f668b35414fc6730ce.webm",
+    "jmcs://jd-contents/HeyYa/HeyYa_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/HeyYa/HeyYa_MapPreviewNoSoundCrop_ULTRA.vp9.webm/834a3cae7bf6dcff22d84c096655d40e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "1a88c9f8c4e50db4adc03529986f44ed",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HeyYa/ps4/HeyYa_MAIN_SCENE_ORBIS.zip/1a88c9f8c4e50db4adc03529986f44ed.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "6cd1a31faed5d49fef4332654965178e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HeyYa/pc/HeyYa_MAIN_SCENE_PC.zip/6cd1a31faed5d49fef4332654965178e.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "3f94eee528a029995a2d4e3f876ddf31",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HeyYa/wiiu/HeyYa_MAIN_SCENE_WIIU.zip/3f94eee528a029995a2d4e3f876ddf31.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "2875f798f9a437ac62e58b835524e8e9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HeyYa/nx/HeyYa_MAIN_SCENE_NX.zip/2875f798f9a437ac62e58b835524e8e9.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

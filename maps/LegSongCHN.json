@@ -1,0 +1,100 @@
+{
+  "artist": "LULU",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/ps4/LegSongCHN_banner_bkg.tga.ckd/4912162af571b46a2c6f8cec1d615636.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/ps4/LegSongCHN_Coach_1.tga.ckd/23796cae8188ceeb49d63ec122030ba4.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/ps4/LegSongCHN_Cover_Generic.tga.ckd/3179e26a5238a6557284e19f0ad9c1aa.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/LegSongCHN_Cover_1024.png/a113f1ea81770dc194cf2bd48625bed7.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/ps4/LegSongCHN_Cover_Online.tga.ckd/f5b4d8e65b37cf12d791b0f0c5fca084.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/ps4/LegSongCHN_Cover_AlbumBkg.tga.ckd/c9f845100ec0d1ed42a53cc1c1c22135.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/ps4/LegSongCHN_Cover_AlbumCoach.tga.ckd/b65381921b5a72684291535bfa40220a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/LegSongCHN_Coach_1_Phone.png/71f5fed55ad39b9b2ae0abb5a311c180.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/LegSongCHN_Cover_Phone.jpg/fd290479fcb38481afac9322b5349214.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/ps4/LegSongCHN_map_bkg.tga.ckd/c594e2bc12e4dee7cbf28434edbe6130.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/nx/LegSongCHN_banner_bkg.tga.ckd/ac63ed13b0bd573e00fb8ee59168f7f0.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/nx/LegSongCHN_Coach_1.tga.ckd/a00ef53b2428f078cd63f30ca9ddc654.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/nx/LegSongCHN_Cover_Generic.tga.ckd/ccf64ad3006856b746180ab587308cd6.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/LegSongCHN_Cover_1024.png/a113f1ea81770dc194cf2bd48625bed7.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/nx/LegSongCHN_Cover_Online.tga.ckd/da5bd5ec3f82d21f849d14873c2c00d8.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/nx/LegSongCHN_Cover_AlbumBkg.tga.ckd/33895ac914bf97e7951c9ad34765d8d6.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/nx/LegSongCHN_Cover_AlbumCoach.tga.ckd/34b778a6bf74a92a0e74d46cb5cf6e53.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/LegSongCHN_Coach_1_Phone.png/71f5fed55ad39b9b2ae0abb5a311c180.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/LegSongCHN_Cover_Phone.jpg/fd290479fcb38481afac9322b5349214.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LegSongCHN/nx/LegSongCHN_map_bkg.tga.ckd/a7bdc694cf3b77104b48aa911cb349ab.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21840,43632,65472,87312,109104,130944,152736,174576,196368,218208,240000,261840,283632,305472,327312,349104,370944,392736,414576,436368,458208,480000,501840,523632,545472,567312,589104,610944,632736,654576,676368,698208,720000,741840,763632,785472,807312,829104,850944,872736,894576,916368,938208,960000,981840,1003632,1025472,1047312,1069104,1090944,1112736,1134576,1156368,1178208,1200000,1221840,1243632,1265472,1287312,1309104,1330944,1352736,1374576,1396368,1418208],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":420,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/legsongchn/legsongchn_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Jing Xiang Chang, Wei Jie Liao. Published by Universal – PolyGram International Publishing, Inc. on behalf of Universal Music Publishing Ltd. Taiwan. Courtesy of Universal Music Taiwan under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FC654AFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 190.909,
+  "mapName": "LegSongCHN",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497634\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1246843\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1249075\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1248696\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4514,
+  "packages": {
+    "mapContent": "LegSongCHN_mapContent"
+  },
+  "parentMapName": "LegSongCHN",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "12898AFF",
+    "songColor_1B": "08222BFF",
+    "songColor_2A": "F7CDFAFF",
+    "songColor_2B": "25E3EFFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Tui Zhi Ge (Leg Song)",
+  "urls": {
+    "jmcs://jd-contents/LegSongCHN/LegSongCHN_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/LegSongCHN/LegSongCHN_AudioPreview.ogg/0b4282ced3e218b36e5c2177f09dde84.ogg",
+    "jmcs://jd-contents/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_HIGH.vp8.webm/999fadfa10ad6f1a39fcc4ef20aaeaaf.webm",
+    "jmcs://jd-contents/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_HIGH.vp9.webm/c60c7db799c5b34ee00f023e9879f0c9.webm",
+    "jmcs://jd-contents/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_LOW.vp8.webm/0dbd51a2be765334ab6d95bacecadc73.webm",
+    "jmcs://jd-contents/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_LOW.vp9.webm/43a0f3fb122ef4f18fbaa569380c7250.webm",
+    "jmcs://jd-contents/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_MID.vp8.webm/4093415bc32d67b50a34bcac1ccec490.webm",
+    "jmcs://jd-contents/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_MID.vp9.webm/59b22f0564883a3aaab7f5aa0bd81b93.webm",
+    "jmcs://jd-contents/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_ULTRA.vp8.webm/6bdab1ed6f90878ab17b43eba7f42005.webm",
+    "jmcs://jd-contents/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/LegSongCHN/LegSongCHN_MapPreviewNoSoundCrop_ULTRA.vp9.webm/6df5348653ea8d040016818eeb557b7e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "ee5c1c7f5e49ef319cfd18ffed8d8e26",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LegSongCHN/ps4/LegSongCHN_MAIN_SCENE_ORBIS.zip/ee5c1c7f5e49ef319cfd18ffed8d8e26.zip",
+      "version": 11
+    },
+    "nx": {
+      "md5": "97038a25c8ff9f2e642eec4065cccf22",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LegSongCHN/nx/LegSongCHN_MAIN_SCENE_NX.zip/97038a25c8ff9f2e642eec4065cccf22.zip",
+      "version": 11
+    },
+    "pc": {
+      "md5": "8559fd87e3cbfd9919a5156350f7ebf7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LegSongCHN/pc/LegSongCHN_MAIN_SCENE_PC.zip/8559fd87e3cbfd9919a5156350f7ebf7.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "4ee4f09c8f7ba2feb8f4299ab37e908f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LegSongCHN/wiiu/LegSongCHN_MAIN_SCENE_WIIU.zip/4ee4f09c8f7ba2feb8f4299ab37e908f.zip",
+      "version": 11
+    }
+  },
+  "mapType": "jdu"
+}

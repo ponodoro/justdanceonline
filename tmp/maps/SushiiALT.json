@@ -1,0 +1,105 @@
+{
+  "artist": "Merk & Kremont",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/ps4/SushiiALT_banner_bkg.tga.ckd/b8e4708690bc1fb5ce9b9a883c944725.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/ps4/SushiiALT_Coach_1.tga.ckd/da090e97a9db8f4702577553ef244dc2.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/ps4/SushiiALT_Cover_Generic.tga.ckd/da03037b21923ca326ebf3734bb45a68.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/SushiiALT_Cover_1024.png/257c1655e5a586d280dec9908991b0e6.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/ps4/SushiiALT_Cover_Online.tga.ckd/f3140be67c5d622c53952fd6c1d654a7.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/ps4/SushiiALT_Cover_AlbumBkg.tga.ckd/e975404fe6e6608d9d693d4cccdd3ce6.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/ps4/SushiiALT_Cover_AlbumCoach.tga.ckd/121aae49a5ddfc93d3762966483ca9d5.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/SushiiALT_Coach_1_Phone.png/028d2a7a4fafc432c3cbfbbadc125197.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/SushiiALT_Cover_Phone.jpg/285a98354367f73cd0ab018917aefb18.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/ps4/SushiiALT_map_bkg.tga.ckd/9f95d2833e831507098c07cad30017c1.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/nx/SushiiALT_banner_bkg.tga.ckd/ceb9b9a052aa74d7d02b2d87a6c7d769.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/nx/SushiiALT_Coach_1.tga.ckd/d2154b705e4c567d6f89852c22d60368.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/nx/SushiiALT_Cover_Generic.tga.ckd/95de7004b52acd5f04a8200d24ed8f85.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/SushiiALT_Cover_1024.png/257c1655e5a586d280dec9908991b0e6.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/nx/SushiiALT_Cover_Online.tga.ckd/70bb4dfd41a4c2b1b323309f70033ba6.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/nx/SushiiALT_Cover_AlbumBkg.tga.ckd/a82315519d48bb0792d574d0954bc006.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/nx/SushiiALT_Cover_AlbumCoach.tga.ckd/beb70f7ebd5bc38bc5bbc4d364640ef1.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/SushiiALT_Coach_1_Phone.png/028d2a7a4fafc432c3cbfbbadc125197.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/SushiiALT_Cover_Phone.jpg/285a98354367f73cd0ab018917aefb18.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SushiiALT/nx/SushiiALT_map_bkg.tga.ckd/e1e1d5d40030d61db21dbfc9402061e6.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23225,46451,69677,92903,116129,139354,162580,185806,209032,232258,255483,278709,301935,325161,348387,371613,394838,418064,441290,464516,487742,510967,534193,557419,580645,603871,627096,650322,673548,696774,720000,743225,766451,789677,812903,836129,859354,882580,905806,929032,952258,975483,998709,1021935,1045161,1068387,1091613,1114838,1138064,1161290,1184516,1207742,1230967,1254193,1277419,1300645,1323871,1347096,1370322,1393548,1416774],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":342,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/sushiialt/sushiialt_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Takudzwa Maidza, Federico Mercuri, Giordano Cremona and Eugenio Maimone. Published by Merk and Kremont srl. / STELLAR SONGS LIMITED (BMI). / Red Music Sas. All rights reserved. Used with permission. Courtesy of Spinnin’ Records.",
+  "difficulty": 4,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "13DBFFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 166.934,
+  "mapName": "SushiiALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495909\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"596-1085\">\r\n\t\t\t\t\t<Initialization range=\"0-596\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1467541\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2911562\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5729528\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "SushiiALT_mapContent"
+  },
+  "parentMapName": "Sushii",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "E01C78FF",
+    "songColor_1B": "220141FF",
+    "songColor_2A": "00429BFF",
+    "songColor_2B": "090542FF"
+  },
+  "status": 12,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Alternate",
+    "subscribedSong"
+  ],
+  "title": "Sushi",
+  "urls": {
+    "jmcs://jd-contents/SushiiALT/SushiiALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/SushiiALT/SushiiALT_AudioPreview.ogg/80c546882c7a0f949f794096e63f8bee.ogg",
+    "jmcs://jd-contents/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/a954f915a37a192387521f2895db484b.webm",
+    "jmcs://jd-contents/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/ca93cae46f15231d09fff06ee731a450.webm",
+    "jmcs://jd-contents/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_LOW.vp8.webm/5b9716587a21b2f2c4156b8c0efca26d.webm",
+    "jmcs://jd-contents/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_LOW.vp9.webm/7178c416ecc37df9588fe296f6ac56f6.webm",
+    "jmcs://jd-contents/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_MID.vp8.webm/a7181c4a45bd2995d5c573e75bfbedbc.webm",
+    "jmcs://jd-contents/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_MID.vp9.webm/8a5a03295e04fd46349816df9be18576.webm",
+    "jmcs://jd-contents/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b51f2869dbce34523e4b1624e3af7efb.webm",
+    "jmcs://jd-contents/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/SushiiALT/SushiiALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/2b4d86661ad58c8deb384f70d09c7066.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "3299bc1c5988055cdb2c21df99b314ed",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SushiiALT/ps4/SushiiALT_MAIN_SCENE_ORBIS.zip/3299bc1c5988055cdb2c21df99b314ed.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "981708d535a174c85ac6b115d81db644",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SushiiALT/nx/SushiiALT_MAIN_SCENE_NX.zip/981708d535a174c85ac6b115d81db644.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "32052e8e7a8aece24baeadc4cd2dfef0",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/SushiiALT/pc/32052e8e7a8aece24baeadc4cd2dfef0.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12631
+}

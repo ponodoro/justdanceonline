@@ -1,0 +1,114 @@
+{
+  "artist": "Wham!",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_banner_bkg.jpg/8da9c04f9109e3072ef21fdc12270ba6.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Coach_1.png/ac7374f47d361e34f45d40c2d2c926f1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Cover_Generic.jpg/2b1364c4c6dc077cb7d9c2feeafe7e49.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Cover_1024.png/96af537897f096286b8a291630df0662.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Cover_Online.jpg/3fdde6ced31815d255002fe97659d3af.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Cover_AlbumBkg.jpg/99231abcb7d1f5bf7c40d18f54f350e7.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Cover_AlbumCoach.png/bd0978e0ce018bc0b8d55645cbdd6eb3.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Coach_1_Phone.png/a1a2a58379f3b98b82ade6df1be4b0d0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Cover_Phone.jpg/011680873f91073093530c3eb71bdf29.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_VideoPreview.webm/055c8c8c1eca4a618cc77f2f53ba7f67.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_banner_bkg.jpg/8da9c04f9109e3072ef21fdc12270ba6.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Coach_1.png/ac7374f47d361e34f45d40c2d2c926f1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Cover_Generic.jpg/2b1364c4c6dc077cb7d9c2feeafe7e49.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Cover_1024.png/96af537897f096286b8a291630df0662.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Cover_Online.jpg/3fdde6ced31815d255002fe97659d3af.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Cover_AlbumBkg.jpg/99231abcb7d1f5bf7c40d18f54f350e7.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Cover_AlbumCoach.png/bd0978e0ce018bc0b8d55645cbdd6eb3.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Coach_1_Phone.png/a1a2a58379f3b98b82ade6df1be4b0d0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Cover_Phone.jpg/011680873f91073093530c3eb71bdf29.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_VideoPreview.webm/055c8c8c1eca4a618cc77f2f53ba7f67.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/wiiu/WakeMeUp_banner_bkg.tga.ckd/c85eb5dc8c0546ee47068ea99ccfca10.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/wiiu/WakeMeUp_Coach_1.tga.ckd/bbc4940e9033ee44ddfb09dd415ee627.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/wiiu/WakeMeUp_Cover_Generic.tga.ckd/06605cc6cfb8404b842cdd75c34ce902.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Cover_1024.png/96af537897f096286b8a291630df0662.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/wiiu/WakeMeUp_Cover_Online.tga.ckd/b85a15f51927ecd778ce6157790dfb43.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/wiiu/WakeMeUp_Cover_AlbumBkg.tga.ckd/c6156487f81477a34495df7007a30120.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/wiiu/WakeMeUp_Cover_AlbumCoach.tga.ckd/f4f313f848853a492aea4b0f2e6adb2f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Coach_1_Phone.png/a1a2a58379f3b98b82ade6df1be4b0d0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_Cover_Phone.jpg/011680873f91073093530c3eb71bdf29.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_VideoPreview.webm/055c8c8c1eca4a618cc77f2f53ba7f67.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,17712,35376,53088,70752,88464,106176,123840,141552,159216,176928,194592,212304,230016,247680,265392,283056,300768,318480,336144,353856,371520,389232,406896,424608,442320,459984,477696,495360,513072,530784,548448,566160,583824,601536,619248,636912,654624,672288,690000,707664,725376,743088,760752,778464,796128,813840,831552,849216,866928,884592,902304,920016,937680,955392,973056,990768,1008432,1026144,1043856,1061520,1079232,1096896,1114608,1132320,1149984,1167696,1185360,1203072,1220736,1238448,1256160,1273824,1291536,1309200,1326912,1344624,1362288,1380000,1397664,1415376,1433088],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":600,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":81,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/wakemeup/wakemeup_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "00C68BFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 221.44899999999998,
+  "mapName": "WakeMeUp",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"494719\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1349440\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1368008\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1367444\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "WakeMeUp_mapContent"
+  },
+  "parentMapName": "WakeMeUp",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "03A892FF",
+    "songColor_1B": "011D23FF",
+    "songColor_2A": "FC3C8CFF",
+    "songColor_2B": "4C146BFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Wake Me Up Before You Go-Go",
+  "urls": {
+    "jmcs://jd-contents/WakeMeUp/WakeMeUp_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_AudioPreview.ogg/7bd0eee86b66a5349935611097d3b868.ogg",
+    "jmcs://jd-contents/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_HIGH.vp8.webm/2209d16056ea22b10ffb0e46e3fc5c2c.webm",
+    "jmcs://jd-contents/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_HIGH.vp9.webm/f4ed604bf4cb2013ee8cbe633c1e4af0.webm",
+    "jmcs://jd-contents/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_LOW.vp8.webm/330b2887db7e09aa81e62ff31f25ceb2.webm",
+    "jmcs://jd-contents/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_LOW.vp9.webm/f18a901cc12d4ba088f56aeaab440dde.webm",
+    "jmcs://jd-contents/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_MID.vp8.webm/33af9cbc362e0a6d3fc01460c5c61505.webm",
+    "jmcs://jd-contents/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_MID.vp9.webm/0dd1c02290e26b252989466483d6fc89.webm",
+    "jmcs://jd-contents/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_ULTRA.vp8.webm/1a1ba8b09e8454d672c5e4446e983927.webm",
+    "jmcs://jd-contents/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/WakeMeUp/WakeMeUp_MapPreviewNoSoundCrop_ULTRA.vp9.webm/401e1b8ef5f334c89cb31527da193db7.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "16027d707d7cc284fe8d62e3ebf2dd8d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WakeMeUp/ps4/WakeMeUp_MAIN_SCENE_ORBIS.zip/16027d707d7cc284fe8d62e3ebf2dd8d.zip",
+      "version": 31
+    },
+    "pc": {
+      "md5": "fa6ea81a4d65e107fecb2a15d8f98eb0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WakeMeUp/pc/WakeMeUp_MAIN_SCENE_PC.zip/fa6ea81a4d65e107fecb2a15d8f98eb0.zip",
+      "version": 15
+    },
+    "wiiu": {
+      "md5": "35abac381b2e8871b034413ed994762a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WakeMeUp/wiiu/WakeMeUp_MAIN_SCENE_WIIU.zip/35abac381b2e8871b034413ed994762a.zip",
+      "version": 33
+    },
+    "nx": {
+      "md5": "dea75dde30e9868ea9dee75087438a3b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WakeMeUp/nx/WakeMeUp_MAIN_SCENE_NX.zip/dea75dde30e9868ea9dee75087438a3b.zip",
+      "version": 16
+    }
+  },
+  "mapType": "jdu"
+}

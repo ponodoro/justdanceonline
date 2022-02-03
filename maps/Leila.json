@@ -1,0 +1,122 @@
+{
+  "artist": "Cheb Salama",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_banner_bkg.jpg/4c59e83fb77c0d553d757e1ad294ffaf.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Coach_1.png/f17cc836c2c9f6f55a7d8508383d800f.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Cover_Generic.jpg/3fd8627f6ead62c64e1fd5fc6f4778dd.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Cover_1024.png/593cfb62c5bdade3265674b7b32b924c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Cover_Online.jpg/00fb9370af2e0a663b631df49032344f.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Cover_AlbumBkg.jpg/b78e13f47830c6c8b8bac874d6a4199d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Cover_AlbumCoach.png/388de7c4cf5af3b1f0a0ecac4058686a.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Coach_1_Phone.png/6849f8d0a4a1e6b06fe0db01d9cdd137.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Cover_Phone.jpg/00fb9370af2e0a663b631df49032344f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Leila/Leila_VideoPreview.webm/514797ad6cc3ba68ba12c89bc6eb552d.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_banner_bkg.jpg/4c59e83fb77c0d553d757e1ad294ffaf.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Coach_1.png/f17cc836c2c9f6f55a7d8508383d800f.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Cover_Generic.jpg/3fd8627f6ead62c64e1fd5fc6f4778dd.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Cover_1024.png/593cfb62c5bdade3265674b7b32b924c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Cover_Online.jpg/00fb9370af2e0a663b631df49032344f.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Cover_AlbumBkg.jpg/b78e13f47830c6c8b8bac874d6a4199d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Cover_AlbumCoach.png/388de7c4cf5af3b1f0a0ecac4058686a.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Coach_1_Phone.png/6849f8d0a4a1e6b06fe0db01d9cdd137.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Cover_Phone.jpg/00fb9370af2e0a663b631df49032344f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Leila/Leila_VideoPreview.webm/514797ad6cc3ba68ba12c89bc6eb552d.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/wiiu/Leila_banner_bkg.tga.ckd/6fcea32e4734fd53b26357ed062553a0.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/wiiu/Leila_Coach_1.tga.ckd/e8c5c7cd6900eb2fe834e9f28e17e416.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/wiiu/Leila_Cover_Generic.tga.ckd/1d53a2eafab1d592810c6242982dad17.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Cover_1024.png/593cfb62c5bdade3265674b7b32b924c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/wiiu/Leila_Cover_Online.tga.ckd/ba1c5edddf000318d25da59b34cf39a2.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/wiiu/Leila_Cover_AlbumBkg.tga.ckd/4c643ab1d2f7def2624e9864995a92bf.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/wiiu/Leila_Cover_AlbumCoach.tga.ckd/cace12a651534663ca5b88cee45a2e95.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Coach_1_Phone.png/6849f8d0a4a1e6b06fe0db01d9cdd137.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Leila/Leila_Cover_Phone.jpg/00fb9370af2e0a663b631df49032344f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Leila/Leila_VideoPreview.webm/514797ad6cc3ba68ba12c89bc6eb552d.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27456,54864,82320,109728,137184,164592,192000,219457,246865,274321,301729,329185,356593,384001,411457,438865,466321,493729,521185,548593,576001,603457,630865,658322,685730,713186,740594,768002,795458,822866,850322,877730,905186,932594,960002,987458,1014866,1042322,1069730,1097187,1124595,1152003,1179459,1206867,1234323,1261731,1289187,1316595,1344003,1371459,1398867,1426323],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":339,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":52,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/leila/leila_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Tom Salta, MC Rai and Basar Under. Produced, engineered and mixed by Tom Salta. Published by Ubisoft Music Publishing. Vocals by Bora Ebeoglu, Emre Ilmaz, Mc Rai, Justin Ancheta, Maren Metke, Fatma Arabacioglu and Tom Salta. Guitars by Steve Ouimette. Saz by Haluk Kecelioglu. Music supervision – Manu Bachet. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF1065FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 195.999,
+  "mapName": "Leila",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496449\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Leila/Leila_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"617-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-617\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1447988\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Leila/Leila_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2285214\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Leila/Leila_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2287901\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Leila/Leila_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "Leila_mapContent"
+  },
+  "parentMapName": "Leila",
+  "skuIds": [
+    "jd2017-nx-all",
+    "jd2017-pc-ww",
+    "jd2017-ps4-scea",
+    "jd2017-ps4-scee",
+    "jd2017-wiiu-noa",
+    "jd2017-wiiu-noe",
+    "jd2017-xone-emea",
+    "jd2017-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "FFB336FF",
+    "songColor_1B": "C33400FF",
+    "songColor_2A": "4284C8FF",
+    "songColor_2B": "03005AFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "Extreme",
+    "subscribedSong"
+  ],
+  "title": "Leila",
+  "urls": {
+    "jmcs://jd-contents/Leila/Leila_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Leila/Leila_AudioPreview.ogg/3611f544844cda1fc50cb8eae4a18b69.ogg",
+    "jmcs://jd-contents/Leila/Leila_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Leila/Leila_MapPreviewNoSoundCrop_HIGH.vp8.webm/c8b35e180ba0a38513221d976c932824.webm",
+    "jmcs://jd-contents/Leila/Leila_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Leila/Leila_MapPreviewNoSoundCrop_HIGH.vp9.webm/4bf143cc285415ffd8afbb5a878a350a.webm",
+    "jmcs://jd-contents/Leila/Leila_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Leila/Leila_MapPreviewNoSoundCrop_LOW.vp8.webm/571b65d82013fc2bb17ff3c21a25fb5e.webm",
+    "jmcs://jd-contents/Leila/Leila_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Leila/Leila_MapPreviewNoSoundCrop_LOW.vp9.webm/1d73b270ceee64cd512ad8a955b70d23.webm",
+    "jmcs://jd-contents/Leila/Leila_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Leila/Leila_MapPreviewNoSoundCrop_MID.vp8.webm/a02821db8ed8951b2c441534c3d90f1e.webm",
+    "jmcs://jd-contents/Leila/Leila_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Leila/Leila_MapPreviewNoSoundCrop_MID.vp9.webm/7a1046e9b693137dc5930b1bbcf926d8.webm",
+    "jmcs://jd-contents/Leila/Leila_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Leila/Leila_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ca05aa11fee88e555501015a2102d59f.webm",
+    "jmcs://jd-contents/Leila/Leila_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Leila/Leila_MapPreviewNoSoundCrop_ULTRA.vp9.webm/8e6ff4bf1e4882d72acb7d81f567aa8f.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "c1c52603dc7889b2a59f69ba3de82938",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Leila/ps4/Leila_MAIN_SCENE_ORBIS.zip/c1c52603dc7889b2a59f69ba3de82938.zip",
+      "version": 22
+    },
+    "nx": {
+      "md5": "c3c3fe44811a8a7c0315fffa2deefcfc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Leila/nx/Leila_MAIN_SCENE_NX.zip/c3c3fe44811a8a7c0315fffa2deefcfc.zip",
+      "version": 12
+    },
+    "pc": {
+      "md5": "ed4b3c221236ca762aa1caed682b399b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Leila/pc/Leila_MAIN_SCENE_PC.zip/ed4b3c221236ca762aa1caed682b399b.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "4287ff3ac9bd86b0368271af9b78274b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Leila/wiiu/Leila_MAIN_SCENE_WIIU.zip/4287ff3ac9bd86b0368271af9b78274b.zip",
+      "version": 22
+    }
+  },
+  "mapType": "jdu"
+}

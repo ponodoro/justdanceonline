@@ -1,0 +1,94 @@
+{
+  "artist": "Galantis",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_banner_bkg.jpg/fef3e622216ad1eab9f81b6a830fe2f9.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Coach_1.png/98d2eb64c8ec90a0750412d541c88924.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Coach_2.png/ed73f39556a6dd7caf63a65fa74815b1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Cover_Generic.jpg/ead19b57af60f861ad7949cb84aa9636.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Cover_Online.jpg/843a97c716f85637594e8482b14c57bf.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Cover_AlbumBkg.jpg/0ab65cf722f549623194cd4884739581.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Cover_AlbumCoach.png/522b887681d2d2a996881e822dfdfc37.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Coach_1_Phone.png/170a639f029a758421812247ef3e6883.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Coach_2_Phone.png/f21bf1d1fedd8fcaae007996d31d07fe.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Cover_Phone.jpg/843a97c716f85637594e8482b14c57bf.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_banner_bkg.jpg/fef3e622216ad1eab9f81b6a830fe2f9.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Coach_1.png/98d2eb64c8ec90a0750412d541c88924.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Coach_2.png/ed73f39556a6dd7caf63a65fa74815b1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Cover_Generic.jpg/ead19b57af60f861ad7949cb84aa9636.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Cover_Online.jpg/843a97c716f85637594e8482b14c57bf.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Cover_AlbumBkg.jpg/0ab65cf722f549623194cd4884739581.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Cover_AlbumCoach.png/522b887681d2d2a996881e822dfdfc37.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Coach_1_Phone.png/170a639f029a758421812247ef3e6883.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Coach_2_Phone.png/f21bf1d1fedd8fcaae007996d31d07fe.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Runaway/Runaway_Cover_Phone.jpg/843a97c716f85637594e8482b14c57bf.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22857,45714,68571,91429,114286,137143,160000,182857,205714,228571,251429,274286,297143,320000,342857,365714,388571,411429,434286,457143,480000,502857,525714,548571,571429,594286,617143,640000,662857,685714,708571,731429,754286,777143,800000,822857,845714,868571,891429,914286,937143,960000,982857,1005714,1028571,1051429,1074286,1097143,1120000,1142857,1165714,1188571,1211429,1234286,1257143,1280000,1302857,1325714,1348571,1371429,1394286,1417143],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-11,\"endBeat\":469,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/runaway/runaway_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Christian Lars Karlsson, Linus Eklow, Cathy Dennis, Anton Rundberg, Julia Karlsson and Jimmy Koitzsch. Published by Concord Music Publishing o/b/o Imagem Global Music. / These are the Songs of Pulse administered by Concord Music Publishing. / MXM (ASCAP). Administered by Kobalt Music Publishing America, Inc. / Universal Music Publishing Canada on behalf of Universal Music Publishing AB. Courtesy of Atlantic Recording Corporation. By arrangement with Warner Music Group Film & TV Licensing.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF02FEFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 228.57299999999998,
+  "mapName": "Runaway",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"493745\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Runaway/Runaway_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1423374\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Runaway/Runaway_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2423346\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Runaway/Runaway_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4084933\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Runaway/Runaway_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "Runaway_mapContent"
+  },
+  "parentMapName": "Runaway",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "E5988FFF",
+    "songColor_1B": "21D4CAFF",
+    "songColor_2A": "0E2F57FF",
+    "songColor_2B": "2A3FD1FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Runaway (U & I)",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "da0724e77927b220b6e8af04ee4488ed",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Runaway/ps4/Runaway_MAIN_SCENE_ORBIS.zip/da0724e77927b220b6e8af04ee4488ed.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "67277bd59850d473497e04b1a2c4b86e",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Runaway/nx/Runaway_MAIN_SCENE_NX.zip/67277bd59850d473497e04b1a2c4b86e.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "8abd7579c1eb179283d0579b21a89c79",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Runaway/pc/8abd7579c1eb179283d0579b21a89c79.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/Runaway/Runaway_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/Runaway/Runaway_AudioPreview.ogg/a380cb14736305dc9bf3109f24e45c15.ogg",
+    "jmcs://jd-contents/Runaway/Runaway_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Runaway/Runaway_MapPreviewNoSoundCrop_HIGH.vp8.webm/1a2e9c980a4b87328d1c30711cb5eb17.webm",
+    "jmcs://jd-contents/Runaway/Runaway_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Runaway/Runaway_MapPreviewNoSoundCrop_HIGH.vp9.webm/456a23b2f71a8fb818dd0cf473d939fe.webm",
+    "jmcs://jd-contents/Runaway/Runaway_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Runaway/Runaway_MapPreviewNoSoundCrop_LOW.vp8.webm/51767a4b4d9beb773e151554a4ce649c.webm",
+    "jmcs://jd-contents/Runaway/Runaway_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Runaway/Runaway_MapPreviewNoSoundCrop_LOW.vp9.webm/a17bb1ad4ff138b42f26d710b988915b.webm",
+    "jmcs://jd-contents/Runaway/Runaway_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Runaway/Runaway_MapPreviewNoSoundCrop_MID.vp8.webm/1181164d3545b0c1948281ab11a0bae1.webm",
+    "jmcs://jd-contents/Runaway/Runaway_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Runaway/Runaway_MapPreviewNoSoundCrop_MID.vp9.webm/11b89ebaeedd63ceae1c39118ac41c53.webm",
+    "jmcs://jd-contents/Runaway/Runaway_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Runaway/Runaway_MapPreviewNoSoundCrop_ULTRA.vp8.webm/974fbd31a0d91f6e9f8eaef07d7eecdd.webm",
+    "jmcs://jd-contents/Runaway/Runaway_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Runaway/Runaway_MapPreviewNoSoundCrop_ULTRA.vp9.webm/03d220ff9bc62e43bf04453c1696a044.webm"
+  }
+}

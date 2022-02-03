@@ -1,0 +1,105 @@
+{
+  "artist": "Cee Lo Green",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/ps4/ForgetYou_map_bkg.tga.ckd/a314a3359947a3178e25ef9b63ca3dbb.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/ps4/ForgetYou_Coach_1.tga.ckd/e065fe8567750b44926eba858f20f052.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/ps4/ForgetYou_Cover_Generic.tga.ckd/efe0cd72e70640c6fbbb8fb73e0c686e.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/ps4/ForgetYou_Cover_Online.tga.ckd/9b5c2ec6e45f742606451bd84d158615.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/ps4/ForgetYou_Cover_AlbumBkg.tga.ckd/6031c1de36e1f3b175d6fbfc5f69338d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/ps4/ForgetYou_Cover_AlbumCoach.tga.ckd/f5c6ede5e6164dc88bbc628b8dd16bce.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/ForgetYou_Coach_1_Phone.png/f5371c041f2bff143e482786394ca675.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/ForgetYou_Cover_Phone.jpg/85bd6828fd388e97ff05af516af2f6d5.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ForgetYou/ForgetYou_VideoPreview.webm/95255ba3e06c6119634e119a6af2e042.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/ps4/ForgetYou_map_bkg.tga.ckd/a314a3359947a3178e25ef9b63ca3dbb.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/nx/ForgetYou_banner_bkg.tga.ckd/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/nx/ForgetYou_Coach_1.tga.ckd/14e14175a3dacc155fc3dd774aa8c4e8.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/nx/ForgetYou_Cover_Generic.tga.ckd/4d65693c67ad5660693a000f825afee8.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/nx/ForgetYou_Cover_Online.tga.ckd/fab310b7e6bc4208549bad4fecd2cc17.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/nx/ForgetYou_Cover_AlbumBkg.tga.ckd/82d432e5ef8569306a74a955f313d648.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/nx/ForgetYou_Cover_AlbumCoach.tga.ckd/f1daecea53da9a35dc4da9482f2af8d8.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/nx/ForgetYou_map_bkg.tga.ckd/f94cfc86bde14163eb8b32bae8c93293.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/ForgetYou_Coach_1_Phone.png/f5371c041f2bff143e482786394ca675.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ForgetYou/ForgetYou_Cover_Phone.jpg/85bd6828fd388e97ff05af516af2f6d5.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ForgetYou/ForgetYou_VideoPreview.webm/95255ba3e06c6119634e119a6af2e042.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22970,46254,68702,91272,113632,136150,159051,183057,204077,226751,249434,272039,294470,317183,339801,362431,384777,407327,429775,452380,474462,497458,519958,542955,566204,588286,610612,632799,655586,678530,701357,723896,746606,768601,791066,813793,836227,858836,881563,904612,926790,949638,972269,994473,1017077,1039969,1062234,1085083,1107287,1130440,1152844,1175536,1197653,1220780,1243124,1265484,1288124,1311094,1333333,1356356,1378926,1400520,1423595],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":481,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/forgetyou/forgetyou_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "49D3D2FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 226.964,
+  "mapName": "ForgetYou",
+  "mapPreviewMpd": {
+    "videoEncoding": {
+      "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496652\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1050858\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1062395\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1061651\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+      "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"707740\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1584903\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"3121229\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4856169\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+    }
+  },
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "ForgetYou_mapContent"
+  },
+  "parentMapName": "ForgetYou",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "E3C686FF",
+    "songColor_1B": "27160EFF",
+    "songColor_2A": "A22734FF",
+    "songColor_2B": "A16A44FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Forget You",
+  "urls": {
+    "jmcs://jd-contents/ForgetYou/ForgetYou_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ForgetYou/ForgetYou_AudioPreview.ogg/26ecd276cfbaf350e3512625d67c681e.ogg",
+    "jmcs://jd-contents/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_HIGH.vp8.webm/9459abeedcaae593472eb18064c2bceb.webm",
+    "jmcs://jd-contents/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_HIGH.vp9.webm/6b09094bdc4cf0219fc382efa94e2cf5.webm",
+    "jmcs://jd-contents/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_LOW.vp8.webm/76a071fc67746b5633ca49bd62d3285f.webm",
+    "jmcs://jd-contents/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_LOW.vp9.webm/f5ccb0bb07066c7b1955fbf57f930b63.webm",
+    "jmcs://jd-contents/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_MID.vp8.webm/a0a7c24b7db5ce7c459cb6993dcee019.webm",
+    "jmcs://jd-contents/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_MID.vp9.webm/b77d4b587da515d5daf5e87c99f30785.webm",
+    "jmcs://jd-contents/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm/5e33e51e1f7fe595268e973765dd9fb3.webm",
+    "jmcs://jd-contents/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ForgetYou/ForgetYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm/d77284bc59c49fa9b29448c7ef859faa.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "eb57416420ae5e75ec616873d05860fc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ForgetYou/ps4/ForgetYou_MAIN_SCENE_ORBIS.zip/eb57416420ae5e75ec616873d05860fc.zip",
+      "version": 18
+    },
+    "pc": {
+      "md5": "08849bfcb32470a1008a71f22c801cce",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ForgetYou/pc/ForgetYou_MAIN_SCENE_PC.zip/08849bfcb32470a1008a71f22c801cce.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "",
+      "version": 0
+    },
+    "nx": {
+      "md5": "e858dd24ed826141ddf4851f67455fc4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ForgetYou/nx/ForgetYou_MAIN_SCENE_NX.zip/e858dd24ed826141ddf4851f67455fc4.zip",
+      "version": 18
+    }
+  },
+  "mapType": "jdu"
+}

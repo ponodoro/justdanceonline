@@ -1,0 +1,126 @@
+{
+  "artist": "O-Zone",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_banner_bkg.jpg/88e9f9b65aad7c74bad2443b93b228ef.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Coach_1.png/216b0a9e91319fa10570f674c8c76252.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Coach_2.png/893c9076a8df903ca739b43a772c6722.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Coach_3.png/fe91fc8926c8d83d619c25e24ff729c0.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Cover_Generic.jpg/2b911e361a5a3a0cb23e1e7d3586513e.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Cover_1024.png/cc38637e20a413a343d95a79b564236f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Cover_Online.jpg/3215e2f4876b6b49bc64e1e64015db16.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Cover_AlbumBkg.jpg/e00cbe2b860b6a46e37f5b1c6d734305.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Cover_AlbumCoach.png/7ad3e9338186148dd3de2e495a07eed2.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Coach_1_Phone.png/1d21c70db584dc9191ef5f4f6e3c2be6.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Coach_2_Phone.png/969fbd6482bd0264e243a6282b78b866.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Coach_3_Phone.png/da6164d6decca4854ac219822193a27f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Cover_Phone.jpg/3215e2f4876b6b49bc64e1e64015db16.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_VideoPreview.webm/990e6d39d5653bba3b4b578ac8e18a37.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_banner_bkg.jpg/88e9f9b65aad7c74bad2443b93b228ef.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Coach_1.png/216b0a9e91319fa10570f674c8c76252.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Coach_2.png/893c9076a8df903ca739b43a772c6722.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Coach_3.png/fe91fc8926c8d83d619c25e24ff729c0.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Cover_Generic.jpg/2b911e361a5a3a0cb23e1e7d3586513e.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Cover_1024.png/cc38637e20a413a343d95a79b564236f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Cover_Online.jpg/3215e2f4876b6b49bc64e1e64015db16.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Cover_AlbumBkg.jpg/e00cbe2b860b6a46e37f5b1c6d734305.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Cover_AlbumCoach.png/7ad3e9338186148dd3de2e495a07eed2.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Coach_1_Phone.png/1d21c70db584dc9191ef5f4f6e3c2be6.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Coach_2_Phone.png/969fbd6482bd0264e243a6282b78b866.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Coach_3_Phone.png/da6164d6decca4854ac219822193a27f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Cover_Phone.jpg/3215e2f4876b6b49bc64e1e64015db16.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_VideoPreview.webm/990e6d39d5653bba3b4b578ac8e18a37.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/wiiu/DragosteaDinTei_banner_bkg.tga.ckd/a0151e2e0b4f39549f4ec3c61cc4c148.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/wiiu/DragosteaDinTei_Coach_1.tga.ckd/5cbff13802420c1c69cfa825b95e29be.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/wiiu/DragosteaDinTei_Coach_2.tga.ckd/2aa60ad3f382e3a51c6c327882fc48a1.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/wiiu/DragosteaDinTei_Coach_3.tga.ckd/77509f94483feab6577dd08c8e7ab283.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/wiiu/DragosteaDinTei_Cover_Generic.tga.ckd/3064ccb6564056a5ad1f4b22e47acf82.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Cover_1024.png/cc38637e20a413a343d95a79b564236f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/wiiu/DragosteaDinTei_Cover_Online.tga.ckd/b6c428d15ef349785ef66f84ed09f3f5.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/wiiu/DragosteaDinTei_Cover_AlbumBkg.tga.ckd/bf1b5304eb713d8c23bb8f20f937b64f.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/wiiu/DragosteaDinTei_Cover_AlbumCoach.tga.ckd/55e765016d4730eb4b9cfb2b74e11227.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Coach_1_Phone.png/1d21c70db584dc9191ef5f4f6e3c2be6.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Coach_2_Phone.png/969fbd6482bd0264e243a6282b78b866.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Coach_3_Phone.png/da6164d6decca4854ac219822193a27f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_Cover_Phone.jpg/3215e2f4876b6b49bc64e1e64015db16.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_VideoPreview.webm/990e6d39d5653bba3b4b578ac8e18a37.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22176,44304,66480,88608,110784,132960,155088,177264,199393,221569,243697,265873,288001,310177,332305,354481,376609,398785,420961,443089,465265,487393,509569,531697,553873,576001,598177,620305,642481,664609,686785,708961,731090,753266,775394,797570,819698,841874,864002,886178,908306,930482,952610,974786,996962,1019090,1041266,1063394,1085570,1107698,1129874,1152002,1174178,1196306,1218482,1240610,1262786,1284963,1307091,1329267,1351395,1373571,1395699,1417875],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":466,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/dragosteadintei/dragosteadintei_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "E7039DFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 218.768,
+  "mapName": "DragosteaDinTei",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497921\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480968\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2934848\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3807148\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "DragosteaDinTei_mapContent"
+  },
+  "parentMapName": "DragosteaDinTei",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FFB544FF",
+    "songColor_1B": "AB1378FF",
+    "songColor_2A": "74E8FFFF",
+    "songColor_2B": "1349AEFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Dragostea Din Tei ",
+  "urls": {
+    "jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_AudioPreview.ogg/c46e162f9813f93cecee8053cf74ef26.ogg",
+    "jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_HIGH.vp8.webm/b18887af1f75269b10a36982450fffb2.webm",
+    "jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_HIGH.vp9.webm/6d5a3e6d05ea3078dff67469c4be5fc3.webm",
+    "jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_LOW.vp8.webm/f539064ae15aeb946fa53d88c60e5fa1.webm",
+    "jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_LOW.vp9.webm/006e8aee209008c6c4e2b89d621def26.webm",
+    "jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_MID.vp8.webm/2e1aecb7c2eac7a659e3e6db8736884d.webm",
+    "jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_MID.vp9.webm/4a8193c571755c3462002a92a716deba.webm",
+    "jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d23b462e03e6eb00d9bcb531f0a60fac.webm",
+    "jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/DragosteaDinTei_MapPreviewNoSoundCrop_ULTRA.vp9.webm/b569971ba6adffa237117ec9775e2842.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "01cf03b613d25343f55f127fd698d186",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/ps4/DragosteaDinTei_MAIN_SCENE_ORBIS.zip/01cf03b613d25343f55f127fd698d186.zip",
+      "version": 19
+    },
+    "pc": {
+      "md5": "68820d9cacd86b6109875947256885fc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/pc/DragosteaDinTei_MAIN_SCENE_PC.zip/68820d9cacd86b6109875947256885fc.zip",
+      "version": 8
+    },
+    "wiiu": {
+      "md5": "2ba191cf75ef69989fc4b5494130fce7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/wiiu/DragosteaDinTei_MAIN_SCENE_WIIU.zip/2ba191cf75ef69989fc4b5494130fce7.zip",
+      "version": 19
+    },
+    "nx": {
+      "md5": "8a4163f7aae22dcfc6d2a36cbc0ce4b6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DragosteaDinTei/nx/DragosteaDinTei_MAIN_SCENE_NX.zip/8a4163f7aae22dcfc6d2a36cbc0ce4b6.zip",
+      "version": 10
+    }
+  },
+  "mapType": "jdu"
+}

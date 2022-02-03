@@ -1,0 +1,111 @@
+{
+  "artist": "Lady Gaga",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_banner_bkg.jpg/d506cf39f1862afa1e2e8acf47acb064.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Coach_1.png/71252297004cd5059c6282a2e1fb6a87.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Cover_Generic.jpg/f7814d516b51ae47b10412b95a565040.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Cover_1024.png/7e28bbf8ee0f70460e00989927bf75fc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Cover_Online.jpg/d2e39a5b336bc7c9580d823734504a22.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Cover_AlbumBkg.jpg/95c17071f164913035ca63b88e6070c8.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Cover_AlbumCoach.png/40a900c2c0f1b5cd290b49af52130151.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Coach_1_Phone.png/6a5a1039de58c1a083ba6507aab1fd4b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Cover_Phone.jpg/d2e39a5b336bc7c9580d823734504a22.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_banner_bkg.jpg/d506cf39f1862afa1e2e8acf47acb064.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Coach_1.png/71252297004cd5059c6282a2e1fb6a87.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Cover_Generic.jpg/f7814d516b51ae47b10412b95a565040.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Cover_1024.png/7e28bbf8ee0f70460e00989927bf75fc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Cover_Online.jpg/d2e39a5b336bc7c9580d823734504a22.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Cover_AlbumBkg.jpg/95c17071f164913035ca63b88e6070c8.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Cover_AlbumCoach.png/40a900c2c0f1b5cd290b49af52130151.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Coach_1_Phone.png/6a5a1039de58c1a083ba6507aab1fd4b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Cover_Phone.jpg/d2e39a5b336bc7c9580d823734504a22.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/wiiu/LimaGolf1_banner_bkg.tga.ckd/0d9c1438bb5c85ff97fcd193fcf7d2e6.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/wiiu/LimaGolf1_Coach_1.tga.ckd/cc7fbb147111ebc6edbaa3b2b579d97f.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/wiiu/LimaGolf1_Cover_Generic.tga.ckd/d67950c1fa2a717902ac39a3c5405362.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Cover_1024.png/7e28bbf8ee0f70460e00989927bf75fc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/wiiu/LimaGolf1_Cover_Online.tga.ckd/16a10ad2691b5d343066ee32f981d504.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/wiiu/LimaGolf1_Cover_AlbumBkg.tga.ckd/36f0d98086b57f588006c4b5886870ad.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/wiiu/LimaGolf1_Cover_AlbumCoach.tga.ckd/0746a1e1e40377465c82eebfadd88b72.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Coach_1_Phone.png/6a5a1039de58c1a083ba6507aab1fd4b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_Cover_Phone.jpg/d2e39a5b336bc7c9580d823734504a22.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20544,41136,61728,82272,102864,123408,144000,164544,185136,205728,226272,246864,267408,288000,308544,329136,349728,370272,390864,411408,431999,452543,473135,493727,514271,534863,555407,575999,596543,617135,637727,658271,678863,699407,719999,740543,761135,781727,802271,822863,843407,863999,884543,905135,925727,946271,966863,987407,1007999,1028543,1049135,1069727,1090271,1110863,1131407,1151999,1172543,1193135,1213726,1234270,1254862,1275406,1295998,1316542,1337134,1357726,1378270,1398862,1419406,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":496,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":70,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/limagolf1/limagolf1_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF3399FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 216,
+  "mapName": "LimaGolf1",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496741\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1282752\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1300344\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1300344\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "LimaGolf1_mapContent"
+  },
+  "parentMapName": "LimaGolf1",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "D9971DFF",
+    "songColor_1B": "3B0601FF",
+    "songColor_2A": "D30039FF",
+    "songColor_2B": "140028FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Applause",
+  "urls": {
+    "jmcs://jd-contents/LimaGolf1/LimaGolf1_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_AudioPreview.ogg/2bb4f36b1dfdcf728d34a1ce0ed0d461.ogg",
+    "jmcs://jd-contents/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_HIGH.vp8.webm/f555a7d5b7ba16b86d727748d82d4fee.webm",
+    "jmcs://jd-contents/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_HIGH.vp9.webm/dd7ac7f29dc59c42be2e2af34d336983.webm",
+    "jmcs://jd-contents/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_LOW.vp8.webm/a2f59f4d378280e33e40eb32bfd4d7c9.webm",
+    "jmcs://jd-contents/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_LOW.vp9.webm/993cf079d49ebcb8dd9cbd79c59cfeda.webm",
+    "jmcs://jd-contents/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_MID.vp8.webm/54e1e22c512003b48a25bf530de8f749.webm",
+    "jmcs://jd-contents/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_MID.vp9.webm/9fb9b1f64b9d8fb7e10a05aab0804e3c.webm",
+    "jmcs://jd-contents/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_ULTRA.vp8.webm/4fef2a6055c053319cdc5a6d17575337.webm",
+    "jmcs://jd-contents/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/LimaGolf1/LimaGolf1_MapPreviewNoSoundCrop_ULTRA.vp9.webm/f73489eb04f51d420713c8a27cbe713d.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "e53e8f97e88b4bb871e5333aa228e42c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LimaGolf1/ps4/LimaGolf1_MAIN_SCENE_ORBIS.zip/e53e8f97e88b4bb871e5333aa228e42c.zip",
+      "version": 6
+    },
+    "pc": {
+      "md5": "11e313c936fb1e784b08b0533c925024",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LimaGolf1/pc/LimaGolf1_MAIN_SCENE_PC.zip/11e313c936fb1e784b08b0533c925024.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "72497680ba776ed3959b140fd14ff7c6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LimaGolf1/wiiu/LimaGolf1_MAIN_SCENE_WIIU.zip/72497680ba776ed3959b140fd14ff7c6.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "30236b7f4258b7c348cae7bd2531c530",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LimaGolf1/nx/LimaGolf1_MAIN_SCENE_NX.zip/30236b7f4258b7c348cae7bd2531c530.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

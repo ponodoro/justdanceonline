@@ -1,0 +1,111 @@
+{
+  "artist": "Ultraclub 90",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_banner_bkg.jpg/09a89c7724138171b08959eaa3ab4c81.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Coach_1.png/99cf5bc6a29772eb7809ae7fdaf77129.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Cover_Generic.jpg/c3c08ddd4657abc96be4fa649bdaba44.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Cover_1024.png/4a5a13ca3292b46641736fb0f4528abb.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Cover_Online.jpg/94f6b2b506c0ca462cd28eb19182373a.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Cover_AlbumBkg.jpg/50da5f199ef3f190d3aa4fb223b7f6dd.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Cover_AlbumCoach.png/6a3b603f691ec05b487e480f5b4f21a1.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Coach_1_Phone.png/c9298c11f7ed353aa1af6a800bb02de2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Cover_Phone.jpg/94f6b2b506c0ca462cd28eb19182373a.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_banner_bkg.jpg/09a89c7724138171b08959eaa3ab4c81.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Coach_1.png/99cf5bc6a29772eb7809ae7fdaf77129.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Cover_Generic.jpg/c3c08ddd4657abc96be4fa649bdaba44.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Cover_1024.png/4a5a13ca3292b46641736fb0f4528abb.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Cover_Online.jpg/94f6b2b506c0ca462cd28eb19182373a.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Cover_AlbumBkg.jpg/50da5f199ef3f190d3aa4fb223b7f6dd.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Cover_AlbumCoach.png/6a3b603f691ec05b487e480f5b4f21a1.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Coach_1_Phone.png/c9298c11f7ed353aa1af6a800bb02de2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Cover_Phone.jpg/94f6b2b506c0ca462cd28eb19182373a.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/wiiu/WhatIsLove_banner_bkg.tga.ckd/8cfb9018665d892a2d176f8874b5f780.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/wiiu/WhatIsLove_Coach_1.tga.ckd/b7a55f53639198e9a931a64e5bef74b2.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/wiiu/WhatIsLove_Cover_Generic.tga.ckd/3ed56018446885218c900037949b9335.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Cover_1024.png/4a5a13ca3292b46641736fb0f4528abb.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/wiiu/WhatIsLove_Cover_Online.tga.ckd/8d1cc305dc299bb031c2069b6575ec59.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/wiiu/WhatIsLove_Cover_AlbumBkg.tga.ckd/c8ed044ba0475f168972142399879803.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/wiiu/WhatIsLove_Cover_AlbumCoach.tga.ckd/50fb8d41c1f1960d1a35c20a45c45c1d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Coach_1_Phone.png/c9298c11f7ed353aa1af6a800bb02de2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_Cover_Phone.jpg/94f6b2b506c0ca462cd28eb19182373a.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23280,46512,69745,93025,116257,139537,162769,186001,209281,232513,255793,279025,302257,325537,348769,372049,395281,418513,441793,465025,488305,511537,534769,558049,581281,604561,627793,651025,674305,697537,720817,744049,767281,790561,813793,837073,860305,883537,906817,930049,953329,976561,999793,1023073,1046305,1069585,1092817,1116049,1139329,1162561,1185841,1209073,1232305,1255585,1278817,1302097,1325329,1348561,1371841,1395073,1418353],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-13,\"endBeat\":412,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/whatislove/whatislove_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F80487FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 205.87,
+  "mapName": "WhatIsLove",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497972\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481690\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2475389\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2484551\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "WhatIsLove_mapContent"
+  },
+  "parentMapName": "WhatIsLove",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "00C7B1FF",
+    "songColor_1B": "001E59FF",
+    "songColor_2A": "EEC13CFF",
+    "songColor_2B": "B12E7FFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "What Is Love",
+  "urls": {
+    "jmcs://jd-contents/WhatIsLove/WhatIsLove_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_AudioPreview.ogg/77b9327d4148e7546387689b643475fd.ogg",
+    "jmcs://jd-contents/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_HIGH.vp8.webm/c2225aae7aa0200d2e54c91cc2e89916.webm",
+    "jmcs://jd-contents/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_HIGH.vp9.webm/2f27fdaf93db7f198202729f23062d1f.webm",
+    "jmcs://jd-contents/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_LOW.vp8.webm/59aac7195b0b91f6a4626c4fe91018e6.webm",
+    "jmcs://jd-contents/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_LOW.vp9.webm/6e777c406fd21da8c1f90a5801534a48.webm",
+    "jmcs://jd-contents/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_MID.vp8.webm/1ec143cec9f4b7d4bd02384355ca0f99.webm",
+    "jmcs://jd-contents/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_MID.vp9.webm/ade26b815a1bb12c18149dff8900879c.webm",
+    "jmcs://jd-contents/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm/087ac0012571bf7be2de9069ae8a79d3.webm",
+    "jmcs://jd-contents/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/WhatIsLove/WhatIsLove_MapPreviewNoSoundCrop_ULTRA.vp9.webm/a365c4e369631db27b882f7813bdf7d9.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "7da9a2dd1495064c5001114a80cb29ce",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WhatIsLove/ps4/WhatIsLove_MAIN_SCENE_ORBIS.zip/7da9a2dd1495064c5001114a80cb29ce.zip",
+      "version": 11
+    },
+    "pc": {
+      "md5": "e86e86869bb85c63357e09ac9aa5f68b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WhatIsLove/pc/WhatIsLove_MAIN_SCENE_PC.zip/e86e86869bb85c63357e09ac9aa5f68b.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "d7c40a0074b4fd26f6004a03a7dec53a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WhatIsLove/wiiu/WhatIsLove_MAIN_SCENE_WIIU.zip/d7c40a0074b4fd26f6004a03a7dec53a.zip",
+      "version": 11
+    },
+    "nx": {
+      "md5": "27fcf33e1b82d15be2fc93ce97e109d5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WhatIsLove/nx/WhatIsLove_MAIN_SCENE_NX.zip/27fcf33e1b82d15be2fc93ce97e109d5.zip",
+      "version": 7
+    }
+  },
+  "mapType": "jdu"
+}

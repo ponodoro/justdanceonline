@@ -1,0 +1,103 @@
+{
+  "artist": "The Sunlight Shakers",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/ps4/AdventurerKids_banner_bkg.tga.ckd/cb748e8defbf36d3a352677a01e05634.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/ps4/AdventurerKids_Coach_1.tga.ckd/17edcadae4a238c357d521431d8525bc.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/ps4/AdventurerKids_Cover_Generic.tga.ckd/c508be03d3a0372a3b4d923425fa2785.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/AdventurerKids_Cover_1024.png/6ea5489ac638974bc9355871c2fa5d41.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/ps4/AdventurerKids_Cover_Online.tga.ckd/285f5e9aee52c77cc014f6bd889eaea8.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/ps4/AdventurerKids_Cover_AlbumBkg.tga.ckd/ee4f0c896027f8dbfda8e1d87675c51c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/ps4/AdventurerKids_Cover_AlbumCoach.tga.ckd/39c3faa5048471f3da6a20b88fffe05d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/AdventurerKids_Coach_1_Phone.png/76c300af1e289913a4d80a60154313b7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/AdventurerKids_Cover_Phone.jpg/451a135f7f1193d97dcb734fadaf3dab.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/ps4/AdventurerKids_map_bkg.tga.ckd/1d2de420d9efa40e521048d708118a1a.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/nx/AdventurerKids_banner_bkg.tga.ckd/541b533abb307ee83e30bbe1a06f460a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/nx/AdventurerKids_Coach_1.tga.ckd/37744b3fd7d4a1f77094bbd301fcb85a.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/nx/AdventurerKids_Cover_Generic.tga.ckd/d131d7da5736e1f6100d7160373c3b25.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/AdventurerKids_Cover_1024.png/6ea5489ac638974bc9355871c2fa5d41.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/nx/AdventurerKids_Cover_Online.tga.ckd/b9011acb0e12f4630d7ec505b196128c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/nx/AdventurerKids_Cover_AlbumBkg.tga.ckd/d5b28f9884dcf3e5f24c01057ad8bdc6.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/nx/AdventurerKids_Cover_AlbumCoach.tga.ckd/ca90aff3ea86c615b004da2d72d08d22.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/AdventurerKids_Coach_1_Phone.png/76c300af1e289913a4d80a60154313b7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/AdventurerKids_Cover_Phone.jpg/451a135f7f1193d97dcb734fadaf3dab.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AdventurerKids/nx/AdventurerKids_map_bkg.tga.ckd/5ed635bfcbe07ac2f345932442dca5cc.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23040,46080,69120,92160,115200,138240,161280,184320,207360,230400,253440,276480,299520,322560,345600,368640,391680,414720,437760,460800,483840,506880,529920,552960,576000,599040,622080,645120,668160,691200,714240,737280,760320,783360,806400,829440,852480,875520,898560,921600,944640,967680,990720,1013760,1036800,1059840,1082880,1105920,1128960,1152000,1175040,1198080,1221120,1244160,1267200,1290240,1313280,1336320,1359360,1382400,1405440,1428480],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":281,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/adventurerkids/adventurerkids_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Composed by Steve Ouimette. Published by Ubisoft Music. Performed by Steve Ouimette. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 138.23999999999998,
+  "mapName": "AdventurerKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495367\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1463443\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1802789\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1802988\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "AdventurerKids_mapContent"
+  },
+  "parentMapName": "AdventurerKids",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all"
+  ],
+  "songColors": {
+    "songColor_1A": "30F9B5FF",
+    "songColor_1B": "00344BFF",
+    "songColor_2A": "FFC851FF",
+    "songColor_2B": "F7BC3EFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "subscribedSong",
+    "ExcludedFromWDF"
+  ],
+  "title": "Jungle Dances",
+  "urls": {
+    "jmcs://jd-contents/AdventurerKids/AdventurerKids_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/AdventurerKids/AdventurerKids_AudioPreview.ogg/462527613955d46fe7853e28c7f00dc0.ogg",
+    "jmcs://jd-contents/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/7f259c716c8108fde87d9b9ce88ee1ce.webm",
+    "jmcs://jd-contents/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/07a2c9e952fe2fc7b29d7d947956869c.webm",
+    "jmcs://jd-contents/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_LOW.vp8.webm/6fe9b8b5c0710723a9bf62c6008456ba.webm",
+    "jmcs://jd-contents/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_LOW.vp9.webm/1df9954d09446e07d0dc85e4aebe3413.webm",
+    "jmcs://jd-contents/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_MID.vp8.webm/18204ca2ed9b9de4546ac4de9381a325.webm",
+    "jmcs://jd-contents/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_MID.vp9.webm/13874e064d33d4ef92dba8abab301d23.webm",
+    "jmcs://jd-contents/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/6930caa770c842a7f0145598c100a83c.webm",
+    "jmcs://jd-contents/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/AdventurerKids/AdventurerKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/34806f0e61de6496bb85c17c58750d39.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "8bf7753752ded93c26b6e2fec39ebc79",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AdventurerKids/ps4/AdventurerKids_MAIN_SCENE_ORBIS.zip/8bf7753752ded93c26b6e2fec39ebc79.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "0ad798c7862dc7bde4fecbb1bda70a8f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AdventurerKids/nx/AdventurerKids_MAIN_SCENE_NX.zip/0ad798c7862dc7bde4fecbb1bda70a8f.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "6d41c1dcfc4279c09be1a2b717f3e6f0",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/AdventurerKids/pc/6d41c1dcfc4279c09be1a2b717f3e6f0.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939
+}

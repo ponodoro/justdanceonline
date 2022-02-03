@@ -1,0 +1,114 @@
+{
+  "artist": "New Kids On The Block",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_banner_bkg.jpg/045ea488599155afd38e7970c597a19f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Coach_1.png/f4976c75c7f4b4febed0163c35829452.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Cover_Generic.jpg/68399e43a5adab01d2d22fa4de388bb0.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Cover_1024.png/2baa896e38529c634e12f240f5b1fdf0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Cover_Online.jpg/ea8fa91fbc426716d446262037669995.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Cover_AlbumBkg.jpg/fda7546603a28d2c7e4961af56cd81a1.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Cover_AlbumCoach.png/305241bbde15708000241390ea430ea5.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Coach_1_Phone.png/226e1b17ae737b48134317023943f707.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Cover_Phone.jpg/ea8fa91fbc426716d446262037669995.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_VideoPreview.webm/ed4135a98e53a2bc9414c37942537289.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_banner_bkg.jpg/045ea488599155afd38e7970c597a19f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Coach_1.png/f4976c75c7f4b4febed0163c35829452.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Cover_Generic.jpg/68399e43a5adab01d2d22fa4de388bb0.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Cover_1024.png/2baa896e38529c634e12f240f5b1fdf0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Cover_Online.jpg/ea8fa91fbc426716d446262037669995.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Cover_AlbumBkg.jpg/fda7546603a28d2c7e4961af56cd81a1.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Cover_AlbumCoach.png/305241bbde15708000241390ea430ea5.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Coach_1_Phone.png/226e1b17ae737b48134317023943f707.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Cover_Phone.jpg/ea8fa91fbc426716d446262037669995.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_VideoPreview.webm/ed4135a98e53a2bc9414c37942537289.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/wiiu/StepByStep_banner_bkg.tga.ckd/1717cabf37eb28c19620440c963d369a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/wiiu/StepByStep_Coach_1.tga.ckd/7f05e70b4f620eb90d5b60686b63d623.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/wiiu/StepByStep_Cover_Generic.tga.ckd/c52f85fd9985ab7e8d3c18980a717a59.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Cover_1024.png/2baa896e38529c634e12f240f5b1fdf0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/wiiu/StepByStep_Cover_Online.tga.ckd/f53070d5aeb456066c51188381c49c13.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/wiiu/StepByStep_Cover_AlbumBkg.tga.ckd/87f05ce4721051d19d9b21adb65fc040.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/wiiu/StepByStep_Cover_AlbumCoach.tga.ckd/4eaded76d1c58fcf6b5c778794f5440f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Coach_1_Phone.png/226e1b17ae737b48134317023943f707.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_Cover_Phone.jpg/ea8fa91fbc426716d446262037669995.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_VideoPreview.webm/ed4135a98e53a2bc9414c37942537289.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22956,45912,68868,91824,114780,137736,160692,183648,206604,229560,252516,275472,298428,321384,344340,367296,390252,413208,436164,459120,482076,505032,527988,550944,573900,597216,620172,643416,666372,689328,712284,735240,758196,781152,804108,827064,850020,872976,895932,918888,941844,964800,987756,1011036,1033992,1056948,1079904,1102860,1125816,1148772,1171728,1194684,1217640,1240596,1263552,1286508,1309464,1332420,1355376,1378764,1401720,1424676],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":6},{\"__class\":\"MusicSignature\",\"marker\":1,\"beats\":4}],\"startBeat\":0,\"endBeat\":408,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/stepbystep/stepbystep_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "EA6BD7FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 194.819,
+  "mapName": "StepByStep",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496708\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/StepByStep/StepByStep_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1338721\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/StepByStep/StepByStep_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1441288\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/StepByStep/StepByStep_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1440849\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/StepByStep/StepByStep_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 1,
+  "packages": {
+    "mapContent": "StepByStep_mapContent"
+  },
+  "parentMapName": "StepByStep",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "E910E1FF",
+    "songColor_1B": "5C0061FF",
+    "songColor_2A": "50BCFFFF",
+    "songColor_2B": "000051FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Step By Step",
+  "urls": {
+    "jmcs://jd-contents/StepByStep/StepByStep_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_AudioPreview.ogg/26043359918e11a90412edb42bdbc6c9.ogg",
+    "jmcs://jd-contents/StepByStep/StepByStep_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_MapPreviewNoSoundCrop_HIGH.vp8.webm/f7ece3effebc0380aa6d3ad73a87c5c5.webm",
+    "jmcs://jd-contents/StepByStep/StepByStep_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_MapPreviewNoSoundCrop_HIGH.vp9.webm/189dd7873aa6db9a111d33b3183e8c27.webm",
+    "jmcs://jd-contents/StepByStep/StepByStep_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_MapPreviewNoSoundCrop_LOW.vp8.webm/d9c3020621f252b3b085173ab58d91d1.webm",
+    "jmcs://jd-contents/StepByStep/StepByStep_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_MapPreviewNoSoundCrop_LOW.vp9.webm/d0389ccdb1cdebccb5d0292c76554bd0.webm",
+    "jmcs://jd-contents/StepByStep/StepByStep_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_MapPreviewNoSoundCrop_MID.vp8.webm/708d11fe843044173ce822fcb0489e73.webm",
+    "jmcs://jd-contents/StepByStep/StepByStep_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_MapPreviewNoSoundCrop_MID.vp9.webm/e3558f438cb8cc0e52c03a41c5378858.webm",
+    "jmcs://jd-contents/StepByStep/StepByStep_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_MapPreviewNoSoundCrop_ULTRA.vp8.webm/8aafdb814866105c5392854d30977b5d.webm",
+    "jmcs://jd-contents/StepByStep/StepByStep_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/StepByStep/StepByStep_MapPreviewNoSoundCrop_ULTRA.vp9.webm/15d21d6fb180c02430af82c165d22a62.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "9e557a581d690dac56d919534bf23996",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/StepByStep/ps4/StepByStep_MAIN_SCENE_ORBIS.zip/9e557a581d690dac56d919534bf23996.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "32da1804a6b2168e5ce95565f41f003f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/StepByStep/pc/StepByStep_MAIN_SCENE_PC.zip/32da1804a6b2168e5ce95565f41f003f.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "b7742c22a44a409920ba66c60f471d41",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/StepByStep/wiiu/StepByStep_MAIN_SCENE_WIIU.zip/b7742c22a44a409920ba66c60f471d41.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "116dbd81d748857f81baf2d392d70f65",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/StepByStep/nx/StepByStep_MAIN_SCENE_NX.zip/116dbd81d748857f81baf2d392d70f65.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

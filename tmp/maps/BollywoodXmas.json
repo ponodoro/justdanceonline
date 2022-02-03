@@ -1,0 +1,117 @@
+{
+  "artist": "Bollywood Santa",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_banner_bkg.jpg/99ae236011b7ad5b3b9963cd60c38c75.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Coach_1.png/85abfb10f5b44e1780e4f8a7104ffdde.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Coach_2.png/862a9e1d9795e454905d7b256fca75a7.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Cover_Generic.jpg/1c0c81996acd95dce862e7eff2fb7a76.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Cover_1024.png/b290e6da76c662554ea404a912120a71.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Cover_Online.jpg/b7d4078dff2b0b9a6a35c4ce8d1d8b77.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Cover_AlbumBkg.jpg/bfbf0221d735bd2d4684d67b1fa14baa.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Cover_AlbumCoach.png/f85a0a7dff020c880f28bed4aa89f997.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Coach_1_Phone.png/acdf0bca0081ced6e3f9123646989307.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Coach_2_Phone.png/0192a526a1b5382a357c0257eb2d791e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Cover_Phone.jpg/b7d4078dff2b0b9a6a35c4ce8d1d8b77.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_banner_bkg.jpg/99ae236011b7ad5b3b9963cd60c38c75.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Coach_1.png/85abfb10f5b44e1780e4f8a7104ffdde.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Coach_2.png/862a9e1d9795e454905d7b256fca75a7.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Cover_Generic.jpg/1c0c81996acd95dce862e7eff2fb7a76.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Cover_1024.png/b290e6da76c662554ea404a912120a71.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Cover_Online.jpg/b7d4078dff2b0b9a6a35c4ce8d1d8b77.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Cover_AlbumBkg.jpg/bfbf0221d735bd2d4684d67b1fa14baa.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Cover_AlbumCoach.png/f85a0a7dff020c880f28bed4aa89f997.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Coach_1_Phone.png/acdf0bca0081ced6e3f9123646989307.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Coach_2_Phone.png/0192a526a1b5382a357c0257eb2d791e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Cover_Phone.jpg/b7d4078dff2b0b9a6a35c4ce8d1d8b77.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/wiiu/BollywoodXmas_banner_bkg.tga.ckd/4fdc4f04a706e7a277343b0005c24399.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/wiiu/BollywoodXmas_Coach_1.tga.ckd/28e2401da872ef8ac61739d359985ef3.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/wiiu/BollywoodXmas_Coach_2.tga.ckd/7241aa09a2d68e46ee91404f2ebd06e3.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/wiiu/BollywoodXmas_Cover_Generic.tga.ckd/186509e18dae4818e2e71ab5bf87b225.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Cover_1024.png/b290e6da76c662554ea404a912120a71.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/wiiu/BollywoodXmas_Cover_Online.tga.ckd/6a9f444117a26c045e194143de9fe012.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/wiiu/BollywoodXmas_Cover_AlbumBkg.tga.ckd/4baca728a55b65b8c3e1ce20f37212ef.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/wiiu/BollywoodXmas_Cover_AlbumCoach.tga.ckd/ff489ee877834fe3aa9fb87e85b9cb7d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Coach_1_Phone.png/acdf0bca0081ced6e3f9123646989307.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Coach_2_Phone.png/0192a526a1b5382a357c0257eb2d791e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_Cover_Phone.jpg/b7d4078dff2b0b9a6a35c4ce8d1d8b77.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,19200,38400,57600,76800,96000,115200,134400,153600,172800,192000,211200,230400,249600,268800,288000,307200,326400,345600,364800,384000,403200,422400,441600,460800,480000,499200,518400,537600,556800,576000,595200,614400,633600,652800,672000,691200,710400,729600,748800,768000,787200,806400,825600,844800,864000,883200,902400,921600,940800,960000,979200,998400,1017600,1036800,1056000,1075200,1094400,1113600,1132800,1152000,1171200,1190400,1209600,1228800,1248000,1267200,1286400,1305600,1324800,1344000,1363200,1382400,1401600,1420800],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-19,\"endBeat\":362,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":74,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/bollywoodxmas/bollywoodxmas_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FD73CAFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 152.4,
+  "mapName": "BollywoodXmas",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496502\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"599-1088\">\n\t\t\t\t\t<Initialization range=\"0-599\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1468673\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"600-1090\">\n\t\t\t\t\t<Initialization range=\"0-600\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2827623\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"600-1090\">\n\t\t\t\t\t<Initialization range=\"0-600\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"3291834\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"600-1090\">\n\t\t\t\t\t<Initialization range=\"0-600\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "BollywoodXmas_mapContent"
+  },
+  "parentMapName": "BollywoodXmas",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "F95639FF",
+    "songColor_1B": "230101FF",
+    "songColor_2A": "67CFFCFF",
+    "songColor_2B": "3148C6FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "XMas Tree",
+  "urls": {
+    "jmcs://jd-contents/BollywoodXmas/BollywoodXmas_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_AudioPreview.ogg/e1ea5aa0653c0221eb8b5e3018c6a9eb.ogg",
+    "jmcs://jd-contents/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_HIGH.vp8.webm/ee6b658c3ae2296051e9a283bf7c02b7.webm",
+    "jmcs://jd-contents/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_HIGH.vp9.webm/7c0558a04e1f9511b77175c9b62510b3.webm",
+    "jmcs://jd-contents/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_LOW.vp8.webm/d534b71b2b1a4b259e452b8a65c89ab4.webm",
+    "jmcs://jd-contents/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_LOW.vp9.webm/f60dcd4aa35dbef36f5d8cd211079f0b.webm",
+    "jmcs://jd-contents/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_MID.vp8.webm/f68ef0e5b9bd4ba1a3c06109032518b5.webm",
+    "jmcs://jd-contents/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_MID.vp9.webm/a06c33b53dee8f0d6ac474555ca8f6ae.webm",
+    "jmcs://jd-contents/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_ULTRA.vp8.webm/bb9e3ff59ba23a7005f3d1c9edb5ae1c.webm",
+    "jmcs://jd-contents/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/BollywoodXmas_MapPreviewNoSoundCrop_ULTRA.vp9.webm/baff2c9e2f5f794453c04f16094c7e8a.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "de6be4e7f3bda1154f458aa6c0f5ed95",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/ps4/BollywoodXmas_MAIN_SCENE_ORBIS.zip/de6be4e7f3bda1154f458aa6c0f5ed95.zip",
+      "version": 16
+    },
+    "pc": {
+      "md5": "4cd0c2f01084ab73c1d50e4370545667",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/pc/BollywoodXmas_MAIN_SCENE_PC.zip/4cd0c2f01084ab73c1d50e4370545667.zip",
+      "version": 10
+    },
+    "wiiu": {
+      "md5": "53fb5426fa1016d5228684ada32ba4b3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/wiiu/BollywoodXmas_MAIN_SCENE_WIIU.zip/53fb5426fa1016d5228684ada32ba4b3.zip",
+      "version": 16
+    },
+    "nx": {
+      "md5": "031f683e334596ac42748b6ac2258366",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BollywoodXmas/nx/BollywoodXmas_MAIN_SCENE_NX.zip/031f683e334596ac42748b6ac2258366.zip",
+      "version": 10
+    }
+  },
+  "mapType": "jdu"
+}

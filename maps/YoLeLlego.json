@@ -1,0 +1,94 @@
+{
+  "artist": "J Balvin, Bad Bunny",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_banner_bkg.jpg/4ea758d2b7c37c5d1e87e6e65970517e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Coach_1.png/1423f7561206c87a22af46bbea7aac9d.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Coach_2.png/9122346b1ee21fccdf7066b2ae6d8a22.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Cover_Generic.jpg/ac961a9777dc440be91596c1e12bd784.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Cover_Online.jpg/c80d746df6361ec85a570f5b4950b547.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Cover_AlbumBkg.jpg/4199919deae389a39283477c117730f7.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Cover_AlbumCoach.png/e405ef014a5416e26152a29e1878567c.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Coach_1_Phone.png/ea8e8b2b55c5d3698b57110f19d87bb2.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Coach_2_Phone.png/b8870f53dada22f004557ac68c4f1928.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Cover_Phone.jpg/c80d746df6361ec85a570f5b4950b547.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_banner_bkg.jpg/4ea758d2b7c37c5d1e87e6e65970517e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Coach_1.png/1423f7561206c87a22af46bbea7aac9d.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Coach_2.png/9122346b1ee21fccdf7066b2ae6d8a22.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Cover_Generic.jpg/ac961a9777dc440be91596c1e12bd784.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Cover_Online.jpg/c80d746df6361ec85a570f5b4950b547.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Cover_AlbumBkg.jpg/4199919deae389a39283477c117730f7.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Cover_AlbumCoach.png/e405ef014a5416e26152a29e1878567c.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Coach_1_Phone.png/ea8e8b2b55c5d3698b57110f19d87bb2.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Coach_2_Phone.png/b8870f53dada22f004557ac68c4f1928.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/YoLeLlego/YoLeLlego_Cover_Phone.jpg/c80d746df6361ec85a570f5b4950b547.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,18581,37161,55742,74323,92903,111484,130065,148645,167226,185807,204387,222968,241549,260129,278710,297291,315871,334452,353032,371613,390194,408774,427355,445936,464516,483097,501678,520258,538839,557420,576000,594581,613161,631742,650323,668903,687484,706065,724645,743226,761807,780387,798968,817549,836129,854710,873291,891871,910452,929032,947613,966194,984774,1003355,1021936,1040516,1059097,1077678,1096258,1114839,1133420,1152000,1170581,1189161,1207742,1226323,1244903,1263484,1282065,1300645,1319226,1337807,1356387,1374968,1393549,1412129,1430710],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":580,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":77,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/yolellego/yolellego_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Benito Antonio Martinez Ocasio, Jose Alvaro Osorio Balvin, Alberto Carlo Melendez, Alejandro Ramirez Suarez and Marcos E Masis. Published by Universal Music Publishing Canada on behalf of Universal Musica Unica Publishing, RSM Publishing A Division of Rimas Entertainment and Universal Music Corp. / EMI Blackwood Music Inc. (BMI). All rights reserved. Used with permission. Courtesy of Universal Music Latino/Rimas under license from Universal Music Enterprises.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFFF56FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 227.225,
+  "mapName": "YoLeLlego",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496645\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"644-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-644\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482388\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2944095\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4764275\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "YoLeLlego_mapContent"
+  },
+  "parentMapName": "YoLeLlego",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "A92F36FF",
+    "songColor_1B": "491E61FF",
+    "songColor_2A": "E88934FF",
+    "songColor_2B": "D7DFE1FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "YO LE LLEGO",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "2eb067ca6688ff8e2a4cc030a5402359",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/YoLeLlego/ps4/YoLeLlego_MAIN_SCENE_ORBIS.zip/2eb067ca6688ff8e2a4cc030a5402359.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "35a26057e271c079dddbd7fb7db78f6d",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/YoLeLlego/nx/YoLeLlego_MAIN_SCENE_NX.zip/35a26057e271c079dddbd7fb7db78f6d.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "f7d9698ac338e974bc668b13322fd91f",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/YoLeLlego/pc/f7d9698ac338e974bc668b13322fd91f.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/YoLeLlego/YoLeLlego_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/YoLeLlego/YoLeLlego_AudioPreview.ogg/6cb863b8b1cf0b2aed4ecffd98ec62fb.ogg",
+    "jmcs://jd-contents/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_HIGH.vp8.webm/4ca21f02f2797b23d8017037b57ade07.webm",
+    "jmcs://jd-contents/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_HIGH.vp9.webm/aea73dee8ddc95f158865b70b32e6e8a.webm",
+    "jmcs://jd-contents/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_LOW.vp8.webm/1a80acce89566b857206ecfc73de1eb7.webm",
+    "jmcs://jd-contents/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_LOW.vp9.webm/fd1eb3c3a35cbdf6c066f28427c7e0d1.webm",
+    "jmcs://jd-contents/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_MID.vp8.webm/0ee17ea3246b4b704e98d39c747a2cf0.webm",
+    "jmcs://jd-contents/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_MID.vp9.webm/48c5d83dfc9b21d3f6d452c4f1f456b7.webm",
+    "jmcs://jd-contents/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_ULTRA.vp8.webm/a827942ef57094cee326c3784bd9f6f6.webm",
+    "jmcs://jd-contents/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/YoLeLlego/YoLeLlego_MapPreviewNoSoundCrop_ULTRA.vp9.webm/3de604daf64130275eccae6da252ef19.webm"
+  }
+}

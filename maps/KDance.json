@@ -1,0 +1,126 @@
+{
+  "artist": "K/DA Ft. Aluna, Wolftyla, Bekuh BOOM",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_Coach_1.tga.ckd/0145b7b0d928b90389d350ce50ad1707.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_Coach_2.tga.ckd/1ed938cc80789761dd1ea66fe23f0cff.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_Coach_3.tga.ckd/173e5787261509a712a4613af0827d16.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_Coach_4.tga.ckd/3e734f0e18bf3193664156f836a349a0.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_Cover_Generic.tga.ckd/462741ef50972cb502b74e8b8c96912e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Cover_1024.png/e3c538728145ecc8fbc260f582192fd5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_Cover_Online.tga.ckd/b92af2621b4393345eea270c3cef58dc.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_Cover_AlbumBkg.tga.ckd/db19004bb210f33d243a3db434f4dbcf.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_Cover_AlbumCoach.tga.ckd/9955d651ffe1d790b42e2df16c502c81.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Coach_1_Phone.png/63fcd1f4bd6c1f02dc4e5dee5798bac3.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Coach_2_Phone.png/0418324ce73f0b24cacbf2be1d27b1c0.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Coach_3_Phone.png/152897a2f5589f683c00ad5b030891d9.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Coach_4_Phone.png/a1e118743f78d0ac23687905e4fe55d3.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Cover_Phone.jpg/c817836fa91ea627506a9ff5e3729d59.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KDance/KDance_VideoPreview.webm/a836e5d08204b06e1a07bd7b5463e9cb.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_map_bkg.tga.ckd/e45932582bbb89c8c17d6efb46c26f65.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/nx/KDance_banner_bkg.tga.ckd/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/nx/KDance_Coach_1.tga.ckd/2c67ec9dbfb955b8d930ef1a4c7b013c.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/nx/KDance_Coach_2.tga.ckd/8fd9a1778f6b5d703f1322c18340f82a.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/nx/KDance_Coach_3.tga.ckd/76675cfcb6e10e411bbf3302439941ae.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/nx/KDance_Coach_4.tga.ckd/a0f7ace83b3d0292c21e26a07b64f8f6.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/nx/KDance_Cover_Generic.tga.ckd/8581fe75a9f381ac49d36aa5d28fb281.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Cover_1024.png/e3c538728145ecc8fbc260f582192fd5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/nx/KDance_Cover_Online.tga.ckd/9f68c6aa8ecf7def3b230e5e1c8a66e7.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/nx/KDance_Cover_AlbumBkg.tga.ckd/7ce7b2b6c63901f216deb2f4815766e9.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/nx/KDance_Cover_AlbumCoach.tga.ckd/b85aa344208ae1034694488a6e92d30c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Coach_1_Phone.png/63fcd1f4bd6c1f02dc4e5dee5798bac3.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Coach_2_Phone.png/0418324ce73f0b24cacbf2be1d27b1c0.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Coach_3_Phone.png/152897a2f5589f683c00ad5b030891d9.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Coach_4_Phone.png/a1e118743f78d0ac23687905e4fe55d3.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Cover_Phone.jpg/c817836fa91ea627506a9ff5e3729d59.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KDance/KDance_VideoPreview.webm/a836e5d08204b06e1a07bd7b5463e9cb.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/nx/KDance_map_bkg.tga.ckd/17969c6395d0626c0f1a05ff35b8f5cf.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,32914,65828,98743,131657,164571,197485,230400,263314,296228,329143,362057,394971,427885,460800,493714,526628,559543,592457,625371,658285,691200,724114,757028,789943,822857,855771,888685,921600,954514,987428,1020343,1053257,1086171,1119085,1152000,1184914,1217828,1250743,1283657,1316571,1349485,1382400,1415314],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":296,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":43,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/kdance/kdance_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by: Sebastien Najand and Rebecca Johnson. Published by: Songs by Riot Games Music Publishing (BMI), Bekuh Boom Publishing administered by Warner-Tamerlane Publishing Corp. (BMI). Produced by: Sebastien Najand. Additional Vocal Production by: Oscar Free P/C: 2020 Riot Games. Courtesy of Riot Games Music",
+  "difficulty": 4,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF66E4FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 208.458,
+  "mapName": "KDance",
+  "mapPreviewMpd": {
+    "videoEncoding": {
+      "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496162\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"650-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-650\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1472994\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2877461\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3621227\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+      "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"650238\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1496794\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2983962\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5923290\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1148\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+    }
+  },
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "KDance_mapContent"
+  },
+  "parentMapName": "KDance",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "D9E2E8FF",
+    "songColor_1B": "0D313BFF",
+    "songColor_2A": "58C1D8FF",
+    "songColor_2B": "3D8EBEFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "freeSong",
+    "Exclusive",
+    "ExcluJD21_Quickplay ",
+    "JustDance2021",
+    "Quartet",
+    "Medium",
+    "Sweat Low",
+    "Artsy",
+    "Asian",
+    "Futuristic",
+    "Geek",
+    "Girls",
+    "Kpop",
+    "Video Games"
+  ],
+  "title": "DRUM GO DUM",
+  "urls": {
+    "jmcs://jd-contents/KDance/KDance_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KDance/KDance_AudioPreview.ogg/2164514a5d964d062e1d8cabc0c70c8e.ogg",
+    "jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KDance/KDance_MapPreviewNoSoundCrop_HIGH.vp8.webm/0d9e47c2968f2900e01382574bb8670f.webm",
+    "jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KDance/KDance_MapPreviewNoSoundCrop_HIGH.vp9.webm/c07bb47d434350ad62f7479159ced469.webm",
+    "jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KDance/KDance_MapPreviewNoSoundCrop_LOW.vp8.webm/3fa3a42969200f393d22f7d55b529f98.webm",
+    "jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KDance/KDance_MapPreviewNoSoundCrop_LOW.vp9.webm/dfd41129bd57000b3f35155b199c2076.webm",
+    "jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KDance/KDance_MapPreviewNoSoundCrop_MID.vp8.webm/63bfa6deea0625bde9f3804c95d16a4e.webm",
+    "jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KDance/KDance_MapPreviewNoSoundCrop_MID.vp9.webm/e97edb5e2873e117478a0fb6301bfafe.webm",
+    "jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KDance/KDance_MapPreviewNoSoundCrop_ULTRA.vp8.webm/0344d7f7843f23d2c58153bdd2583e00.webm",
+    "jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KDance/KDance_MapPreviewNoSoundCrop_ULTRA.vp9.webm/0f9a588e50f09cbb70545f6a66bf80f4.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "ce8136cab8328320161acc4a9a4f5586",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/KDance/pc/ce8136cab8328320161acc4a9a4f5586.zip",
+      "version": 1
+    },
+    "orbis": {
+      "md5": "d96b1f2a23997687f7341ff345e81ecd",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_MAIN_SCENE_ORBIS.zip/d96b1f2a23997687f7341ff345e81ecd.zip",
+      "version": 6
+    },
+    "nx": {
+      "md5": "d80ead07cd2665fa87d17dbc94908f54",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KDance/nx/KDance_MAIN_SCENE_NX.zip/d80ead07cd2665fa87d17dbc94908f54.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

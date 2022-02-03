@@ -1,0 +1,93 @@
+{
+  "artist": "Persian Nights",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CarpetKids/CarpetKids_banner_bkg.jpg/056bfcb4bf615a6cd2b4397f6f43fa41.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CarpetKids/CarpetKids_Coach_1.png/509896c07b4775572687fbd6e5ee12a7.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CarpetKids/CarpetKids_Cover_Generic.jpg/5810e3b3b54c6259baf145a9cc6f6f0f.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CarpetKids/CarpetKids_Cover_Online.jpg/ce4652b8b4b7da22e10bf43145a2a7ac.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CarpetKids/CarpetKids_Cover_AlbumBkg.jpg/e165b1620b320e2c98505e162084105b.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CarpetKids/CarpetKids_Cover_AlbumCoach.png/2f76494d744ddce0db18d28a68d50361.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CarpetKids/CarpetKids_Coach_1_Phone.png/1afdeb40295605429fdb58fe01c29c49.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CarpetKids/CarpetKids_Cover_Phone.jpg/ce4652b8b4b7da22e10bf43145a2a7ac.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CarpetKids/CarpetKids_banner_bkg.jpg/056bfcb4bf615a6cd2b4397f6f43fa41.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CarpetKids/CarpetKids_Coach_1.png/509896c07b4775572687fbd6e5ee12a7.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CarpetKids/CarpetKids_Cover_Generic.jpg/5810e3b3b54c6259baf145a9cc6f6f0f.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CarpetKids/CarpetKids_Cover_Online.jpg/ce4652b8b4b7da22e10bf43145a2a7ac.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CarpetKids/CarpetKids_Cover_AlbumBkg.jpg/e165b1620b320e2c98505e162084105b.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CarpetKids/CarpetKids_Cover_AlbumCoach.png/2f76494d744ddce0db18d28a68d50361.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CarpetKids/CarpetKids_Coach_1_Phone.png/1afdeb40295605429fdb58fe01c29c49.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CarpetKids/CarpetKids_Cover_Phone.jpg/ce4652b8b4b7da22e10bf43145a2a7ac.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28800,57600,86400,115200,144000,172800,201600,230400,259200,288000,316801,345601,374401,403201,432001,460801,489601,518401,547201,576001,604801,633601,662401,691201,720001,748801,777601,806401,835202,864002,892802,921602,950402,979202,1008002,1036802,1065602,1094402,1123202,1152002,1180802,1209602,1238402,1267202,1296002,1324802,1353602,1382403,1411203],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-1,\"endBeat\":200,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":49,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/carpetkids/carpetkids_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Composed, produced, engineered and mixed by Steve Ouimette. Published by Ubisoft Music Publishing. All instruments - Steve Ouimette. Flute - Mark Visher. Courtesy of Ubisoft Music.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FE67E2FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 124.854,
+  "mapName": "CarpetKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497261\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"644-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-644\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481293\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2916910\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3022462\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "CarpetKids_mapContent"
+  },
+  "parentMapName": "CarpetKids",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "4D1073FF",
+    "songColor_1B": "F3DBC4FF",
+    "songColor_2A": "D567E3FF",
+    "songColor_2B": "24DAF4FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "ChairTutorial",
+    "subscribedSong"
+  ],
+  "title": "Flying Carpet",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "5dfd00b7ab69d88baad6bb58b64c4baf",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/CarpetKids/ps4/CarpetKids_MAIN_SCENE_ORBIS.zip/5dfd00b7ab69d88baad6bb58b64c4baf.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "bc399fdf2ea204d0e4cc85fffc7e0460",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/CarpetKids/nx/CarpetKids_MAIN_SCENE_NX.zip/bc399fdf2ea204d0e4cc85fffc7e0460.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "e78b884217a413138a21fcfa08a05f1d",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/CarpetKids/pc/e78b884217a413138a21fcfa08a05f1d.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939,
+  "urls": {
+    "jmcs://jd-contents/CarpetKids/CarpetKids_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/CarpetKids/CarpetKids_AudioPreview.ogg/7ca8531378decb8f605edb3f041f0b10.ogg",
+    "jmcs://jd-contents/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/7522ac1290fde922c9206ea9c01a88e3.webm",
+    "jmcs://jd-contents/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/a08df0630a088d3803617dc036c32e49.webm",
+    "jmcs://jd-contents/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_LOW.vp8.webm/e6ebfd565838b792ca0b4776d4ec4cfb.webm",
+    "jmcs://jd-contents/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_LOW.vp9.webm/97fabfd12bf3e401f3aab1a4a79258cb.webm",
+    "jmcs://jd-contents/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_MID.vp8.webm/83c4f27a98a389a2865b2f61d9e10b0a.webm",
+    "jmcs://jd-contents/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_MID.vp9.webm/4ec25e1093bcd00a1fce8bd719154acc.webm",
+    "jmcs://jd-contents/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/faef2fcbffea02205a6808626d50ccea.webm",
+    "jmcs://jd-contents/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/4842ca327afcbe44e7b6909695d25453.webm"
+  }
+}

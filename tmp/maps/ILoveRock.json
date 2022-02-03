@@ -1,0 +1,111 @@
+{
+  "artist": "Fast Forward Highway",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_banner_bkg.jpg/604e5daa58621d663de050aa554855d3.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Coach_1.png/45a4fdd6d6cd0c15a5b55cd9ffcc143f.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Cover_Generic.jpg/178a30875ea210b926b40be02de7502a.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Cover_1024.png/ac6b281cb005f9ebc1ad1b270a246caf.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Cover_Online.jpg/efe7619a454caba9c898e2817429b9e7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Cover_AlbumBkg.jpg/49726b788513befd7deed0b042a40caa.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Cover_AlbumCoach.png/ba8c586bdf581769823a861ed87744c6.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Coach_1_Phone.png/e9be0ff9eb19a0bbad133d7a2aa08049.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Cover_Phone.jpg/efe7619a454caba9c898e2817429b9e7.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_banner_bkg.jpg/604e5daa58621d663de050aa554855d3.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Coach_1.png/45a4fdd6d6cd0c15a5b55cd9ffcc143f.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Cover_Generic.jpg/178a30875ea210b926b40be02de7502a.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Cover_1024.png/ac6b281cb005f9ebc1ad1b270a246caf.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Cover_Online.jpg/efe7619a454caba9c898e2817429b9e7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Cover_AlbumBkg.jpg/49726b788513befd7deed0b042a40caa.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Cover_AlbumCoach.png/ba8c586bdf581769823a861ed87744c6.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Coach_1_Phone.png/e9be0ff9eb19a0bbad133d7a2aa08049.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Cover_Phone.jpg/efe7619a454caba9c898e2817429b9e7.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/wiiu/ILoveRock_banner_bkg.tga.ckd/d1c207d2c86032274bb9489ff3c7c5f5.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/wiiu/ILoveRock_Coach_1.tga.ckd/33f315c9bc245532856e3b5c50ffd3a7.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/wiiu/ILoveRock_Cover_Generic.tga.ckd/5888bec67af8ac564e73049c64d5e032.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Cover_1024.png/ac6b281cb005f9ebc1ad1b270a246caf.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/wiiu/ILoveRock_Cover_Online.tga.ckd/99ad2bb0cd61606d4992d3eb00f30cf9.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/wiiu/ILoveRock_Cover_AlbumBkg.tga.ckd/f0e82f03a9b7ce8bc2ebfb8a6830cb29.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/wiiu/ILoveRock_Cover_AlbumCoach.tga.ckd/b093885d16a1517e24c97107498a1d4d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Coach_1_Phone.png/e9be0ff9eb19a0bbad133d7a2aa08049.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_Cover_Phone.jpg/efe7619a454caba9c898e2817429b9e7.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,30192,60385,90529,120721,150865,181057,211201,241393,271201,301009,330817,360625,390433,420193,450001,481153,512257,543361,574465,604561,634657,664753,694849,725233,755618,785954,816338,846722,877106,907490,937874,968114,998354,1028594,1058834,1089074,1119314,1149554,1179794,1210178,1240562,1270946,1301330,1331666,1362050,1393730,1425410],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4},{\"__class\":\"MusicSignature\",\"marker\":12,\"beats\":3},{\"__class\":\"MusicSignature\",\"marker\":15,\"beats\":4}],\"startBeat\":-16,\"endBeat\":282,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":47,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/iloverock/iloverock_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "00AFECFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 187.95499999999998,
+  "mapName": "ILoveRock",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496263\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1117\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1468380\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2827058\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3660020\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "ILoveRock_mapContent"
+  },
+  "parentMapName": "ILoveRock",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "AC3BEDFF",
+    "songColor_1B": "26007BFF",
+    "songColor_2A": "FFE18DFF",
+    "songColor_2B": "D24CAFFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "I Love Rock 'N' Roll",
+  "urls": {
+    "jmcs://jd-contents/ILoveRock/ILoveRock_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_AudioPreview.ogg/7e5b04a90f880874407de0821aad3e55.ogg",
+    "jmcs://jd-contents/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_HIGH.vp8.webm/14ef2f46af4eefcffdaac7a459da7ffc.webm",
+    "jmcs://jd-contents/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_HIGH.vp9.webm/5d8a2b5985355184f26a9bf8be4abfaa.webm",
+    "jmcs://jd-contents/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_LOW.vp8.webm/2d5c1a43d9ef335ddd38174391877166.webm",
+    "jmcs://jd-contents/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_LOW.vp9.webm/b3d32c4d2ade2b38fc4996227b48aa91.webm",
+    "jmcs://jd-contents/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_MID.vp8.webm/d965d0fcb8e06458d82cf3fa37a667e3.webm",
+    "jmcs://jd-contents/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_MID.vp9.webm/331a35aaad33c14d15228d884d9e3c07.webm",
+    "jmcs://jd-contents/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_ULTRA.vp8.webm/5b9043e4162fb545ed4c1438b4a9769d.webm",
+    "jmcs://jd-contents/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ILoveRock/ILoveRock_MapPreviewNoSoundCrop_ULTRA.vp9.webm/7087bad915e0bb32ed9c200468640009.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "976936ef58ca5a1b8796fb6e098310e3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ILoveRock/ps4/ILoveRock_MAIN_SCENE_ORBIS.zip/976936ef58ca5a1b8796fb6e098310e3.zip",
+      "version": 11
+    },
+    "pc": {
+      "md5": "c53a66ffdf99a84ca27eb9b3151a6aa3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ILoveRock/pc/ILoveRock_MAIN_SCENE_PC.zip/c53a66ffdf99a84ca27eb9b3151a6aa3.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "a89013914c64c9be84b3c6fa7b2ce0ca",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ILoveRock/wiiu/ILoveRock_MAIN_SCENE_WIIU.zip/a89013914c64c9be84b3c6fa7b2ce0ca.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "5738b94f9cd6a0bb9a4d47bd3ba8c3fe",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ILoveRock/nx/ILoveRock_MAIN_SCENE_NX.zip/5738b94f9cd6a0bb9a4d47bd3ba8c3fe.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,132 @@
+{
+  "artist": "Halloween Thrills",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_banner_bkg.jpg/4333d7dee184f914761a9422866f941e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_1.png/706eb709761ccdd672bb1dfc4d8534ee.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_2.png/e15433f564d96037028b8c2ef1bc2917.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_3.png/9e33e624be303d9446fa131ea80ef575.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_4.png/6650f612e7069f7f9939d5333d3e7045.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Cover_Generic.jpg/442dc54495f376a4277fbb137a1d55bf.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Cover_1024.png/68b5adecc11915559a60d379f5a06956.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Cover_Online.jpg/9c3263e9a2466385dd48c40b964d36b7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Cover_AlbumBkg.jpg/9c81779935db3afe69f0f13f80d443a3.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Cover_AlbumCoach.png/d070be06017a9276d365fb837facc467.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_1_Phone.png/f78430bcdf68bd08c2219e0fb64d7ea5.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_2_Phone.png/de56e128f12bcdb85a2d53739ced144e.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_3_Phone.png/899867818628067fe90080fad7744c56.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_4_Phone.png/10cb61dc0731bd2e83aae02016a833b8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Cover_Phone.jpg/9c3263e9a2466385dd48c40b964d36b7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_VideoPreview.webm/b5f0263fbe70ce22b4f7fe118d375f8f.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_banner_bkg.jpg/4333d7dee184f914761a9422866f941e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_1.png/706eb709761ccdd672bb1dfc4d8534ee.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_2.png/e15433f564d96037028b8c2ef1bc2917.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_3.png/9e33e624be303d9446fa131ea80ef575.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_4.png/6650f612e7069f7f9939d5333d3e7045.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Cover_Generic.jpg/442dc54495f376a4277fbb137a1d55bf.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Cover_1024.png/68b5adecc11915559a60d379f5a06956.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Cover_Online.jpg/9c3263e9a2466385dd48c40b964d36b7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Cover_AlbumBkg.jpg/9c81779935db3afe69f0f13f80d443a3.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Cover_AlbumCoach.png/d070be06017a9276d365fb837facc467.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_1_Phone.png/f78430bcdf68bd08c2219e0fb64d7ea5.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_2_Phone.png/de56e128f12bcdb85a2d53739ced144e.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_3_Phone.png/899867818628067fe90080fad7744c56.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_4_Phone.png/10cb61dc0731bd2e83aae02016a833b8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Cover_Phone.jpg/9c3263e9a2466385dd48c40b964d36b7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_VideoPreview.webm/b5f0263fbe70ce22b4f7fe118d375f8f.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/wiiu/GhostInTheKeys_banner_bkg.tga.ckd/31e83ee6d7c02f1e06d7c9b3a7ae34f7.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/wiiu/GhostInTheKeys_Coach_1.tga.ckd/4b915a81723ec0d79638d57757fff680.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/wiiu/GhostInTheKeys_Coach_2.tga.ckd/bb34a291bf8f7b332912c0dab4a1dd01.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/wiiu/GhostInTheKeys_Coach_3.tga.ckd/bb73924b847f586fe9776c572cefa69f.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/wiiu/GhostInTheKeys_Coach_4.tga.ckd/54aa91d74deb17fd51bcd599bfca8d16.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/wiiu/GhostInTheKeys_Cover_Generic.tga.ckd/42bf17d367b6d61b45991d63d9fc5cf6.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Cover_1024.png/68b5adecc11915559a60d379f5a06956.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/wiiu/GhostInTheKeys_Cover_Online.tga.ckd/d05a0f2e9f1c2fde1cac5d10357f8e0b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/wiiu/GhostInTheKeys_Cover_AlbumBkg.tga.ckd/858468a9ea9942f74584d7acdf663390.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/wiiu/GhostInTheKeys_Cover_AlbumCoach.tga.ckd/53ef4f17a3b3aa179ac9c2e51b29e4b5.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_1_Phone.png/f78430bcdf68bd08c2219e0fb64d7ea5.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_2_Phone.png/de56e128f12bcdb85a2d53739ced144e.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_3_Phone.png/899867818628067fe90080fad7744c56.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Coach_4_Phone.png/10cb61dc0731bd2e83aae02016a833b8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_Cover_Phone.jpg/9c3263e9a2466385dd48c40b964d36b7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_VideoPreview.webm/b5f0263fbe70ce22b4f7fe118d375f8f.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,33840,67728,101616,135504,169392,203281,237169,271057,304945,338785,372673,406561,440449,474337,508225,542113,576001,609841,643729,677617,711505,745393,779281,813169,847057,880945,914785,948673,982561,1016450,1050338,1084226,1118114,1152002,1185842,1219730,1253618,1287506,1321394,1355282,1389170,1423058],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":289,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":42,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/ghostinthekeys/ghostinthekeys_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF1D53FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 208.236,
+  "mapName": "GhostInTheKeys",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496101\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1472771\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2634678\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2730408\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "GhostInTheKeys_mapContent"
+  },
+  "parentMapName": "GhostInTheKeys",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "0C004AFF",
+    "songColor_1B": "02000DFF",
+    "songColor_2A": "0DA578FF",
+    "songColor_2B": "00113DFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Ghost In The Keys",
+  "urls": {
+    "jmcs://jd-contents/GhostInTheKeys/GhostInTheKeys_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_AudioPreview.ogg/b291c5627bf403febefd7e67f87c1a12.ogg",
+    "jmcs://jd-contents/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_HIGH.vp8.webm/eff3cf5608f393e576c494a1854338bf.webm",
+    "jmcs://jd-contents/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_HIGH.vp9.webm/50bb22a1912661497bd829e43adaed01.webm",
+    "jmcs://jd-contents/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_LOW.vp8.webm/6cbfeb49188785cc9b948a432d9573d3.webm",
+    "jmcs://jd-contents/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_LOW.vp9.webm/7a01e6d6c0dd8adfd6ad2cdf76ec0e7d.webm",
+    "jmcs://jd-contents/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_MID.vp8.webm/0f627290bf3f38351920fd6f3534a6fa.webm",
+    "jmcs://jd-contents/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_MID.vp9.webm/d0f90642751b384e05decbd789d4f817.webm",
+    "jmcs://jd-contents/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f2c672e81e97ce9dabf03572fc43c89d.webm",
+    "jmcs://jd-contents/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/GhostInTheKeys_MapPreviewNoSoundCrop_ULTRA.vp9.webm/fe5b0d466eb97356759d8efa5fc0e432.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "45554a8ce73b27f8f1a59bf3547ac18d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/ps4/GhostInTheKeys_MAIN_SCENE_ORBIS.zip/45554a8ce73b27f8f1a59bf3547ac18d.zip",
+      "version": 15
+    },
+    "pc": {
+      "md5": "aaf128609b82360ef85c77bf2b247075",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/pc/GhostInTheKeys_MAIN_SCENE_PC.zip/aaf128609b82360ef85c77bf2b247075.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "451c7f3be2f1e85df37a4f28d6cc86b9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/wiiu/GhostInTheKeys_MAIN_SCENE_WIIU.zip/451c7f3be2f1e85df37a4f28d6cc86b9.zip",
+      "version": 23
+    },
+    "nx": {
+      "md5": "1b363ec728c5f600f6e32f7f0a3713c6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GhostInTheKeys/nx/GhostInTheKeys_MAIN_SCENE_NX.zip/1b363ec728c5f600f6e32f7f0a3713c6.zip",
+      "version": 8
+    }
+  },
+  "mapType": "jdu"
+}

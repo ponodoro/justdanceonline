@@ -1,0 +1,103 @@
+{
+  "artist": "Groove Century",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/ps4/BandmasterKids_banner_bkg.tga.ckd/818648cf8725616070822f28de7de8b5.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/ps4/BandmasterKids_Coach_1.tga.ckd/013f90c5ee54f01feadddbff1ff6f71a.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/ps4/BandmasterKids_Cover_Generic.tga.ckd/cde94c0166a2928bae5e8af45b80a036.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/BandmasterKids_Cover_1024.png/63a84ee8bac354d85bcdc4069eb0f2f5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/ps4/BandmasterKids_Cover_Online.tga.ckd/2252ae39d2b942f475913a908539811f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/ps4/BandmasterKids_Cover_AlbumBkg.tga.ckd/682791de674157f794213b9fc15905bc.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/ps4/BandmasterKids_Cover_AlbumCoach.tga.ckd/5833cbfe461d0839b86ef33bb959a0f3.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/BandmasterKids_Coach_1_Phone.png/5949984c2a6735360278fa9ad8ade30b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/BandmasterKids_Cover_Phone.jpg/f1ae76cd307501eef8ba9b9f5b3c79a4.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/ps4/BandmasterKids_map_bkg.tga.ckd/ed1977b59aecf8130787d269259b72b5.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/nx/BandmasterKids_banner_bkg.tga.ckd/a45cb99c4c13039dac8de8493a8de920.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/nx/BandmasterKids_Coach_1.tga.ckd/ed7544bc7a9a4f62382dbbcc77fad353.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/nx/BandmasterKids_Cover_Generic.tga.ckd/ff309a4870fc810f0cb59bd3c438b26f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/BandmasterKids_Cover_1024.png/63a84ee8bac354d85bcdc4069eb0f2f5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/nx/BandmasterKids_Cover_Online.tga.ckd/8dd1e76d8190a1a7d5a116d86fbe1ba8.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/nx/BandmasterKids_Cover_AlbumBkg.tga.ckd/e80ffc6b7a9b1f5853f68053f4556ded.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/nx/BandmasterKids_Cover_AlbumCoach.tga.ckd/dd08e3ef14939fea544c345916097995.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/BandmasterKids_Coach_1_Phone.png/5949984c2a6735360278fa9ad8ade30b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/BandmasterKids_Cover_Phone.jpg/f1ae76cd307501eef8ba9b9f5b3c79a4.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BandmasterKids/nx/BandmasterKids_map_bkg.tga.ckd/076d9ee46dfc466fa315ee1fb1ce7a43.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27696,55392,83088,110784,138480,166176,193824,221520,249216,276913,304609,332305,360001,387697,415393,443089,470785,498481,526178,553826,581522,609218,636914,664610,692306,720002,747698,775395,803091,830787,858483,886179,913827,941523,969219,996915,1024612,1052308,1080004,1107700,1135396,1163092,1190788,1218484,1246180,1273829,1301525,1329221,1356917,1384613,1412309],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":214,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":51,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/bandmasterkids/bandmasterkids_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Composed by Steve Ouimette. Published by Ubisoft Music. Performed by Steve Ouimette and Cat Gray. Vocals by Becky Martin (Opera Singer), Steve Ouimette, Rick Allen and Tim Davis (frogs). Music Supervision: Manu Bachet. Courtesy of Ubisoft Music.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 127.50099999999999,
+  "mapName": "BandmasterKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496281\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1447550\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1525195\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1525164\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "BandmasterKids_mapContent"
+  },
+  "parentMapName": "BandmasterKids",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all"
+  ],
+  "songColors": {
+    "songColor_1A": "1C0675FF",
+    "songColor_1B": "631AA9FF",
+    "songColor_2A": "38C648FF",
+    "songColor_2B": "820248FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "subscribedSong",
+    "ExcludedFromWDF"
+  ],
+  "title": "The Frog Concert",
+  "urls": {
+    "jmcs://jd-contents/BandmasterKids/BandmasterKids_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BandmasterKids/BandmasterKids_AudioPreview.ogg/e377597ca513a7e9bcbac6841b5eb973.ogg",
+    "jmcs://jd-contents/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/4efeef57000178d11450a1aa20af0410.webm",
+    "jmcs://jd-contents/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/dfbd9004194ffe1457fb802fe826991b.webm",
+    "jmcs://jd-contents/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_LOW.vp8.webm/a2f6f171d6f7856d3cc0550fff1684a6.webm",
+    "jmcs://jd-contents/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_LOW.vp9.webm/21cbb04a6c4e2d6f827d0335378e1a8a.webm",
+    "jmcs://jd-contents/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_MID.vp8.webm/4cb72d4d505c115fb93d9feec001555d.webm",
+    "jmcs://jd-contents/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_MID.vp9.webm/b8a82c31a2a6cd514093596fcb2d486b.webm",
+    "jmcs://jd-contents/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/3f941c4f0bd3a39578768f945c4b47e1.webm",
+    "jmcs://jd-contents/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/508ade1e67dfae2a948ff2b15bb6e51e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "8c082e8f60ba85a72943010f2dd7f66a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BandmasterKids/ps4/BandmasterKids_MAIN_SCENE_ORBIS.zip/8c082e8f60ba85a72943010f2dd7f66a.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "9c1988b5790f3a2e9c93fd96135e87c9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BandmasterKids/nx/BandmasterKids_MAIN_SCENE_NX.zip/9c1988b5790f3a2e9c93fd96135e87c9.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "5ac469e818c9fd7e7f6180f438cbae61",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/BandmasterKids/pc/5ac469e818c9fd7e7f6180f438cbae61.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939
+}

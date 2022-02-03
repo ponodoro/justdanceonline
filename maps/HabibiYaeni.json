@@ -1,0 +1,98 @@
+{
+  "artist": "DJ Absi",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_banner_bkg.jpg/6817e1b17a91e99c78d9940eed12f17f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Coach_1.png/70c2ed5697c2bbb1abdb6868bcbaaea9.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Coach_2.png/92bd25d13374a66404386cd773ecc884.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Coach_3.png/ce3b3d93e5e98ca679fb262b2e90033b.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Cover_Generic.jpg/94116e7c7097d009c6950b2aad8ba280.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Cover_Online.jpg/ca51b8fa2644e23886aa1a1636834896.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Cover_AlbumBkg.jpg/19208c01eaa21b76669204d26fd1ffc2.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Cover_AlbumCoach.png/6fc3c06ca14f54f17716ce7dd34433d7.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Coach_1_Phone.png/30ca00ed9bf733c094494f692032dd69.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Coach_2_Phone.png/ccb3fb419f8e9093ff3fd48eca85b128.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Coach_3_Phone.png/b5f1264044540315aec2e5b7765a559c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Cover_Phone.jpg/ca51b8fa2644e23886aa1a1636834896.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_banner_bkg.jpg/6817e1b17a91e99c78d9940eed12f17f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Coach_1.png/70c2ed5697c2bbb1abdb6868bcbaaea9.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Coach_2.png/92bd25d13374a66404386cd773ecc884.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Coach_3.png/ce3b3d93e5e98ca679fb262b2e90033b.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Cover_Generic.jpg/94116e7c7097d009c6950b2aad8ba280.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Cover_Online.jpg/ca51b8fa2644e23886aa1a1636834896.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Cover_AlbumBkg.jpg/19208c01eaa21b76669204d26fd1ffc2.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Cover_AlbumCoach.png/6fc3c06ca14f54f17716ce7dd34433d7.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Coach_1_Phone.png/30ca00ed9bf733c094494f692032dd69.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Coach_2_Phone.png/ccb3fb419f8e9093ff3fd48eca85b128.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Coach_3_Phone.png/b5f1264044540315aec2e5b7765a559c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HabibiYaeni/HabibiYaeni_Cover_Phone.jpg/ca51b8fa2644e23886aa1a1636834896.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,18580,37161,55742,74322,92903,111483,130064,148645,167225,185806,204387,222967,241548,260129,278709,297290,315871,334451,353032,371613,390193,408774,427354,445935,464516,483096,501677,520258,538838,557419,576000,594580,613161,631742,650322,668903,687483,706064,724645,743225,761806,780387,798967,817548,836129,854709,873290,891871,910451,929032,947613,966193,984774,1003354,1021935,1040516,1059096,1077677,1096258,1114838,1133419,1152000,1170580,1189161,1207742,1226322,1244903,1263483,1282064,1300645,1319225,1337806,1356387,1374967,1393548,1412129,1430709],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-11,\"endBeat\":504,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":77,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/habibiyaeni/habibiyaeni_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Published by Ubisoft Music Publishing. Composed, produced and mixed by Steve Ouimette Lyrics - Steve Ouimette and Kurupt Tha Killa Vocals - Kurupt Tha Killa Courtesy of Ubisoft Music.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "4AEBCCFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 202.445,
+  "mapName": "HabibiYaeni",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496333\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481460\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1096\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2947915\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1096\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5793386\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1103\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "HabibiYaeni_mapContent"
+  },
+  "parentMapName": "HabibiYaeni",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "1D1D3AFF",
+    "songColor_1B": "C8698BFF",
+    "songColor_2A": "E1E5E0FF",
+    "songColor_2B": "583D51FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Yameen Yasar",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "6d66a121cd2f8ec409f7509d9359cf98",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/HabibiYaeni/ps4/HabibiYaeni_MAIN_SCENE_ORBIS.zip/6d66a121cd2f8ec409f7509d9359cf98.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "d6e0b80f1e4e99bd959c2d86fb733bd9",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/HabibiYaeni/nx/HabibiYaeni_MAIN_SCENE_NX.zip/d6e0b80f1e4e99bd959c2d86fb733bd9.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "82aee23101c764e1560a63a752993561",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/HabibiYaeni/pc/82aee23101c764e1560a63a752993561.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/HabibiYaeni/HabibiYaeni_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/HabibiYaeni/HabibiYaeni_AudioPreview.ogg/381bd7c58688dcb7a731a56e0f84a260.ogg",
+    "jmcs://jd-contents/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_HIGH.vp8.webm/4f7a025e198c9c2f72e8ae53def69559.webm",
+    "jmcs://jd-contents/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_HIGH.vp9.webm/87849ea82ceaeddd7db9caad23adba27.webm",
+    "jmcs://jd-contents/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_LOW.vp8.webm/5680947d0f23894f8a57fd440a678fff.webm",
+    "jmcs://jd-contents/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_LOW.vp9.webm/e18c5f6c90257da5a66c09c6b3e066af.webm",
+    "jmcs://jd-contents/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_MID.vp8.webm/b430a36343f24c46c0c663e8aa129e81.webm",
+    "jmcs://jd-contents/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_MID.vp9.webm/135b0fe5311e3a174499263e871fa7fe.webm",
+    "jmcs://jd-contents/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b74569a2f4bbc823333017dbed1949a8.webm",
+    "jmcs://jd-contents/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/HabibiYaeni/HabibiYaeni_MapPreviewNoSoundCrop_ULTRA.vp9.webm/ae0a96a63ef712721a0892b54c2aebdf.webm"
+  }
+}

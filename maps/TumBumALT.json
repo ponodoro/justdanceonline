@@ -1,0 +1,125 @@
+{
+  "artist": "Yemi Alade",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/ps4/TumBumALT_banner_bkg.tga.ckd/e50037cb808d53860d36d3ba11ff7504.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/ps4/TumBumALT_Coach_1.tga.ckd/f1b32365cb847fc5864b9b627a7af234.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/ps4/TumBumALT_Cover_Generic.tga.ckd/96e3b12e0bbde2a0a14d98d9cb5d4040.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_Cover_1024.png/1e9e622018863e95adc8a339dffe2763.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/ps4/TumBumALT_Cover_Online.tga.ckd/d6bb21709ebdc3e59cb69cc27e76550d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/ps4/TumBumALT_Cover_AlbumBkg.tga.ckd/b12dbf12a4f6c10cfa143b8d98bacdc4.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/ps4/TumBumALT_Cover_AlbumCoach.tga.ckd/b4da0c262c1026079aead4b5cbb65ab7.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_Coach_1_Phone.png/2e4c9e14b5d1184efb9b3107c021e49b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_Cover_Phone.jpg/77f1fb69b3b8a9a1f4e5280fdb91ebb4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_VideoPreview.webm/b25ea2ae271e423e68b7b1075e8ec196.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/ps4/TumBumALT_map_bkg.tga.ckd/8264c1071978340ff0c959c011cda904.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/nx/TumBumALT_banner_bkg.tga.ckd/7006f3beaf42c5b9a4dc7e8f07e01323.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/nx/TumBumALT_Coach_1.tga.ckd/e698942531ebf770243a7086a44eca9f.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/nx/TumBumALT_Cover_Generic.tga.ckd/053d24739f8718e0a6883de90519fd4c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_Cover_1024.png/1e9e622018863e95adc8a339dffe2763.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/nx/TumBumALT_Cover_Online.tga.ckd/0836fed5f9cccdf0929d92e6cd52500d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/nx/TumBumALT_Cover_AlbumBkg.tga.ckd/1986f38c789fa23d93e4121621a92b8b.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/nx/TumBumALT_Cover_AlbumCoach.tga.ckd/ffec42974fc48ecea439ce673a1dba5a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_Coach_1_Phone.png/2e4c9e14b5d1184efb9b3107c021e49b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_Cover_Phone.jpg/77f1fb69b3b8a9a1f4e5280fdb91ebb4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_VideoPreview.webm/b25ea2ae271e423e68b7b1075e8ec196.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/nx/TumBumALT_map_bkg.tga.ckd/93993d8aff42b426f06ac18c8723a4a3.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/wiiu/TumBumALT_banner_bkg.tga.ckd/ce4efdac94e617ee575fc11ae600d4ce.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/wiiu/TumBumALT_Coach_1.tga.ckd/8a3daff916d52e09c016bf879593f7c2.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/wiiu/TumBumALT_Cover_Generic.tga.ckd/9bbe60d323103ab86fbf715ec376cd7e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_Cover_1024.png/1e9e622018863e95adc8a339dffe2763.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/wiiu/TumBumALT_Cover_Online.tga.ckd/d93453d227c07e36c1242a22ccfd191c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/wiiu/TumBumALT_Cover_AlbumBkg.tga.ckd/66ccdecd2b2acdb8dc464026f663fe6d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/wiiu/TumBumALT_Cover_AlbumCoach.tga.ckd/5d27c18c3ff08ea8bd89e4b44928ec38.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_Coach_1_Phone.png/2e4c9e14b5d1184efb9b3107c021e49b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_Cover_Phone.jpg/77f1fb69b3b8a9a1f4e5280fdb91ebb4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_VideoPreview.webm/b25ea2ae271e423e68b7b1075e8ec196.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22513,44977,67489,90001,112512,134977,157489,180001,202512,224977,247489,270001,292512,314976,337489,360001,382512,404977,427489,450001,472512,494977,517489,540001,562512,584977,607489,630001,652512,674977,697489,720001,742513,764977,787489,810001,832513,854977,877489,900001,922513,944977,967488,990001,1012512,1034977,1057489,1080000,1102512,1124977,1147489,1170000,1192513,1214977,1237489,1260000,1282513,1304977,1327489,1350001,1372512,1394977,1417489],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":396,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/tumbumalt/tumbumalt_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Yemi Alade. Published by Effyzzie Music Group Limited. Courtesy of Effyzzie Music Group. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 4,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0523B1FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 188.438,
+  "mapName": "TumBumALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495642\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1475293\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2873925\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4229505\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "TumBumALT_mapContent"
+  },
+  "parentMapName": "TumBum",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "01B781FF",
+    "songColor_1B": "013233FF",
+    "songColor_2A": "FFAA00FF",
+    "songColor_2B": "A82C03FF"
+  },
+  "status": 9,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Alternate",
+    "subscribedSong",
+    "Extreme",
+    "CnUnlimited2018"
+  ],
+  "title": "Tumbum",
+  "urls": {
+    "jmcs://jd-contents/TumBumALT/TumBumALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_AudioPreview.ogg/60b8291b77c3963cc23ea344a8463715.ogg",
+    "jmcs://jd-contents/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/dbbc6e8d09620c92ffd11131d4a54db4.webm",
+    "jmcs://jd-contents/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/eb97ad2b6239fda1c557e0473a6bdad3.webm",
+    "jmcs://jd-contents/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_LOW.vp8.webm/26b3b921f54f0f29caa6e55cc4885bff.webm",
+    "jmcs://jd-contents/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_LOW.vp9.webm/c982af0f4c0f4c32a6da6c7c08fb1bd9.webm",
+    "jmcs://jd-contents/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_MID.vp8.webm/4a0118e23815d8ab86c1ec3235dca213.webm",
+    "jmcs://jd-contents/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_MID.vp9.webm/6bd0dede51ec2c03ba690b6c7d610ba4.webm",
+    "jmcs://jd-contents/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ce5fef66faaa7318c928c422e187f4d7.webm",
+    "jmcs://jd-contents/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TumBumALT/TumBumALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/2ef48d2ba57fb92ca1b89be6e707ddcf.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "26fcfa5169657df040c55586c768aabe",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TumBumALT/ps4/TumBumALT_MAIN_SCENE_ORBIS.zip/26fcfa5169657df040c55586c768aabe.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "d4cde2d02f707465331d5851c8bd59c9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TumBumALT/nx/TumBumALT_MAIN_SCENE_NX.zip/d4cde2d02f707465331d5851c8bd59c9.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "8ee7c5faab2dc2cbb1bdd5db4121cb1d",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/TumBumALT/pc/8ee7c5faab2dc2cbb1bdd5db4121cb1d.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "3359a0903b0f8d44e6750b486866be34",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TumBumALT/wiiu/TumBumALT_MAIN_SCENE_WIIU.zip/3359a0903b0f8d44e6750b486866be34.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 13763
+}

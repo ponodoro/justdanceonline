@@ -1,0 +1,133 @@
+{
+  "artist": "INNA Ft. J Balvin",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_banner_bkg.jpg/20bc2a6373268d4e7e8e8b06d9622421.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_1.png/689b220cee77ef15debd36dccd5ae0b1.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_2.png/a007b4c5f58f6b4ef2d367c97e4b3872.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_3.png/d4860be80cf524cfadbd0fe6c140c60a.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_4.png/6580d855109955413ac7f6651a5876f6.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Cover_Generic.jpg/d84d4db4d158c63e0a3d16720b006fec.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Cover_1024.png/264bfb44dfd852ab520fcd9d325b101e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Cover_Online.jpg/5491c65b5b9cc8befd94f60abbef4487.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Cover_AlbumBkg.jpg/ecd33957138986a5d5523217bf1d86ef.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Cover_AlbumCoach.png/8edf58a1164fe5a4cc19a0910b637a4b.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_1_Phone.png/0767490f7c30dad960f2aedcd3235128.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_2_Phone.png/bb8a5e218afc36920106449a4bcd239f.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_3_Phone.png/f4d326d5ecd118d3dd1c4f68ba48b707.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_4_Phone.png/da6ff02e3e2194a30814948d4ee66272.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Cover_Phone.jpg/5491c65b5b9cc8befd94f60abbef4487.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_VideoPreview.webm/2d0da3fe055beaa51ccd5b6a3bcfb075.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_banner_bkg.jpg/20bc2a6373268d4e7e8e8b06d9622421.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_1.png/689b220cee77ef15debd36dccd5ae0b1.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_2.png/a007b4c5f58f6b4ef2d367c97e4b3872.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_3.png/d4860be80cf524cfadbd0fe6c140c60a.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_4.png/6580d855109955413ac7f6651a5876f6.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Cover_Generic.jpg/d84d4db4d158c63e0a3d16720b006fec.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Cover_1024.png/264bfb44dfd852ab520fcd9d325b101e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Cover_Online.jpg/5491c65b5b9cc8befd94f60abbef4487.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Cover_AlbumBkg.jpg/ecd33957138986a5d5523217bf1d86ef.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Cover_AlbumCoach.png/8edf58a1164fe5a4cc19a0910b637a4b.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_1_Phone.png/0767490f7c30dad960f2aedcd3235128.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_2_Phone.png/bb8a5e218afc36920106449a4bcd239f.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_3_Phone.png/f4d326d5ecd118d3dd1c4f68ba48b707.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_4_Phone.png/da6ff02e3e2194a30814948d4ee66272.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Cover_Phone.jpg/5491c65b5b9cc8befd94f60abbef4487.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_VideoPreview.webm/2d0da3fe055beaa51ccd5b6a3bcfb075.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/wiiu/ColaSongALT_banner_bkg.tga.ckd/6e7f865b1e06c400abc312cfb92fa102.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/wiiu/ColaSongALT_Coach_1.tga.ckd/5d9294fad96c2ffe3f849301c5e7c3a1.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/wiiu/ColaSongALT_Coach_2.tga.ckd/f9653e7c7574fe57f256ac79179c2f77.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/wiiu/ColaSongALT_Coach_3.tga.ckd/060cefe991f1f4dd1303d866af61b9c2.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/wiiu/ColaSongALT_Coach_4.tga.ckd/9b44a975bbdbb3dc46cf8dcad5458805.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/wiiu/ColaSongALT_Cover_Generic.tga.ckd/76b77473331406ceb35656b2ab6eccfc.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Cover_1024.png/264bfb44dfd852ab520fcd9d325b101e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/wiiu/ColaSongALT_Cover_Online.tga.ckd/2791e625fc3909a1343322a5621ea63a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/wiiu/ColaSongALT_Cover_AlbumBkg.tga.ckd/145611e06674891a719ebf093cd5b510.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/wiiu/ColaSongALT_Cover_AlbumCoach.tga.ckd/b2e47189f03b77d45bd4bcb7959d6809.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_1_Phone.png/0767490f7c30dad960f2aedcd3235128.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_2_Phone.png/bb8a5e218afc36920106449a4bcd239f.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_3_Phone.png/f4d326d5ecd118d3dd1c4f68ba48b707.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Coach_4_Phone.png/da6ff02e3e2194a30814948d4ee66272.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_Cover_Phone.jpg/5491c65b5b9cc8befd94f60abbef4487.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_VideoPreview.webm/2d0da3fe055beaa51ccd5b6a3bcfb075.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23040,46080,69119,92159,115200,138240,161280,184320,207359,230400,253440,276480,299519,322559,345600,368639,391680,414720,437760,460800,483840,506880,529919,552959,576000,599040,622079,645119,668160,691200,714240,737280,760320,783359,806399,829440,852480,875519,898559,921600,944640,967680,990720,1013760,1036799,1059840,1082880,1105919,1128959,1151999,1175040,1198079,1221120,1244160,1267200,1290240,1313280,1336320,1359360,1382400,1405440,1428480],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":416,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/colasongalt/colasongalt_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0C79FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 201.12,
+  "mapName": "ColaSongALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497731\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484980\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2955634\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4378450\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "ColaSongALT_mapContent"
+  },
+  "parentMapName": "ColaSongALT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FFBA00FF",
+    "songColor_1B": "D32B00FF",
+    "songColor_2A": "FC9CFFFF",
+    "songColor_2B": "7600CBFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Cola Song",
+  "urls": {
+    "jmcs://jd-contents/ColaSongALT/ColaSongALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_AudioPreview.ogg/9c9a3b09260dd7e6c618ed42187cc0ea.ogg",
+    "jmcs://jd-contents/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/e139b8bed13ec2f4dea2fbe89029e624.webm",
+    "jmcs://jd-contents/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/2f81f4e1535e133444b0d831dc80a9a6.webm",
+    "jmcs://jd-contents/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_LOW.vp8.webm/98617047834fa7aab82858889c5d5db3.webm",
+    "jmcs://jd-contents/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_LOW.vp9.webm/6687a4edb9f45dcb9363ec9177dd0953.webm",
+    "jmcs://jd-contents/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_MID.vp8.webm/fe8f5d42cffeb618665426771caa10c1.webm",
+    "jmcs://jd-contents/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_MID.vp9.webm/a4175db75380b4df559fda8f371b7d17.webm",
+    "jmcs://jd-contents/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/82562bc543625cc5779606d79583232b.webm",
+    "jmcs://jd-contents/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ColaSongALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/074b5dcafb6adea91b4e9e50d86ffe43.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "fd6fed03bfe51200164a5e1fab5eae48",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ColaSongALT/ps4/ColaSongALT_MAIN_SCENE_ORBIS.zip/fd6fed03bfe51200164a5e1fab5eae48.zip",
+      "version": 17
+    },
+    "pc": {
+      "md5": "d4a77a8b425adb9b2bc321ae1733edf6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ColaSongALT/pc/ColaSongALT_MAIN_SCENE_PC.zip/d4a77a8b425adb9b2bc321ae1733edf6.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "1a8961f23afe4b5e40a322dff9005f11",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ColaSongALT/wiiu/ColaSongALT_MAIN_SCENE_WIIU.zip/1a8961f23afe4b5e40a322dff9005f11.zip",
+      "version": 13
+    },
+    "nx": {
+      "md5": "b68c5f5e3e7129e10c7893898cbd23a8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ColaSongALT/nx/ColaSongALT_MAIN_SCENE_NX.zip/b68c5f5e3e7129e10c7893898cbd23a8.zip",
+      "version": 7
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 13761
+}

@@ -1,0 +1,109 @@
+{
+  "artist": "DJ Snake Ft. Selena Gomez, Ozuna, Cardi B",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/ps4/TakiTakiALT_banner_bkg.tga.ckd/4f6f6146486742713354ff4fb5d06d2b.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/ps4/TakiTakiALT_Coach_1.tga.ckd/093cfa08298c3d069cdef526efd3456b.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/ps4/TakiTakiALT_Coach_2.tga.ckd/41554e0645275822026e116729390f2d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/ps4/TakiTakiALT_Cover_Generic.tga.ckd/8c1beb7f83c303af627956a2efe6f5fd.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/TakiTakiALT_Cover_1024.png/dae9bc3f1d0ba2f732a32f5ba1286228.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/ps4/TakiTakiALT_Cover_Online.tga.ckd/e79382dbe2380b49a9900d47e97c73dc.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/ps4/TakiTakiALT_Cover_AlbumBkg.tga.ckd/be3fa795bc876265db0a769514fb4ee0.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/ps4/TakiTakiALT_Cover_AlbumCoach.tga.ckd/142c0520d99895c9d480b62a548a40c8.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/TakiTakiALT_Coach_1_Phone.png/1a4d62312fdb55241b1c13a3c22357c0.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/TakiTakiALT_Coach_2_Phone.png/e68d5c70731183bda8cc8e4b923a48b2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/TakiTakiALT_Cover_Phone.jpg/981d6323a5b4887a7ec631328742b32b.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/ps4/TakiTakiALT_map_bkg.tga.ckd/383e0ce63d8160d41638e783f4688ff3.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/nx/TakiTakiALT_banner_bkg.tga.ckd/d7bff8b9b6bf5a093c6946017258f381.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/nx/TakiTakiALT_Coach_1.tga.ckd/3c4c57693cf65a6bedac5a6ad291f0c6.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/nx/TakiTakiALT_Coach_2.tga.ckd/8fb881ec86d79e80600c0dd14907a39f.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/nx/TakiTakiALT_Cover_Generic.tga.ckd/e6d57c5d43d2c041f2fdb30563bedad1.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/TakiTakiALT_Cover_1024.png/dae9bc3f1d0ba2f732a32f5ba1286228.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/nx/TakiTakiALT_Cover_Online.tga.ckd/96d8aa177cea45a22c41659976add99f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/nx/TakiTakiALT_Cover_AlbumBkg.tga.ckd/f302ce2cfbf7610e1902982945e5a87c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/nx/TakiTakiALT_Cover_AlbumCoach.tga.ckd/24bce508605337ef365cafc464705fa3.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/TakiTakiALT_Coach_1_Phone.png/1a4d62312fdb55241b1c13a3c22357c0.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/TakiTakiALT_Coach_2_Phone.png/e68d5c70731183bda8cc8e4b923a48b2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/TakiTakiALT_Cover_Phone.jpg/981d6323a5b4887a7ec631328742b32b.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/nx/TakiTakiALT_map_bkg.tga.ckd/f509d34ca3adc3a59ed1ba4a4dd6a78b.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,30000,59999,90000,120000,150000,180000,210000,240000,270000,300000,330000,360000,390000,420000,449999,480000,510000,540000,570000,600000,630000,660000,690000,720000,750000,780000,810000,840000,870000,900000,930000,960000,990000,1020000,1050000,1080000,1110000,1140000,1169999,1200000,1230000,1260000,1290000,1320000,1350000,1380000,1410000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":346,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":47,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/takitakialt/takitakialt_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Belcalis Almanzar, Ava Brignol, Selena Marie Gomez, William Grigahcine, Jan Carlos Ozuna Rosado, Vicente Saavedra, Jorden Thorpe and Juan Rivera Vazquez. Published by Musica de Gaby Publishing (BMI), Warner-Tamerlane Publishing Corp. (BMI) and Shaftizm (ASCAP). All rights on behalf of Shaftizm administered by WB Music Corp. All rights on behalf of itself and Musica de Gaby Publishing administered by Warner-Tamerlane Publishing Corp./ Songs Of Kobalt Music Publishing obo Music Good Vibes Publishing. / Sony/ATV Allergo (ASCAP) / Washpoppin Inc. (ASCAP) / Sony/ATV Ballad (BMI). / BMG Gold Songs on behalf of itself and Quietly Taking Over. All rights administered by BMG Rights Management (US) LLC. / Universal Music Publishing Canada on behalf of Universal Music Corp. / William Grigahcine. All rights reserved. Used with permission. Courtesy of UMG US / Cardi B appears courtesy of Atlantic Recording Corporation. By arrangement with Warner Music Group Film & TV Licensing.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0DCBFCFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 221.25,
+  "mapName": "TakiTakiALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496606\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"600-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-600\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481117\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2937439\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4487313\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "TakiTakiALT_mapContent"
+  },
+  "parentMapName": "TakiTaki",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "00888AFF",
+    "songColor_1B": "002A35FF",
+    "songColor_2A": "BAFF00FF",
+    "songColor_2B": "001505FF"
+  },
+  "status": 12,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Alternate",
+    "subscribedSong"
+  ],
+  "title": "Taki Taki",
+  "urls": {
+    "jmcs://jd-contents/TakiTakiALT/TakiTakiALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/TakiTakiALT_AudioPreview.ogg/11e7770dbd28a8f706ecc012985365fe.ogg",
+    "jmcs://jd-contents/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/a91142c79151ee90d7ed0b27bec46be7.webm",
+    "jmcs://jd-contents/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/b9ad30af8d9ca2b9dcbcf20d486af57a.webm",
+    "jmcs://jd-contents/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_LOW.vp8.webm/81652f354f055ad7ffa8bb7ae46b9674.webm",
+    "jmcs://jd-contents/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_LOW.vp9.webm/a925d8f337853620956dabf3a7d45e24.webm",
+    "jmcs://jd-contents/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_MID.vp8.webm/b9fa62cf895b74fff8b42acdd6acefab.webm",
+    "jmcs://jd-contents/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_MID.vp9.webm/be838a03572db95443b9a4d7ee992c81.webm",
+    "jmcs://jd-contents/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f38215fdb804a42381e0f97d25af09b6.webm",
+    "jmcs://jd-contents/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/TakiTakiALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/f08d76ceb2a26c748ee1e572d2bd4f87.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "88c888d7263da3a8c367ac22be45df05",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/ps4/TakiTakiALT_MAIN_SCENE_ORBIS.zip/88c888d7263da3a8c367ac22be45df05.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "2c2556d3ebd4e15d073669c53ec0c882",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TakiTakiALT/nx/TakiTakiALT_MAIN_SCENE_NX.zip/2c2556d3ebd4e15d073669c53ec0c882.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "a8a24738b9428aee1df1f6dda198e37d",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/TakiTakiALT/pc/a8a24738b9428aee1df1f6dda198e37d.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 20000517
+}

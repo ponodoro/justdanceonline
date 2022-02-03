@@ -1,0 +1,102 @@
+{
+  "artist": "The Sunlight Shakers",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Coach_1.png/5f6546e204f7980d8a726cf363324423.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Coach_2.png/d3016f2cb1e36a2f5b9ad90e53ee27cc.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Coach_3.png/ff1845cb67f75ec35f7898bbcc77c9d1.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Coach_4.png/bbcc64ab3dd2ac33a17369ca96243850.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Cover_Generic.jpg/a6239fda870ef0f9c19391086900cc1b.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Cover_Online.jpg/9583e5ac96ebecbc7f3ab41251c22825.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Cover_AlbumBkg.jpg/18fed42e7bae22d897e12111ee0de586.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Cover_AlbumCoach.png/f76286f967dc19a5082cb8ef18425b0c.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Coach_1_Phone.png/7c5b1a1959bfa9bae936dbf4816230db.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Coach_2_Phone.png/439aae4f5b8d612915eaaf8ce8636361.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Coach_3_Phone.png/10f12c4ce1172fbfffaf85f5c5976d5c.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Coach_4_Phone.png/3355adf124106681d0be68a653d08642.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Cover_Phone.jpg/9583e5ac96ebecbc7f3ab41251c22825.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Coach_1.png/5f6546e204f7980d8a726cf363324423.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Coach_2.png/d3016f2cb1e36a2f5b9ad90e53ee27cc.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Coach_3.png/ff1845cb67f75ec35f7898bbcc77c9d1.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Coach_4.png/bbcc64ab3dd2ac33a17369ca96243850.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Cover_Generic.jpg/a6239fda870ef0f9c19391086900cc1b.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Cover_Online.jpg/9583e5ac96ebecbc7f3ab41251c22825.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Cover_AlbumBkg.jpg/18fed42e7bae22d897e12111ee0de586.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Cover_AlbumCoach.png/f76286f967dc19a5082cb8ef18425b0c.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Coach_1_Phone.png/7c5b1a1959bfa9bae936dbf4816230db.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Coach_2_Phone.png/439aae4f5b8d612915eaaf8ce8636361.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Coach_3_Phone.png/10f12c4ce1172fbfffaf85f5c5976d5c.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Coach_4_Phone.png/3355adf124106681d0be68a653d08642.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/InTheNavy/InTheNavy_Cover_Phone.jpg/9583e5ac96ebecbc7f3ab41251c22825.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22096,45461,68825,92189,115553,138532,161510,184489,207468,229991,252515,275038,297562,320282,343003,365723,388444,410860,433277,455693,478109,500526,522942,545358,567775,590511,613248,635984,658721,681351,703981,726611,749241,772084,794927,817771,840614,862924,885233,907543,929852,952802,975753,998703,1021653,1043962,1066272,1088582,1110891,1133817,1156744,1179670,1202596,1225387,1248177,1270968,1293759,1316495,1339232,1361969,1384706,1406796,1428886],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":452,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/inthenavy/inthenavy_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Henri Belolo, Jacques Morali and Victor Willis. Published by Scorpio Music (Black Scorpio) / Harlem West Music Group (BMI). Produced, engineered and mixed by Steve Ouimette. Guitar, drums, programming - Steve Ouimette. Bass - J.R. McNealy. Strings - Pete Whitfield. Brass - Dave Richardson. Courtesy of Ubisoft Music.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "E40066FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 216.286,
+  "mapName": "InTheNavy",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497891\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"644-1134\">\r\n\t\t\t\t\t<Initialization range=\"0-644\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483513\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2949713\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5813764\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1142\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "InTheNavy_mapContent"
+  },
+  "parentMapName": "InTheNavy",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "AC1875FF",
+    "songColor_1B": "F4BB2CFF",
+    "songColor_2A": "EDB7EDFF",
+    "songColor_2B": "1C0F22FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "In The Navy",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "5ef2c95ac8f01216db7f7f22839dc311",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/InTheNavy/ps4/InTheNavy_MAIN_SCENE_ORBIS.zip/5ef2c95ac8f01216db7f7f22839dc311.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "8f632975c036ca27ec447ca768deae83",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/InTheNavy/nx/InTheNavy_MAIN_SCENE_NX.zip/8f632975c036ca27ec447ca768deae83.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "7482b9f1cb206803fe58cdb777dc607e",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/InTheNavy/pc/7482b9f1cb206803fe58cdb777dc607e.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/InTheNavy/InTheNavy_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/InTheNavy/InTheNavy_AudioPreview.ogg/8d1f406ba4e160b8f17a395ae26520bd.ogg",
+    "jmcs://jd-contents/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_HIGH.vp8.webm/138067d953a4938352672c536511f2f0.webm",
+    "jmcs://jd-contents/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_HIGH.vp9.webm/f98e9520f97a090c841b135c57099f35.webm",
+    "jmcs://jd-contents/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_LOW.vp8.webm/9470082ec3b66e613846f60c7ed4b5a8.webm",
+    "jmcs://jd-contents/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_LOW.vp9.webm/c865df1545886ee154dac4595118918a.webm",
+    "jmcs://jd-contents/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_MID.vp8.webm/9b6921da57b54be487c425dd6b27032b.webm",
+    "jmcs://jd-contents/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_MID.vp9.webm/b9a27735a7daf5c79d8d2ab352acc6f0.webm",
+    "jmcs://jd-contents/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_ULTRA.vp8.webm/c4435a62b84c4a8f213d6a090cfb4dba.webm",
+    "jmcs://jd-contents/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/InTheNavy/InTheNavy_MapPreviewNoSoundCrop_ULTRA.vp9.webm/16454c49b0778f9b36776083b2894020.webm"
+  }
+}

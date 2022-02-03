@@ -1,0 +1,98 @@
+{
+  "artist": "Ariana Grande",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/ps4/GodIsAWoman_banner_bkg.tga.ckd/b396279a6953e25a1c0a2169f7b20675.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/ps4/GodIsAWoman_Coach_1.tga.ckd/2d074015a008c47d1cec9c12f89f0315.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/ps4/GodIsAWoman_Cover_Generic.tga.ckd/311c5034b6f123c9eefb5f8078abca3c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/GodIsAWoman_Cover_1024.png/8729ec7b281a73becd915ae09485f759.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/ps4/GodIsAWoman_Cover_Online.tga.ckd/bf562b14c798a463ea579c7bcd5f6edf.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/ps4/GodIsAWoman_Cover_AlbumBkg.tga.ckd/c25c60c95e4d642f407f46a857f0cfff.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/ps4/GodIsAWoman_Cover_AlbumCoach.tga.ckd/ce601b875481504caaa82238fdf90fbc.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/GodIsAWoman_Coach_1_Phone.png/a7125311cd721fc9d060415bf83e88c3.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/GodIsAWoman_Cover_Phone.jpg/c37c59ec6a88a4fcce334982feff3d61.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/ps4/GodIsAWoman_map_bkg.tga.ckd/0d44affc76c3050ee36c81727cc6a786.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/nx/GodIsAWoman_banner_bkg.tga.ckd/f23769bea60c1449b3bdc8bef81fac59.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/nx/GodIsAWoman_Coach_1.tga.ckd/4943d3de690214f105a033cede791609.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/nx/GodIsAWoman_Cover_Generic.tga.ckd/8fdb5a0844cdcee142d632aa63da13c2.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/GodIsAWoman_Cover_1024.png/8729ec7b281a73becd915ae09485f759.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/nx/GodIsAWoman_Cover_Online.tga.ckd/256946461b286fda4b4e518507d037e3.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/nx/GodIsAWoman_Cover_AlbumBkg.tga.ckd/d2ae8cfaec9d1c2af7c5cc0fb660646e.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/nx/GodIsAWoman_Cover_AlbumCoach.tga.ckd/bf26eeedc89bcfe9911ec9f3d5490661.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/GodIsAWoman_Coach_1_Phone.png/a7125311cd721fc9d060415bf83e88c3.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/GodIsAWoman_Cover_Phone.jpg/c37c59ec6a88a4fcce334982feff3d61.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/nx/GodIsAWoman_map_bkg.tga.ckd/ab8ea09193d4c8e76815ce0c90ea12df.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,19872,39744,59616,79440,99312,119184,139056,158928,178752,198624,218496,238368,258240,278064,297936,317808,337680,357552,377376,397248,417120,436992,456816,476688,496560,516432,536305,556129,576001,595873,615745,635617,655441,675313,695185,715057,734929,754753,774625,794497,814369,834241,854065,873937,893809,913681,933553,953377,973249,993121,1012993,1032817,1052689,1072561,1092434,1112306,1132130,1152002,1171874,1191746,1211618,1231442,1251314,1271186,1291058,1310930,1330754,1350626,1370498,1390370,1410242,1430066],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-10,\"endBeat\":477,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":72,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/godisawoman/godisawoman_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Ariana Grande, Rickard Goransson, Savan Kotecha, ILYA and Max Martin. Published by Warner/Chappell Music Scandinavia AB (STIM) and Wolf Cousins (STIM). All rights on behalf of Warner/Chappell Music Scandinavia AB and Wolf Cousins administered by WB Music Corp. / Kobalt Songs Music Publishing obo MXM Music AB. / Universal Music Publishing Canada on behalf of Universal Music Corp. Courtesy of Republic Records under license from Universal Music Enterprises.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "37FA9FFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 201.516,
+  "mapName": "GodIsAWoman",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496912\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"600-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-600\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481863\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2650258\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3332122\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "GodIsAWoman_mapContent"
+  },
+  "parentMapName": "GodIsAWoman",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "374ADAFF",
+    "songColor_1B": "030041FF",
+    "songColor_2A": "ECB22BFF",
+    "songColor_2B": "D0581DFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "God Is A Woman",
+  "urls": {
+    "jmcs://jd-contents/GodIsAWoman/GodIsAWoman_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/GodIsAWoman_AudioPreview.ogg/bed2759559ab2f84a9eb5bb1a4dc385b.ogg",
+    "jmcs://jd-contents/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_HIGH.vp8.webm/c88bce210df1efec52baca2eb1f0fdb4.webm",
+    "jmcs://jd-contents/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_HIGH.vp9.webm/880b9b6330062b723b1134db79570803.webm",
+    "jmcs://jd-contents/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_LOW.vp8.webm/12534cccb8d62c463adbef96b761c1c5.webm",
+    "jmcs://jd-contents/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_LOW.vp9.webm/3d7019e29ca0ad84137e968de78412be.webm",
+    "jmcs://jd-contents/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_MID.vp8.webm/27502ee3eee5276cefca8a2e569916f8.webm",
+    "jmcs://jd-contents/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_MID.vp9.webm/1d8b65d336dac52efd9634223d54383a.webm",
+    "jmcs://jd-contents/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b1f2ffd388a86fe9a3783fab6b66af62.webm",
+    "jmcs://jd-contents/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/GodIsAWoman_MapPreviewNoSoundCrop_ULTRA.vp9.webm/687f95513a04a894ea9a92a63ee34395.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "ebac61f87dbc9a49b4ffa1a1222b1f20",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/ps4/GodIsAWoman_MAIN_SCENE_ORBIS.zip/ebac61f87dbc9a49b4ffa1a1222b1f20.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "bcb4059fe036c83928274002cf5e18c6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GodIsAWoman/nx/GodIsAWoman_MAIN_SCENE_NX.zip/bcb4059fe036c83928274002cf5e18c6.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

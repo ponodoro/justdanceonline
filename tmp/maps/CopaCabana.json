@@ -1,0 +1,132 @@
+{
+  "artist": "Frankie Bostello",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_banner_bkg.jpg/71fdd411c24c6ea7f0033c0e8239a790.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_1.png/445dbec61fa2085646467cd59c8a4dc6.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_2.png/b5fa9d78affa74777c544f8cd4e62c97.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_3.png/ba02935fbba92a7e55c0ed44fadaed58.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_4.png/0847aafdd9219a44b6e9a7af1d55e52d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Cover_Generic.jpg/d11252ac8ae5df984a433e5e1b740f5d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Cover_1024.png/c992f8818d5787608be74fb19d28d0a0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Cover_Online.jpg/1e66ef91f0cb57c2a7a326382fc351b3.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Cover_AlbumBkg.jpg/e88a6ddeb77a28e6e9f5da5689a3b574.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Cover_AlbumCoach.png/8d2a36e34d6e71b802ca201914b5c525.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_1_Phone.png/ad1ecbe7bbab9cecb27d39fb05b4d7fc.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_2_Phone.png/f80883f66be63f9da2fd3479aeaca0c3.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_3_Phone.png/6caa3d8d9d69975d80c9d6e4d031e722.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_4_Phone.png/171ca78fbbe1c5061300bf41eedb8dec.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Cover_Phone.jpg/1e66ef91f0cb57c2a7a326382fc351b3.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_VideoPreview.webm/bea58d5c8ab7e2298af0ce05301d9db6.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_banner_bkg.jpg/71fdd411c24c6ea7f0033c0e8239a790.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_1.png/445dbec61fa2085646467cd59c8a4dc6.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_2.png/b5fa9d78affa74777c544f8cd4e62c97.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_3.png/ba02935fbba92a7e55c0ed44fadaed58.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_4.png/0847aafdd9219a44b6e9a7af1d55e52d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Cover_Generic.jpg/d11252ac8ae5df984a433e5e1b740f5d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Cover_1024.png/c992f8818d5787608be74fb19d28d0a0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Cover_Online.jpg/1e66ef91f0cb57c2a7a326382fc351b3.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Cover_AlbumBkg.jpg/e88a6ddeb77a28e6e9f5da5689a3b574.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Cover_AlbumCoach.png/8d2a36e34d6e71b802ca201914b5c525.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_1_Phone.png/ad1ecbe7bbab9cecb27d39fb05b4d7fc.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_2_Phone.png/f80883f66be63f9da2fd3479aeaca0c3.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_3_Phone.png/6caa3d8d9d69975d80c9d6e4d031e722.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_4_Phone.png/171ca78fbbe1c5061300bf41eedb8dec.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Cover_Phone.jpg/1e66ef91f0cb57c2a7a326382fc351b3.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_VideoPreview.webm/bea58d5c8ab7e2298af0ce05301d9db6.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/wiiu/CopaCabana_banner_bkg.tga.ckd/c4fd53470834c16670dcefb1d82e413e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/wiiu/CopaCabana_Coach_1.tga.ckd/0e0fac52b0557d266b3a2fb7dbe19147.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/wiiu/CopaCabana_Coach_2.tga.ckd/b7108ad38ae1d57f4e1200aa3fe74ff4.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/wiiu/CopaCabana_Coach_3.tga.ckd/93db0bf8e0ea399422d22429e455e7a4.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/wiiu/CopaCabana_Coach_4.tga.ckd/3454f6f8b40b571ec24da96ff9cdfcf4.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/wiiu/CopaCabana_Cover_Generic.tga.ckd/45658e2fe72a152119dac443c9f95656.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Cover_1024.png/c992f8818d5787608be74fb19d28d0a0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/wiiu/CopaCabana_Cover_Online.tga.ckd/459b8db42c2ab7598b13c36a704841b1.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/wiiu/CopaCabana_Cover_AlbumBkg.tga.ckd/67de464cb475af8711e917a658ae8254.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/wiiu/CopaCabana_Cover_AlbumCoach.tga.ckd/9bbaaf4ffe7912ffecffdb114d5d9918.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_1_Phone.png/ad1ecbe7bbab9cecb27d39fb05b4d7fc.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_2_Phone.png/f80883f66be63f9da2fd3479aeaca0c3.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_3_Phone.png/6caa3d8d9d69975d80c9d6e4d031e722.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Coach_4_Phone.png/171ca78fbbe1c5061300bf41eedb8dec.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_Cover_Phone.jpg/1e66ef91f0cb57c2a7a326382fc351b3.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_VideoPreview.webm/bea58d5c8ab7e2298af0ce05301d9db6.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24432,48816,73248,97632,122064,146448,170880,195264,219696,244080,268512,292896,317328,341712,366144,390528,414912,439344,463728,488160,512544,536976,561360,585792,610176,634608,658992,683424,707808,732240,756624,781056,805441,829873,854257,878641,903073,927457,951889,976273,1000705,1025089,1049521,1073905,1098337,1122721,1147153,1171537,1195969,1220353,1244785,1269169,1293601,1317985,1342369,1366801,1391185,1415617],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-12,\"endBeat\":423,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":58,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/copacabana/copacabana_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFAF22FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 221.18699999999998,
+  "mapName": "CopaCabana",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496180\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483413\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"627-1117\">\r\n\t\t\t\t\t<Initialization range=\"0-627\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2944734\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"627-1117\">\r\n\t\t\t\t\t<Initialization range=\"0-627\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5433256\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"627-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-627\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "CopaCabana_mapContent"
+  },
+  "parentMapName": "CopaCabana",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "EA87E2FF",
+    "songColor_1B": "26005AFF",
+    "songColor_2A": "FF9073FF",
+    "songColor_2B": "EA87E2FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Copacabana",
+  "urls": {
+    "jmcs://jd-contents/CopaCabana/CopaCabana_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_AudioPreview.ogg/4900d4c073b837d8670cbe3ecb49ffc4.ogg",
+    "jmcs://jd-contents/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_HIGH.vp8.webm/c55c1eb0816e2c64637ccc74f94620aa.webm",
+    "jmcs://jd-contents/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_HIGH.vp9.webm/b32d2bb71cc25307861501181f83e2bc.webm",
+    "jmcs://jd-contents/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_LOW.vp8.webm/a9da5b4e44b049cee1d2a0c65c242299.webm",
+    "jmcs://jd-contents/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_LOW.vp9.webm/764696f21ee5fd4825266e155e383613.webm",
+    "jmcs://jd-contents/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_MID.vp8.webm/49086462a5f68868dfdef73b60a67293.webm",
+    "jmcs://jd-contents/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_MID.vp9.webm/1bc9b79baf4095580b56eefe340e27c9.webm",
+    "jmcs://jd-contents/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_ULTRA.vp8.webm/652936c44ca3f1dd2c4ddc1f2b855828.webm",
+    "jmcs://jd-contents/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/CopaCabana/CopaCabana_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5a3d9d39d2f98a2d6428eeef2a2b9610.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "dd655d65835858b6e2fa028cae1853db",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CopaCabana/ps4/CopaCabana_MAIN_SCENE_ORBIS.zip/dd655d65835858b6e2fa028cae1853db.zip",
+      "version": 13
+    },
+    "pc": {
+      "md5": "1abd6ac40c46baedd17b479443194153",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CopaCabana/pc/CopaCabana_MAIN_SCENE_PC.zip/1abd6ac40c46baedd17b479443194153.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "8dc970faf21a677ab1f77a3bba68b976",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CopaCabana/wiiu/CopaCabana_MAIN_SCENE_WIIU.zip/8dc970faf21a677ab1f77a3bba68b976.zip",
+      "version": 13
+    },
+    "nx": {
+      "md5": "6e81d50a7a55e1b4dac17dce4dc8289a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CopaCabana/nx/CopaCabana_MAIN_SCENE_NX.zip/6e81d50a7a55e1b4dac17dce4dc8289a.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

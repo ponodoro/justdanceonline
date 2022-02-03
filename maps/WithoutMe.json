@@ -1,0 +1,98 @@
+{
+  "artist": "Eminem",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_banner_bkg.jpg/a8a00ebf19c3d5296d5320f214c43a00.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Coach_1.png/8b7d9af85e16590c779688eeba7c8fff.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Coach_2.png/149fec7023b0b7f9983dc18d9347d5b7.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Coach_3.png/3c2f7b3923488defee24c77a3c0e31ad.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Cover_Generic.jpg/7e2afbc2bbe3a52830f5c314a8c42cd4.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Cover_Online.jpg/0656726a3b89b61307cf3661d3b338b2.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Cover_AlbumBkg.jpg/702058ec1bc7f69091e7bd3ef49d85a4.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Cover_AlbumCoach.png/00bb84ad4a232f7245ad4e8ad5a7bdf7.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Coach_1_Phone.png/11e1b6b037b61b30429ee71224cf374b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Coach_2_Phone.png/7ae361fa05fc59f76ea1d4496b98af25.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Coach_3_Phone.png/66bce2caa86cd5fe6501b72ff08d9ff2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Cover_Phone.jpg/0656726a3b89b61307cf3661d3b338b2.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_banner_bkg.jpg/a8a00ebf19c3d5296d5320f214c43a00.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Coach_1.png/8b7d9af85e16590c779688eeba7c8fff.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Coach_2.png/149fec7023b0b7f9983dc18d9347d5b7.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Coach_3.png/3c2f7b3923488defee24c77a3c0e31ad.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Cover_Generic.jpg/7e2afbc2bbe3a52830f5c314a8c42cd4.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Cover_Online.jpg/0656726a3b89b61307cf3661d3b338b2.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Cover_AlbumBkg.jpg/702058ec1bc7f69091e7bd3ef49d85a4.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Cover_AlbumCoach.png/00bb84ad4a232f7245ad4e8ad5a7bdf7.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Coach_1_Phone.png/11e1b6b037b61b30429ee71224cf374b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Coach_2_Phone.png/7ae361fa05fc59f76ea1d4496b98af25.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Coach_3_Phone.png/66bce2caa86cd5fe6501b72ff08d9ff2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WithoutMe/WithoutMe_Cover_Phone.jpg/0656726a3b89b61307cf3661d3b338b2.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25657,51314,76971,102628,128286,153943,179600,205257,230914,256571,282228,307885,333542,359199,384856,410513,436170,461827,487484,513141,538798,564455,590112,615769,641426,667083,692740,718397,744054,769711,795368,821025,846682,872339,897996,923653,949310,974967,1000624,1026281,1051938,1077595,1103252,1128909,1154566,1180223,1205880,1231537,1257194,1282851,1308508,1334165,1359822,1385479,1411136,1436793],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":480,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":56,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/withoutme/withoutme_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Jeffrey Bass, Kevin Bell, Anne Jennifer Dudley, Trevor Charles Horn, Marshall Mathers and Malcolm McLaren. Published by Peermusic (UK) Ltd. / Nuez Music (BMI) /Songs of Reach Music (BMI) / Eight Mile Style LLC (BMI). Administered by Kobalt Music Publishing America, Inc. / BMG Platinum Songs US (BMI); BMG Bumblebee (BMI). All rights administered by BMG Rights Management (US) LLC. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "1FE0F7FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 261.919,
+  "mapName": "WithoutMe",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497196\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"644-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-644\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481343\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2952975\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5753652\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1142\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "WithoutMe_mapContent"
+  },
+  "parentMapName": "WithoutMe",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "5BC57CFF",
+    "songColor_1B": "E8E6EEFF",
+    "songColor_2A": "2921B3FF",
+    "songColor_2B": "DA2CA9FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Without Me",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "0d792bbba0c64bbed6b365b4f493e499",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/WithoutMe/ps4/WithoutMe_MAIN_SCENE_ORBIS.zip/0d792bbba0c64bbed6b365b4f493e499.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "dc05187b5e0caf80500af1c4efdd5979",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/WithoutMe/nx/WithoutMe_MAIN_SCENE_NX.zip/dc05187b5e0caf80500af1c4efdd5979.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "52f4cea2b9cf2f0dd8a18d79ab52dbf4",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/WithoutMe/pc/52f4cea2b9cf2f0dd8a18d79ab52dbf4.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/WithoutMe/WithoutMe_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/WithoutMe/WithoutMe_AudioPreview.ogg/3694f248e9b4214aa27047f999dfe7e5.ogg",
+    "jmcs://jd-contents/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_HIGH.vp8.webm/36f51225694732faee3660370e357b0c.webm",
+    "jmcs://jd-contents/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_HIGH.vp9.webm/6c582ab7a65acad6ecdeb6d6511e6a1d.webm",
+    "jmcs://jd-contents/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_LOW.vp8.webm/915e6dc36555a1dbb48107473d746c41.webm",
+    "jmcs://jd-contents/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_LOW.vp9.webm/4dcdc0dca95d1fe3fd1b25e2a83526f3.webm",
+    "jmcs://jd-contents/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_MID.vp8.webm/8c0b5c93e1c558ffd8d67539b7fd3b63.webm",
+    "jmcs://jd-contents/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_MID.vp9.webm/ffa24de07523c6e5744cdd9896794786.webm",
+    "jmcs://jd-contents/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm/00d6167ac2efbf274cd1d5bc3f03b0c3.webm",
+    "jmcs://jd-contents/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/WithoutMe/WithoutMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm/1b452b41ea3d8b7fb7f997e3c7fc22b5.webm"
+  }
+}

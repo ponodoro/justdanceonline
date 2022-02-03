@@ -1,0 +1,112 @@
+{
+  "artist": "Omer Adam Ft. Arisa",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/ps4/TelAviv_banner_bkg.tga.ckd/5b2994a58b55cb8eda258497389aaf49.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/ps4/TelAviv_Coach_1.tga.ckd/79edf5a536b5bb1497a97fc4462f4d92.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/ps4/TelAviv_Coach_2.tga.ckd/9140ca1b225f2ba9e5d6f5aa581da3f6.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/ps4/TelAviv_Coach_3.tga.ckd/45fccee03e5990dcb67c21416d2b6e15.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/ps4/TelAviv_Cover_Generic.tga.ckd/51393c687439d13033890966f6594576.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_Cover_1024.png/dde98c9c541cae5ca4a9345d96350b5f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/ps4/TelAviv_Cover_Online.tga.ckd/202f9b2e95f60c6b9566ae63f45d73c4.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/ps4/TelAviv_Cover_AlbumBkg.tga.ckd/56b9ae00d4288f38a205b81dd9f66628.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/ps4/TelAviv_Cover_AlbumCoach.tga.ckd/ac198f11aee62f204a9c3990037267cd.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_Coach_1_Phone.png/ca227a74edab4b177a154bf2c31e560d.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_Coach_2_Phone.png/69596ec5216f389ad1cb3452ab9b99bf.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_Coach_3_Phone.png/28cac8bd534298cd490dd99e34648cd7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_Cover_Phone.jpg/b2dfd4fecc6b68c773fabe05da5b5465.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/ps4/TelAviv_map_bkg.tga.ckd/ed6a91d934fc0c42aaa70f17f07e444d.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/nx/TelAviv_banner_bkg.tga.ckd/91837b5300c51f8edd3138b5ddad3cc6.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/nx/TelAviv_Coach_1.tga.ckd/9f8e9ba06d32eed0e923513b56d3156d.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/nx/TelAviv_Coach_2.tga.ckd/c3ccd4b5fd937a6b3096d0904809b024.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/nx/TelAviv_Coach_3.tga.ckd/ac1d5aa7c310f87cd8b856102589e96c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/nx/TelAviv_Cover_Generic.tga.ckd/7966f34e7f3c5d338f580e41ca2a1a7e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_Cover_1024.png/dde98c9c541cae5ca4a9345d96350b5f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/nx/TelAviv_Cover_Online.tga.ckd/fc7dc573610f3f91061da8cbcaf8d1e5.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/nx/TelAviv_Cover_AlbumBkg.tga.ckd/17e1fbd8b44592254d677110809ed327.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/nx/TelAviv_Cover_AlbumCoach.tga.ckd/9abf0d136db9cbcf31ff2dd90500e7d2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_Coach_1_Phone.png/ca227a74edab4b177a154bf2c31e560d.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_Coach_2_Phone.png/69596ec5216f389ad1cb3452ab9b99bf.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_Coach_3_Phone.png/28cac8bd534298cd490dd99e34648cd7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_Cover_Phone.jpg/b2dfd4fecc6b68c773fabe05da5b5465.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/nx/TelAviv_map_bkg.tga.ckd/ababe046f90487a74874fbc33341080e.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22154,44308,66462,88616,110770,132924,155077,177231,199385,221539,243693,265847,288000,310154,332308,354462,376616,398770,420924,443077,465231,487385,509539,531693,553847,576000,598154,620308,642462,664616,686770,708924,731077,753231,775385,797539,819693,841847,864000,886154,908308,930462,952616,974770,996924,1019077,1041231,1063385,1085539,1107693,1129847,1152000,1174154,1196308,1218462,1240616,1262770,1284924,1307077,1329231,1351385,1373539,1395693,1417847],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":470,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/telaviv/telaviv_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Doron Medalie. Published by Doron Medalie. Courtesy of P.A.I LTD.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0ADFE7FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 217.724,
+  "mapName": "TelAviv",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496585\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TelAviv/TelAviv_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"592-1081\">\r\n\t\t\t\t\t<Initialization range=\"0-592\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1479754\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TelAviv/TelAviv_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2922525\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TelAviv/TelAviv_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3495793\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TelAviv/TelAviv_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "TelAviv_mapContent"
+  },
+  "parentMapName": "TelAviv",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "00CA6FFF",
+    "songColor_1B": "0031D7FF",
+    "songColor_2A": "FF4A19FF",
+    "songColor_2B": "990007FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Tel Aviv",
+  "urls": {
+    "jmcs://jd-contents/TelAviv/TelAviv_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_AudioPreview.ogg/5e67b21b2319b061747abd0576b07879.ogg",
+    "jmcs://jd-contents/TelAviv/TelAviv_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_MapPreviewNoSoundCrop_HIGH.vp8.webm/a0a6f25390524668974e964faabfd856.webm",
+    "jmcs://jd-contents/TelAviv/TelAviv_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_MapPreviewNoSoundCrop_HIGH.vp9.webm/43bd44daf92f98197f4b9ff313c697f1.webm",
+    "jmcs://jd-contents/TelAviv/TelAviv_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_MapPreviewNoSoundCrop_LOW.vp8.webm/8068f491280704a6bf62923052531644.webm",
+    "jmcs://jd-contents/TelAviv/TelAviv_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_MapPreviewNoSoundCrop_LOW.vp9.webm/ed8c47abbbdc4949644912c323e30e5b.webm",
+    "jmcs://jd-contents/TelAviv/TelAviv_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_MapPreviewNoSoundCrop_MID.vp8.webm/274c1471ab84125dd0264ede6234b5f8.webm",
+    "jmcs://jd-contents/TelAviv/TelAviv_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_MapPreviewNoSoundCrop_MID.vp9.webm/d0331ccc588c5accab286b358973688e.webm",
+    "jmcs://jd-contents/TelAviv/TelAviv_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d04f348afcb8e254dd077883303b3785.webm",
+    "jmcs://jd-contents/TelAviv/TelAviv_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TelAviv/TelAviv_MapPreviewNoSoundCrop_ULTRA.vp9.webm/7f0aac6f3b7e26754d40744c4b0932c7.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "11786d6485acdb300542fee3484abab4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TelAviv/ps4/TelAviv_MAIN_SCENE_ORBIS.zip/11786d6485acdb300542fee3484abab4.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "1fbb2b321dffe014ce3fb1679cc291ca",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TelAviv/nx/TelAviv_MAIN_SCENE_NX.zip/1fbb2b321dffe014ce3fb1679cc291ca.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "88f3c3545eead03bbda92ab243c4e009",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/TelAviv/pc/88f3c3545eead03bbda92ab243c4e009.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

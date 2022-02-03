@@ -1,0 +1,38 @@
+{
+  "__class": "OnlineBlock",
+  "artist": "JDMCharleston Artist",
+  "assets": {
+    "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonALT01/pc/JDMCharlestonALT01_Cover_Generic.tga.ckd/7f52fde49e2f511f5534e5c2741bb66d.ckd",
+    "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonALT01/pc/JDMCharlestonALT01_Cover_Online.tga.ckd/9bbe041ab1e851fe3a7aa2eab54282d1.ckd"
+  },
+  "coachCount": 1,
+  "credits": "Empty Credits",
+  "customTypeNameId": 8610,
+  "difficulty": 2,
+  "jdmAttributes": [
+    "JDM_Normal"
+  ],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 28.296999999999997,
+  "mapName": "JDMCharlestonALT01",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "JDMCharlestonALT01_mapContent"
+  },
+  "parentMapName": "JDMCharleston",
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 6,
+  "tags": [
+    "DanceMachine"
+  ],
+  "title": "JDMCharleston - ALTERNATE01",
+  "isPlayable": false
+}

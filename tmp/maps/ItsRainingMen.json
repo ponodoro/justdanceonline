@@ -1,0 +1,114 @@
+{
+  "artist": "The Weather Girls",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_banner_bkg.jpg/cb3e55571fda14a72784711660d8548b.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Coach_1.png/d7bc86ae6dc4c267fc0709e29e8bc733.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Cover_Generic.jpg/682aaa0e257147c1595e10eee522bf53.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Cover_1024.png/badb501bf780a8d68fd12e8cb1e15846.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Cover_Online.jpg/9a27294c6cc079a780da529d16823147.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Cover_AlbumBkg.jpg/cbbb76fb4a710d7cecd8089f5ca53d3f.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Cover_AlbumCoach.png/ed78b122c0e29fe78b3f0c87356d5000.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Coach_1_Phone.png/6033aa6e276b253eede71d62eaad0853.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Cover_Phone.jpg/a405e5a3f1136122b95960e86dd0d836.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_VideoPreview.webm/fb8e28c380760529d7ad4f224ce47291.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_banner_bkg.jpg/cb3e55571fda14a72784711660d8548b.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Coach_1.png/d7bc86ae6dc4c267fc0709e29e8bc733.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Cover_Generic.jpg/682aaa0e257147c1595e10eee522bf53.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Cover_1024.png/badb501bf780a8d68fd12e8cb1e15846.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Cover_Online.jpg/9a27294c6cc079a780da529d16823147.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Cover_AlbumBkg.jpg/cbbb76fb4a710d7cecd8089f5ca53d3f.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Cover_AlbumCoach.png/ed78b122c0e29fe78b3f0c87356d5000.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Coach_1_Phone.png/6033aa6e276b253eede71d62eaad0853.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Cover_Phone.jpg/a405e5a3f1136122b95960e86dd0d836.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_VideoPreview.webm/fb8e28c380760529d7ad4f224ce47291.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/wiiu/ItsRainingMen_banner_bkg.tga.ckd/667db6785d7bdb1350eb58c26c5db516.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/wiiu/ItsRainingMen_Coach_1.tga.ckd/53f8749af1ce66a8edec52b1d942fe45.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/wiiu/ItsRainingMen_Cover_Generic.tga.ckd/54c11435bfccae88d93ee456ff03f188.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Cover_1024.png/badb501bf780a8d68fd12e8cb1e15846.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/wiiu/ItsRainingMen_Cover_Online.tga.ckd/dc34f8a4e1d9a1638eae97c8f5c9bf78.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/wiiu/ItsRainingMen_Cover_AlbumBkg.tga.ckd/229bd51383b37c48ec10bcf70496fd48.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/wiiu/ItsRainingMen_Cover_AlbumCoach.tga.ckd/8d7ff53d17e9e647b1f23b1419e8687c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Coach_1_Phone.png/6033aa6e276b253eede71d62eaad0853.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_Cover_Phone.jpg/a405e5a3f1136122b95960e86dd0d836.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_VideoPreview.webm/fb8e28c380760529d7ad4f224ce47291.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21099,42197,63295,84393,105492,126590,147688,168786,189884,210983,232081,253179,274277,295376,316474,337572,357338,378436,399534,420633,441731,462829,483927,505026,526124,547222,568320,589419,610517,631615,652713,673812,694505,715603,736701,757800,778898,799996,821094,842192,862820,883919,905017,926115,946430,967528,988626,1009724,1030823,1051921,1073019,1094117,1115216,1136314,1157412,1178510,1199609,1220707,1241805,1262903,1284001,1305100,1326198,1347296,1368394,1389493,1410591,1431689],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":518,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":68,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/itsrainingmen/itsrainingmen_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "35C5EDFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 227.97899999999998,
+  "mapName": "ItsRainingMen",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496445\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"642-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-642\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1470345\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2716256\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2716338\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "ItsRainingMen_mapContent"
+  },
+  "parentMapName": "ItsRainingMen",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "D00FB8FF",
+    "songColor_1B": "000000FF",
+    "songColor_2A": "3CCBFFFF",
+    "songColor_2B": "150169FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "It's Raining Men",
+  "urls": {
+    "jmcs://jd-contents/ItsRainingMen/ItsRainingMen_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_AudioPreview.ogg/adc48ff80602e766105da71367fc89ad.ogg",
+    "jmcs://jd-contents/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_HIGH.vp8.webm/e352d72910462b4556646c3a74539a1a.webm",
+    "jmcs://jd-contents/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_HIGH.vp9.webm/08aee12284f94c7a23c4a11c147fa8ae.webm",
+    "jmcs://jd-contents/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_LOW.vp8.webm/3f6a3e881704892f4a6fca71f71791a3.webm",
+    "jmcs://jd-contents/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_LOW.vp9.webm/153fe9ee81971496c7464f6d84dfded1.webm",
+    "jmcs://jd-contents/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_MID.vp8.webm/529931160e760bd708f60bb0566d3392.webm",
+    "jmcs://jd-contents/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_MID.vp9.webm/b3532df3f04a0ed6fb512cff7b818ef8.webm",
+    "jmcs://jd-contents/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_ULTRA.vp8.webm/865acfff7eb64d6e3b8940c87561da34.webm",
+    "jmcs://jd-contents/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ItsRainingMen_MapPreviewNoSoundCrop_ULTRA.vp9.webm/81a74b7cc7426495077f7acc19462270.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "43c1957daeddd0853c8ac1637ad1bf0e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/ps4/ItsRainingMen_MAIN_SCENE_ORBIS.zip/43c1957daeddd0853c8ac1637ad1bf0e.zip",
+      "version": 19
+    },
+    "pc": {
+      "md5": "a3bc4b2413849d066b441d1564be835c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/pc/ItsRainingMen_MAIN_SCENE_PC.zip/a3bc4b2413849d066b441d1564be835c.zip",
+      "version": 10
+    },
+    "wiiu": {
+      "md5": "549784836353242c16e04dce261b3d8d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/wiiu/ItsRainingMen_MAIN_SCENE_WIIU.zip/549784836353242c16e04dce261b3d8d.zip",
+      "version": 19
+    },
+    "nx": {
+      "md5": "db21efdb7aad7d07b5928c2b3b08b7b7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ItsRainingMen/nx/ItsRainingMen_MAIN_SCENE_NX.zip/db21efdb7aad7d07b5928c2b3b08b7b7.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

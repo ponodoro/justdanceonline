@@ -1,0 +1,127 @@
+{
+  "artist": "The Sunlight Shakers",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/ps4/PixieLandKids_banner_bkg.tga.ckd/64484644dfaaea73a1d45d85a1c229d3.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/ps4/PixieLandKids_Coach_1.tga.ckd/fc1edf583c1fd73f30da7b2805cf2d40.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/ps4/PixieLandKids_Cover_Generic.tga.ckd/2c794574cd5bacdf2f2fd991700251e9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_Cover_1024.png/57d291bfbfc2fb4b2371fcb4310e9d1e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/ps4/PixieLandKids_Cover_Online.tga.ckd/c82ff8988dde9dec655c812cfa0ef862.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/ps4/PixieLandKids_Cover_AlbumBkg.tga.ckd/8feaaa824437138c35f2e948495cfef9.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/ps4/PixieLandKids_Cover_AlbumCoach.tga.ckd/6b487b9b3cc2b7d979608950fcb4d372.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_Coach_1_Phone.png/9a8fc3bfd19ea78bea66111a8029a18f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_Cover_Phone.jpg/177ea61287cc46fb72689413a9740e46.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_VideoPreview.webm/71685dafc821c2ec8aae52aece30aa0a.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/ps4/PixieLandKids_map_bkg.tga.ckd/2c530a0624fda5fdbde4d049a47fe4c1.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/nx/PixieLandKids_banner_bkg.tga.ckd/7e1199e49c83bb25e97fb4335adfea64.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/nx/PixieLandKids_Coach_1.tga.ckd/5e47363f55d4c66163727f2407b961f4.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/nx/PixieLandKids_Cover_Generic.tga.ckd/63f6125dba5ae08662f7dc379537e588.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_Cover_1024.png/57d291bfbfc2fb4b2371fcb4310e9d1e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/nx/PixieLandKids_Cover_Online.tga.ckd/d61e9013b058ab26ccf640e762d27213.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/nx/PixieLandKids_Cover_AlbumBkg.tga.ckd/285953c11622af571cb57f6745154a85.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/nx/PixieLandKids_Cover_AlbumCoach.tga.ckd/80d7f45dec353de8001f3733ebc1d2f0.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_Coach_1_Phone.png/9a8fc3bfd19ea78bea66111a8029a18f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_Cover_Phone.jpg/177ea61287cc46fb72689413a9740e46.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_VideoPreview.webm/71685dafc821c2ec8aae52aece30aa0a.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/nx/PixieLandKids_map_bkg.tga.ckd/b8326c1090336e3a6064f8ab15ab4a24.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/wiiu/PixieLandKids_banner_bkg.tga.ckd/dae228a451eb86ec1de308e38587dab7.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/wiiu/PixieLandKids_Coach_1.tga.ckd/1ad87f5d16cae1bb3ae6573172f4db89.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/wiiu/PixieLandKids_Cover_Generic.tga.ckd/1f991e358589411434c0b2ca11dad938.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_Cover_1024.png/57d291bfbfc2fb4b2371fcb4310e9d1e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/wiiu/PixieLandKids_Cover_Online.tga.ckd/0ce18f050e6b54e97ba2c3fbddfb44b4.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/wiiu/PixieLandKids_Cover_AlbumBkg.tga.ckd/666797a47360977bc5b70a91aadd1dd7.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/wiiu/PixieLandKids_Cover_AlbumCoach.tga.ckd/65cc093e02382ed2fa5b9de68593a7bd.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_Coach_1_Phone.png/9a8fc3bfd19ea78bea66111a8029a18f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_Cover_Phone.jpg/177ea61287cc46fb72689413a9740e46.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_VideoPreview.webm/71685dafc821c2ec8aae52aece30aa0a.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,17760,35520,53328,71088,88848,106656,124416,142224,159984,177744,195553,213313,231073,248881,266641,284449,302209,319969,337777,355537,373297,391105,408865,426625,444434,462194,480002,497762,515522,533330,551090,568850,586658,604418,622226,639986,657746,675554,693315,711075,728883,746643,764451,782211,799971,817779,835539,853299,871107,888867,906627,924435,942196,960004,977764,995524,1013332,1031092,1048852,1066660,1084420,1102228,1119988,1137748,1155556,1173316,1191077,1208885,1226645,1244453,1262213,1279973,1297781,1315541,1333301,1351109,1368869,1386629,1404437,1422197],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-46,\"endBeat\":265,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":80,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/pixielandkids/pixielandkids_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Originally Titled: Chasing Dragons. Written by Assaf Rinde. Courtesy of APM Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 115.178,
+  "mapName": "PixieLandKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"498005\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481556\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2660904\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2671585\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "PixieLandKids_mapContent"
+  },
+  "parentMapName": "PixieLandKids",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "008D9BFF",
+    "songColor_1B": "001E4EFF",
+    "songColor_2A": "46FB39FF",
+    "songColor_2B": "006640FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "subscribedSong",
+    "ExcludedFromWDF",
+    "ExcludedFromWDF-PC",
+    "JD19_KIDSjd18"
+  ],
+  "title": "Pixie Land",
+  "urls": {
+    "jmcs://jd-contents/PixieLandKids/PixieLandKids_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_AudioPreview.ogg/b634cf551274479cbafe08937ce2204a.ogg",
+    "jmcs://jd-contents/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/c43563c62a177fe3f6c742d16378f72a.webm",
+    "jmcs://jd-contents/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/6576770603cc4188e1c4c872b69e15fb.webm",
+    "jmcs://jd-contents/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_LOW.vp8.webm/cf9cfe5c0546832895c0a6645f2065d3.webm",
+    "jmcs://jd-contents/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_LOW.vp9.webm/11f2f3d6f1d9882e523fcf7eadb4f6a4.webm",
+    "jmcs://jd-contents/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_MID.vp8.webm/25d733fcc69d85ab44e22b84008d191d.webm",
+    "jmcs://jd-contents/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_MID.vp9.webm/b32ea81fcf198a195647a8f555ae17a2.webm",
+    "jmcs://jd-contents/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/217bd2c2c47553c4fa9f4d08dc3a83c3.webm",
+    "jmcs://jd-contents/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/PixieLandKids/PixieLandKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/3845e1e4fbbd50e539d1cbe3e4632d85.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "99a147e7b3e6d8ffc6e9325945909116",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PixieLandKids/ps4/PixieLandKids_MAIN_SCENE_ORBIS.zip/99a147e7b3e6d8ffc6e9325945909116.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "51f7fea527b43d7034a3821b5c5b7a69",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PixieLandKids/nx/PixieLandKids_MAIN_SCENE_NX.zip/51f7fea527b43d7034a3821b5c5b7a69.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "d30245faa1b144fe77650f728ae8eafa",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/PixieLandKids/pc/d30245faa1b144fe77650f728ae8eafa.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "a540cd13e70861b45f103f2dc08fc6de",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PixieLandKids/wiiu/PixieLandKids_MAIN_SCENE_WIIU.zip/a540cd13e70861b45f103f2dc08fc6de.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939
+}

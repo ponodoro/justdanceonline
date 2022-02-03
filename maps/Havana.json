@@ -1,0 +1,119 @@
+{
+  "artist": "Camila Cabello",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/ps4/Havana_banner_bkg.tga.ckd/62ba3795e093e0184c65298940817f1b.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/ps4/Havana_Coach_1.tga.ckd/89bec2105eea558a9bb8499876248cbb.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/ps4/Havana_Cover_Generic.tga.ckd/a897aae0d08abfc28fe3e03a33b66027.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/Havana_Cover_1024.png/a9dc2cd09e50468dd161da4c5eea9e3d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/ps4/Havana_Cover_Online.tga.ckd/5271b25c3900fef349eb7ff89ab4baaa.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/ps4/Havana_Cover_AlbumBkg.tga.ckd/c89f010dacf758eb13eca311bbb0c029.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/ps4/Havana_Cover_AlbumCoach.tga.ckd/78e5c559aa189083f2d39d53505f297e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/Havana_Coach_1_Phone.png/4080e0b2939c67fa3629b10b0ac11811.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/Havana_Cover_Phone.jpg/785a9525d792722da63d340bb99cf756.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/ps4/Havana_map_bkg.tga.ckd/2e78dba124edb76c2ab82bcfda1f71af.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/nx/Havana_banner_bkg.tga.ckd/269a9aee221ab13d1af525b6309f91df.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/nx/Havana_Coach_1.tga.ckd/92e5e723791a4bd0a9a046b4ca3534b3.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/nx/Havana_Cover_Generic.tga.ckd/186526c1c70b91518680516672b3c20b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/Havana_Cover_1024.png/a9dc2cd09e50468dd161da4c5eea9e3d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/nx/Havana_Cover_Online.tga.ckd/150851b8a76c035c3ec8d7db5b37b96f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/nx/Havana_Cover_AlbumBkg.tga.ckd/fc914211eb30be14d5f3eaa8175b3b92.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/nx/Havana_Cover_AlbumCoach.tga.ckd/de4dda8183d79eb88295b7290b726693.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/Havana_Coach_1_Phone.png/4080e0b2939c67fa3629b10b0ac11811.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/Havana_Cover_Phone.jpg/785a9525d792722da63d340bb99cf756.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/nx/Havana_map_bkg.tga.ckd/a76a17d54930610b3ad9bf13b4a48b51.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/Havana_banner_bkg.jpg/e09acd9a4cb8553cac2d487484fdc7be.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/Havana_Coach_1.png/119af8c121b3001c59c2529101fdd885.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/Havana_Cover_Generic.jpg/03c5b7b25ec42c65b7fe714e15a57948.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/Havana_Cover_1024.png/a9dc2cd09e50468dd161da4c5eea9e3d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/Havana_Cover_Online.jpg/785a9525d792722da63d340bb99cf756.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/Havana_Cover_AlbumBkg.jpg/af3ee5e8fd17e444927992adf7b4e2ef.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/Havana_Cover_AlbumCoach.png/6a76cacdb73a18c23b444f0476d31dfa.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/Havana_Coach_1_Phone.png/4080e0b2939c67fa3629b10b0ac11811.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Havana/Havana_Cover_Phone.jpg/785a9525d792722da63d340bb99cf756.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27456,54864,82272,109728,137136,164592,192000,219456,246864,274272,301728,329136,356592,384000,411456,438864,466272,493728,521136,548592,576000,603456,630864,658272,685728,713136,740592,768000,795456,822864,850272,877728,905136,932592,960000,987456,1014864,1042272,1069728,1097136,1124592,1152000,1179456,1206864,1234272,1261727,1289135,1316591,1343999,1371455,1398863,1426271],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":374,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":52,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/havana/havana_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Adam King Feeney, Louis Bell, Jeffrey Williams, Pharrell Williams, Andrew Wotman, Brian D Lee, Ali Tamposi, Brittany Hazzard, Camila Cabello and Kaan Gunesberk. Published by Maidmetal Limited / Milamoon Songs c/o Sony/ATV Music Publishing Canada (SOCAN) and NyanKing Music Inc / Sam Fam Beats (BMI);  More Water From Nazareth / EMI Pop Music Publishing (GMR) c/o EMI Blackwood Music (Canada) Ltd. (SOCAN) and EMI April Music Inc (ASCAP) c/o EMI April Music (Canada) Ltd. (SOCAN) / These Are Songs Of Pulse and People Over Planes / Kobalt Music Services America Inc (KMSA) obo Andrew Watt Music (BMI) / Reservoir 416 (BMI) / Warner-Tamerlane Publishing Corp. on behalf of Artist 101 Publishing Group (BMI), SONGS FROM THE DONG (BMI), Atlantic Songs (BMI) and 300 Rainwater Music / Kingsway Records, Inc. All rights reserved. Used with permission. Courtesy of Epic Records. By arrangement with Sony Music Entertainment. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "5ADBD6FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 218.286,
+  "mapName": "Havana",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496862\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Havana/Havana_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1105\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1457162\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Havana/Havana_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"617-1107\">\r\n\t\t\t\t\t<Initialization range=\"0-617\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1785458\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Havana/Havana_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"617-1107\">\r\n\t\t\t\t\t<Initialization range=\"0-617\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1784573\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Havana/Havana_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"617-1107\">\r\n\t\t\t\t\t<Initialization range=\"0-617\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "Havana_mapContent"
+  },
+  "parentMapName": "Havana",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "130826FF",
+    "songColor_1B": "330270FF",
+    "songColor_2A": "F97509FF",
+    "songColor_2B": "751403FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Havana",
+  "urls": {
+    "jmcs://jd-contents/Havana/Havana_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Havana/Havana_AudioPreview.ogg/0d1fabe661e060a4a67ae0e2bc51f86e.ogg",
+    "jmcs://jd-contents/Havana/Havana_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Havana/Havana_MapPreviewNoSoundCrop_HIGH.vp8.webm/388737e0efe53f085116a7dd134ad1c8.webm",
+    "jmcs://jd-contents/Havana/Havana_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Havana/Havana_MapPreviewNoSoundCrop_HIGH.vp9.webm/50b4b15d10cc636f963f07aa42f811aa.webm",
+    "jmcs://jd-contents/Havana/Havana_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Havana/Havana_MapPreviewNoSoundCrop_LOW.vp8.webm/57f2cdc91f98bf7ac4b499ad54bb43da.webm",
+    "jmcs://jd-contents/Havana/Havana_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Havana/Havana_MapPreviewNoSoundCrop_LOW.vp9.webm/9aa03a06c032022802d09825b39ba064.webm",
+    "jmcs://jd-contents/Havana/Havana_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Havana/Havana_MapPreviewNoSoundCrop_MID.vp8.webm/c9418de6b60420fec462fe6919290105.webm",
+    "jmcs://jd-contents/Havana/Havana_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Havana/Havana_MapPreviewNoSoundCrop_MID.vp9.webm/aee95bce5f33292932ef475e009c8309.webm",
+    "jmcs://jd-contents/Havana/Havana_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Havana/Havana_MapPreviewNoSoundCrop_ULTRA.vp8.webm/5d0fd5c89a3a7786a292a68f90e6f222.webm",
+    "jmcs://jd-contents/Havana/Havana_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Havana/Havana_MapPreviewNoSoundCrop_ULTRA.vp9.webm/6c2bd8cb312a3f68c105fda9b8099782.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "5fa22c7a8de1672ee777405d822edfe4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Havana/ps4/Havana_MAIN_SCENE_ORBIS.zip/5fa22c7a8de1672ee777405d822edfe4.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "8261bb2be4b7649b004f4950733cdcbf",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Havana/nx/Havana_MAIN_SCENE_NX.zip/8261bb2be4b7649b004f4950733cdcbf.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "b908c554819210199fbcab3bc10507f3",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/havana_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

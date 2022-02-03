@@ -1,0 +1,114 @@
+{
+  "artist": "Ariana Grande",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_banner_bkg.jpg/462d57f72fe6ba7ae132577d3326c27a.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Coach_1.png/565a66f271ae076801e35ac59997019c.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Cover_Generic.jpg/af3a6bb4731d26e5782968f16c6538a2.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Cover_1024.png/e1f22db84aaa20f0259a3c726541bec7.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Cover_Online.jpg/f406783d368dbe347a0ee65333b19bb4.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Cover_AlbumBkg.jpg/9abfd93a3b29558ddf74b513b695eac2.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Cover_AlbumCoach.png/d1e9f1a80c3d0758892fffe904b8b927.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Coach_1_Phone.png/0ff3aef584a848ff5bc0c3b89ccda52e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Cover_Phone.jpg/f406783d368dbe347a0ee65333b19bb4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_VideoPreview.webm/7916609fd808c2aeaa9d12cc720d72a4.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_banner_bkg.jpg/462d57f72fe6ba7ae132577d3326c27a.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Coach_1.png/565a66f271ae076801e35ac59997019c.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Cover_Generic.jpg/af3a6bb4731d26e5782968f16c6538a2.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Cover_1024.png/e1f22db84aaa20f0259a3c726541bec7.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Cover_Online.jpg/f406783d368dbe347a0ee65333b19bb4.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Cover_AlbumBkg.jpg/9abfd93a3b29558ddf74b513b695eac2.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Cover_AlbumCoach.png/d1e9f1a80c3d0758892fffe904b8b927.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Coach_1_Phone.png/0ff3aef584a848ff5bc0c3b89ccda52e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Cover_Phone.jpg/f406783d368dbe347a0ee65333b19bb4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_VideoPreview.webm/7916609fd808c2aeaa9d12cc720d72a4.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/wiiu/IntoYou_banner_bkg.tga.ckd/03ee228fbc46703e5f4fc724fa735921.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/wiiu/IntoYou_Coach_1.tga.ckd/7efb8c964c13d977b394fb6bd76299d2.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/wiiu/IntoYou_Cover_Generic.tga.ckd/9c2614cbc18cf877fb7332bbc01339ce.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Cover_1024.png/e1f22db84aaa20f0259a3c726541bec7.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/wiiu/IntoYou_Cover_Online.tga.ckd/fba27330813a05d8d2e344df6a73a5df.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/wiiu/IntoYou_Cover_AlbumBkg.tga.ckd/98ff4fac11db90c3380853b8f414cb29.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/wiiu/IntoYou_Cover_AlbumCoach.tga.ckd/319382e035903c2731f764a211edee33.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Coach_1_Phone.png/0ff3aef584a848ff5bc0c3b89ccda52e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_Cover_Phone.jpg/f406783d368dbe347a0ee65333b19bb4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_VideoPreview.webm/7916609fd808c2aeaa9d12cc720d72a4.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26640,53328,79968,106656,133344,159984,186672,213312,240000,266640,293328,319968,346656,373344,399984,426672,453312,480000,506640,533328,559968,586656,613344,639984,666672,693312,720000,746640,773328,799968,826656,853344,879984,906672,933312,960000,986640,1013328,1039968,1066656,1093344,1119984,1146672,1173312,1200000,1226640,1253328,1279968,1306656,1333344,1359984,1386672,1413312],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":434,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":53,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/intoyou/intoyou_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "31DCDCFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 243.333,
+  "mapName": "IntoYou",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496729\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IntoYou/IntoYou_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1477146\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IntoYou/IntoYou_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2553404\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IntoYou/IntoYou_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2563897\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IntoYou/IntoYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "IntoYou_mapContent"
+  },
+  "parentMapName": "IntoYou",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "5B00CEFF",
+    "songColor_1B": "060025FF",
+    "songColor_2A": "FFC4EDFF",
+    "songColor_2B": "C70079FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Into You",
+  "urls": {
+    "jmcs://jd-contents/IntoYou/IntoYou_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_AudioPreview.ogg/3ea76de1b648276b2e1069a11f5599f9.ogg",
+    "jmcs://jd-contents/IntoYou/IntoYou_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_MapPreviewNoSoundCrop_HIGH.vp8.webm/fb32398008e8d731788e336b11390783.webm",
+    "jmcs://jd-contents/IntoYou/IntoYou_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_MapPreviewNoSoundCrop_HIGH.vp9.webm/d293ff3ede883c64ac1753ce793a6fb2.webm",
+    "jmcs://jd-contents/IntoYou/IntoYou_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_MapPreviewNoSoundCrop_LOW.vp8.webm/7e832749538dff84d1abccf152c505a4.webm",
+    "jmcs://jd-contents/IntoYou/IntoYou_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_MapPreviewNoSoundCrop_LOW.vp9.webm/4b2ebabeb233fb6b46773ee94419ee5e.webm",
+    "jmcs://jd-contents/IntoYou/IntoYou_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_MapPreviewNoSoundCrop_MID.vp8.webm/b400de0272cb5ad5447f0ed3f3b10af7.webm",
+    "jmcs://jd-contents/IntoYou/IntoYou_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_MapPreviewNoSoundCrop_MID.vp9.webm/00728c74fe965363b9096f6153f3c0af.webm",
+    "jmcs://jd-contents/IntoYou/IntoYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f0164a0a8beb945f41b2c0ee8c4f918d.webm",
+    "jmcs://jd-contents/IntoYou/IntoYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/IntoYou/IntoYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm/0e6046c2f1044a44f30ff743984036ca.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "d8701065ffe80cf88d1cd7ea6edcaed7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IntoYou/ps4/IntoYou_MAIN_SCENE_ORBIS.zip/d8701065ffe80cf88d1cd7ea6edcaed7.zip",
+      "version": 13
+    },
+    "pc": {
+      "md5": "50aa5589a0911e1c62959dea0d814306",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IntoYou/pc/IntoYou_MAIN_SCENE_PC.zip/50aa5589a0911e1c62959dea0d814306.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "e8c2b18a9c91faf487283af2a57bcf40",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IntoYou/wiiu/IntoYou_MAIN_SCENE_WIIU.zip/e8c2b18a9c91faf487283af2a57bcf40.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "03400bab1bc4872b81f63721d7a9267c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IntoYou/nx/IntoYou_MAIN_SCENE_NX.zip/03400bab1bc4872b81f63721d7a9267c.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

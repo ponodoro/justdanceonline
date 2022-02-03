@@ -1,0 +1,111 @@
+{
+  "artist": "Nicki Minaj",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_banner_bkg.jpg/75db4a298aedd83a7fff5b9189272559.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Coach_1.png/5b4f9960710e09ea49df55fa978d436b.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Cover_Generic.jpg/341956d9d732b1daf1205acd1d7b7c2e.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Cover_1024.png/361e165f9e893979b0aff0de0a89ade8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Cover_Online.jpg/6d162ce9e558fb6d4059e9d383112398.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Cover_AlbumBkg.jpg/024b77a24148f6569d9c02b3a8af20d7.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Cover_AlbumCoach.png/28920f3fae6a3f57f7a73d16f39346c2.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Coach_1_Phone.png/f62544a48195680424c3b82c4059057d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Cover_Phone.jpg/6d162ce9e558fb6d4059e9d383112398.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_banner_bkg.jpg/75db4a298aedd83a7fff5b9189272559.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Coach_1.png/5b4f9960710e09ea49df55fa978d436b.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Cover_Generic.jpg/341956d9d732b1daf1205acd1d7b7c2e.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Cover_1024.png/361e165f9e893979b0aff0de0a89ade8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Cover_Online.jpg/6d162ce9e558fb6d4059e9d383112398.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Cover_AlbumBkg.jpg/024b77a24148f6569d9c02b3a8af20d7.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Cover_AlbumCoach.png/28920f3fae6a3f57f7a73d16f39346c2.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Coach_1_Phone.png/f62544a48195680424c3b82c4059057d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Cover_Phone.jpg/6d162ce9e558fb6d4059e9d383112398.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/wiiu/Starships_banner_bkg.tga.ckd/1fbc3309f1132347af784da6ce436f32.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/wiiu/Starships_Coach_1.tga.ckd/5e764b24f8bbd6c66c55fc2ecf10dbf7.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/wiiu/Starships_Cover_Generic.tga.ckd/86c65585147e938a16292a09e02a05bf.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Cover_1024.png/361e165f9e893979b0aff0de0a89ade8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/wiiu/Starships_Cover_Online.tga.ckd/df34972f6e3e9f0053da41b4482a839c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/wiiu/Starships_Cover_AlbumBkg.tga.ckd/5f63a7daf1517701f98780e7dfa449e7.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/wiiu/Starships_Cover_AlbumCoach.tga.ckd/4b6104fb5d17ae67df3a85f602cd9b9d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Coach_1_Phone.png/f62544a48195680424c3b82c4059057d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Starships/Starships_Cover_Phone.jpg/6d162ce9e558fb6d4059e9d383112398.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23040,46080,69120,92159,115200,138240,161280,184320,207360,230400,253440,276480,299520,322560,345600,368640,391680,414720,437760,460799,483840,506880,529920,552960,576000,599040,622080,645120,668160,691200,714240,737280,760320,783360,806400,829439,852480,875520,898560,921600,944640,967680,990720,1013760,1036800,1059840,1082880,1105920,1128959,1152000,1175040,1198080,1221119,1244159,1267200,1290240,1313280,1336320,1359360,1382400,1405440,1428480],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":449,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/starships/starships_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "663399FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 217.44,
+  "mapName": "Starships",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"493347\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Starships/Starships_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1389710\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Starships/Starships_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1701682\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Starships/Starships_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1702607\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Starships/Starships_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "Starships_mapContent"
+  },
+  "parentMapName": "Starships",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "2EBFFEFF",
+    "songColor_1B": "1386FFFF",
+    "songColor_2A": "FFA6F6FF",
+    "songColor_2B": "1A95FFFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Starships",
+  "urls": {
+    "jmcs://jd-contents/Starships/Starships_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Starships/Starships_AudioPreview.ogg/b6ea5be7d5e70cda982f9d35fb6bfeba.ogg",
+    "jmcs://jd-contents/Starships/Starships_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Starships/Starships_MapPreviewNoSoundCrop_HIGH.vp8.webm/bd9b5bcb3dbc3d4b0f2ebe58b3d3e788.webm",
+    "jmcs://jd-contents/Starships/Starships_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Starships/Starships_MapPreviewNoSoundCrop_HIGH.vp9.webm/9cf3c02ea0d962e9db699e5cb1f9bd15.webm",
+    "jmcs://jd-contents/Starships/Starships_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Starships/Starships_MapPreviewNoSoundCrop_LOW.vp8.webm/90be5802790acd8d140b600f09d42d9b.webm",
+    "jmcs://jd-contents/Starships/Starships_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Starships/Starships_MapPreviewNoSoundCrop_LOW.vp9.webm/164846a9f7d0d2439fbbd6e9040f0453.webm",
+    "jmcs://jd-contents/Starships/Starships_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Starships/Starships_MapPreviewNoSoundCrop_MID.vp8.webm/88392c329c897319f43c88d802ba6e85.webm",
+    "jmcs://jd-contents/Starships/Starships_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Starships/Starships_MapPreviewNoSoundCrop_MID.vp9.webm/bcd4ece4931a80afac5c6ae3274a2cbf.webm",
+    "jmcs://jd-contents/Starships/Starships_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Starships/Starships_MapPreviewNoSoundCrop_ULTRA.vp8.webm/2711a81cdc6f55f17f11db75b59e3d33.webm",
+    "jmcs://jd-contents/Starships/Starships_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Starships/Starships_MapPreviewNoSoundCrop_ULTRA.vp9.webm/67913811d9fdd089443181e2672b619e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "1d36f4172c9f3ac3ed5f71edd4ddd659",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Starships/ps4/Starships_MAIN_SCENE_ORBIS.zip/1d36f4172c9f3ac3ed5f71edd4ddd659.zip",
+      "version": 22
+    },
+    "pc": {
+      "md5": "264daae6ae9cf87fd1971ecf2a7706fa",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Starships/pc/Starships_MAIN_SCENE_PC.zip/264daae6ae9cf87fd1971ecf2a7706fa.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "a41a73688a4d42b62bd3d34773554b42",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Starships/wiiu/Starships_MAIN_SCENE_WIIU.zip/a41a73688a4d42b62bd3d34773554b42.zip",
+      "version": 18
+    },
+    "nx": {
+      "md5": "7ef3fc7d168bbce8fc93b60824d7d17a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Starships/nx/Starships_MAIN_SCENE_NX.zip/7ef3fc7d168bbce8fc93b60824d7d17a.zip",
+      "version": 22
+    }
+  },
+  "mapType": "jdu"
+}

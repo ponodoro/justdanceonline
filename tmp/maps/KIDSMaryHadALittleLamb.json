@@ -1,0 +1,116 @@
+{
+  "artist": "Tom Zehnder",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/ggp/KIDSMaryHadALittleLamb_banner_bkg.tga.ckd/4f3cfc61d86243de89f4e670fecf21a0.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/ggp/KIDSMaryHadALittleLamb_Coach_1.tga.ckd/bdd4951b19407a5ed1d20cd12eaec9d4.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/ggp/KIDSMaryHadALittleLamb_Cover_Generic.tga.ckd/8fdc2b7a0404563c009ead0975ef6a54.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_Cover_1024.png/ac84266d29be5821f939d528646acd22.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/ggp/KIDSMaryHadALittleLamb_Cover_Online.tga.ckd/8fdc2b7a0404563c009ead0975ef6a54.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/ggp/KIDSMaryHadALittleLamb_Cover_AlbumBkg.tga.ckd/7043982fe9ca11e20bd6b72ded673115.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/ggp/KIDSMaryHadALittleLamb_Cover_AlbumCoach.tga.ckd/93ee5c470d335a1cc480f3a80b199be3.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_Coach_1_Phone.png/493f8968a733628fecb68cee77a915a8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_Cover_Phone.jpg/765299e563e75d0068a3cfc1cb1798b0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_VideoPreview.webm/521eea6d6db7ccf9e9d15933fcb3527a.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/ggp/KIDSMaryHadALittleLamb_map_bkg.tga.ckd/2018d0a929daf997ee144641245d464e.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/nx/KIDSMaryHadALittleLamb_banner_bkg.tga.ckd/5b4fab31593cc1a6af2914f4681cb8ec.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/nx/KIDSMaryHadALittleLamb_Coach_1.tga.ckd/a4c2caacc6dfa2324b6b9e514b67bf57.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/nx/KIDSMaryHadALittleLamb_Cover_Generic.tga.ckd/9fef962e59e05fc524363cd024b3d36e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_Cover_1024.png/ac84266d29be5821f939d528646acd22.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/nx/KIDSMaryHadALittleLamb_Cover_Online.tga.ckd/9fef962e59e05fc524363cd024b3d36e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/nx/KIDSMaryHadALittleLamb_Cover_AlbumBkg.tga.ckd/1b65f63f029564daf8063ea5dfe4a21a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/nx/KIDSMaryHadALittleLamb_Cover_AlbumCoach.tga.ckd/ed28676359028e13dc2e1cea2bac8af6.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/nx/KIDSMaryHadALittleLamb_map_bkg.tga.ckd/4dc9a4757802fde4b92c1a0f54ceac65.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_Coach_1_Phone.png/493f8968a733628fecb68cee77a915a8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_Cover_Phone.jpg/765299e563e75d0068a3cfc1cb1798b0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_VideoPreview.webm/521eea6d6db7ccf9e9d15933fcb3527a.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/wiiu/KIDSMaryHadALittleLamb_banner_bkg.tga.ckd/cd80bb63cdd35b50813d084d33fea5bb.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/wiiu/KIDSMaryHadALittleLamb_Coach_1.tga.ckd/8740ce0a43f5ba9a8e6ba3896d6f0dac.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/wiiu/KIDSMaryHadALittleLamb_Cover_Generic.tga.ckd/8683dd8f61e96f833149ede4dfbb1d74.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_Cover_1024.png/fc3153437dc3d4c1f7ea9baf44b7fad1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/wiiu/KIDSMaryHadALittleLamb_Cover_Online.tga.ckd/8683dd8f61e96f833149ede4dfbb1d74.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/wiiu/KIDSMaryHadALittleLamb_Cover_AlbumBkg.tga.ckd/68f4ffce5413ef1dfc37c819a2daa326.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/wiiu/KIDSMaryHadALittleLamb_Cover_AlbumCoach.tga.ckd/f38da53eff16b75d33341b4933cd5211.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_Coach_1_Phone.png/493f8968a733628fecb68cee77a915a8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_Cover_Phone.jpg/765299e563e75d0068a3cfc1cb1798b0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_VideoPreview.webm/521eea6d6db7ccf9e9d15933fcb3527a.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27408,54864,82272,109680,137136,164544,192000,219408,246864,274272,301680,329136,356544,384000,411408,438864,466272,493680,521136,548544,576000,603408,630864,658272,685680,713136,740544,768000,795408,822864,850272,877680,905136,932544,960000,987408,1014864,1042272,1069680,1097136,1124544,1152000,1179408,1206864,1234271,1261679,1289135,1316543,1343999,1371407,1398863,1426271],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":213,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":52,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/kidsmaryhadalittlelamb/kidsmaryhadalittlelamb_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF425AFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 121.38799999999999,
+  "mapName": "KIDSMaryHadALittleLamb",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"490056\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"660-1149\">\r\n\t\t\t\t\t<Initialization range=\"0-660\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1461137\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"661-1151\">\r\n\t\t\t\t\t<Initialization range=\"0-661\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2306853\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"661-1151\">\r\n\t\t\t\t\t<Initialization range=\"0-661\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2316618\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"661-1151\">\r\n\t\t\t\t\t<Initialization range=\"0-661\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 123,
+  "packages": {
+    "mapContent": "KIDSMaryHadALittleLamb_mapContent"
+  },
+  "parentMapName": "KIDSMaryHadALittleLamb",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FFC600FF",
+    "songColor_1B": "FF8400FF",
+    "songColor_2A": "7BFF3BFF",
+    "songColor_2B": "539532FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Mary Had a Little Lamb",
+  "urls": {
+    "jmcs://jd-contents/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_AudioPreview.ogg/a9b3c79e9acf3a12eed114fde765271a.ogg",
+    "jmcs://jd-contents/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_HIGH.vp8.webm/f491ae3d330ed680fba7621571a3e08c.webm",
+    "jmcs://jd-contents/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_HIGH.vp9.webm/fd35e8543c6d1c7cacb0fbd7c01b719a.webm",
+    "jmcs://jd-contents/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_LOW.vp8.webm/19ba06be02608a123cf3eeafd6671937.webm",
+    "jmcs://jd-contents/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_LOW.vp9.webm/240c0b36231323ea51900a226e7a57bd.webm",
+    "jmcs://jd-contents/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_MID.vp8.webm/7e9d14962a635b01c2c4ef0033f338dd.webm",
+    "jmcs://jd-contents/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_MID.vp9.webm/73702f700b901f2efb763a1c45827681.webm",
+    "jmcs://jd-contents/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_ULTRA.vp8.webm/fbb15246b5e4547025aefdd1508f0193.webm",
+    "jmcs://jd-contents/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/KIDSMaryHadALittleLamb_MapPreviewNoSoundCrop_ULTRA.vp9.webm/77550ccbe6707fb341efa68d23fe0a31.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "b5bb2a2fa699d6a31d7d9bb8936f91d2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/ps4/KIDSMaryHadALittleLamb_MAIN_SCENE_ORBIS.zip/b5bb2a2fa699d6a31d7d9bb8936f91d2.zip",
+      "version": 21
+    },
+    "pc": {
+      "md5": "fb45b38a896156a9cf44f889dfaf7f65",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/pc/KIDSMaryHadALittleLamb_MAIN_SCENE_PC.zip/fb45b38a896156a9cf44f889dfaf7f65.zip",
+      "version": 8
+    },
+    "wiiu": {
+      "md5": "fcdd4e756161517eee7565d588543c06",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/wiiu/KIDSMaryHadALittleLamb_MAIN_SCENE_WIIU.zip/fcdd4e756161517eee7565d588543c06.zip",
+      "version": 21
+    },
+    "nx": {
+      "md5": "97bdc3fde753821423e68fe55aa7b156",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSMaryHadALittleLamb/nx/KIDSMaryHadALittleLamb_MAIN_SCENE_NX.zip/97bdc3fde753821423e68fe55aa7b156.zip",
+      "version": 9
+    }
+  },
+  "mapType": "jdu"
+}

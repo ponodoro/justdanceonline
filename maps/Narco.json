@@ -1,0 +1,119 @@
+{
+  "artist": "Blasterjaxx & Timmy Trumpet",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/ps4/Narco_banner_bkg.tga.ckd/ca8ac4adc245937a41ea99b113b6b019.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/ps4/Narco_Coach_1.tga.ckd/5a43d7407f0ed250a29ebd82c79a5a7f.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/ps4/Narco_Cover_Generic.tga.ckd/55e8c810e38ddb96e298d999aee5b38f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/Narco_Cover_1024.png/5922ece4edc1898b16d8927e3c976ac5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/ps4/Narco_Cover_Online.tga.ckd/f957acf68157698cb51dfa57237f3d0b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/ps4/Narco_Cover_AlbumBkg.tga.ckd/5fa03af9d3224e577cfbb18a11405e2a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/ps4/Narco_Cover_AlbumCoach.tga.ckd/ea501c8ef8be8dd7a7a78d2bfbaa78ef.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/Narco_Coach_1_Phone.png/b2a8c0284b14a1990683cec19c5e2b48.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/Narco_Cover_Phone.jpg/ab0773762c10ab8ad9a38a608e0bff89.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/ps4/Narco_map_bkg.tga.ckd/5faa94ddd2f9932a96001826a290f742.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/nx/Narco_banner_bkg.tga.ckd/e922234455bf723a9f229fe3d4b9d06d.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/nx/Narco_Coach_1.tga.ckd/2e8cc663dc14ab0ce5b228d291d9aa09.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/nx/Narco_Cover_Generic.tga.ckd/916efd10178573c5b6e297ca74397967.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/Narco_Cover_1024.png/5922ece4edc1898b16d8927e3c976ac5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/nx/Narco_Cover_Online.tga.ckd/75a8a16f73b887720f0b1f42c33a614a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/nx/Narco_Cover_AlbumBkg.tga.ckd/ce6e936a9a2719e9c15f83495a29b0d9.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/nx/Narco_Cover_AlbumCoach.tga.ckd/36b6301eecac94cd063d48bed4cd8d60.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/Narco_Coach_1_Phone.png/b2a8c0284b14a1990683cec19c5e2b48.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/Narco_Cover_Phone.jpg/ab0773762c10ab8ad9a38a608e0bff89.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/nx/Narco_map_bkg.tga.ckd/d86e7396106d8bd09846aca109a1402b.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/Narco_banner_bkg.jpg/9d4023466013c82df897f55743fcadd0.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/Narco_Coach_1.png/0a08ec8eb359b34bc5c4df7cacd95978.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/Narco_Cover_Generic.jpg/9e2f6aeabc22eacf1b1289a52139774c.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/Narco_Cover_1024.png/5922ece4edc1898b16d8927e3c976ac5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/Narco_Cover_Online.jpg/ab0773762c10ab8ad9a38a608e0bff89.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/Narco_Cover_AlbumBkg.jpg/3e2ab0290d1a07195c17fe620c786131.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/Narco_Cover_AlbumCoach.png/d0c106bb098d8b6ad47fad046713ea3b.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/Narco_Coach_1_Phone.png/b2a8c0284b14a1990683cec19c5e2b48.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Narco/Narco_Cover_Phone.jpg/ab0773762c10ab8ad9a38a608e0bff89.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22128,44304,66480,88608,110784,132912,155088,177216,199392,221520,243696,265824,288000,310128,332304,354480,376608,398784,420912,443088,465216,487392,509520,531696,553824,576000,598128,620304,642480,664608,686784,708912,731088,753216,775392,797520,819696,841824,864000,886128,908304,930432,952608,974784,996912,1019088,1041216,1063392,1085520,1107696,1129824,1152000,1174128,1196304,1218432,1240608,1262736,1284912,1307088,1329216,1351392,1373520,1395696,1417824],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":461,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/narco/narco_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Thom Jongkind, Idir Makhlaf and Timothy Jude Smith. Published by Ultra Tunes Canada (SOCAN) obo Cloud 9 Holland Music Publishing, Next Era and Maxximize. / Universal Music Publishing Canada on behalf of Universal Music Publishing Pty. Ltd. Courtesy of MAXXIMIZE/Spinnin’ Records. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF1010FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 212.76899999999998,
+  "mapName": "Narco",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496828\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Narco/Narco_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"617-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-617\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482425\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Narco/Narco_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2878086\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Narco/Narco_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4667420\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Narco/Narco_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "Narco_mapContent"
+  },
+  "parentMapName": "Narco",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "006D77FF",
+    "songColor_1B": "17032BFF",
+    "songColor_2A": "FDFF51FF",
+    "songColor_2B": "851900FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "freeSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Narco",
+  "urls": {
+    "jmcs://jd-contents/Narco/Narco_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Narco/Narco_AudioPreview.ogg/f56f3f3ae3e5c22bedee78a24c058b95.ogg",
+    "jmcs://jd-contents/Narco/Narco_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Narco/Narco_MapPreviewNoSoundCrop_HIGH.vp8.webm/1ac9df6d758b718a32401c3ca7510953.webm",
+    "jmcs://jd-contents/Narco/Narco_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Narco/Narco_MapPreviewNoSoundCrop_HIGH.vp9.webm/8f9a3cf6a42f0246dadfb9d207307680.webm",
+    "jmcs://jd-contents/Narco/Narco_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Narco/Narco_MapPreviewNoSoundCrop_LOW.vp8.webm/3802b3bae440e49bc5e9f4fb46c49a20.webm",
+    "jmcs://jd-contents/Narco/Narco_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Narco/Narco_MapPreviewNoSoundCrop_LOW.vp9.webm/66d63a2d098eb8f740bb2ca0306caf15.webm",
+    "jmcs://jd-contents/Narco/Narco_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Narco/Narco_MapPreviewNoSoundCrop_MID.vp8.webm/f1bcf93f336043f4c3b4dad2979d2232.webm",
+    "jmcs://jd-contents/Narco/Narco_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Narco/Narco_MapPreviewNoSoundCrop_MID.vp9.webm/0333464ad72a45f346bad771733fa7ed.webm",
+    "jmcs://jd-contents/Narco/Narco_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Narco/Narco_MapPreviewNoSoundCrop_ULTRA.vp8.webm/07e52ad44c8f1d579144fa587e394a5e.webm",
+    "jmcs://jd-contents/Narco/Narco_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Narco/Narco_MapPreviewNoSoundCrop_ULTRA.vp9.webm/e2e07b5d22379bca25b84e45b49be637.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "70b941a26a982a1ac48fcbfba4118d9c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Narco/ps4/Narco_MAIN_SCENE_ORBIS.zip/70b941a26a982a1ac48fcbfba4118d9c.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "9021123e846ab77dbc842a81d055e91f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Narco/nx/Narco_MAIN_SCENE_NX.zip/9021123e846ab77dbc842a81d055e91f.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "d46d9eadfc28af7b42991ee4ae42bd60",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/narco_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

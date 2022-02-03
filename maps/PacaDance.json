@@ -1,0 +1,94 @@
+{
+  "artist": "The Just Dance Band",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_banner_bkg.jpg/762a1be66f70497fe39836d80d080333.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Coach_1.png/1bdc33872ec089cf418af979738fe67d.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Coach_2.png/a245fdd8165f0152e9c9d26b6783a349.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Cover_Generic.jpg/d406273aa08b4cc01d15628a4bb9d0ff.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Cover_Online.jpg/944075289abce221186c787b940f8ac8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Cover_AlbumBkg.jpg/1d2503b0a0894e09f2b2ce6a9c2cfb9d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Cover_AlbumCoach.png/2b5fc46e9741dbfc1960f49784d87a74.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Coach_1_Phone.png/ea18b96758cd4e53222d9e9e529b8024.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Coach_2_Phone.png/4acf3692db02fee98e2c1ce4ca86c0f0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Cover_Phone.jpg/944075289abce221186c787b940f8ac8.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_banner_bkg.jpg/762a1be66f70497fe39836d80d080333.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Coach_1.png/1bdc33872ec089cf418af979738fe67d.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Coach_2.png/a245fdd8165f0152e9c9d26b6783a349.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Cover_Generic.jpg/d406273aa08b4cc01d15628a4bb9d0ff.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Cover_Online.jpg/944075289abce221186c787b940f8ac8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Cover_AlbumBkg.jpg/1d2503b0a0894e09f2b2ce6a9c2cfb9d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Cover_AlbumCoach.png/2b5fc46e9741dbfc1960f49784d87a74.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Coach_1_Phone.png/ea18b96758cd4e53222d9e9e529b8024.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Coach_2_Phone.png/4acf3692db02fee98e2c1ce4ca86c0f0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PacaDance/PacaDance_Cover_Phone.jpg/944075289abce221186c787b940f8ac8.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23040,46080,69120,92160,115200,138240,161280,184320,207360,230400,253440,276480,299520,322560,345600,368640,391680,414720,437760,460800,483840,506880,529920,552960,576000,599040,622080,645120,668160,691200,714240,737280,760320,783360,806400,829440,852480,875520,898560,921600,944640,967680,990720,1013760,1036800,1059840,1082880,1105920,1128960,1152000,1175040,1198080,1221120,1244160,1267200,1290240,1313280,1336320,1359360,1382400,1405440,1428480],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":341,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/pacadance/pacadance_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Doron Medalie and Meytal de razon. Published by Ubisoft Music Publishing. Lyrics by Doron Medalie and Meytal de razon. Produced and mixed by Yinon Yahel. Courtesy of Ubisoft Music.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FD33AEFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 165.6,
+  "mapName": "PacaDance",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496076\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PacaDance/PacaDance_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"644-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-644\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482108\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PacaDance/PacaDance_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2944270\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PacaDance/PacaDance_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5664360\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PacaDance/PacaDance_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1142\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "PacaDance_mapContent"
+  },
+  "parentMapName": "PacaDance",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "251737FF",
+    "songColor_1B": "F9AA0BFF",
+    "songColor_2A": "F8928FFF",
+    "songColor_2B": "F7E6EFFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Paca Dance",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "e49ebb3cceec6e0113dd8f9a583efc60",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/PacaDance/ps4/PacaDance_MAIN_SCENE_ORBIS.zip/e49ebb3cceec6e0113dd8f9a583efc60.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "8305ce9be8692e74c070e2bc7a12d0eb",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/PacaDance/nx/PacaDance_MAIN_SCENE_NX.zip/8305ce9be8692e74c070e2bc7a12d0eb.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "ebf450b94ae7fb49c2bdcd3f34b4c01a",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/PacaDance/pc/ebf450b94ae7fb49c2bdcd3f34b4c01a.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/PacaDance/PacaDance_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/PacaDance/PacaDance_AudioPreview.ogg/e40df168b17ef672c3e312be99e34fc5.ogg",
+    "jmcs://jd-contents/PacaDance/PacaDance_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/PacaDance/PacaDance_MapPreviewNoSoundCrop_HIGH.vp8.webm/4cd06bc2283af267d280aadb91c6fb9e.webm",
+    "jmcs://jd-contents/PacaDance/PacaDance_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/PacaDance/PacaDance_MapPreviewNoSoundCrop_HIGH.vp9.webm/635e79a90bd8c31b5797b04cd135874d.webm",
+    "jmcs://jd-contents/PacaDance/PacaDance_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/PacaDance/PacaDance_MapPreviewNoSoundCrop_LOW.vp8.webm/58dc6bafc6df2acc54a2ceaf31a36a40.webm",
+    "jmcs://jd-contents/PacaDance/PacaDance_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/PacaDance/PacaDance_MapPreviewNoSoundCrop_LOW.vp9.webm/c4e0945bb398d7916f6e102fd706e684.webm",
+    "jmcs://jd-contents/PacaDance/PacaDance_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/PacaDance/PacaDance_MapPreviewNoSoundCrop_MID.vp8.webm/8ead7c81b639d82da1170f7d09331b65.webm",
+    "jmcs://jd-contents/PacaDance/PacaDance_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/PacaDance/PacaDance_MapPreviewNoSoundCrop_MID.vp9.webm/b51fd54790754e3bc802a260010a002e.webm",
+    "jmcs://jd-contents/PacaDance/PacaDance_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/PacaDance/PacaDance_MapPreviewNoSoundCrop_ULTRA.vp8.webm/63a706477d90a72ab716ee6e5045b592.webm",
+    "jmcs://jd-contents/PacaDance/PacaDance_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/PacaDance/PacaDance_MapPreviewNoSoundCrop_ULTRA.vp9.webm/3de881310f3e19bb67b22378d4f56f2d.webm"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "artist": "Skrillex Ft. Sirah",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/ps4/Bangarang_banner_bkg.tga.ckd/f1930b801ffd73fa1307172e17de8f34.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/ps4/Bangarang_Coach_1.tga.ckd/2aba99291816d323e7c8e316a440d03d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/ps4/Bangarang_Cover_Generic.tga.ckd/f98a7d8f5b120b8a0ef9be5e86d609d3.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/Bangarang_Cover_1024.png/fe2946bf76e96ca3f30d2c9b0a043f88.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/ps4/Bangarang_Cover_Online.tga.ckd/b5ad9770b87fc88fa4d9d2aa2f797c35.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/ps4/Bangarang_Cover_AlbumBkg.tga.ckd/180377b633377ccdc1f79f931e08b74b.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/ps4/Bangarang_Cover_AlbumCoach.tga.ckd/f453c94b33c226217c54295319cf2880.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/Bangarang_Coach_1_Phone.png/7ae6ffcdfd1d7ef102e71216623b0610.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/Bangarang_Cover_Phone.jpg/30a6ad259fbbbb771068251d48459d9c.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/ps4/Bangarang_map_bkg.tga.ckd/cc9256d6e8f70815690505b523495b3d.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/nx/Bangarang_banner_bkg.tga.ckd/2f781ac9e540b7505888106d97effb9c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/nx/Bangarang_Coach_1.tga.ckd/a3897765ca4455ca3dadd8d6cf247ead.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/nx/Bangarang_Cover_Generic.tga.ckd/1452c338cb28a1b97cb8eb49bb08abc3.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/Bangarang_Cover_1024.png/fe2946bf76e96ca3f30d2c9b0a043f88.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/nx/Bangarang_Cover_Online.tga.ckd/c26383abfae797ace19504073021c805.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/nx/Bangarang_Cover_AlbumBkg.tga.ckd/e2a37e85311136d545b35f6a497b3efb.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/nx/Bangarang_Cover_AlbumCoach.tga.ckd/e6c06da15658278351d8be81226ee9c7.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/Bangarang_Coach_1_Phone.png/7ae6ffcdfd1d7ef102e71216623b0610.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/Bangarang_Cover_Phone.jpg/30a6ad259fbbbb771068251d48459d9c.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bangarang/nx/Bangarang_map_bkg.tga.ckd/4600950e52806f249a1695d04210fc1c.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26160,52368,78528,104736,130896,157104,183264,209424,235632,261792,288000,314160,340368,366528,392736,418896,445104,471264,497424,523632,549792,576000,602160,628368,654528,680736,706896,733104,759264,785424,811633,837793,864001,890161,916369,942529,968737,994897,1021105,1047265,1073425,1099633,1125793,1152001,1178161,1204369,1230529,1256737,1282897,1309105,1335265,1361425,1387633,1413793],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":392,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":54,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/bangarang/bangarang_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Sonny Moore and Sara Mitchell. Published by Kobalt Songs Music Publishing obo Kobalt Music Copyrights SARL (ASCAP). / Pulse Recording Songs and Sirah Raps Music. Courtesy of Atlantic Records. By arrangement with Warner Music Group Film & TV Licensing.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "1390BDFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 217.09099999999998,
+  "mapName": "Bangarang",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495729\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bangarang/Bangarang_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"596-1085\">\r\n\t\t\t\t\t<Initialization range=\"0-596\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1416114\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bangarang/Bangarang_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2316062\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bangarang/Bangarang_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2522791\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bangarang/Bangarang_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "Bangarang_mapContent"
+  },
+  "parentMapName": "Bangarang",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "005298FF",
+    "songColor_1B": "1B0230FF",
+    "songColor_2A": "00FED7FF",
+    "songColor_2B": "0C0016FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Bangarang",
+  "urls": {
+    "jmcs://jd-contents/Bangarang/Bangarang_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Bangarang/Bangarang_AudioPreview.ogg/d8d32c8eb98ed5aa26f82b2720d2882b.ogg",
+    "jmcs://jd-contents/Bangarang/Bangarang_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Bangarang/Bangarang_MapPreviewNoSoundCrop_HIGH.vp8.webm/9e63320196a2c1601f4f634a5882ecd2.webm",
+    "jmcs://jd-contents/Bangarang/Bangarang_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Bangarang/Bangarang_MapPreviewNoSoundCrop_HIGH.vp9.webm/e2bb705063d41aca375aefe705cc72fc.webm",
+    "jmcs://jd-contents/Bangarang/Bangarang_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Bangarang/Bangarang_MapPreviewNoSoundCrop_LOW.vp8.webm/193ad549d53a1eeb3ab4580e93c908fd.webm",
+    "jmcs://jd-contents/Bangarang/Bangarang_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Bangarang/Bangarang_MapPreviewNoSoundCrop_LOW.vp9.webm/4861fb545b81b4fb26858a6d7feecf7c.webm",
+    "jmcs://jd-contents/Bangarang/Bangarang_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Bangarang/Bangarang_MapPreviewNoSoundCrop_MID.vp8.webm/a2591b79b14ca8b4bdc2fd676aab6d57.webm",
+    "jmcs://jd-contents/Bangarang/Bangarang_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Bangarang/Bangarang_MapPreviewNoSoundCrop_MID.vp9.webm/2c63e30d10cc01b0ca8661a5e24458a5.webm",
+    "jmcs://jd-contents/Bangarang/Bangarang_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Bangarang/Bangarang_MapPreviewNoSoundCrop_ULTRA.vp8.webm/4032559907121c86b60b27c7483eb1e6.webm",
+    "jmcs://jd-contents/Bangarang/Bangarang_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Bangarang/Bangarang_MapPreviewNoSoundCrop_ULTRA.vp9.webm/233f4b5e5369d905d6225b03847e7dca.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "0bcc26b2ca2490922898133df0de1a3e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Bangarang/ps4/Bangarang_MAIN_SCENE_ORBIS.zip/0bcc26b2ca2490922898133df0de1a3e.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "bea18e07665f42314524b1aa5259fe74",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Bangarang/nx/Bangarang_MAIN_SCENE_NX.zip/bea18e07665f42314524b1aa5259fe74.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "a37191f13c6b80b54cacde8261577b94",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Bangarang/pc/a37191f13c6b80b54cacde8261577b94.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,114 @@
+{
+  "artist": "Reggaeton",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_banner_bkg.jpg/05f00fa51a9ec60625b142132cbb22d1.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Coach_1.png/864018eb5256a773955125c47f85de3a.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Cover_Generic.jpg/0808c953d8bae2591e282813dd9a0e55.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Cover_1024.png/115e2c342bc85cbfae2b171d729895d1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Cover_Online.jpg/07ec7b0fd37c0ca73b7269607623098a.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Cover_AlbumBkg.jpg/cad21258932aed3fbdc36eef8f148128.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Cover_AlbumCoach.png/7c750d642a259528db248895e8ba1040.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Coach_1_Phone.png/ebac4cc5ce50e5e1f2636caddcca368b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Cover_Phone.jpg/07ec7b0fd37c0ca73b7269607623098a.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_VideoPreview.webm/ace593720a078b40aa56b30e8b5c81ce.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_banner_bkg.jpg/05f00fa51a9ec60625b142132cbb22d1.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Coach_1.png/864018eb5256a773955125c47f85de3a.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Cover_Generic.jpg/0808c953d8bae2591e282813dd9a0e55.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Cover_1024.png/115e2c342bc85cbfae2b171d729895d1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Cover_Online.jpg/07ec7b0fd37c0ca73b7269607623098a.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Cover_AlbumBkg.jpg/cad21258932aed3fbdc36eef8f148128.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Cover_AlbumCoach.png/7c750d642a259528db248895e8ba1040.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Coach_1_Phone.png/ebac4cc5ce50e5e1f2636caddcca368b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Cover_Phone.jpg/07ec7b0fd37c0ca73b7269607623098a.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_VideoPreview.webm/ace593720a078b40aa56b30e8b5c81ce.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/wiiu/BabyGirl_banner_bkg.tga.ckd/4b5d9cf2515ce92c066465d5cccb5e89.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/wiiu/BabyGirl_Coach_1.tga.ckd/abb3e0f7f6c7c2ef338fd704ea36eae4.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/wiiu/BabyGirl_Cover_Generic.tga.ckd/a0065118ccafab433bc603a83f056847.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Cover_1024.png/115e2c342bc85cbfae2b171d729895d1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/wiiu/BabyGirl_Cover_Online.tga.ckd/a0065118ccafab433bc603a83f056847.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/wiiu/BabyGirl_Cover_AlbumBkg.tga.ckd/788529053bfbb327a8b99f3d6edb78c2.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/wiiu/BabyGirl_Cover_AlbumCoach.tga.ckd/d7ba7ba6b682929347b8d65cf6f74efd.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Coach_1_Phone.png/ebac4cc5ce50e5e1f2636caddcca368b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_Cover_Phone.jpg/07ec7b0fd37c0ca73b7269607623098a.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_VideoPreview.webm/ace593720a078b40aa56b30e8b5c81ce.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27166,54333,81499,108665,135831,162998,190164,217330,244496,271663,298829,325995,353161,380328,407494,434660,461826,488993,516159,543325,570491,597658,624824,651990,679156,706323,733489,760655,787822,814988,842154,869320,896487,923653,950819,977985,1005152,1032318,1059484,1086650,1113817,1140983,1168149,1195315,1222482,1249648,1276814,1303980,1331147,1358313,1385479,1412645,1439812],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":298,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":53,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/babygirl/babygirl_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "E8B414FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 168.99099999999999,
+  "mapName": "BabyGirl",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496645\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1232402\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1242481\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1242354\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "BabyGirl_mapContent"
+  },
+  "parentMapName": "BabyGirl",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "E7AD00FF",
+    "songColor_1B": "A02500FF",
+    "songColor_2A": "853100FF",
+    "songColor_2B": "370200FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Baby Girl",
+  "urls": {
+    "jmcs://jd-contents/BabyGirl/BabyGirl_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_AudioPreview.ogg/fb55e2991d281fff9d8da09832f8b2a4.ogg",
+    "jmcs://jd-contents/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_HIGH.vp8.webm/01827eeeafe27684ebf12fde51ea4d17.webm",
+    "jmcs://jd-contents/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_HIGH.vp9.webm/04a55555207813e0fd0f4268abddbbc0.webm",
+    "jmcs://jd-contents/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_LOW.vp8.webm/76dbad869960220ce98f709163ec060e.webm",
+    "jmcs://jd-contents/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_LOW.vp9.webm/1cc889baebff8b9ae680570c3a8f6cd3.webm",
+    "jmcs://jd-contents/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_MID.vp8.webm/c4902ca70693209bfb6d58097fa16298.webm",
+    "jmcs://jd-contents/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_MID.vp9.webm/d34e31e383a16c3d82b369a9a456e8bf.webm",
+    "jmcs://jd-contents/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_ULTRA.vp8.webm/a6ac99b9d6a32951d1d6e8e25a8d984b.webm",
+    "jmcs://jd-contents/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BabyGirl/BabyGirl_MapPreviewNoSoundCrop_ULTRA.vp9.webm/d18f3c9fa32f713f96dc98b7f345873b.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "3d47e9658f80cae266600f9fc13ceb76",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BabyGirl/ps4/BabyGirl_MAIN_SCENE_ORBIS.zip/3d47e9658f80cae266600f9fc13ceb76.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "ce248c503298556a38e7292bc70893d3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BabyGirl/pc/BabyGirl_MAIN_SCENE_PC.zip/ce248c503298556a38e7292bc70893d3.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "53836443a5b853b5555b146d56867955",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BabyGirl/wiiu/BabyGirl_MAIN_SCENE_WIIU.zip/53836443a5b853b5555b146d56867955.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "2c4284e394d31901a56ef8a9214e5af4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BabyGirl/nx/BabyGirl_MAIN_SCENE_NX.zip/2c4284e394d31901a56ef8a9214e5af4.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu"
+}

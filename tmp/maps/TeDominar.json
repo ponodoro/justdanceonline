@@ -1,0 +1,126 @@
+{
+  "artist": "Daya Luz",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_banner_bkg.jpg/04c7832676da26c496b6a01232640397.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Coach_1.png/d1209185a6f76eecdf7476365a72c018.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Coach_2.png/eba92f4ca81389f228cd234fce96788e.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Coach_3.png/04cad7045ef1820234905558496c92e3.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Cover_Generic.jpg/e72121554c5b5dbda1315f1a1643213a.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Cover_1024.png/cd917089699bc3185bcea4798b9ae001.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Cover_Online.jpg/f3bf5696f277e8741e8e6369bea95e9d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Cover_AlbumBkg.jpg/50208134c572e3765faee20fac807a8a.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Cover_AlbumCoach.png/fd07a039ed6d0b031bd324939e9f77e3.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Coach_1_Phone.png/ea9fe8b9153526e52d662c4485115c75.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Coach_2_Phone.png/578f31fef4e76e916071da31991afbb4.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Coach_3_Phone.png/450cee57f3d323b8a073bbf9fd722456.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Cover_Phone.jpg/f3bf5696f277e8741e8e6369bea95e9d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_VideoPreview.webm/c2e1a1ebfec34b9330938644ee7e978d.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_banner_bkg.jpg/04c7832676da26c496b6a01232640397.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Coach_1.png/d1209185a6f76eecdf7476365a72c018.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Coach_2.png/eba92f4ca81389f228cd234fce96788e.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Coach_3.png/04cad7045ef1820234905558496c92e3.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Cover_Generic.jpg/e72121554c5b5dbda1315f1a1643213a.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Cover_1024.png/cd917089699bc3185bcea4798b9ae001.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Cover_Online.jpg/f3bf5696f277e8741e8e6369bea95e9d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Cover_AlbumBkg.jpg/50208134c572e3765faee20fac807a8a.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Cover_AlbumCoach.png/fd07a039ed6d0b031bd324939e9f77e3.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Coach_1_Phone.png/ea9fe8b9153526e52d662c4485115c75.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Coach_2_Phone.png/578f31fef4e76e916071da31991afbb4.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Coach_3_Phone.png/450cee57f3d323b8a073bbf9fd722456.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Cover_Phone.jpg/f3bf5696f277e8741e8e6369bea95e9d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_VideoPreview.webm/c2e1a1ebfec34b9330938644ee7e978d.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/wiiu/TeDominar_banner_bkg.tga.ckd/bc9422cad844479b11a780f2991d5e95.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/wiiu/TeDominar_Coach_1.tga.ckd/3594f4fa69dc25e96f2730077dc0bf50.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/wiiu/TeDominar_Coach_2.tga.ckd/ee16cd7eebc05f054a1ef8d5da532f14.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/wiiu/TeDominar_Coach_3.tga.ckd/a7ba99e23ada4d2c580e2d9048b48fcd.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/wiiu/TeDominar_Cover_Generic.tga.ckd/4cbc493211f0c2b30a40c3ee8624584d.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Cover_1024.png/cd917089699bc3185bcea4798b9ae001.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/wiiu/TeDominar_Cover_Online.tga.ckd/b0eebda63306e24cfb7a921d1e742f05.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/wiiu/TeDominar_Cover_AlbumBkg.tga.ckd/32849e96286cdc241bd1062db0e5b82e.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/wiiu/TeDominar_Cover_AlbumCoach.tga.ckd/122b697e04d694c520e5242ffbcd0297.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Coach_1_Phone.png/ea9fe8b9153526e52d662c4485115c75.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Coach_2_Phone.png/578f31fef4e76e916071da31991afbb4.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Coach_3_Phone.png/450cee57f3d323b8a073bbf9fd722456.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_Cover_Phone.jpg/f3bf5696f277e8741e8e6369bea95e9d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_VideoPreview.webm/c2e1a1ebfec34b9330938644ee7e978d.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25968,51888,77856,103776,129744,155664,181632,207552,233520,259440,285408,311376,337296,363264,389184,415152,441072,467040,492960,518928,544848,570816,596784,622704,648672,674592,700560,726480,752448,778368,804336,830256,856224,882144,908112,934080,960000,985968,1011888,1037856,1063776,1089744,1115664,1141632,1167552,1193520,1219440,1245408,1271376,1297296,1323264,1349184,1375152,1401072,1427040],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":360,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":55,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/tedominar/tedominar_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "EF2351FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 197.838,
+  "mapName": "TeDominar",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497150\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TeDominar/TeDominar_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1117\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480581\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TeDominar/TeDominar_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2725986\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TeDominar/TeDominar_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3619366\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TeDominar/TeDominar_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "TeDominar_mapContent"
+  },
+  "parentMapName": "TeDominar",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "C4006AFF",
+    "songColor_1B": "0D0030FF",
+    "songColor_2A": "F72F6DFF",
+    "songColor_2B": "100019FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Te Dominar",
+  "urls": {
+    "jmcs://jd-contents/TeDominar/TeDominar_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_AudioPreview.ogg/1caae836a1fef7cf61471673af03dbc8.ogg",
+    "jmcs://jd-contents/TeDominar/TeDominar_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_MapPreviewNoSoundCrop_HIGH.vp8.webm/1a2b1d3dc2741348ea22657fc3d4c8fb.webm",
+    "jmcs://jd-contents/TeDominar/TeDominar_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_MapPreviewNoSoundCrop_HIGH.vp9.webm/5f258f568e055410bd08fe8ecfe64655.webm",
+    "jmcs://jd-contents/TeDominar/TeDominar_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_MapPreviewNoSoundCrop_LOW.vp8.webm/4d1b476732fa4c016a67bb457a04d670.webm",
+    "jmcs://jd-contents/TeDominar/TeDominar_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_MapPreviewNoSoundCrop_LOW.vp9.webm/a3df8ff3fcbc7f6a29ef341c93a10498.webm",
+    "jmcs://jd-contents/TeDominar/TeDominar_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_MapPreviewNoSoundCrop_MID.vp8.webm/cd5d1f438788c6e1bb7245645b324b0d.webm",
+    "jmcs://jd-contents/TeDominar/TeDominar_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_MapPreviewNoSoundCrop_MID.vp9.webm/915995e9f02edb97dca51dccd35a7339.webm",
+    "jmcs://jd-contents/TeDominar/TeDominar_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d188b380709367ddf9245a8f102e15c1.webm",
+    "jmcs://jd-contents/TeDominar/TeDominar_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TeDominar/TeDominar_MapPreviewNoSoundCrop_ULTRA.vp9.webm/2561ec0b149d4326502dadea1af9bde4.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a0ef51bf957eb886ed14c0d46aa6c63a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TeDominar/ps4/TeDominar_MAIN_SCENE_ORBIS.zip/a0ef51bf957eb886ed14c0d46aa6c63a.zip",
+      "version": 15
+    },
+    "pc": {
+      "md5": "9fdf9fa671b52db299f36b0f80cde41f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TeDominar/pc/TeDominar_MAIN_SCENE_PC.zip/9fdf9fa671b52db299f36b0f80cde41f.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "6c33edf0ce1e585e967d104e38cbd611",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TeDominar/wiiu/TeDominar_MAIN_SCENE_WIIU.zip/6c33edf0ce1e585e967d104e38cbd611.zip",
+      "version": 13
+    },
+    "nx": {
+      "md5": "f3538dc2711aa46a8b99d8276e880001",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TeDominar/nx/TeDominar_MAIN_SCENE_NX.zip/f3538dc2711aa46a8b99d8276e880001.zip",
+      "version": 7
+    }
+  },
+  "mapType": "jdu"
+}

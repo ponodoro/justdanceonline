@@ -1,0 +1,124 @@
+{
+  "artist": "Wanko Ni Mero Mero",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/ps4/SayonaraRetake_banner_bkg.tga.ckd/96dbbf408d8c5036a41caa7ab9460fa1.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/ps4/SayonaraRetake_Coach_1.tga.ckd/27870e282c6230c46f7a9e9467b54d10.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/ps4/SayonaraRetake_Cover_Generic.tga.ckd/0bd3de8fe2c84031b48c9e5438e0fe51.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_Cover_1024.png/2dc27af5c111fe9cfc64e85dede1c09c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/ps4/SayonaraRetake_Cover_Online.tga.ckd/ae562e1e7337038166ef3dd3df3ff925.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/ps4/SayonaraRetake_Cover_AlbumBkg.tga.ckd/12b7b67004bc1e240dab4b272e2458a7.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/ps4/SayonaraRetake_Cover_AlbumCoach.tga.ckd/667d6b5d50ac3ab3acde72fef99a6b6d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_Coach_1_Phone.png/92ea4d5aea62e27f061e91dd19fc4015.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_Cover_Phone.jpg/3b4d11a8350e18a5929694099a549eb9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_VideoPreview.webm/46c6a9cd81794f1578b323e5f61a187a.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/ps4/SayonaraRetake_map_bkg.tga.ckd/0d3ffa47898b79720bc0507f3d2d58d3.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/nx/SayonaraRetake_banner_bkg.tga.ckd/d7de7705b0f76743f0751d42fa829b40.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/nx/SayonaraRetake_Coach_1.tga.ckd/1840662cab4047593faad47816a9df9d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/nx/SayonaraRetake_Cover_Generic.tga.ckd/48b2feaf469e5ed8c12d737799e224dc.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_Cover_1024.png/2dc27af5c111fe9cfc64e85dede1c09c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/nx/SayonaraRetake_Cover_Online.tga.ckd/ab5cf5ebbdde49202a89c6d7b3f06be5.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/nx/SayonaraRetake_Cover_AlbumBkg.tga.ckd/302ffd880af54f2f1157c7d8ab1810e9.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/nx/SayonaraRetake_Cover_AlbumCoach.tga.ckd/f40a1bd4268fcdf1580c7dc5e2adb2c5.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_Coach_1_Phone.png/92ea4d5aea62e27f061e91dd19fc4015.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_Cover_Phone.jpg/3b4d11a8350e18a5929694099a549eb9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_VideoPreview.webm/46c6a9cd81794f1578b323e5f61a187a.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/nx/SayonaraRetake_map_bkg.tga.ckd/788747b7831543f6475e648b76c52da7.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/wiiu/SayonaraRetake_banner_bkg.tga.ckd/50be96d7c1e0be7238e53d8576095dbb.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/wiiu/SayonaraRetake_Coach_1.tga.ckd/3f66574cadbc9942406a99fb6a4a263c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/wiiu/SayonaraRetake_Cover_Generic.tga.ckd/7b9f08232dc71f5650b8464fc364e821.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_Cover_1024.png/2dc27af5c111fe9cfc64e85dede1c09c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/wiiu/SayonaraRetake_Cover_Online.tga.ckd/be8ca4cc418b7ae3c5c6a22c625defa1.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/wiiu/SayonaraRetake_Cover_AlbumBkg.tga.ckd/569585ce0efd906dcb049b574cdcfd25.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/wiiu/SayonaraRetake_Cover_AlbumCoach.tga.ckd/9e36c3b8dee87d096960cfb0e237998f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_Coach_1_Phone.png/92ea4d5aea62e27f061e91dd19fc4015.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_Cover_Phone.jpg/3b4d11a8350e18a5929694099a549eb9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_VideoPreview.webm/46c6a9cd81794f1578b323e5f61a187a.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,13056,26160,39264,52320,65424,78527,91631,104687,117791,130895,143999,157055,170159,183263,196319,209423,222527,235631,248687,261791,274895,287999,301055,314159,327263,340319,353423,366527,379631,392687,405791,418895,431999,445055,458159,471263,484319,497423,510527,523631,536687,549790,562894,575998,589054,602158,615262,628318,641422,654526,667630,680686,693790,706894,719998,733054,746158,759262,772318,785422,798526,811630,824686,837790,850894,863998,877054,890158,903262,916318,929422,942526,955630,968686,981790,994894,1007998,1021053,1034157,1047261,1060317,1073421,1086525,1099629,1112685,1125789,1138893,1151997,1165053,1178157,1191261,1204317,1217421,1230525,1243629,1256685,1269789,1282893,1295997,1309053,1322157,1335261,1348317,1361421,1374525,1387629,1400685,1413789,1426893,1439997],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-34,\"endBeat\":610,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":609,\"useFadeEndBeat\":true,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":110,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/sayonararetake/sayonararetake_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Lyrics by Reni Mimura and Tom Salta. Music by: Tom Salta and Klayton. Published by Ubisoft Music Publishing. Produced and mixed by Tom Salta and Klayton. Music Supervision – Manu Bachet. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFAB10FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 175.637,
+  "mapName": "SayonaraRetake",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497935\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1487162\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2929159\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3591986\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "SayonaraRetake_mapContent"
+  },
+  "parentMapName": "SayonaraRetake",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "602C8DFF",
+    "songColor_1B": "1D0033FF",
+    "songColor_2A": "FF4A67FF",
+    "songColor_2B": "973880FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "SWEAT",
+    "subscribedSong",
+    "CnUnlimited2018"
+  ],
+  "title": "Sayonara",
+  "urls": {
+    "jmcs://jd-contents/SayonaraRetake/SayonaraRetake_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_AudioPreview.ogg/58f3b060d1a02aeaa058bc8f74c2b146.ogg",
+    "jmcs://jd-contents/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_HIGH.vp8.webm/9692b7a0d50578b01c475dec59c685da.webm",
+    "jmcs://jd-contents/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_HIGH.vp9.webm/1cb378c4cca1bf3638eeafaa75158d42.webm",
+    "jmcs://jd-contents/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_LOW.vp8.webm/e2f31126f8eb297b2fae643b4ccefb9c.webm",
+    "jmcs://jd-contents/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_LOW.vp9.webm/d50e35463c6c51d58a8c723507b79a71.webm",
+    "jmcs://jd-contents/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_MID.vp8.webm/9b035db44b743253820ca12b22d23ff4.webm",
+    "jmcs://jd-contents/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_MID.vp9.webm/2f586da305e6217f0bf82ebff8c6d59b.webm",
+    "jmcs://jd-contents/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_ULTRA.vp8.webm/0c3debe9a07afbaa6a5d7b4c16d19fe8.webm",
+    "jmcs://jd-contents/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/SayonaraRetake_MapPreviewNoSoundCrop_ULTRA.vp9.webm/33d46c9ef2de92769008a7a499dbe3ed.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "41270c12ae58f6bcadfe22da61227853",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/ps4/SayonaraRetake_MAIN_SCENE_ORBIS.zip/41270c12ae58f6bcadfe22da61227853.zip",
+      "version": 4
+    },
+    "nx": {
+      "md5": "41486b050309809585d7503a68958c9a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/nx/SayonaraRetake_MAIN_SCENE_NX.zip/41486b050309809585d7503a68958c9a.zip",
+      "version": 4
+    },
+    "pc": {
+      "md5": "e0f74c26d62cde243c6180e2115e562c",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/SayonaraRetake/pc/e0f74c26d62cde243c6180e2115e562c.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "8e8fa1ca75e4a5be5f3884724a31f3c2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SayonaraRetake/wiiu/SayonaraRetake_MAIN_SCENE_WIIU.zip/8e8fa1ca75e4a5be5f3884724a31f3c2.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

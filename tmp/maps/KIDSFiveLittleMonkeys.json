@@ -1,0 +1,116 @@
+{
+  "artist": "The Just Dance Kids",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/ggp/KIDSFiveLittleMonkeys_banner_bkg.tga.ckd/4f3cfc61d86243de89f4e670fecf21a0.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/ggp/KIDSFiveLittleMonkeys_Coach_1.tga.ckd/89613f687fb5ed0f38b17b4f4b200dbd.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/ggp/KIDSFiveLittleMonkeys_Cover_Generic.tga.ckd/7ec594c8a581ba69581e9b17baf7b1e9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_Cover_1024.png/b0840018cbd3283916659247a1cff303.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/ggp/KIDSFiveLittleMonkeys_Cover_Online.tga.ckd/7ec594c8a581ba69581e9b17baf7b1e9.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/ggp/KIDSFiveLittleMonkeys_Cover_AlbumBkg.tga.ckd/a8cdce6fbd8cfaee4bdc39c720f75ff0.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/ggp/KIDSFiveLittleMonkeys_Cover_AlbumCoach.tga.ckd/722970ef03f6a9700af41191203e64d2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_Coach_1_Phone.png/124f97da02b3a91d72d02bdfb272e9fc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_Cover_Phone.jpg/10d88056b8ec7c7aa074f867ac5aa864.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_VideoPreview.webm/bd36dba8a1746ea013717a9e0ba9c810.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/ggp/KIDSFiveLittleMonkeys_map_bkg.tga.ckd/36324b891caa82424a93adba820ce4b1.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/nx/KIDSFiveLittleMonkeys_banner_bkg.tga.ckd/304d19ea76a3079ee24f094d2287d907.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/nx/KIDSFiveLittleMonkeys_Coach_1.tga.ckd/a3ca52cdc791c49d6f4b4d0aef216dcd.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/nx/KIDSFiveLittleMonkeys_Cover_Generic.tga.ckd/749ebd41e002cb7fa48168428004070b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_Cover_1024.png/b0840018cbd3283916659247a1cff303.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/nx/KIDSFiveLittleMonkeys_Cover_Online.tga.ckd/749ebd41e002cb7fa48168428004070b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/nx/KIDSFiveLittleMonkeys_Cover_AlbumBkg.tga.ckd/51e9b97cea6587a4e5a5018ef203a192.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/nx/KIDSFiveLittleMonkeys_Cover_AlbumCoach.tga.ckd/81558181f5b744f3d412b7a719aac4ce.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/nx/KIDSFiveLittleMonkeys_map_bkg.tga.ckd/216615d5e6fa64e03b694a3a1d80f453.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_Coach_1_Phone.png/124f97da02b3a91d72d02bdfb272e9fc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_Cover_Phone.jpg/10d88056b8ec7c7aa074f867ac5aa864.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_VideoPreview.webm/bd36dba8a1746ea013717a9e0ba9c810.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/wiiu/KIDSFiveLittleMonkeys_banner_bkg.tga.ckd/5b243a4a6d4ed79b02a48153183d2284.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/wiiu/KIDSFiveLittleMonkeys_Coach_1.tga.ckd/e31d4bd04a21f3ce90254637e7bf159a.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/wiiu/KIDSFiveLittleMonkeys_Cover_Generic.tga.ckd/5eb9b1ca4e33a86c8dc30f9ddc4ac32d.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_Cover_1024.png/b0b8ed8f4329909953cd74f553fac4ff.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/wiiu/KIDSFiveLittleMonkeys_Cover_Online.tga.ckd/5eb9b1ca4e33a86c8dc30f9ddc4ac32d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/wiiu/KIDSFiveLittleMonkeys_Cover_AlbumBkg.tga.ckd/32332ef00b9758b98a5292e4a2694388.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/wiiu/KIDSFiveLittleMonkeys_Cover_AlbumCoach.tga.ckd/944ef20a7198a1b6a66110d386319bd5.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_Coach_1_Phone.png/124f97da02b3a91d72d02bdfb272e9fc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_Cover_Phone.jpg/10d88056b8ec7c7aa074f867ac5aa864.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_VideoPreview.webm/bd36dba8a1746ea013717a9e0ba9c810.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22176,44352,66480,88656,110784,132960,155088,177264,199392,221568,243696,265872,288001,310177,332353,354481,376657,398785,420961,443089,465265,487393,509569,531697,553873,576001,598177,620353,642481,664657,686786,708962,731090,753266,775394,797570,819698,841874,864002,886178,908354,930482,952658,974786,996962,1019090,1041266,1063394,1085570,1107699,1129875,1152003,1174179,1196355,1218483,1240659,1262787,1284963,1307091,1329267,1351395,1373571,1395699,1417875],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":275,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/kidsfivelittlemonkeys/kidsfivelittlemonkeys_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0F0FFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 126.96,
+  "mapName": "KIDSFiveLittleMonkeys",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"491682\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"658-1147\">\r\n\t\t\t\t\t<Initialization range=\"0-658\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1474028\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"659-1149\">\r\n\t\t\t\t\t<Initialization range=\"0-659\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2921075\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"659-1149\">\r\n\t\t\t\t\t<Initialization range=\"0-659\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4320714\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"659-1149\">\r\n\t\t\t\t\t<Initialization range=\"0-659\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 123,
+  "packages": {
+    "mapContent": "KIDSFiveLittleMonkeys_mapContent"
+  },
+  "parentMapName": "KIDSFiveLittleMonkeys",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FFC600FF",
+    "songColor_1B": "FF8400FF",
+    "songColor_2A": "86FF5FFF",
+    "songColor_2B": "49C36AFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Five Little Monkeys",
+  "urls": {
+    "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_AudioPreview.ogg/2d2bd141ea5058060a7df925e04d6dcf.ogg",
+    "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_HIGH.vp8.webm/2f685a6c8232c7f502acc82ccc647dd2.webm",
+    "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_HIGH.vp9.webm/c65c9b4524f3da3c222eb0a5f0dab929.webm",
+    "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_LOW.vp8.webm/7d1d61f94d49a89b13f3f314a27489e2.webm",
+    "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_LOW.vp9.webm/a537a8cb47a3980345b83e42a55ac987.webm",
+    "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_MID.vp8.webm/6d5e09c33fcba74c8d2ca9738ad0c2ad.webm",
+    "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_MID.vp9.webm/1891b78d869c4ea479b4992ae90ce7fb.webm",
+    "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_ULTRA.vp8.webm/549ecfd5f9bd10b931cc45f03bbafd3a.webm",
+    "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MapPreviewNoSoundCrop_ULTRA.vp9.webm/9083bbada0294f3a3020e1a5ea589060.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "0b4967a56504397a2b8ee8fd02051943",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/ps4/KIDSFiveLittleMonkeys_MAIN_SCENE_ORBIS.zip/0b4967a56504397a2b8ee8fd02051943.zip",
+      "version": 23
+    },
+    "pc": {
+      "md5": "65f7846c2015b16e0a5c01690f559a41",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/pc/KIDSFiveLittleMonkeys_MAIN_SCENE_PC.zip/65f7846c2015b16e0a5c01690f559a41.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "ebb81f3b18abed4cb70c4079f0a06325",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/wiiu/KIDSFiveLittleMonkeys_MAIN_SCENE_WIIU.zip/ebb81f3b18abed4cb70c4079f0a06325.zip",
+      "version": 19
+    },
+    "nx": {
+      "md5": "9249a4ec628986203381a831fd37426e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSFiveLittleMonkeys/nx/KIDSFiveLittleMonkeys_MAIN_SCENE_NX.zip/9249a4ec628986203381a831fd37426e.zip",
+      "version": 10
+    }
+  },
+  "mapType": "jdu"
+}

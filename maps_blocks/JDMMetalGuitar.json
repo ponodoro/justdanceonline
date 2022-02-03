@@ -1,0 +1,38 @@
+{
+  "__class": "OnlineBlock",
+  "artist": "JDMMetalGuitar Artist",
+  "assets": {
+    "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMetalGuitar/pc/JDMMetalGuitar_Cover_Generic.tga.ckd/d5a110de80f9a7c95909426bee62ba4d.ckd",
+    "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMetalGuitar/pc/JDMMetalGuitar_Cover_Online.tga.ckd/312ad43de78a59d2ef8e326728e86e90.ckd"
+  },
+  "coachCount": 1,
+  "credits": "CREDITS STRING TO BE FILLED",
+  "customTypeNameId": -1,
+  "difficulty": 2,
+  "jdmAttributes": [
+    "JDM_Speed"
+  ],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 21.686999999999998,
+  "mapName": "JDMMetalGuitar",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "JDMMetalGuitar_mapContent"
+  },
+  "parentMapName": "JDMMetalGuitar",
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 3,
+  "tags": [
+    "DanceMachine"
+  ],
+  "title": "JDMMetalGuitar",
+  "isPlayable": false
+}

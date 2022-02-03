@@ -1,0 +1,120 @@
+{
+  "artist": "Nick Phoenix and Thomas Bergersen",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_banner_bkg.jpg/4942d9e03792149fd5a5cae257240d8d.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Coach_1.png/22f918be36026d317cd5e93c6dc98c51.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Coach_2.png/a69b05c7fb86534cd97c798866d6f33e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Cover_Generic.jpg/7fbe1591844f05a7d42f2a6e07292212.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Cover_1024.png/7659d67d1c456526b5fb1664ea43e4b1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Cover_Online.jpg/05230de85b91fe7ff6951dee89504b72.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Cover_AlbumBkg.jpg/05049d4e3b9113ca4e2753dcefbcd02c.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Cover_AlbumCoach.png/a44635b47d09995cf1b7c9384f3d4b9c.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Coach_1_Phone.png/f0294b28246711c82044718647927c4e.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Coach_2_Phone.png/79f4c3ed9a118416878895af5ed6f5a9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Cover_Phone.jpg/05230de85b91fe7ff6951dee89504b72.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_VideoPreview.webm/c8900464ea02d1d8c908bee874fe241d.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_banner_bkg.jpg/4942d9e03792149fd5a5cae257240d8d.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Coach_1.png/22f918be36026d317cd5e93c6dc98c51.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Coach_2.png/a69b05c7fb86534cd97c798866d6f33e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Cover_Generic.jpg/7fbe1591844f05a7d42f2a6e07292212.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Cover_1024.png/7659d67d1c456526b5fb1664ea43e4b1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Cover_Online.jpg/05230de85b91fe7ff6951dee89504b72.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Cover_AlbumBkg.jpg/05049d4e3b9113ca4e2753dcefbcd02c.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Cover_AlbumCoach.png/a44635b47d09995cf1b7c9384f3d4b9c.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Coach_1_Phone.png/f0294b28246711c82044718647927c4e.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Coach_2_Phone.png/79f4c3ed9a118416878895af5ed6f5a9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Cover_Phone.jpg/05230de85b91fe7ff6951dee89504b72.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_VideoPreview.webm/c8900464ea02d1d8c908bee874fe241d.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/wiiu/ProfesseurDLC_banner_bkg.tga.ckd/bc4bce242eb108dab975e109cc20603b.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/wiiu/ProfesseurDLC_Coach_1.tga.ckd/0a77110c659ac533146c8bb6dd811680.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/wiiu/ProfesseurDLC_Coach_2.tga.ckd/ed2d4c47bb86391a3a297cf897bd32c8.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/wiiu/ProfesseurDLC_Cover_Generic.tga.ckd/cf0b8c680953de72500fcaa936aac617.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Cover_1024.png/7659d67d1c456526b5fb1664ea43e4b1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/wiiu/ProfesseurDLC_Cover_Online.tga.ckd/cf0b8c680953de72500fcaa936aac617.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/wiiu/ProfesseurDLC_Cover_AlbumBkg.tga.ckd/08d19205f33cc927de8c6cd12e3d9f0c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/wiiu/ProfesseurDLC_Cover_AlbumCoach.tga.ckd/2210dc7ac04f5ad6740aa423efbc83e7.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Coach_1_Phone.png/f0294b28246711c82044718647927c4e.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Coach_2_Phone.png/79f4c3ed9a118416878895af5ed6f5a9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_Cover_Phone.jpg/05230de85b91fe7ff6951dee89504b72.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_VideoPreview.webm/c8900464ea02d1d8c908bee874fe241d.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21207,42812,63895,85509,106758,128102,149551,170773,191960,214332,234684,256159,277320,299396,320095,341370,362383,385504,406900,426973,448300,470184,490658,512280,533503,554860,576193,597370,618845,640124,662195,682860,704013,726228,746631,768132,789390,810786,832182,853579,873617,892362,914978,936374,957771,979167,1000563,1021960,1043356,1064753,1086149,1107546,1128942,1150883,1172279,1193676,1215072,1236469,1257865,1279262,1300658,1324301,1343347,1365265,1387226,1409887,1429533],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":353,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":67,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/professeurdlc/professeurdlc_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 157.40699999999998,
+  "mapName": "ProfesseurDLC",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497058\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"642-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-642\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478184\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2727812\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2747702\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "ProfesseurDLC_mapContent"
+  },
+  "parentMapName": "ProfesseurDLC",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "002F7FFF",
+    "songColor_1B": "04001BFF",
+    "songColor_2A": "C7311AFF",
+    "songColor_2B": "20003BFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Professor Pumplestickle",
+  "urls": {
+    "jmcs://jd-contents/ProfesseurDLC/ProfesseurDLC_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_AudioPreview.ogg/03108f77b6b5da90b68086643b95f67c.ogg",
+    "jmcs://jd-contents/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm/ad7b9eb359a10b813f8e8ddd66b507d8.webm",
+    "jmcs://jd-contents/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm/91e28de29a0b5169795b64c426c0e295.webm",
+    "jmcs://jd-contents/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/ab2ff45e3e48fdcda4ee9b0d6ac39eb0.webm",
+    "jmcs://jd-contents/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_LOW.vp9.webm/748072a6e93970be6aba79c18be9ca6d.webm",
+    "jmcs://jd-contents/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_MID.vp8.webm/a906d08b0d221671cb2c1af46be13f9d.webm",
+    "jmcs://jd-contents/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_MID.vp9.webm/6ee8b5d7e766a7c5922dc52676d520a2.webm",
+    "jmcs://jd-contents/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm/6f28d4f66fa6845ebd4bfd725f3b61f8.webm",
+    "jmcs://jd-contents/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ProfesseurDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm/25a7e7866cc21181037a0977464a027f.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "db7eaee7dea04d0e9a7fd4446fe263a6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/ps4/ProfesseurDLC_MAIN_SCENE_ORBIS.zip/db7eaee7dea04d0e9a7fd4446fe263a6.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "b82e4a35942daadc1bed3c57833dd2c1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/pc/ProfesseurDLC_MAIN_SCENE_PC.zip/b82e4a35942daadc1bed3c57833dd2c1.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "3f02a707f3ea3da5bd214ca265985735",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/wiiu/ProfesseurDLC_MAIN_SCENE_WIIU.zip/3f02a707f3ea3da5bd214ca265985735.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "536eb63b89eb4e404244760429a1bab0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/nx/ProfesseurDLC_MAIN_SCENE_NX.zip/536eb63b89eb4e404244760429a1bab0.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

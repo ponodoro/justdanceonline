@@ -1,0 +1,32 @@
+{
+    "__class": "OnlineBossDb",
+    "bosses": {
+        "ArcherOfLove": {
+            "__class": "OnlineBoss",
+            "bossId": "ArcherOfLove",
+            "logo": "https://jd-s3.akamaized.net/public/wdf-bosses/ArcherOfLove/nx/logo.png/180863c7c26934f902e01b049af96f5c.png",
+            "newsFeedPictureUrl": "https://jd-s3.akamaized.net/public/wdf-bosses/ArcherOfLove/nx/ArcherOfLove.png/54d10b1d60e6216b027c859dd301adf7.png",
+            "packages": {
+                "bossContent": "ArcherOfLove_bossContent"
+            }
+        },
+        "TheLovelyGift": {
+            "__class": "OnlineBoss",
+            "bossId": "TheLovelyGift",
+            "logo": "https://jd-s3.akamaized.net/public/wdf-bosses/TheLovelyGift/nx/logo.png/45da7b3cd7599c8836986bc07f0c4f7a.png",
+            "newsFeedPictureUrl": "https://jd-s3.akamaized.net/public/wdf-bosses/TheLovelyGift/nx/TheLovelyGift.png/d159cc99843b1a5cddbfe6b27d9bf63a.png",
+            "packages": {
+                "bossContent": "TheLovelyGift_bossContent"
+            }
+        },
+        "TheRedQueen": {
+            "__class": "OnlineBoss",
+            "bossId": "TheRedQueen",
+            "logo": "https://jd-s3.akamaized.net/public/wdf-bosses/TheRedQueen/nx/logo.png/aa3566c16809b2be9e18604903ebb9fb.png",
+            "newsFeedPictureUrl": "https://jd-s3.akamaized.net/public/wdf-bosses/TheRedQueen/nx/TheRedQueen.png/69bead63709ce11cf310846a47f7f04c.png",
+            "packages": {
+                "bossContent": "TheRedQueen_bossContent"
+            }
+        }
+    }
+}

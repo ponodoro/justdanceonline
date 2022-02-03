@@ -1,0 +1,115 @@
+{
+  "artist": "PSY",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_banner_bkg.jpg/20c7502adb63f808f9e273b8c6f34334.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Coach_1.png/045b689d99762228108c4e0209ebfb7e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Cover_Generic.jpg/17aa2eadd886ecf126ba84b5bfbe3e60.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Cover_1024.png/7057c529c48b011d8f00810165930155.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Cover_Online.jpg/61814d15e3706d66211c647449362bc7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Cover_AlbumBkg.jpg/fd7335665a8cf55ab730a8014ee1a298.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Cover_AlbumCoach.png/177e80b07a54c912e0a225eb805a9d08.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Coach_1_Phone.png/c00de91af984715714dacba9cc89474d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Cover_Phone.jpg/61814d15e3706d66211c647449362bc7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_VideoPreview.webm/cb5480d7b46308bde4eac6aa23953b07.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_banner_bkg.jpg/20c7502adb63f808f9e273b8c6f34334.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Coach_1.png/045b689d99762228108c4e0209ebfb7e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Cover_Generic.jpg/17aa2eadd886ecf126ba84b5bfbe3e60.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Cover_1024.png/7057c529c48b011d8f00810165930155.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Cover_Online.jpg/61814d15e3706d66211c647449362bc7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Cover_AlbumBkg.jpg/fd7335665a8cf55ab730a8014ee1a298.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Cover_AlbumCoach.png/177e80b07a54c912e0a225eb805a9d08.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Coach_1_Phone.png/c00de91af984715714dacba9cc89474d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Cover_Phone.jpg/61814d15e3706d66211c647449362bc7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_VideoPreview.webm/cb5480d7b46308bde4eac6aa23953b07.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/wiiu/GentlemanSWT_banner_bkg.tga.ckd/8245c2c720cb9123b2885ab060cbf3be.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/wiiu/GentlemanSWT_Coach_1.tga.ckd/b676ae5390df80ff0494617c679d4f88.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/wiiu/GentlemanSWT_Cover_Generic.tga.ckd/82690b0bf64f0e775497fe8e2d9deb53.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Cover_1024.png/7057c529c48b011d8f00810165930155.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/wiiu/GentlemanSWT_Cover_Online.tga.ckd/26ea6b6c6ebc955891c59230dabbe644.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/wiiu/GentlemanSWT_Cover_AlbumBkg.tga.ckd/c8018ef470d2a336823b0a5401b61ef7.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/wiiu/GentlemanSWT_Cover_AlbumCoach.tga.ckd/c1d97d03b8fd35a4ed82fb67f0be3b5f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Coach_1_Phone.png/c00de91af984715714dacba9cc89474d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_Cover_Phone.jpg/61814d15e3706d66211c647449362bc7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_VideoPreview.webm/cb5480d7b46308bde4eac6aa23953b07.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22848,45696,68544,91392,114240,137136,159984,182832,205680,228528,251424,274272,297120,319968,342816,365712,388560,411408,434256,457104,480000,502848,525697,548545,571393,594241,617137,639985,662833,685681,708529,731425,754273,777121,799969,822817,845713,868561,891409,914257,937105,960001,982849,1005697,1028545,1051393,1074241,1097137,1119986,1142834,1165682,1188530,1211426,1234274,1257122,1279970,1302818,1325714,1348562,1371410,1394258,1417106],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":411,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/gentlemanswt/gentlemanswt_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "CC00CCFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 195.714,
+  "mapName": "GentlemanSWT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495038\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1309431\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1468792\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1469267\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "GentlemanSWT_mapContent"
+  },
+  "parentMapName": "GentlemanSWT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "AF02E3FF",
+    "songColor_1B": "3A0048FF",
+    "songColor_2A": "E19500FF",
+    "songColor_2B": "3A0048FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Gentleman",
+  "urls": {
+    "jmcs://jd-contents/GentlemanSWT/GentlemanSWT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_AudioPreview.ogg/2cf8f6758af84d732b4cd14adc65b4d5.ogg",
+    "jmcs://jd-contents/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_HIGH.vp8.webm/681e81c2b327db787dd6c10ad177aef4.webm",
+    "jmcs://jd-contents/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_HIGH.vp9.webm/5692b2eefc9769337611c8073bfab952.webm",
+    "jmcs://jd-contents/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_LOW.vp8.webm/d8f267ea9366dcd3ee2c076bc72c5c5a.webm",
+    "jmcs://jd-contents/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_LOW.vp9.webm/2500f36c551052eea0f78ec071d35b37.webm",
+    "jmcs://jd-contents/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_MID.vp8.webm/dce8e30530d514d42dafde2b6b503750.webm",
+    "jmcs://jd-contents/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_MID.vp9.webm/6b2bd8966ac624b8732e8661a917df94.webm",
+    "jmcs://jd-contents/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/66fe2630ae4eaf7b191e490ca4291751.webm",
+    "jmcs://jd-contents/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/GentlemanSWT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/dc32cd13c7120d164eb30ad6aabbbd72.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "2f7927e0ccdd3d70ecfb3e1aade1587b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/ps4/GentlemanSWT_MAIN_SCENE_ORBIS.zip/2f7927e0ccdd3d70ecfb3e1aade1587b.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "4e01d0d2a69ec194afbbe8591f6a077b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/pc/GentlemanSWT_MAIN_SCENE_PC.zip/4e01d0d2a69ec194afbbe8591f6a077b.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "c155b91d91129c46c13f841d872e25e0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/wiiu/GentlemanSWT_MAIN_SCENE_WIIU.zip/c155b91d91129c46c13f841d872e25e0.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "fafad89ec129b517b4ee3e80a5140e99",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GentlemanSWT/nx/GentlemanSWT_MAIN_SCENE_NX.zip/fafad89ec129b517b4ee3e80a5140e99.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12923
+}

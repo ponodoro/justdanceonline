@@ -1,0 +1,113 @@
+{
+  "artist": "Lil Nas X Ft. Billy Ray Cyrus",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/ps4/OldTownRoadALT_banner_bkg.tga.ckd/987603e6f21d6f4cb4d02c0352ac927e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/ps4/OldTownRoadALT_Coach_1.tga.ckd/d6b9db4dd17c4b3af3b578a65738dac3.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/ps4/OldTownRoadALT_Coach_2.tga.ckd/505efb40e0d8725aac36ccb7865ecb5e.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/ps4/OldTownRoadALT_Coach_3.tga.ckd/2badea0405cb613b68565770feaeff32.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/ps4/OldTownRoadALT_Cover_Generic.tga.ckd/0f8c0ccc60b90bbfa49af6318fb55c4e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_Cover_1024.png/2cd08cd5f53ba55f4eb2250e1bc63ac1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/ps4/OldTownRoadALT_Cover_Online.tga.ckd/984ebcc6b75dc10e7fd88690d9d67637.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/ps4/OldTownRoadALT_Cover_AlbumBkg.tga.ckd/79531a3d9d1f3a8dc716102f23c31539.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/ps4/OldTownRoadALT_Cover_AlbumCoach.tga.ckd/debc389819114928cbcb1d355f7ed5a1.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_Coach_1_Phone.png/9d6f429803bb130c1fc0de37d4b25a09.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_Coach_2_Phone.png/38738aee01dc2fe91acc2b1e4c8b04cd.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_Coach_3_Phone.png/de3c960965afff370519c2097a386328.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_Cover_Phone.jpg/995faab8771845b253d34e1486f0304e.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/ps4/OldTownRoadALT_map_bkg.tga.ckd/153f67b58d09654a9d7bd372781c73c8.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/nx/OldTownRoadALT_banner_bkg.tga.ckd/450ecc6bd604fa132fa9ce399f3f63e1.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/nx/OldTownRoadALT_Coach_1.tga.ckd/15d6034866ae966c35418a8fb743752d.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/nx/OldTownRoadALT_Coach_2.tga.ckd/b6ca816cd315bed8b83e090a3ca9d458.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/nx/OldTownRoadALT_Coach_3.tga.ckd/9f84ec18afe96165e12cfb937b945c9a.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/nx/OldTownRoadALT_Cover_Generic.tga.ckd/1246e134e70687a83b01323bcd9d49f6.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_Cover_1024.png/2cd08cd5f53ba55f4eb2250e1bc63ac1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/nx/OldTownRoadALT_Cover_Online.tga.ckd/829485384304c44b94ae3384df35a60c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/nx/OldTownRoadALT_Cover_AlbumBkg.tga.ckd/ab5aee008143436653fdc55da5534108.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/nx/OldTownRoadALT_Cover_AlbumCoach.tga.ckd/411f96274579c039a3573ffee6cd299b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_Coach_1_Phone.png/9d6f429803bb130c1fc0de37d4b25a09.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_Coach_2_Phone.png/38738aee01dc2fe91acc2b1e4c8b04cd.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_Coach_3_Phone.png/de3c960965afff370519c2097a386328.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_Cover_Phone.jpg/995faab8771845b253d34e1486f0304e.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/nx/OldTownRoadALT_map_bkg.tga.ckd/3e06134c1c335aa1798b67a1e45df5e3.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21176,42353,63529,84706,105882,127059,148235,169412,190588,211765,232941,254118,275294,296471,317647,338823,360000,381176,402353,423529,444706,465882,487059,508235,529412,550588,571765,592941,614118,635294,656471,677647,698823,720000,741176,762353,783529,804706,825882,847059,868235,889412,910588,931765,952941,974118,995294,1016471,1037647,1058823,1080000,1101176,1122353,1143529,1164706,1185882,1207059,1228235,1249412,1270588,1291765,1312941,1334118,1355294,1376471,1397647,1418823],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4},{\"__class\":\"MusicSignature\",\"marker\":1,\"beats\":2},{\"__class\":\"MusicSignature\",\"marker\":3,\"beats\":4}],\"startBeat\":-8,\"endBeat\":356,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":67,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/oldtownroadalt/oldtownroadalt_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Atticus Ross, Billy Cyrus, Jocelyn Donald, Trent Reznor, Montero Lamar Hill and Kiowa Roukema. Published by Kobalt Music Services America obo Songs By MPA. Sunnageronimo Publishing Inc. / Form and Textures, Inc. / Universal Music Publishing Canada on behalf of Songs Of Universal, Inc. / Sony/ATV Songs LLC (BMI). All rights reserved. Used with permission. Courtesy of Columbia Records. By arrangement with Sony Music Entertainment. / Contains a sample of “Ghost 34”, by Nine Inch Nails, under license from Null Corporation. All rights reserved.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "2999D6FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 160.589,
+  "mapName": "OldTownRoadALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496821\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478727\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2613194\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2624036\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "OldTownRoadALT_mapContent"
+  },
+  "parentMapName": "OldTownRoad",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "520098FF",
+    "songColor_1B": "000320FF",
+    "songColor_2A": "FF9601FF",
+    "songColor_2B": "03001DFF"
+  },
+  "status": 12,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Alternate",
+    "subscribedSong"
+  ],
+  "title": "Old Town Road (Remix)",
+  "urls": {
+    "jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_AudioPreview.ogg/565f6f3600101992435bb7d58508758e.ogg",
+    "jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/cdb9fa79993cd8f28ef8ed10c85a9fe6.webm",
+    "jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/c2b0005dceef0daf2e0cd5352b3789a4.webm",
+    "jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_LOW.vp8.webm/99248b7acad53472b33cf1b166db8c7f.webm",
+    "jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_LOW.vp9.webm/e1b0f01bedc8974ef7a89f61333c9769.webm",
+    "jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_MID.vp8.webm/581f0e02b1abc4ee5c7b9eca028557e3.webm",
+    "jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_MID.vp9.webm/af7227e573025544169fae41262661eb.webm",
+    "jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/2b7dcfeafd146bd203ac983436249cab.webm",
+    "jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/OldTownRoadALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/b160734bb8da6cefc1ad119119674c67.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "4c0f816b7461aa1387c406e0f6f6672a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/ps4/OldTownRoadALT_MAIN_SCENE_ORBIS.zip/4c0f816b7461aa1387c406e0f6f6672a.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "930895d60646746a8724ea3a920dfacf",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/OldTownRoadALT/nx/OldTownRoadALT_MAIN_SCENE_NX.zip/930895d60646746a8724ea3a920dfacf.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "af02c46d29b8ad6becacc538234f21ed",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/OldTownRoadALT/pc/af02c46d29b8ad6becacc538234f21ed.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 20000882
+}

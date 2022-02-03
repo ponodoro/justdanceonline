@@ -1,0 +1,114 @@
+{
+  "artist": "Meghan Trainor",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_banner_bkg.jpg/f362392375bd2b33db022146f37648a5.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Coach_1.png/ceceddf5d83697f56cd3e880d4611491.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Cover_Generic.jpg/1466636cecf895664caeec2af5d6764a.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Cover_1024.png/7ac770b2e548f4dfc306b6188e26d9a6.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Cover_Online.jpg/968d4b914389ff7d7aaee7b45a2ce3b9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Cover_AlbumBkg.jpg/e5fecbba45a74310eb1661a4e5d8612b.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Cover_AlbumCoach.png/33af96005111b92e2a045d96cc4dab7d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Coach_1_Phone.png/1b1818d386267d8aa86ff401f95c0403.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Cover_Phone.jpg/968d4b914389ff7d7aaee7b45a2ce3b9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_VideoPreview.webm/aaa4e90c6ae730ffb2d816ee1e6b7b20.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_banner_bkg.jpg/f362392375bd2b33db022146f37648a5.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Coach_1.png/ceceddf5d83697f56cd3e880d4611491.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Cover_Generic.jpg/1466636cecf895664caeec2af5d6764a.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Cover_1024.png/7ac770b2e548f4dfc306b6188e26d9a6.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Cover_Online.jpg/968d4b914389ff7d7aaee7b45a2ce3b9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Cover_AlbumBkg.jpg/e5fecbba45a74310eb1661a4e5d8612b.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Cover_AlbumCoach.png/33af96005111b92e2a045d96cc4dab7d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Coach_1_Phone.png/1b1818d386267d8aa86ff401f95c0403.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Cover_Phone.jpg/968d4b914389ff7d7aaee7b45a2ce3b9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_VideoPreview.webm/aaa4e90c6ae730ffb2d816ee1e6b7b20.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/wiiu/MeToo_banner_bkg.tga.ckd/a41351edc2a3e9bb37794190ed6f231e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/wiiu/MeToo_Coach_1.tga.ckd/72a06680a6e50273360b3ee8e7d215ee.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/wiiu/MeToo_Cover_Generic.tga.ckd/adf4982d4f083436f5b618326165eed9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Cover_1024.png/7ac770b2e548f4dfc306b6188e26d9a6.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/wiiu/MeToo_Cover_Online.tga.ckd/7d50c73637b46314093e857efdd7f30b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/wiiu/MeToo_Cover_AlbumBkg.tga.ckd/23312fb5a296874f4b5e3b749c335084.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/wiiu/MeToo_Cover_AlbumCoach.tga.ckd/ff66b43216f1f49627ff6f5f6a049cbf.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Coach_1_Phone.png/1b1818d386267d8aa86ff401f95c0403.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_Cover_Phone.jpg/968d4b914389ff7d7aaee7b45a2ce3b9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_VideoPreview.webm/aaa4e90c6ae730ffb2d816ee1e6b7b20.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23280,46512,69792,93072,116304,139584,162864,186096,209376,232656,255888,279168,302448,325680,348960,372192,395472,418752,441984,465264,488544,511776,535056,558336,581568,604848,628128,651360,674640,697920,721152,744432,767712,790944,814224,837504,860736,884016,907248,930528,953808,977040,1000320,1023600,1046832,1070112,1093392,1116624,1139904,1163184,1186416,1209696,1232976,1256208,1279488,1302768,1326000,1349280,1372560,1395792,1419072],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":376,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/metoo/metoo_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "9EACFFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 183.92,
+  "mapName": "MeToo",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496674\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MeToo/MeToo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"642-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-642\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1479108\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MeToo/MeToo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2621010\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MeToo/MeToo_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2816649\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MeToo/MeToo_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "MeToo_mapContent"
+  },
+  "parentMapName": "MeToo",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FFD900FF",
+    "songColor_1B": "B95400FF",
+    "songColor_2A": "FF74E6FF",
+    "songColor_2B": "D66AF2FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Me Too",
+  "urls": {
+    "jmcs://jd-contents/MeToo/MeToo_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_AudioPreview.ogg/f23c9dc3674c94e096f920a90297f988.ogg",
+    "jmcs://jd-contents/MeToo/MeToo_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_MapPreviewNoSoundCrop_HIGH.vp8.webm/673ae283b2ee2951734b3ba40603ebf1.webm",
+    "jmcs://jd-contents/MeToo/MeToo_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_MapPreviewNoSoundCrop_HIGH.vp9.webm/749a158f105d25fedcab6c321cb96fe4.webm",
+    "jmcs://jd-contents/MeToo/MeToo_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_MapPreviewNoSoundCrop_LOW.vp8.webm/7935e850bed500e12a3a1f3e613c907e.webm",
+    "jmcs://jd-contents/MeToo/MeToo_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_MapPreviewNoSoundCrop_LOW.vp9.webm/6da0131adb711b519bce8e6bf8545a2b.webm",
+    "jmcs://jd-contents/MeToo/MeToo_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_MapPreviewNoSoundCrop_MID.vp8.webm/87d11c8cfa95fd445ad9876409b1b43c.webm",
+    "jmcs://jd-contents/MeToo/MeToo_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_MapPreviewNoSoundCrop_MID.vp9.webm/4e53fd6d051d169c9be55ff08926b3d5.webm",
+    "jmcs://jd-contents/MeToo/MeToo_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ed394fe83b8fe9e693bfb49671e437c1.webm",
+    "jmcs://jd-contents/MeToo/MeToo_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/MeToo/MeToo_MapPreviewNoSoundCrop_ULTRA.vp9.webm/18b8dcdf54facb70a4cff9d0dae53bf6.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "5cac5ffeaef795a7c0907966224ecab7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MeToo/ps4/MeToo_MAIN_SCENE_ORBIS.zip/5cac5ffeaef795a7c0907966224ecab7.zip",
+      "version": 39
+    },
+    "pc": {
+      "md5": "5e4d95b7e74bab3d7245f0e44f5d72b9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MeToo/pc/MeToo_MAIN_SCENE_PC.zip/5e4d95b7e74bab3d7245f0e44f5d72b9.zip",
+      "version": 12
+    },
+    "wiiu": {
+      "md5": "3423e21f7064a182cc52b5e14787d72b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MeToo/wiiu/MeToo_MAIN_SCENE_WIIU.zip/3423e21f7064a182cc52b5e14787d72b.zip",
+      "version": 39
+    },
+    "nx": {
+      "md5": "15a958caa1d70d9ed7dfed397584ab0a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MeToo/nx/MeToo_MAIN_SCENE_NX.zip/15a958caa1d70d9ed7dfed397584ab0a.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

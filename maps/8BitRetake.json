@@ -1,0 +1,123 @@
+{
+  "artist": "Dancing Bros.",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_banner_bkg.tga.ckd/632c94e4ad66392c869b0578ff614cc1.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Coach_1.tga.ckd/cb2c22780fe167b09ff27d67465583ea.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_Generic.tga.ckd/9b2b0fa28a89df1810b4478db31171e0.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_1024.png/fab90ea4f62fc379ac967155f11b6e48.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_Online.tga.ckd/9cf1ef6cad17dfa7ae796655e883f93f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_AlbumBkg.tga.ckd/c35181f02fd1705fbb694e17fb346c32.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_AlbumCoach.tga.ckd/a12420f36e417310a0cdd585f7871edc.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Coach_1_Phone.png/bcae1ef7c878e33a4116f53afa21a5b3.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_Phone.jpg/d1a47cbf0f03d1a733542e38f4fc5bbe.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_VideoPreview.webm/1fa882b1f1d44b336045414431b972f0.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/ps4/8BitRetake_map_bkg.tga.ckd/1480cdc70f00bcd63a08279a480f7982.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_banner_bkg.tga.ckd/3a9442c13f93c7d1e546966c26d96179.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Coach_1.tga.ckd/9ca0e400c346d6adcc3927880e977352.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_Generic.tga.ckd/332d8c5e26edb690115193683b95953e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_1024.png/fab90ea4f62fc379ac967155f11b6e48.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_Online.tga.ckd/46abafc40412ab98e03e8fe6d258a340.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_AlbumBkg.tga.ckd/530171bb926a2c0e986df733c7728573.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_AlbumCoach.tga.ckd/b4217a37c1e291094f45aa3a8d1fa382.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Coach_1_Phone.png/bcae1ef7c878e33a4116f53afa21a5b3.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_Phone.jpg/d1a47cbf0f03d1a733542e38f4fc5bbe.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_VideoPreview.webm/1fa882b1f1d44b336045414431b972f0.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/nx/8BitRetake_map_bkg.tga.ckd/4a82179fe7e435ef88b7446a13c28455.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_banner_bkg.tga.ckd/15e0e0053bac48f88b1d54e1dc782c69.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Coach_1.tga.ckd/b42b81e79d42f7fde3c75c358a594469.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_Generic.tga.ckd/afbabca20c36d5a37aba4b2c6066f406.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_1024.png/fab90ea4f62fc379ac967155f11b6e48.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_Online.tga.ckd/83ca00eee376b2182a5b1bbb4ad17e4d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_AlbumBkg.tga.ckd/3cffa13fb97d78ad3274f5dc24e85ebe.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_AlbumCoach.tga.ckd/1259498b2abca96393872e36366b3fa1.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Coach_1_Phone.png/bcae1ef7c878e33a4116f53afa21a5b3.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_Cover_Phone.jpg/d1a47cbf0f03d1a733542e38f4fc5bbe.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_VideoPreview.webm/1fa882b1f1d44b336045414431b972f0.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20544,41136,61728,82272,102864,123408,144000,164544,185136,205728,226272,246864,267408,288000,308544,329136,349728,370272,390864,411408,432000,452544,473136,493728,514272,534864,555408,576000,596544,617136,637728,658272,677472,696672,715872,735072,754272,773472,792672,811872,831072,850272,869472,888672,907872,927072,946272,965472,984672,1003872,1023072,1042272,1061472,1080672,1099872,1119072,1138272,1157472,1176672,1195872,1215072,1234272,1253472,1272672,1290672,1308672,1326672,1344672,1362672,1380672,1398672,1416672,1434672],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":309,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":73,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/8bitretake/8bitretake_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Produced, Performed, Engineered and Mixed by Steve Ouimette. Published by Ubisoft Music Publishing. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 158.45,
+  "mapName": "8BitRetake",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496210\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"627-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-627\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1473119\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2582922\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2607502\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "8BitRetake_mapContent"
+  },
+  "parentMapName": "8BitRetake",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "E60000FF",
+    "songColor_1B": "210101FF",
+    "songColor_2A": "1AC6FEFF",
+    "songColor_2B": "094501FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2018"
+  ],
+  "title": "In The Hall Of The Pixel King",
+  "urls": {
+    "jmcs://jd-contents/8BitRetake/8BitRetake_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_AudioPreview.ogg/e5c22fe9b867287747ba440de4d424dc.ogg",
+    "jmcs://jd-contents/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_HIGH.vp8.webm/dbfc0de340d2d3a79c94c5e1b985a332.webm",
+    "jmcs://jd-contents/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_HIGH.vp9.webm/3b272233762d23787ce8b13e58deb8e2.webm",
+    "jmcs://jd-contents/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_LOW.vp8.webm/549edffa3e191e079aa5f093feb6c4a8.webm",
+    "jmcs://jd-contents/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_LOW.vp9.webm/d6baba1fd3bbdf7805756ffd13e3750b.webm",
+    "jmcs://jd-contents/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_MID.vp8.webm/c8b69b5c03ecd2cf88bc7047d3478355.webm",
+    "jmcs://jd-contents/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_MID.vp9.webm/66efbccd601476d182e9fa229ef5b032.webm",
+    "jmcs://jd-contents/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_ULTRA.vp8.webm/e34366015653261ad2f3ba2f1763e467.webm",
+    "jmcs://jd-contents/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5d2d35c002dcbd0e74c271cf8eea71cc.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "113d0bca513f9389c5ffeae4c10579b5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_MAIN_SCENE_ORBIS.zip/113d0bca513f9389c5ffeae4c10579b5.zip",
+      "version": 6
+    },
+    "nx": {
+      "md5": "a110de1cee429b704cfa5185af1ef8e9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_MAIN_SCENE_NX.zip/a110de1cee429b704cfa5185af1ef8e9.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "fdb504153d9fe5b0ce0ba756faeab225",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/8BitRetake/pc/8BitRetake_MAIN_SCENE_PC.zip/fdb504153d9fe5b0ce0ba756faeab225.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "8b6276f804eede27a730b9e16e6b836b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/8BitRetake/8BitRetake_MAIN_SCENE_WIIU.zip/8b6276f804eede27a730b9e16e6b836b.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

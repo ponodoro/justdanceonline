@@ -1,0 +1,102 @@
+{
+  "artist": "Little Big",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_banner_bkg.jpg/6ad223e0a2528c265e508f7e561f8b47.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Coach_1.png/522023319ad9a06c84cc46dbd74dc1ff.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Coach_2.png/819a8e9c0690866cff57c6f3a0f03bbf.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Coach_3.png/07fef6392df10a7a2ce3cc4c307dab04.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Coach_4.png/539f8c72b94c0f98bc5f902693daaac1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Cover_Generic.jpg/e1524a18bd2c52f506bcc97c8c2991b8.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Cover_Online.jpg/494721af236ac7da7f0eccf454e2cd9d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Cover_AlbumBkg.jpg/ee76b4b1110765a4507e06ebf5f97e71.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Cover_AlbumCoach.png/945787348b75fb02ba7e4389f718c48c.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Coach_1_Phone.png/bcd947d7d9753756b68b7d0c78813583.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Coach_2_Phone.png/a67970b1122ee78cbfc2191de89c8fa2.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Coach_3_Phone.png/7631426721e53a707204814303696061.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Coach_4_Phone.png/39e7957527d958abf1eeb3fd66042f65.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Cover_Phone.jpg/efed70bc0da6b4f7d17c10c425088320.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_banner_bkg.jpg/6ad223e0a2528c265e508f7e561f8b47.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Coach_1.png/522023319ad9a06c84cc46dbd74dc1ff.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Coach_2.png/819a8e9c0690866cff57c6f3a0f03bbf.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Coach_3.png/07fef6392df10a7a2ce3cc4c307dab04.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Coach_4.png/539f8c72b94c0f98bc5f902693daaac1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Cover_Generic.jpg/e1524a18bd2c52f506bcc97c8c2991b8.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Cover_Online.jpg/494721af236ac7da7f0eccf454e2cd9d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Cover_AlbumBkg.jpg/ee76b4b1110765a4507e06ebf5f97e71.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Cover_AlbumCoach.png/945787348b75fb02ba7e4389f718c48c.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Coach_1_Phone.png/bcd947d7d9753756b68b7d0c78813583.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Coach_2_Phone.png/a67970b1122ee78cbfc2191de89c8fa2.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Coach_3_Phone.png/7631426721e53a707204814303696061.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Coach_4_Phone.png/39e7957527d958abf1eeb3fd66042f65.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/Uno_Cover_Phone.jpg/efed70bc0da6b4f7d17c10c425088320.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20282,40564,60845,81127,101409,121690,141972,162254,182536,202817,223099,243381,263662,283944,304226,324507,344789,365071,385352,405634,425916,446198,466479,486761,507043,527324,547606,567888,588169,608451,628733,649014,669296,689578,709860,730141,750423,770705,790986,811268,831550,851831,872113,892395,912676,932958,953240,973521,993803,1014085,1034367,1054648,1074930,1095212,1115493,1135775,1156057,1176338,1196620,1216902,1237183,1257465,1277747,1298029,1318310,1338592,1358874,1379155,1399437,1419719],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":378,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":70,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/uno/uno_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Denis Tsukerman, Viktor Sibrinin and Ilia Vladimirovich Prusikin. Published by S.B.A. MUSIC PUBLISHING LLC (RAO). All rights administered by WC Music Corp. Courtesy of Warner Music Russia. By arrangement with Warner Music Group Film & TV Licensing.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF832FFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 160.986,
+  "mapName": "Uno",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496253\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Uno/Uno_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480920\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Uno/Uno_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2939642\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Uno/Uno_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5147255\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Uno/Uno_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "Uno_mapContent"
+  },
+  "parentMapName": "Uno",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "FFE382FF",
+    "songColor_1B": "FFD562FF",
+    "songColor_2A": "FFF5C5FF",
+    "songColor_2B": "D71DFFFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "UNO",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "e9e42c2979b7f168fa88c804ce9cce78",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Uno/ps4/Uno_MAIN_SCENE_ORBIS.zip/e9e42c2979b7f168fa88c804ce9cce78.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "dea3a3a852ae4cce5fe5961eefdc69e7",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Uno/nx/Uno_MAIN_SCENE_NX.zip/dea3a3a852ae4cce5fe5961eefdc69e7.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "f725cfb8832b1d71b4728d6004a00a00",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Uno/pc/f725cfb8832b1d71b4728d6004a00a00.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/Uno/Uno_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/Uno/Uno_AudioPreview.ogg/cd4fde16513643a77f2949d29574c649.ogg",
+    "jmcs://jd-contents/Uno/Uno_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Uno/Uno_MapPreviewNoSoundCrop_HIGH.vp8.webm/f13daefdbd3af4dbb038ef273a133fd2.webm",
+    "jmcs://jd-contents/Uno/Uno_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Uno/Uno_MapPreviewNoSoundCrop_HIGH.vp9.webm/9cf818d85520331c21809693c235615e.webm",
+    "jmcs://jd-contents/Uno/Uno_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Uno/Uno_MapPreviewNoSoundCrop_LOW.vp8.webm/b81f0494aacd9243318a2c2fa33a72cf.webm",
+    "jmcs://jd-contents/Uno/Uno_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Uno/Uno_MapPreviewNoSoundCrop_LOW.vp9.webm/d05ee4969c245ac85866eb2a81f02b66.webm",
+    "jmcs://jd-contents/Uno/Uno_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Uno/Uno_MapPreviewNoSoundCrop_MID.vp8.webm/e64161d81e72f2ae65b9a9b4933c69e8.webm",
+    "jmcs://jd-contents/Uno/Uno_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Uno/Uno_MapPreviewNoSoundCrop_MID.vp9.webm/a552c55a6b32ce8d175c6827c2717c70.webm",
+    "jmcs://jd-contents/Uno/Uno_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Uno/Uno_MapPreviewNoSoundCrop_ULTRA.vp8.webm/438b7bea652f97725256663fd6e3805f.webm",
+    "jmcs://jd-contents/Uno/Uno_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Uno/Uno_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5c4b4f78a234d75e70edceb16c4b1f97.webm"
+  }
+}

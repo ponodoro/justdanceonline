@@ -1,0 +1,114 @@
+{
+  "artist": "Imposs",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_banner_bkg.jpg/b682d1622f538f5339e0b6a4792c8b9d.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Coach_1.png/64a2777cfaf7d5470d65b9fd51e23cc2.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Cover_Generic.jpg/d51b59e707d267e97103a7d9bf8f8687.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Cover_1024.png/7ddfc379eb04c46a07de9c79c7460bfc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Cover_Online.jpg/304f2645bf0e845cb1f783ba23dc59b8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Cover_AlbumBkg.jpg/b09ccdbcfb25ccee73f62b09a04c072d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Cover_AlbumCoach.png/d33d369f50dff13be95d5a669cb22698.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Coach_1_Phone.png/f38b730edd249fb6de43d212960d105b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Cover_Phone.jpg/304f2645bf0e845cb1f783ba23dc59b8.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_VideoPreview.webm/591602bbe6456247849614f7656c3c3e.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_banner_bkg.jpg/b682d1622f538f5339e0b6a4792c8b9d.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Coach_1.png/64a2777cfaf7d5470d65b9fd51e23cc2.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Cover_Generic.jpg/d51b59e707d267e97103a7d9bf8f8687.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Cover_1024.png/7ddfc379eb04c46a07de9c79c7460bfc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Cover_Online.jpg/304f2645bf0e845cb1f783ba23dc59b8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Cover_AlbumBkg.jpg/b09ccdbcfb25ccee73f62b09a04c072d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Cover_AlbumCoach.png/d33d369f50dff13be95d5a669cb22698.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Coach_1_Phone.png/f38b730edd249fb6de43d212960d105b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Cover_Phone.jpg/304f2645bf0e845cb1f783ba23dc59b8.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_VideoPreview.webm/591602bbe6456247849614f7656c3c3e.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/wiiu/StadiumFlow_banner_bkg.tga.ckd/91c16bf69bfc4427b1a29956ce6aa038.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/wiiu/StadiumFlow_Coach_1.tga.ckd/3246321a7459a0f0fae1b6f09821dc0d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/wiiu/StadiumFlow_Cover_Generic.tga.ckd/21326b48dbc87d5c61e722f8c3429fb6.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Cover_1024.png/7ddfc379eb04c46a07de9c79c7460bfc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/wiiu/StadiumFlow_Cover_Online.tga.ckd/b63ae2f30d9bc5c354aaaa331c79d765.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/wiiu/StadiumFlow_Cover_AlbumBkg.tga.ckd/1778275d1d39ca1fe2e898c3a0558b7d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/wiiu/StadiumFlow_Cover_AlbumCoach.tga.ckd/00787b6acf5d6121a0882756e6f7278f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Coach_1_Phone.png/f38b730edd249fb6de43d212960d105b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_Cover_Phone.jpg/304f2645bf0e845cb1f783ba23dc59b8.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_VideoPreview.webm/591602bbe6456247849614f7656c3c3e.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20881,41761,62641,83473,104353,125233,146113,166993,187825,208705,229585,250465,271345,292177,313057,333937,354817,375649,396529,417409,438289,459169,480001,500881,521762,542642,563474,584354,605234,626114,646994,667826,688706,709586,730466,751346,772178,793058,813938,834818,855650,876530,897410,918290,939170,960002,980882,1001762,1022643,1043475,1064355,1085235,1106115,1126995,1147827,1168707,1189587,1210467,1231347,1252179,1273059,1293939,1314819,1335651,1356531,1377411,1398291,1419171],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":449,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":68,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/stadiumflow/stadiumflow_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFD998FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 198.695,
+  "mapName": "StadiumFlow",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497685\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1099104\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1127414\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1127910\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "StadiumFlow_mapContent"
+  },
+  "parentMapName": "StadiumFlow",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "0DE9B6FF",
+    "songColor_1B": "004E4BFF",
+    "songColor_2A": "612CECFF",
+    "songColor_2B": "3B004AFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Stadium Flow",
+  "urls": {
+    "jmcs://jd-contents/StadiumFlow/StadiumFlow_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_AudioPreview.ogg/36254aa913a10340acebb5e6ac1b7b1b.ogg",
+    "jmcs://jd-contents/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_HIGH.vp8.webm/f35b656e2d0762443a862a52a15d31e4.webm",
+    "jmcs://jd-contents/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_HIGH.vp9.webm/6d3b31fbd7a0160125089f831b4b6742.webm",
+    "jmcs://jd-contents/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_LOW.vp8.webm/b94162f8eb22f28c718e4032f8435447.webm",
+    "jmcs://jd-contents/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_LOW.vp9.webm/e3a1cdfac4a70fc06265eef9469d2208.webm",
+    "jmcs://jd-contents/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_MID.vp8.webm/3beef028cca5ed5dfe0982c043db6374.webm",
+    "jmcs://jd-contents/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_MID.vp9.webm/a76a3c2f42b7119264118832659db2c0.webm",
+    "jmcs://jd-contents/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_ULTRA.vp8.webm/611d52d31a0df60db0d01ca233995378.webm",
+    "jmcs://jd-contents/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/StadiumFlow/StadiumFlow_MapPreviewNoSoundCrop_ULTRA.vp9.webm/4d06844f0862439364ceebc0927ef4df.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "cd2afc00b7fad0c849262f6c3eba9a81",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/StadiumFlow/ps4/StadiumFlow_MAIN_SCENE_ORBIS.zip/cd2afc00b7fad0c849262f6c3eba9a81.zip",
+      "version": 9
+    },
+    "pc": {
+      "md5": "bc4c297641e6c165a13ac360bba00527",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/StadiumFlow/pc/StadiumFlow_MAIN_SCENE_PC.zip/bc4c297641e6c165a13ac360bba00527.zip",
+      "version": 8
+    },
+    "wiiu": {
+      "md5": "cb2ad03e839184803bc493b8fe1174de",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/StadiumFlow/wiiu/StadiumFlow_MAIN_SCENE_WIIU.zip/cb2ad03e839184803bc493b8fe1174de.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "2685e0253595a17dcb804374261939be",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/StadiumFlow/nx/StadiumFlow_MAIN_SCENE_NX.zip/2685e0253595a17dcb804374261939be.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

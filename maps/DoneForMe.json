@@ -1,0 +1,117 @@
+{
+  "artist": "Charlie Puth ft. Kehlani",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/ps4/DoneForMe_banner_bkg.tga.ckd/0c1b2348960f297bee2b6d06fe69db33.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/ps4/DoneForMe_Coach_1.tga.ckd/d37873dc24739e6299e70e4aa368b290.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/ps4/DoneForMe_Coach_2.tga.ckd/4628373d4e5dee2aeb0bf5ae0091b1c8.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/ps4/DoneForMe_Cover_Generic.tga.ckd/cc4478c7e5a9573cc0c8971078df69fc.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_Cover_1024.png/4fe15d5b52afdfc5032ff3189cedb125.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/ps4/DoneForMe_Cover_Online.tga.ckd/b5b6cbd3ad7531b9efbda26f1bc5b41a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/ps4/DoneForMe_Cover_AlbumBkg.tga.ckd/3a5898e084b27e75ae2a439d4cf6b880.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/ps4/DoneForMe_Cover_AlbumCoach.tga.ckd/67f922c6cdfc2acd09cfb55b9aedcaf8.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_Coach_1_Phone.png/19d267f547a9c9fe85933b9f6afa0866.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_Coach_2_Phone.png/8fa656d15c0540bd4218fec7af8d29d4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_Cover_Phone.jpg/185a0c5314c8f51c4ba72ad3068799bc.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/ps4/DoneForMe_map_bkg.tga.ckd/64a8b61398edc3ec7574fa7dfe2ed877.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/nx/DoneForMe_banner_bkg.tga.ckd/fce4e7cdad36946a489ecc365bfcdec5.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/nx/DoneForMe_Coach_1.tga.ckd/ef3f6b2201e7765ed017467bd779455a.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/nx/DoneForMe_Coach_2.tga.ckd/6db67b1ef90822e1c2076dcb7da58384.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/nx/DoneForMe_Cover_Generic.tga.ckd/518bc3d42b01092d61050aca39008d75.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_Cover_1024.png/4fe15d5b52afdfc5032ff3189cedb125.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/nx/DoneForMe_Cover_Online.tga.ckd/fcedb3c4102413c5eae56e5fdc035785.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/nx/DoneForMe_Cover_AlbumBkg.tga.ckd/bdd1260ab3297bb0f992f52c15a841ca.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/nx/DoneForMe_Cover_AlbumCoach.tga.ckd/6b2df1dfdb6dbe681351015814c22848.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_Coach_1_Phone.png/19d267f547a9c9fe85933b9f6afa0866.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_Coach_2_Phone.png/8fa656d15c0540bd4218fec7af8d29d4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_Cover_Phone.jpg/185a0c5314c8f51c4ba72ad3068799bc.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/nx/DoneForMe_map_bkg.tga.ckd/352ded8972301d4094419c127effb6ee.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/wiiu/DoneForMe_banner_bkg.tga.ckd/528bc86edd1e8680a8620b6938facf63.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/wiiu/DoneForMe_Coach_1.tga.ckd/63577adc848e118aeb1244f91fb6886e.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/wiiu/DoneForMe_Coach_2.tga.ckd/a4c211fcad17c3bb3f783f1bdef95a8e.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/wiiu/DoneForMe_Cover_Generic.tga.ckd/99e403160981f10d77d1c00d7508f68e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_Cover_1024.png/4fe15d5b52afdfc5032ff3189cedb125.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/wiiu/DoneForMe_Cover_Online.tga.ckd/f7c8a208a7338be1ab9fedd16095203d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/wiiu/DoneForMe_Cover_AlbumBkg.tga.ckd/110d07ed7e721c721ddd069a97f1abae.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/wiiu/DoneForMe_Cover_AlbumCoach.tga.ckd/98f26b4472c45eeeb3b95fe0d7bc9653.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_Coach_1_Phone.png/19d267f547a9c9fe85933b9f6afa0866.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_Coach_2_Phone.png/8fa656d15c0540bd4218fec7af8d29d4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_Cover_Phone.jpg/185a0c5314c8f51c4ba72ad3068799bc.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25728,51408,77136,102864,128544,154272,180000,205728,231407,257135,282863,308543,334272,360000,385727,411408,437136,462863,488544,514272,540000,565727,591408,617136,642864,668544,694272,720000,745728,771408,797136,822864,848544,874272,900000,925728,951408,977136,1002864,1028543,1054271,1080000,1105728,1131407,1157136,1182864,1208544,1234272,1260000,1285728,1311408,1337136,1362864,1388544,1414272],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":358,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":55,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/doneforme/doneforme_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Charlie Puth, John Ryan, Jacob Hindlin and Kehlani Parrish. Published by Kobalt Music Services America Inc. (KMSA) obo Prescription Songs (ASCAP) / Artist 101 Publishing Group (BMI) / KMR Music Royalties II SCSp / Charlie Puth Music Publishing (BMI). / Don Wyan Music administered by Words and Music International. / Kehlani Music (ASCAP). Courtesy of Atlantic Records. By arrangement with Warner Music Group Film & TV Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FD9AA8FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 193.929,
+  "mapName": "DoneForMe",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496699\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1105\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1475890\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"617-1107\">\r\n\t\t\t\t\t<Initialization range=\"0-617\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2837360\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"617-1107\">\r\n\t\t\t\t\t<Initialization range=\"0-617\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3134466\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"617-1107\">\r\n\t\t\t\t\t<Initialization range=\"0-617\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "DoneForMe_mapContent"
+  },
+  "parentMapName": "DoneForMe",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "73108FFF",
+    "songColor_1B": "090030FF",
+    "songColor_2A": "00FCFFFF",
+    "songColor_2B": "001B37FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Done For Me",
+  "urls": {
+    "jmcs://jd-contents/DoneForMe/DoneForMe_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_AudioPreview.ogg/bc5a2beb362be44e8be75b3ff44d8b2b.ogg",
+    "jmcs://jd-contents/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_HIGH.vp8.webm/9175505d7769561e8ae108ca68e3c5dd.webm",
+    "jmcs://jd-contents/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_HIGH.vp9.webm/7305862aba70af769899a92efae69d0f.webm",
+    "jmcs://jd-contents/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_LOW.vp8.webm/fee614365a95a91fe05cb6a8c47f3ff7.webm",
+    "jmcs://jd-contents/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_LOW.vp9.webm/858a4a4aca1152b6a66f49ef323b072c.webm",
+    "jmcs://jd-contents/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_MID.vp8.webm/aecbdcc4bd2f4e2e9d25be9b082b7f67.webm",
+    "jmcs://jd-contents/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_MID.vp9.webm/12c9742e889ffd936451b0201deb946c.webm",
+    "jmcs://jd-contents/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm/eff4b22693d78c34234af52af309f142.webm",
+    "jmcs://jd-contents/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/DoneForMe/DoneForMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm/716626aa97fe3dd192362f7030941db0.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "7609838d7ffaabf01e7e6cb6f474a2ca",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DoneForMe/ps4/DoneForMe_MAIN_SCENE_ORBIS.zip/7609838d7ffaabf01e7e6cb6f474a2ca.zip",
+      "version": 24
+    },
+    "nx": {
+      "md5": "792958e29bfbb98f80ded4bd49bc88b7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DoneForMe/nx/DoneForMe_MAIN_SCENE_NX.zip/792958e29bfbb98f80ded4bd49bc88b7.zip",
+      "version": 24
+    },
+    "pc": {
+      "md5": "1d1a8f1a04a9c55f0f3def7d330ae617",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DoneForMe/pc/DoneForMe_MAIN_SCENE_PC.zip/1d1a8f1a04a9c55f0f3def7d330ae617.zip",
+      "version": 13
+    },
+    "wiiu": {
+      "md5": "03a96faabe10ce7fc4e93d7a33a39ba4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DoneForMe/wiiu/DoneForMe_MAIN_SCENE_WIIU.zip/03a96faabe10ce7fc4e93d7a33a39ba4.zip",
+      "version": 24
+    }
+  },
+  "mapType": "jdu"
+}

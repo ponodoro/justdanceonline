@@ -1,0 +1,117 @@
+{
+  "artist": "Panic! At The Disco",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_banner_bkg.jpg/c7645484d909711b0fea635ccd77773e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Coach_1.png/b28d0846a0a5eece3f0c57e8364996b0.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Coach_2.png/f31c8f68775f90bce43a1dac456ec279.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Cover_Generic.jpg/cd8574bdd04b420459361fa7d4ad3994.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Cover_1024.png/98d3b050a667a9a47a0a9e78b29cfc77.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Cover_Online.jpg/f533d5b828cd5afb4c5deb8b3d57e5bf.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Cover_AlbumBkg.jpg/f26a63997858552ea822085c98fa6074.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Cover_AlbumCoach.png/3c0a22d2543fb4a4302162dcb77e38a5.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Coach_1_Phone.png/eddcc5407acac80d03ed838ebfc3797b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Coach_2_Phone.png/9bbefb4a97b14fc2d24a2c078a53f525.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Cover_Phone.jpg/f533d5b828cd5afb4c5deb8b3d57e5bf.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_banner_bkg.jpg/c7645484d909711b0fea635ccd77773e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Coach_1.png/b28d0846a0a5eece3f0c57e8364996b0.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Coach_2.png/f31c8f68775f90bce43a1dac456ec279.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Cover_Generic.jpg/cd8574bdd04b420459361fa7d4ad3994.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Cover_1024.png/98d3b050a667a9a47a0a9e78b29cfc77.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Cover_Online.jpg/f533d5b828cd5afb4c5deb8b3d57e5bf.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Cover_AlbumBkg.jpg/f26a63997858552ea822085c98fa6074.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Cover_AlbumCoach.png/3c0a22d2543fb4a4302162dcb77e38a5.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Coach_1_Phone.png/eddcc5407acac80d03ed838ebfc3797b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Coach_2_Phone.png/9bbefb4a97b14fc2d24a2c078a53f525.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Cover_Phone.jpg/f533d5b828cd5afb4c5deb8b3d57e5bf.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/wiiu/NineAfternoon_banner_bkg.tga.ckd/91c77ded0699b5955a2aec29340b8466.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/wiiu/NineAfternoon_Coach_1.tga.ckd/7d85728115d499fe230c092022e09104.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/wiiu/NineAfternoon_Coach_2.tga.ckd/1f954af2eff7244c36561aae75d95c87.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/wiiu/NineAfternoon_Cover_Generic.tga.ckd/a62aad90e3a416ecfb8fd01ee0e40c08.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Cover_1024.png/98d3b050a667a9a47a0a9e78b29cfc77.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/wiiu/NineAfternoon_Cover_Online.tga.ckd/ca67132e41cb40d3eb77b0e071019996.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/wiiu/NineAfternoon_Cover_AlbumBkg.tga.ckd/a17ec7c00b32975e4e5b79d087a7f1b3.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/wiiu/NineAfternoon_Cover_AlbumCoach.tga.ckd/2a454fd58946a87e408acb27d202414c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Coach_1_Phone.png/eddcc5407acac80d03ed838ebfc3797b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Coach_2_Phone.png/9bbefb4a97b14fc2d24a2c078a53f525.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_Cover_Phone.jpg/f533d5b828cd5afb4c5deb8b3d57e5bf.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,19938,38517,57097,75676,95301,113881,132460,151040,169619,188199,206778,225358,243938,262256,280836,299415,317263,335843,354423,373002,391582,410161,429472,448052,466632,485211,504418,522161,540741,559843,577952,596532,615112,633691,652271,670850,688873,708706,727286,745169,763748,782328,800907,819487,837161,855741,874007,892586,910852,929711,948473,967053,986207,1004787,1022896,1041476,1060055,1078635,1097214,1115637,1134217,1152796,1171376,1189956,1208535,1227115,1245694,1264082,1283393,1300719,1319299,1337878,1356458,1378660,1397239,1415819,1432378],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":399,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":77,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/nineafternoon/nineafternoon_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "E253C5FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 154.429,
+  "mapName": "NineAfternoon",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497061\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1475053\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1910607\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1910334\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "NineAfternoon_mapContent"
+  },
+  "parentMapName": "NineAfternoon",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "E90052FF",
+    "songColor_1B": "730048FF",
+    "songColor_2A": "4AE3E9FF",
+    "songColor_2B": "0C0041FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Nine In The Afternoon",
+  "urls": {
+    "jmcs://jd-contents/NineAfternoon/NineAfternoon_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_AudioPreview.ogg/5544fd50e246a4b1a581f117aa7dd3fc.ogg",
+    "jmcs://jd-contents/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_HIGH.vp8.webm/33dc2ce9d54cd8361c0b0fae7f9a166b.webm",
+    "jmcs://jd-contents/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_HIGH.vp9.webm/578f1322be4455f3e1315e90bb79f194.webm",
+    "jmcs://jd-contents/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_LOW.vp8.webm/fbc1276bf974728a84c480db7fdba9f0.webm",
+    "jmcs://jd-contents/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_LOW.vp9.webm/dad93a3dbf3bf84aa582ffa581014f65.webm",
+    "jmcs://jd-contents/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_MID.vp8.webm/f8bbb30abea469f451cce773da5f877f.webm",
+    "jmcs://jd-contents/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_MID.vp9.webm/624261695ecd35205a1fab8f76a7168c.webm",
+    "jmcs://jd-contents/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ef7fea92fa6d9307496bdf251f1edd6c.webm",
+    "jmcs://jd-contents/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/NineAfternoon/NineAfternoon_MapPreviewNoSoundCrop_ULTRA.vp9.webm/583de90f3493d8c8eb803fb8fcd7a3ae.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "779b29e5187a637b5f95660af29e35c9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/NineAfternoon/ps4/NineAfternoon_MAIN_SCENE_ORBIS.zip/779b29e5187a637b5f95660af29e35c9.zip",
+      "version": 8
+    },
+    "pc": {
+      "md5": "9ea419b84ff26931c29d5ccc2d8725c6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/NineAfternoon/pc/NineAfternoon_MAIN_SCENE_PC.zip/9ea419b84ff26931c29d5ccc2d8725c6.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "affe427b560b41e2fe1ce6deff22574f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/NineAfternoon/wiiu/NineAfternoon_MAIN_SCENE_WIIU.zip/affe427b560b41e2fe1ce6deff22574f.zip",
+      "version": 8
+    },
+    "nx": {
+      "md5": "503cc99ebc7e52c273238af828479df7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/NineAfternoon/nx/NineAfternoon_MAIN_SCENE_NX.zip/503cc99ebc7e52c273238af828479df7.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

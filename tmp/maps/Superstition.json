@@ -1,0 +1,111 @@
+{
+  "artist": "Stevie Wonder",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_banner_bkg.jpg/35f8a45313d16f215092e17fe8493fb7.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Coach_1.png/07f3e0085edd9e7ca8af89da465cae9e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Cover_Generic.jpg/69289cefcc7818f987e783ddd7eb09f3.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Cover_1024.png/27b3b505df5ce897519ebdbb542ddb4f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Cover_Online.jpg/c0922de1deb879f7e889b0d37db68690.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Cover_AlbumBkg.jpg/a30e8ccad887bdb48f6935e41b20ae63.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Cover_AlbumCoach.png/5a14127285a772beeec03d71abfccf88.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Coach_1_Phone.png/1c2409dfad29d13f90a9ba20ea0d0f97.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Cover_Phone.jpg/c0922de1deb879f7e889b0d37db68690.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_banner_bkg.jpg/35f8a45313d16f215092e17fe8493fb7.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Coach_1.png/07f3e0085edd9e7ca8af89da465cae9e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Cover_Generic.jpg/69289cefcc7818f987e783ddd7eb09f3.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Cover_1024.png/27b3b505df5ce897519ebdbb542ddb4f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Cover_Online.jpg/c0922de1deb879f7e889b0d37db68690.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Cover_AlbumBkg.jpg/a30e8ccad887bdb48f6935e41b20ae63.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Cover_AlbumCoach.png/5a14127285a772beeec03d71abfccf88.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Coach_1_Phone.png/1c2409dfad29d13f90a9ba20ea0d0f97.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Cover_Phone.jpg/c0922de1deb879f7e889b0d37db68690.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/wiiu/Superstition_banner_bkg.tga.ckd/bd670530b677c10dca03a5d010f5acc6.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/wiiu/Superstition_Coach_1.tga.ckd/3b8cced98780b4096cc2a2cc120fea69.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/wiiu/Superstition_Cover_Generic.tga.ckd/16822670e55c50bef07d36a73ee4de11.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Cover_1024.png/27b3b505df5ce897519ebdbb542ddb4f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/wiiu/Superstition_Cover_Online.tga.ckd/e08445f82b14ae7a24560de70dfc469a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/wiiu/Superstition_Cover_AlbumBkg.tga.ckd/580899581bb25a0945d78a182601b37a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/wiiu/Superstition_Cover_AlbumCoach.tga.ckd/4deeccaefdac6d45a97e3ccf0a38b13b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Coach_1_Phone.png/1c2409dfad29d13f90a9ba20ea0d0f97.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_Cover_Phone.jpg/c0922de1deb879f7e889b0d37db68690.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,30048,56880,83280,110112,139200,168000,196896,225552,253440,280992,309888,337680,366960,394896,423264,451008,479472,507792,534864,562800,591792,619920,649009,678673,706897,735169,766321,794977,823537,852241,881761,910657,939649,968593,997537,1024609,1052785,1080961,1109761,1138273,1166977,1196209,1225921,1254577,1283185,1312465,1341553,1370305,1399057,1427809],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":419,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":50,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/superstition/superstition_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "E76111FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 248.267,
+  "mapName": "Superstition",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496256\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Superstition/Superstition_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1357596\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Superstition/Superstition_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1556378\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Superstition/Superstition_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1556746\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Superstition/Superstition_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "Superstition_mapContent"
+  },
+  "parentMapName": "Superstition",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "F46300FF",
+    "songColor_1B": "670000FF",
+    "songColor_2A": "FF258BFF",
+    "songColor_2B": "63003AFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Superstition",
+  "urls": {
+    "jmcs://jd-contents/Superstition/Superstition_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_AudioPreview.ogg/36ed14753db62dbb6d24ebb477cfeba0.ogg",
+    "jmcs://jd-contents/Superstition/Superstition_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_MapPreviewNoSoundCrop_HIGH.vp8.webm/958255c69d9c4ae6d2dd9a60650d3e76.webm",
+    "jmcs://jd-contents/Superstition/Superstition_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_MapPreviewNoSoundCrop_HIGH.vp9.webm/d41d4042526344e52a28af9af8ffa5a6.webm",
+    "jmcs://jd-contents/Superstition/Superstition_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_MapPreviewNoSoundCrop_LOW.vp8.webm/b53b4359cc3abef09051455e7e8700d5.webm",
+    "jmcs://jd-contents/Superstition/Superstition_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_MapPreviewNoSoundCrop_LOW.vp9.webm/84bd5cc94431874abe718eb7b0d0b219.webm",
+    "jmcs://jd-contents/Superstition/Superstition_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_MapPreviewNoSoundCrop_MID.vp8.webm/6db67597d20f7fc78d2a60dee8dfe850.webm",
+    "jmcs://jd-contents/Superstition/Superstition_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_MapPreviewNoSoundCrop_MID.vp9.webm/1bdaeebc127c51e9998756c62a437720.webm",
+    "jmcs://jd-contents/Superstition/Superstition_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_MapPreviewNoSoundCrop_ULTRA.vp8.webm/34481fadbf1b8937bfd456f4233ca52e.webm",
+    "jmcs://jd-contents/Superstition/Superstition_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Superstition/Superstition_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5e2de2bc9707206d3cdf065673e18144.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a2ff77b98022fdee74158d385f8a9f7c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Superstition/ps4/Superstition_MAIN_SCENE_ORBIS.zip/a2ff77b98022fdee74158d385f8a9f7c.zip",
+      "version": 15
+    },
+    "pc": {
+      "md5": "ca1a6d5672ffa3d41a18b4b2e8176d4e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Superstition/pc/Superstition_MAIN_SCENE_PC.zip/ca1a6d5672ffa3d41a18b4b2e8176d4e.zip",
+      "version": 9
+    },
+    "wiiu": {
+      "md5": "319bf76917945833109dcd727d31349f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Superstition/wiiu/Superstition_MAIN_SCENE_WIIU.zip/319bf76917945833109dcd727d31349f.zip",
+      "version": 17
+    },
+    "nx": {
+      "md5": "05b375dc9fc346deb344d6d8f7fc3716",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Superstition/nx/Superstition_MAIN_SCENE_NX.zip/05b375dc9fc346deb344d6d8f7fc3716.zip",
+      "version": 10
+    }
+  },
+  "mapType": "jdu"
+}

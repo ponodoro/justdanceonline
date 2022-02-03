@@ -1,0 +1,185 @@
+{
+    "jd2016-ps4-scea": {
+        "appId": "cd0fcaad-e5e0-4996-a13a-5922362ced7a",
+        "gameVersion": "jd2016",
+        "platform": "ps4",
+        "region": "scea",
+        "spaceId": "07e0f404-d897-4e22-a98e-e20aa7ef5c1c",
+        "id": "jd2016-ps4-scea"
+    },
+    "jd2016-ps4-scee": {
+        "appId": "cd0fcaad-e5e0-4996-a13a-5922362ced7a",
+        "gameVersion": "jd2016",
+        "platform": "ps4",
+        "region": "scee",
+        "spaceId": "07e0f404-d897-4e22-a98e-e20aa7ef5c1c",
+        "id": "jd2016-ps4-scee"
+    },
+    "jd2017-nx-all": {
+        "appId": "613fe1a7-86c6-4fa7-bfb3-230e92ae29d3",
+        "gameVersion": "jd2017",
+        "platform": "nx",
+        "region": "all",
+        "spaceId": "0415144b-ed4c-4098-a50d-5ba36d7d8466",
+        "id": "jd2017-nx-all"
+    },
+    "jd2017-pc-ww": {
+        "appId": "341789d4-b41f-4f40-ac79-e2bc4c94ead4",
+        "gameVersion": "jd2017",
+        "platform": "pc",
+        "region": "ww",
+        "spaceId": "f1ae5b84-db7c-481e-9867-861cf1852dc8",
+        "id": "jd2017-pc-ww"
+    },
+    "jd2017-ps4-scea": {
+        "appId": "d03d28dd-4706-4808-ba6d-13f43ba62a11",
+        "gameVersion": "jd2017",
+        "platform": "ps4",
+        "region": "scea",
+        "spaceId": "56151e14-8ba6-4baf-ba5b-cbd75bff1dcb",
+        "id": "jd2017-ps4-scea"
+    },
+    "jd2017-ps4-scee": {
+        "appId": "d03d28dd-4706-4808-ba6d-13f43ba62a11",
+        "gameVersion": "jd2017",
+        "platform": "ps4",
+        "region": "scee",
+        "spaceId": "56151e14-8ba6-4baf-ba5b-cbd75bff1dcb",
+        "id": "jd2017-ps4-scee"
+    },
+    "jd2018-nx-all": {
+        "appId": "853badc5-e5b8-47a9-be06-630a1071701c",
+        "gameVersion": "jd2018",
+        "platform": "nx",
+        "region": "all",
+        "spaceId": "cdf9d0d7-8e4d-4afa-8268-c25ad42c579b",
+        "id": "jd2018-nx-all"
+    },
+    "jd2018-ps4-scea": {
+        "appId": "338f2a70-2587-44ee-a64b-5dbe112fb043",
+        "gameVersion": "jd2018",
+        "platform": "ps4",
+        "region": "scea",
+        "spaceId": "16246b37-d8f2-43b4-a5ba-f07c2ed5a88e",
+        "id": "jd2018-ps4-scea"
+    },
+    "jd2018-ps4-scee": {
+        "appId": "338f2a70-2587-44ee-a64b-5dbe112fb043",
+        "gameVersion": "jd2018",
+        "platform": "ps4",
+        "region": "scee",
+        "spaceId": "16246b37-d8f2-43b4-a5ba-f07c2ed5a88e",
+        "id": "jd2018-ps4-scee"
+    },
+    "jd2019-nx-all": {
+        "appId": "848e9f13-07c1-41ae-baef-57bb9f4ac899",
+        "gameVersion": "jd2019",
+        "platform": "nx",
+        "region": "all",
+        "spaceId": "e92e485b-893e-4dd1-a55d-13d2696fcc38",
+        "id": "jd2019-nx-all"
+    },
+    "jd2019-ps4-scea": {
+        "appId": "46f44bb2-76f0-450b-8114-280e8b12b013",
+        "gameVersion": "jd2019",
+        "platform": "ps4",
+        "region": "scea",
+        "spaceId": "9c029e8a-f03a-4743-a924-790dfd23e839",
+        "id": "jd2019-ps4-scea"
+    },
+    "jd2019-ps4-scee": {
+        "appId": "46f44bb2-76f0-450b-8114-280e8b12b013",
+        "gameVersion": "jd2019",
+        "platform": "ps4",
+        "region": "scee",
+        "spaceId": "9c029e8a-f03a-4743-a924-790dfd23e839",
+        "id": "jd2019-ps4-scee"
+    },
+    "jdcs-admin": {
+        "isDev": true
+    },
+    "tools-teabox": {
+        "id": "tools-teabox",
+        "isDev": true
+    },
+    "jd2016-wiiu-noa": {
+        "appId": "3696a38b-1edd-4e7b-bbb7-855f15a25408",
+        "gameVersion": "jd2016",
+        "platform": "wiiu",
+        "region": "noa",
+        "spaceId": "17599f67-8a3b-407d-ac5e-7dfdd66d5194",
+        "id": "jd2016-wiiu-noa"
+    },
+    "jd2016-wiiu-noe": {
+        "appId": "3696a38b-1edd-4e7b-bbb7-855f15a25408",
+        "gameVersion": "jd2016",
+        "platform": "wiiu",
+        "region": "noe",
+        "spaceId": "17599f67-8a3b-407d-ac5e-7dfdd66d5194",
+        "id": "jd2016-wiiu-noe"
+    },
+    "jd2017-wiiu-noa": {
+        "appId": "81cf5bb0-e037-4374-b38d-106bd21307fa",
+        "gameVersion": "jd2017",
+        "platform": "wiiu",
+        "region": "noa",
+        "spaceId": "96f82187-4d45-4544-9718-0cde2f8d5ccb",
+        "id": "jd2017-wiiu-noa"
+    },
+    "jd2017-wiiu-noe": {
+        "appId": "81cf5bb0-e037-4374-b38d-106bd21307fa",
+        "gameVersion": "jd2017",
+        "platform": "wiiu",
+        "region": "noe",
+        "spaceId": "96f82187-4d45-4544-9718-0cde2f8d5ccb",
+        "id": "jd2017-wiiu-noe"
+    },
+    "jd2018-wiiu-noa": {
+        "appId": "f8c1989f-ea92-4567-b43d-436de74b2c5d",
+        "gameVersion": "jd2018",
+        "platform": "wiiu",
+        "region": "noa",
+        "spaceId": "807358a9-c9e5-4d5b-be84-e5e7b98d0421",
+        "id": "jd2018-wiiu-noa"
+    },
+    "jd2018-wiiu-noe": {
+        "appId": "f8c1989f-ea92-4567-b43d-436de74b2c5d",
+        "gameVersion": "jd2018",
+        "platform": "wiiu",
+        "region": "noe",
+        "spaceId": "807358a9-c9e5-4d5b-be84-e5e7b98d0421",
+        "id": "jd2018-wiiu-noe"
+    },
+    "jd2019-demo-wiiu-noa": {
+        "appId": "9e4914b4-edff-4a62-afb6-be8660ef16fc",
+        "gameVersion": "jd2019-demo",
+        "platform": "wiiu",
+        "region": "noa",
+        "spaceId": "a374d410-62ba-4283-9534-1f6e87e313b1",
+        "id": "jd2019-demo-wiiu-noa"
+    },
+    "jd2019-demo-wiiu-noe": {
+        "appId": "9e4914b4-edff-4a62-afb6-be8660ef16fc",
+        "gameVersion": "jd2019-demo",
+        "platform": "wiiu",
+        "region": "noe",
+        "spaceId": "a374d410-62ba-4283-9534-1f6e87e313b1",
+        "id": "jd2019-demo-wiiu-noe"
+    },
+    "jd2019-wiiu-noa": {
+        "appId": "3b4009a1-66cb-410d-9799-3041835d8e1b",
+        "gameVersion": "jd2019",
+        "platform": "wiiu",
+        "region": "noa",
+        "spaceId": "ef680ba3-e1ae-4fb5-b434-ab448f1c3210",
+        "id": "jd2019-wiiu-noa"
+    },
+    "jd2019-wiiu-noe": {
+        "appId": "3b4009a1-66cb-410d-9799-3041835d8e1b",
+        "gameVersion": "jd2019",
+        "platform": "wiiu",
+        "region": "noe",
+        "spaceId": "ef680ba3-e1ae-4fb5-b434-ab448f1c3210",
+        "id": "jd2019-wiiu-noe"
+    }
+}

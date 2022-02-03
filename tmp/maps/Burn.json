@@ -1,0 +1,110 @@
+{
+  "artist": "Ellie Goulding",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/ps4/Burn_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/ps4/Burn_Coach_1.tga.ckd/6ea104ecbf91fde16427fa82461b694d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/ps4/Burn_Cover_Generic.tga.ckd/63c914c9fac42e887a3da49c0d8fc375.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/Burn_Cover_1024.png/ec1e763e0d6bef45d3be16d93a0b33d3.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/ps4/Burn_Cover_Online.tga.ckd/31003b507f8f4c46e04ca86aa29dbcba.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/ps4/Burn_Cover_AlbumBkg.tga.ckd/1dce1107bb40aefc32424a1d1037a167.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/ps4/Burn_Cover_AlbumCoach.tga.ckd/7c285371ec8bfe0345003b49499a3a1d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/Burn_Coach_1_Phone.png/138eedc975ffec8efd989f361db3f14e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/Burn_Cover_Phone.jpg/7b98a8ec1a195079f3fad57c17489fcb.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Burn/Burn_VideoPreview.webm/91cdb33ae595960fc79b06311323f9d0.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/ps4/Burn_map_bkg.tga.ckd/416c6a9e09f05e07daf8714724cacec5.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/nx/Burn_banner_bkg.tga.ckd/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/nx/Burn_Coach_1.tga.ckd/124528dbe75c500569f1ae758a0377ec.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/nx/Burn_Cover_Generic.tga.ckd/fff8cb6d7bba41ea1877c0c27a4f970b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/Burn_Cover_1024.png/ec1e763e0d6bef45d3be16d93a0b33d3.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/nx/Burn_Cover_Online.tga.ckd/a22bd28d59abb57ccac2ed25821d71f2.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/nx/Burn_Cover_AlbumBkg.tga.ckd/d09b57bafd7e2122c10e90cf8a7e53e6.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/nx/Burn_Cover_AlbumCoach.tga.ckd/1b5e2194139cddbf084a724f6bb5fbb0.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/Burn_Coach_1_Phone.png/138eedc975ffec8efd989f361db3f14e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/Burn_Cover_Phone.jpg/7b98a8ec1a195079f3fad57c17489fcb.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Burn/Burn_VideoPreview.webm/91cdb33ae595960fc79b06311323f9d0.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Burn/nx/Burn_map_bkg.tga.ckd/941b3291189511258ca2bca812d7684f.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,16560,33072,49632,66192,82752,99312,115872,132384,148944,165504,182064,198624,215136,231696,248256,264816,281376,297936,314448,331008,347568,364127,380687,397247,413759,430319,446879,463439,479999,496559,513071,529631,546191,562751,579311,595871,612383,628943,645503,662063,678623,695135,711695,728255,744815,761375,777935,794447,811007,827567,844127,860687,877247,893759,910319,926879,943439,959999,976559,993071,1009631,1026191,1042751,1059311,1075871,1092383,1108943,1125503,1142063,1158623,1175135,1191695,1208255,1224815,1241375,1257935,1274447,1291007,1307567,1324127,1340687,1357247,1373759,1390318,1406878,1423438,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":680,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":87,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/burn/burn_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Elena Goulding, Gregory Kurstin, Brent Kutzle, Ryan Tedder and Noel Zancanella. Published by Global Talent Publishing Ltd. (PRS) Administered by Downtown DMP Songs (BMI) / Published by EMI April Music (Canada) Ltd. (SOCAN) on behalf of itself and Kurstin Music (ASCAP). All rights reserved.  Used with permission. Courtesy of Polydor Ltd/Interscope Records under license from Universal Music Enterprises.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "57C7FFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 234.48299999999998,
+  "mapName": "Burn",
+  "mapPreviewMpd": {
+    "videoEncoding": {
+      "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495639\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Burn/Burn_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1082\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1467998\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Burn/Burn_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\r\n\t\t\t\t\t<Initialization range=\"0-594\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2069399\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Burn/Burn_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\r\n\t\t\t\t\t<Initialization range=\"0-594\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2068711\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Burn/Burn_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\r\n\t\t\t\t\t<Initialization range=\"0-594\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+      "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"646886\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Burn/Burn_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\r\n\t\t\t\t\t<Initialization range=\"0-594\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1490541\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Burn/Burn_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\r\n\t\t\t\t\t<Initialization range=\"0-594\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2966166\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Burn/Burn_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\r\n\t\t\t\t\t<Initialization range=\"0-594\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5881224\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Burn/Burn_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"594-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-594\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+    }
+  },
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "Burn_mapContent"
+  },
+  "parentMapName": "Burn",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "EC3108FF",
+    "songColor_1B": "BB0607FF",
+    "songColor_2A": "588CC6FF",
+    "songColor_2B": "292D3FFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "JustDance2015",
+    "Solo",
+    "Medium",
+    "Sweat Low",
+    "Artsy",
+    "Electro",
+    "Girls",
+    "Pop",
+    "Princess"
+  ],
+  "title": "Burn",
+  "urls": {
+    "jmcs://jd-contents/Burn/Burn_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Burn/Burn_AudioPreview.ogg/b3df10a392a54456f51491eecd75ace8.ogg",
+    "jmcs://jd-contents/Burn/Burn_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Burn/Burn_MapPreviewNoSoundCrop_HIGH.vp8.webm/e2bb003dbd7bcfa6ca0fa401e3e762ab.webm",
+    "jmcs://jd-contents/Burn/Burn_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Burn/Burn_MapPreviewNoSoundCrop_HIGH.vp9.webm/0c2f866e63383d8415e05033161add21.webm",
+    "jmcs://jd-contents/Burn/Burn_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Burn/Burn_MapPreviewNoSoundCrop_LOW.vp8.webm/5054031958c1a303e29d93048f2f003d.webm",
+    "jmcs://jd-contents/Burn/Burn_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Burn/Burn_MapPreviewNoSoundCrop_LOW.vp9.webm/e9ab840bdcb466ab1a7184b05ba7bcd4.webm",
+    "jmcs://jd-contents/Burn/Burn_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Burn/Burn_MapPreviewNoSoundCrop_MID.vp8.webm/8e06b2395390499e55153ae3cf385fd1.webm",
+    "jmcs://jd-contents/Burn/Burn_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Burn/Burn_MapPreviewNoSoundCrop_MID.vp9.webm/0d9655c6a156981719df253caf5ee56c.webm",
+    "jmcs://jd-contents/Burn/Burn_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Burn/Burn_MapPreviewNoSoundCrop_ULTRA.vp8.webm/8a7c63486d3b4c41226b8a8dc8db786e.webm",
+    "jmcs://jd-contents/Burn/Burn_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Burn/Burn_MapPreviewNoSoundCrop_ULTRA.vp9.webm/7626e82af356e67162b222f685af2b65.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "f9530db51ffd7c500823c94872d2eac4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Burn/ps4/Burn_MAIN_SCENE_ORBIS.zip/f9530db51ffd7c500823c94872d2eac4.zip",
+      "version": 4
+    },
+    "nx": {
+      "md5": "05126e57c31ceb19cb586e442af51866",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Burn/nx/Burn_MAIN_SCENE_NX.zip/05126e57c31ceb19cb586e442af51866.zip",
+      "version": 4
+    },
+    "pc": {
+      "md5": "2914426e7cac87b0c87ff0e9e9d4af5f",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Burn/pc/2914426e7cac87b0c87ff0e9e9d4af5f.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

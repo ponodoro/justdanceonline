@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html ng-app="jd">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>JD debug interface</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
+
+    <link rel="stylesheet" href="/adjdcs-prod/jd/jd.css" />
+    <link rel="icon" href="/adjdcs-prod/favicon.ico" />
+
+    <link href='/css?family=PT+Sans' rel='stylesheet' type='text/css'>
+</head>
+
+<body ng-controller="ApplicationCtrl">
+    <nav class="navbar navbar-inverse navbar-fixed-top bar-shadow" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">Just Dance Custom Services</a>
+            </div>
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li ng-class="{active: currentRoute == '/scripts'}"><a href="#/scripts"><span class="fa fa-book"></span> Scripts</a></li>
+                </ul>
+                <p ng-if="info" class="navbar-right navbar-text" title="Boot time: {{info.bootTime | date: 'medium'}}">Revision: {{info.revision}}</a>
+                </p>
+            </div>
+        </div>
+    </nav>
+
+    <div id="main-view" class="container-fluid" ng-view></div>
+
+    <script src="/adjdcs-prod/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="/adjdcs-prod/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
+    <script src="/adjdcs-prod/ajax/libs/angularjs/1.2.23/angular-route.min.js"></script>
+    <script src="/adjdcs-prod/ajax/libs/angularjs/1.2.23/angular-sanitize.min.js"></script>
+    <script src="/adjdcs-prod/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script src="/adjdcs-prod/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+    <script src="/adjdcs-prod/ajax/libs/zeroclipboard/2.2.0/ZeroClipboard.min.js"></script>
+    <script src="/adjdcs-prod/ajax/libs/ng-clip/0.2.6/ng-clip.min.js"></script>
+
+    <script src="/adjdcs-prod/jd/home/home.js"></script>
+    <script src="/adjdcs-prod/jd/routes/routes.js"></script>
+    <script src="/adjdcs-prod/jd/scripts/scripts.js"></script>
+
+    <script src="/adjdcs-prod/jd/services/countries.js"></script>
+    <script src="/adjdcs-prod/jd/services/envs.js"></script>
+    <script src="/adjdcs-prod/jd/services/languages.js"></script>
+    <script src="/adjdcs-prod/jd/services/routes.js"></script>
+    <script src="/adjdcs-prod/jd/services/scripts.js"></script>
+    <script src="/adjdcs-prod/jd/services/sillyname.js"></script>
+    <script src="/adjdcs-prod/jd/services/skus.js"></script>
+    <script src="/adjdcs-prod/jd/services/songdb.js"></script>
+
+    <script src="/adjdcs-prod/jd/jd.js"></script>
+</body>
+
+</html>

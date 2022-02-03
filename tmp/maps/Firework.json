@@ -1,0 +1,111 @@
+{
+  "artist": "Katy Perry",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_banner_bkg.jpg/b051d35bfd74a5b63b2f0e5d31a2acc3.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Coach_1.png/bd04188516b75f7ace44af6c92a47497.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Cover_Generic.jpg/ff31643cf2f6a38a3f40af612b610296.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Cover_1024.png/d68a58084fba1f047209c40705112fc4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Cover_Online.jpg/b075f7ae1af70347a88cd8946ac575d6.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Cover_AlbumBkg.jpg/3be75fd80fc8ac7e3226232574d16f37.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Cover_AlbumCoach.png/9e2bf73509b13dd130f0b2edca9a4049.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Coach_1_Phone.png/3c0d8f47a5433b735a16618582545a5d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Cover_Phone.jpg/b075f7ae1af70347a88cd8946ac575d6.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_banner_bkg.jpg/b051d35bfd74a5b63b2f0e5d31a2acc3.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Coach_1.png/bd04188516b75f7ace44af6c92a47497.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Cover_Generic.jpg/ff31643cf2f6a38a3f40af612b610296.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Cover_1024.png/d68a58084fba1f047209c40705112fc4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Cover_Online.jpg/b075f7ae1af70347a88cd8946ac575d6.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Cover_AlbumBkg.jpg/3be75fd80fc8ac7e3226232574d16f37.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Cover_AlbumCoach.png/9e2bf73509b13dd130f0b2edca9a4049.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Coach_1_Phone.png/3c0d8f47a5433b735a16618582545a5d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Cover_Phone.jpg/b075f7ae1af70347a88cd8946ac575d6.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/wiiu/Firework_banner_bkg.tga.ckd/191812a9fb91b385b0ec93fa477ed527.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/wiiu/Firework_Coach_1.tga.ckd/5463ada1ad2add31bbed7f59c5befd05.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/wiiu/Firework_Cover_Generic.tga.ckd/62065bfa948354489f906c16661dd825.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Cover_1024.png/d68a58084fba1f047209c40705112fc4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/wiiu/Firework_Cover_Online.tga.ckd/46b0ab5af21c75743fff5f590aec5fe0.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/wiiu/Firework_Cover_AlbumBkg.tga.ckd/9d3a5e259bf0d29fbb19eb9f7994457f.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/wiiu/Firework_Cover_AlbumCoach.tga.ckd/876ca9b9d02597b2e16c73771a2572d4.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Coach_1_Phone.png/3c0d8f47a5433b735a16618582545a5d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Firework/Firework_Cover_Phone.jpg/b075f7ae1af70347a88cd8946ac575d6.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23223,46446,69669,92891,116114,139337,162560,185783,209006,232229,255451,278674,301897,325120,348343,371566,394789,418011,441234,464457,487680,510903,534126,557349,580571,603794,627017,650240,673463,696686,719909,743131,766354,789577,812800,836023,859246,882469,905691,928914,952137,975360,998583,1021806,1045029,1068251,1091474,1114697,1137920,1161143,1184366,1207589,1230811,1254034,1277257,1300480,1323703,1346926,1370149,1393371,1416594,1439817],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":472,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/firework/firework_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "01F4B7FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 228.761,
+  "mapName": "Firework",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496088\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Firework/Firework_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1463863\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Firework/Firework_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1754354\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Firework/Firework_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1755119\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Firework/Firework_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "Firework_mapContent"
+  },
+  "parentMapName": "Firework",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "00CEC2FF",
+    "songColor_1B": "01244DFF",
+    "songColor_2A": "C0005BFF",
+    "songColor_2B": "410175FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Firework",
+  "urls": {
+    "jmcs://jd-contents/Firework/Firework_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Firework/Firework_AudioPreview.ogg/c4e0b7e1c9cc8ed1765a87538d53460a.ogg",
+    "jmcs://jd-contents/Firework/Firework_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Firework/Firework_MapPreviewNoSoundCrop_HIGH.vp8.webm/9eb510ac2cc222d7a5b3fdce0531f878.webm",
+    "jmcs://jd-contents/Firework/Firework_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Firework/Firework_MapPreviewNoSoundCrop_HIGH.vp9.webm/be3dc46d2894db0a9ae9c23549a9863b.webm",
+    "jmcs://jd-contents/Firework/Firework_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Firework/Firework_MapPreviewNoSoundCrop_LOW.vp8.webm/538744a1a6c525198eac6577ee48deb2.webm",
+    "jmcs://jd-contents/Firework/Firework_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Firework/Firework_MapPreviewNoSoundCrop_LOW.vp9.webm/818d5ef30d5256e618f1fb52150eab82.webm",
+    "jmcs://jd-contents/Firework/Firework_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Firework/Firework_MapPreviewNoSoundCrop_MID.vp8.webm/fcae08779598a8f44f5e4ae74f71c15d.webm",
+    "jmcs://jd-contents/Firework/Firework_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Firework/Firework_MapPreviewNoSoundCrop_MID.vp9.webm/3fc5f198901c08aeb6207989604dd120.webm",
+    "jmcs://jd-contents/Firework/Firework_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Firework/Firework_MapPreviewNoSoundCrop_ULTRA.vp8.webm/1b36ed72af8da389cfd626c7cbc9adbe.webm",
+    "jmcs://jd-contents/Firework/Firework_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Firework/Firework_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5bbbccaf0459f186a430c5aa3a1cb474.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "f314f0ed9693e25e4f6287d0dd4bdb4a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Firework/ps4/Firework_MAIN_SCENE_ORBIS.zip/f314f0ed9693e25e4f6287d0dd4bdb4a.zip",
+      "version": 8
+    },
+    "pc": {
+      "md5": "6a38380fa6d0ee63ef9cc5d02e91059f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Firework/pc/Firework_MAIN_SCENE_PC.zip/6a38380fa6d0ee63ef9cc5d02e91059f.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "0322ca357f309e635f04486d10182dbd",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Firework/wiiu/Firework_MAIN_SCENE_WIIU.zip/0322ca357f309e635f04486d10182dbd.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "16ee12111c312392525f5b2174d8e785",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Firework/nx/Firework_MAIN_SCENE_NX.zip/16ee12111c312392525f5b2174d8e785.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

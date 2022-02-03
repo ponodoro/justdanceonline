@@ -1,0 +1,132 @@
+{
+  "artist": "The Girly Team",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_banner_bkg.jpg/ca9295952c7e26a44619a28b9a55c409.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_1.png/cedf5d1b4f7852ea8ccaa674091e9b7a.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_2.png/3fb1f21822253cdf1f56cb29efabb3d7.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_3.png/7a9cf9a97d6caf614df5e91a26c8de1f.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_4.png/7bc8c2359c4e54878e8e328b205849cf.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Cover_Generic.jpg/9db56e7e20a84a764de89e01d2b42789.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Cover_1024.png/2b8b08643e9ca8336a9ef50b10a914fc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Cover_Online.jpg/72ca193c36fd604af656182d1b11d5bd.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Cover_AlbumBkg.jpg/db4b83f605d3645230912cafb368ed79.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Cover_AlbumCoach.png/557bb19f529404ed558fa0f373feef48.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_1_Phone.png/bbaea9969ee90e8d8a0e3cc34c23380e.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_2_Phone.png/5dd374fe0bb4d9bcba84591479b0ddee.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_3_Phone.png/f7ccee3f52c13c6aa3749ed713763eea.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_4_Phone.png/04d09ccfcf77cffb448e93d1daab6800.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Cover_Phone.jpg/72ca193c36fd604af656182d1b11d5bd.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_VideoPreview.webm/a8cb8feb6aa4bba260d304f3f8b53216.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_banner_bkg.jpg/ca9295952c7e26a44619a28b9a55c409.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_1.png/cedf5d1b4f7852ea8ccaa674091e9b7a.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_2.png/3fb1f21822253cdf1f56cb29efabb3d7.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_3.png/7a9cf9a97d6caf614df5e91a26c8de1f.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_4.png/7bc8c2359c4e54878e8e328b205849cf.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Cover_Generic.jpg/9db56e7e20a84a764de89e01d2b42789.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Cover_1024.png/2b8b08643e9ca8336a9ef50b10a914fc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Cover_Online.jpg/72ca193c36fd604af656182d1b11d5bd.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Cover_AlbumBkg.jpg/db4b83f605d3645230912cafb368ed79.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Cover_AlbumCoach.png/557bb19f529404ed558fa0f373feef48.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_1_Phone.png/bbaea9969ee90e8d8a0e3cc34c23380e.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_2_Phone.png/5dd374fe0bb4d9bcba84591479b0ddee.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_3_Phone.png/f7ccee3f52c13c6aa3749ed713763eea.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_4_Phone.png/04d09ccfcf77cffb448e93d1daab6800.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Cover_Phone.jpg/72ca193c36fd604af656182d1b11d5bd.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_VideoPreview.webm/a8cb8feb6aa4bba260d304f3f8b53216.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/wiiu/BabyOneMoreQUAT_banner_bkg.tga.ckd/10de9714fb9477a5baecdd09c4a11ec4.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/wiiu/BabyOneMoreQUAT_Coach_1.tga.ckd/2a91b91bf986a8f2cd0bba77e902a0a2.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/wiiu/BabyOneMoreQUAT_Coach_2.tga.ckd/13eaf2728df47ba2592059451924138e.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/wiiu/BabyOneMoreQUAT_Coach_3.tga.ckd/1b8edb41b5959393951040b0eb393443.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/wiiu/BabyOneMoreQUAT_Coach_4.tga.ckd/140049485e3bdd246389873e2fddcd4a.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/wiiu/BabyOneMoreQUAT_Cover_Generic.tga.ckd/fc37a85823d63944bd374f662d18fd86.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Cover_1024.png/2b8b08643e9ca8336a9ef50b10a914fc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/wiiu/BabyOneMoreQUAT_Cover_Online.tga.ckd/d3a9231b479627d036f5601e77de6ddc.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/wiiu/BabyOneMoreQUAT_Cover_AlbumBkg.tga.ckd/35e1fbe60671544fd6e22fc575b2205c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/wiiu/BabyOneMoreQUAT_Cover_AlbumCoach.tga.ckd/292d5592b4b93e033a885116d09bf92a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_1_Phone.png/bbaea9969ee90e8d8a0e3cc34c23380e.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_2_Phone.png/5dd374fe0bb4d9bcba84591479b0ddee.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_3_Phone.png/f7ccee3f52c13c6aa3749ed713763eea.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Coach_4_Phone.png/04d09ccfcf77cffb448e93d1daab6800.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_Cover_Phone.jpg/72ca193c36fd604af656182d1b11d5bd.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_VideoPreview.webm/a8cb8feb6aa4bba260d304f3f8b53216.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,30315,60630,90946,121260,151575,181890,212205,242520,272835,303150,333465,363780,394096,424411,454725,485040,515355,545670,575985,606300,636615,666930,697245,727561,757876,788190,818505,848820,879135,909450,939765,970080,1000395,1030711,1061026,1091340,1121655,1151970,1182285,1212600,1242915,1273230,1303545,1333860,1364176,1394491,1424805],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":332,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":47,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/babyonemorequat/babyonemorequat_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "DA34D2FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 210.839,
+  "mapName": "BabyOneMoreQUAT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496760\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1134\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478012\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1136\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2835458\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1136\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2987952\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1136\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "BabyOneMoreQUAT_mapContent"
+  },
+  "parentMapName": "BabyOneMoreQUAT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "0F9BF2FF",
+    "songColor_1B": "560096FF",
+    "songColor_2A": "CC15DDFF",
+    "songColor_2B": "5A0035FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Baby One More Time",
+  "urls": {
+    "jmcs://jd-contents/BabyOneMoreQUAT/BabyOneMoreQUAT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_AudioPreview.ogg/159b83eac4913d52b9b1f96db7dcd9e5.ogg",
+    "jmcs://jd-contents/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm/c9b4d64fb53029a309c71827f53a7cdb.webm",
+    "jmcs://jd-contents/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_HIGH.vp9.webm/bd7cc2917fc9d2c1cea096ae96d3e0a5.webm",
+    "jmcs://jd-contents/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm/8738122aecd22b1479cd6432beef62b7.webm",
+    "jmcs://jd-contents/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_LOW.vp9.webm/240da46a06a01f96223437f480c5b7c6.webm",
+    "jmcs://jd-contents/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_MID.vp8.webm/188335dc1e3aaebf505dba15f393e9e4.webm",
+    "jmcs://jd-contents/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_MID.vp9.webm/7e64c161fbfea424e9905317ab938c9b.webm",
+    "jmcs://jd-contents/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/1739163720b18a02c4bc17dde4e79e47.webm",
+    "jmcs://jd-contents/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/BabyOneMoreQUAT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/2ecf493ad2dd25456527e5290e497914.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "088ce5aec91bd4336b508c82fa1db755",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/ps4/BabyOneMoreQUAT_MAIN_SCENE_ORBIS.zip/088ce5aec91bd4336b508c82fa1db755.zip",
+      "version": 15
+    },
+    "pc": {
+      "md5": "5344d9d54b9a3701b5657a5e748a573f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/pc/BabyOneMoreQUAT_MAIN_SCENE_PC.zip/5344d9d54b9a3701b5657a5e748a573f.zip",
+      "version": 8
+    },
+    "wiiu": {
+      "md5": "1cdcc6483afccfe9faa177e91fef5980",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/wiiu/BabyOneMoreQUAT_MAIN_SCENE_WIIU.zip/1cdcc6483afccfe9faa177e91fef5980.zip",
+      "version": 15
+    },
+    "nx": {
+      "md5": "56475102191703a0535b0e90f122284c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BabyOneMoreQUAT/nx/BabyOneMoreQUAT_MAIN_SCENE_NX.zip/56475102191703a0535b0e90f122284c.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

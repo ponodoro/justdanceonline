@@ -1,0 +1,116 @@
+{
+  "artist": "Love Letter",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OnlyYou/textures/OnlyYou_banner_bkg.png",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/ps4/OnlyYou_Coach_1.tga.ckd/5d4c318f63c4a9bf4b0c9a39fbffba09.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/ps4/OnlyYou_Coach_2.tga.ckd/7d65f33184aa1c82eb4e823be6b4b63d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/ps4/OnlyYou_Cover_Generic.tga.ckd/4a8456b61e5252fc88f43b7cd74a350a.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_Cover_1024.png/6259ce00514a6bf6dfb6e9cec946b325.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/ps4/OnlyYou_Cover_Online.tga.ckd/34809487403f3f04b179fc0ac19e36d3.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/ps4/OnlyYou_Cover_AlbumBkg.tga.ckd/487bbe23ceec9349c45cc78eca235bc8.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/ps4/OnlyYou_Cover_AlbumCoach.tga.ckd/84c81ec26810361e0cc3136eefb5a51d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_Coach_1_Phone.png/195627a9a1aef2810b40b4de64b388a6.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_Coach_2_Phone.png/61abf101357c56a590560b60a0ec6333.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_Cover_Phone.jpg/6cb9bb0b10f51c856dc0ff3ae06bd516.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_VideoPreview.webm/936aa1d008c8f67d3b8dafb41b61f20f.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/ps4/OnlyYou_map_bkg.tga.ckd/bd18eeb15b471815265adf6d8011d104.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/OnlyYou/textures/OnlyYou_banner_bkg.png",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/nx/OnlyYou_Coach_1.tga.ckd/f6673fb701b7e3e42dfc4644cee62eb8.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/nx/OnlyYou_Coach_2.tga.ckd/264e944e602780b1bb58803b95799ece.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/nx/OnlyYou_Cover_Generic.tga.ckd/c55b4fe3d418d415db74d5e4a1e3860b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_Cover_1024.png/6259ce00514a6bf6dfb6e9cec946b325.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/nx/OnlyYou_Cover_Online.tga.ckd/5a3c50728a9e6143638b33ca1f54c99e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/nx/OnlyYou_Cover_AlbumBkg.tga.ckd/a7067346dfaea815a354292faa733dec.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/nx/OnlyYou_Cover_AlbumCoach.tga.ckd/c59a7a394c073bccd823ec601ebe3fa6.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_Coach_1_Phone.png/195627a9a1aef2810b40b4de64b388a6.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_Coach_2_Phone.png/61abf101357c56a590560b60a0ec6333.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_Cover_Phone.jpg/6cb9bb0b10f51c856dc0ff3ae06bd516.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_VideoPreview.webm/936aa1d008c8f67d3b8dafb41b61f20f.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/OnlyYou/nx/OnlyYou_map_bkg.tga.ckd/4a0cb34c7952d55cb5bd6ab01ad1050f.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,37680,75312,112992,150672,188352,226032,263328,300672,337969,375313,411793,448321,484801,521329,557809,594337,630817,667345,703777,740257,776689,813121,849409,885697,920114,954530,991874,1029266,1065170,1101074,1136978,1172834,1209362,1245890,1282418,1318946,1355522,1391282,1427090],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-11,\"endBeat\":207,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":39,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/onlyyou/onlyyou_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Buck Ram and Ande Rand. Published by Wildwood Music Inc. (BMI). All rights reserved. Used with permission. Produced by Steve Ouimette Engineering and mix - Steve Ouimette, Cat Gray Lead Vocal - Willie Murillo Background vocals - Lloyd Dwayne, Cat Gray, Jane Child Drum - Cat Gray Guitar and Bass - Steve Ouimette Saxophone - Phil Wigfall Additional engineering - Dave Richardson Music Supervision: Manu Bachet Courtesy of Ubisoft Music.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FE4BCCFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 166.439,
+  "mapName": "OnlyYou",
+  "mapPreviewMpd": {
+    "videoEncoding": {
+      "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497270\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"627-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-627\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1473550\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1853019\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1853160\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+      "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"663610\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1495533\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2972893\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5892892\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+    }
+  },
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "OnlyYou_mapContent"
+  },
+  "parentMapName": "OnlyYou",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "002F63FF",
+    "songColor_1B": "1B4B61FF",
+    "songColor_2A": "004A69FF",
+    "songColor_2B": "13262EFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "JustDance2015",
+    "Duo",
+    "Medium",
+    "Sweat Low",
+    "60s",
+    "Boys",
+    "Cartoon",
+    "Girls",
+    "Monster",
+    "Oldies",
+    "Romantic"
+  ],
+  "title": "Only You (And You Alone)",
+  "urls": {
+    "jmcs://jd-contents/OnlyYou/OnlyYou_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_AudioPreview.ogg/a8d8cc57833bb6fb3ecbb4e090bf962c.ogg",
+    "jmcs://jd-contents/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_HIGH.vp8.webm/d0bef52b47953e5401a541e31453dbc7.webm",
+    "jmcs://jd-contents/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_HIGH.vp9.webm/72bac59c3abc94505ab59476b7cecb74.webm",
+    "jmcs://jd-contents/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_LOW.vp8.webm/e4ac62ca9c416f7c7be442ffa3cb1903.webm",
+    "jmcs://jd-contents/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_LOW.vp9.webm/5639c610de383d09883fb99f417dcf4b.webm",
+    "jmcs://jd-contents/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_MID.vp8.webm/eaf331569a9b8875928abec9dcb54067.webm",
+    "jmcs://jd-contents/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_MID.vp9.webm/543f0a550e56c5c03c95534989fb46c0.webm",
+    "jmcs://jd-contents/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm/3580e1dcf1ba8226b2e00f2e4bf743ab.webm",
+    "jmcs://jd-contents/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/OnlyYou/OnlyYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm/98db3d9e1d465de69a43fb29053358d6.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "b089aae095c52fed377a463444ea6a38",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/OnlyYou/ps4/OnlyYou_MAIN_SCENE_ORBIS.zip/b089aae095c52fed377a463444ea6a38.zip",
+      "version": 6
+    },
+    "pc": {
+      "md5": "c70e946104b5005d716f8fa7c002eded",
+      "storageType": 0,
+      "url": "http://jdbest-cdn.s3.amazonaws.com/public/map/OnlyYou/pc/c70e946104b5005d716f8fa7c002eded.zip",
+      "version": 0
+    },
+    "nx": {
+      "md5": "3199f97c92c850a9cdae627e97c28ffd",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/OnlyYou/nx/OnlyYou_MAIN_SCENE_NX.zip/3199f97c92c850a9cdae627e97c28ffd.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

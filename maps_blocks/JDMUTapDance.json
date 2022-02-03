@@ -1,0 +1,38 @@
+{
+  "__class": "OnlineBlock",
+  "artist": "",
+  "assets": {
+    "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUTapDance/pc/JDMUTapDance_Cover_Generic.tga.ckd/487c5fd750ba130fd43cc94d51c24c89.ckd",
+    "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUTapDance/pc/JDMUTapDance_Cover_Online.tga.ckd/e0578fdb18526dec01d959e3a1d272f7.ckd"
+  },
+  "coachCount": 1,
+  "credits": "CREDITS STRING TO BE FILLED",
+  "customTypeNameId": -1,
+  "difficulty": 2,
+  "jdmAttributes": [
+    "JDM_Speed"
+  ],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 27.229,
+  "mapName": "JDMUTapDance",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "JDMUTapDance_mapContent"
+  },
+  "parentMapName": "JDMUTapDance",
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 3,
+  "tags": [
+    "DanceMachine"
+  ],
+  "title": "",
+  "isPlayable": false
+}

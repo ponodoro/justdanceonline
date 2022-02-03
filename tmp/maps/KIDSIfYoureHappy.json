@@ -1,0 +1,116 @@
+{
+  "artist": "The Just Dance Kids",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/ggp/KIDSIfYoureHappy_banner_bkg.tga.ckd/6da95cd356707d361dc2c42b8e12def9.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/ggp/KIDSIfYoureHappy_Coach_1.tga.ckd/77dbec09b031fdfd4a2aa54db0b5d00b.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/ggp/KIDSIfYoureHappy_Cover_Generic.tga.ckd/875dc84e3f523a1714187624664af7ac.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_Cover_1024.png/f2874c891c6b7ef06e07d3154fa66662.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/ggp/KIDSIfYoureHappy_Cover_Online.tga.ckd/875dc84e3f523a1714187624664af7ac.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/ggp/KIDSIfYoureHappy_Cover_AlbumBkg.tga.ckd/214c3a36604f78c2d5157fb24c0623fe.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/ggp/KIDSIfYoureHappy_Cover_AlbumCoach.tga.ckd/dd4b741cc2d84c7fb71136e3c10efe46.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_Coach_1_Phone.png/f1ac9e3cf6e8813a803a69e5bed6de97.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_Cover_Phone.jpg/3f636efb482620aca6105105329d3c17.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_VideoPreview.webm/b17024de0ec43f8507350dd8afcc0d08.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/ggp/KIDSIfYoureHappy_map_bkg.tga.ckd/36324b891caa82424a93adba820ce4b1.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/nx/KIDSIfYoureHappy_banner_bkg.tga.ckd/5000e4f1ad2e7937cfbebb776b4742d4.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/nx/KIDSIfYoureHappy_Coach_1.tga.ckd/d5a43ddef30931cc3d76b2499b1e32bc.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/nx/KIDSIfYoureHappy_Cover_Generic.tga.ckd/bad226cc77fc432a9c1ce1af6df43eb9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_Cover_1024.png/f2874c891c6b7ef06e07d3154fa66662.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/nx/KIDSIfYoureHappy_Cover_Online.tga.ckd/bad226cc77fc432a9c1ce1af6df43eb9.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/nx/KIDSIfYoureHappy_Cover_AlbumBkg.tga.ckd/528a04f75944402562159f0cfa2f7de5.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/nx/KIDSIfYoureHappy_Cover_AlbumCoach.tga.ckd/ba3bdd998bab346d6a3484c67f71f04a.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/nx/KIDSIfYoureHappy_map_bkg.tga.ckd/216615d5e6fa64e03b694a3a1d80f453.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_Coach_1_Phone.png/f1ac9e3cf6e8813a803a69e5bed6de97.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_Cover_Phone.jpg/3f636efb482620aca6105105329d3c17.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_VideoPreview.webm/b17024de0ec43f8507350dd8afcc0d08.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/wiiu/KIDSIfYoureHappy_banner_bkg.tga.ckd/fdedc2f67e34dc57c7f9f095b9837c28.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/wiiu/KIDSIfYoureHappy_Coach_1.tga.ckd/aaa3a46a8fbcbb74748add37ca33d081.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/wiiu/KIDSIfYoureHappy_Cover_Generic.tga.ckd/fdf80469613535c2c159c1638740173b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_Cover_1024.png/6aafb5a8402e577663b15aa06e739fbd.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/wiiu/KIDSIfYoureHappy_Cover_Online.tga.ckd/fdf80469613535c2c159c1638740173b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/wiiu/KIDSIfYoureHappy_Cover_AlbumBkg.tga.ckd/fcde0b4cc4b7d54d710a8c8dbdda2fb6.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/wiiu/KIDSIfYoureHappy_Cover_AlbumCoach.tga.ckd/51e586bf86c3fc54c2ddbec8f9d80bdf.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_Coach_1_Phone.png/f1ac9e3cf6e8813a803a69e5bed6de97.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_Cover_Phone.jpg/3f636efb482620aca6105105329d3c17.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_VideoPreview.webm/b17024de0ec43f8507350dd8afcc0d08.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,18816,37632,56496,75312,94128,112944,131760,150576,169392,188256,207072,225888,244704,263520,282336,301200,320016,338832,357648,376464,395280,414144,432960,451776,470592,489408,508224,527040,545904,564720,583536,602352,621168,639984,658848,677664,696480,715296,734112,752928,771792,790608,809424,828240,847056,865872,884688,903552,922368,941184,960000,978816,997632,1016496,1035312,1054128,1072944,1091760,1110576,1129392,1148256,1167072,1185888,1204704,1223520,1242336,1261200,1280016,1298832,1317648,1336464,1355280,1374143,1392959,1411775,1430591],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":340,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":76,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/kidsifyourehappy/kidsifyourehappy_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "B20F42FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 133.567,
+  "mapName": "KIDSIfYoureHappy",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"491591\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1460645\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2058407\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2063289\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 123,
+  "packages": {
+    "mapContent": "KIDSIfYoureHappy_mapContent"
+  },
+  "parentMapName": "KIDSIfYoureHappy",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FFC600FF",
+    "songColor_1B": "FF8400FF",
+    "songColor_2A": "00E7FFFF",
+    "songColor_2B": "01B7B4FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "If You’re Happy And You Know It",
+  "urls": {
+    "jmcs://jd-contents/KIDSIfYoureHappy/KIDSIfYoureHappy_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_AudioPreview.ogg/3d0ac7971f2f8fc17d7aabb59759b2ec.ogg",
+    "jmcs://jd-contents/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_HIGH.vp8.webm/da6538bcb681c8236ed09c285dd32ac0.webm",
+    "jmcs://jd-contents/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_HIGH.vp9.webm/265e0d9c5b8844b74c110d5ec1c9e271.webm",
+    "jmcs://jd-contents/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_LOW.vp8.webm/74d73caf241e605c5994314e09ca763d.webm",
+    "jmcs://jd-contents/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_LOW.vp9.webm/76762dc0a1d40e0ddde16c90658ca751.webm",
+    "jmcs://jd-contents/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_MID.vp8.webm/110f59bcf51153c830753a4d88a8d214.webm",
+    "jmcs://jd-contents/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_MID.vp9.webm/bf448111a3a4026b2199427e5ae18503.webm",
+    "jmcs://jd-contents/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_ULTRA.vp8.webm/71f0efaa4b9c3ad3b6d36ec78bdfcf19.webm",
+    "jmcs://jd-contents/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/KIDSIfYoureHappy_MapPreviewNoSoundCrop_ULTRA.vp9.webm/c2473972cb028dddf99b120a930a7fb7.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "be380bb71c0ed6a036fde1ba9b147caf",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/ps4/KIDSIfYoureHappy_MAIN_SCENE_ORBIS.zip/be380bb71c0ed6a036fde1ba9b147caf.zip",
+      "version": 21
+    },
+    "pc": {
+      "md5": "fd838aad5ae847cf5b58520827d4012f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/pc/KIDSIfYoureHappy_MAIN_SCENE_PC.zip/fd838aad5ae847cf5b58520827d4012f.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "00926cfba8fe6fb5871250bdb551ad80",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/wiiu/KIDSIfYoureHappy_MAIN_SCENE_WIIU.zip/00926cfba8fe6fb5871250bdb551ad80.zip",
+      "version": 17
+    },
+    "nx": {
+      "md5": "6f36fe3efdb13f6441e92d4d2459e5ec",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSIfYoureHappy/nx/KIDSIfYoureHappy_MAIN_SCENE_NX.zip/6f36fe3efdb13f6441e92d4d2459e5ec.zip",
+      "version": 9
+    }
+  },
+  "mapType": "jdu"
+}

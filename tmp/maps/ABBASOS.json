@@ -1,0 +1,122 @@
+{
+  "artist": "ABBA",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ggp/ABBASOS_banner_bkg.tga.ckd/39f1ae1e27b54b5b04f190a28d672c31.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ggp/ABBASOS_Coach_1.tga.ckd/c66ee6224f390bab694e22e584d02bb7.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ggp/ABBASOS_Coach_2.tga.ckd/e3c2db0eaefece6bdfb0f8b4f2246974.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ggp/ABBASOS_Cover_Generic.tga.ckd/65c1a133112dae00a14bc71614ecc80f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_Cover_1024.png/3b68abe61352aba8276da2fd88b35b93.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ggp/ABBASOS_Cover_Online.tga.ckd/65c1a133112dae00a14bc71614ecc80f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ggp/ABBASOS_Cover_AlbumBkg.tga.ckd/0bacd19a45e95bcb36f55ef02aec3574.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ggp/ABBASOS_Cover_AlbumCoach.tga.ckd/9065625010865fb5293766b19e2d6d07.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_Coach_1_Phone.png/503314dc88059f6577e4204ff518e1e4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_Coach_2_Phone.png/0002a53d020293c058b14b71339986dc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_Cover_Phone.jpg/51d14d8edb61bcd97c3112564d518ab4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_VideoPreview.webm/c170c4008c8231ffdf5d67c2756ce05c.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ggp/ABBASOS_map_bkg.tga.ckd/25d846fc173e0010359602878b24d336.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/nx/ABBASOS_banner_bkg.tga.ckd/f72414919b3cb275894e51c072b63c06.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/nx/ABBASOS_Coach_1.tga.ckd/99f8405220d4301f10e30f4431083f58.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/nx/ABBASOS_Coach_2.tga.ckd/d6dc06e5356533d4853ad6ca404a9bbe.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/nx/ABBASOS_Cover_Generic.tga.ckd/691d74fb852b030f907e9be5c0fda8e3.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_Cover_1024.png/3b68abe61352aba8276da2fd88b35b93.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/nx/ABBASOS_Cover_Online.tga.ckd/691d74fb852b030f907e9be5c0fda8e3.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/nx/ABBASOS_Cover_AlbumBkg.tga.ckd/e97127b551264cc4c1728141162c9c80.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/nx/ABBASOS_Cover_AlbumCoach.tga.ckd/9ecf4009e8107a68c0eee03b272fa166.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/nx/ABBASOS_map_bkg.tga.ckd/ff87af6250d14bc3337729bc96df2d5f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_Coach_1_Phone.png/503314dc88059f6577e4204ff518e1e4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_Coach_2_Phone.png/0002a53d020293c058b14b71339986dc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_Cover_Phone.jpg/51d14d8edb61bcd97c3112564d518ab4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_VideoPreview.webm/c170c4008c8231ffdf5d67c2756ce05c.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/wiiu/ABBASOS_banner_bkg.tga.ckd/6311d3aff2ea103ea180b09bc2a0d159.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/wiiu/ABBASOS_Coach_1.tga.ckd/4b2736556e7e7e78545063a522796f33.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/wiiu/ABBASOS_Coach_2.tga.ckd/e91730ebad09e89a9c2bd6a4f7c86ce7.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/wiiu/ABBASOS_Cover_Generic.tga.ckd/41020f29f48efb7a9dcc1cf352aff2f4.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_Cover_1024.png/3b68abe61352aba8276da2fd88b35b93.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/wiiu/ABBASOS_Cover_Online.tga.ckd/41020f29f48efb7a9dcc1cf352aff2f4.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/wiiu/ABBASOS_Cover_AlbumBkg.tga.ckd/dbfb6e4f4267ce05bd796815d31d964e.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/wiiu/ABBASOS_Cover_AlbumCoach.tga.ckd/4e95b63540d37413fc6118e1d1311eb4.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_Coach_1_Phone.png/503314dc88059f6577e4204ff518e1e4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_Coach_2_Phone.png/0002a53d020293c058b14b71339986dc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_Cover_Phone.jpg/51d14d8edb61bcd97c3112564d518ab4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_VideoPreview.webm/c170c4008c8231ffdf5d67c2756ce05c.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23376,46752,70128,93504,116880,140304,163680,187056,210432,233808,257184,280560,303984,327360,350736,374112,397488,420864,444240,467616,491040,514416,537792,561168,584544,607920,630912,653904,676896,699888,722880,745872,768816,791808,814800,837791,860783,883775,906768,929760,952752,975696,998688,1021488,1044288,1067088,1089888,1112640,1135440,1158240,1181040,1203792,1226592,1249392,1272192,1294992,1317744,1340544,1363343,1386144,1408944,1431696],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2},{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":410,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/abbasos/abbasos_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "3593F9FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 200.715,
+  "mapName": "ABBASOS",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495728\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1470372\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1996015\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1996135\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4884,
+  "packages": {
+    "mapContent": "ABBASOS_mapContent"
+  },
+  "parentMapName": "ABBASOS",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FEB500FF",
+    "songColor_1B": "333333FF",
+    "songColor_2A": "FEC800FF",
+    "songColor_2B": "CD4F00FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "SOS",
+  "urls": {
+    "jmcs://jd-contents/ABBASOS/ABBASOS_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_AudioPreview.ogg/61edcf0de2b004af7b081147e9762293.ogg",
+    "jmcs://jd-contents/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_HIGH.vp8.webm/db8539e8426b85ce9c05cdf008f0866c.webm",
+    "jmcs://jd-contents/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_HIGH.vp9.webm/de79a9948b1d97dcde257f4a90a281b8.webm",
+    "jmcs://jd-contents/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_LOW.vp8.webm/9e26a2ade45e7333c6e8be9549404162.webm",
+    "jmcs://jd-contents/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_LOW.vp9.webm/348ad9b5e5608dfb6d242c6a57d35fc8.webm",
+    "jmcs://jd-contents/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_MID.vp8.webm/5ef728e74f8814c27fe681f4b0e5eb3b.webm",
+    "jmcs://jd-contents/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_MID.vp9.webm/7a9560d7f16e390b9b9f17e5c158e21f.webm",
+    "jmcs://jd-contents/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b68f5c2e49fdbdbf93c651124c2c9d7a.webm",
+    "jmcs://jd-contents/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_ULTRA.vp9.webm/336a1792239d6a4d497401f7d6a3c9b1.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "16166f740736e5294e09792eddd86858",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ABBASOS/ps4/ABBASOS_MAIN_SCENE_ORBIS.zip/16166f740736e5294e09792eddd86858.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "f17f630dedd647588b9cce1ac0528e6c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ABBASOS/pc/ABBASOS_MAIN_SCENE_PC.zip/f17f630dedd647588b9cce1ac0528e6c.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "0b5c1a92bbb5c39edfc5ab745b9213e3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ABBASOS/wiiu/ABBASOS_MAIN_SCENE_WIIU.zip/0b5c1a92bbb5c39edfc5ab745b9213e3.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "5bf1eba005d7e29d316703ae97b29642",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ABBASOS/nx/ABBASOS_MAIN_SCENE_NX.zip/5bf1eba005d7e29d316703ae97b29642.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu"
+}

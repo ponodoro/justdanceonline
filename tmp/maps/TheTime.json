@@ -1,0 +1,116 @@
+{
+  "artist": "Black Eyed Peas",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/ps4/TheTime_banner_bkg.tga.ckd/67c0be804c4c978796b6b2a546e7f52c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/ps4/TheTime_Coach_1.tga.ckd/8144fc51a7fc7610ad6e6b2054a9fb08.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/ps4/TheTime_Coach_2.tga.ckd/2e66dc5ad7d97528a5bbf7cb3843a5d6.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/ps4/TheTime_Coach_3.tga.ckd/3edc6eae2815f296b533109aaa13ff0c.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/ps4/TheTime_Coach_4.tga.ckd/82621acc9a948ec680c1c07fa03bca7c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/ps4/TheTime_Cover_Generic.tga.ckd/660cd06dc6be9b72bfc73a7c83eab215.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_Cover_1024.png/a3bcbf1f4ee06ccccd30a72891475312.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/ps4/TheTime_Cover_Online.tga.ckd/b7d7f384266920986f0d00d639990f9e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/ps4/TheTime_Cover_AlbumBkg.tga.ckd/ea62c4fb8a5e14d174b51306dccce1b6.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/ps4/TheTime_Cover_AlbumCoach.tga.ckd/1471e4f8932aff568525eaa5dab64d65.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_Coach_1_Phone.png/8ce548751d3d1d9eff92d6e310345698.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_Coach_2_Phone.png/c8a0e53ee84520ad7d2125a28c5bd7a7.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_Coach_3_Phone.png/05d8dc1a8a0bd7b27c610ce8a6773bc0.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_Coach_4_Phone.png/8fe7f1f916a5ca52b146371561387b34.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_Cover_Phone.jpg/3666cb3a0d62da333396ba945f35472b.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/ps4/TheTime_map_bkg.tga.ckd/07f6ef9da86c71b40d452cace0fe154b.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/nx/TheTime_banner_bkg.tga.ckd/614e8768e651a3ebf5d52d9d54a0a5ee.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/nx/TheTime_Coach_1.tga.ckd/8f1af4369b21cf1876f8b13ae9d867ea.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/nx/TheTime_Coach_2.tga.ckd/1f7169426bb322f2d3bb3daabae995a9.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/nx/TheTime_Coach_3.tga.ckd/97d92e61086f3ea7d5aa2079ea5f458f.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/nx/TheTime_Coach_4.tga.ckd/279114952c876fe8783b72b5c2ce7470.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/nx/TheTime_Cover_Generic.tga.ckd/5ad58afc20a5c12d7c320f256566ed55.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_Cover_1024.png/a3bcbf1f4ee06ccccd30a72891475312.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/nx/TheTime_Cover_Online.tga.ckd/ea3044b89519678f8390fb5b5790f08a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/nx/TheTime_Cover_AlbumBkg.tga.ckd/e4fd37881a1e58a5b6989282bac4c2a6.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/nx/TheTime_Cover_AlbumCoach.tga.ckd/a02d64fb5d7a4b13de04e933796f6e4f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_Coach_1_Phone.png/8ce548751d3d1d9eff92d6e310345698.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_Coach_2_Phone.png/c8a0e53ee84520ad7d2125a28c5bd7a7.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_Coach_3_Phone.png/05d8dc1a8a0bd7b27c610ce8a6773bc0.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_Coach_4_Phone.png/8fe7f1f916a5ca52b146371561387b34.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_Cover_Phone.jpg/3666cb3a0d62da333396ba945f35472b.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheTime/nx/TheTime_map_bkg.tga.ckd/7132ad7d115cd7a22c0ef0560babc87c.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22500,45000,67500,90000,112500,135000,157500,180000,202500,225000,247500,270000,292500,315000,337500,360000,382500,405000,427500,450000,472500,495000,517500,540000,562500,585000,607500,630000,652500,675000,697500,720000,742500,765000,787500,810000,832500,855000,877500,900000,922500,945000,967500,990000,1012500,1035000,1057500,1080000,1102500,1125000,1147500,1170000,1192500,1215000,1237500,1260000,1282500,1305000,1327500,1350000,1372500,1395000,1417500],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-11,\"endBeat\":519,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/thetime/thetime_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Will Adams, John DeNicola, Damien Leroy, Donald Markowitz, Allan Apll Pineda and Franke Previte. Published by Sony/ATV Tunes LLC (ASCAP). / Kobalt Songs Music Publishing obo Marcu Music Company Inc. / RU Cyrius Publishing (ASCAP) / Knockout Music (ASCAP) / Calspen Music (ASCAP) / BMG Sapphire Songs on behalf of itself, I am composing LLC., BMG Sapphire Songs on behalf of Apl de ap publishing LLC. All rights administered by BMG Rights Management (US) LLC. All rights reserved. Used with permission. Courtesy of Interscope Records under license from Universal Music Enterprises. ",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "08F6FFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 248.43699999999998,
+  "mapName": "TheTime",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495442\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheTime/TheTime_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"592-1081\">\r\n\t\t\t\t\t<Initialization range=\"0-592\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481105\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheTime/TheTime_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2425796\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheTime/TheTime_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3269956\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheTime/TheTime_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "TheTime_mapContent"
+  },
+  "parentMapName": "TheTime",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "007699FF",
+    "songColor_1B": "460039FF",
+    "songColor_2A": "9E0063FF",
+    "songColor_2B": "46003CFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "The Time (Dirty Bit)",
+  "urls": {
+    "jmcs://jd-contents/TheTime/TheTime_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_AudioPreview.ogg/dc358b96ee4a0e9265c19fe09d8c5c16.ogg",
+    "jmcs://jd-contents/TheTime/TheTime_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_MapPreviewNoSoundCrop_HIGH.vp8.webm/adb6bebdcc4de478b192505a301fbaa0.webm",
+    "jmcs://jd-contents/TheTime/TheTime_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_MapPreviewNoSoundCrop_HIGH.vp9.webm/efbf4da8742096c9cced5fec808d888a.webm",
+    "jmcs://jd-contents/TheTime/TheTime_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_MapPreviewNoSoundCrop_LOW.vp8.webm/16cf2737f14ad397f2170d56517e08ec.webm",
+    "jmcs://jd-contents/TheTime/TheTime_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_MapPreviewNoSoundCrop_LOW.vp9.webm/684616348b2faf092689f54478db1fc2.webm",
+    "jmcs://jd-contents/TheTime/TheTime_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_MapPreviewNoSoundCrop_MID.vp8.webm/a045b082da52a5c00f3a4b317be5ded4.webm",
+    "jmcs://jd-contents/TheTime/TheTime_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_MapPreviewNoSoundCrop_MID.vp9.webm/e8492784720ac51373533af58d23bf34.webm",
+    "jmcs://jd-contents/TheTime/TheTime_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_MapPreviewNoSoundCrop_ULTRA.vp8.webm/1e5298921bfb64bfb3e44c86c0534b3f.webm",
+    "jmcs://jd-contents/TheTime/TheTime_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheTime/TheTime_MapPreviewNoSoundCrop_ULTRA.vp9.webm/cf3a599fd4e0b7e5d0270dcfe1da5294.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "b3bf89e92f3e86b032f6cc49b9bbd428",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheTime/ps4/TheTime_MAIN_SCENE_ORBIS.zip/b3bf89e92f3e86b032f6cc49b9bbd428.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "ad90ba581a00456c0a3de97ef3492d55",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheTime/nx/TheTime_MAIN_SCENE_NX.zip/ad90ba581a00456c0a3de97ef3492d55.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "4c8b68210b27dc1f02fd4e89ea647b92",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/TheTime/pc/4c8b68210b27dc1f02fd4e89ea647b92.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

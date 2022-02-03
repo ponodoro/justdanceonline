@@ -1,0 +1,114 @@
+{
+  "artist": "Darius Dante Van Dijk",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_banner_bkg.jpg/e1041053b02bf559aa2cb9420afcb7db.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Coach_1.png/0a9f182fdc6f3812aac1bfe4a050d68d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Cover_Generic.jpg/c84c0f75c7ea95c322b89a71b0db6f8e.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Cover_1024.png/e9b418138bc5df4ab5e0239c810952e4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Cover_Online.jpg/f869225c04a31748511d7bd6aa107790.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Cover_AlbumBkg.jpg/d602d284008ad9c627399a9d922debb4.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Cover_AlbumCoach.png/05df33032a4b62ddb62c69607cf8849a.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Coach_1_Phone.png/18e48f52b262d2d39b2bca6d71457551.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Cover_Phone.jpg/f869225c04a31748511d7bd6aa107790.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_VideoPreview.webm/b38f2143c23352c3fc39ef6af3c9369a.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_banner_bkg.jpg/e1041053b02bf559aa2cb9420afcb7db.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Coach_1.png/0a9f182fdc6f3812aac1bfe4a050d68d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Cover_Generic.jpg/c84c0f75c7ea95c322b89a71b0db6f8e.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Cover_1024.png/e9b418138bc5df4ab5e0239c810952e4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Cover_Online.jpg/f869225c04a31748511d7bd6aa107790.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Cover_AlbumBkg.jpg/d602d284008ad9c627399a9d922debb4.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Cover_AlbumCoach.png/05df33032a4b62ddb62c69607cf8849a.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Coach_1_Phone.png/18e48f52b262d2d39b2bca6d71457551.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Cover_Phone.jpg/f869225c04a31748511d7bd6aa107790.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_VideoPreview.webm/b38f2143c23352c3fc39ef6af3c9369a.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/wiiu/TheChoice_banner_bkg.tga.ckd/25c75b579a635dd6eed43a01912c32ad.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/wiiu/TheChoice_Coach_1.tga.ckd/de5a64fef2a1b020b0e42be6bbf3d4d1.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/wiiu/TheChoice_Cover_Generic.tga.ckd/b54d770c2a140f228277940a0712e1d8.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Cover_1024.png/e9b418138bc5df4ab5e0239c810952e4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/wiiu/TheChoice_Cover_Online.tga.ckd/be822f25963a8188bb2502ec33749640.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/wiiu/TheChoice_Cover_AlbumBkg.tga.ckd/0943004878452a64286449330a7cd3f1.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/wiiu/TheChoice_Cover_AlbumCoach.tga.ckd/ea449a7b6bc0e141a8d1170a00f0acc1.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Coach_1_Phone.png/18e48f52b262d2d39b2bca6d71457551.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_Cover_Phone.jpg/f869225c04a31748511d7bd6aa107790.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_VideoPreview.webm/b38f2143c23352c3fc39ef6af3c9369a.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27696,55392,83088,110784,138480,166176,193872,221520,249216,276912,304608,332304,360000,387696,415392,443089,470785,498481,526177,553873,581521,609217,636913,664609,692305,720001,747697,775393,803089,830785,858481,886177,913874,941522,969218,996914,1024610,1052306,1080002,1107698,1135394,1163090,1190786,1218482,1246178,1273874,1301522,1329218,1356914,1384611,1412307],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":320,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":51,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/thechoice/thechoice_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "ECAE05FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 189.231,
+  "mapName": "TheChoice",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496476\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheChoice/TheChoice_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1479706\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheChoice/TheChoice_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2913170\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheChoice/TheChoice_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3525219\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheChoice/TheChoice_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "TheChoice_mapContent"
+  },
+  "parentMapName": "TheChoice",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "298900FF",
+    "songColor_1B": "1A3D00FF",
+    "songColor_2A": "D70016FF",
+    "songColor_2B": "400000FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "The Choice Is Yours",
+  "urls": {
+    "jmcs://jd-contents/TheChoice/TheChoice_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_AudioPreview.ogg/a9b705366e9900012564fca38f647eee.ogg",
+    "jmcs://jd-contents/TheChoice/TheChoice_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_MapPreviewNoSoundCrop_HIGH.vp8.webm/b28b91f7b100d5183837a7b9513b4d70.webm",
+    "jmcs://jd-contents/TheChoice/TheChoice_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_MapPreviewNoSoundCrop_HIGH.vp9.webm/bfc339e525effa7cb9ac25ca3979768a.webm",
+    "jmcs://jd-contents/TheChoice/TheChoice_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_MapPreviewNoSoundCrop_LOW.vp8.webm/559606e513353fd4cd5c0d9fd6f561dd.webm",
+    "jmcs://jd-contents/TheChoice/TheChoice_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_MapPreviewNoSoundCrop_LOW.vp9.webm/80b28dd104ab7b05211bf8aca1fb2758.webm",
+    "jmcs://jd-contents/TheChoice/TheChoice_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_MapPreviewNoSoundCrop_MID.vp8.webm/8255bc7a1db0899d17ffb1e66c0158e5.webm",
+    "jmcs://jd-contents/TheChoice/TheChoice_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_MapPreviewNoSoundCrop_MID.vp9.webm/d10eaf3f5560703f8cfbe14023ae3eee.webm",
+    "jmcs://jd-contents/TheChoice/TheChoice_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_MapPreviewNoSoundCrop_ULTRA.vp8.webm/fd8c1d53d47ddd53257167946c5900bc.webm",
+    "jmcs://jd-contents/TheChoice/TheChoice_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TheChoice/TheChoice_MapPreviewNoSoundCrop_ULTRA.vp9.webm/196e7cf516b8cff77b101585b2b7c38b.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "110bf62c410ec59def89b23b178d8c4e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheChoice/ps4/TheChoice_MAIN_SCENE_ORBIS.zip/110bf62c410ec59def89b23b178d8c4e.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "951fc5ee28009254141fc5b40939f899",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheChoice/pc/TheChoice_MAIN_SCENE_PC.zip/951fc5ee28009254141fc5b40939f899.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "79308d767374e91e5ef5594393811413",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheChoice/wiiu/TheChoice_MAIN_SCENE_WIIU.zip/79308d767374e91e5ef5594393811413.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "da77aa145333182417655a30dab3af31",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TheChoice/nx/TheChoice_MAIN_SCENE_NX.zip/da77aa145333182417655a30dab3af31.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

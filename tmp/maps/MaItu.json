@@ -1,0 +1,104 @@
+{
+  "artist": "Stella Mwangi",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/ps4/MaItu_banner_bkg.tga.ckd/71d06b21d5198f36dc27d19143cc9bf0.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/ps4/MaItu_Coach_1.tga.ckd/49f2c75f77d1402aede3580222c7c881.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/ps4/MaItu_Cover_Generic.tga.ckd/9217b5a2abb57ae81386610f268d2170.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/MaItu_Cover_1024.png/9cc6614b737ad5fcc310ae0dfcd0427f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/ps4/MaItu_Cover_Online.tga.ckd/b6ccc317ac86f88e11fcb7e4f5fd0dca.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/ps4/MaItu_Cover_AlbumBkg.tga.ckd/63fa4af1ec4d4e5eebd94b5ab1e600c8.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/ps4/MaItu_Cover_AlbumCoach.tga.ckd/e36c7a3623242cce7becce51cb2091dc.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/MaItu_Coach_1_Phone.png/defdeb5738e043c6193ccc2f8fcf3e15.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/MaItu_Cover_Phone.jpg/ea0e8da2fd06c960518fd9fbb552c34f.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/ps4/MaItu_map_bkg.tga.ckd/507314d45b9e19e70857ecb5facc7523.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/nx/MaItu_banner_bkg.tga.ckd/ceccc4114721a755054e99d999aef466.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/nx/MaItu_Coach_1.tga.ckd/6ff54759a2dac0560c929458f34b2cfa.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/nx/MaItu_Cover_Generic.tga.ckd/e2ad910cd381fbadf285c41488671700.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/MaItu_Cover_1024.png/9cc6614b737ad5fcc310ae0dfcd0427f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/nx/MaItu_Cover_Online.tga.ckd/f4e0346dab359253896e97c7b926e4de.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/nx/MaItu_Cover_AlbumBkg.tga.ckd/ea915f525c45b21842ce18615bb1eb95.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/nx/MaItu_Cover_AlbumCoach.tga.ckd/e8fa06b28ebd0ae3c5554972e823d523.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/MaItu_Coach_1_Phone.png/defdeb5738e043c6193ccc2f8fcf3e15.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/MaItu_Cover_Phone.jpg/ea0e8da2fd06c960518fd9fbb552c34f.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MaItu/nx/MaItu_map_bkg.tga.ckd/bca67fe1549d159a640f1e7e0ef3f627.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22678,45355,68032,90709,113386,136063,158741,181418,204095,226772,249449,272126,294804,317481,340158,362835,385512,408189,430867,453544,476221,498898,521575,544252,566930,589607,612284,634961,657638,680315,702993,725670,748347,771024,793701,816378,839056,861733,884410,907087,929764,952441,975119,997796,1020473,1043150,1065827,1088504,1111182,1133859,1156536,1179213,1201890,1224567,1247245,1269922,1292599,1315276,1337953,1360630,1383308,1405985,1428662],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-10,\"endBeat\":379,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/maitu/maitu_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Stella Mwangi and Tom Rogstad. Published by Position Music Publishing (ASCAP), Choice Tracks Music Publishing (ASCAP), Stella Nyambura Mwangi Music Publishing (ASCAP), Tarn Music (ASCAP). Courtesy of Ubisoft Music, under exclusive management to BMG Rights Management (US) LLC.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "02F6E1FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 183.78099999999998,
+  "mapName": "MaItu",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496351\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MaItu/MaItu_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"588-1077\">\r\n\t\t\t\t\t<Initialization range=\"0-588\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478174\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MaItu/MaItu_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"589-1079\">\r\n\t\t\t\t\t<Initialization range=\"0-589\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2923129\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MaItu/MaItu_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"589-1079\">\r\n\t\t\t\t\t<Initialization range=\"0-589\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3649632\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MaItu/MaItu_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"589-1079\">\r\n\t\t\t\t\t<Initialization range=\"0-589\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "MaItu_mapContent"
+  },
+  "parentMapName": "MaItu",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "5D35E4FF",
+    "songColor_1B": "100C48FF",
+    "songColor_2A": "E29C47FF",
+    "songColor_2B": "A1320FFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "MA ITŪ",
+  "urls": {
+    "jmcs://jd-contents/MaItu/MaItu_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/MaItu/MaItu_AudioPreview.ogg/ded5b446cee41bf142d1b9aa4eecb5b2.ogg",
+    "jmcs://jd-contents/MaItu/MaItu_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/MaItu/MaItu_MapPreviewNoSoundCrop_HIGH.vp8.webm/f4ef5f9d98ad8670c6cb6a02defece51.webm",
+    "jmcs://jd-contents/MaItu/MaItu_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/MaItu/MaItu_MapPreviewNoSoundCrop_HIGH.vp9.webm/479a40dc07b929c8c2f17ef10aa5bd6d.webm",
+    "jmcs://jd-contents/MaItu/MaItu_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/MaItu/MaItu_MapPreviewNoSoundCrop_LOW.vp8.webm/b5d85b40e5c1366b7bc9c82a36f65efb.webm",
+    "jmcs://jd-contents/MaItu/MaItu_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/MaItu/MaItu_MapPreviewNoSoundCrop_LOW.vp9.webm/7f3bb01196dd2f489a3b6fff39bdb2d9.webm",
+    "jmcs://jd-contents/MaItu/MaItu_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/MaItu/MaItu_MapPreviewNoSoundCrop_MID.vp8.webm/4b11953795015aeaa1e7ad29d90f969a.webm",
+    "jmcs://jd-contents/MaItu/MaItu_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/MaItu/MaItu_MapPreviewNoSoundCrop_MID.vp9.webm/8fea13fe917909464e81a00bf571f3b2.webm",
+    "jmcs://jd-contents/MaItu/MaItu_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/MaItu/MaItu_MapPreviewNoSoundCrop_ULTRA.vp8.webm/726cd1f5e13ee7a9a610ba0466f9a023.webm",
+    "jmcs://jd-contents/MaItu/MaItu_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/MaItu/MaItu_MapPreviewNoSoundCrop_ULTRA.vp9.webm/d733240db0c4b76711024952266be473.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "de9d11681e23269c723cc0f002e9eac9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MaItu/ps4/MaItu_MAIN_SCENE_ORBIS.zip/de9d11681e23269c723cc0f002e9eac9.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "55584dca19e05314c9b155ef1d9d9d64",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MaItu/nx/MaItu_MAIN_SCENE_NX.zip/55584dca19e05314c9b155ef1d9d9d64.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "57b5081900cd9064fec49fa09d46cef5",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/MaItu/pc/57b5081900cd9064fec49fa09d46cef5.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

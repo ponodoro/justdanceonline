@@ -1,0 +1,114 @@
+{
+  "artist": "Ke$ha",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_banner_bkg.jpg/d535fe4ef972a2228132bab6729db198.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Coach_1.png/c228567594dc7186f87326dd5ba029f7.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Cover_Generic.jpg/e4dcb41a714a5fb1a3ddc6f751b010a1.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Cover_1024.png/67114bbe979c28156e9b73c2a27c01b0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Cover_Online.jpg/98e7a23e96f0b8cc426ee216718b2a54.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Cover_AlbumBkg.jpg/7bb19634ec3c2273e81d402bb95e0be0.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Cover_AlbumCoach.png/78bfb01a794b1d05a94bb7442ff11d86.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Coach_1_Phone.png/71cf40a517953299aa0f7b2db15805ec.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Cover_Phone.jpg/98e7a23e96f0b8cc426ee216718b2a54.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_VideoPreview.webm/7a5482fcfdccc24da0b986c2ed11c008.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_banner_bkg.jpg/d535fe4ef972a2228132bab6729db198.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Coach_1.png/c228567594dc7186f87326dd5ba029f7.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Cover_Generic.jpg/e4dcb41a714a5fb1a3ddc6f751b010a1.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Cover_1024.png/67114bbe979c28156e9b73c2a27c01b0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Cover_Online.jpg/98e7a23e96f0b8cc426ee216718b2a54.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Cover_AlbumBkg.jpg/7bb19634ec3c2273e81d402bb95e0be0.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Cover_AlbumCoach.png/78bfb01a794b1d05a94bb7442ff11d86.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Coach_1_Phone.png/71cf40a517953299aa0f7b2db15805ec.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Cover_Phone.jpg/98e7a23e96f0b8cc426ee216718b2a54.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_VideoPreview.webm/7a5482fcfdccc24da0b986c2ed11c008.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/wiiu/WeRWhoWeRDLC_banner_bkg.tga.ckd/b12451bd6782d1ec1f0c953ee5bb440b.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/wiiu/WeRWhoWeRDLC_Coach_1.tga.ckd/f9413d5691e47712f0be82ffd2ab6be9.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/wiiu/WeRWhoWeRDLC_Cover_Generic.tga.ckd/13321133c3c93aca0ecd28031a3dce83.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Cover_1024.png/67114bbe979c28156e9b73c2a27c01b0.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/wiiu/WeRWhoWeRDLC_Cover_Online.tga.ckd/c3e5064ea12ba5ac29663f169105c4df.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/wiiu/WeRWhoWeRDLC_Cover_AlbumBkg.tga.ckd/50a9f23a7fdee3b85e6aeb31ee6b5da0.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/wiiu/WeRWhoWeRDLC_Cover_AlbumCoach.tga.ckd/b1795701232c0886a6963cc63c8e660b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Coach_1_Phone.png/71cf40a517953299aa0f7b2db15805ec.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_Cover_Phone.jpg/98e7a23e96f0b8cc426ee216718b2a54.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_VideoPreview.webm/7a5482fcfdccc24da0b986c2ed11c008.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24000,48000,72000,96000,120000,144000,168000,192000,216000,240000,264000,288000,312000,336000,360000,384000,408000,432000,456000,480000,504000,528000,552000,576000,600000,624000,648000,672000,696000,720000,744000,768000,792000,816000,840000,864000,888000,912000,936000,960000,984000,1008000,1032000,1056000,1080000,1104000,1128000,1152000,1176000,1200000,1224000,1248000,1272000,1296000,1320000,1346976],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":424,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":56,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/werwhowerdlc/werwhowerdlc_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF1016FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 212.066,
+  "mapName": "WeRWhoWeRDLC",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT28.48S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT28.48S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"456734\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1256097\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2315870\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3682282\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "WeRWhoWeRDLC_mapContent"
+  },
+  "parentMapName": "WeRWhoWeRDLC",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "940FE4FF",
+    "songColor_1B": "130133FF",
+    "songColor_2A": "CC9204FF",
+    "songColor_2B": "3A0370FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "We R Who We R",
+  "urls": {
+    "jmcs://jd-contents/WeRWhoWeRDLC/WeRWhoWeRDLC_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_AudioPreview.ogg/c95ff758a83ead7e45fb14bf1c5ace28.ogg",
+    "jmcs://jd-contents/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm/4bb5212b01b0f894a92f95d64d010d46.webm",
+    "jmcs://jd-contents/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm/14c673386156e1821093b84d0b9d444d.webm",
+    "jmcs://jd-contents/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/0237599122f45f74cd03c7c581a139d9.webm",
+    "jmcs://jd-contents/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_LOW.vp9.webm/38eadfcc605d79cc61ea45fb8bb11cba.webm",
+    "jmcs://jd-contents/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_MID.vp8.webm/78a514a3455d30fcc21839e009e3620d.webm",
+    "jmcs://jd-contents/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_MID.vp9.webm/fc52d553a4bb145631ddeaa87d34caba.webm",
+    "jmcs://jd-contents/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm/c83d766d5fb8ec2b9402dd76ffce4e9f.webm",
+    "jmcs://jd-contents/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/WeRWhoWeRDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm/e044cace0e8d9e226f879b5bd913f653.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "e1a4a7ac7d8844c2271347222f1d679d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/ps4/WeRWhoWeRDLC_MAIN_SCENE_ORBIS.zip/e1a4a7ac7d8844c2271347222f1d679d.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "e511a9c1b9ccddb93173b8f0725836bd",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/pc/WeRWhoWeRDLC_MAIN_SCENE_PC.zip/e511a9c1b9ccddb93173b8f0725836bd.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "b05880ab118a729037d2bb0908da07ba",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/wiiu/WeRWhoWeRDLC_MAIN_SCENE_WIIU.zip/b05880ab118a729037d2bb0908da07ba.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "1ddb5f582c577f440ead0628f938733b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WeRWhoWeRDLC/nx/WeRWhoWeRDLC_MAIN_SCENE_NX.zip/1ddb5f582c577f440ead0628f938733b.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

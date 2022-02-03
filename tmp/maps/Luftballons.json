@@ -1,0 +1,120 @@
+{
+  "artist": "Rutschen Planeten",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_banner_bkg.jpg/3a8bec2503078a02294deb3f674f562c.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Coach_1.png/161a2e9b1363942de5449bff8929d31a.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Coach_2.png/efecc4c353da9a00f5324699317c10d1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Cover_Generic.jpg/329a9b009d152df4669cc00a60b2d62f.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Cover_1024.png/0ef6029841b490a63ec47571fbe7b9f8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Cover_Online.jpg/cb531d4f85fc1d69cad2494843f01ac9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Cover_AlbumBkg.jpg/a59497a41c60dac56688f9a4aa7a2f82.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Cover_AlbumCoach.png/3c9969d85b79b7d51dfa1d8169ca9e40.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Coach_1_Phone.png/cfd3d82ab1d42001978a181d4b37ef3d.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Coach_2_Phone.png/c61a973ac7c222fffd57d93cc8dbb337.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Cover_Phone.jpg/cb531d4f85fc1d69cad2494843f01ac9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_VideoPreview.webm/9060f007f17d634183fd1de846e4aaca.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_banner_bkg.jpg/3a8bec2503078a02294deb3f674f562c.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Coach_1.png/161a2e9b1363942de5449bff8929d31a.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Coach_2.png/efecc4c353da9a00f5324699317c10d1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Cover_Generic.jpg/329a9b009d152df4669cc00a60b2d62f.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Cover_1024.png/0ef6029841b490a63ec47571fbe7b9f8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Cover_Online.jpg/cb531d4f85fc1d69cad2494843f01ac9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Cover_AlbumBkg.jpg/a59497a41c60dac56688f9a4aa7a2f82.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Cover_AlbumCoach.png/3c9969d85b79b7d51dfa1d8169ca9e40.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Coach_1_Phone.png/cfd3d82ab1d42001978a181d4b37ef3d.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Coach_2_Phone.png/c61a973ac7c222fffd57d93cc8dbb337.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Cover_Phone.jpg/cb531d4f85fc1d69cad2494843f01ac9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_VideoPreview.webm/9060f007f17d634183fd1de846e4aaca.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/wiiu/Luftballons_banner_bkg.tga.ckd/fd31f2c8c9c86ff9a48d43f2fb3c17dc.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/wiiu/Luftballons_Coach_1.tga.ckd/2f21ce7338dd60c3316bb00399d82da2.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/wiiu/Luftballons_Coach_2.tga.ckd/4d644cd313b50b80e55ff0eefccb3586.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/wiiu/Luftballons_Cover_Generic.tga.ckd/931cf3d4dbf0c80cb6302564a7a333cf.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Cover_1024.png/0ef6029841b490a63ec47571fbe7b9f8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/wiiu/Luftballons_Cover_Online.tga.ckd/9d55f300db7ee6c36e48d02c5540aa9c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/wiiu/Luftballons_Cover_AlbumBkg.tga.ckd/752a14b51f0342a54272fcf46282c025.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/wiiu/Luftballons_Cover_AlbumCoach.tga.ckd/e2f401c5d8861006575c7316f2c00f54.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Coach_1_Phone.png/cfd3d82ab1d42001978a181d4b37ef3d.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Coach_2_Phone.png/c61a973ac7c222fffd57d93cc8dbb337.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_Cover_Phone.jpg/cb531d4f85fc1d69cad2494843f01ac9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_VideoPreview.webm/9060f007f17d634183fd1de846e4aaca.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,14880,29760,44688,59568,74448,89376,104256,119184,134064,148944,163872,178752,193632,208560,223440,238320,253248,268128,283055,297935,312815,327743,342623,357503,372431,387311,402191,417119,431999,446927,461807,476687,491615,506495,521375,536303,551183,566111,580991,595871,610799,625679,640559,655487,670367,685247,700175,715055,729983,744863,759743,774671,789551,804431,819359,834239,849119,864047,878927,893855,908735,923615,938543,953423,968303,983231,998111,1012991,1027919,1042799,1057727,1072607,1087487,1102415,1117295,1132175,1147103,1161983,1176911,1191791,1206671,1221599,1236479,1251359,1266287,1281167,1296047,1310975,1325855,1340783,1355663,1370543,1385471,1400351,1415231,1430159],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":748,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":96,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/luftballons/luftballons_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "339999FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 232.154,
+  "mapName": "Luftballons",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496284\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Luftballons/Luftballons_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1476221\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Luftballons/Luftballons_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2893250\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Luftballons/Luftballons_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3336112\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Luftballons/Luftballons_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "Luftballons_mapContent"
+  },
+  "parentMapName": "Luftballons",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FAAD00FF",
+    "songColor_1B": "BC0046FF",
+    "songColor_2A": "5DB8FFFF",
+    "songColor_2B": "144AA2FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "99 Luftballons",
+  "urls": {
+    "jmcs://jd-contents/Luftballons/Luftballons_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_AudioPreview.ogg/9a0d99ca937e23bb896eaae818d98800.ogg",
+    "jmcs://jd-contents/Luftballons/Luftballons_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_MapPreviewNoSoundCrop_HIGH.vp8.webm/29238cfa00e3b23d02d8b89d2d64c1a7.webm",
+    "jmcs://jd-contents/Luftballons/Luftballons_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_MapPreviewNoSoundCrop_HIGH.vp9.webm/58b403367b05252aa19e14caf4c9349c.webm",
+    "jmcs://jd-contents/Luftballons/Luftballons_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_MapPreviewNoSoundCrop_LOW.vp8.webm/5561c7a6ba2ae712213f7e68da5b7226.webm",
+    "jmcs://jd-contents/Luftballons/Luftballons_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_MapPreviewNoSoundCrop_LOW.vp9.webm/bd18d4cb5d53c95541ea9bed6e9f97af.webm",
+    "jmcs://jd-contents/Luftballons/Luftballons_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_MapPreviewNoSoundCrop_MID.vp8.webm/fa978c7a003a59d74910c64fb8f48805.webm",
+    "jmcs://jd-contents/Luftballons/Luftballons_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_MapPreviewNoSoundCrop_MID.vp9.webm/260fd53528ac03ed8670efb0b8fc6ae3.webm",
+    "jmcs://jd-contents/Luftballons/Luftballons_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_MapPreviewNoSoundCrop_ULTRA.vp8.webm/7773546a1409924609b66507bfe996e2.webm",
+    "jmcs://jd-contents/Luftballons/Luftballons_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Luftballons/Luftballons_MapPreviewNoSoundCrop_ULTRA.vp9.webm/b51b25bd1bfdf8f15df59555e1d8443e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a85e80b288ad5dfbce83bb75b6a8a594",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Luftballons/ps4/Luftballons_MAIN_SCENE_ORBIS.zip/a85e80b288ad5dfbce83bb75b6a8a594.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "56a3018a77fd1877f76acfe03c386c3a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Luftballons/pc/Luftballons_MAIN_SCENE_PC.zip/56a3018a77fd1877f76acfe03c386c3a.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "8fd40d39145f94081005aeb7f3555bd7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Luftballons/wiiu/Luftballons_MAIN_SCENE_WIIU.zip/8fd40d39145f94081005aeb7f3555bd7.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "44f5a8f2631c9b5a7a216ae28ca2b812",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Luftballons/nx/Luftballons_MAIN_SCENE_NX.zip/44f5a8f2631c9b5a7a216ae28ca2b812.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

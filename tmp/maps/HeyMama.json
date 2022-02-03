@@ -1,0 +1,123 @@
+{
+  "artist": "David Guetta Ft. Nicki Minaj, Bebe Rexha & Afrojack",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_banner_bkg.jpg/370bdb47201744e0fb4ee6b162716508.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Coach_1.png/f1e5bc56161b4e5b2284ea16309553d6.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Coach_2.png/3ee9a731f3f24be0c6d63615fdeaf4f0.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Coach_3.png/ae6d09003729d72c5913749343c20285.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Cover_Generic.jpg/c4860d615cb3e68b328a294cdc1af78b.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Cover_1024.png/4d92c98eb5d1ad540a48d72781495a15.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Cover_Online.jpg/fdc64574b44a7f606409ca6c629b3acf.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Cover_AlbumBkg.jpg/d6e2c2425e9f85c08607a86b932fdeda.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Cover_AlbumCoach.png/4b0697d2425440defea8f01008c6a250.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Coach_1_Phone.png/e27587a221da25e30412524064d7af2e.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Coach_2_Phone.png/452e0a91ae8d7a688c2dd7dff0276455.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Coach_3_Phone.png/2316e884d9815bdd575d8fa016915fc8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Cover_Phone.jpg/fdc64574b44a7f606409ca6c629b3acf.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_banner_bkg.jpg/370bdb47201744e0fb4ee6b162716508.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Coach_1.png/f1e5bc56161b4e5b2284ea16309553d6.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Coach_2.png/3ee9a731f3f24be0c6d63615fdeaf4f0.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Coach_3.png/ae6d09003729d72c5913749343c20285.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Cover_Generic.jpg/c4860d615cb3e68b328a294cdc1af78b.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Cover_1024.png/4d92c98eb5d1ad540a48d72781495a15.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Cover_Online.jpg/fdc64574b44a7f606409ca6c629b3acf.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Cover_AlbumBkg.jpg/d6e2c2425e9f85c08607a86b932fdeda.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Cover_AlbumCoach.png/4b0697d2425440defea8f01008c6a250.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Coach_1_Phone.png/e27587a221da25e30412524064d7af2e.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Coach_2_Phone.png/452e0a91ae8d7a688c2dd7dff0276455.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Coach_3_Phone.png/2316e884d9815bdd575d8fa016915fc8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Cover_Phone.jpg/fdc64574b44a7f606409ca6c629b3acf.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/wiiu/HeyMama_banner_bkg.tga.ckd/7f59207d928ac5bc20c271ef235bf67e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/wiiu/HeyMama_Coach_1.tga.ckd/ac723d90039ffba744bf498eff007c13.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/wiiu/HeyMama_Coach_2.tga.ckd/59a305289e3b70fd40b9c0134b2ade05.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/wiiu/HeyMama_Coach_3.tga.ckd/e769fab9ed270e9bf28e79ddb4a84754.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/wiiu/HeyMama_Cover_Generic.tga.ckd/beff279e0a782b5c8fdb2e1d9d8a2fd1.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Cover_1024.png/4d92c98eb5d1ad540a48d72781495a15.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/wiiu/HeyMama_Cover_Online.tga.ckd/b0fcf82af1ed88cc7f5080f81a6a4c10.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/wiiu/HeyMama_Cover_AlbumBkg.tga.ckd/47971b147c85bc2e3e0ed937a6982468.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/wiiu/HeyMama_Cover_AlbumCoach.tga.ckd/a9fe5ca6a5f220c2802538924692fc82.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Coach_1_Phone.png/e27587a221da25e30412524064d7af2e.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Coach_2_Phone.png/452e0a91ae8d7a688c2dd7dff0276455.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Coach_3_Phone.png/2316e884d9815bdd575d8fa016915fc8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_Cover_Phone.jpg/fdc64574b44a7f606409ca6c629b3acf.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,33504,66960,100464,133968,167424,200928,234432,267888,301392,334896,368400,401856,435360,468864,502320,535824,569329,602785,636289,669793,703249,736753,770257,803713,837217,870721,904177,937681,971185,1004641,1038145,1071649,1105105,1138609,1172113,1205569,1239073,1272577,1306033,1339537,1373041,1406497],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":276,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":42,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/heymama/heymama_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFAC3AFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 195.349,
+  "mapName": "HeyMama",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495601\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyMama/HeyMama_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"617-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-617\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1457556\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyMama/HeyMama_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2529848\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyMama/HeyMama_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3799661\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyMama/HeyMama_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "HeyMama_mapContent"
+  },
+  "parentMapName": "HeyMama",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "E49800FF",
+    "songColor_1B": "972500FF",
+    "songColor_2A": "4357C7FF",
+    "songColor_2B": "00051EFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Hey Mama",
+  "urls": {
+    "jmcs://jd-contents/HeyMama/HeyMama_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_AudioPreview.ogg/4db5edcdf0a2c913fb893cec5d770f47.ogg",
+    "jmcs://jd-contents/HeyMama/HeyMama_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_MapPreviewNoSoundCrop_HIGH.vp8.webm/bb26172a9a540a654a713c656b41a80c.webm",
+    "jmcs://jd-contents/HeyMama/HeyMama_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_MapPreviewNoSoundCrop_HIGH.vp9.webm/102fcc88dda5d59e4bff2db5cd6a81d0.webm",
+    "jmcs://jd-contents/HeyMama/HeyMama_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_MapPreviewNoSoundCrop_LOW.vp8.webm/28bb26ed30aa2404eace75f5523df6d4.webm",
+    "jmcs://jd-contents/HeyMama/HeyMama_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_MapPreviewNoSoundCrop_LOW.vp9.webm/ac18f4e4f839cee2895fdabfc9df37ad.webm",
+    "jmcs://jd-contents/HeyMama/HeyMama_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_MapPreviewNoSoundCrop_MID.vp8.webm/3f1266aa9d4841f0db88fc5e178edb7d.webm",
+    "jmcs://jd-contents/HeyMama/HeyMama_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_MapPreviewNoSoundCrop_MID.vp9.webm/a8fe66881bd1fa9ff63873d8fb8eee5a.webm",
+    "jmcs://jd-contents/HeyMama/HeyMama_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_MapPreviewNoSoundCrop_ULTRA.vp8.webm/318a52f7e2fb3588ca1a20114b8f25f4.webm",
+    "jmcs://jd-contents/HeyMama/HeyMama_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/HeyMama/HeyMama_MapPreviewNoSoundCrop_ULTRA.vp9.webm/9582cd0981d0a638820026933d97c122.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "70683a19c5d07701a36d47d326cb50f8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HeyMama/ps4/HeyMama_MAIN_SCENE_ORBIS.zip/70683a19c5d07701a36d47d326cb50f8.zip",
+      "version": 33
+    },
+    "pc": {
+      "md5": "4f19b3d44daf6272a9fe213afebad30a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HeyMama/pc/HeyMama_MAIN_SCENE_PC.zip/4f19b3d44daf6272a9fe213afebad30a.zip",
+      "version": 23
+    },
+    "wiiu": {
+      "md5": "7870b251a1a67dbba688d680fc78fdb4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HeyMama/wiiu/HeyMama_MAIN_SCENE_WIIU.zip/7870b251a1a67dbba688d680fc78fdb4.zip",
+      "version": 29
+    },
+    "nx": {
+      "md5": "32c2227727f59a510cc4cd9480910421",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HeyMama/nx/HeyMama_MAIN_SCENE_NX.zip/32c2227727f59a510cc4cd9480910421.zip",
+      "version": 27
+    }
+  },
+  "mapType": "jdu"
+}

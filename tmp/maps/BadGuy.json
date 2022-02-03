@@ -1,0 +1,104 @@
+{
+  "artist": "Billie Eilish",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/ps4/BadGuy_banner_bkg.tga.ckd/bc0e3148f6a507b9eac298785980ca70.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/ps4/BadGuy_Coach_1.tga.ckd/431f45512b3777f28df18b968c807c4c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/ps4/BadGuy_Cover_Generic.tga.ckd/70d6c94974749a65e0de4a4946c2eaec.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/BadGuy_Cover_1024.png/44bfa3223945c16149b3831e8aaecd2e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/ps4/BadGuy_Cover_Online.tga.ckd/5e5a5e3c497076f25330055c30db2050.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/ps4/BadGuy_Cover_AlbumBkg.tga.ckd/7a20890a61eb6cc6d910c8ea86b96229.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/ps4/BadGuy_Cover_AlbumCoach.tga.ckd/35d266da4aacf01818cdc5fef5cfb0df.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/BadGuy_Coach_1_Phone.png/91466b5a1f009256a4648d3f7b8e8d78.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/BadGuy_Cover_Phone.jpg/e41352e520f70841c8297c05a541605e.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/ps4/BadGuy_map_bkg.tga.ckd/3d2b0cb0fef7c3b827176db48162a4a4.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/nx/BadGuy_banner_bkg.tga.ckd/4a1e23b1a4d3b06d84cb790984f73e1d.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/nx/BadGuy_Coach_1.tga.ckd/f3d5c18b6e3b7a3ee485b74a93801429.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/nx/BadGuy_Cover_Generic.tga.ckd/065435aca8e847c672cf0ba5f925680b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/BadGuy_Cover_1024.png/44bfa3223945c16149b3831e8aaecd2e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/nx/BadGuy_Cover_Online.tga.ckd/8423bc24568c6dcfbacaa78d72f4660b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/nx/BadGuy_Cover_AlbumBkg.tga.ckd/f3f271ed695b3246b5b709aaada8dcb9.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/nx/BadGuy_Cover_AlbumCoach.tga.ckd/e86ec44597395165fccaa006118dbdea.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/BadGuy_Coach_1_Phone.png/91466b5a1f009256a4648d3f7b8e8d78.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/BadGuy_Cover_Phone.jpg/e41352e520f70841c8297c05a541605e.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadGuy/nx/BadGuy_map_bkg.tga.ckd/dcb896d3e8e86bc0c6ff6f1166b78553.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21334,42667,64000,85334,106667,128000,149334,170667,192000,213334,234667,256000,277334,298667,320000,341334,362667,384000,405334,426667,448000,469334,490667,512000,533334,554667,576000,597334,618667,640000,661334,682667,704000,725334,746667,768000,789334,810667,832000,853334,874667,896000,917334,938667,960000,981334,1002667,1024000,1045334,1066667,1088000,1109334,1130667,1152000,1173334,1194667,1216000,1237334,1258667,1280000,1301334,1322667,1344000,1365334,1386667,1408000,1429334],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":425,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":67,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/badguy/badguy_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Billie Eilish O’Connell and Finneas O’Connell. Published by Universal Music Publishing Canada on behalf of Universal Music Corp. / Kobalt Songs Music Publishing obo Last Frontier. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FB5127FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 195.834,
+  "mapName": "BadGuy",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496166\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadGuy/BadGuy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"590-1079\">\r\n\t\t\t\t\t<Initialization range=\"0-590\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1477618\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadGuy/BadGuy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"591-1081\">\r\n\t\t\t\t\t<Initialization range=\"0-591\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2938089\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadGuy/BadGuy_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"591-1081\">\r\n\t\t\t\t\t<Initialization range=\"0-591\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5643648\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadGuy/BadGuy_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"591-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-591\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "BadGuy_mapContent"
+  },
+  "parentMapName": "BadGuy",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "7A3FB3FF",
+    "songColor_1B": "3F2A8FFF",
+    "songColor_2A": "8F4700FF",
+    "songColor_2B": "DDA94CFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "bad guy",
+  "urls": {
+    "jmcs://jd-contents/BadGuy/BadGuy_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BadGuy/BadGuy_AudioPreview.ogg/e879754e85dda7c7c0a27d15fc341761.ogg",
+    "jmcs://jd-contents/BadGuy/BadGuy_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BadGuy/BadGuy_MapPreviewNoSoundCrop_HIGH.vp8.webm/294c50a4260dbcd7580ff3eb463ec8e7.webm",
+    "jmcs://jd-contents/BadGuy/BadGuy_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BadGuy/BadGuy_MapPreviewNoSoundCrop_HIGH.vp9.webm/635f186b1a08c8e7c47b7d42cfc1b346.webm",
+    "jmcs://jd-contents/BadGuy/BadGuy_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BadGuy/BadGuy_MapPreviewNoSoundCrop_LOW.vp8.webm/9ed557c667e8052a0bdf62f5b5d84873.webm",
+    "jmcs://jd-contents/BadGuy/BadGuy_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BadGuy/BadGuy_MapPreviewNoSoundCrop_LOW.vp9.webm/c35a3a104aacae41351fd76667ff5cbd.webm",
+    "jmcs://jd-contents/BadGuy/BadGuy_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BadGuy/BadGuy_MapPreviewNoSoundCrop_MID.vp8.webm/8420febe8878d8f92cac0f7f02d55d17.webm",
+    "jmcs://jd-contents/BadGuy/BadGuy_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BadGuy/BadGuy_MapPreviewNoSoundCrop_MID.vp9.webm/8d75e3d6642c397fdf8f73645c9bb420.webm",
+    "jmcs://jd-contents/BadGuy/BadGuy_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BadGuy/BadGuy_MapPreviewNoSoundCrop_ULTRA.vp8.webm/914aa7db30f25e96d2de8ae6d43bed4c.webm",
+    "jmcs://jd-contents/BadGuy/BadGuy_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BadGuy/BadGuy_MapPreviewNoSoundCrop_ULTRA.vp9.webm/f0429bf47ed0248d399a6076d179d42f.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "29ce4e92ebf7301027e789075b8d2ee7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BadGuy/ps4/BadGuy_MAIN_SCENE_ORBIS.zip/29ce4e92ebf7301027e789075b8d2ee7.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "360050df64c8c6d6e1a12977c332b269",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BadGuy/nx/BadGuy_MAIN_SCENE_NX.zip/360050df64c8c6d6e1a12977c332b269.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "30c843485dcaddd83774248c562d5b9e",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/BadGuy/pc/30c843485dcaddd83774248c562d5b9e.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

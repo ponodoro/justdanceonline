@@ -1,0 +1,117 @@
+{
+  "artist": "PSY",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_banner_bkg.jpg/0423e5d65dde172b8e796cca7e215026.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Coach_1.png/0cb5fd2c84cf8afcea1799cada288fb7.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Coach_2.png/73a005b8c899eea31641804d7ff7c491.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Cover_Generic.jpg/fddfd93dc3ab77500940d516a9a274a0.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Cover_1024.png/593b672ad3828a39a778efc2f152db3c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Cover_Online.jpg/3ac3a363e6e52f03033b1859080d2446.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Cover_AlbumBkg.jpg/3d07de8e988e18fc48aa8874ed23fb48.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Cover_AlbumCoach.png/6f819c8dc626017d268d73835753ca66.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Coach_1_Phone.png/a602cd05a6342582b36a5640913e482c.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Coach_2_Phone.png/8493b156f35cc46a4c5bc2013952decc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Cover_Phone.jpg/3ac3a363e6e52f03033b1859080d2446.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_banner_bkg.jpg/0423e5d65dde172b8e796cca7e215026.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Coach_1.png/0cb5fd2c84cf8afcea1799cada288fb7.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Coach_2.png/73a005b8c899eea31641804d7ff7c491.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Cover_Generic.jpg/fddfd93dc3ab77500940d516a9a274a0.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Cover_1024.png/593b672ad3828a39a778efc2f152db3c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Cover_Online.jpg/3ac3a363e6e52f03033b1859080d2446.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Cover_AlbumBkg.jpg/3d07de8e988e18fc48aa8874ed23fb48.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Cover_AlbumCoach.png/6f819c8dc626017d268d73835753ca66.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Coach_1_Phone.png/a602cd05a6342582b36a5640913e482c.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Coach_2_Phone.png/8493b156f35cc46a4c5bc2013952decc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Cover_Phone.jpg/3ac3a363e6e52f03033b1859080d2446.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/wiiu/GangnamStyleDLC_banner_bkg.tga.ckd/9e6650b2569d40c916da02de90e5c796.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/wiiu/GangnamStyleDLC_Coach_1.tga.ckd/52b6a39b354d11c74bfe8e3245e417b6.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/wiiu/GangnamStyleDLC_Coach_2.tga.ckd/745851711eba5f4638a8307486416482.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/wiiu/GangnamStyleDLC_Cover_Generic.tga.ckd/233cc6dc04b1b538f48d480b035b69bd.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Cover_1024.png/593b672ad3828a39a778efc2f152db3c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/wiiu/GangnamStyleDLC_Cover_Online.tga.ckd/9083f3546a74377eba783107dad5dab2.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/wiiu/GangnamStyleDLC_Cover_AlbumBkg.tga.ckd/cfec580e382eb671403a2719ab26854d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/wiiu/GangnamStyleDLC_Cover_AlbumCoach.tga.ckd/5597fd1819dea7075f613fbc3868ddd2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Coach_1_Phone.png/a602cd05a6342582b36a5640913e482c.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Coach_2_Phone.png/8493b156f35cc46a4c5bc2013952decc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_Cover_Phone.jpg/3ac3a363e6e52f03033b1859080d2446.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21792,43632,65471,87263,109103,130895,152735,174527,196367,218159,239999,261791,283631,305471,327263,349103,370895,392735,414527,436367,458159,479999,501791,523631,545471,567263,589103,610895,632735,654527,676367,698159,719999,741791,763631,785471,807263,829103,850895,872735,894526,916366,938158,959998,981790,1003630,1025470,1047262,1069102,1090894,1112734,1134526,1156366,1178158,1199998,1221790,1243630,1265470,1287262,1309102,1330894,1352734,1374526,1396366,1418158,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":486,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":66,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/gangnamstyledlc/gangnamstyledlc_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "03FAD1FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 221.06199999999998,
+  "mapName": "GangnamStyleDLC",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496584\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482195\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2936028\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3723464\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "GangnamStyleDLC_mapContent"
+  },
+  "parentMapName": "GangnamStyleDLC",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "D60042FF",
+    "songColor_1B": "61006BFF",
+    "songColor_2A": "FFF432FF",
+    "songColor_2B": "CF5516FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Gangnam Style",
+  "urls": {
+    "jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_AudioPreview.ogg/c2cd3533087952401b40cc7f156a9082.ogg",
+    "jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm/3e92d301a477a3a822cbcba10d17cb8f.webm",
+    "jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm/2e5c839408ebd4925c246f06375ac794.webm",
+    "jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/a446068a4b07e22ba3e14d742c319c3d.webm",
+    "jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_LOW.vp9.webm/ff9bee7d9cfade1979d492dfff3c7164.webm",
+    "jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_MID.vp8.webm/3c91de60b02e09c3b91504de721e73ee.webm",
+    "jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_MID.vp9.webm/d1c3c33df062c524fba4581c29cd179d.webm",
+    "jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm/11c0624365beb68296bc925f4d1a72bc.webm",
+    "jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/GangnamStyleDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm/1c3b7e17fb01c13be1960e72d72873e1.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a9f95f980044a89ed726b53dc5dcf344",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/ps4/GangnamStyleDLC_MAIN_SCENE_ORBIS.zip/a9f95f980044a89ed726b53dc5dcf344.zip",
+      "version": 12
+    },
+    "pc": {
+      "md5": "21c776e82757b5888058ee5628155be1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/pc/GangnamStyleDLC_MAIN_SCENE_PC.zip/21c776e82757b5888058ee5628155be1.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "5d77e377687229ed54d304fcccf7091c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/wiiu/GangnamStyleDLC_MAIN_SCENE_WIIU.zip/5d77e377687229ed54d304fcccf7091c.zip",
+      "version": 11
+    },
+    "nx": {
+      "md5": "e396a4a9f2c8364f066874a451058eda",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GangnamStyleDLC/nx/GangnamStyleDLC_MAIN_SCENE_NX.zip/e396a4a9f2c8364f066874a451058eda.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

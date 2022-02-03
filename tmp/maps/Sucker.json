@@ -1,0 +1,106 @@
+{
+  "artist": "Jonas Brothers",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/ggp/Sucker_banner_bkg.tga.ckd/e72e9ec7367034a70eaa6222571321b5.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/ggp/Sucker_Coach_1.tga.ckd/152e3b999567faf8066999f9b0f1fe23.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/ggp/Sucker_Coach_2.tga.ckd/f85fa8754f81b40467f7ad60e3dcf6a0.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/ggp/Sucker_Cover_Generic.tga.ckd/02da95ea30bd3841d3af5ea8b42f25a8.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_Cover_1024.png/e067fdba036b0faa1b20c4b5ec4ebd54.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/ggp/Sucker_Cover_Online.tga.ckd/38c2c74407a5517ee40eae0044c79d2e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/ggp/Sucker_Cover_AlbumBkg.tga.ckd/69731c07a016ae8c226611be716d717f.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/ggp/Sucker_Cover_AlbumCoach.tga.ckd/4cba973f9890894dc504c7ffb0243bd2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_Coach_1_Phone.png/ea2c4baaf7b6f5438d9a212fafe79648.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_Coach_2_Phone.png/471a6ff4e301501ede3782066305353a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_Cover_Phone.jpg/02a78e8be989f8b00a1409f8d3ae5bd5.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_VideoPreview.webm/366891567922f8f862f54e9a4a07af2a.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/ggp/Sucker_map_bkg.tga.ckd/24a9667f3b15e773837645f157b0ef37.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/nx/Sucker_banner_bkg.tga.ckd/c9925d40f10d9b5dd00868d5773acbf5.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/nx/Sucker_Coach_1.tga.ckd/913642420a33445fd472158e202c4a90.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/nx/Sucker_Coach_2.tga.ckd/e028f01e488e9dddd23d5ce09af4c60d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/nx/Sucker_Cover_Generic.tga.ckd/f76caaca2066905c3ae85cdcd8a9c22c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_Cover_1024.png/e067fdba036b0faa1b20c4b5ec4ebd54.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/nx/Sucker_Cover_Online.tga.ckd/a5c72b4cdff7e8c8adb5bd310088ab5f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/nx/Sucker_Cover_AlbumBkg.tga.ckd/c23ac8a9ba94dda9578d7bbcf884bc96.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/nx/Sucker_Cover_AlbumCoach.tga.ckd/f5a3efa2a8be5bc81e851b553904483c.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/nx/Sucker_map_bkg.tga.ckd/6799a5225d8d0fdbf296f5684ed3b5bf.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_Coach_1_Phone.png/ea2c4baaf7b6f5438d9a212fafe79648.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_Coach_2_Phone.png/471a6ff4e301501ede3782066305353a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_Cover_Phone.jpg/02a78e8be989f8b00a1409f8d3ae5bd5.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_VideoPreview.webm/366891567922f8f862f54e9a4a07af2a.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20870,41739,62609,83478,104348,125218,146087,166957,187826,208696,229565,250435,271304,292174,313044,333913,354783,375652,396522,417391,438261,459131,480000,500870,521739,542609,563478,584348,605218,626087,646957,667826,688696,709565,730435,751304,772174,793044,813913,834783,855652,876522,897391,918261,939131,960000,980870,1001739,1022609,1043478,1064348,1085218,1106087,1126957,1147826,1168696,1189565,1210435,1231304,1252174,1273044,1293913,1314783,1335652,1356522,1377391,1398261,1419131],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":416,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":68,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/sucker/sucker_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "5DDAFFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 183.47799999999998,
+  "mapName": "Sucker",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496523\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sucker/Sucker_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"610-1099\">\r\n\t\t\t\t\t<Initialization range=\"0-610\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481183\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sucker/Sucker_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"611-1101\">\r\n\t\t\t\t\t<Initialization range=\"0-611\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2943666\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sucker/Sucker_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"611-1101\">\r\n\t\t\t\t\t<Initialization range=\"0-611\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5734820\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sucker/Sucker_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"611-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-611\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "Sucker_mapContent"
+  },
+  "parentMapName": "Sucker",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "68A0FCFF",
+    "songColor_1B": "3F2265FF",
+    "songColor_2A": "DAE1F7FF",
+    "songColor_2B": "486EACFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Sucker",
+  "urls": {
+    "jmcs://jd-contents/Sucker/Sucker_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_AudioPreview.ogg/532a9cdb41b63bb47100c553d2c97c2b.ogg",
+    "jmcs://jd-contents/Sucker/Sucker_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_MapPreviewNoSoundCrop_HIGH.vp8.webm/a323fc7764701d31717e494825dae509.webm",
+    "jmcs://jd-contents/Sucker/Sucker_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_MapPreviewNoSoundCrop_HIGH.vp9.webm/707d47cbe68383c5713ce83909dd4056.webm",
+    "jmcs://jd-contents/Sucker/Sucker_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_MapPreviewNoSoundCrop_LOW.vp8.webm/c73695816fc9686e7f6e7f849edde3d7.webm",
+    "jmcs://jd-contents/Sucker/Sucker_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_MapPreviewNoSoundCrop_LOW.vp9.webm/a3bb8df0d6b440c6b0ce3f7229526ec6.webm",
+    "jmcs://jd-contents/Sucker/Sucker_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_MapPreviewNoSoundCrop_MID.vp8.webm/597dadbb2b470645800811d643c1cda3.webm",
+    "jmcs://jd-contents/Sucker/Sucker_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_MapPreviewNoSoundCrop_MID.vp9.webm/370a0c49a3c73068ae85f7e8a1c71846.webm",
+    "jmcs://jd-contents/Sucker/Sucker_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_MapPreviewNoSoundCrop_ULTRA.vp8.webm/16a020904ef7adebd3096e70d5adc208.webm",
+    "jmcs://jd-contents/Sucker/Sucker_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Sucker/Sucker_MapPreviewNoSoundCrop_ULTRA.vp9.webm/f7667aa7da9f140c5bb1fd2015bd4ed9.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "91114958ae2caa207163f11bffa47dd0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Sucker/ps4/Sucker_MAIN_SCENE_ORBIS.zip/91114958ae2caa207163f11bffa47dd0.zip",
+      "version": 31
+    },
+    "pc": {
+      "md5": "00466848f9c1dd092a1e0b7f0fdb6230",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Sucker/pc/Sucker_MAIN_SCENE_PC.zip/00466848f9c1dd092a1e0b7f0fdb6230.zip",
+      "version": 10
+    },
+    "wiiu": {
+      "md5": "",
+      "version": 0
+    },
+    "nx": {
+      "md5": "cffe370d496ebd59b8d1a4d740af4982",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Sucker/nx/Sucker_MAIN_SCENE_NX.zip/cffe370d496ebd59b8d1a4d740af4982.zip",
+      "version": 31
+    }
+  },
+  "mapType": "jdu"
+}

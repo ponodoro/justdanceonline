@@ -1,0 +1,117 @@
+{
+  "artist": "Bollywood Rainbow",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_banner_bkg.jpg/7a2cbc46725eddf1a0d9237735992d15.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Coach_1.png/d0cdde31dbc2c473eebf81c503665559.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Coach_2.png/d4d7f3edc5b65bce0aad2056c33c0f93.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Cover_Generic.jpg/bf841efdc78231e5826e626243c3c521.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Cover_1024.png/dd68554c305f2ec641250d5f13643cc4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Cover_Online.jpg/41fcdcbc5441d74a55a394201834e352.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Cover_AlbumBkg.jpg/d18fb694e2dfb20f6fb4d69c02cfd4f2.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Cover_AlbumCoach.png/8da684438508f68db6e5927dbfac15d0.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Coach_1_Phone.png/6d5e3c6e25f6a2d6b55302603b783264.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Coach_2_Phone.png/547ee522d758beefb056fe488817173e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Cover_Phone.jpg/41fcdcbc5441d74a55a394201834e352.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_banner_bkg.jpg/7a2cbc46725eddf1a0d9237735992d15.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Coach_1.png/d0cdde31dbc2c473eebf81c503665559.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Coach_2.png/d4d7f3edc5b65bce0aad2056c33c0f93.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Cover_Generic.jpg/bf841efdc78231e5826e626243c3c521.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Cover_1024.png/dd68554c305f2ec641250d5f13643cc4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Cover_Online.jpg/41fcdcbc5441d74a55a394201834e352.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Cover_AlbumBkg.jpg/d18fb694e2dfb20f6fb4d69c02cfd4f2.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Cover_AlbumCoach.png/8da684438508f68db6e5927dbfac15d0.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Coach_1_Phone.png/6d5e3c6e25f6a2d6b55302603b783264.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Coach_2_Phone.png/547ee522d758beefb056fe488817173e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Cover_Phone.jpg/41fcdcbc5441d74a55a394201834e352.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/wiiu/Kurio_banner_bkg.tga.ckd/ec433e6ce852d14bbf01f098b08ae44a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/wiiu/Kurio_Coach_1.tga.ckd/c2b752cd44d8dd3adf1debd1fe2d644f.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/wiiu/Kurio_Coach_2.tga.ckd/804bcecea185f8aeff28cfa19d5d8d38.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/wiiu/Kurio_Cover_Generic.tga.ckd/7798f4e0b3c41d49884aae9abdd32ec9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Cover_1024.png/dd68554c305f2ec641250d5f13643cc4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/wiiu/Kurio_Cover_Online.tga.ckd/9b933cffd03fa51ac308efbffdff7218.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/wiiu/Kurio_Cover_AlbumBkg.tga.ckd/6e13be0b7ec6a8f65a31327defcbb5f8.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/wiiu/Kurio_Cover_AlbumCoach.tga.ckd/52ec80a77956b9b24f4fd98ebafef902.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Coach_1_Phone.png/6d5e3c6e25f6a2d6b55302603b783264.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Coach_2_Phone.png/547ee522d758beefb056fe488817173e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_Cover_Phone.jpg/41fcdcbc5441d74a55a394201834e352.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27961,55922,83882,111843,139804,167765,195726,223687,251647,279608,307569,335530,363491,391451,419412,447373,475334,503295,531256,559216,587177,615138,643099,671060,699020,726981,754942,782903,810864,838824,866785,894746,922707,950668,978629,1006589,1034550,1062511,1090472,1118433,1146393,1174354,1202315,1230276,1258237,1286198,1314158,1342119,1370080,1398041,1426002],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":298,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":51,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/kurio/kurio_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "74CEE0FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 174.778,
+  "mapName": "Kurio",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496740\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Kurio/Kurio_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1471357\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Kurio/Kurio_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"627-1117\">\r\n\t\t\t\t\t<Initialization range=\"0-627\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1854342\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Kurio/Kurio_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"627-1117\">\r\n\t\t\t\t\t<Initialization range=\"0-627\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1858549\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Kurio/Kurio_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"627-1117\">\r\n\t\t\t\t\t<Initialization range=\"0-627\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "Kurio_mapContent"
+  },
+  "parentMapName": "Kurio",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "CC00A2FF",
+    "songColor_1B": "530076FF",
+    "songColor_2A": "FF9F1CFF",
+    "songColor_2B": "790000FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Kurio Ko Uddah Le Jana",
+  "urls": {
+    "jmcs://jd-contents/Kurio/Kurio_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_AudioPreview.ogg/eec9ea10320a4fe5bfeca142a05777b8.ogg",
+    "jmcs://jd-contents/Kurio/Kurio_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_MapPreviewNoSoundCrop_HIGH.vp8.webm/a20cfded48d100f9b88478bbe354f7fc.webm",
+    "jmcs://jd-contents/Kurio/Kurio_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_MapPreviewNoSoundCrop_HIGH.vp9.webm/fa3a2c3aaf00585b97dcf0601b4b18e4.webm",
+    "jmcs://jd-contents/Kurio/Kurio_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_MapPreviewNoSoundCrop_LOW.vp8.webm/b03165f5883d6c6241911312b7ed2e81.webm",
+    "jmcs://jd-contents/Kurio/Kurio_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_MapPreviewNoSoundCrop_LOW.vp9.webm/30d3383281a2d61d91345247e1c32fed.webm",
+    "jmcs://jd-contents/Kurio/Kurio_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_MapPreviewNoSoundCrop_MID.vp8.webm/dfb5f5b8010b106704a911aadb23cf23.webm",
+    "jmcs://jd-contents/Kurio/Kurio_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_MapPreviewNoSoundCrop_MID.vp9.webm/4b24e8784f78feb3334fc1ff4affcf6d.webm",
+    "jmcs://jd-contents/Kurio/Kurio_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_MapPreviewNoSoundCrop_ULTRA.vp8.webm/59b0146bafdb1f99769943b92e1c4a2b.webm",
+    "jmcs://jd-contents/Kurio/Kurio_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Kurio/Kurio_MapPreviewNoSoundCrop_ULTRA.vp9.webm/18f06afbd66e8552694216773028a773.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "ed837fbecec0c18de12f509a7a74bb4a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Kurio/ps4/Kurio_MAIN_SCENE_ORBIS.zip/ed837fbecec0c18de12f509a7a74bb4a.zip",
+      "version": 14
+    },
+    "pc": {
+      "md5": "39f150756741eb421bd83bbb2356546b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Kurio/pc/Kurio_MAIN_SCENE_PC.zip/39f150756741eb421bd83bbb2356546b.zip",
+      "version": 8
+    },
+    "wiiu": {
+      "md5": "99768c2ac215ec201878c449816045bb",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Kurio/wiiu/Kurio_MAIN_SCENE_WIIU.zip/99768c2ac215ec201878c449816045bb.zip",
+      "version": 13
+    },
+    "nx": {
+      "md5": "dfa928183403f0e56c8f3e9285c6fecb",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Kurio/nx/Kurio_MAIN_SCENE_NX.zip/dfa928183403f0e56c8f3e9285c6fecb.zip",
+      "version": 7
+    }
+  },
+  "mapType": "jdu"
+}

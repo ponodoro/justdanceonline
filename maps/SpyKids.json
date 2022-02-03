@@ -1,0 +1,92 @@
+{
+  "artist": "The Step Brigade",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SpyKids/SpyKids_banner_bkg.jpg/30df4ee27aaa589ef445142a1f4d0406.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SpyKids/SpyKids_Coach_1.png/b9fd3f1a6fd05fe547387c3baa8c07cc.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SpyKids/SpyKids_Cover_Generic.jpg/effc43323ae80ca9f6ca3e161f29525b.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SpyKids/SpyKids_Cover_Online.jpg/e91670b90a898f247b0d05d572f516e1.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SpyKids/SpyKids_Cover_AlbumBkg.jpg/d404b9eebb27bf02bc4c2f2612e294d5.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SpyKids/SpyKids_Cover_AlbumCoach.png/d4c87898bdd93fa777246700f82db647.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SpyKids/SpyKids_Coach_1_Phone.png/2b438a649f852bf0725df0c29ba97ddd.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SpyKids/SpyKids_Cover_Phone.jpg/e91670b90a898f247b0d05d572f516e1.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SpyKids/SpyKids_banner_bkg.jpg/30df4ee27aaa589ef445142a1f4d0406.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SpyKids/SpyKids_Coach_1.png/b9fd3f1a6fd05fe547387c3baa8c07cc.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SpyKids/SpyKids_Cover_Generic.jpg/effc43323ae80ca9f6ca3e161f29525b.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SpyKids/SpyKids_Cover_Online.jpg/e91670b90a898f247b0d05d572f516e1.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SpyKids/SpyKids_Cover_AlbumBkg.jpg/d404b9eebb27bf02bc4c2f2612e294d5.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SpyKids/SpyKids_Cover_AlbumCoach.png/d4c87898bdd93fa777246700f82db647.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SpyKids/SpyKids_Coach_1_Phone.png/2b438a649f852bf0725df0c29ba97ddd.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SpyKids/SpyKids_Cover_Phone.jpg/e91670b90a898f247b0d05d572f516e1.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24407,48814,73221,97628,122034,146441,170848,195255,219661,244068,268475,292882,317289,341695,366102,390509,414916,439322,463729,488136,512543,536950,561356,585763,610170,634577,658983,683390,707797,732204,756611,781017,805424,829831,854238,878644,903051,927458,951865,976272,1000678,1025085,1049492,1073899,1098305,1122712,1147119,1171526,1195933,1220339,1244746,1269153,1293560,1317966,1342373,1366780,1391187,1415594],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":163,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":58,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/spykids/spykids_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Neil Sidwell and Keith Beauvais. Published by Audio Network Canada Inc. Courtesy of Audio Network Canada Inc.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "47FEAEFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 86.949,
+  "mapName": "SpyKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496258\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SpyKids/SpyKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1086\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1354206\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SpyKids/SpyKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1088\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1371121\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SpyKids/SpyKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1088\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1371157\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SpyKids/SpyKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1088\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "SpyKids_mapContent"
+  },
+  "parentMapName": "SpyKids",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "006CD0FF",
+    "songColor_1B": "99B5FFFF",
+    "songColor_2A": "006CD0FF",
+    "songColor_2B": "0030B3FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "subscribedSong"
+  ],
+  "title": "Here Comes The Spy",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "9037b07130a296459be6d823c64e0c55",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/SpyKids/ps4/SpyKids_MAIN_SCENE_ORBIS.zip/9037b07130a296459be6d823c64e0c55.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "ce5848e3593c08eb4d1aeaec58e0af64",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/SpyKids/nx/SpyKids_MAIN_SCENE_NX.zip/ce5848e3593c08eb4d1aeaec58e0af64.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "9d1eea54de412e7c99053955888cca06",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/SpyKids/pc/9d1eea54de412e7c99053955888cca06.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939,
+  "urls": {
+    "jmcs://jd-contents/SpyKids/SpyKids_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/SpyKids/SpyKids_AudioPreview.ogg/93cf62a55e4815c39a918084c495599f.ogg",
+    "jmcs://jd-contents/SpyKids/SpyKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/SpyKids/SpyKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/67ef11fde4068266df82a487a32ab226.webm",
+    "jmcs://jd-contents/SpyKids/SpyKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/SpyKids/SpyKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/9172df179ea3aa16bd9e2e4d4735eae5.webm",
+    "jmcs://jd-contents/SpyKids/SpyKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/SpyKids/SpyKids_MapPreviewNoSoundCrop_LOW.vp8.webm/1ab4d759f2c8244f29c691be3d4e8254.webm",
+    "jmcs://jd-contents/SpyKids/SpyKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/SpyKids/SpyKids_MapPreviewNoSoundCrop_LOW.vp9.webm/efece9cb628e358cbd0fdd67dde2d876.webm",
+    "jmcs://jd-contents/SpyKids/SpyKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/SpyKids/SpyKids_MapPreviewNoSoundCrop_MID.vp8.webm/bc91ab64b08cecc3ec74f4a168a2e1d7.webm",
+    "jmcs://jd-contents/SpyKids/SpyKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/SpyKids/SpyKids_MapPreviewNoSoundCrop_MID.vp9.webm/7f09fe6f359015f91e10064318234a7a.webm",
+    "jmcs://jd-contents/SpyKids/SpyKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/SpyKids/SpyKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/c6158f5193f05f2661916d573cecb059.webm",
+    "jmcs://jd-contents/SpyKids/SpyKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/SpyKids/SpyKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/e17ed86246edaf9ebf11ec90108bd33f.webm"
+  }
+}

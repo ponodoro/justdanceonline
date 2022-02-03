@@ -1,0 +1,116 @@
+{
+  "artist": "Goldheart",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/ggp/KIDSWeGoWellTogether_banner_bkg.tga.ckd/a7cc57f37091b3e1e3373daf70882f26.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/ggp/KIDSWeGoWellTogether_Coach_1.tga.ckd/3515ff8269b8caac3ece52adec3e08cd.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/ggp/KIDSWeGoWellTogether_Cover_Generic.tga.ckd/29c82507001ca7f21c6fa8d3c430e01c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_Cover_1024.png/62e539a2537e8bfbaff21df4a504334e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/ggp/KIDSWeGoWellTogether_Cover_Online.tga.ckd/29c82507001ca7f21c6fa8d3c430e01c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/ggp/KIDSWeGoWellTogether_Cover_AlbumBkg.tga.ckd/917ade74bcdb7952d31e16ebfe72ce47.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/ggp/KIDSWeGoWellTogether_Cover_AlbumCoach.tga.ckd/358a6bbe6d9204fb6bd0609e3ee9ddd3.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_Coach_1_Phone.png/07e5d985c69ef12c5b18c8cd059203ec.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_Cover_Phone.jpg/14ed7768606bfc652d25ff5851bb345e.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_VideoPreview.webm/19f912e12efd7b99c8505194771717b3.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/ggp/KIDSWeGoWellTogether_map_bkg.tga.ckd/2018d0a929daf997ee144641245d464e.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/nx/KIDSWeGoWellTogether_banner_bkg.tga.ckd/5b4fab31593cc1a6af2914f4681cb8ec.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/nx/KIDSWeGoWellTogether_Coach_1.tga.ckd/8a4a51ad91bd1c8906f0913d98644c90.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/nx/KIDSWeGoWellTogether_Cover_Generic.tga.ckd/f377a4a1e9dfa3c12a54446123ba8275.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_Cover_1024.png/62e539a2537e8bfbaff21df4a504334e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/nx/KIDSWeGoWellTogether_Cover_Online.tga.ckd/f377a4a1e9dfa3c12a54446123ba8275.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/nx/KIDSWeGoWellTogether_Cover_AlbumBkg.tga.ckd/32ae68d4ff0843e36411c5885204304f.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/nx/KIDSWeGoWellTogether_Cover_AlbumCoach.tga.ckd/5e0096fd1cfe0449ba26e6b7b662f468.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/nx/KIDSWeGoWellTogether_map_bkg.tga.ckd/4dc9a4757802fde4b92c1a0f54ceac65.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_Coach_1_Phone.png/07e5d985c69ef12c5b18c8cd059203ec.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_Cover_Phone.jpg/14ed7768606bfc652d25ff5851bb345e.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_VideoPreview.webm/19f912e12efd7b99c8505194771717b3.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/wiiu/KIDSWeGoWellTogether_banner_bkg.tga.ckd/cd80bb63cdd35b50813d084d33fea5bb.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/wiiu/KIDSWeGoWellTogether_Coach_1.tga.ckd/e738168c65ab7fab04e76d167dcda764.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/wiiu/KIDSWeGoWellTogether_Cover_Generic.tga.ckd/8bfffff93a58d4e5cbed6797d5c7dce4.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_Cover_1024.png/62e539a2537e8bfbaff21df4a504334e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/wiiu/KIDSWeGoWellTogether_Cover_Online.tga.ckd/8bfffff93a58d4e5cbed6797d5c7dce4.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/wiiu/KIDSWeGoWellTogether_Cover_AlbumBkg.tga.ckd/3aef2eb65648c832905707429be1687d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/wiiu/KIDSWeGoWellTogether_Cover_AlbumCoach.tga.ckd/c90a2b7ca152d630b9ae64db4efe64c6.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_Coach_1_Phone.png/07e5d985c69ef12c5b18c8cd059203ec.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_Cover_Phone.jpg/14ed7768606bfc652d25ff5851bb345e.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_VideoPreview.webm/19f912e12efd7b99c8505194771717b3.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24864,49680,74496,99312,124176,148992,173808,198624,223440,248303,273119,297935,322751,347615,372431,397247,422063,446927,471743,496559,521375,546238,571054,595870,620686,645550,670366,695182,719998,744862,769678,794494,819310,844173,868989,893805,918621,943437,968301,993117,1017933,1042749,1067613,1092429,1117245,1142060,1166924,1191740,1216556,1241372,1266236,1291052,1315868,1340684,1365548,1390364,1415180,1439995],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":269,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":58,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/kidswegowelltogether/kidswegowelltogether_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "00FF80FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 139.006,
+  "mapName": "KIDSWeGoWellTogether",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"479613\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"656-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-656\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1394701\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"657-1147\">\r\n\t\t\t\t\t<Initialization range=\"0-657\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2453952\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"657-1147\">\r\n\t\t\t\t\t<Initialization range=\"0-657\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2620565\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"657-1147\">\r\n\t\t\t\t\t<Initialization range=\"0-657\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 123,
+  "packages": {
+    "mapContent": "KIDSWeGoWellTogether_mapContent"
+  },
+  "parentMapName": "KIDSWeGoWellTogether",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FFC600FF",
+    "songColor_1B": "FF8400FF",
+    "songColor_2A": "C8F6FFFF",
+    "songColor_2B": "01C9E6FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "We Go Well Together",
+  "urls": {
+    "jmcs://jd-contents/KIDSWeGoWellTogether/KIDSWeGoWellTogether_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_AudioPreview.ogg/55f3484aa39d3f0df19d63d6a3fa77f7.ogg",
+    "jmcs://jd-contents/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_HIGH.vp8.webm/55678a06b28329dfda544fea889c3d0e.webm",
+    "jmcs://jd-contents/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_HIGH.vp9.webm/bd8e73b9658461ba5ead8b054667faac.webm",
+    "jmcs://jd-contents/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_LOW.vp8.webm/02ffece124fee5044d3d06e029e4f1e3.webm",
+    "jmcs://jd-contents/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_LOW.vp9.webm/9b811fc6d74e80b79bf1e1c664a9cd6f.webm",
+    "jmcs://jd-contents/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_MID.vp8.webm/833622862e97d640e5077a444670c54d.webm",
+    "jmcs://jd-contents/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_MID.vp9.webm/3a3eb4543f0b0fb14f8ed4b676292848.webm",
+    "jmcs://jd-contents/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_ULTRA.vp8.webm/663d187f0f8ba8a38d27f3831554d436.webm",
+    "jmcs://jd-contents/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/KIDSWeGoWellTogether_MapPreviewNoSoundCrop_ULTRA.vp9.webm/89065c1fe3164222d76d1a0458bac6d2.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "f755ad4d3a17fa537dd6543a0907a1c8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/ps4/KIDSWeGoWellTogether_MAIN_SCENE_ORBIS.zip/f755ad4d3a17fa537dd6543a0907a1c8.zip",
+      "version": 9
+    },
+    "pc": {
+      "md5": "bf6f60ef2621f89619650e8149f7f724",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/pc/KIDSWeGoWellTogether_MAIN_SCENE_PC.zip/bf6f60ef2621f89619650e8149f7f724.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "5531ae620cb0ec9b00d5ebc33d136b98",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/wiiu/KIDSWeGoWellTogether_MAIN_SCENE_WIIU.zip/5531ae620cb0ec9b00d5ebc33d136b98.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "0f1969c6614f822c2ac908c4ba58002b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSWeGoWellTogether/nx/KIDSWeGoWellTogether_MAIN_SCENE_NX.zip/0f1969c6614f822c2ac908c4ba58002b.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

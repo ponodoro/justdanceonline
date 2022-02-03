@@ -1,0 +1,38 @@
+{
+  "__class": "OnlineBlock",
+  "artist": "JDMBollywood Artist",
+  "assets": {
+    "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywoodALT01/pc/JDMBollywoodALT01_Cover_Generic.tga.ckd/ca72608b971055c6613b4bb1430971d4.ckd",
+    "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywoodALT01/pc/JDMBollywoodALT01_Cover_Online.tga.ckd/b4fd4364798d9060ffbbc0dbb1b3bd1d.ckd"
+  },
+  "coachCount": 1,
+  "credits": "Empty Credits",
+  "customTypeNameId": 8610,
+  "difficulty": 2,
+  "jdmAttributes": [
+    "JDM_Speed"
+  ],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 30.4,
+  "mapName": "JDMBollywoodALT01",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "JDMBollywoodALT01_mapContent"
+  },
+  "parentMapName": "JDMBollywood",
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 6,
+  "tags": [
+    "DanceMachine"
+  ],
+  "title": "JDMBollywood - ALTERNATE01",
+  "isPlayable": false
+}

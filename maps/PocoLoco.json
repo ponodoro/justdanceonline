@@ -1,0 +1,119 @@
+{
+  "artist": "Disney's Coco",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/ps4/PocoLoco_banner_bkg.tga.ckd/c23ddb73cf0fa0bf674abde9d4882d36.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/ps4/PocoLoco_Coach_1.tga.ckd/30bfac740d4d5eec4281c5ad640caffd.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/ps4/PocoLoco_Cover_Generic.tga.ckd/f2baa19567b005b86824769b69cb3be2.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_Cover_1024.png/aab8b49d01e5fa0d811e581328013cdc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/ps4/PocoLoco_Cover_Online.tga.ckd/60bb7c60cdb7a459f942de7e9712914e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/ps4/PocoLoco_Cover_AlbumBkg.tga.ckd/86f0d7592382207b964fec4fd6cd1543.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/ps4/PocoLoco_Cover_AlbumCoach.tga.ckd/512e23510442842eaa0f14546e951c32.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_Coach_1_Phone.png/381738f91ef1add3a6fed0d12dc1934d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_Cover_Phone.jpg/e4dfb55845b1e9cad59dd951d248d401.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/ps4/PocoLoco_map_bkg.tga.ckd/03e332bfdaa2bf99f839498706c8486e.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/nx/PocoLoco_banner_bkg.tga.ckd/cc3354b5427fbb58bea990890654bf27.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/nx/PocoLoco_Coach_1.tga.ckd/93716a1e408b185d5cc368dd470790a1.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/nx/PocoLoco_Cover_Generic.tga.ckd/06529a505e748144be64c5d83079aca8.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_Cover_1024.png/aab8b49d01e5fa0d811e581328013cdc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/nx/PocoLoco_Cover_Online.tga.ckd/093abf30eae592df9ebb0b6f912d0ef0.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/nx/PocoLoco_Cover_AlbumBkg.tga.ckd/80c6e3628c225f3f11d50c49cf79d8fe.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/nx/PocoLoco_Cover_AlbumCoach.tga.ckd/c2a513ad8f5a230abf52b0467a37dad3.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_Coach_1_Phone.png/381738f91ef1add3a6fed0d12dc1934d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_Cover_Phone.jpg/e4dfb55845b1e9cad59dd951d248d401.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/nx/PocoLoco_map_bkg.tga.ckd/efaf837cee78c0ff9b0e340c993daaa5.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_banner_bkg.jpg/81f57f20133e9039deacf717fa216711.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_Coach_1.png/51f2cf9aa8424b268c0e297af6340f8e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_Cover_Generic.jpg/69b53dc6843ab1ba15b69a963c25e545.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_Cover_1024.png/aab8b49d01e5fa0d811e581328013cdc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_Cover_Online.jpg/e4dfb55845b1e9cad59dd951d248d401.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_Cover_AlbumBkg.jpg/2d38b0e6ef5d15d79e1f995710ceb38b.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_Cover_AlbumCoach.png/230c41870def766bf01343d5baf72d7f.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_Coach_1_Phone.png/381738f91ef1add3a6fed0d12dc1934d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_Cover_Phone.jpg/e4dfb55845b1e9cad59dd951d248d401.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22992,45936,68928,92448,115968,139488,163008,186528,210048,233568,257088,280608,304128,327312,350496,373680,396865,420049,443233,466417,489553,512737,535921,559105,582289,605473,628657,651841,675025,697681,720337,742993,765649,788305,810961,833617,856273,878929,901585,924241,946897,969554,992210,1014866,1037522,1060178,1082834,1105490,1128146,1150802,1173458,1196114,1218770,1241426,1264082,1286738,1309346,1332002,1354658,1377410,1400114,1422818],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":245,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/pocoloco/pocoloco_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Germaine Franco and Adrian Molina. Published by Walt Disney Music Company/Pixar Talking Pictures (ASCAP). Music Produced by Germaine Franco. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0CECE1FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 118.21,
+  "mapName": "PocoLoco",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"494452\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478270\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1111\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2726970\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1111\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2951066\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1111\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "PocoLoco_mapContent"
+  },
+  "parentMapName": "PocoLoco",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "6CBEFCFF",
+    "songColor_1B": "974ADBFF",
+    "songColor_2A": "00A5EEFF",
+    "songColor_2B": "8E01A0FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Un Poco Loco",
+  "urls": {
+    "jmcs://jd-contents/PocoLoco/PocoLoco_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_AudioPreview.ogg/df5c9bdd7b962876727c7e58f0f95520.ogg",
+    "jmcs://jd-contents/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_HIGH.vp8.webm/faf1b8e91787a9278972fb53f8c6f771.webm",
+    "jmcs://jd-contents/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_HIGH.vp9.webm/35de641a5b2f0f51140e2faebf0cff6d.webm",
+    "jmcs://jd-contents/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_LOW.vp8.webm/4d48b45078d128a318324a32acfd5739.webm",
+    "jmcs://jd-contents/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_LOW.vp9.webm/5c6c225f11fb8bab2ccda83b60386d1d.webm",
+    "jmcs://jd-contents/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_MID.vp8.webm/b08b54d026a71d94c145294029cd5a8d.webm",
+    "jmcs://jd-contents/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_MID.vp9.webm/2d120d2e38a3fe470453df4b7458f307.webm",
+    "jmcs://jd-contents/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_ULTRA.vp8.webm/500d37a831e23bfd4215b95bea3018f9.webm",
+    "jmcs://jd-contents/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_ULTRA.vp9.webm/094c32a3329d07e0b76eba01f9cb03a4.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "6b27979bb8a03d91f76ef7b83cb63ac0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PocoLoco/ps4/PocoLoco_MAIN_SCENE_ORBIS.zip/6b27979bb8a03d91f76ef7b83cb63ac0.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "e11010d0efa0f287202c5d65cf1899de",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PocoLoco/nx/PocoLoco_MAIN_SCENE_NX.zip/e11010d0efa0f287202c5d65cf1899de.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "6983bbb684d6242a130bea3ce3d0e1c5",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/pocoloco_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

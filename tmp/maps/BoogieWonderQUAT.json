@@ -1,0 +1,132 @@
+{
+  "artist": "Groove Century",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_banner_bkg.jpg/03de60cfe5108fd3b6fcdda62071d610.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_1.png/2d59699b2d37b858801f11e18484cd68.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_2.png/a4ee65df1e59b7fe2b00a25189ab0a15.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_3.png/f60a7040e95180f8c64ecae1e6396d89.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_4.png/18d8751cc1d46122fc4ad513976d5c4f.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Cover_Generic.jpg/69f42d14ccc4d47d9eaf5ba1349f56b1.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Cover_1024.png/20544bec7a578c42389f8e864eaffab4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Cover_Online.jpg/73f610eadb5f789be97f479691492dfb.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Cover_AlbumBkg.jpg/c99d01c0422a631faad524958b7f2a3c.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Cover_AlbumCoach.png/bf9700b424b5d9c41670b971d629f290.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_1_Phone.png/cabcb90b746615e6bfae57d881843b36.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_2_Phone.png/7999e45a10a40c42938c84cded71f8cf.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_3_Phone.png/f7290489eef4a8e1edaef6a70d68f55e.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_4_Phone.png/7d3b9fa6b98f0d49dbfadb9af72375ae.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Cover_Phone.jpg/73f610eadb5f789be97f479691492dfb.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_VideoPreview.webm/6720779f010e1532855311c111ad259f.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_banner_bkg.jpg/03de60cfe5108fd3b6fcdda62071d610.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_1.png/2d59699b2d37b858801f11e18484cd68.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_2.png/a4ee65df1e59b7fe2b00a25189ab0a15.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_3.png/f60a7040e95180f8c64ecae1e6396d89.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_4.png/18d8751cc1d46122fc4ad513976d5c4f.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Cover_Generic.jpg/69f42d14ccc4d47d9eaf5ba1349f56b1.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Cover_1024.png/20544bec7a578c42389f8e864eaffab4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Cover_Online.jpg/73f610eadb5f789be97f479691492dfb.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Cover_AlbumBkg.jpg/c99d01c0422a631faad524958b7f2a3c.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Cover_AlbumCoach.png/bf9700b424b5d9c41670b971d629f290.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_1_Phone.png/cabcb90b746615e6bfae57d881843b36.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_2_Phone.png/7999e45a10a40c42938c84cded71f8cf.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_3_Phone.png/f7290489eef4a8e1edaef6a70d68f55e.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_4_Phone.png/7d3b9fa6b98f0d49dbfadb9af72375ae.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Cover_Phone.jpg/73f610eadb5f789be97f479691492dfb.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_VideoPreview.webm/6720779f010e1532855311c111ad259f.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/wiiu/BoogieWonderQUAT_banner_bkg.tga.ckd/6801b061ecee77946d40c78d57a9c4d6.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/wiiu/BoogieWonderQUAT_Coach_1.tga.ckd/cc1f7ff81af5f87a912959985efff788.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/wiiu/BoogieWonderQUAT_Coach_2.tga.ckd/9fba03819c3aa54e307a5fedba40e629.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/wiiu/BoogieWonderQUAT_Coach_3.tga.ckd/8e737ea227868cb29fc194066547485d.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/wiiu/BoogieWonderQUAT_Coach_4.tga.ckd/33aa15e8956dea5ef4030416036f766c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/wiiu/BoogieWonderQUAT_Cover_Generic.tga.ckd/8cb28787043df3e930dcc344519d6516.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Cover_1024.png/20544bec7a578c42389f8e864eaffab4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/wiiu/BoogieWonderQUAT_Cover_Online.tga.ckd/47a252d5bfc40985d03e6b03f52c646a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/wiiu/BoogieWonderQUAT_Cover_AlbumBkg.tga.ckd/e487788e248331259a07629609848b9d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/wiiu/BoogieWonderQUAT_Cover_AlbumCoach.tga.ckd/1a6499aa052a80193b907f4659c16729.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_1_Phone.png/cabcb90b746615e6bfae57d881843b36.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_2_Phone.png/7999e45a10a40c42938c84cded71f8cf.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_3_Phone.png/f7290489eef4a8e1edaef6a70d68f55e.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Coach_4_Phone.png/7d3b9fa6b98f0d49dbfadb9af72375ae.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_Cover_Phone.jpg/73f610eadb5f789be97f479691492dfb.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_VideoPreview.webm/6720779f010e1532855311c111ad259f.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20869,41737,62606,83474,104343,125211,146080,166949,187817,208686,229554,250423,271291,292160,313029,333897,354766,375634,396503,417371,438240,459109,479977,500846,521714,542583,563451,584320,605189,626057,646926,667794,688663,709531,730400,751269,772137,793006,813874,834743,855611,876480,897349,918217,939086,959954,980823,1001691,1022560,1043429,1064297,1085166,1106034,1126903,1147771,1168640,1189509,1210377,1231246,1252114,1272983,1293851,1314720,1335589,1356457,1377326,1398194,1419063,1439931],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":468,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":69,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/boogiewonderquat/boogiewonderquat_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FCBC11FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 203.569,
+  "mapName": "BoogieWonderQUAT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497068\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1479910\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2380431\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2379777\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "BoogieWonderQUAT_mapContent"
+  },
+  "parentMapName": "BoogieWonderQUAT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "7C00CFFF",
+    "songColor_1B": "180033FF",
+    "songColor_2A": "FFCE3BFF",
+    "songColor_2B": "971100FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Boogie Wonderland",
+  "urls": {
+    "jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_AudioPreview.ogg/b6175dc059bbc1b9e19312a975b337a2.ogg",
+    "jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm/6a419179c8948f093b27a62a15e4c09e.webm",
+    "jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_HIGH.vp9.webm/0453ade4be40c32f0495dfa1217865bd.webm",
+    "jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm/09c420d0774f65001bfc8e9a095fc427.webm",
+    "jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_LOW.vp9.webm/7244b3572621698687157eb0ed24b899.webm",
+    "jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_MID.vp8.webm/dc2a9a1246ed60a63074b822d4462548.webm",
+    "jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_MID.vp9.webm/38fbe88b1fa9c93e00d48a0aeb798304.webm",
+    "jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/3676a34961f37d49242a6a9fce3f432b.webm",
+    "jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/BoogieWonderQUAT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5c4670e9cc12dd0c81db544a9ceeb67f.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "cee673990343c88d3aff7c8b83b4d917",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/ps4/BoogieWonderQUAT_MAIN_SCENE_ORBIS.zip/cee673990343c88d3aff7c8b83b4d917.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "3f86fb67e9eb73305fba1b6031e3a04c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/pc/BoogieWonderQUAT_MAIN_SCENE_PC.zip/3f86fb67e9eb73305fba1b6031e3a04c.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "40e8f2a265899d809295f0497438e8f5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/wiiu/BoogieWonderQUAT_MAIN_SCENE_WIIU.zip/40e8f2a265899d809295f0497438e8f5.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "d4299f446cf729b5878126e7ab2203e7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BoogieWonderQUAT/nx/BoogieWonderQUAT_MAIN_SCENE_NX.zip/d4299f446cf729b5878126e7ab2203e7.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

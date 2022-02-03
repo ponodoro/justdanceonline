@@ -1,0 +1,82 @@
+{
+  "artist": "Rihanna",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/textures/Pon_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/textures/Pon_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/textures/Pon_Cover_Generic.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/textures/Pon_Cover_Generic.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/textures/Pon_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/textures/Pon_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/textures/Pon_Cover_Generic.png",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/textures/Pon_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,42432,71520,100608,129696,158784,187872,216960,246048,275136,304224,333312,362400,391488,420576,449664,478752,507840,536928,566016,595152,624240,653328,682416,711504,740592,769680,798768,827856,856944,886032,915120,944208,973296,1002384,1031472,1060560,1089648,1118784,1147872,1176960,1206048,1235136,1264224,1293312,1322400,1351488],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":\"354\",\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":46,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/Pon/Pon_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF21A7FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 354,
+  "mapName": "Pon",
+  "mapType": "custom",
+  "serverBoosterOnly": true,
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497536\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Pon/Pon_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1486093\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Pon/Pon_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2964966\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Pon/Pon_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5891936\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Pon/Pon_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "Pon_mapContent"
+  },
+  "parentMapName": "Pon",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "723AC2FF",
+    "songColor_1B": "462095FF",
+    "songColor_2A": "AE56CEFF",
+    "songColor_2B": "000003FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main"
+  ],
+  "title": "Pon de Replay",
+  "urls": {
+    "jmcs://jd-contents/Pon/Pon_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/Pon_AudioPreview.ogg",
+    "jmcs://jd-contents/Pon/Pon_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/Pon_VideoPreview.webm",
+    "jmcs://jd-contents/Pon/Pon_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/Pon_VideoPreview.webm",
+    "jmcs://jd-contents/Pon/Pon_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/Pon_VideoPreview.webm",
+    "jmcs://jd-contents/Pon/Pon_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/Pon_VideoPreview.webm",
+    "jmcs://jd-contents/Pon/Pon_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/Pon_VideoPreview.webm",
+    "jmcs://jd-contents/Pon/Pon_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/Pon_VideoPreview.webm",
+    "jmcs://jd-contents/Pon/Pon_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/Pon_VideoPreview.webm",
+    "jmcs://jd-contents/Pon/Pon_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/Pon_VideoPreview.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "589498c2dacd20e51c7c0e697751efac",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/ps4/orbis_589498c2dacd20e51c7c0e697751efac.zip",
+      "version": 6
+    },
+    "nx": {
+      "md5": "c654f472739269a9d31e46b6279c97e3",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/nx/nx_c654f472739269a9d31e46b6279c97e3.zip",
+      "version": 6
+    },
+    "pc": {
+      "md5": "7ebb09bc677f3181ce6b41b748e6267d",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Pon/pc/pc_7ebb09bc677f3181ce6b41b748e6267d.zip",
+      "version": 7
+    }
+  }
+}

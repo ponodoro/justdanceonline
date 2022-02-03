@@ -1,0 +1,104 @@
+{
+  "artist": "JD McCrary",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/ps4/KeepInTouch_banner_bkg.tga.ckd/4930e38b8b9ef9f8cfa2acd8c78c5822.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/ps4/KeepInTouch_Coach_1.tga.ckd/0fe0683ec25df421fb77179e49bb7b17.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/ps4/KeepInTouch_Cover_Generic.tga.ckd/706dbfc66148407970e37532274fb987.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/KeepInTouch_Cover_1024.png/38a39a6f795667b40fdd3db891a3da7b.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/ps4/KeepInTouch_Cover_Online.tga.ckd/8491f02d98e1c3a7bf17be05520442be.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/ps4/KeepInTouch_Cover_AlbumBkg.tga.ckd/4402238c02b18177cf6697462a5d4a58.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/ps4/KeepInTouch_Cover_AlbumCoach.tga.ckd/35107b853e5c27afd17aa829d3110891.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/KeepInTouch_Coach_1_Phone.png/cc2654c0d02e480a5f323e93da746edd.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/KeepInTouch_Cover_Phone.jpg/e401b679b1ae70783e53cf9da1165d04.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/ps4/KeepInTouch_map_bkg.tga.ckd/ccfb045ffcdb0746e9550fb5f69eca01.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/nx/KeepInTouch_banner_bkg.tga.ckd/3b81b6c6fcbc78ea843dae4d967f4316.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/nx/KeepInTouch_Coach_1.tga.ckd/3ac7f218ded8d787562ac9513868efee.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/nx/KeepInTouch_Cover_Generic.tga.ckd/c5ceb2ebb024ca386401f846c9ddf6cf.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/KeepInTouch_Cover_1024.png/38a39a6f795667b40fdd3db891a3da7b.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/nx/KeepInTouch_Cover_Online.tga.ckd/083fd971caec8f3925cf9c2a4da61bd6.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/nx/KeepInTouch_Cover_AlbumBkg.tga.ckd/ebca3ccf4fa48f1b460789f5bb537f3c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/nx/KeepInTouch_Cover_AlbumCoach.tga.ckd/fb6090e54bb3656481c1d52186ea0619.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/KeepInTouch_Coach_1_Phone.png/cc2654c0d02e480a5f323e93da746edd.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/KeepInTouch_Cover_Phone.jpg/e401b679b1ae70783e53cf9da1165d04.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KeepInTouch/nx/KeepInTouch_map_bkg.tga.ckd/9563066715fabd0a581daf496624d897.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,32000,64000,96000,128000,160000,192000,224000,256000,288000,320000,352000,384000,416000,448000,480000,512000,544000,576000,608000,640000,672000,704000,736000,768000,800000,832000,864000,896000,928000,960000,992000,1024000,1056000,1088000,1120000,1152000,1184000,1216000,1248000,1280000,1312000,1344000,1376000,1408000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":292,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":44,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/keepintouch/keepintouch_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by James McCrary, Omar Rolle, Marc Niles, Taiwan Green and William Garcia. Published by Jay Mac Superior Publishing. / Marc Niles Music / Taiwan Fingaz Green / Live To Give (ASCAP) / OmarRolleMusic. Courtesy of Hollywood Records, 2019. ",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "1D205EFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 196,
+  "mapName": "KeepInTouch",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495847\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1468886\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1092\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2881786\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1092\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5151241\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1098\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "KeepInTouch_mapContent"
+  },
+  "parentMapName": "KeepInTouch",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "0A6044FF",
+    "songColor_1B": "28B8ABFF",
+    "songColor_2A": "FE7CBAFF",
+    "songColor_2B": "E25A24FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Keep In Touch",
+  "urls": {
+    "jmcs://jd-contents/KeepInTouch/KeepInTouch_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KeepInTouch/KeepInTouch_AudioPreview.ogg/3a67a0ca19586e0079542dd0ba5bc946.ogg",
+    "jmcs://jd-contents/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_HIGH.vp8.webm/2f71de38375ad88a00e2ab59d5c94b23.webm",
+    "jmcs://jd-contents/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_HIGH.vp9.webm/c70de881a5f1bc3f48b13c926a3e0000.webm",
+    "jmcs://jd-contents/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_LOW.vp8.webm/8ac44482ff9bb5d20d26354d5c4573cd.webm",
+    "jmcs://jd-contents/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_LOW.vp9.webm/68b2adaec89892910606164d30b5f1ca.webm",
+    "jmcs://jd-contents/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_MID.vp8.webm/a98f47d1ce19baae0d1fd436f6c1d4d0.webm",
+    "jmcs://jd-contents/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_MID.vp9.webm/3db8f669f00b036fce5ef73d11a212a9.webm",
+    "jmcs://jd-contents/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_ULTRA.vp8.webm/c3ae75ed712dfd8779418e30c19353f2.webm",
+    "jmcs://jd-contents/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KeepInTouch/KeepInTouch_MapPreviewNoSoundCrop_ULTRA.vp9.webm/8e6661da29d173fe5e885eaf3d11c381.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "51b4b794287e309290c8b2d9880b92b8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KeepInTouch/ps4/KeepInTouch_MAIN_SCENE_ORBIS.zip/51b4b794287e309290c8b2d9880b92b8.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "f7c546c4bd1b9cceee25727e0095cd72",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KeepInTouch/nx/KeepInTouch_MAIN_SCENE_NX.zip/f7c546c4bd1b9cceee25727e0095cd72.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "e84648a2069866a3c7c365b44c90cef4",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/KeepInTouch/pc/e84648a2069866a3c7c365b44c90cef4.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,108 @@
+{
+  "artist": "Equinox Stars",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/ps4/JustAnIllusion_banner_bkg.tga.ckd/fa4f6f004288609984128ce6bca53535.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/ps4/JustAnIllusion_Coach_1.tga.ckd/d39c33ae6a8edfe97a3b1fcb9d82e700.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/ps4/JustAnIllusion_Coach_2.tga.ckd/47ed539d636761fd1e9e5f94d57b7972.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/ps4/JustAnIllusion_Cover_Generic.tga.ckd/a4f640fb5a23f003b22012673b3b0aba.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/JustAnIllusion_Cover_1024.png/6fc980ec17f47147e7f4b976dde21426.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/ps4/JustAnIllusion_Cover_Online.tga.ckd/d464fe1b98ee5da9c92f6ffb9cc3a1be.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/ps4/JustAnIllusion_Cover_AlbumBkg.tga.ckd/3bbde4a953fde363c721ca2b63cc0778.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/ps4/JustAnIllusion_Cover_AlbumCoach.tga.ckd/5bc46e4f1d1029b70d1a6ea838c0819b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/JustAnIllusion_Coach_1_Phone.png/9ccd385e642990a70531717602508fc5.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/JustAnIllusion_Coach_2_Phone.png/27a1d6cef3d6612d5bb2df3befafc6dc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/JustAnIllusion_Cover_Phone.jpg/c85ab563f605abdc7df72b8587fd69d2.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/ps4/JustAnIllusion_map_bkg.tga.ckd/98570e0baf975371985bd1cf1a97360d.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/nx/JustAnIllusion_banner_bkg.tga.ckd/772b9b798f2c96e8d1926b905ef3fc87.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/nx/JustAnIllusion_Coach_1.tga.ckd/8ec234eef1594851b8df780a4d77a010.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/nx/JustAnIllusion_Coach_2.tga.ckd/5b2a4209f2d69428e4b6c760f50c3927.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/nx/JustAnIllusion_Cover_Generic.tga.ckd/376162a2170655518854259f7df8ca18.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/JustAnIllusion_Cover_1024.png/6fc980ec17f47147e7f4b976dde21426.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/nx/JustAnIllusion_Cover_Online.tga.ckd/889470f6ae919eda783a992b842121f6.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/nx/JustAnIllusion_Cover_AlbumBkg.tga.ckd/9185532b9361621383f19a9846966595.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/nx/JustAnIllusion_Cover_AlbumCoach.tga.ckd/ee828342e7c35cfb5542b6c8cf792494.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/JustAnIllusion_Coach_1_Phone.png/9ccd385e642990a70531717602508fc5.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/JustAnIllusion_Coach_2_Phone.png/27a1d6cef3d6612d5bb2df3befafc6dc.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/JustAnIllusion_Cover_Phone.jpg/c85ab563f605abdc7df72b8587fd69d2.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/nx/JustAnIllusion_map_bkg.tga.ckd/1d7bf59e6051f922a7f3a3e0a3e34a2b.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27629,55258,82887,110516,138145,165775,193404,221033,248662,276291,303920,331549,359179,386808,414437,442066,469695,497324,524953,552582,580212,607841,635470,663099,690728,718357,745986,773616,801245,828874,856503,884132,911761,939390,967020,994649,1022278,1049907,1077536,1105165,1132794,1160424,1188053,1215682,1243311,1270940,1298569,1326198,1353827,1381457,1409086,1436715],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-9,\"endBeat\":362,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":52,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/justanillusion/justanillusion_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Ashley Ingram, Leee John, Steve Jolley and Tony Swain. Published by Associated Music International Ltd. (PRS) / Broadley Music (International) (PRS). Performed by Steve Ouimette. Vocals by Tryiq Johnson, Jamie Hosmer and Steve Ouimette. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FDBF67FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 212.432,
+  "mapName": "JustAnIllusion",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496135\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1479383\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2932672\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4327280\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "JustAnIllusion_mapContent"
+  },
+  "parentMapName": "JustAnIllusion",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "62099EFF",
+    "songColor_1B": "BD1EB5FF",
+    "songColor_2A": "A13920FF",
+    "songColor_2B": "E46664FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Just An Illusion",
+  "urls": {
+    "jmcs://jd-contents/JustAnIllusion/JustAnIllusion_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/JustAnIllusion_AudioPreview.ogg/7d7d08538673201d340cf5a403a3671d.ogg",
+    "jmcs://jd-contents/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_HIGH.vp8.webm/957398c653d093f727b8d9f6672c4ffd.webm",
+    "jmcs://jd-contents/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_HIGH.vp9.webm/76c70258ce3b4ccad527ec79cae433b4.webm",
+    "jmcs://jd-contents/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_LOW.vp8.webm/dba4e2750861f759a3274c0f435b9b4b.webm",
+    "jmcs://jd-contents/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_LOW.vp9.webm/dc45b7a23349150be9d7ecbc50b5fefa.webm",
+    "jmcs://jd-contents/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_MID.vp8.webm/35fb8f9689018f0fdf84e88d457d54f5.webm",
+    "jmcs://jd-contents/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_MID.vp9.webm/52a6844d695a031195a1bad03bf3cce5.webm",
+    "jmcs://jd-contents/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b9ae504b26511fcb50c22d9f0eacb18d.webm",
+    "jmcs://jd-contents/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/JustAnIllusion_MapPreviewNoSoundCrop_ULTRA.vp9.webm/6dbe0f7d745dbf13df0875826efc901b.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "cbeba1ef7e4e9779757a301f07cded38",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/ps4/JustAnIllusion_MAIN_SCENE_ORBIS.zip/cbeba1ef7e4e9779757a301f07cded38.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "968505496ed05b687aa070ed6a415e05",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JustAnIllusion/nx/JustAnIllusion_MAIN_SCENE_NX.zip/968505496ed05b687aa070ed6a415e05.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "b8674e531761199bd5b9c280eb814168",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/JustAnIllusion/pc/b8674e531761199bd5b9c280eb814168.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

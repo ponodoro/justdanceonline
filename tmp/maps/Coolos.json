@@ -1,0 +1,114 @@
+{
+  "artist": "Demi Lovato",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_banner_bkg.jpg/f1e160c72e47a062a5cd8d8fc51dd9df.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Coach_1.png/7957ec72dda87e4ed76994a768530048.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Cover_Generic.jpg/c911ec4b11a44786a140c44ce78594c6.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Cover_1024.png/90dc8176d07e7e66e9bb295d3db8cf78.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Cover_Online.jpg/d0be25a604589f0f5f88d9e83bf4d5d4.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Cover_AlbumBkg.jpg/37f409973af68eeea16f0290a7c4c76c.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Cover_AlbumCoach.png/64015ce1e7777f3ba2e879adba33c2d7.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Coach_1_Phone.png/45909d241e0cf2f0610f429000a8fc51.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Cover_Phone.jpg/d0be25a604589f0f5f88d9e83bf4d5d4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_VideoPreview.webm/2756e26e4238d81f048e0ef6309a3e82.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_banner_bkg.jpg/f1e160c72e47a062a5cd8d8fc51dd9df.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Coach_1.png/7957ec72dda87e4ed76994a768530048.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Cover_Generic.jpg/c911ec4b11a44786a140c44ce78594c6.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Cover_1024.png/90dc8176d07e7e66e9bb295d3db8cf78.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Cover_Online.jpg/d0be25a604589f0f5f88d9e83bf4d5d4.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Cover_AlbumBkg.jpg/37f409973af68eeea16f0290a7c4c76c.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Cover_AlbumCoach.png/64015ce1e7777f3ba2e879adba33c2d7.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Coach_1_Phone.png/45909d241e0cf2f0610f429000a8fc51.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Cover_Phone.jpg/d0be25a604589f0f5f88d9e83bf4d5d4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_VideoPreview.webm/2756e26e4238d81f048e0ef6309a3e82.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/wiiu/Coolos_banner_bkg.tga.ckd/e4ad1790cc22ca7381b112426163566e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/wiiu/Coolos_Coach_1.tga.ckd/0e32da5371a483922357c190a3d40969.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/wiiu/Coolos_Cover_Generic.tga.ckd/a2d4333ec6cbf78d63a1300775ba9216.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Cover_1024.png/90dc8176d07e7e66e9bb295d3db8cf78.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/wiiu/Coolos_Cover_Online.tga.ckd/6ad824fc0c07dabe039d85f757257e3e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/wiiu/Coolos_Cover_AlbumBkg.tga.ckd/c0db663fd9d54a08f56f3217dc14b909.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/wiiu/Coolos_Cover_AlbumCoach.tga.ckd/a57f1b6a94e581963b186d3766116c20.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Coach_1_Phone.png/45909d241e0cf2f0610f429000a8fc51.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_Cover_Phone.jpg/d0be25a604589f0f5f88d9e83bf4d5d4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_VideoPreview.webm/2756e26e4238d81f048e0ef6309a3e82.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25248,50544,75792,101040,126288,151584,176832,202080,227376,252624,277871,303167,328415,353663,378959,404207,429455,454751,479999,505247,530543,555791,581039,606287,631583,656831,682079,707375,732622,757870,783166,808414,833662,858958,884206,909454,934750,959998,985246,1010542,1035790,1061038,1086286,1111582,1136830,1162078,1187373,1212621,1237869,1263165,1288413,1313661,1338957,1364205,1389453,1414749,1439997],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-1,\"endBeat\":406,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/coolos/coolos_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "36C3CBFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 214.20999999999998,
+  "mapName": "Coolos",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496220\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Coolos/Coolos_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"615-1104\">\r\n\t\t\t\t\t<Initialization range=\"0-615\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1460209\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Coolos/Coolos_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2414927\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Coolos/Coolos_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2682165\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Coolos/Coolos_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-616\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "Coolos_mapContent"
+  },
+  "parentMapName": "Coolos",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "643BF1FF",
+    "songColor_1B": "121325FF",
+    "songColor_2A": "FF37A4FF",
+    "songColor_2B": "54004EFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Cool For The Summer",
+  "urls": {
+    "jmcs://jd-contents/Coolos/Coolos_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_AudioPreview.ogg/569c4ddc672b2cd684ffc98a3f75761d.ogg",
+    "jmcs://jd-contents/Coolos/Coolos_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_MapPreviewNoSoundCrop_HIGH.vp8.webm/77edef9a8b97460b6bb7d33f6ac946d6.webm",
+    "jmcs://jd-contents/Coolos/Coolos_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_MapPreviewNoSoundCrop_HIGH.vp9.webm/630a65b63e4a4a111046d227c55aa611.webm",
+    "jmcs://jd-contents/Coolos/Coolos_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_MapPreviewNoSoundCrop_LOW.vp8.webm/8ccd1df3ee1e900f26c836a22ad45dcc.webm",
+    "jmcs://jd-contents/Coolos/Coolos_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_MapPreviewNoSoundCrop_LOW.vp9.webm/fa6c91e4973442c6d34f698998c4afc9.webm",
+    "jmcs://jd-contents/Coolos/Coolos_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_MapPreviewNoSoundCrop_MID.vp8.webm/091e9303186a7692346f9383255cdb73.webm",
+    "jmcs://jd-contents/Coolos/Coolos_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_MapPreviewNoSoundCrop_MID.vp9.webm/c7113c60d8fce2a3e9e274ceb8c41215.webm",
+    "jmcs://jd-contents/Coolos/Coolos_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_MapPreviewNoSoundCrop_ULTRA.vp8.webm/6797d65d65bea11fe824a583df1f3e1a.webm",
+    "jmcs://jd-contents/Coolos/Coolos_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Coolos/Coolos_MapPreviewNoSoundCrop_ULTRA.vp9.webm/3488d8d6924cc20510c3f44820be9bb2.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "2568945a6294d6455098d4ce7fba996d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Coolos/ps4/Coolos_MAIN_SCENE_ORBIS.zip/2568945a6294d6455098d4ce7fba996d.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "ae60a32b3695ddaba0388608547d4646",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Coolos/pc/Coolos_MAIN_SCENE_PC.zip/ae60a32b3695ddaba0388608547d4646.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "a2e4bea13dad2ef4d89f8ff242fa5033",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Coolos/wiiu/Coolos_MAIN_SCENE_WIIU.zip/a2e4bea13dad2ef4d89f8ff242fa5033.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "03d19ad0562a05fa64f4e6baa4468968",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Coolos/nx/Coolos_MAIN_SCENE_NX.zip/03d19ad0562a05fa64f4e6baa4468968.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

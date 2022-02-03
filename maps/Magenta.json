@@ -1,0 +1,90 @@
+{
+  "artist": "DJ Snake",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Magenta/Magenta_banner_bkg.jpg/eedc786ceb9afff0bbda46d635a467e2.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Magenta/Magenta_Coach_1.png/a7e6f18c9d967f62848242e2eb9e2706.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Magenta/Magenta_Cover_Generic.jpg/f2ef039996c542a5ad5012b1c589310b.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Magenta/Magenta_Cover_Online.jpg/d982e4bc0708509b9b0545ca52ebc066.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Magenta/Magenta_Cover_AlbumBkg.jpg/b939e022402d678215184ff5a39f3c07.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Magenta/Magenta_Cover_AlbumCoach.png/a4af20486edf46c56fb096a27473e565.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Magenta/Magenta_Coach_1_Phone.png/91e05953bbbab9b89dcf826b1ecbdd5b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Magenta/Magenta_Cover_Phone.jpg/d982e4bc0708509b9b0545ca52ebc066.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Magenta/Magenta_banner_bkg.jpg/eedc786ceb9afff0bbda46d635a467e2.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Magenta/Magenta_Coach_1.png/a7e6f18c9d967f62848242e2eb9e2706.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Magenta/Magenta_Cover_Generic.jpg/f2ef039996c542a5ad5012b1c589310b.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Magenta/Magenta_Cover_Online.jpg/d982e4bc0708509b9b0545ca52ebc066.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Magenta/Magenta_Cover_AlbumBkg.jpg/b939e022402d678215184ff5a39f3c07.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Magenta/Magenta_Cover_AlbumCoach.png/a4af20486edf46c56fb096a27473e565.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Magenta/Magenta_Coach_1_Phone.png/91e05953bbbab9b89dcf826b1ecbdd5b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Magenta/Magenta_Cover_Phone.jpg/d982e4bc0708509b9b0545ca52ebc066.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28235,56470,84706,112941,141176,169412,197647,225882,254117,282353,310588,338823,367059,395294,423529,451765,480000,508235,536470,564706,592941,621176,649412,677647,705882,734117,762353,790588,818823,847059,875294,903529,931765,960000,988235,1016470,1044706,1072941,1101176,1129412,1157647,1185882,1214117,1242353,1270588,1298823,1327059,1355294,1383529,1411765],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":325,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":50,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/magenta/magenta_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by William Grigahcine. Published by BMG Platinum Songs (BMI) / Get Familiar Music, LLC (ASCAP) / DJ Snake Music, LLC (SACEM/ASCAP). Courtesy of Interscope Records under license from Universal Music Enterprises.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F326C8FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 192.94199999999998,
+  "mapName": "Magenta",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495062\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Magenta/Magenta_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1474188\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Magenta/Magenta_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2916468\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Magenta/Magenta_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5470323\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Magenta/Magenta_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "Magenta_mapContent"
+  },
+  "parentMapName": "Magenta",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "E77623FF",
+    "songColor_1B": "BB3F22FF",
+    "songColor_2A": "E97E00FF",
+    "songColor_2B": "9700C8FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Magenta Riddim",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "bc23b57b7b7964ee91e9d9477a2dcacd",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Magenta/ps4/Magenta_MAIN_SCENE_ORBIS.zip/bc23b57b7b7964ee91e9d9477a2dcacd.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "be94de5710ca29800b966438c052d7bd",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Magenta/nx/Magenta_MAIN_SCENE_NX.zip/be94de5710ca29800b966438c052d7bd.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "c4d5b85ca3a2d30a0d6bb7dad1314847",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Magenta/pc/c4d5b85ca3a2d30a0d6bb7dad1314847.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/Magenta/Magenta_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/Magenta/Magenta_AudioPreview.ogg/ba9273daf598037e44b504039c4f1be7.ogg",
+    "jmcs://jd-contents/Magenta/Magenta_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Magenta/Magenta_MapPreviewNoSoundCrop_HIGH.vp8.webm/c121e8971658f284c1c746dba0d3232c.webm",
+    "jmcs://jd-contents/Magenta/Magenta_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Magenta/Magenta_MapPreviewNoSoundCrop_HIGH.vp9.webm/5abd483c640e2780e717fff78bea5cb1.webm",
+    "jmcs://jd-contents/Magenta/Magenta_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Magenta/Magenta_MapPreviewNoSoundCrop_LOW.vp8.webm/a8ca275153717a8991253bde41e2ea5f.webm",
+    "jmcs://jd-contents/Magenta/Magenta_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Magenta/Magenta_MapPreviewNoSoundCrop_LOW.vp9.webm/b91a3a681b443d14a0127503520eae82.webm",
+    "jmcs://jd-contents/Magenta/Magenta_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Magenta/Magenta_MapPreviewNoSoundCrop_MID.vp8.webm/5fc558c703848b7bed702f0a7a800147.webm",
+    "jmcs://jd-contents/Magenta/Magenta_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Magenta/Magenta_MapPreviewNoSoundCrop_MID.vp9.webm/046eb348d35228708d748b2c880e0157.webm",
+    "jmcs://jd-contents/Magenta/Magenta_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Magenta/Magenta_MapPreviewNoSoundCrop_ULTRA.vp8.webm/a2b914e852ac0406933febb94f7d843a.webm",
+    "jmcs://jd-contents/Magenta/Magenta_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Magenta/Magenta_MapPreviewNoSoundCrop_ULTRA.vp9.webm/60f5ea2253543ff92c6280faa572c6ff.webm"
+  }
+}

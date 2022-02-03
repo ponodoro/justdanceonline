@@ -1,0 +1,96 @@
+{
+  "artist": "Ariana Grande Ft. Iggy Azalea and Big Sean",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Problem/textures/Problem_banner_bkg.png",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/x1/Problem_Coach_1.tga.ckd/f9f2494a6ad1e608a9005268b582f49a.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/x1/Problem_Cover_Generic.tga.ckd/85e438a615b5b21b32bdc1928227e34f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/x1/Problem_Cover_1024.tga.ckd/998917ad281077626a07f37f7c4861ec.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/x1/Problem_Cover_Online.tga.ckd/e0677e3294dfdae47ad1dad399b811ff.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/x1/Problem_Cover_AlbumBkg.tga.ckd/d792d95a8b69e1420b5142b14bf9f40d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/x1/Problem_Cover_AlbumCoach.tga.ckd/f3125be2fcb635d55f1fb9d51d5a8cc9.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/x1/Problem_map_bkg.tga.ckd/688cbb037d193413648fd52c12a87109.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/Problem_Coach_1_Phone.png/3b9b33fb2e3a68e7e4fafa93f8607d15.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/Problem_Cover_Phone.jpg/10119a81de8e3c2314470c8dc4e03a48.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Problem/Problem_VideoPreview.webm/74b1aafc723a80392d57cfad7064811e.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/Problem/textures/Problem_banner_bkg.png",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/nx/Problem_Coach_1.tga.ckd/a35379a298d4706e3114bbbe118b90ca.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/nx/Problem_Cover_Generic.tga.ckd/3bab1feb89fee3f6837a6f24a44ecd9d.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/nx/Problem_Cover_1024.tga.ckd/34e16fc96fe3efe87e52b90b7d646e90.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/nx/Problem_Cover_Online.tga.ckd/fcec496cb76b5cf0def3cb6f7336471e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/nx/Problem_Cover_AlbumBkg.tga.ckd/7e1ef8ce4451c0f35b86751526536042.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/nx/Problem_Cover_AlbumCoach.tga.ckd/b9b0cd3cfd10e7b300433756495804ff.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/nx/Problem_map_bkg.tga.ckd/1ab94c8e6e201f36a16dd3eb07475a33.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/Problem_Coach_1_Phone.png/3b9b33fb2e3a68e7e4fafa93f8607d15.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Problem/Problem_Cover_Phone.jpg/10119a81de8e3c2314470c8dc4e03a48.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Problem/Problem_VideoPreview.webm/74b1aafc723a80392d57cfad7064811e.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27936,55920,83856,111841,139777,167761,195697,223681,251617,279601,307537,335521,363457,391441,419377,447361,475345,503281,531265,559201,587185,615121,643105,671041,699025,726961,754945,782881,810865,838801,866785,894721,922705,950641,978625,1006561,1034545,1062529,1090465,1118449,1146385,1174369,1202305,1230289,1258225,1286209,1314145,1342129,1370065,1398049,1425985],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":334,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":51,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/problem/problem_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by By Ilya, Savan Kotecha, Max Martin, Iggy Azalea and Ariana Grande. WB Music Corp. (ASCAP) obo Warner/Chappell Music Scandinavia Ab and Wolf Cousins /  MXM Music AB .Administered by Kobalt Music Publishing America, Inc. Courtesy of Republic Records under license from Universal Music Enterprises. Iggy Azalea and Big Sean appear courtesy of Def Jam Recordings.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "CC005BFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 194.563,
+  "mapName": "Problem",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496489\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Problem/Problem_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1444295\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Problem/Problem_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1828484\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Problem/Problem_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1832308\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Problem/Problem_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "Problem_mapContent"
+  },
+  "parentMapName": "Problem",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "d10fd1ff",
+    "songColor_1B": "0a000aff",
+    "songColor_2A": "58fed2ff",
+    "songColor_2B": "09241dff"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Problem",
+  "urls": {
+    "jmcs://jd-contents/Problem/Problem_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Problem/Problem_AudioPreview.ogg/0070d5019a5b44487ac778ca7fbeb9df.ogg",
+    "jmcs://jd-contents/Problem/Problem_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Problem/Problem_MapPreviewNoSoundCrop_HIGH.vp8.webm/bbd7db43a3001228548a5d16452fb149.webm",
+    "jmcs://jd-contents/Problem/Problem_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Problem/Problem_MapPreviewNoSoundCrop_HIGH.vp9.webm/4d48b4c0f0be975514bbeca1f687122b.webm",
+    "jmcs://jd-contents/Problem/Problem_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Problem/Problem_MapPreviewNoSoundCrop_LOW.vp8.webm/eac0745519d0c2b2f14450077fbb0d3d.webm",
+    "jmcs://jd-contents/Problem/Problem_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Problem/Problem_MapPreviewNoSoundCrop_LOW.vp9.webm/9697a7b81f0f378699494ce63144225d.webm",
+    "jmcs://jd-contents/Problem/Problem_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Problem/Problem_MapPreviewNoSoundCrop_MID.vp8.webm/20415369d2d23e6049f1d67989c56d51.webm",
+    "jmcs://jd-contents/Problem/Problem_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Problem/Problem_MapPreviewNoSoundCrop_MID.vp9.webm/5ad8048a29f5922b8184c39131b553f6.webm",
+    "jmcs://jd-contents/Problem/Problem_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Problem/Problem_MapPreviewNoSoundCrop_ULTRA.vp8.webm/9ec8dfd5a6d8c621be48db307a6e65b4.webm",
+    "jmcs://jd-contents/Problem/Problem_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Problem/Problem_MapPreviewNoSoundCrop_ULTRA.vp9.webm/7e86d6ee5131522f588167d2b8b29753.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "nx": {
+      "md5": "dbf8d61d01e6a520aa924269cc619ec4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Problem/nx/Problem_MAIN_SCENE_NX.zip/dbf8d61d01e6a520aa924269cc619ec4.zip",
+      "version": 21
+    },
+    "orbis": {
+      "md5": "3e73d4507af81a4413ed2b6ac5aaa3be",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Problem/ps4/Problem_MAIN_SCENE_ORBIS.zip/3e73d4507af81a4413ed2b6ac5aaa3be.zip",
+      "version": 21
+    },
+    "pc": {
+      "md5": "260c425614e516f5f5f51d7973c5e1fc",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Problem/260c425614e516f5f5f51d7973c5e1fc.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu"
+}

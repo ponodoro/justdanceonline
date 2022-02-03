@@ -1,0 +1,127 @@
+{
+  "artist": "will.i.am Ft. Justin Bieber",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_banner_bkg.jpg/e217d9e00fc7aa4041ff2e9c597f410a.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Coach_1.png/1c5ac84a2f7765f124352d3691a00491.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Coach_2.png/19654aa184f21567f880d72d84e7c664.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Coach_3.png/fd356396db4bec0df6556408f42f4cc0.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Cover_Generic.jpg/5edea0ca6469202399317e8ddf10f4d2.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Cover_1024.png/25affa203b1782f27bb3ecfd65d8a74b.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Cover_Online.jpg/ca3f8628523dcc7250aae09e60a7f1de.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Cover_AlbumBkg.jpg/32bbb930cb4dbd159e57c903448c6f1e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Cover_AlbumCoach.png/3e1885cc48c2854bf5cd1f909c71c34c.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Coach_1_Phone.png/dcdb3826a41a4fff7073ba2752c8f39d.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Coach_2_Phone.png/2084762c896623660f3885a4d8af8a9e.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Coach_3_Phone.png/40b77ad1c90380b6e32449c9f8ad185b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Cover_Phone.jpg/ee3fe6b4274aef466b909c6e9446d74f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_VideoPreview.webm/2aa4d1312340825c930e12ad3f13d3c9.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_banner_bkg.jpg/e217d9e00fc7aa4041ff2e9c597f410a.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Coach_1.png/1c5ac84a2f7765f124352d3691a00491.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Coach_2.png/19654aa184f21567f880d72d84e7c664.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Coach_3.png/fd356396db4bec0df6556408f42f4cc0.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Cover_Generic.jpg/5edea0ca6469202399317e8ddf10f4d2.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Cover_1024.png/25affa203b1782f27bb3ecfd65d8a74b.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Cover_Online.jpg/ca3f8628523dcc7250aae09e60a7f1de.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Cover_AlbumBkg.jpg/32bbb930cb4dbd159e57c903448c6f1e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Cover_AlbumCoach.png/3e1885cc48c2854bf5cd1f909c71c34c.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Coach_1_Phone.png/dcdb3826a41a4fff7073ba2752c8f39d.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Coach_2_Phone.png/2084762c896623660f3885a4d8af8a9e.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Coach_3_Phone.png/40b77ad1c90380b6e32449c9f8ad185b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Cover_Phone.jpg/ee3fe6b4274aef466b909c6e9446d74f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_VideoPreview.webm/2aa4d1312340825c930e12ad3f13d3c9.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/wiiu/ThatPowerOSCDLC_banner_bkg.tga.ckd/eba4eb105c82aa878efc904ebb4f4a06.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/wiiu/ThatPowerOSCDLC_Coach_1.tga.ckd/e9cb0ba08dca2f6b6a0a5a9cb20e15bf.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/wiiu/ThatPowerOSCDLC_Coach_2.tga.ckd/5b20a6133656d9d60e3ea07c76cc3f4d.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/wiiu/ThatPowerOSCDLC_Coach_3.tga.ckd/6a3721e506cce18d8e768305435f8e25.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/wiiu/ThatPowerOSCDLC_Cover_Generic.tga.ckd/c015dc5e4fa7af33d0f1ce9f03702731.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Cover_1024.png/25affa203b1782f27bb3ecfd65d8a74b.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/wiiu/ThatPowerOSCDLC_Cover_Online.tga.ckd/b111b70a8e3fb46099e0ee7c105d6550.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/wiiu/ThatPowerOSCDLC_Cover_AlbumBkg.tga.ckd/189c20c5cc1d1c319941d5d3e1552aa7.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/wiiu/ThatPowerOSCDLC_Cover_AlbumCoach.tga.ckd/5e0b26f5106bbb2c3742840c4b2098ec.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Coach_1_Phone.png/dcdb3826a41a4fff7073ba2752c8f39d.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Coach_2_Phone.png/2084762c896623660f3885a4d8af8a9e.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Coach_3_Phone.png/40b77ad1c90380b6e32449c9f8ad185b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_Cover_Phone.jpg/ee3fe6b4274aef466b909c6e9446d74f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_VideoPreview.webm/2aa4d1312340825c930e12ad3f13d3c9.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22463,44976,67487,90000,112463,134976,157487,180000,202463,224976,247487,270000,292464,314976,337488,360000,382464,404976,427488,450000,472463,494975,517487,540000,562463,584976,607487,630000,652463,674976,697487,720000,742463,764976,787488,810000,832464,854976,877488,900000,922464,944976,967488,990000,1012464,1034976,1057488,1080000,1102463,1124976,1147488,1170000,1192463,1214976,1237487,1260000,1282463,1304976,1327488,1350000,1372464,1394976,1417488],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-12,\"endBeat\":576,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/thatpoweroscdlc/thatpoweroscdlc_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F8985BFF",
+  "lyricsType": 2,
+  "mainCoach": -1,
+  "mapLength": 275.625,
+  "mapName": "ThatPowerOSCDLC",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495653\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1132\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1448841\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"644-1134\">\r\n\t\t\t\t\t<Initialization range=\"0-644\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1807356\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"644-1134\">\r\n\t\t\t\t\t<Initialization range=\"0-644\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1808582\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"644-1134\">\r\n\t\t\t\t\t<Initialization range=\"0-644\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "ThatPowerOSCDLC_mapContent"
+  },
+  "parentMapName": "ThatPowerOSCDLC",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "00B4E3FF",
+    "songColor_1B": "030016FF",
+    "songColor_2A": "FFA3E3FF",
+    "songColor_2B": "170028FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "#thatPOWER",
+  "urls": {
+    "jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_AudioPreview.ogg/9389e3b8b22409246eba8b807df74a68.ogg",
+    "jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm/fc5f7fcadfc4324e16d2d6debe4e3ce8.webm",
+    "jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm/ee4ad51b2dea0540f3fb23f86ea1a4ff.webm",
+    "jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/01ace6392ea15fe4dcc05f5b3faf2570.webm",
+    "jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_LOW.vp9.webm/c087bc76f8b7e6963741929b4641c903.webm",
+    "jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_MID.vp8.webm/5780446b4ecc1a5f3ff9afbb48f42a39.webm",
+    "jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_MID.vp9.webm/83a7209d9630e0a1f4d3a17b4b129f2e.webm",
+    "jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm/abd462fdc1d9b0065ec3a487d222403c.webm",
+    "jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ThatPowerOSCDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm/784c2e74d95d566735451bbdb8fb0b78.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "1ec3e9afe210ec429ec27739f27a893a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/ps4/ThatPowerOSCDLC_MAIN_SCENE_ORBIS.zip/1ec3e9afe210ec429ec27739f27a893a.zip",
+      "version": 12
+    },
+    "pc": {
+      "md5": "bc7548f103314d0cc808ab9563a2fbc7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/pc/ThatPowerOSCDLC_MAIN_SCENE_PC.zip/bc7548f103314d0cc808ab9563a2fbc7.zip",
+      "version": 9
+    },
+    "wiiu": {
+      "md5": "bc98dd414d9c342fa390777c592691d2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/wiiu/ThatPowerOSCDLC_MAIN_SCENE_WIIU.zip/bc98dd414d9c342fa390777c592691d2.zip",
+      "version": 14
+    },
+    "nx": {
+      "md5": "f68f1f429f3dcbe503189fd7b06cb410",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ThatPowerOSCDLC/nx/ThatPowerOSCDLC_MAIN_SCENE_NX.zip/f68f1f429f3dcbe503189fd7b06cb410.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 15490
+}

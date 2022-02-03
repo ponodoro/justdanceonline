@@ -1,0 +1,107 @@
+{
+  "artist": "The Just Dance School",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/ps4/FreezeKids_banner_bkg.tga.ckd/27d7f44de0b3835aac15a284f3ea5614.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/ps4/FreezeKids_Coach_1.tga.ckd/0d5741d993dad0e01c07ec1df74cdf82.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/ps4/FreezeKids_Coach_2.tga.ckd/830560685a4ccb5fd5d4d8e89f945b72.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/ps4/FreezeKids_Cover_Generic.tga.ckd/ee5f66e42990a37a2ffcb59291cd0e08.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/FreezeKids_Cover_1024.png/e7fd1b9948053c7b08fbcca6a035af15.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/ps4/FreezeKids_Cover_Online.tga.ckd/1e3c94cf32e6248bf294093f9505affa.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/ps4/FreezeKids_Cover_AlbumBkg.tga.ckd/a82c42354ee2103e7223f32bdee2c81f.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/ps4/FreezeKids_Cover_AlbumCoach.tga.ckd/3d63fc7aab50174e591bbc398ea3f4a4.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/FreezeKids_Coach_1_Phone.png/f38d85bb6c57647012a95485ff92f44a.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/FreezeKids_Coach_2_Phone.png/8888fcbd144f91147ad5d7a76f9df140.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/FreezeKids_Cover_Phone.jpg/df73a3e203b28e4c007b89012ee7d226.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/ps4/FreezeKids_map_bkg.tga.ckd/7139c97bb1119a508bd09855c2ca7fe3.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/nx/FreezeKids_banner_bkg.tga.ckd/5a82b9855e4008beb1978a004cd43fcd.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/nx/FreezeKids_Coach_1.tga.ckd/2bd3004a188a0270ad7d766223aa12b2.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/nx/FreezeKids_Coach_2.tga.ckd/206fa492289758feb525cbaa3e71b862.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/nx/FreezeKids_Cover_Generic.tga.ckd/a9fb810bd0fbbc37f3b68b01263aa1c1.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/FreezeKids_Cover_1024.png/e7fd1b9948053c7b08fbcca6a035af15.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/nx/FreezeKids_Cover_Online.tga.ckd/b3eabb6fbeeb876c152aad20cd410026.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/nx/FreezeKids_Cover_AlbumBkg.tga.ckd/25a35a84a5d87491e265ddba25bc56e9.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/nx/FreezeKids_Cover_AlbumCoach.tga.ckd/57b2c66d9dac8dbbeb7704265ad04579.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/FreezeKids_Coach_1_Phone.png/f38d85bb6c57647012a95485ff92f44a.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/FreezeKids_Coach_2_Phone.png/8888fcbd144f91147ad5d7a76f9df140.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/FreezeKids_Cover_Phone.jpg/df73a3e203b28e4c007b89012ee7d226.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FreezeKids/nx/FreezeKids_map_bkg.tga.ckd/5409be2c6980ff1cc8e29224e7abb223.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25248,50496,75744,101040,126288,151536,176832,202080,227328,252624,277872,303120,328416,353664,378912,404208,429456,454703,479999,505247,530495,555743,581039,606287,631535,656831,682079,707327,732623,757871,783119,808415,833663,858911,884207,909455,934703,959999,985247,1010495,1035743,1061039,1086287,1111534,1136830,1162078,1187326,1212622,1237870,1263118,1288414,1313662,1338910,1364206,1389454,1414702,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-9,\"endBeat\":177,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/freezekids/freezekids_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Composed by Steve Ouimette. Published by Ubisoft Music. Performed by Steve Ouimette. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 97.89399999999999,
+  "mapName": "FreezeKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497280\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1474598\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2832558\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3119881\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "FreezeKids_mapContent"
+  },
+  "parentMapName": "FreezeKids",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all"
+  ],
+  "songColors": {
+    "songColor_1A": "007377FF",
+    "songColor_1B": "6EFCC9FF",
+    "songColor_2A": "FB6B3DFF",
+    "songColor_2B": "D76E57FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "subscribedSong",
+    "ExcludedFromWDF"
+  ],
+  "title": "Freeze Please",
+  "urls": {
+    "jmcs://jd-contents/FreezeKids/FreezeKids_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/FreezeKids/FreezeKids_AudioPreview.ogg/f9cdc966a6f43356765a50c86232e377.ogg",
+    "jmcs://jd-contents/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/4f31d51eee4a5e32c78198c4ad3a73ad.webm",
+    "jmcs://jd-contents/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/343157aff002535f5c25899747e59ca6.webm",
+    "jmcs://jd-contents/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_LOW.vp8.webm/2bbeea8f5e27c7f86d72c8189de617d0.webm",
+    "jmcs://jd-contents/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_LOW.vp9.webm/001eabde0a2ef6a7ba721473403c924b.webm",
+    "jmcs://jd-contents/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_MID.vp8.webm/4240614c9ad97caa1e8e901f54f81ffa.webm",
+    "jmcs://jd-contents/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_MID.vp9.webm/c8aa6c4733682261dba17a2a7de4667b.webm",
+    "jmcs://jd-contents/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/5b325a7fa9491d286bc1d75315910c79.webm",
+    "jmcs://jd-contents/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/FreezeKids/FreezeKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/3262691d73b255ace0f22db7622cf33d.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "2bc3934aa9ce66fc22fd822ad226a623",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FreezeKids/ps4/FreezeKids_MAIN_SCENE_ORBIS.zip/2bc3934aa9ce66fc22fd822ad226a623.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "5810d489f8392bee8725b7802d6e3b09",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FreezeKids/nx/FreezeKids_MAIN_SCENE_NX.zip/5810d489f8392bee8725b7802d6e3b09.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "9b78a8da2ee9686b19f27acd20f9815c",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/FreezeKids/pc/9b78a8da2ee9686b19f27acd20f9815c.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939
+}

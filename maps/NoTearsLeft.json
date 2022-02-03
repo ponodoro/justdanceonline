@@ -1,0 +1,119 @@
+{
+  "artist": "Ariana Grande",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/ps4/NoTearsLeft_banner_bkg.tga.ckd/cc391282125598c605e0d81711083e48.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/ps4/NoTearsLeft_Coach_1.tga.ckd/9846e5e87f3aa721712008a50fd669bb.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/ps4/NoTearsLeft_Cover_Generic.tga.ckd/3dcf92d9f0dd1d2700c386a60ffc87d2.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_Cover_1024.png/4c9a632623e7ef0e91fae0b860b6c7bd.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/ps4/NoTearsLeft_Cover_Online.tga.ckd/1e185d56727dc8ffe79a74336d510caf.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/ps4/NoTearsLeft_Cover_AlbumBkg.tga.ckd/6abb2e86f3d1400a1e0d3b00cf627911.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/ps4/NoTearsLeft_Cover_AlbumCoach.tga.ckd/879485644fb8ca9595471d711d6746d5.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_Coach_1_Phone.png/d53bad3dcff7150ab6411deeb4e1fc7a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_Cover_Phone.jpg/729f30a05ce17b6f5fdae27bf03961f8.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/ps4/NoTearsLeft_map_bkg.tga.ckd/8dec3cbf4162b5bf941dc0b735c7dc9a.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/nx/NoTearsLeft_banner_bkg.tga.ckd/fb2cba1c6e20e0f4c7b6289b1ee458bf.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/nx/NoTearsLeft_Coach_1.tga.ckd/26a71d83198f9ceb48b3587aee4c6f15.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/nx/NoTearsLeft_Cover_Generic.tga.ckd/96ace9c2b02e25458960130fa29c65a4.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_Cover_1024.png/4c9a632623e7ef0e91fae0b860b6c7bd.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/nx/NoTearsLeft_Cover_Online.tga.ckd/997e657842879a49c6ad79e3a1e3be31.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/nx/NoTearsLeft_Cover_AlbumBkg.tga.ckd/8c65f28a9a5cb61864cc465b7c687743.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/nx/NoTearsLeft_Cover_AlbumCoach.tga.ckd/69c16aa4cb50af72fba1cd101cd1fb30.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_Coach_1_Phone.png/d53bad3dcff7150ab6411deeb4e1fc7a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_Cover_Phone.jpg/729f30a05ce17b6f5fdae27bf03961f8.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/nx/NoTearsLeft_map_bkg.tga.ckd/b7c39bcf630923b9f1f1d6f22809d12a.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_banner_bkg.jpg/5ef4fa01bee6d613395e498309bf1ddb.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_Coach_1.png/70d23b450bf463e5f32f7253f582d7d0.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_Cover_Generic.jpg/22d9c1f204439e9516351a922ea829c3.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_Cover_1024.png/4c9a632623e7ef0e91fae0b860b6c7bd.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_Cover_Online.jpg/729f30a05ce17b6f5fdae27bf03961f8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_Cover_AlbumBkg.jpg/49666a63400fd8977812a0c61b4df438.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_Cover_AlbumCoach.png/6c9993bb636ac53fa17dd1cf5b320612.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_Coach_1_Phone.png/d53bad3dcff7150ab6411deeb4e1fc7a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_Cover_Phone.jpg/729f30a05ce17b6f5fdae27bf03961f8.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23568,47184,70800,94416,118032,141648,165264,188880,212448,236064,259680,283296,306912,330528,354144,377760,401328,424944,448560,472176,495792,519408,543024,566640,590208,613824,637440,661056,684672,708288,731904,755520,779136,802704,826320,849936,873552,897168,920784,944400,968016,991584,1015200,1038816,1062432,1086048,1109664,1133280,1156896,1180464,1204080,1227696,1251312,1274928,1298544,1322160,1345776,1369344,1392960,1416576],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-12,\"endBeat\":413,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":60,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/notearsleft/notearsleft_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by ILYA, Savan Kotecha, Max Martin and Ariana Grande. Published by Universal Music Publishing Canada on behalf of Universal Music Corp.  / MXM [ASCAP] administered by Kobalt Songs Music Publishing (ASCAP) / Warner/Chappell Music Scandinavia AB (STIM) and Wolf Cousins (STIM). All rights on behalf of Warner/Chappell Music Scandinavia AB and Wolf Cousins administered by WB Music Corp. Courtesy of Republic Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF029DFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 212.748,
+  "mapName": "NoTearsLeft",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496695\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"627-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-627\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481827\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2939894\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5522544\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "NoTearsLeft_mapContent"
+  },
+  "parentMapName": "NoTearsLeft",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "C40B2AFF",
+    "songColor_1B": "6D0217FF",
+    "songColor_2A": "F9B8B8FF",
+    "songColor_2B": "F4BC7CFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "No Tears Left To Cry",
+  "urls": {
+    "jmcs://jd-contents/NoTearsLeft/NoTearsLeft_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_AudioPreview.ogg/cbd79bf55594100f208cab88d8f8aff0.ogg",
+    "jmcs://jd-contents/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_HIGH.vp8.webm/d2f7caca7df64bbb8071d11958d8cc1f.webm",
+    "jmcs://jd-contents/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_HIGH.vp9.webm/185e246ffe6f4bcc185b64e21f56011c.webm",
+    "jmcs://jd-contents/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_LOW.vp8.webm/e319102a79b4470e23ca9e885c2f4372.webm",
+    "jmcs://jd-contents/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_LOW.vp9.webm/c507baf5be3a21600a4946b9956b0f8b.webm",
+    "jmcs://jd-contents/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_MID.vp8.webm/e60a6ceb870e86b405bea0823f4a01fd.webm",
+    "jmcs://jd-contents/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_MID.vp9.webm/19c9e95fe43697d0828025a16d0f16a6.webm",
+    "jmcs://jd-contents/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_ULTRA.vp8.webm/02699c27a4ac2de569aa478b275caeea.webm",
+    "jmcs://jd-contents/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/NoTearsLeft_MapPreviewNoSoundCrop_ULTRA.vp9.webm/01e03b01375cb9d401d2a54425d071a8.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "847b7637447dcebc71866a010f03f98d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/ps4/NoTearsLeft_MAIN_SCENE_ORBIS.zip/847b7637447dcebc71866a010f03f98d.zip",
+      "version": 4
+    },
+    "nx": {
+      "md5": "3843511be1eb936e1b3c42484abfab3d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/NoTearsLeft/nx/NoTearsLeft_MAIN_SCENE_NX.zip/3843511be1eb936e1b3c42484abfab3d.zip",
+      "version": 4
+    },
+    "pc": {
+      "md5": "c96956701a7aa8d2fd54f30ea8685079",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/notearsleft_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

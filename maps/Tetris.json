@@ -1,0 +1,132 @@
+{
+  "artist": "Dancing Bros.",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_banner_bkg.jpg/b2b845667270c32888c106685d626927.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_1.png/f8aec2f9550be0bffbdc98ccd366ef4e.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_2.png/0e8d9157e1dcf84430aebedb9116bd4b.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_3.png/e754b764960bab066508fa4be31f19e0.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_4.png/d368ebba804e8fcd00b1bffae8ae30b9.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Cover_Generic.jpg/f9e7a053db215027556b6bf946e9e617.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Cover_1024.png/8e3f51f4fe8d2f4d2c4ead35a0f097b6.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Cover_Online.jpg/6bf063103fb8c2c8c6fb174e030cb2d7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Cover_AlbumBkg.jpg/711b67816a27d92ccc606b28feffedbc.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Cover_AlbumCoach.png/92aff994dd555c826938f7244fc5d041.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_1_Phone.png/f7ca130ebaf239fed7738d493ee5da62.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_2_Phone.png/469baf85a0165ecedb15f2a8bb90a002.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_3_Phone.png/209bb008542716dabdaec3bd152ca251.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_4_Phone.png/6aa01808ae09af466a34088bff11d1a2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Cover_Phone.jpg/6bf063103fb8c2c8c6fb174e030cb2d7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_VideoPreview.webm/5875f10aa7f1bfc8afe4a76bf50b6771.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_banner_bkg.jpg/b2b845667270c32888c106685d626927.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_1.png/f8aec2f9550be0bffbdc98ccd366ef4e.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_2.png/0e8d9157e1dcf84430aebedb9116bd4b.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_3.png/e754b764960bab066508fa4be31f19e0.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_4.png/d368ebba804e8fcd00b1bffae8ae30b9.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Cover_Generic.jpg/f9e7a053db215027556b6bf946e9e617.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Cover_1024.png/8e3f51f4fe8d2f4d2c4ead35a0f097b6.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Cover_Online.jpg/6bf063103fb8c2c8c6fb174e030cb2d7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Cover_AlbumBkg.jpg/711b67816a27d92ccc606b28feffedbc.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Cover_AlbumCoach.png/92aff994dd555c826938f7244fc5d041.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_1_Phone.png/f7ca130ebaf239fed7738d493ee5da62.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_2_Phone.png/469baf85a0165ecedb15f2a8bb90a002.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_3_Phone.png/209bb008542716dabdaec3bd152ca251.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_4_Phone.png/6aa01808ae09af466a34088bff11d1a2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Cover_Phone.jpg/6bf063103fb8c2c8c6fb174e030cb2d7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_VideoPreview.webm/5875f10aa7f1bfc8afe4a76bf50b6771.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/wiiu/Tetris_banner_bkg.tga.ckd/b99aa2885ce5f03ea2437946c886167f.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/wiiu/Tetris_Coach_1.tga.ckd/3500f4ff56770e0e4acc63a6a2f44ff1.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/wiiu/Tetris_Coach_2.tga.ckd/6f227ac11afae5c3d2f16f91c2666490.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/wiiu/Tetris_Coach_3.tga.ckd/ae0b50c6982136d69ea23dc9ced0707b.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/wiiu/Tetris_Coach_4.tga.ckd/96fb0282781f2f4f2ab4e826267deb49.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/wiiu/Tetris_Cover_Generic.tga.ckd/9d216ba8045be7993a34377791c7e296.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Cover_1024.png/8e3f51f4fe8d2f4d2c4ead35a0f097b6.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/wiiu/Tetris_Cover_Online.tga.ckd/7afa1ad585adabf67508a6e9dd34fab3.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/wiiu/Tetris_Cover_AlbumBkg.tga.ckd/e3598eeff40a47bb9a3229e670385661.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/wiiu/Tetris_Cover_AlbumCoach.tga.ckd/1f30a6106840f828b35eff722ac0060d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_1_Phone.png/f7ca130ebaf239fed7738d493ee5da62.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_2_Phone.png/469baf85a0165ecedb15f2a8bb90a002.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_3_Phone.png/209bb008542716dabdaec3bd152ca251.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Coach_4_Phone.png/6aa01808ae09af466a34088bff11d1a2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_Cover_Phone.jpg/6bf063103fb8c2c8c6fb174e030cb2d7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_VideoPreview.webm/5875f10aa7f1bfc8afe4a76bf50b6771.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,19200,38400,57600,76800,96000,115200,134400,153600,172800,192000,211200,230400,249600,268800,288000,307200,326400,345600,364800,384000,403200,422400,441600,460800,480000,499200,518400,537600,556800,576001,595201,614401,633601,652801,672001,691201,710401,729601,748801,768001,787201,806401,825601,844801,864001,883201,902401,921601,940801,960001,979201,998401,1017601,1036801,1056001,1075201,1094401,1113601,1132801,1152001,1171202,1190402,1209602,1228802,1248002,1267202,1286402,1305602,1324802,1344002,1363202,1382402,1401602,1420802],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-25,\"endBeat\":374,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":74,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/tetris/tetris_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 150.636,
+  "mapName": "Tetris",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"483366\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Tetris/Tetris_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1403118\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Tetris/Tetris_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1111\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1863393\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Tetris/Tetris_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1111\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1868812\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Tetris/Tetris_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1111\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "Tetris_mapContent"
+  },
+  "parentMapName": "Tetris",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "B400C0FF",
+    "songColor_1B": "5F005AFF",
+    "songColor_2A": "00B1CCFF",
+    "songColor_2B": "0F004BFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Tetris",
+  "urls": {
+    "jmcs://jd-contents/Tetris/Tetris_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_AudioPreview.ogg/0cea111811356f9a9cce661fe645a6a6.ogg",
+    "jmcs://jd-contents/Tetris/Tetris_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_MapPreviewNoSoundCrop_HIGH.vp8.webm/64ba1e16f2b5cf708ea576e443871584.webm",
+    "jmcs://jd-contents/Tetris/Tetris_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_MapPreviewNoSoundCrop_HIGH.vp9.webm/dbaf8f7a4aa51f54c7fb0a55bec8c0a4.webm",
+    "jmcs://jd-contents/Tetris/Tetris_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_MapPreviewNoSoundCrop_LOW.vp8.webm/fc093ef933c12676cf37a57c72dc7ec4.webm",
+    "jmcs://jd-contents/Tetris/Tetris_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_MapPreviewNoSoundCrop_LOW.vp9.webm/7b6c07673a69adaa06871f3a1212f471.webm",
+    "jmcs://jd-contents/Tetris/Tetris_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_MapPreviewNoSoundCrop_MID.vp8.webm/051d28badc938aa48b057090795005cc.webm",
+    "jmcs://jd-contents/Tetris/Tetris_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_MapPreviewNoSoundCrop_MID.vp9.webm/4ca6d7bdf52ada559816bff861cb7629.webm",
+    "jmcs://jd-contents/Tetris/Tetris_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_MapPreviewNoSoundCrop_ULTRA.vp8.webm/91f7e1ce3f3f3d44fa2d6f6e282c3b9f.webm",
+    "jmcs://jd-contents/Tetris/Tetris_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Tetris/Tetris_MapPreviewNoSoundCrop_ULTRA.vp9.webm/ef703f9b9908f10512f2dfdd06ac8869.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "56725f1d84728dc37f9ca1dd15da02cf",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Tetris/ps4/Tetris_MAIN_SCENE_ORBIS.zip/56725f1d84728dc37f9ca1dd15da02cf.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "e29cdb51d71bdc84e8f3ec052bda7e08",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Tetris/pc/Tetris_MAIN_SCENE_PC.zip/e29cdb51d71bdc84e8f3ec052bda7e08.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "75fbb2f6d7d0dc58b732422236dfde9d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Tetris/wiiu/Tetris_MAIN_SCENE_WIIU.zip/75fbb2f6d7d0dc58b732422236dfde9d.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "d5569377530faf0b363249f7cf3eb1d8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Tetris/nx/Tetris_MAIN_SCENE_NX.zip/d5569377530faf0b363249f7cf3eb1d8.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,90 @@
+{
+  "artist": "GTA & Jenn Morel",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Buscando/Buscando_banner_bkg.jpg/9efce2ef8a7a6a623fa84f3024b808cc.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Buscando/Buscando_Coach_1.png/de07c7dd37d0db7780e360352e807ef1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Buscando/Buscando_Cover_Generic.jpg/ba24d613371f403f04bb5d419dd725d6.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Buscando/Buscando_Cover_Online.jpg/8c9f91141cfa0f11fabe072cfdc2186e.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Buscando/Buscando_Cover_AlbumBkg.jpg/506c4dc8ac5bdfbcd08beb166ad80ceb.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Buscando/Buscando_Cover_AlbumCoach.png/aba1a3dc738088bacee51648ff83d658.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Buscando/Buscando_Coach_1_Phone.png/7fab8ce1cd5f23f1835ce8076ed92e0d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Buscando/Buscando_Cover_Phone.jpg/8c9f91141cfa0f11fabe072cfdc2186e.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Buscando/Buscando_banner_bkg.jpg/9efce2ef8a7a6a623fa84f3024b808cc.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Buscando/Buscando_Coach_1.png/de07c7dd37d0db7780e360352e807ef1.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Buscando/Buscando_Cover_Generic.jpg/ba24d613371f403f04bb5d419dd725d6.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Buscando/Buscando_Cover_Online.jpg/8c9f91141cfa0f11fabe072cfdc2186e.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Buscando/Buscando_Cover_AlbumBkg.jpg/506c4dc8ac5bdfbcd08beb166ad80ceb.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Buscando/Buscando_Cover_AlbumCoach.png/aba1a3dc738088bacee51648ff83d658.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Buscando/Buscando_Coach_1_Phone.png/7fab8ce1cd5f23f1835ce8076ed92e0d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Buscando/Buscando_Cover_Phone.jpg/8c9f91141cfa0f11fabe072cfdc2186e.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24000,48000,72000,96000,120000,144000,168000,192000,216000,240000,264000,288000,312000,336000,360000,384000,408000,432000,456000,480000,504000,528000,552000,576000,600000,624000,648000,672000,696000,720000,744000,768000,792000,816000,840000,864000,888000,912000,936000,960000,984000,1008000,1032000,1056000,1080000,1104000,1128000,1152000,1176000,1200000,1224000,1248000,1272000,1296000,1320000,1344000,1368000,1392000,1416000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":448,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/buscando/buscando_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Julio Alejandro Mejia, Gedrin Joely Morel, Jeniffer Morel and Matthew Toth Published by Buena Vaina Publishing / Joelii Music Publishing / Seven20 Songs (ASCAP) / 720 Publishing Worldwide (BMI). Courtesy of Mad Decent.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "EF25FBFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 226,
+  "mapName": "Buscando",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"493488\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1470233\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2391642\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2759088\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "Buscando_mapContent"
+  },
+  "parentMapName": "Buscando",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "9DAB00FF",
+    "songColor_1B": "436600FF",
+    "songColor_2A": "00D8FFFF",
+    "songColor_2B": "020040FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Buscando",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "784bd5a6b7598d5c071d40b889933ce6",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/ps4/Buscando_MAIN_SCENE_ORBIS.zip/784bd5a6b7598d5c071d40b889933ce6.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "e5effa90bfea2280260e64d4d6bd3be4",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/nx/Buscando_MAIN_SCENE_NX.zip/e5effa90bfea2280260e64d4d6bd3be4.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "3490c69f393f1d71e4586159e6448ccf",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Buscando/pc/3490c69f393f1d71e4586159e6448ccf.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/Buscando/Buscando_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/Buscando_AudioPreview.ogg/926dcd0f9a0a6c2efdf8651086288022.ogg",
+    "jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/Buscando_MapPreviewNoSoundCrop_HIGH.vp8.webm/c2f24be852b598a1be8a902781d25ccc.webm",
+    "jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/Buscando_MapPreviewNoSoundCrop_HIGH.vp9.webm/82545872a39c494474347493c8474ec8.webm",
+    "jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/Buscando_MapPreviewNoSoundCrop_LOW.vp8.webm/bfaa753028e58d0d378596934f885129.webm",
+    "jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/Buscando_MapPreviewNoSoundCrop_LOW.vp9.webm/5be7ecd9cd360e73b92efb5d8cb1d457.webm",
+    "jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/Buscando_MapPreviewNoSoundCrop_MID.vp8.webm/b8c0ac881e73fae8451b90004283ddf7.webm",
+    "jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/Buscando_MapPreviewNoSoundCrop_MID.vp9.webm/bbad134fa934444d9bfd5942686465a4.webm",
+    "jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/Buscando_MapPreviewNoSoundCrop_ULTRA.vp8.webm/39b7ea10ff3c5882b9823e5d4af766e8.webm",
+    "jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/Buscando_MapPreviewNoSoundCrop_ULTRA.vp9.webm/612f3fddebbcce05435401898b19a9fa.webm"
+  }
+}

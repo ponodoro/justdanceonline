@@ -1,0 +1,90 @@
+{
+  "artist": "Tones And I",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DanceMonkey/DanceMonkey_banner_bkg.jpg/fc3a460bc1bc8f9407b43f71300f12e6.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DanceMonkey/DanceMonkey_Coach_1.png/939a2fce017ad7efb22efe871bb02987.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DanceMonkey/DanceMonkey_Cover_Generic.jpg/b9f857d048731acd0ba81fc896ef066b.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DanceMonkey/DanceMonkey_Cover_Online.jpg/82617eab00823c0dbd25c66a6e746410.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DanceMonkey/DanceMonkey_Cover_AlbumBkg.jpg/0c39b88be39931d4ac5afc6bf2397ab2.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DanceMonkey/DanceMonkey_Cover_AlbumCoach.png/b959754c2d6e8f8ad8a08e11e7abc108.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DanceMonkey/DanceMonkey_Coach_1_Phone.png/f7749d677b0a8dfe841428f6f5865d49.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DanceMonkey/DanceMonkey_Cover_Phone.jpg/82617eab00823c0dbd25c66a6e746410.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DanceMonkey/DanceMonkey_banner_bkg.jpg/fc3a460bc1bc8f9407b43f71300f12e6.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DanceMonkey/DanceMonkey_Coach_1.png/939a2fce017ad7efb22efe871bb02987.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DanceMonkey/DanceMonkey_Cover_Generic.jpg/b9f857d048731acd0ba81fc896ef066b.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DanceMonkey/DanceMonkey_Cover_Online.jpg/82617eab00823c0dbd25c66a6e746410.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DanceMonkey/DanceMonkey_Cover_AlbumBkg.jpg/0c39b88be39931d4ac5afc6bf2397ab2.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DanceMonkey/DanceMonkey_Cover_AlbumCoach.png/b959754c2d6e8f8ad8a08e11e7abc108.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DanceMonkey/DanceMonkey_Coach_1_Phone.png/f7749d677b0a8dfe841428f6f5865d49.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DanceMonkey/DanceMonkey_Cover_Phone.jpg/82617eab00823c0dbd25c66a6e746410.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,29388,58776,88164,117551,146939,176327,205715,235102,264490,293878,323266,352653,382041,411429,440817,470204,499592,528980,558368,587755,617143,646531,675919,705306,734694,764082,793470,822857,852245,881633,911021,940408,969796,999184,1028572,1057959,1087347,1116735,1146123,1175510,1204898,1234286,1263674,1293061,1322449,1351837,1381225,1410612],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":343,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":48,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/dancemonkey/dancemonkey_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Toni Watson. Published by Tones and I pub designee (ASCAP). All rights administered by WC Music Corp. Courtesy of Elektra Records. By arrangement with Warner Music Group Film & TV Licensing.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "C458EBFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 212.54999999999998,
+  "mapName": "DanceMonkey",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"494800\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1474363\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2918976\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5097383\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1144\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "DanceMonkey_mapContent"
+  },
+  "parentMapName": "DanceMonkey",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "E55346FF",
+    "songColor_1B": "52164DFF",
+    "songColor_2A": "A6384CFF",
+    "songColor_2B": "61B773FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Dance Monkey",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "e04d9bbf8cf208e5f15921549e31d962",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/DanceMonkey/ps4/DanceMonkey_MAIN_SCENE_ORBIS.zip/e04d9bbf8cf208e5f15921549e31d962.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "505cbbc1dae2ad25008a8ba30c10e164",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/DanceMonkey/nx/DanceMonkey_MAIN_SCENE_NX.zip/505cbbc1dae2ad25008a8ba30c10e164.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "327f42cf0150bc01f6540e629c0138a8",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/DanceMonkey/pc/327f42cf0150bc01f6540e629c0138a8.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/DanceMonkey/DanceMonkey_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/DanceMonkey/DanceMonkey_AudioPreview.ogg/4fddaf47aa0b25318221a2e27329bd4b.ogg",
+    "jmcs://jd-contents/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_HIGH.vp8.webm/29906d6b72e1ff1d195de89f9035db4c.webm",
+    "jmcs://jd-contents/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_HIGH.vp9.webm/1f4282921c0e26ff011667f463a61086.webm",
+    "jmcs://jd-contents/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_LOW.vp8.webm/b6e7427b725b67da372a2e3cbe144c52.webm",
+    "jmcs://jd-contents/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_LOW.vp9.webm/38cca18440f53d046dc78a4762709e34.webm",
+    "jmcs://jd-contents/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_MID.vp8.webm/1f2eb28454ce4b3e9406db50c792e2f0.webm",
+    "jmcs://jd-contents/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_MID.vp9.webm/2ed2655d398c3cee2fa2b68cb145a923.webm",
+    "jmcs://jd-contents/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_ULTRA.vp8.webm/7eaf70312a0150672e5036334907aff7.webm",
+    "jmcs://jd-contents/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_ULTRA.vp9.webm/fc784f1e98b2b4d642da1d063cacaf8d.webm"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "artist": "Major Lazer Ft. Busy Signal",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/ps4/JumpMaLa_banner_bkg.tga.ckd/c64f288c944d01018012483f04ff9097.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/ps4/JumpMaLa_Coach_1.tga.ckd/316cc31e0e989828ca85024ed37fe317.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/ps4/JumpMaLa_Coach_2.tga.ckd/0a0845ba91f698a4273be6d6cfd21900.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/ps4/JumpMaLa_Cover_Generic.tga.ckd/51267cf1cbed91870e80d26ac0afc1dc.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_Cover_1024.png/6b4bf41a0710f3fad2608651a773d35e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/ps4/JumpMaLa_Cover_Online.tga.ckd/a417d72ef517a1da631be3f2bbadb757.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/ps4/JumpMaLa_Cover_AlbumBkg.tga.ckd/bb45bf1467c696e1634ef3b3a77d03e9.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/ps4/JumpMaLa_Cover_AlbumCoach.tga.ckd/25a0756e13828eb2c6a64b6bc2d42e47.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_Coach_1_Phone.png/c7850793a8898839d6df1aa4c4b64df5.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_Coach_2_Phone.png/1027b9e68090215251f6bcc12c5397f5.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_Cover_Phone.jpg/5c2e3d397e4d5749735a6c145beb09e7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_VideoPreview.webm/f286c6f6804b54aaf770c9714d749b97.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/ps4/JumpMaLa_map_bkg.tga.ckd/07eb86f97abd4fab7bbc079d32813897.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/nx/JumpMaLa_banner_bkg.tga.ckd/58504cf6fb4df7f027677dd6fb56210a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/nx/JumpMaLa_Coach_1.tga.ckd/f8c00203b35a649a0e1ff1191793199b.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/nx/JumpMaLa_Coach_2.tga.ckd/0fc0f1b466a0403632dbc9744f905e72.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/nx/JumpMaLa_Cover_Generic.tga.ckd/886ef8dc79b4626491787c73dd6720f9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_Cover_1024.png/6b4bf41a0710f3fad2608651a773d35e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/nx/JumpMaLa_Cover_Online.tga.ckd/79884e66439c73b7c86b6f35838fa515.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/nx/JumpMaLa_Cover_AlbumBkg.tga.ckd/2b260eb3bd8db9b2c622bf16871d6ebd.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/nx/JumpMaLa_Cover_AlbumCoach.tga.ckd/4aceb902409f5c304488e14de32b8805.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_Coach_1_Phone.png/c7850793a8898839d6df1aa4c4b64df5.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_Coach_2_Phone.png/1027b9e68090215251f6bcc12c5397f5.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_Cover_Phone.jpg/5c2e3d397e4d5749735a6c145beb09e7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_VideoPreview.webm/f286c6f6804b54aaf770c9714d749b97.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/nx/JumpMaLa_map_bkg.tga.ckd/b967e560bdd031fec67e3f75f5540be7.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/wiiu/JumpMaLa_banner_bkg.tga.ckd/c8eacacbc9db83e06a34d328cb3ef425.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/wiiu/JumpMaLa_Coach_1.tga.ckd/09bad002ed38ab481b0b134fdcb7f0d7.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/wiiu/JumpMaLa_Coach_2.tga.ckd/b3be0950a994ef2d89344b0ed0662529.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/wiiu/JumpMaLa_Cover_Generic.tga.ckd/0cd12a5976eb51a2a6880efff22307d4.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_Cover_1024.png/6b4bf41a0710f3fad2608651a773d35e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/wiiu/JumpMaLa_Cover_Online.tga.ckd/31bc3ad0170263c72e2655c1b6dbe02d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/wiiu/JumpMaLa_Cover_AlbumBkg.tga.ckd/b9a5354fe5ea9ac8c56f58c81b432091.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/wiiu/JumpMaLa_Cover_AlbumCoach.tga.ckd/cc0c8c071ba3a43ef524b61c0b6e93a8.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_Coach_1_Phone.png/c7850793a8898839d6df1aa4c4b64df5.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_Coach_2_Phone.png/1027b9e68090215251f6bcc12c5397f5.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_Cover_Phone.jpg/5c2e3d397e4d5749735a6c145beb09e7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_VideoPreview.webm/f286c6f6804b54aaf770c9714d749b97.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22512,44976,67488,90000,112512,134976,157488,180000,202512,224976,247488,270000,292512,314976,337488,360000,382512,404976,427488,450000,472512,494977,517489,540001,562513,584977,607489,630001,652513,674977,697489,720001,742513,764977,787489,810001,832513,854977,877489,900001,922513,944977,967489,990001,1012513,1034977,1057489,1080001,1102513,1124977,1147489,1170002,1192514,1214978,1237490,1260002,1282514,1304978,1327490,1350002,1372514,1394978,1417490],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":391,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/jumpmala/jumpmala_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Jens Espersen, Raenno Gordon, Rasmus Mygind Korsby, Anton Twile Nielsen and Thomas Pentz. Published By Kobalt Songs Music Publishing obo I Like Turtles Music (ASCAP) / you:made Publishing / Greensleeves Publishing Limited (PRS) d/b/a Songs of Greensleeves (ASCAP)/Reanno Gordon (ASCAP). Courtesy of Mad Decent. By arrangement with Hidden Track Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "00E6F7FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 185.15599999999998,
+  "mapName": "JumpMaLa",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497022\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482599\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"650-1140\">\r\n\t\t\t\t\t<Initialization range=\"0-650\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2944848\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"650-1140\">\r\n\t\t\t\t\t<Initialization range=\"0-650\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4840171\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"650-1142\">\r\n\t\t\t\t\t<Initialization range=\"0-650\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "JumpMaLa_mapContent"
+  },
+  "parentMapName": "JumpMaLa",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "078B2CFF",
+    "songColor_1B": "053433FF",
+    "songColor_2A": "FFBB39FF",
+    "songColor_2B": "A10000FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "Exclusive"
+  ],
+  "title": "Jump",
+  "urls": {
+    "jmcs://jd-contents/JumpMaLa/JumpMaLa_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_AudioPreview.ogg/2908c9227df659e4664e2a1e9cbde64e.ogg",
+    "jmcs://jd-contents/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_HIGH.vp8.webm/e387d13a2a5341050701bb8e45442d6c.webm",
+    "jmcs://jd-contents/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_HIGH.vp9.webm/61a0f5621f412f732fb8db5cef3bae1b.webm",
+    "jmcs://jd-contents/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_LOW.vp8.webm/a909fabba662108309779df71c15d0a8.webm",
+    "jmcs://jd-contents/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_LOW.vp9.webm/e248674b5c2c77c0dbe7adb56f7a8748.webm",
+    "jmcs://jd-contents/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_MID.vp8.webm/4fb8f1ae19f413410c0b55e66e4f13c7.webm",
+    "jmcs://jd-contents/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_MID.vp9.webm/d81fe356e6acf3f58fa340361bedc112.webm",
+    "jmcs://jd-contents/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f517ceec38d30f2b3bfc579510565839.webm",
+    "jmcs://jd-contents/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/JumpMaLa/JumpMaLa_MapPreviewNoSoundCrop_ULTRA.vp9.webm/c5ba455d5c3394ca6669fcf0328cab2c.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "c36c5385b75584589d00d8deabb81eb3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JumpMaLa/ps4/JumpMaLa_MAIN_SCENE_ORBIS.zip/c36c5385b75584589d00d8deabb81eb3.zip",
+      "version": 16
+    },
+    "nx": {
+      "md5": "b876e6c368396d784c755bce41fec213",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JumpMaLa/nx/JumpMaLa_MAIN_SCENE_NX.zip/b876e6c368396d784c755bce41fec213.zip",
+      "version": 16
+    },
+    "pc": {
+      "md5": "ff40b7ef29dfc619eaf95d274cc49851",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JumpMaLa/pc/JumpMaLa_MAIN_SCENE_PC.zip/ff40b7ef29dfc619eaf95d274cc49851.zip",
+      "version": 11
+    },
+    "wiiu": {
+      "md5": "4bf6ef6321003591babfcac918aa3c17",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JumpMaLa/wiiu/JumpMaLa_MAIN_SCENE_WIIU.zip/4bf6ef6321003591babfcac918aa3c17.zip",
+      "version": 17
+    }
+  },
+  "mapType": "jdu"
+}

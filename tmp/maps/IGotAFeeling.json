@@ -1,0 +1,114 @@
+{
+  "artist": "The Black Eyed Peas",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_banner_bkg.jpg/b5842317c0fe8091ee1c5e762f3f4a1d.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Coach_1.png/2bbbf14711a8c42d0cb6984f2cc332eb.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Cover_Generic.jpg/bac7dbfcce86caa57a6822b9113919e9.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Cover_1024.png/4039a4f4d740db05cb18015a5d100baf.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Cover_Online.jpg/a535643f826f179bb2968113cfa66ca7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Cover_AlbumBkg.jpg/c1950eb212b1177453c81dc001faf8af.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Cover_AlbumCoach.png/3caf90261afd14f1468e203e0614363b.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Coach_1_Phone.png/aec1f6ed4ea9bdac63c3cacb5eeeb8ee.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Cover_Phone.jpg/a535643f826f179bb2968113cfa66ca7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_VideoPreview.webm/3fa4f5b58fce8da73d1eb658e2bfc866.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_banner_bkg.jpg/b5842317c0fe8091ee1c5e762f3f4a1d.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Coach_1.png/2bbbf14711a8c42d0cb6984f2cc332eb.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Cover_Generic.jpg/bac7dbfcce86caa57a6822b9113919e9.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Cover_1024.png/4039a4f4d740db05cb18015a5d100baf.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Cover_Online.jpg/a535643f826f179bb2968113cfa66ca7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Cover_AlbumBkg.jpg/c1950eb212b1177453c81dc001faf8af.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Cover_AlbumCoach.png/3caf90261afd14f1468e203e0614363b.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Coach_1_Phone.png/aec1f6ed4ea9bdac63c3cacb5eeeb8ee.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Cover_Phone.jpg/a535643f826f179bb2968113cfa66ca7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_VideoPreview.webm/3fa4f5b58fce8da73d1eb658e2bfc866.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/wiiu/IGotAFeeling_banner_bkg.tga.ckd/c31843aa189fab6b4357dc164f581442.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/wiiu/IGotAFeeling_Coach_1.tga.ckd/ad89aae2591ce83738cf36df61543f08.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/wiiu/IGotAFeeling_Cover_Generic.tga.ckd/0981274b5f195049880e0863ae51f5e6.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Cover_1024.png/4039a4f4d740db05cb18015a5d100baf.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/wiiu/IGotAFeeling_Cover_Online.tga.ckd/9a174b8721aca2ccc61875eacd547e4f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/wiiu/IGotAFeeling_Cover_AlbumBkg.tga.ckd/ffa88bc8c386a03c8543828b56324dfe.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/wiiu/IGotAFeeling_Cover_AlbumCoach.tga.ckd/b25fd4843a6747a4a709d56410df8396.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Coach_1_Phone.png/aec1f6ed4ea9bdac63c3cacb5eeeb8ee.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_Cover_Phone.jpg/a535643f826f179bb2968113cfa66ca7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_VideoPreview.webm/3fa4f5b58fce8da73d1eb658e2bfc866.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22512,45024,67536,90000,112512,135024,157536,180000,202511,225023,247535,269999,292511,315023,337535,359999,382511,405023,427535,449999,472511,495023,517535,539999,562511,585023,607535,629999,652511,675023,697535,719999,742511,765023,787535,809999,832511,855023,877535,899999,922511,945023,967535,989999,1012511,1035023,1057535,1079998,1102510,1125022,1147534,1169998,1192510,1215022,1237534,1259998,1282510,1305022,1327534,1349998,1372510,1395022,1417534,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":475,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/igotafeeling/igotafeeling_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF10C6FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 224.063,
+  "mapName": "IGotAFeeling",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496977\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1479313\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2172717\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2177708\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "IGotAFeeling_mapContent"
+  },
+  "parentMapName": "IGotAFeeling",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "2B37FFFF",
+    "songColor_1B": "01001EFF",
+    "songColor_2A": "D82AFFFF",
+    "songColor_2B": "070018FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "I Gotta Feeling",
+  "urls": {
+    "jmcs://jd-contents/IGotAFeeling/IGotAFeeling_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_AudioPreview.ogg/8f9419144e9d7772d37bd03eb9875684.ogg",
+    "jmcs://jd-contents/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_HIGH.vp8.webm/9da46d87d4fe24344c81fd0320dcecf2.webm",
+    "jmcs://jd-contents/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_HIGH.vp9.webm/d61758908e4e19b304a01782c9aeb8b9.webm",
+    "jmcs://jd-contents/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_LOW.vp8.webm/5de903c66a572ab8e8af5c401651df2c.webm",
+    "jmcs://jd-contents/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_LOW.vp9.webm/c842bc37617494cdfa87be8c1217ec5e.webm",
+    "jmcs://jd-contents/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_MID.vp8.webm/f71e8fd81ac315ccabc1ad934401f57e.webm",
+    "jmcs://jd-contents/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_MID.vp9.webm/c1a3a03631190320f8de07f2f6299540.webm",
+    "jmcs://jd-contents/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_ULTRA.vp8.webm/9ab2860609320e83a7e33a0267060513.webm",
+    "jmcs://jd-contents/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/IGotAFeeling_MapPreviewNoSoundCrop_ULTRA.vp9.webm/b23b4f29a59c0419d9904c55ed5082b0.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "11d54dba13a8228b1ea866d30e03fcc5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/ps4/IGotAFeeling_MAIN_SCENE_ORBIS.zip/11d54dba13a8228b1ea866d30e03fcc5.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "e2dd24b862a3d53d2d8a034ee065169d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/pc/IGotAFeeling_MAIN_SCENE_PC.zip/e2dd24b862a3d53d2d8a034ee065169d.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "d05bb30e4f42b893c4a27f944b8dd056",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/wiiu/IGotAFeeling_MAIN_SCENE_WIIU.zip/d05bb30e4f42b893c4a27f944b8dd056.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "adcdb853e4a7d3b61a4367431408f173",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IGotAFeeling/nx/IGotAFeeling_MAIN_SCENE_NX.zip/adcdb853e4a7d3b61a4367431408f173.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,114 @@
+{
+  "artist": "Marina and The Diamonds",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_banner_bkg.jpg/3313cfa8961aa325dfb4d6d2331eadd9.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Coach_1.png/5595c331b55cae1a1abf37449627d6ad.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Cover_Generic.jpg/7e0c726f3e6e86f89ea342d3b149683c.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Cover_1024.png/aab74358a0e1737d159544d471dbd633.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Cover_Online.jpg/6f489938ee4b49b85bfff45ec4d23c1b.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Cover_AlbumBkg.jpg/62290d3b4e323698b6099b5da73b756e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Cover_AlbumCoach.png/db042efb93fcb14a0ee741ca0fc6c3b8.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Coach_1_Phone.png/3a7858d9f28f31205a19fb94ceb32a37.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Cover_Phone.jpg/6f489938ee4b49b85bfff45ec4d23c1b.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_VideoPreview.webm/73b1cf0578303aeb97ac1f9b62a0794d.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_banner_bkg.jpg/3313cfa8961aa325dfb4d6d2331eadd9.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Coach_1.png/5595c331b55cae1a1abf37449627d6ad.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Cover_Generic.jpg/7e0c726f3e6e86f89ea342d3b149683c.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Cover_1024.png/aab74358a0e1737d159544d471dbd633.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Cover_Online.jpg/6f489938ee4b49b85bfff45ec4d23c1b.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Cover_AlbumBkg.jpg/62290d3b4e323698b6099b5da73b756e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Cover_AlbumCoach.png/db042efb93fcb14a0ee741ca0fc6c3b8.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Coach_1_Phone.png/3a7858d9f28f31205a19fb94ceb32a37.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Cover_Phone.jpg/6f489938ee4b49b85bfff45ec4d23c1b.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_VideoPreview.webm/73b1cf0578303aeb97ac1f9b62a0794d.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/wiiu/PrimaDonna_banner_bkg.tga.ckd/0b9ec4bfda0c6ee95ee1bb28daa84ed5.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/wiiu/PrimaDonna_Coach_1.tga.ckd/35f0a4a3a75911b302b0d1b4b847b5e2.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/wiiu/PrimaDonna_Cover_Generic.tga.ckd/ea128a7b8c91ec75e1589042102495cb.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Cover_1024.png/aab74358a0e1737d159544d471dbd633.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/wiiu/PrimaDonna_Cover_Online.tga.ckd/ea128a7b8c91ec75e1589042102495cb.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/wiiu/PrimaDonna_Cover_AlbumBkg.tga.ckd/4fe3f43a9af93b5c97cf8a7c7b26466d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/wiiu/PrimaDonna_Cover_AlbumCoach.tga.ckd/f9611f9b39efde2801045ca439043168.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Coach_1_Phone.png/3a7858d9f28f31205a19fb94ceb32a37.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_Cover_Phone.jpg/6f489938ee4b49b85bfff45ec4d23c1b.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_VideoPreview.webm/73b1cf0578303aeb97ac1f9b62a0794d.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22500,45000,67500,90000,112500,135000,157500,180000,202500,225000,247500,270000,292500,315000,337500,360000,382500,405000,427500,450000,472500,495000,517500,540000,562500,585000,607500,630000,652500,675000,697500,720000,742500,765000,787500,810000,832500,855000,877500,900000,922500,945000,967500,990000,1012500,1035000,1057500,1080000,1102500,1125000,1147500,1170000,1192500,1215000,1237500,1260000,1282500,1305000,1327500,1350000,1372500,1395000,1417500],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":478,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/primadonna/primadonna_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "D100DEFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 224.279,
+  "mapName": "PrimaDonna",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497295\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1477717\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2629023\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2633081\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "PrimaDonna_mapContent"
+  },
+  "parentMapName": "PrimaDonna",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "EA3BABFF",
+    "songColor_1B": "7E004CFF",
+    "songColor_2A": "FFAB53FF",
+    "songColor_2B": "540037FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Primadonna",
+  "urls": {
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_AudioPreview.ogg/f96e9b07f8c8bddb42fb9b5768f3215c.ogg",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_HIGH.vp8.webm/4110fd0cb281b6a6c33e180f4edbea4c.webm",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_HIGH.vp9.webm/837804bd20aad4caddf4e5e01d87a432.webm",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_LOW.vp8.webm/7a977d63fba9eb9c0c744c1ae2d113fc.webm",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_LOW.vp9.webm/bb4c1b46f362937ead37dff67fe52342.webm",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_MID.vp8.webm/ae71f81a66992f79c8d766b5c254e035.webm",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_MID.vp9.webm/669ab71846d9a489dd539b301e0b7200.webm",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d8743becd124f862a42c56d1eabe2cd9.webm",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_ULTRA.vp9.webm/a22197b2d7eb8f7f46024a26785e6ec6.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "7e02152ca2700b892adf1cc84238460e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PrimaDonna/ps4/PrimaDonna_MAIN_SCENE_ORBIS.zip/7e02152ca2700b892adf1cc84238460e.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "a7ef72cfb05e4ade75a4ec4a501957d1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PrimaDonna/pc/PrimaDonna_MAIN_SCENE_PC.zip/a7ef72cfb05e4ade75a4ec4a501957d1.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "f74692de8bbedecc48d424ce3913268a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PrimaDonna/wiiu/PrimaDonna_MAIN_SCENE_WIIU.zip/f74692de8bbedecc48d424ce3913268a.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "6780e5fe6ab23c9064e4b6dcd98bae46",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PrimaDonna/nx/PrimaDonna_MAIN_SCENE_NX.zip/6780e5fe6ab23c9064e4b6dcd98bae46.zip",
+      "version": 8
+    }
+  },
+  "mapType": "jdu"
+}

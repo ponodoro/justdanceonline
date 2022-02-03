@@ -1,0 +1,116 @@
+{
+  "artist": "ABBA",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ggp/ABBAMoneyMoney_banner_bkg.tga.ckd/39f1ae1e27b54b5b04f190a28d672c31.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ggp/ABBAMoneyMoney_Coach_1.tga.ckd/997e58dead5717093e223c4f94dee3c0.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ggp/ABBAMoneyMoney_Cover_Generic.tga.ckd/630bbf136f43aeb9bf81baa4da5f0996.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_Cover_1024.png/70f993ae2ac466d2b1eca31c0afcfb71.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ggp/ABBAMoneyMoney_Cover_Online.tga.ckd/630bbf136f43aeb9bf81baa4da5f0996.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ggp/ABBAMoneyMoney_Cover_AlbumBkg.tga.ckd/483a07f8cdc06bc936e21855df3f52e5.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ggp/ABBAMoneyMoney_Cover_AlbumCoach.tga.ckd/330d8d50f70f4ec6f38185359bfabcfb.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_Coach_1_Phone.png/7fa2c23e70cda80ea986f908650d0556.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_Cover_Phone.jpg/93dc0f4c201733b89ab5ecdca135398a.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_VideoPreview.webm/43812936c839ee86737ac52030d4272b.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ggp/ABBAMoneyMoney_map_bkg.tga.ckd/95278ab457b49e2607d13127731c777d.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/nx/ABBAMoneyMoney_banner_bkg.tga.ckd/f72414919b3cb275894e51c072b63c06.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/nx/ABBAMoneyMoney_Coach_1.tga.ckd/61188852ee408d88819dfb53e21424f2.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/nx/ABBAMoneyMoney_Cover_Generic.tga.ckd/bcc335173a4bc3b4abe82b781cb979a7.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_Cover_1024.png/70f993ae2ac466d2b1eca31c0afcfb71.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/nx/ABBAMoneyMoney_Cover_Online.tga.ckd/bcc335173a4bc3b4abe82b781cb979a7.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/nx/ABBAMoneyMoney_Cover_AlbumBkg.tga.ckd/c7e5a7028c8effea8230eeb75d3302c9.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/nx/ABBAMoneyMoney_Cover_AlbumCoach.tga.ckd/12c42e55451b01329364ba08a35b12ed.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/nx/ABBAMoneyMoney_map_bkg.tga.ckd/1a3a4aca2ca555335910b68b8650a587.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_Coach_1_Phone.png/7fa2c23e70cda80ea986f908650d0556.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_Cover_Phone.jpg/93dc0f4c201733b89ab5ecdca135398a.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_VideoPreview.webm/43812936c839ee86737ac52030d4272b.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/wiiu/ABBAMoneyMoney_banner_bkg.tga.ckd/6311d3aff2ea103ea180b09bc2a0d159.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/wiiu/ABBAMoneyMoney_Coach_1.tga.ckd/847dcdda1b1cd28526ec214ad1161cfa.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/wiiu/ABBAMoneyMoney_Cover_Generic.tga.ckd/43b9883ba5dbb55250aa00c76cb10a00.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_Cover_1024.png/70f993ae2ac466d2b1eca31c0afcfb71.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/wiiu/ABBAMoneyMoney_Cover_Online.tga.ckd/43b9883ba5dbb55250aa00c76cb10a00.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/wiiu/ABBAMoneyMoney_Cover_AlbumBkg.tga.ckd/80e354f59c1de8ffb7446915f901e6a5.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/wiiu/ABBAMoneyMoney_Cover_AlbumCoach.tga.ckd/9dcbba1e9fcc70eeb61153cdfbeab461.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_Coach_1_Phone.png/7fa2c23e70cda80ea986f908650d0556.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_Cover_Phone.jpg/93dc0f4c201733b89ab5ecdca135398a.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_VideoPreview.webm/43812936c839ee86737ac52030d4272b.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24000,47952,71952,95952,120768,145584,169488,193344,217248,241104,264960,288864,312720,336624,360480,384336,408192,432048,455904,479760,503615,527472,551328,575183,599040,622896,646751,670416,694032,717696,741312,764976,788592,812255,835872,859679,883488,907296,931103,954864,978671,1002480,1026288,1050095,1073856,1097663,1121472,1145280,1169231,1193136,1217088,1241040,1264992,1288943,1312896,1336799,1359888,1382927,1407024,1431071],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":378,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":60,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/abbamoneymoney/abbamoneymoney_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F99520FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 188.49099999999999,
+  "mapName": "ABBAMoneyMoney",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"484590\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1394492\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2055090\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2059233\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4884,
+  "packages": {
+    "mapContent": "ABBAMoneyMoney_mapContent"
+  },
+  "parentMapName": "ABBAMoneyMoney",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FEB500FF",
+    "songColor_1B": "333333FF",
+    "songColor_2A": "FEC800FF",
+    "songColor_2B": "CD4F00FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Money, Money, Money",
+  "urls": {
+    "jmcs://jd-contents/ABBAMoneyMoney/ABBAMoneyMoney_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_AudioPreview.ogg/7b49efc12d11cca1f26889d7a9ad6960.ogg",
+    "jmcs://jd-contents/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_HIGH.vp8.webm/51c4b8aae61a22034344d16341d352e7.webm",
+    "jmcs://jd-contents/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_HIGH.vp9.webm/8b0e8f8a72669419747594cb5d8c3e1c.webm",
+    "jmcs://jd-contents/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_LOW.vp8.webm/82f98a39e96964508421b33dc886f79b.webm",
+    "jmcs://jd-contents/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_LOW.vp9.webm/519f9f25775304ce01257b9b7a4eb9c1.webm",
+    "jmcs://jd-contents/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_MID.vp8.webm/f167e2571811599fcd90eef301340318.webm",
+    "jmcs://jd-contents/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_MID.vp9.webm/f8bcaa3ecd18efad8125f0490c71f85c.webm",
+    "jmcs://jd-contents/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d40712dd8dbe0ed1676900c0c9beea98.webm",
+    "jmcs://jd-contents/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ABBAMoneyMoney_MapPreviewNoSoundCrop_ULTRA.vp9.webm/e7c6eb233dd05d96e980040b718fb01d.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "3a61a9c697a48b160b1f5fce05b661bc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/ps4/ABBAMoneyMoney_MAIN_SCENE_ORBIS.zip/3a61a9c697a48b160b1f5fce05b661bc.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "7ccdef055de30e39c31309a6cec8d862",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/pc/ABBAMoneyMoney_MAIN_SCENE_PC.zip/7ccdef055de30e39c31309a6cec8d862.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "ce1938fcaa7a56b1344f8a04da239b1f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/wiiu/ABBAMoneyMoney_MAIN_SCENE_WIIU.zip/ce1938fcaa7a56b1344f8a04da239b1f.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "3793a38b6ae4362b5214516331bb9258",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ABBAMoneyMoney/nx/ABBAMoneyMoney_MAIN_SCENE_NX.zip/3793a38b6ae4362b5214516331bb9258.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu"
+}

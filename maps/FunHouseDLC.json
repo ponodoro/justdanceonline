@@ -1,0 +1,97 @@
+{
+  "artist": "Pink",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_map_bkg.png"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/textures/FunHouseDLC_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0, 27696, 55392, 83088, 110784, 138480, 166176, 193824, 221520, 249216, 276912, 304608, 332304, 360000, 387696, 415392, 443088, 470785, 498481, 526177, 553825, 581521, 609217, 636913, 664609, 692305, 720001, 747697, 775393, 803089, 830785, 858481, 886177, 913826, 941522, 969218, 996914, 1024610, 1052306, 1080002, 1107698, 1135394, 1163090, 1190786, 1218482, 1246178, 1273826, 1301522, 1329218, 1356915, 1384611, 1412307],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":496,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":51,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/FunHouseDLC/FunHouseDLC_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "00FFFFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 100,
+  "mapName": "FunHouseDLC",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648877\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493834\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2984420\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5932938\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "FunHouseDLC_mapContent"
+  },
+  "parentMapName": "FunHouseDLC",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "C4000AFF",
+    "songColor_1B": "000000FF",
+    "songColor_2A": "0452BFFF",
+    "songColor_2B": "080F21FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main"
+  ],
+  "title": "Funhouse",
+  "urls": {
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/FunHouseDLC_AudioPreview.ogg",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/nx/FunHouseDLC_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/nx/FunHouseDLC_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/nx/FunHouseDLC_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/nx/FunHouseDLC_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/nx/FunHouseDLC_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/nx/FunHouseDLC_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/nx/FunHouseDLC_VideoPreview.vp9.webm",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/nx/FunHouseDLC_VideoPreview.vp9.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "2461d56bee110ee9b07806a386832bd2",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/pc/2461d56bee110ee9b07806a386832bd2.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "31fa3603c81f84b65e2199fdc8902304",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/nx/31fa3603c81f84b65e2199fdc8902304.zip",
+      "version": 1
+    },
+    "orbis": {
+      "md5": "016b6609352eaffbb3167d8c980d6fa2",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunHouseDLC/ps4/016b6609352eaffbb3167d8c980d6fa2.zip",
+      "version": 1
+    }
+  },
+  "mapType": "custom"
+}

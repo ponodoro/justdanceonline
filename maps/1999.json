@@ -1,0 +1,106 @@
+{
+  "artist": "Charli XCX & Troye Sivan",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/1999/ps4/1999_banner_bkg.tga.ckd/a148d982bc6a50edbe9c4caacbd585c0.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/1999/ps4/1999_Coach_1.tga.ckd/1f922041369573d0f3c88060fa5988f1.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/1999/ps4/1999_Coach_2.tga.ckd/047c9fafcf120b3eb678acec36304f93.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/1999/ps4/1999_Cover_Generic.tga.ckd/f26540295874883f9118f7b28ebceefe.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/1999/1999_Cover_1024.png/f885f236ca076fb6b87b3a4648113e62.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/1999/ps4/1999_Cover_Online.tga.ckd/2fc2d13026199b1eebb5a058b8ade4b6.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/1999/ps4/1999_Cover_AlbumBkg.tga.ckd/3dc7626608d2919a93a5171f3845a48f.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/1999/ps4/1999_Cover_AlbumCoach.tga.ckd/a76b2dfcdd206e1902f3e939a33aa042.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/1999/1999_Coach_1_Phone.png/f643a873dd544ec5453ff23248c43ed0.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/1999/1999_Coach_2_Phone.png/3a91dab5a9a44b457ac88de682ba695b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/1999/1999_Cover_Phone.jpg/516ffa16d6f565e6bba66a8664761453.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/1999/1999_VideoPreview.webm/6c8bb28e9eb03f164989df32ffed5799.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/1999/ps4/1999_map_bkg.tga.ckd/0563ccabe2b3bed6699880713bc8c318.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/1999/nx/1999_banner_bkg.tga.ckd/622f8444f50b2c86928378073e924128.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/1999/nx/1999_Coach_1.tga.ckd/a8a263d0f117ca32d8e0dc3cacfcb15d.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/1999/nx/1999_Coach_2.tga.ckd/2aa9764bd6486612951eec96fbaec9df.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/1999/nx/1999_Cover_Generic.tga.ckd/cabdafb8c6983674da2a14291d209632.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/1999/1999_Cover_1024.png/f885f236ca076fb6b87b3a4648113e62.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/1999/nx/1999_Cover_Online.tga.ckd/1eb0db45c7422f68f33fe576704c0282.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/1999/nx/1999_Cover_AlbumBkg.tga.ckd/251d4fd337b3d32ebd345ee5375941f3.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/1999/nx/1999_Cover_AlbumCoach.tga.ckd/d3d6ab167f1e7205b86042e018b97ac2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/1999/1999_Coach_1_Phone.png/f643a873dd544ec5453ff23248c43ed0.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/1999/1999_Coach_2_Phone.png/3a91dab5a9a44b457ac88de682ba695b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/1999/1999_Cover_Phone.jpg/516ffa16d6f565e6bba66a8664761453.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/1999/1999_VideoPreview.webm/6c8bb28e9eb03f164989df32ffed5799.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/1999/nx/1999_map_bkg.tga.ckd/b5da3e64049f069f44fcd21dce11cff4.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23226,46452,69678,92904,116129,139355,162581,185807,209033,232258,255484,278710,301936,325162,348388,371613,394839,418065,441291,464517,487742,510968,534194,557420,580646,603871,627097,650323,673549,696775,720000,743226,766452,789678,812904,836129,859355,882581,905807,929033,952258,975484,998710,1021936,1045162,1068388,1091613,1114839,1138065,1161291,1184517,1207742,1230968,1254194,1277420,1300646,1323871,1347097,1370323,1393549,1416775],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":394,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/1999/1999_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Charlotte Aitchison, Troye Sivan Mellet, Oscar Thomas Holter, Brett McLaughlin and Noonie Bao. Published by Stellar Songs Ltd. (PRS), Bob Ochoa’s Homemade Salsa (ASCAP), EMI Music Publishing Scandinavia AB (STIM). / Universal/MCA Music Ltd. / Wolf Cousins (STIM) and Warner/Chappell Music Scandinavia AB (STIM). All rights on behalf of Wolf Cousins and Warner/Chappell Music Scandinavia AB administered by WB Music Corp. All rights reserved. Used with permission. Courtesy of East West Records UK Ltd. By arrangement with Warner Music Group Film & TV Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF78C4FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 194.516,
+  "mapName": "1999",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497923\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/1999/1999_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484048\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/1999/1999_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2948062\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/1999/1999_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5804584\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/1999/1999_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1102\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "1999_mapContent"
+  },
+  "parentMapName": "1999",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "048C57FF",
+    "songColor_1B": "005635FF",
+    "songColor_2A": "FF8A17FF",
+    "songColor_2B": "AC3D00FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "1999",
+  "urls": {
+    "jmcs://jd-contents/1999/1999_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/1999/1999_AudioPreview.ogg/4fadb8cee1ca5937ce8636eafbb0beec.ogg",
+    "jmcs://jd-contents/1999/1999_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/1999/1999_MapPreviewNoSoundCrop_HIGH.vp8.webm/098eac031a0a27e542df9fa994ef6b62.webm",
+    "jmcs://jd-contents/1999/1999_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/1999/1999_MapPreviewNoSoundCrop_HIGH.vp9.webm/4b94d4b03bc5b6afb4f8afa65187b784.webm",
+    "jmcs://jd-contents/1999/1999_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/1999/1999_MapPreviewNoSoundCrop_LOW.vp8.webm/6e1c9104fe5e28e9f22b7d313b01ac92.webm",
+    "jmcs://jd-contents/1999/1999_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/1999/1999_MapPreviewNoSoundCrop_LOW.vp9.webm/00a2a64b415ec7cadceaef378c426c6d.webm",
+    "jmcs://jd-contents/1999/1999_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/1999/1999_MapPreviewNoSoundCrop_MID.vp8.webm/d8e50ad1ed5cf4407d9fddca73dff6e8.webm",
+    "jmcs://jd-contents/1999/1999_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/1999/1999_MapPreviewNoSoundCrop_MID.vp9.webm/a32d53d65ff3b5bfa782136238bca091.webm",
+    "jmcs://jd-contents/1999/1999_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/1999/1999_MapPreviewNoSoundCrop_ULTRA.vp8.webm/aa327669d9319c06cf7e062be30a019f.webm",
+    "jmcs://jd-contents/1999/1999_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/1999/1999_MapPreviewNoSoundCrop_ULTRA.vp9.webm/1e7b5cb4b2405ca7bfbda04ed11e245f.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "cb6e08b81802321e743d7c632bf3ac94",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/1999/ps4/1999_MAIN_SCENE_ORBIS.zip/cb6e08b81802321e743d7c632bf3ac94.zip",
+      "version": 24
+    },
+    "nx": {
+      "md5": "511e6da97b820566bcae49843141fdaf",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/1999/nx/1999_MAIN_SCENE_NX.zip/511e6da97b820566bcae49843141fdaf.zip",
+      "version": 25
+    },
+    "pc": {
+      "md5": "d9815016ae5d4698fec55fbf7f6812e5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/1999/pc/1999_MAIN_SCENE_PC.zip/d9815016ae5d4698fec55fbf7f6812e5.zip",
+      "version": 8
+    },
+    "wiiu": {
+      "md5": "56ed462798593bfe98b8297265e49e08",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/1999/wiiu/1999_MAIN_SCENE_WIIU.zip/56ed462798593bfe98b8297265e49e08.zip",
+      "version": 14
+    }
+  },
+  "mapType": "jdu"
+}

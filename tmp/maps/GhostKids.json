@@ -1,0 +1,114 @@
+{
+  "artist": "Halloween Thrills",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/ggp/GhostKids_banner_bkg.tga.ckd/730da4ac072dfb26ea7a70c2c843e2bd.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/ggp/GhostKids_Coach_1.tga.ckd/7c7339104b1bed1d2aa632a0e3835ec1.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/ggp/GhostKids_Coach_2.tga.ckd/52a170b51810382ff618900f043938f0.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/ggp/GhostKids_Cover_Generic.tga.ckd/9030207996902c72fc5b76d99a052e9a.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Cover_1024.png/7de6290dfdadff7dba723375cb037d0c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/ggp/GhostKids_Cover_Online.tga.ckd/9030207996902c72fc5b76d99a052e9a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/ggp/GhostKids_Cover_AlbumBkg.tga.ckd/3e5523cbc2f72f9a22b4589e8a4467df.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/ggp/GhostKids_Cover_AlbumCoach.tga.ckd/3e75183feeddf501cf88e7fb1d7150ae.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Coach_1_Phone.png/2011efcaca17c5f519098bb501fe18db.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Coach_2_Phone.png/4c80c67f34ed2ce2de1c89fd5bfae3e6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Cover_Phone.jpg/2d0da3e4bd5b6a5ad651da2190c157ac.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/ggp/GhostKids_map_bkg.tga.ckd/6654ed2728e845bfbe4d37a69d36f1fa.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/nx/GhostKids_banner_bkg.tga.ckd/2192eef7f5876c801138fc136628cab3.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/nx/GhostKids_Coach_1.tga.ckd/7d9cdecf8a9a6573b07ed69ee8e3988f.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/nx/GhostKids_Coach_2.tga.ckd/d7b87f6315f2c66ae33c7cbaa04fe421.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/nx/GhostKids_Cover_Generic.tga.ckd/3d38385da2ef2d1503a10ae506ab4ace.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Cover_1024.png/7de6290dfdadff7dba723375cb037d0c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/nx/GhostKids_Cover_Online.tga.ckd/1cb94b17d78296e24399b9e76d884939.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/nx/GhostKids_Cover_AlbumBkg.tga.ckd/fec8f6d6dc677c02b955aeecaf9e7e0e.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/nx/GhostKids_Cover_AlbumCoach.tga.ckd/7b477e6d2e2fee37ea2c02c9175a0797.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/nx/GhostKids_map_bkg.tga.ckd/5dc8ebc024e393a9b2fb5367099e5d63.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Coach_1_Phone.png/2011efcaca17c5f519098bb501fe18db.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Coach_2_Phone.png/4c80c67f34ed2ce2de1c89fd5bfae3e6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Cover_Phone.jpg/2d0da3e4bd5b6a5ad651da2190c157ac.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_banner_bkg.jpg/fedb0381515fb9273e228bd2a6757898.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Coach_1.png/efbad44bd1e15134ab25316de3fd4047.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Coach_2.png/87e79ccee9e2629be7d26073e22fbc20.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Cover_Generic.jpg/0e0553ad2ec7f359db29fc1a91519959.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Cover_1024.png/7de6290dfdadff7dba723375cb037d0c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Cover_Online.jpg/2d0da3e4bd5b6a5ad651da2190c157ac.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Cover_AlbumBkg.jpg/771fb4ea7040fd96b2897cf246cdfd07.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Cover_AlbumCoach.png/31c891b2c6dc2d490adeccb5e063c432.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Coach_1_Phone.png/2011efcaca17c5f519098bb501fe18db.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Coach_2_Phone.png/4c80c67f34ed2ce2de1c89fd5bfae3e6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_Cover_Phone.jpg/2d0da3e4bd5b6a5ad651da2190c157ac.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,34272,68592,102864,137136,171457,205729,240001,274273,308593,342865,377137,411457,445729,480002,514274,548594,582866,617138,651458,685730,720002,754275,788595,822867,857139,891459,925731,960003,994275,1028595,1062868,1097140,1131460,1165732,1200004,1234276,1268596,1302868,1337141,1371461,1405733],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":184,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":41,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/ghostkids/ghostkids_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FE4BD3FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 137.142,
+  "mapName": "GhostKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497253\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GhostKids/GhostKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1468434\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GhostKids/GhostKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1973343\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GhostKids/GhostKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1972468\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GhostKids/GhostKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "GhostKids_mapContent"
+  },
+  "parentMapName": "GhostKids",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FF003BFF",
+    "songColor_1B": "47013CFF",
+    "songColor_2A": "BE59DBFF",
+    "songColor_2B": "7401A5FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Friendly Phantom",
+  "urls": {
+    "jmcs://jd-contents/GhostKids/GhostKids_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_AudioPreview.ogg/03af00baa1e38f7633013ddf069ebb34.ogg",
+    "jmcs://jd-contents/GhostKids/GhostKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/8a411e34ec3d5cdda763e2ff385943ed.webm",
+    "jmcs://jd-contents/GhostKids/GhostKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/e46dedddcf286f0d45ed00631395fc4d.webm",
+    "jmcs://jd-contents/GhostKids/GhostKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_MapPreviewNoSoundCrop_LOW.vp8.webm/4d8ab5b9ea6498384f84a9aa4bf8270b.webm",
+    "jmcs://jd-contents/GhostKids/GhostKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_MapPreviewNoSoundCrop_LOW.vp9.webm/1153803e19255a5f5f2225a28c0cec70.webm",
+    "jmcs://jd-contents/GhostKids/GhostKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_MapPreviewNoSoundCrop_MID.vp8.webm/8d709b3ffb100c7f7ffae30f531cca5c.webm",
+    "jmcs://jd-contents/GhostKids/GhostKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_MapPreviewNoSoundCrop_MID.vp9.webm/f5ab9c59e90713f93e46d8b8ebbc31dd.webm",
+    "jmcs://jd-contents/GhostKids/GhostKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/1c32c870be5241750d15f56f5e31e92b.webm",
+    "jmcs://jd-contents/GhostKids/GhostKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/GhostKids/GhostKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/9a375c8be5176ba45adc4294b7266323.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "623aa5e1d8740d2d179f1217c74ffbae",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GhostKids/ps4/GhostKids_MAIN_SCENE_ORBIS.zip/623aa5e1d8740d2d179f1217c74ffbae.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "9a6a703fffe71c22344d0edd0d0a3fbc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GhostKids/nx/GhostKids_MAIN_SCENE_NX.zip/9a6a703fffe71c22344d0edd0d0a3fbc.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "44334b466b2925a6d7ea4122e9e56020",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/ghostkids_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939
+}

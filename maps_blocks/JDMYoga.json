@@ -1,0 +1,39 @@
+{
+  "__class": "OnlineBlock",
+  "artist": "JDMYoga Artist",
+  "assets": {
+    "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYoga/pc/JDMYoga_Coach_1.tga.ckd/b9394a9a7b10216ab8de50ec9acfb123.ckd",
+    "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYoga/pc/JDMYoga_Cover_Generic.tga.ckd/05763b6bdd562e70b4f26f63aee39354.ckd",
+    "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYoga/pc/JDMYoga_Cover_Online.tga.ckd/2672d7692805affd6c143a4573f5de89.ckd"
+  },
+  "coachCount": 1,
+  "credits": "CREDITS STRING TO BE FILLED",
+  "customTypeNameId": -1,
+  "difficulty": 2,
+  "jdmAttributes": [
+    "JDM_Normal"
+  ],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 31.714,
+  "mapName": "JDMYoga",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "JDMYoga_mapContent"
+  },
+  "parentMapName": "JDMYoga",
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 3,
+  "tags": [
+    "DanceMachine"
+  ],
+  "title": "JDMYoga",
+  "isPlayable": false
+}

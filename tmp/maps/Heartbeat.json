@@ -1,0 +1,114 @@
+{
+  "artist": "Kelly Clarkson",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_banner_bkg.jpg/f4daef10986e01d834d6f6a57368154e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Coach_1.png/6a762f63a714976b22702ebb20eeb38a.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Cover_Generic.jpg/7db636af4856883f016c4259a1bea0b9.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Cover_1024.png/252319f62a9beff83bd48acfe3438843.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Cover_Online.jpg/b4d083929fe49441e572174cbaa3822d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Cover_AlbumBkg.jpg/ba679a318495c91d75d213fe90a5c613.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Cover_AlbumCoach.png/21e4e171d70eac7cd5806c6283d30088.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Coach_1_Phone.png/6807fa874692400fcd22737e8d4a00c0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Cover_Phone.jpg/b4d083929fe49441e572174cbaa3822d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_VideoPreview.webm/f11ed80d530b5187f6466efa32c8aa60.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_banner_bkg.jpg/f4daef10986e01d834d6f6a57368154e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Coach_1.png/6a762f63a714976b22702ebb20eeb38a.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Cover_Generic.jpg/7db636af4856883f016c4259a1bea0b9.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Cover_1024.png/252319f62a9beff83bd48acfe3438843.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Cover_Online.jpg/b4d083929fe49441e572174cbaa3822d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Cover_AlbumBkg.jpg/ba679a318495c91d75d213fe90a5c613.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Cover_AlbumCoach.png/21e4e171d70eac7cd5806c6283d30088.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Coach_1_Phone.png/6807fa874692400fcd22737e8d4a00c0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Cover_Phone.jpg/b4d083929fe49441e572174cbaa3822d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_VideoPreview.webm/f11ed80d530b5187f6466efa32c8aa60.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/wiiu/Heartbeat_banner_bkg.tga.ckd/013fc549fa2e1a0a799f0c64e1737463.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/wiiu/Heartbeat_Coach_1.tga.ckd/c83a366379dc0d717fdf3ef6f340ae4d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/wiiu/Heartbeat_Cover_Generic.tga.ckd/d2e2f85fa523bf1a9a44ad8f2706b01e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Cover_1024.png/252319f62a9beff83bd48acfe3438843.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/wiiu/Heartbeat_Cover_Online.tga.ckd/cbd288802a4cb91908738bd77138b03d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/wiiu/Heartbeat_Cover_AlbumBkg.tga.ckd/981d5169627d4c53c6e1d1956caa7af6.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/wiiu/Heartbeat_Cover_AlbumCoach.tga.ckd/beabf5f3d41769ff0908026e043d6a8f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Coach_1_Phone.png/6807fa874692400fcd22737e8d4a00c0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_Cover_Phone.jpg/b4d083929fe49441e572174cbaa3822d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_VideoPreview.webm/f11ed80d530b5187f6466efa32c8aa60.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,19344,38640,57984,77328,96624,115968,135312,154608,173952,193296,212592,231936,251280,270624,289920,309264,328608,347904,367248,386592,405888,425232,444576,463872,483216,502560,521856,541200,560544,579840,599184,618528,637872,657168,676512,695856,715152,734496,753840,773136,792480,811824,831120,850464,869808,889104,908448,927792,947088,966432,985776,1005120,1024416,1043760,1063104,1082400,1101744,1121088,1140384,1159728,1179072,1198368,1217712,1237056,1256352,1275696,1295040,1314384,1333680,1353024,1372368,1391664,1411008,1430352],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":492,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":74,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/heartbeat/heartbeat_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "7DB9F6FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 199.32899999999998,
+  "mapName": "Heartbeat",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497889\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484314\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2855559\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3137590\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "Heartbeat_mapContent"
+  },
+  "parentMapName": "Heartbeat",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "DD3FFFFF",
+    "songColor_1B": "36006BFF",
+    "songColor_2A": "FF0126FF",
+    "songColor_2B": "6B005DFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Heartbeat Song",
+  "urls": {
+    "jmcs://jd-contents/Heartbeat/Heartbeat_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_AudioPreview.ogg/c8387725a46d66340f622ffe48510727.ogg",
+    "jmcs://jd-contents/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_HIGH.vp8.webm/8cae8367babd27ebb98d4c2c08774bcb.webm",
+    "jmcs://jd-contents/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_HIGH.vp9.webm/99555847c357a5dafb235ecc12712c21.webm",
+    "jmcs://jd-contents/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_LOW.vp8.webm/4ab7aae545c1e0e0586d3d526c161672.webm",
+    "jmcs://jd-contents/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_LOW.vp9.webm/8258e72e3202990ef583161a1c77aaa6.webm",
+    "jmcs://jd-contents/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_MID.vp8.webm/eaf56bf6fb6f7696d4a2350c2e6b6364.webm",
+    "jmcs://jd-contents/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_MID.vp9.webm/645f83c742a5a51517d248d23729780a.webm",
+    "jmcs://jd-contents/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_ULTRA.vp8.webm/0f14b2512a4b6c628a5d07c40e81e1b8.webm",
+    "jmcs://jd-contents/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Heartbeat/Heartbeat_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5c611ebbb7dea827380950122952cf6c.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "dcf06f02fe1d461e4910b041637c6c8c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Heartbeat/ps4/Heartbeat_MAIN_SCENE_ORBIS.zip/dcf06f02fe1d461e4910b041637c6c8c.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "67e284895c93666f8505b54201c2db04",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Heartbeat/pc/Heartbeat_MAIN_SCENE_PC.zip/67e284895c93666f8505b54201c2db04.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "efc3e255cde02fe354c9131dc5186c2d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Heartbeat/wiiu/Heartbeat_MAIN_SCENE_WIIU.zip/efc3e255cde02fe354c9131dc5186c2d.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "09105c97a60d0d882efd7306947b4819",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Heartbeat/nx/Heartbeat_MAIN_SCENE_NX.zip/09105c97a60d0d882efd7306947b4819.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu"
+}

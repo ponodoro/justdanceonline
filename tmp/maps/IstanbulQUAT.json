@@ -1,0 +1,132 @@
+{
+  "artist": "They Might Be Giants",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_banner_bkg.jpg/8c615836b496556733e6bb3061a76073.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_1.png/d39567b25ad320d44eb632e11b18ce5c.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_2.png/8d9b96898877fae4086fc804c944b6ad.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_3.png/7d6e4d6515cb452a3a25e215923b4e70.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_4.png/6ee261208ac72b33c635c836266a99a8.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Cover_Generic.jpg/443c661ed4e46b713ce4a6178bd1823e.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Cover_1024.png/8714f4df4500419021701433b07bcb35.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Cover_Online.jpg/afebadd1a6ed81701f816ce1f516431c.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Cover_AlbumBkg.jpg/4fe784126cafa41c0b0692d0ca8c96ee.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Cover_AlbumCoach.png/4b059d2e900d70f4b7b4aad10f9ad1a2.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_1_Phone.png/2d2cbd68e9c1ad4f12724d5c9167dc5c.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_2_Phone.png/7ccae3e0f9d0430f762666a36b2d1988.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_3_Phone.png/e78d30f596e00fb10bcdef49687e2cf1.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_4_Phone.png/7df8d3f0c4ad00f8b9296cdc68abcbdb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Cover_Phone.jpg/afebadd1a6ed81701f816ce1f516431c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_VideoPreview.webm/1f44b56d58bef7c8be7b8fcc5abd78a4.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_banner_bkg.jpg/8c615836b496556733e6bb3061a76073.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_1.png/d39567b25ad320d44eb632e11b18ce5c.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_2.png/8d9b96898877fae4086fc804c944b6ad.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_3.png/7d6e4d6515cb452a3a25e215923b4e70.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_4.png/6ee261208ac72b33c635c836266a99a8.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Cover_Generic.jpg/443c661ed4e46b713ce4a6178bd1823e.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Cover_1024.png/8714f4df4500419021701433b07bcb35.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Cover_Online.jpg/afebadd1a6ed81701f816ce1f516431c.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Cover_AlbumBkg.jpg/4fe784126cafa41c0b0692d0ca8c96ee.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Cover_AlbumCoach.png/4b059d2e900d70f4b7b4aad10f9ad1a2.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_1_Phone.png/2d2cbd68e9c1ad4f12724d5c9167dc5c.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_2_Phone.png/7ccae3e0f9d0430f762666a36b2d1988.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_3_Phone.png/e78d30f596e00fb10bcdef49687e2cf1.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_4_Phone.png/7df8d3f0c4ad00f8b9296cdc68abcbdb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Cover_Phone.jpg/afebadd1a6ed81701f816ce1f516431c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_VideoPreview.webm/1f44b56d58bef7c8be7b8fcc5abd78a4.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/wiiu/IstanbulQUAT_banner_bkg.tga.ckd/adc8b7be6e77de893b797fbe4fd08981.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/wiiu/IstanbulQUAT_Coach_1.tga.ckd/8451b479f406e7fe0e839f822d2c9155.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/wiiu/IstanbulQUAT_Coach_2.tga.ckd/1bb85e4b5156d683738dd1586170189e.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/wiiu/IstanbulQUAT_Coach_3.tga.ckd/cd784105374c6aede01cf1cffd0fc361.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/wiiu/IstanbulQUAT_Coach_4.tga.ckd/f1c766bb53c329d953f000be3916aead.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/wiiu/IstanbulQUAT_Cover_Generic.tga.ckd/0b3b57049941ffcaaf429b4442d6d267.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Cover_1024.png/8714f4df4500419021701433b07bcb35.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/wiiu/IstanbulQUAT_Cover_Online.tga.ckd/0b3b57049941ffcaaf429b4442d6d267.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/wiiu/IstanbulQUAT_Cover_AlbumBkg.tga.ckd/35acdaa085e65c09668e82a60c93ca06.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/wiiu/IstanbulQUAT_Cover_AlbumCoach.tga.ckd/6afe2353f67157f8acc21228e7be511e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_1_Phone.png/2d2cbd68e9c1ad4f12724d5c9167dc5c.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_2_Phone.png/7ccae3e0f9d0430f762666a36b2d1988.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_3_Phone.png/e78d30f596e00fb10bcdef49687e2cf1.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Coach_4_Phone.png/7df8d3f0c4ad00f8b9296cdc68abcbdb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_Cover_Phone.jpg/afebadd1a6ed81701f816ce1f516431c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_VideoPreview.webm/1f44b56d58bef7c8be7b8fcc5abd78a4.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25263,50525,75788,101050,126313,151576,176838,202101,227363,252626,277889,303151,328414,353676,378939,404201,429464,454727,479989,505252,530514,555777,581040,606302,631565,656827,682090,707353,732615,757878,783140,808403,833665,858928,884191,909453,934716,959978,985241,1009850,1035113,1060376,1085638,1110901,1136163,1161426,1186689,1211128,1237435,1263069,1287996,1313415,1339361,1363808,1389082,1414297,1439764],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4},{\"__class\":\"MusicSignature\",\"marker\":31,\"beats\":2}],\"startBeat\":0,\"endBeat\":297,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/istanbulquat/istanbulquat_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F2B668FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 156.813,
+  "mapName": "IstanbulQUAT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497082\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483561\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2946539\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4162575\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "IstanbulQUAT_mapContent"
+  },
+  "parentMapName": "IstanbulQUAT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "EB1A3FFF",
+    "songColor_1B": "60091CFF",
+    "songColor_2A": "EDA461FF",
+    "songColor_2B": "8E425AFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Istanbul",
+  "urls": {
+    "jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_AudioPreview.ogg/de56aaab0ea9ceed83a145913a874855.ogg",
+    "jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm/5dc2cc40a7224ae2271bf11f1c36ee04.webm",
+    "jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_HIGH.vp9.webm/89bbd5b0829d1566138be4cc27e7cac8.webm",
+    "jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm/b9d2c1a4675320c6748d49b71ed3485c.webm",
+    "jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_LOW.vp9.webm/066bf900e95c5bde874a7d5ebdadc1e7.webm",
+    "jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_MID.vp8.webm/8ae795c73f5efacaa0b69f19d54d6f1d.webm",
+    "jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_MID.vp9.webm/4eb49c485e4cd7910d9d30e98a91a81f.webm",
+    "jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/62c263486e0c6b454a38d5a220cd0d5b.webm",
+    "jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/IstanbulQUAT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/a59a31b11e28027481ad4d199e462dd1.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "692785878b5cd6bc94257f7e473c5dc6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/ps4/IstanbulQUAT_MAIN_SCENE_ORBIS.zip/692785878b5cd6bc94257f7e473c5dc6.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "4275e8a8d47e2d10a389cf89389fe3c7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/pc/IstanbulQUAT_MAIN_SCENE_PC.zip/4275e8a8d47e2d10a389cf89389fe3c7.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "691113212e4dfce618b20ecd89b0dbb6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/wiiu/IstanbulQUAT_MAIN_SCENE_WIIU.zip/691113212e4dfce618b20ecd89b0dbb6.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "eab8c709bf618a47cb583bc4cf6dea39",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IstanbulQUAT/nx/IstanbulQUAT_MAIN_SCENE_NX.zip/eab8c709bf618a47cb583bc4cf6dea39.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,100 @@
+{
+  "artist": "Yi Yan, Zhao Fang Jing, Suika Kune, Feizaojun",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/ps4/RainbowRhythm_banner_bkg.tga.ckd/f78ad4aa7f34c612c23441683dec801f.ckd",
+      "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/ps4/RainbowRhythm_Coach_1.tga.ckd/b10befd157fa48be1ca2b9c3327ed4df.ckd",
+      "coach2ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/ps4/RainbowRhythm_Coach_2.tga.ckd/201490e1cf0751429f8f725b339f208b.ckd",
+      "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/ps4/RainbowRhythm_Cover_Generic.tga.ckd/d25b4457bc366a4918e86d0d9e7a47e5.ckd",
+      "cover_1024ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_Cover_1024.png/ff772692a69d8b9b295ec3c5300ec54f.png",
+      "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/ps4/RainbowRhythm_Cover_Online.tga.ckd/250a2b4a2079f16b5a256f1f54cb07d6.ckd",
+      "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/ps4/RainbowRhythm_Cover_AlbumBkg.tga.ckd/a50000db1ea16977310a11d3a7dd2f42.ckd",
+      "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/ps4/RainbowRhythm_Cover_AlbumCoach.tga.ckd/a8471eb8173016f82a4e120edd672fee.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_Coach_1_Phone.png/aa5b044e96b78fe685d49610b2f437d3.png",
+      "phoneCoach2ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_Coach_2_Phone.png/3b993b9503556a677858fdfddf1c4f12.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_Cover_Phone.jpg/c0fe07a8414a1b0b41369cf2997df876.jpg",
+      "videoPreviewVideoURL": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_VideoPreview.webm/2df4bed434172170bc359fc0ce35ee97.webm",
+      "map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/ps4/RainbowRhythm_map_bkg.tga.ckd/802b6cc8498cb8279338ad2a6462a501.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/nx/RainbowRhythm_banner_bkg.tga.ckd/94e3e264109c8980268d51a086b7aa79.ckd",
+      "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/nx/RainbowRhythm_Coach_1.tga.ckd/63a2156edca9b154a59ba3e0c0a185c6.ckd",
+      "coach2ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/nx/RainbowRhythm_Coach_2.tga.ckd/40522c7adbfa6f2bfd33afe0d27391e0.ckd",
+      "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/nx/RainbowRhythm_Cover_Generic.tga.ckd/0a79dfdb27eaf8af770a3e7a5342e41f.ckd",
+      "cover_1024ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_Cover_1024.png/ff772692a69d8b9b295ec3c5300ec54f.png",
+      "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/nx/RainbowRhythm_Cover_Online.tga.ckd/7020f72858d66f362a92a31a6242265b.ckd",
+      "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/nx/RainbowRhythm_Cover_AlbumBkg.tga.ckd/ecb36db780756a317a0f72d51a617557.ckd",
+      "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/nx/RainbowRhythm_Cover_AlbumCoach.tga.ckd/8c063959b1b5c32e2e827755c8352406.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_Coach_1_Phone.png/aa5b044e96b78fe685d49610b2f437d3.png",
+      "phoneCoach2ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_Coach_2_Phone.png/3b993b9503556a677858fdfddf1c4f12.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_Cover_Phone.jpg/c0fe07a8414a1b0b41369cf2997df876.jpg",
+      "videoPreviewVideoURL": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_VideoPreview.webm/2df4bed434172170bc359fc0ce35ee97.webm",
+      "map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/nx/RainbowRhythm_map_bkg.tga.ckd/2b7b3adf8281a17bbd90ff61167ed99a.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22154,44308,66462,88616,110769,132923,155077,177231,199385,221539,243693,265846,288000,310154,332308,354462,376616,398769,420923,443077,465231,487385,509539,531693,553846,576000,598154,620308,642462,664616,686769,708923,731077,753231,775385,797539,819693,841846,864000,886154,908308,930462,952616,974769,996923,1019077,1041231,1063385,1085539,1107693,1129846,1152000,1174154,1196308,1218462,1240616,1262769,1284923,1307077,1329231,1351385,1373539,1395693,1417846],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":455,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/rainbowrhythm/rainbowrhythm_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by T2o and arranged by G-Tracy. Published by Bilibili Inc.  All rights reserved. Courtesy of Bilibili Inc.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F92F76FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 211.384,
+  "mapName": "RainbowRhythm",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496710\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"657-1146\">\r\n\t\t\t\t\t<Initialization range=\"0-657\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483282\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"658-1148\">\r\n\t\t\t\t\t<Initialization range=\"0-658\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2944960\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"658-1148\">\r\n\t\t\t\t\t<Initialization range=\"0-658\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5167382\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"658-1152\">\r\n\t\t\t\t\t<Initialization range=\"0-658\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4514,
+  "packages": {
+    "mapContent": "RainbowRhythm_mapContent"
+  },
+  "parentMapName": "RainbowRhythm",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "61CF95FF",
+    "songColor_1B": "166E6FFF",
+    "songColor_2A": "FFD87CFF",
+    "songColor_2B": "EF0000FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Cai Hong Jie Pai (Rainbow Rhythm)",
+  "urls": {
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_AudioPreview.ogg/233a7e5e4802a479843a2501a19bd6fc.ogg",
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_HIGH.vp8.webm/c03b77154439562053b25e3c6c098bfd.webm",
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_HIGH.vp9.webm/f14f9899fc505c0e60de06471f2ff448.webm",
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_LOW.vp8.webm/b820ae39969a7f4d23d97bce67371d3d.webm",
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_LOW.vp9.webm/874e8981b22b47d2a72f22a2463e5a62.webm",
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_MID.vp8.webm/d9c37ac8ec79586a3540f9e9e5809098.webm",
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_MID.vp9.webm/163683a7e53042b9084c2adb7122dc99.webm",
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_ULTRA.vp8.webm/e00cbffd515a98e6eb0fa00cdce5a398.webm",
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_ULTRA.vp9.webm/3cea6a2cf9e83e4b2735751530fc4108.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "46106c968cac1ace5bf79bebec2a64bc",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/ps4/RainbowRhythm_MAIN_SCENE_ORBIS.zip/46106c968cac1ace5bf79bebec2a64bc.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "84811001207ad84318b483d6422f84df",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainbowRhythm/nx/RainbowRhythm_MAIN_SCENE_NX.zip/84811001207ad84318b483d6422f84df.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "b595dba5251f089af6619da4b7311872",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/RainbowRhythm/pc/b595dba5251f089af6619da4b7311872.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

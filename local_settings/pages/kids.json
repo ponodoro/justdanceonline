@@ -1,0 +1,35 @@
+{
+	"__class": "JD_CarouselContent",
+	"categories": [{
+		"__class": "Category",
+		"title": "Kids JD2019",
+		"act": "kids_carousel",
+		"isc": "grp_kids_row",
+		"items": []
+	}],
+	"actionLists": {
+		"kidsMap": {
+			"__class": "ActionList",
+			"actions": [{
+				"__class": "Action",
+				"bannerContext": "kids",
+				"bannerTheme": "DEFAULT",
+				"bannerType": "song",
+				"title": "Dance",
+				"type": "play-song"
+			}],
+			"itemType": "map"
+		},
+		"NonStop": {
+			"__class": "ActionList",
+			"actions": [{
+				"__class": "Action",
+				"bannerType": "SHUFFLE",
+				"title": "Dance",
+				"type": "start-rowPlaylist"
+			}],
+			"itemType": "map"
+		}
+	},
+	"songItemLists": {}
+}

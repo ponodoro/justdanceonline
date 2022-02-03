@@ -1,0 +1,95 @@
+{
+  "artist": "Kat DeLuna Ft. Busta Rhymes",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Coach_1.png",
+      "coach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Coach_2.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Coach_1.png",
+      "phoneCoach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Coach_2.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_map_bkg.png"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Coach_1.png",
+      "coach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Coach_2.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Coach_1.png",
+      "phoneCoach2ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Coach_2.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/textures/RunTheShow_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,33360,66720,100080,127488,154944,182352,209808,237216,264624,292080,319488,346944,374352,401808,429216,456624,484080,511488,538944,566352,593808,621216,648624,676080,703488,730944,758352,785808,813216,840624,868080,895488,922944,950352,977808,1005216,1032624,1060080,1087488,1114944,1142352,1169808,1197216,1224624,1252080,1279488,1306944,1334352,1361808,1389216,1416624,1444080],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":394,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":52,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/RunTheShow/RunTheShow_AudioPreview.ogg\"}\"",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "00FFCFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 100,
+  "mapName": "RunTheShow",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648516\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"589-1079\">\r\n\t\t\t\t\t<Initialization range=\"0-589\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493390\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1075\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2981978\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1075\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5946162\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1082\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "RunTheShow_mapContent"
+  },
+  "parentMapName": "RunTheShow",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "07DDDBFF",
+    "songColor_1B": "0C5756FF",
+    "songColor_2A": "5C6AB0FF",
+    "songColor_2B": "9F92BBFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main"
+  ],
+  "title": "Run The Show",
+  "urls": {
+    "jmcs://jd-contents/RunTheShow/RunTheShow_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/RunTheShow_AudioPreview.ogg",
+    "jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/nx/RunTheShow_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/nx/RunTheShow_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/nx/RunTheShow_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/nx/RunTheShow_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/nx/RunTheShow_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/nx/RunTheShow_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/nx/RunTheShow_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/nx/RunTheShow_VideoPreview.vp8.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "3e832128af4f4d09d4077bb425eb6fae",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/pc/3e832128af4f4d09d4077bb425eb6fae.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "3ebe2c0555d50fad208caf9a64979e2f",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/RunTheShow/nx/3ebe2c0555d50fad208caf9a64979e2f.zip",
+      "version": 1
+    }
+  },
+  "mapType": "custom"
+}

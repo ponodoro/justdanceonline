@@ -1,0 +1,125 @@
+{
+  "artist": "LilDeuceDeuce ft. Black Gryph0n & TomSka",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/ps4/BeepBeep_banner_bkg.tga.ckd/f6d25419e71e0373f63d70730fae366b.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/ps4/BeepBeep_Coach_1.tga.ckd/4e9d1f5b5e68d17b40244fe1bec6cb20.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/ps4/BeepBeep_Cover_Generic.tga.ckd/e447a4e305766abfc5148d2f0259d484.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_Cover_1024.png/21be83d4363eb19084302efff4888f42.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/ps4/BeepBeep_Cover_Online.tga.ckd/3232d249bd7d6ee4704c7fd6d9e45fc2.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/ps4/BeepBeep_Cover_AlbumBkg.tga.ckd/b18a63c50b2707c3db69bb523d6cf07e.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/ps4/BeepBeep_Cover_AlbumCoach.tga.ckd/e86ee55695313ea526970f3ec196f728.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_Coach_1_Phone.png/bb0e354612a85d9dbd4563d02811b631.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_Cover_Phone.jpg/f6fe0936f2e1ba6de043f1fe63ca4ccc.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_VideoPreview.webm/ac97ee936f818855ce02dab89526d442.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/ps4/BeepBeep_map_bkg.tga.ckd/86b4a9bf9d286e3fe0c007beaa984b2e.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/nx/BeepBeep_banner_bkg.tga.ckd/8e26721aa4cf2d147bf896093dc53885.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/nx/BeepBeep_Coach_1.tga.ckd/9b90bf9a37322935efd01afdc0a9c836.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/nx/BeepBeep_Cover_Generic.tga.ckd/70cd80135a9d0ba95ff57ec64ca757b4.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_Cover_1024.png/21be83d4363eb19084302efff4888f42.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/nx/BeepBeep_Cover_Online.tga.ckd/5dbee2ac674580245bb362010207ee5a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/nx/BeepBeep_Cover_AlbumBkg.tga.ckd/ea6f545214e019768a77c8b24f440d92.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/nx/BeepBeep_Cover_AlbumCoach.tga.ckd/5720fd19759bae66dc8fee7a8b661f84.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_Coach_1_Phone.png/bb0e354612a85d9dbd4563d02811b631.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_Cover_Phone.jpg/f6fe0936f2e1ba6de043f1fe63ca4ccc.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_VideoPreview.webm/ac97ee936f818855ce02dab89526d442.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/nx/BeepBeep_map_bkg.tga.ckd/b85172647b6c774232c2c84ccf743384.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/wiiu/BeepBeep_banner_bkg.tga.ckd/96536dd16d8ce3f2115d07c30b845a3f.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/wiiu/BeepBeep_Coach_1.tga.ckd/7b7338a994f3d5cf6f42ac11cb501d2b.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/wiiu/BeepBeep_Cover_Generic.tga.ckd/4d0e490096751e261f1213b850e3a6ca.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_Cover_1024.png/21be83d4363eb19084302efff4888f42.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/wiiu/BeepBeep_Cover_Online.tga.ckd/ae6e82dcffd4bcf863857aaaec0546f2.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/wiiu/BeepBeep_Cover_AlbumBkg.tga.ckd/b01d00449d8d98421b867935a785891a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/wiiu/BeepBeep_Cover_AlbumCoach.tga.ckd/db24123e42bf50ffa40b1966da5696a9.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_Coach_1_Phone.png/bb0e354612a85d9dbd4563d02811b631.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_Cover_Phone.jpg/f6fe0936f2e1ba6de043f1fe63ca4ccc.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_VideoPreview.webm/ac97ee936f818855ce02dab89526d442.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22752,45072,68448,91344,113664,136848,159984,182640,205632,227856,250656,274080,297120,320352,343871,366383,388463,410735,434255,456911,479855,502799,525695,548351,571295,593663,616367,639839,662543,685343,708143,731135,754607,777503,800015,822815,845663,868463,891551,914638,937054,959854,982750,1005646,1028542,1050958,1073374,1096702,1120030,1142734,1165390,1188190,1210990,1234078,1256494,1279630,1302766,1325038,1348654,1371310,1394110,1416526,1439806],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-16,\"endBeat\":276,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/beepbeep/beepbeep_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Todd Bryanton. Published by Todd Bryanton. Courtesy of Todd Bryanton. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0F0D0FFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 139.031,
+  "mapName": "BeepBeep",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496035\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1111\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1383334\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1717531\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1717882\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "BeepBeep_mapContent"
+  },
+  "parentMapName": "BeepBeep",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "1BB529FF",
+    "songColor_1B": "052108FF",
+    "songColor_2A": "F2F0E5FF",
+    "songColor_2B": "070707FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "EasyPeasy",
+    "JD19_KIDScompatible",
+    "CnUnlimited2018"
+  ],
+  "title": "Beep Beep I'm a Sheep",
+  "urls": {
+    "jmcs://jd-contents/BeepBeep/BeepBeep_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_AudioPreview.ogg/986be12fc29b5fc88c83f8810982088b.ogg",
+    "jmcs://jd-contents/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_HIGH.vp8.webm/d0f3171383de8bcb7bc373307013d6fd.webm",
+    "jmcs://jd-contents/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_HIGH.vp9.webm/d4a102c349fa60292e20a462ae1e8130.webm",
+    "jmcs://jd-contents/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_LOW.vp8.webm/f00120f673b3950bdc79f633b39052b4.webm",
+    "jmcs://jd-contents/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_LOW.vp9.webm/2eb3dfbdf2a3476f197b07986365246f.webm",
+    "jmcs://jd-contents/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_MID.vp8.webm/d43097022b46947eb7774187ec6e0485.webm",
+    "jmcs://jd-contents/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_MID.vp9.webm/3508731fa8ad58c04b37ba09cbe46cfa.webm",
+    "jmcs://jd-contents/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ebdc7a3f6b8d0c2c40810e180d6ec1eb.webm",
+    "jmcs://jd-contents/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BeepBeep/BeepBeep_MapPreviewNoSoundCrop_ULTRA.vp9.webm/0253351053bf0293d70d00ffe5531529.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "71e4a13d98429e3cf0ef27f5ce780d52",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BeepBeep/ps4/BeepBeep_MAIN_SCENE_ORBIS.zip/71e4a13d98429e3cf0ef27f5ce780d52.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "883172c1daae45ba4abead591e776062",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BeepBeep/nx/BeepBeep_MAIN_SCENE_NX.zip/883172c1daae45ba4abead591e776062.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "14cd3a750850df5b155cfdf1da6d22c0",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/BeepBeep/pc/14cd3a750850df5b155cfdf1da6d22c0.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "144a52602338f818fc1a3e7753d24ca1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BeepBeep/wiiu/BeepBeep_MAIN_SCENE_WIIU.zip/144a52602338f818fc1a3e7753d24ca1.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

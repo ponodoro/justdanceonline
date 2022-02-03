@@ -1,0 +1,122 @@
+{
+  "artist": "ABBA",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ggp/ABBAFernando_banner_bkg.tga.ckd/39f1ae1e27b54b5b04f190a28d672c31.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ggp/ABBAFernando_Coach_1.tga.ckd/0225be12bccd2b49a575661dc8dfa368.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ggp/ABBAFernando_Coach_2.tga.ckd/7004a2a032189090cd1fbfd71e5ba8cd.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ggp/ABBAFernando_Cover_Generic.tga.ckd/22e08cfd0feb474e34f19d6378399da9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_Cover_1024.png/e99c72fbd9c55842d4a8e4208093b1a1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ggp/ABBAFernando_Cover_Online.tga.ckd/22e08cfd0feb474e34f19d6378399da9.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ggp/ABBAFernando_Cover_AlbumBkg.tga.ckd/b1781e57c10a2d3937228b7ae7b8fa13.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ggp/ABBAFernando_Cover_AlbumCoach.tga.ckd/7455334e9d40bdec029b725deeb9f9f3.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_Coach_1_Phone.png/9b5d69676ad7b1ccf892146b13f8b716.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_Coach_2_Phone.png/bee20e77b2b30e2493afe3f8e221baea.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_Cover_Phone.jpg/f1277750702355b1baded376debc5d6b.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_VideoPreview.webm/b50edbad3b64cf356c493393e65f6e8c.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ggp/ABBAFernando_map_bkg.tga.ckd/297872fa84e9b2d42aaea1ff5164ae07.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/nx/ABBAFernando_banner_bkg.tga.ckd/f72414919b3cb275894e51c072b63c06.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/nx/ABBAFernando_Coach_1.tga.ckd/084201642451f80da417b8044637a618.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/nx/ABBAFernando_Coach_2.tga.ckd/e87c4766674cf4f9cbf267dbfebdef07.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/nx/ABBAFernando_Cover_Generic.tga.ckd/f99e5b6bf2cce6a4976be5a58c56081f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_Cover_1024.png/e99c72fbd9c55842d4a8e4208093b1a1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/nx/ABBAFernando_Cover_Online.tga.ckd/f99e5b6bf2cce6a4976be5a58c56081f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/nx/ABBAFernando_Cover_AlbumBkg.tga.ckd/58a3343e6c763183d62fc0259d2394fa.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/nx/ABBAFernando_Cover_AlbumCoach.tga.ckd/548320b61a1478736a2de2443e3fff95.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/nx/ABBAFernando_map_bkg.tga.ckd/a71efe5c98a6fcc3965b4bede8eeb104.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_Coach_1_Phone.png/9b5d69676ad7b1ccf892146b13f8b716.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_Coach_2_Phone.png/bee20e77b2b30e2493afe3f8e221baea.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_Cover_Phone.jpg/f1277750702355b1baded376debc5d6b.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_VideoPreview.webm/b50edbad3b64cf356c493393e65f6e8c.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/wiiu/ABBAFernando_banner_bkg.tga.ckd/6311d3aff2ea103ea180b09bc2a0d159.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/wiiu/ABBAFernando_Coach_1.tga.ckd/816d2c8531030d03018e41fa3bbe4d4b.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/wiiu/ABBAFernando_Coach_2.tga.ckd/17ed18372c65395c84d8469dbe502cc9.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/wiiu/ABBAFernando_Cover_Generic.tga.ckd/b8303a7af11db749ce20ddf3afae0fc2.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_Cover_1024.png/e99c72fbd9c55842d4a8e4208093b1a1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/wiiu/ABBAFernando_Cover_Online.tga.ckd/b8303a7af11db749ce20ddf3afae0fc2.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/wiiu/ABBAFernando_Cover_AlbumBkg.tga.ckd/4332a25d285f41193e887ef797f1a9f2.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/wiiu/ABBAFernando_Cover_AlbumCoach.tga.ckd/98d32e04b4cdd48ebf2bd392d50b87e6.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_Coach_1_Phone.png/9b5d69676ad7b1ccf892146b13f8b716.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_Coach_2_Phone.png/bee20e77b2b30e2493afe3f8e221baea.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_Cover_Phone.jpg/f1277750702355b1baded376debc5d6b.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_VideoPreview.webm/b50edbad3b64cf356c493393e65f6e8c.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27936,55872,83808,111744,138528,165264,192000,218736,245472,271679,297887,324095,350303,376511,402719,428927,455135,481343,507551,533759,559631,585503,611375,637247,663119,688991,714863,740735,766607,792479,818351,844223,870095,896015,921887,947759,973631,999503,1025374,1051246,1077118,1102990,1128862,1154734,1180606,1206478,1232350,1258222,1284094,1310014,1335886,1361758,1387630,1413502,1439374],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":445,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":55,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/abbafernando/abbafernando_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF9531FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 251.61599999999999,
+  "mapName": "ABBAFernando",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496705\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1323096\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1326764\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1326726\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4884,
+  "packages": {
+    "mapContent": "ABBAFernando_mapContent"
+  },
+  "parentMapName": "ABBAFernando",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FEB500FF",
+    "songColor_1B": "333333FF",
+    "songColor_2A": "FEC800FF",
+    "songColor_2B": "CD4F00FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Fernando",
+  "urls": {
+    "jmcs://jd-contents/ABBAFernando/ABBAFernando_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_AudioPreview.ogg/044c54e04e4786e155eef39d0104298e.ogg",
+    "jmcs://jd-contents/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_HIGH.vp8.webm/95dc8ad0fae73cebc5e6f2567eb5d9e2.webm",
+    "jmcs://jd-contents/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_HIGH.vp9.webm/3137e07017e298b7297e80ed4670b3bc.webm",
+    "jmcs://jd-contents/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_LOW.vp8.webm/0a3b32f9d27bf2f128a26d1cc79059fe.webm",
+    "jmcs://jd-contents/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_LOW.vp9.webm/7c20a7d74338e3669f3b67c7876a8be8.webm",
+    "jmcs://jd-contents/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_MID.vp8.webm/401d5ba2479b2721769a18e8e07c8039.webm",
+    "jmcs://jd-contents/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_MID.vp9.webm/5a4335b27d7cf877aeabe591b5b0526e.webm",
+    "jmcs://jd-contents/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_ULTRA.vp8.webm/99fb372aac12946af5841b8cc11f9f50.webm",
+    "jmcs://jd-contents/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ABBAFernando_MapPreviewNoSoundCrop_ULTRA.vp9.webm/f7accc94db50d0263559f89a44974309.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "0ade43f14865af44929ea5747ab77698",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ABBAFernando/ps4/ABBAFernando_MAIN_SCENE_ORBIS.zip/0ade43f14865af44929ea5747ab77698.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "ce20ea2d8ce5c48a39f3abbcf2767d7d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ABBAFernando/pc/ABBAFernando_MAIN_SCENE_PC.zip/ce20ea2d8ce5c48a39f3abbcf2767d7d.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "98b35d2bf57d142286e7cc0862841bb3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ABBAFernando/wiiu/ABBAFernando_MAIN_SCENE_WIIU.zip/98b35d2bf57d142286e7cc0862841bb3.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "155a9f237326b120f7f85150343bba60",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ABBAFernando/nx/ABBAFernando_MAIN_SCENE_NX.zip/155a9f237326b120f7f85150343bba60.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu"
+}

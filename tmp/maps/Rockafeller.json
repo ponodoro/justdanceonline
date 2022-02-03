@@ -1,0 +1,108 @@
+{
+  "artist": "Fatboy Slim",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/ggp/Rockafeller_banner_bkg.tga.ckd/2c4fe1eb8c51d5c6cbba48b6bf7ca269.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/ggp/Rockafeller_Coach_1.tga.ckd/04cf3c731d23806bc10078b646bf839b.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/ggp/Rockafeller_Cover_Generic.tga.ckd/c2fdd4f8396ce30e5c06ac024d257b8c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_Cover_1024.png/8ffd586df73ec745c6a10d6ba784c281.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/ggp/Rockafeller_Cover_Online.tga.ckd/c2fdd4f8396ce30e5c06ac024d257b8c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/ggp/Rockafeller_Cover_AlbumBkg.tga.ckd/6f1e52b03fb5b455dc820d918c8594d1.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/ggp/Rockafeller_Cover_AlbumCoach.tga.ckd/1ac7ed1e746407063ffd96db9b87818b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_Coach_1_Phone.png/619d09651787b19d6f5c60859953f182.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_Cover_Phone.jpg/957ddc8948cc4fb6fbe99644e9c72ec3.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/ggp/Rockafeller_map_bkg.tga.ckd/6f79b8f16d393de3f024f1a983997d61.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/nx/Rockafeller_banner_bkg.tga.ckd/46c256e2cb0796725ec22909b323c508.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/nx/Rockafeller_Coach_1.tga.ckd/fc78311cd2430ea4e5067d2afb5331d0.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/nx/Rockafeller_Cover_Generic.tga.ckd/96be40a58cdc09cfb89f5ba12ef886b9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_Cover_1024.png/8ffd586df73ec745c6a10d6ba784c281.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/nx/Rockafeller_Cover_Online.tga.ckd/378fde23a5daa9a2e77cf4fe5e2e060c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/nx/Rockafeller_Cover_AlbumBkg.tga.ckd/e184c1394f75b81d533160465e36714e.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/nx/Rockafeller_Cover_AlbumCoach.tga.ckd/c535c7f9cabaa129edd9fc1b5846aa61.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/nx/Rockafeller_map_bkg.tga.ckd/01f557a1b44dd3a3661f1d38c666a55f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_Coach_1_Phone.png/619d09651787b19d6f5c60859953f182.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_Cover_Phone.jpg/957ddc8948cc4fb6fbe99644e9c72ec3.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/wiiu/Rockafeller_banner_bkg.tga.ckd/6fd80751d4e9493d0ba4e7b2f9b3ee22.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/wiiu/Rockafeller_Coach_1.tga.ckd/1088f984f5e5172a3270f333b60ede3c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/wiiu/Rockafeller_Cover_Generic.tga.ckd/9e8e7e309305e3c7f64b51e611cf75bf.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_Cover_1024.png/8ffd586df73ec745c6a10d6ba784c281.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/wiiu/Rockafeller_Cover_Online.tga.ckd/16f026261f2f3903f845235ddc085613.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/wiiu/Rockafeller_Cover_AlbumBkg.tga.ckd/520e9a4d87b4166b3585d8a7b8878b54.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/wiiu/Rockafeller_Cover_AlbumCoach.tga.ckd/aa8cf2c0a5080b905313cbf1f0f21d0f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_Coach_1_Phone.png/619d09651787b19d6f5c60859953f182.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_Cover_Phone.jpg/957ddc8948cc4fb6fbe99644e9c72ec3.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,18864,37728,56591,75455,94319,113183,132046,150910,169774,188637,207501,226365,245228,264092,282956,301819,320683,339547,358410,377274,396138,415001,433865,452729,471592,490456,509320,528183,547047,565911,584774,603638,622502,641365,660229,679093,697956,716820,735684,754547,773411,792275,811138,830002,848866,867729,886593,905457,924320,943184,962048,980911,999775,1018639,1037503,1056366,1075230,1094094,1112957,1131821,1150685,1169548,1188412,1207276,1226139,1245003,1263867,1282730,1301594,1320458,1339321,1358185,1377049,1395912,1414776,1433640],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":520,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":76,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/rockafeller/rockafeller_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FD067DFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 236.78099999999998,
+  "mapName": "Rockafeller",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496173\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1470527\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2107293\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2107003\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "Rockafeller_mapContent"
+  },
+  "parentMapName": "Rockafeller",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {},
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Rockafeller Skank",
+  "urls": {
+    "jmcs://jd-contents/Rockafeller/Rockafeller_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_AudioPreview.ogg/2e71cb19af0711c3b7764b3f4982f6d0.ogg",
+    "jmcs://jd-contents/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_HIGH.vp8.webm/537ad87ac1300329b823e5e3ccf4ca7d.webm",
+    "jmcs://jd-contents/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_HIGH.vp9.webm/93a7e62649532320e288e2e2f5e8eb26.webm",
+    "jmcs://jd-contents/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_LOW.vp8.webm/d00f6fea8a73bd37b6615baa54ccc33c.webm",
+    "jmcs://jd-contents/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_LOW.vp9.webm/2926ddf0cb51623db962d8f11f8ab1b7.webm",
+    "jmcs://jd-contents/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_MID.vp8.webm/f00b42bcd3d4cf568d8716fd63d9c183.webm",
+    "jmcs://jd-contents/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_MID.vp9.webm/19f4b230104d032bd00efbaa3b609ff9.webm",
+    "jmcs://jd-contents/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_ULTRA.vp8.webm/97f2ac2f832226f128cd7ab82a089d3f.webm",
+    "jmcs://jd-contents/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Rockafeller/Rockafeller_MapPreviewNoSoundCrop_ULTRA.vp9.webm/56b5e34c0f04efce2a68d613e4c576cc.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "89d7311ca981ad5e2a59780844db00c7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Rockafeller/ps4/Rockafeller_MAIN_SCENE_ORBIS.zip/89d7311ca981ad5e2a59780844db00c7.zip",
+      "version": 11
+    },
+    "pc": {
+      "md5": "ee11b7ff96e50a3431a510241d2f25aa",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Rockafeller/pc/Rockafeller_MAIN_SCENE_PC.zip/ee11b7ff96e50a3431a510241d2f25aa.zip",
+      "version": 8
+    },
+    "wiiu": {
+      "md5": "735108cb772b94beccd930bd2155980b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Rockafeller/wiiu/Rockafeller_MAIN_SCENE_WIIU.zip/735108cb772b94beccd930bd2155980b.zip",
+      "version": 11
+    },
+    "nx": {
+      "md5": "ea627729baf146edd5931bb8e9a92c4f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Rockafeller/nx/Rockafeller_MAIN_SCENE_NX.zip/ea627729baf146edd5931bb8e9a92c4f.zip",
+      "version": 11
+    }
+  },
+  "mapType": "jdu"
+}

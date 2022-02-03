@@ -1,0 +1,129 @@
+{
+  "artist": "Taio Cruz",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_banner_bkg.jpg/fb9bb3f23b2d14ae72739c5c51537891.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_1.png/16515f99239832cfbc437321c6d8a61d.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_2.png/83585a31ea8bdf03a5c8b3b73b101d0d.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_3.png/f456adc74cbf42831d7b8d1d269ee593.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_4.png/18c24a15a14fbeb30a96c56ec9fdefdf.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Cover_Generic.jpg/fc031ae4aa446d26c386553ccde99b10.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Cover_1024.png/b0aba0a8adee542bd2db21d57f74255c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Cover_Online.jpg/c93460f459f29f75488f57e55ec383e3.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Cover_AlbumBkg.jpg/20c043e7c357578014cae642ca1a3547.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Cover_AlbumCoach.png/927162e1163ab899294b71d1f840cdd1.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_1_Phone.png/74b6cf8cf28d07de4f0c82936e7193a8.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_2_Phone.png/94fd08cad826274804f5c44df54317e5.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_3_Phone.png/53e6c02730240cec0812b37bfb9b8cf9.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_4_Phone.png/1ada561747ba8099df3964be2f4488f9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Cover_Phone.jpg/c93460f459f29f75488f57e55ec383e3.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_banner_bkg.jpg/fb9bb3f23b2d14ae72739c5c51537891.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_1.png/16515f99239832cfbc437321c6d8a61d.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_2.png/83585a31ea8bdf03a5c8b3b73b101d0d.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_3.png/f456adc74cbf42831d7b8d1d269ee593.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_4.png/18c24a15a14fbeb30a96c56ec9fdefdf.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Cover_Generic.jpg/fc031ae4aa446d26c386553ccde99b10.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Cover_1024.png/b0aba0a8adee542bd2db21d57f74255c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Cover_Online.jpg/c93460f459f29f75488f57e55ec383e3.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Cover_AlbumBkg.jpg/20c043e7c357578014cae642ca1a3547.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Cover_AlbumCoach.png/927162e1163ab899294b71d1f840cdd1.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_1_Phone.png/74b6cf8cf28d07de4f0c82936e7193a8.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_2_Phone.png/94fd08cad826274804f5c44df54317e5.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_3_Phone.png/53e6c02730240cec0812b37bfb9b8cf9.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_4_Phone.png/1ada561747ba8099df3964be2f4488f9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Cover_Phone.jpg/c93460f459f29f75488f57e55ec383e3.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/wiiu/DynamiteQUAT_banner_bkg.tga.ckd/9a714cf36453c1289ee00477c8840e1c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/wiiu/DynamiteQUAT_Coach_1.tga.ckd/1a5ca8733275c22a7c8afefbe407628b.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/wiiu/DynamiteQUAT_Coach_2.tga.ckd/179c79b5081ed7eaf05866da5a8076c8.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/wiiu/DynamiteQUAT_Coach_3.tga.ckd/c631c4467d2d0a1effe412dd2070abb2.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/wiiu/DynamiteQUAT_Coach_4.tga.ckd/0c679524efd7988c276ea6b075b9ee73.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/wiiu/DynamiteQUAT_Cover_Generic.tga.ckd/657193ec31ba978f4c71faa014f99749.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Cover_1024.png/b0aba0a8adee542bd2db21d57f74255c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/wiiu/DynamiteQUAT_Cover_Online.tga.ckd/5477972535b9769114d10ab7963dcc9f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/wiiu/DynamiteQUAT_Cover_AlbumBkg.tga.ckd/5fac7e699d3fd68aa05ca6c49bffa59d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/wiiu/DynamiteQUAT_Cover_AlbumCoach.tga.ckd/ed7ddbd033065d1148932a43d26a5694.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_1_Phone.png/74b6cf8cf28d07de4f0c82936e7193a8.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_2_Phone.png/94fd08cad826274804f5c44df54317e5.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_3_Phone.png/53e6c02730240cec0812b37bfb9b8cf9.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Coach_4_Phone.png/1ada561747ba8099df3964be2f4488f9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_Cover_Phone.jpg/c93460f459f29f75488f57e55ec383e3.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23999,47998,71997,95996,119995,143994,167993,191992,215991,239989,263988,287987,311986,335985,359984,383983,407982,431981,455980,479979,503977,527976,551975,575974,599973,623972,647971,671970,695969,719968,743967,767965,791964,816051,840027,864026,888025,912024,936023,960022,984021,1008020,1032019,1056018,1080017,1104015,1128014,1152013,1176012,1200011,1224010,1248009,1272008,1296007,1320006,1344005,1368004,1392002,1416001],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":412,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/dynamitequat/dynamitequat_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF831AFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 206.25699999999998,
+  "mapName": "DynamiteQUAT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496443\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480566\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2928816\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3144796\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "DynamiteQUAT_mapContent"
+  },
+  "parentMapName": "DynamiteQUAT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "00CA8FFF",
+    "songColor_1B": "280061FF",
+    "songColor_2A": "E89D00FF",
+    "songColor_2B": "6D0026FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Dynamite",
+  "urls": {
+    "jmcs://jd-contents/DynamiteQUAT/DynamiteQUAT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_AudioPreview.ogg/6fd383b572b54e1bdb989f96621cf8f1.ogg",
+    "jmcs://jd-contents/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_HIGH.vp8.webm/97bd18e9bdafe33d371e715b8d55e290.webm",
+    "jmcs://jd-contents/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_HIGH.vp9.webm/03454586b7ff67cdc70afcbc7d0e6639.webm",
+    "jmcs://jd-contents/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_LOW.vp8.webm/5a97dc94c1b6280712eac3b87900ec6c.webm",
+    "jmcs://jd-contents/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_LOW.vp9.webm/c11c0031317a586c2447f4096b2020b6.webm",
+    "jmcs://jd-contents/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_MID.vp8.webm/38fa3afb40f31dddd48b9b31a99cdbdb.webm",
+    "jmcs://jd-contents/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_MID.vp9.webm/685b64bfd7bbf82d8fcab5cabdc68bc4.webm",
+    "jmcs://jd-contents/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d6c1c2550bbf4bfeeaa001f0e5901d72.webm",
+    "jmcs://jd-contents/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/DynamiteQUAT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/aa7207d3e9560e614153d2ce9edb17b1.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "06a43943c13f1827a97eb735c347451d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/ps4/DynamiteQUAT_MAIN_SCENE_ORBIS.zip/06a43943c13f1827a97eb735c347451d.zip",
+      "version": 8
+    },
+    "pc": {
+      "md5": "0960ce1938b92763fc905d87519e18ce",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/pc/DynamiteQUAT_MAIN_SCENE_PC.zip/0960ce1938b92763fc905d87519e18ce.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "416216aa33f41403b41069e09eb60af6",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/wiiu/DynamiteQUAT_MAIN_SCENE_WIIU.zip/416216aa33f41403b41069e09eb60af6.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "49c36955c9bf5bcfc4c59901261d97d2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DynamiteQUAT/nx/DynamiteQUAT_MAIN_SCENE_NX.zip/49c36955c9bf5bcfc4c59901261d97d2.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

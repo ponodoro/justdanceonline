@@ -1,0 +1,105 @@
+{
+  "artist": "Skrillex Ft. Sirah",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/ps4/BangarangALT_banner_bkg.tga.ckd/a04a028afdd733c99356419c0f9e1a0f.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/ps4/BangarangALT_Coach_1.tga.ckd/0a4f1b09b92c0730c63ef2bf6c9e8ce9.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/ps4/BangarangALT_Cover_Generic.tga.ckd/723ff24502e6ecd0cbdc4f630c879eab.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/BangarangALT_Cover_1024.png/66fe9c6171b56da9193963f8109f90dc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/ps4/BangarangALT_Cover_Online.tga.ckd/d4c433e5ff1b19d25d9d0b1c0f97aa58.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/ps4/BangarangALT_Cover_AlbumBkg.tga.ckd/1780e039e612bf67f4772875ffa9411a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/ps4/BangarangALT_Cover_AlbumCoach.tga.ckd/4bd408337eb9f9e2d0925bdb2985ada7.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/BangarangALT_Coach_1_Phone.png/205fd1c7158ebdac39ae2abc8b64975f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/BangarangALT_Cover_Phone.jpg/260148ff805a64a196b120152d4ee17c.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/ps4/BangarangALT_map_bkg.tga.ckd/7bf6bca7c97aeae972b39ed369cfc9eb.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/nx/BangarangALT_banner_bkg.tga.ckd/c07f0e3dddf6344e027d4e6ac2aca71d.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/nx/BangarangALT_Coach_1.tga.ckd/315db5ad91613cb973da279c78307942.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/nx/BangarangALT_Cover_Generic.tga.ckd/5738df567e715954ee12d1156141fd6c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/BangarangALT_Cover_1024.png/66fe9c6171b56da9193963f8109f90dc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/nx/BangarangALT_Cover_Online.tga.ckd/f81564a05906065996e1005edf1174e7.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/nx/BangarangALT_Cover_AlbumBkg.tga.ckd/98868fd85c004ea9b0045ad8012d18a5.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/nx/BangarangALT_Cover_AlbumCoach.tga.ckd/523cb33ec51dd99bf8c89ab10229a718.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/BangarangALT_Coach_1_Phone.png/205fd1c7158ebdac39ae2abc8b64975f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/BangarangALT_Cover_Phone.jpg/260148ff805a64a196b120152d4ee17c.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BangarangALT/nx/BangarangALT_map_bkg.tga.ckd/b57d118af9d0e70f8354a4dc7a7d83b1.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26160,52368,78528,104736,130896,157104,183264,209424,235632,261792,288000,314160,340368,366528,392736,418896,445104,471264,497424,523632,549792,576000,602160,628368,654528,680736,706896,733104,759264,785424,811633,837793,864001,890161,916369,942529,968737,994897,1021105,1047265,1073425,1099633,1125793,1152001,1178161,1204369,1230529,1256737,1282897,1309105,1335265,1361425,1387633,1413793],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":390,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":54,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/bangarangalt/bangarangalt_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Sonny Moore and Sara Mitchell. Published by Kobalt Songs Music Publishing obo Kobalt Music Copyrights SARL (ASCAP). / Pulse Recording Songs and Sirah Raps Music. Courtesy of Atlantic Records. By arrangement with Warner Music Group Film & TV Licensing.",
+  "difficulty": 4,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FB4BBBFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 216,
+  "mapName": "BangarangALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496693\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1475124\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2499058\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2705172\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "BangarangALT_mapContent"
+  },
+  "parentMapName": "Bangarang",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "2813D0FF",
+    "songColor_1B": "04004EFF",
+    "songColor_2A": "FF0000FF",
+    "songColor_2B": "280000FF"
+  },
+  "status": 12,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Alternate",
+    "subscribedSong"
+  ],
+  "title": "Bangarang",
+  "urls": {
+    "jmcs://jd-contents/BangarangALT/BangarangALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BangarangALT/BangarangALT_AudioPreview.ogg/bc01449a84382a0c6eabd5ac320cb403.ogg",
+    "jmcs://jd-contents/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/b19e78a0e25fb2c6074f31c21e56d8a8.webm",
+    "jmcs://jd-contents/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/cf8edb956540b9d46ad0aa086e297ec6.webm",
+    "jmcs://jd-contents/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_LOW.vp8.webm/2316e1d1d0519e6ce979e88119819858.webm",
+    "jmcs://jd-contents/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_LOW.vp9.webm/5f8057d9b4ee751419cc6d26a4334691.webm",
+    "jmcs://jd-contents/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_MID.vp8.webm/8e5ca8c3da9675725db440f59bd8ad99.webm",
+    "jmcs://jd-contents/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_MID.vp9.webm/d80cd74fb60d6a24fd288f11950e2a71.webm",
+    "jmcs://jd-contents/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/4b16443974d7cecdfe898049cb1c9f0a.webm",
+    "jmcs://jd-contents/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BangarangALT/BangarangALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/7298611bd4472b2ca344dc7bb0a83538.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "55b7256ba51608e613e59be03282aa0b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BangarangALT/ps4/BangarangALT_MAIN_SCENE_ORBIS.zip/55b7256ba51608e613e59be03282aa0b.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "b52be797807bd408761cc31b70a1e40c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BangarangALT/nx/BangarangALT_MAIN_SCENE_NX.zip/b52be797807bd408761cc31b70a1e40c.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "a4d9ad772dbf2d96a1e4b02556dbf4df",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/BangarangALT/pc/a4d9ad772dbf2d96a1e4b02556dbf4df.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12631
+}

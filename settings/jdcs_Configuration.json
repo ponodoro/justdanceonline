@@ -1,0 +1,35 @@
+{
+    "__class": "jdcs_configuration",
+    "message": "Server configuration for Just Dance Best.",
+    "arrays": {
+        "recommendedSongs": [
+			"Diamonds",
+            "Pon"
+        ],
+        "developerAccounts": [
+            "ea50355f-b1bc-4cf5-9bd2-a99fd57b4335",
+            "368a58e0-3bf2-4cf1-8fb5-8d6ec528119d",
+            "e94b3197-cde3-476e-905e-527110f47c89"
+        ],
+        "allowedMapTypes": ["custom", "jdu"]
+    },
+    "ticket": {
+        "jmcsDefaultAppId": "63475868-1e27-45c2-95c4-cfc58c951016",
+        "jmcsCHNDefaultAppId": "7be4f525-fa4b-4022-806f-3247e6d5067e"
+    },
+    "config": {
+        "JDVersion": {
+            "123": "Kids",
+            "4884": "ABBA: You Can Dance",
+            "4514": "Asia",
+            "4510": "Vitality School",
+            "8357": "Best"
+        },
+        "localTracks": []
+    },
+    "CommunityRemixContest": {
+        "isAvailable": true,
+        "id": 1,
+        "mapName": "Naturally"
+    }
+}

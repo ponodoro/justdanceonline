@@ -1,0 +1,94 @@
+{
+  "artist": "Black Cats",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_banner_bkg.jpg/d170e0a78fb927d53d8ee33bbc4c49df.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Coach_1.png/5f20c862f2ce38ab08848466228808a4.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Coach_2.png/3ec18d02d28de6ed2a09a00b4219b196.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Cover_Generic.jpg/a3c07edb139cb8cd5b072523761dd0a7.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Cover_Online.jpg/573b67a07bd84d5077b0ca5662cb68e9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Cover_AlbumBkg.jpg/47ae9be6154fcd8076aefa98ee1f901b.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Cover_AlbumCoach.png/39df74cf7077b918d46b70d1c8d5e253.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Coach_1_Phone.png/1d0bc0a932ae1b2dc2620bda608f4b3f.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Coach_2_Phone.png/f268e28c47d774193058a1100558af05.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Cover_Phone.jpg/573b67a07bd84d5077b0ca5662cb68e9.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_banner_bkg.jpg/d170e0a78fb927d53d8ee33bbc4c49df.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Coach_1.png/5f20c862f2ce38ab08848466228808a4.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Coach_2.png/3ec18d02d28de6ed2a09a00b4219b196.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Cover_Generic.jpg/a3c07edb139cb8cd5b072523761dd0a7.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Cover_Online.jpg/573b67a07bd84d5077b0ca5662cb68e9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Cover_AlbumBkg.jpg/47ae9be6154fcd8076aefa98ee1f901b.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Cover_AlbumCoach.png/39df74cf7077b918d46b70d1c8d5e253.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Coach_1_Phone.png/1d0bc0a932ae1b2dc2620bda608f4b3f.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Coach_2_Phone.png/f268e28c47d774193058a1100558af05.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Joone/Joone_Cover_Phone.jpg/573b67a07bd84d5077b0ca5662cb68e9.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24000,48000,72000,96000,120000,144000,168000,192000,216000,240000,264000,288000,312000,336000,360000,384000,408000,432000,456000,480000,504000,528000,552000,576000,600000,624000,648000,672000,696000,720000,744000,768000,792000,816000,840000,864000,888000,912000,936000,960000,984000,1008000,1032000,1056000,1080000,1104000,1128000,1152000,1176000,1200000,1224000,1248000,1272000,1296000,1320000,1344000,1368000,1392000,1416000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":382,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/joone/joone_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Schubert Avakian and Babak Roozbeh. Published by CTX Publishing (BMI). Courtesy of Caltex Records.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "14FF76FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 193,
+  "mapName": "Joone",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497694\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Joone/Joone_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481955\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Joone/Joone_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2851936\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Joone/Joone_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3173806\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Joone/Joone_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "Joone_mapContent"
+  },
+  "parentMapName": "Joone",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "175354FF",
+    "songColor_1B": "D31D35FF",
+    "songColor_2A": "EAE3E3FF",
+    "songColor_2B": "F0A529FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Joone Khodet",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "14fc7a04620ede13732eb36007c35551",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Joone/ps4/Joone_MAIN_SCENE_ORBIS.zip/14fc7a04620ede13732eb36007c35551.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "a1d9d5ea53df19d6699fe20937dbac92",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Joone/nx/Joone_MAIN_SCENE_NX.zip/a1d9d5ea53df19d6699fe20937dbac92.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "eaf4bf51083fdb044a552bc22f07ed73",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Joone/pc/eaf4bf51083fdb044a552bc22f07ed73.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/Joone/Joone_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/Joone/Joone_AudioPreview.ogg/b200eb1c480a504961cd902325a828e0.ogg",
+    "jmcs://jd-contents/Joone/Joone_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Joone/Joone_MapPreviewNoSoundCrop_HIGH.vp8.webm/6a49e2e37cbb7577bdf851a294416c68.webm",
+    "jmcs://jd-contents/Joone/Joone_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Joone/Joone_MapPreviewNoSoundCrop_HIGH.vp9.webm/c581300c4938294df588cfc038f02cdb.webm",
+    "jmcs://jd-contents/Joone/Joone_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Joone/Joone_MapPreviewNoSoundCrop_LOW.vp8.webm/115b9ac603f244b8fb75999b8f1e448f.webm",
+    "jmcs://jd-contents/Joone/Joone_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Joone/Joone_MapPreviewNoSoundCrop_LOW.vp9.webm/33a52c4c5ec5088cf3299f635b500b57.webm",
+    "jmcs://jd-contents/Joone/Joone_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Joone/Joone_MapPreviewNoSoundCrop_MID.vp8.webm/2c8b16bd52e81f550af79d582f8ea1e6.webm",
+    "jmcs://jd-contents/Joone/Joone_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Joone/Joone_MapPreviewNoSoundCrop_MID.vp9.webm/797b274074b5e52c33c9485fd64ad55c.webm",
+    "jmcs://jd-contents/Joone/Joone_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Joone/Joone_MapPreviewNoSoundCrop_ULTRA.vp8.webm/901ac4b7ba49d8d18d5ca6f785435fd0.webm",
+    "jmcs://jd-contents/Joone/Joone_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Joone/Joone_MapPreviewNoSoundCrop_ULTRA.vp9.webm/354d212a1d98183a6d59b0a1dda70130.webm"
+  }
+}

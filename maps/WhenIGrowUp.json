@@ -1,0 +1,97 @@
+{
+  "artist": "The Pussycat Dolls",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_map_bkg.png"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/textures/WhenIGrowUp_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24384,48768,73152,97536,121920,146304,170688,195072,219456,243840,268224,292608,316992,341376,365760,390144,414528,438912,463296,487680,512064,536448,560832,585216,609600,633984,658368,682752,707136,731520,755904,780288,804672,829056,853440,877824,902208,926592,950976,975360,999744,1024128,1048512,1072896,1097280,1121664,1146048,1170432,1194816,1219200,1243584,1267968,1292352,1316736,1341120,1365504,1389888,1414272,1438656],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":496,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/WhenIGrowUp/WhenIGrowUp_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Credits to PASHTET for sharing their files from Just Dance Edge. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "9B0CFAFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 100,
+  "mapName": "WhenIGrowUp",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648516\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhenIGrowUp/WhenIGrowUp_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"589-1079\">\r\n\t\t\t\t\t<Initialization range=\"0-589\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493390\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhenIGrowUp/WhenIGrowUp_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1075\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2981978\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhenIGrowUp/WhenIGrowUp_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1075\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5946162\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhenIGrowUp/WhenIGrowUp_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"585-1082\">\r\n\t\t\t\t\t<Initialization range=\"0-585\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "WhenIGrowUp_mapContent"
+  },
+  "parentMapName": "WhenIGrowUp",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "038C8BFF",
+    "songColor_1B": "03353BFF",
+    "songColor_2A": "A0C420FF",
+    "songColor_2B": "284B48FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main"
+  ],
+  "title": "When I Grow Up",
+  "urls": {
+    "jmcs://jd-contents/WhenIGrowUp/WhenIGrowUp_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/WhenIGrowUp_AudioPreview.ogg",
+    "jmcs://jd-contents/WhenIGrowUp/WhenIGrowUp_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/nx/WhenIGrowUp_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/WhenIGrowUp/WhenIGrowUp_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/nx/WhenIGrowUp_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/WhenIGrowUp/WhenIGrowUp_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/nx/WhenIGrowUp_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/WhenIGrowUp/WhenIGrowUp_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/nx/WhenIGrowUp_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/WhenIGrowUp/WhenIGrowUp_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/nx/WhenIGrowUp_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/WhenIGrowUp/WhenIGrowUp_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/nx/WhenIGrowUp_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/WhenIGrowUp/WhenIGrowUp_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/nx/WhenIGrowUp_VideoPreview.vp8.webm",
+    "jmcs://jd-contents/WhenIGrowUp/WhenIGrowUp_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/nx/WhenIGrowUp_VideoPreview.vp8.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "b6fb098a4ed337dcaabac46bf305efee",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/pc/b6fb098a4ed337dcaabac46bf305efee.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "66cead2ad78dc2e5fa909d2404dddf1c",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/nx/66cead2ad78dc2e5fa909d2404dddf1c.zip",
+      "version": 1
+    },
+    "orbis": {
+      "md5": "4e9d195239a7be3682e6140d7b805fb8",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/WhenIGrowUp/ps4/4e9d195239a7be3682e6140d7b805fb8.zip",
+      "version": 1
+    }
+  },
+  "mapType": "custom"
+}

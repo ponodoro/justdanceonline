@@ -1,0 +1,115 @@
+{
+  "artist": "Sabrina Carpenter",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/ps4/Thumbs_banner_bkg.tga.ckd/3a667beeef5eeb695d26613dcefd2cb3.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/ps4/Thumbs_Coach_1.tga.ckd/ac92ec2d29f050413f1a4d7057026529.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/ps4/Thumbs_Cover_Generic.tga.ckd/43b664da241ee144fc4a3f5b7d23d01d.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_Cover_1024.png/fc1af0013e27d275e7ef78ec32f6e709.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/ps4/Thumbs_Cover_Online.tga.ckd/a043a5c97e583efb22e0f325d6966a07.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/ps4/Thumbs_Cover_AlbumBkg.tga.ckd/4d8a49fefe154ceec0ede4e74761371a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/ps4/Thumbs_Cover_AlbumCoach.tga.ckd/0ef2bcb34bc3de9053fd6ffd990a85f5.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_Coach_1_Phone.png/3a2bcb6796c404221444947dbf4158f4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_Cover_Phone.jpg/3a89505a6700e4b54b674b50cfaa210c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_VideoPreview.webm/44cc287ee7008de2c5707698d5798ea5.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/ps4/Thumbs_map_bkg.tga.ckd/b99eba4536221c6d1aafc8cf2cf55c94.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/nx/Thumbs_banner_bkg.tga.ckd/107ee7a803af16bd27282a0d3a95a43f.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/nx/Thumbs_Coach_1.tga.ckd/70c232e9a664d7ba96e21fae7b9bf566.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/nx/Thumbs_Cover_Generic.tga.ckd/0a20a9b71f311696e8a18f4056be0c72.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_Cover_1024.png/fc1af0013e27d275e7ef78ec32f6e709.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/nx/Thumbs_Cover_Online.tga.ckd/060d5ef4fe7588e017e9f4e2805663e5.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/nx/Thumbs_Cover_AlbumBkg.tga.ckd/271befdac46e72282fe41704a0fa05ce.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/nx/Thumbs_Cover_AlbumCoach.tga.ckd/41c98a741f36d25257ba15ee0d076e8d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_Coach_1_Phone.png/3a2bcb6796c404221444947dbf4158f4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_Cover_Phone.jpg/3a89505a6700e4b54b674b50cfaa210c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_VideoPreview.webm/44cc287ee7008de2c5707698d5798ea5.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/nx/Thumbs_map_bkg.tga.ckd/4d3a454da4d514cc4eda1fea4aecd41d.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/wiiu/Thumbs_banner_bkg.tga.ckd/82cba4033bb01cc23da28920b6f9e05a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/wiiu/Thumbs_Coach_1.tga.ckd/55be643faac4e117ff9660da0ca260ff.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/wiiu/Thumbs_Cover_Generic.tga.ckd/9034e2e6e7db14c526a5fb4bd60f2d3a.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_Cover_1024.png/fc1af0013e27d275e7ef78ec32f6e709.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/wiiu/Thumbs_Cover_Online.tga.ckd/32df3100bf67990d285323e522e2eb61.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/wiiu/Thumbs_Cover_AlbumBkg.tga.ckd/097bfdb2184753afb844e5eaf9447c27.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/wiiu/Thumbs_Cover_AlbumCoach.tga.ckd/27d94d3006b61656ff48e738e6a0c7d2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_Coach_1_Phone.png/3a2bcb6796c404221444947dbf4158f4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_Cover_Phone.jpg/3a89505a6700e4b54b674b50cfaa210c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_VideoPreview.webm/44cc287ee7008de2c5707698d5798ea5.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21311,42671,63983,85295,106655,127967,149327,170639,191999,213311,234671,255983,277295,298655,319967,341327,362639,383999,405311,426671,447983,469295,490655,511967,533327,554639,575999,597311,618671,639983,661295,682655,703967,725327,746639,767999,789311,810671,831983,853295,874655,895967,917327,938639,959999,981311,1002671,1023983,1045294,1066654,1087966,1109326,1130638,1151998,1173310,1194670,1215982,1237294,1258654,1279966,1301326,1322638,1343998,1365310,1386670,1407982,1429294],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-11,\"endBeat\":486,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":67,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/thumbs/thumbs_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Steve Mac and Priscilla Renea Hamilton. Published by BMG Gold Songs (ASCAP) obo BMG Rights Management (UK) Ltd. (PRS / MCPS) obo Rokstone Music (PRS / MCPS). / WB Music Corp. (ASCAP) obo Priscilla Renea ASCAP Pub Designee. Courtesy of Hollywood Records @ 2016. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "A80B3DFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 220.891,
+  "mapName": "Thumbs",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496831\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Thumbs/Thumbs_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1468849\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Thumbs/Thumbs_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2597425\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Thumbs/Thumbs_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2841021\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Thumbs/Thumbs_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "Thumbs_mapContent"
+  },
+  "parentMapName": "Thumbs",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "690083FF",
+    "songColor_1B": "0B0033FF",
+    "songColor_2A": "0053FFFF",
+    "songColor_2B": "1F0066FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "UplayLock"
+  ],
+  "title": "Thumbs",
+  "urls": {
+    "jmcs://jd-contents/Thumbs/Thumbs_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_AudioPreview.ogg/be387ff965faba94c6a06603788bfa16.ogg",
+    "jmcs://jd-contents/Thumbs/Thumbs_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_MapPreviewNoSoundCrop_HIGH.vp8.webm/82ee0410d20d06d6fb064612f7699f0e.webm",
+    "jmcs://jd-contents/Thumbs/Thumbs_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_MapPreviewNoSoundCrop_HIGH.vp9.webm/51ef13de06a65d78212b586d5c250e39.webm",
+    "jmcs://jd-contents/Thumbs/Thumbs_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_MapPreviewNoSoundCrop_LOW.vp8.webm/f6224efdb2e188540411420a4d617f81.webm",
+    "jmcs://jd-contents/Thumbs/Thumbs_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_MapPreviewNoSoundCrop_LOW.vp9.webm/077a3e7ff0aea23b963edf6db05952c1.webm",
+    "jmcs://jd-contents/Thumbs/Thumbs_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_MapPreviewNoSoundCrop_MID.vp8.webm/8bf41db1f9bc1d2aae2336c6558f6b1d.webm",
+    "jmcs://jd-contents/Thumbs/Thumbs_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_MapPreviewNoSoundCrop_MID.vp9.webm/9f8532e5bcdd28559842bc24c53181d3.webm",
+    "jmcs://jd-contents/Thumbs/Thumbs_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f2e3744097d35db6a616b483ab9991d9.webm",
+    "jmcs://jd-contents/Thumbs/Thumbs_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Thumbs/Thumbs_MapPreviewNoSoundCrop_ULTRA.vp9.webm/f624e102ae00ff7e87aec01eaec4bbb0.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "523f65e49b347d7efe0c49c189c8e728",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Thumbs/ps4/Thumbs_MAIN_SCENE_ORBIS.zip/523f65e49b347d7efe0c49c189c8e728.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "7495fbbb72bc267b69a15db65291df74",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Thumbs/nx/Thumbs_MAIN_SCENE_NX.zip/7495fbbb72bc267b69a15db65291df74.zip",
+      "version": 4
+    },
+    "pc": {
+      "md5": "0cf8d90ab7a2f616bae8d558d1f2f16a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Thumbs/pc/Thumbs_MAIN_SCENE_PC.zip/0cf8d90ab7a2f616bae8d558d1f2f16a.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "955bd82bb0a7cc07eec8117e9e7ee12d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Thumbs/wiiu/Thumbs_MAIN_SCENE_WIIU.zip/955bd82bb0a7cc07eec8117e9e7ee12d.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

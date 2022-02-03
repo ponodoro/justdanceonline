@@ -1,0 +1,113 @@
+{
+  "artist": "Portugal. The Man",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_banner_bkg.jpg/58e06427493a5e630c7f0635b39432b1.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Coach_1.png/d427ce88cc89d189805465a11a7a6d1e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Cover_Generic.jpg/8b46610c3ca198bbe45cc2335070f993.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Cover_1024.png/25afba9192df679de92754d68a45f9d4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Cover_Online.jpg/f5a8f6dee9c3dcce51813a8f8b911f0d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Cover_AlbumBkg.jpg/8301fe3d2c8125b8af15d56cc4844376.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Cover_AlbumCoach.png/93cd1e0bd947b23bd01cd76762bb48f8.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Coach_1_Phone.png/2503b54dffc767f8b97c7d243d72a90a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Cover_Phone.jpg/f5a8f6dee9c3dcce51813a8f8b911f0d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_VideoPreview.webm/0a544be8ddebfc1111688b5a6e3e4f82.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_banner_bkg.jpg/58e06427493a5e630c7f0635b39432b1.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Coach_1.png/d427ce88cc89d189805465a11a7a6d1e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Cover_Generic.jpg/8b46610c3ca198bbe45cc2335070f993.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Cover_1024.png/25afba9192df679de92754d68a45f9d4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Cover_Online.jpg/f5a8f6dee9c3dcce51813a8f8b911f0d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Cover_AlbumBkg.jpg/8301fe3d2c8125b8af15d56cc4844376.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Cover_AlbumCoach.png/93cd1e0bd947b23bd01cd76762bb48f8.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Coach_1_Phone.png/2503b54dffc767f8b97c7d243d72a90a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Cover_Phone.jpg/f5a8f6dee9c3dcce51813a8f8b911f0d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_VideoPreview.webm/0a544be8ddebfc1111688b5a6e3e4f82.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/wiiu/FeelIt_banner_bkg.tga.ckd/ed9e0cb0356a1f7854e48807ad2d67ce.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/wiiu/FeelIt_Coach_1.tga.ckd/a12d736ba2b9ec4426a2712ec34bb288.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/wiiu/FeelIt_Cover_Generic.tga.ckd/10ea529938538baa4982b9779313fad0.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Cover_1024.png/25afba9192df679de92754d68a45f9d4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/wiiu/FeelIt_Cover_Online.tga.ckd/86f34a3a1e0ef0e11982f95f9f4101a5.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/wiiu/FeelIt_Cover_AlbumBkg.tga.ckd/8b440a88a5fa9a452bb83a1227ad6b1c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/wiiu/FeelIt_Cover_AlbumCoach.tga.ckd/f1a8300c5d31f6f5091fc36f62d20abd.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Coach_1_Phone.png/2503b54dffc767f8b97c7d243d72a90a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_Cover_Phone.jpg/f5a8f6dee9c3dcce51813a8f8b911f0d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_VideoPreview.webm/0a544be8ddebfc1111688b5a6e3e4f82.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,18240,36480,54720,72912,91152,109392,127583,145823,164015,182255,200495,218735,236975,255167,273407,291647,309839,328079,346271,364511,382751,400991,419231,437471,455711,473903,492143,510383,528575,546815,565055,583295,601487,619679,637871,656015,674639,693263,711839,730462,748222,766030,783790,802030,820270,838462,856702,874942,893134,911374,929566,947806,966046,984286,1002574,1020814,1039102,1057342,1075582,1093870,1112014,1130206,1148398,1166590,1184782,1203022,1221214,1239454,1257694,1275886,1294126,1312366,1330605,1348845,1367085,1385325,1403565,1421757,1439997],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":425,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":79,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/feelit/feelit_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Eric Howk, Zachary Carothers, Kyle O’Quin, John Gourley, Jason Sechrist, Freddie Gorman, Robert Bateman, Brian Holland, John Hill, Georgina Dobbins, William Garrett and Asa Taccone. Published by Warner-Tamerlane Publishing Corp. (BMI) Approaching Airbaloons (ASCAP), Kyle O’Quin (BMI) Pub Designee (BMI) and WB Music Corp. (ASCAP). / R odeoman Music / EMI Pop Music Publishing (GMR), Jobete Music Co Inc. (ASCAP) and Stone Agate Music (BMI) c/o EMI Blackwood Music (Canada) Ltd. (SOCAN). / Asa Taccone (Twonk Donklis/ASCAP). All rights reserved. Used with permission. (P) Line: 2017 Atlantic Recording Corporation. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F3B136FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 163.789,
+  "mapName": "FeelIt",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496165\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelIt/FeelIt_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"645-1134\">\r\n\t\t\t\t\t<Initialization range=\"0-645\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1470763\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelIt/FeelIt_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1136\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2433292\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelIt/FeelIt_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1136\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2441183\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelIt/FeelIt_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1136\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "FeelIt_mapContent"
+  },
+  "parentMapName": "FeelIt",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "000085FF",
+    "songColor_1B": "070832FF",
+    "songColor_2A": "C00063FF",
+    "songColor_2B": "100D25FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "EasyPeasy"
+  ],
+  "title": "Feel It Still",
+  "urls": {
+    "jmcs://jd-contents/FeelIt/FeelIt_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_AudioPreview.ogg/b309823bd0086af9fd9583b316656958.ogg",
+    "jmcs://jd-contents/FeelIt/FeelIt_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_MapPreviewNoSoundCrop_HIGH.vp8.webm/0a27aa15786b728eab1532ece4765569.webm",
+    "jmcs://jd-contents/FeelIt/FeelIt_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_MapPreviewNoSoundCrop_HIGH.vp9.webm/07eac9dbeb928eaae37bea28c2f652a3.webm",
+    "jmcs://jd-contents/FeelIt/FeelIt_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_MapPreviewNoSoundCrop_LOW.vp8.webm/0263fd381efb189a17ba4760cb926d8e.webm",
+    "jmcs://jd-contents/FeelIt/FeelIt_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_MapPreviewNoSoundCrop_LOW.vp9.webm/89005e53d71653678bf179180bffacf1.webm",
+    "jmcs://jd-contents/FeelIt/FeelIt_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_MapPreviewNoSoundCrop_MID.vp8.webm/f3d23d72ea381d5313d799e8bce42270.webm",
+    "jmcs://jd-contents/FeelIt/FeelIt_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_MapPreviewNoSoundCrop_MID.vp9.webm/5ac10172ad6b7e86749a4419963dad3b.webm",
+    "jmcs://jd-contents/FeelIt/FeelIt_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ae809929df9de77fd9921259b73f8a45.webm",
+    "jmcs://jd-contents/FeelIt/FeelIt_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/FeelIt/FeelIt_MapPreviewNoSoundCrop_ULTRA.vp9.webm/202c415838480bfdda48c6a55b8ecbf0.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "07db9229d8e7601a4d9309e10c29980f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FeelIt/ps4/FeelIt_MAIN_SCENE_ORBIS.zip/07db9229d8e7601a4d9309e10c29980f.zip",
+      "version": 52
+    },
+    "nx": {
+      "md5": "351be35f68e27356b64c19b7343e8fe5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FeelIt/nx/FeelIt_MAIN_SCENE_NX.zip/351be35f68e27356b64c19b7343e8fe5.zip",
+      "version": 27
+    },
+    "pc": {
+      "md5": "7a3be26074da5c15037c0c268d0aa347",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FeelIt/pc/FeelIt_MAIN_SCENE_PC.zip/7a3be26074da5c15037c0c268d0aa347.zip",
+      "version": 25
+    },
+    "wiiu": {
+      "md5": "b37c037f1fc430356185168f2c244f91",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FeelIt/wiiu/FeelIt_MAIN_SCENE_WIIU.zip/b37c037f1fc430356185168f2c244f91.zip",
+      "version": 52
+    }
+  },
+  "mapType": "jdu"
+}

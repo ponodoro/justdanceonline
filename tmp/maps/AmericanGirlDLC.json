@@ -1,0 +1,111 @@
+{
+  "artist": "Bonnie McKee",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_banner_bkg.jpg/894269c1ae8e20417132e348cf47d217.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Coach_1.png/ee7002f4c22a52f36f16c891a4c97af3.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Cover_Generic.jpg/4b35de25676ee759ce1e098e70dc5ba6.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Cover_1024.png/9572215f12a453c1f17b23f401a98541.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Cover_Online.jpg/26fd6826ba2937c64d3db3beaa7618d8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Cover_AlbumBkg.jpg/f9f7b63512df54ac53da2a7664e4bed3.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Cover_AlbumCoach.png/b2c8b51f05140efb03356ae5f59b09aa.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Coach_1_Phone.png/cd862c0f9534116caabeba8162d21c9f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Cover_Phone.jpg/26fd6826ba2937c64d3db3beaa7618d8.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_banner_bkg.jpg/894269c1ae8e20417132e348cf47d217.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Coach_1.png/ee7002f4c22a52f36f16c891a4c97af3.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Cover_Generic.jpg/4b35de25676ee759ce1e098e70dc5ba6.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Cover_1024.png/9572215f12a453c1f17b23f401a98541.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Cover_Online.jpg/26fd6826ba2937c64d3db3beaa7618d8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Cover_AlbumBkg.jpg/f9f7b63512df54ac53da2a7664e4bed3.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Cover_AlbumCoach.png/b2c8b51f05140efb03356ae5f59b09aa.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Coach_1_Phone.png/cd862c0f9534116caabeba8162d21c9f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Cover_Phone.jpg/26fd6826ba2937c64d3db3beaa7618d8.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/wiiu/AmericanGirlDLC_banner_bkg.tga.ckd/e7ffc91dae08b2805fcb8cd3cc5923d2.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/wiiu/AmericanGirlDLC_Coach_1.tga.ckd/81d39da8fc1e167014c29d0d76a84e1b.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/wiiu/AmericanGirlDLC_Cover_Generic.tga.ckd/5a5d5c8f988a4442c202bb93569b242d.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Cover_1024.png/9572215f12a453c1f17b23f401a98541.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/wiiu/AmericanGirlDLC_Cover_Online.tga.ckd/ca5d9c868f3669a54db8caaec338c1a6.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/wiiu/AmericanGirlDLC_Cover_AlbumBkg.tga.ckd/fbda325a94660c2e8b3f7ac40a6f5bf1.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/wiiu/AmericanGirlDLC_Cover_AlbumCoach.tga.ckd/dd5c2fe20873777a97ec38494aea70de.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Coach_1_Phone.png/cd862c0f9534116caabeba8162d21c9f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_Cover_Phone.jpg/26fd6826ba2937c64d3db3beaa7618d8.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22512,45024,67488,90000,112512,135024,157488,180000,202512,225024,247488,270000,292512,315024,337488,360000,382512,405024,427488,450000,472512,495024,517488,540000,562512,585024,607488,630000,652512,675024,697488,720000,742512,765024,787488,810000,832512,855024,877488,900000,922512,945024,967488,990000,1012512,1035024,1057488,1080000,1102512,1125024,1147488,1170000,1192512,1215024,1237488,1260000,1282512,1305024,1327488,1350000,1372512,1395024,1417488],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":480,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/americangirldlc/americangirldlc_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F4914AFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 225,
+  "mapName": "AmericanGirlDLC",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"498046\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1251464\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1499676\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1500330\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "AmericanGirlDLC_mapContent"
+  },
+  "parentMapName": "AmericanGirlDLC",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "00C0CAFF",
+    "songColor_1B": "1F003EFF",
+    "songColor_2A": "FFFCC0FF",
+    "songColor_2B": "F51C5BFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "American Girl",
+  "urls": {
+    "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_AudioPreview.ogg/5df5b9e412ee03a1176a3aba718f8b03.ogg",
+    "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm/6af1d25d54ca6465ec4d6300bcf19063.webm",
+    "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm/95f8aa6e659645255c509cc9e4c6d448.webm",
+    "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/631bd0ba163da6ba381a834cabb6616d.webm",
+    "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_LOW.vp9.webm/5d2159296fa284141dbff36b2ee23f6c.webm",
+    "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_MID.vp8.webm/c291f47cde80cc71c78cc550c0c62d90.webm",
+    "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_MID.vp9.webm/5cea353f063c6a58039656af65b69adb.webm",
+    "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm/580c575611f60a06d4f82ed7091a5249.webm",
+    "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/AmericanGirlDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm/526669572a78fcef3f7ce151505cc946.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "da80d65ba827a9f0086b2a21ab015313",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/ps4/AmericanGirlDLC_MAIN_SCENE_ORBIS.zip/da80d65ba827a9f0086b2a21ab015313.zip",
+      "version": 14
+    },
+    "pc": {
+      "md5": "0719b301e2a1c7a3c226fe5df60ef524",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/pc/AmericanGirlDLC_MAIN_SCENE_PC.zip/0719b301e2a1c7a3c226fe5df60ef524.zip",
+      "version": 9
+    },
+    "wiiu": {
+      "md5": "1aed8106d92b53a124b730b7f7b36e0c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/wiiu/AmericanGirlDLC_MAIN_SCENE_WIIU.zip/1aed8106d92b53a124b730b7f7b36e0c.zip",
+      "version": 15
+    },
+    "nx": {
+      "md5": "3ea65ee3eab354c0b6e465c8d441257d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/AmericanGirlDLC/nx/AmericanGirlDLC_MAIN_SCENE_NX.zip/3ea65ee3eab354c0b6e465c8d441257d.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

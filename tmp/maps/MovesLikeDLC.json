@@ -1,0 +1,114 @@
+{
+  "artist": "Maroon 5 Ft. Christina Aguilera",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_banner_bkg.jpg/ef23f7d91fe1f878e04bf18f3240d8f7.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Coach_1.png/57761b127bd843f0b3eed18322edb495.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Cover_Generic.jpg/8e09da631dcb8a6e74a33eec8fa978ad.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Cover_1024.png/5b29182e37cceb8398b7dcaba6749cbd.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Cover_Online.jpg/f3bf4ef4e1f8656df4ba29b65e70714b.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Cover_AlbumBkg.jpg/749933d6d8e43c070102e4d9bce000e7.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Cover_AlbumCoach.png/a824bd8aaeb946189fcda0f2ce541c06.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Coach_1_Phone.png/ee9f93167cbaf96b53ab8f5fb4bd7777.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Cover_Phone.jpg/f3bf4ef4e1f8656df4ba29b65e70714b.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_VideoPreview.webm/3aa98d27b686e7b76699821f07d88dc3.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_banner_bkg.jpg/ef23f7d91fe1f878e04bf18f3240d8f7.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Coach_1.png/57761b127bd843f0b3eed18322edb495.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Cover_Generic.jpg/8e09da631dcb8a6e74a33eec8fa978ad.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Cover_1024.png/5b29182e37cceb8398b7dcaba6749cbd.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Cover_Online.jpg/f3bf4ef4e1f8656df4ba29b65e70714b.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Cover_AlbumBkg.jpg/749933d6d8e43c070102e4d9bce000e7.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Cover_AlbumCoach.png/a824bd8aaeb946189fcda0f2ce541c06.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Coach_1_Phone.png/ee9f93167cbaf96b53ab8f5fb4bd7777.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Cover_Phone.jpg/f3bf4ef4e1f8656df4ba29b65e70714b.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_VideoPreview.webm/3aa98d27b686e7b76699821f07d88dc3.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/wiiu/MovesLikeDLC_banner_bkg.tga.ckd/4abdae1a43a12c8386be704046b8e798.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/wiiu/MovesLikeDLC_Coach_1.tga.ckd/e49aebfaa0b23d22a5a2b28f13752a7b.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/wiiu/MovesLikeDLC_Cover_Generic.tga.ckd/aab25a473ecf0dc5633690fef20e8ef6.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Cover_1024.png/5b29182e37cceb8398b7dcaba6749cbd.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/wiiu/MovesLikeDLC_Cover_Online.tga.ckd/d06a60e535e7b2382956d680ef8341a9.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/wiiu/MovesLikeDLC_Cover_AlbumBkg.tga.ckd/bb6acc7f12fd91d8e8e8701696311ddd.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/wiiu/MovesLikeDLC_Cover_AlbumCoach.tga.ckd/d95bfd777a42dd098bd12adfa5fbc852.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Coach_1_Phone.png/ee9f93167cbaf96b53ab8f5fb4bd7777.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_Cover_Phone.jpg/f3bf4ef4e1f8656df4ba29b65e70714b.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_VideoPreview.webm/3aa98d27b686e7b76699821f07d88dc3.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22512,45024,67488,90000,112512,135023,157487,179999,202511,225023,247487,269999,292511,315023,337487,359999,382511,405023,427487,449999,472511,495023,517487,539999,562511,585023,607487,629999,652511,675023,697487,719999,742511,765023,787487,809999,832511,855023,877487,899999,922511,945022,967486,989998,1012510,1035022,1057486,1079998,1102510,1125022,1147486,1169998,1192510,1215022,1237486,1259998,1282510,1305022,1327486,1349998,1372510,1395022,1417486,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":437,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/moveslikedlc/moveslikedlc_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "B210FFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 204.844,
+  "mapName": "MovesLikeDLC",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495346\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1465940\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2565329\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2570988\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "MovesLikeDLC_mapContent"
+  },
+  "parentMapName": "MovesLikeDLC",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "3A13A1FF",
+    "songColor_1B": "000352FF",
+    "songColor_2A": "E960FFFF",
+    "songColor_2B": "280074FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Moves Like Jagger",
+  "urls": {
+    "jmcs://jd-contents/MovesLikeDLC/MovesLikeDLC_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_AudioPreview.ogg/6310d31e9dac63e58761481b3634b0d4.ogg",
+    "jmcs://jd-contents/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm/a68edd0a49d99faf4197b8ebac2bf8c1.webm",
+    "jmcs://jd-contents/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm/345aceb3ae04d9d0554773517d0a432e.webm",
+    "jmcs://jd-contents/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/52d2004294a4afa9e3f263b87dc618f4.webm",
+    "jmcs://jd-contents/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_LOW.vp9.webm/177e7391d3cca338ebaeb9c76685a053.webm",
+    "jmcs://jd-contents/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_MID.vp8.webm/11357934827ba133e1aeaa033d49b62b.webm",
+    "jmcs://jd-contents/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_MID.vp9.webm/c6f6b199d80a063a3571481e1982b47b.webm",
+    "jmcs://jd-contents/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d093b46e35011b7272da3e357f38adbb.webm",
+    "jmcs://jd-contents/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/MovesLikeDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm/3f1dc873f5eae7b14eb4d3f3e7d4e38e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "69783c5066174a6bcc70767b82cfe025",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/ps4/MovesLikeDLC_MAIN_SCENE_ORBIS.zip/69783c5066174a6bcc70767b82cfe025.zip",
+      "version": 11
+    },
+    "pc": {
+      "md5": "99c58805617b9a07e83500eac0c5984c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/pc/MovesLikeDLC_MAIN_SCENE_PC.zip/99c58805617b9a07e83500eac0c5984c.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "a4059ab80d5fd2d122c14d39c1f97d05",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/wiiu/MovesLikeDLC_MAIN_SCENE_WIIU.zip/a4059ab80d5fd2d122c14d39c1f97d05.zip",
+      "version": 11
+    },
+    "nx": {
+      "md5": "c63e3db961a33d9b68163a3d8021057a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MovesLikeDLC/nx/MovesLikeDLC_MAIN_SCENE_NX.zip/c63e3db961a33d9b68163a3d8021057a.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

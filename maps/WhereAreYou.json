@@ -1,0 +1,131 @@
+{
+  "artist": "Lady Leshurr Ft. Wiley",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/ps4/WhereAreYou_banner_bkg.tga.ckd/9d3c0dab1e0329d698b614d782424187.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/ps4/WhereAreYou_Coach_1.tga.ckd/662a219e2040950c5649bd7933a30735.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/ps4/WhereAreYou_Coach_2.tga.ckd/4e67e7056b453e69145cef64872c2067.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/ps4/WhereAreYou_Coach_3.tga.ckd/e500849931fd82024e72132889408c68.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/ps4/WhereAreYou_Cover_Generic.tga.ckd/8e168bdda09fb13705487db8fbf6ff8b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Cover_1024.png/c54b166b85b7f407bd420aafb552e6e8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/ps4/WhereAreYou_Cover_Online.tga.ckd/10330c887efd7aac0a4b4b44c2b1ec8e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/ps4/WhereAreYou_Cover_AlbumBkg.tga.ckd/4678517dc575930e561bf01cbc0c6c03.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/ps4/WhereAreYou_Cover_AlbumCoach.tga.ckd/613da765636f3edd353ac5308ef2961c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Coach_1_Phone.png/8ae3d753df26757a31b76cb8b2b0e055.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Coach_2_Phone.png/11a10ffd3888dd60e2087e14cd667763.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Coach_3_Phone.png/bd1b2ff10d8d0e0c066405298336546e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Cover_Phone.jpg/738a74902714d5e93921e95a01e8cd3f.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/ps4/WhereAreYou_map_bkg.tga.ckd/6443d9a129a98271e93186ea584a8fab.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/nx/WhereAreYou_banner_bkg.tga.ckd/bca02d1e415ff13bd8866ba4f4e6b832.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/nx/WhereAreYou_Coach_1.tga.ckd/ceebf7b497e0b04d010e0f26da8cec35.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/nx/WhereAreYou_Coach_2.tga.ckd/27a0c4130acf6ec7959f03c83b3c8453.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/nx/WhereAreYou_Coach_3.tga.ckd/e44a08d78447fda58932f880ea8cebc5.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/nx/WhereAreYou_Cover_Generic.tga.ckd/f5665986514acc7a561c3c47751de282.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Cover_1024.png/c54b166b85b7f407bd420aafb552e6e8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/nx/WhereAreYou_Cover_Online.tga.ckd/ccd823471bfd604553894bc24e2f31fc.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/nx/WhereAreYou_Cover_AlbumBkg.tga.ckd/c07a22b70f187b6461a2d4e594b44aee.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/nx/WhereAreYou_Cover_AlbumCoach.tga.ckd/016df769be191c7144cbb1425040b32a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Coach_1_Phone.png/8ae3d753df26757a31b76cb8b2b0e055.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Coach_2_Phone.png/11a10ffd3888dd60e2087e14cd667763.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Coach_3_Phone.png/bd1b2ff10d8d0e0c066405298336546e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Cover_Phone.jpg/738a74902714d5e93921e95a01e8cd3f.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/nx/WhereAreYou_map_bkg.tga.ckd/c5d9c3e634edda71a57b2fdebe0e8ecb.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_banner_bkg.jpg/b3b311c4d81f40e4596f7caece5202b3.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Coach_1.png/3ec342af529c03b2840d246814f80042.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Coach_2.png/39e89f5dc0025a5e69c40fb6f46f458d.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Coach_3.png/89eee3c5b9f31397a302fe1e25a349ca.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Cover_Generic.jpg/9f697f8e49387bb52e054d1fad1b76af.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Cover_1024.png/c54b166b85b7f407bd420aafb552e6e8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Cover_Online.jpg/738a74902714d5e93921e95a01e8cd3f.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Cover_AlbumBkg.jpg/e7b7ab47592cf0b15d5d3739351d950c.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Cover_AlbumCoach.png/eebf2ea766b0e2b21fdef58e10481474.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Coach_1_Phone.png/8ae3d753df26757a31b76cb8b2b0e055.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Coach_2_Phone.png/11a10ffd3888dd60e2087e14cd667763.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Coach_3_Phone.png/bd1b2ff10d8d0e0c066405298336546e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_Cover_Phone.jpg/738a74902714d5e93921e95a01e8cd3f.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,19200,38400,57600,76799,96000,115200,134400,153600,172800,192000,211200,230400,249600,268800,288000,307200,326400,345600,364800,384000,403200,422400,441600,460799,480000,499200,518400,537599,556800,576000,595199,614400,633600,652800,672000,691200,710400,729600,748799,768000,787199,806400,825600,844800,864000,883199,902400,921600,940800,960000,979200,998400,1017600,1036799,1056000,1075200,1094400,1113600,1132800,1152000,1171199,1190400,1209600,1228800,1248000,1267200,1286400,1305600,1324800,1344000,1363200,1382400,1401600,1420800],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":488,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":74,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/whereareyou/whereareyou_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Richard Cowie, Michael Angelo and Melesha Katrina O’Garro. Published by BMG Gold Songs on behalf of itself and Black Butter Music Publishing Ltd. All rights administered by BMG Rights Management (US) LLC. / Tileyard Music/Notting Hill Music, administered by Kobalt Music. Courtesy of SME UK Ltd. By arrangement with Sony Music Entertainment. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF424AFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 196,
+  "mapName": "WhereAreYou",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497072\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1477094\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2921860\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4329476\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "WhereAreYou_mapContent"
+  },
+  "parentMapName": "WhereAreYou",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "022860FF",
+    "songColor_1B": "101033FF",
+    "songColor_2A": "E04770FF",
+    "songColor_2B": "0742B7FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Where Are You Now?",
+  "urls": {
+    "jmcs://jd-contents/WhereAreYou/WhereAreYou_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_AudioPreview.ogg/4c9c689ca60e00916bbebaf689642070.ogg",
+    "jmcs://jd-contents/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_HIGH.vp8.webm/4786399a42a3372eb82ed7a28683ab9d.webm",
+    "jmcs://jd-contents/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_HIGH.vp9.webm/da043212b4c70ef4d4e4c90fc2b51b9e.webm",
+    "jmcs://jd-contents/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_LOW.vp8.webm/8d7e0021a7a35475035e2eb3edb4b76a.webm",
+    "jmcs://jd-contents/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_LOW.vp9.webm/59af0327d4d7309572336e06d1c1ecdd.webm",
+    "jmcs://jd-contents/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_MID.vp8.webm/ada6434a678954bb606ad3cd082355b5.webm",
+    "jmcs://jd-contents/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_MID.vp9.webm/d07e205cea611f434de281ce82c7b423.webm",
+    "jmcs://jd-contents/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm/6b66d94c3e37d76a0561b6dafe9568ea.webm",
+    "jmcs://jd-contents/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/WhereAreYou/WhereAreYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm/c02030db21d0c696e4124aaf125082a2.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "c89854e895a18cfa2d6546449d899196",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WhereAreYou/ps4/WhereAreYou_MAIN_SCENE_ORBIS.zip/c89854e895a18cfa2d6546449d899196.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "61731238b825579402bba31db8d59abc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WhereAreYou/nx/WhereAreYou_MAIN_SCENE_NX.zip/61731238b825579402bba31db8d59abc.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "67e4c3c5f6c4805fe20ae63dbd81a332",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/whereareyou_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

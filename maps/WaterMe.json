@@ -1,0 +1,119 @@
+{
+  "artist": "Lizzo",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/ps4/WaterMe_banner_bkg.tga.ckd/519bed14690bbc3ae8445384956e2404.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/ps4/WaterMe_Coach_1.tga.ckd/ba8a6fef95d221de0d4d5917d52ebb55.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/ps4/WaterMe_Cover_Generic.tga.ckd/ad5e9138116ae413630117b6451eacf4.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_Cover_1024.png/f234392a3172db82d3fbdc2a7b0f88a5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/ps4/WaterMe_Cover_Online.tga.ckd/c5b60c7622b51f73f1c05396ea757e08.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/ps4/WaterMe_Cover_AlbumBkg.tga.ckd/cede3781e1a540d5a20f0a256fce4042.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/ps4/WaterMe_Cover_AlbumCoach.tga.ckd/4fc474e43265cfd028c01d76e5104496.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_Coach_1_Phone.png/9e9887425d9cafa4bc473efb701f8112.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_Cover_Phone.jpg/94a463537899cbfc265a6aa93fba8839.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/ps4/WaterMe_map_bkg.tga.ckd/ab89c3571d0e5bfd8865645d3a3de221.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/nx/WaterMe_banner_bkg.tga.ckd/e7aa214ce72c19ba9872f78af77f0090.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/nx/WaterMe_Coach_1.tga.ckd/3aabf649c2baf4a0254ac959dd996064.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/nx/WaterMe_Cover_Generic.tga.ckd/79a6c431512b03a1e1473eaf3604771c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_Cover_1024.png/f234392a3172db82d3fbdc2a7b0f88a5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/nx/WaterMe_Cover_Online.tga.ckd/822b742a233448d17bb2744cb482866a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/nx/WaterMe_Cover_AlbumBkg.tga.ckd/81b28bdf3d61de503844287c5336ccc5.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/nx/WaterMe_Cover_AlbumCoach.tga.ckd/e6be3dec27d497b5db9b80234045c889.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_Coach_1_Phone.png/9e9887425d9cafa4bc473efb701f8112.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_Cover_Phone.jpg/94a463537899cbfc265a6aa93fba8839.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/nx/WaterMe_map_bkg.tga.ckd/82f95b7400431176494ca124604b6eb6.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_banner_bkg.jpg/291242273ccfa4d7590a6013a8b82a8c.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_Coach_1.png/c198a3892e2e6dbf92f0d61cc124921f.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_Cover_Generic.jpg/3eccf290ad3c00934d6cb247b9304b9b.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_Cover_1024.png/f234392a3172db82d3fbdc2a7b0f88a5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_Cover_Online.jpg/94a463537899cbfc265a6aa93fba8839.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_Cover_AlbumBkg.jpg/ec955a4ed0f1b03b0a432db8a57e3f4f.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_Cover_AlbumCoach.png/3b5880505886d5e6176ecc7f4bfd9569.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_Coach_1_Phone.png/9e9887425d9cafa4bc473efb701f8112.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_Cover_Phone.jpg/94a463537899cbfc265a6aa93fba8839.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25488,50975,76463,101951,127439,152927,178415,203903,229391,254879,280367,305855,331343,356831,382319,407807,433295,458783,484271,509759,535247,560735,586223,611711,637199,662639,688127,713615,739102,764590,790078,815566,841054,866542,892030,917518,943006,968494,993982,1019470,1044958,1070446,1095934,1121422,1146910,1172398,1197886,1223374,1248862,1274350,1299838,1325326,1350814,1376302,1401790,1427277],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":356,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":56,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/waterme/waterme_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Clarence Coffee Jr., Eric Frederic, Evan “KIDD” Bogart, Farhad Samdzada, Melissa “Lizzo” Jefferson, Nneka Lucia Egbuna, Morris Wittenberg and Tobias Wincorn. Published by Melissa “Lizzo” Jefferson Publishing / That Was EZ (BMI) Administered by Songs of Kobalt Music / Songs from the Boardwalk / Frederic and Ried Music (BMI) c/o Sony/ATV Music Publishing Canada (SOCAN) / Seven Summits Music obo itself and Casbah Kidd / Wincor Music/big Deal beats c/o peermusic Canada / BMG Gold Songs (ASCAP)/One Stop Coffee Shop. / Kohaw Music (ASCAP) obo Wintrup Musikverlage (GEMA) c/o Concord Music Publishing. All rights reserved. Used with permission. (P) Line: 2017 Nice Life Recording Company and Atlantic Recording Corporation. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "22BBF7FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 191.15099999999998,
+  "mapName": "WaterMe",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496544\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WaterMe/WaterMe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1477463\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WaterMe/WaterMe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2673222\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WaterMe/WaterMe_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3110620\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WaterMe/WaterMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "WaterMe_mapContent"
+  },
+  "parentMapName": "WaterMe",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "92DCFCFF",
+    "songColor_1B": "12BDEDFF",
+    "songColor_2A": "EDAB31FF",
+    "songColor_2B": "F99A93FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Water Me",
+  "urls": {
+    "jmcs://jd-contents/WaterMe/WaterMe_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_AudioPreview.ogg/f8aa92c57ee9b9863ec46a28febb2bee.ogg",
+    "jmcs://jd-contents/WaterMe/WaterMe_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_MapPreviewNoSoundCrop_HIGH.vp8.webm/24c32b186944baf954e3018216ba3b5b.webm",
+    "jmcs://jd-contents/WaterMe/WaterMe_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_MapPreviewNoSoundCrop_HIGH.vp9.webm/3b3be6c44948742e1864103af5fbb0ed.webm",
+    "jmcs://jd-contents/WaterMe/WaterMe_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_MapPreviewNoSoundCrop_LOW.vp8.webm/d6a275d6d0f8c078d933dd1463b0adec.webm",
+    "jmcs://jd-contents/WaterMe/WaterMe_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_MapPreviewNoSoundCrop_LOW.vp9.webm/cc047c79e73b3339cdd8212003e49496.webm",
+    "jmcs://jd-contents/WaterMe/WaterMe_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_MapPreviewNoSoundCrop_MID.vp8.webm/20a9f275ea5bcc30444eb0aa7ab60c38.webm",
+    "jmcs://jd-contents/WaterMe/WaterMe_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_MapPreviewNoSoundCrop_MID.vp9.webm/8288c29bb3b927c87b1efcb36f8ed713.webm",
+    "jmcs://jd-contents/WaterMe/WaterMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm/29a0b9c11b956df224b8f9597002eca0.webm",
+    "jmcs://jd-contents/WaterMe/WaterMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/WaterMe/WaterMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm/0598365e21823b872e9f9fce1bbbe3b3.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "f6be2503bb1822804b8a7f72fb607178",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WaterMe/ps4/WaterMe_MAIN_SCENE_ORBIS.zip/f6be2503bb1822804b8a7f72fb607178.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "4cbc9235ccdeb54e48d21a8201f9ee0d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WaterMe/nx/WaterMe_MAIN_SCENE_NX.zip/4cbc9235ccdeb54e48d21a8201f9ee0d.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "087d1ea43b045dd62b80f121aebb1ff8",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/waterme_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

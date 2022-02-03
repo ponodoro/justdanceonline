@@ -1,0 +1,305 @@
+[{
+    "__class": "Category",
+    "title": {
+        "zh": "JUST DANCE BEST",
+        "en": "Just Dance Best"
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "Gōngtuī",
+        "es": "Recomendado",
+        "en": "Recommended"
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "DàZhòng",
+        "es": "Canciones Mas Jugadas",
+        "en": "Top Played Songs"
+    },
+    "noShuffle": true,
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "JUST DANCE 1",
+        "en": "Just Dance 1"
+    },
+    "filter": {
+        "type": "originalJDVersion",
+        "originalJDVersion": 1
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "JUST DANCE 2",
+        "en": "Just Dance 2"
+    },
+    "filter": {
+        "type": "originalJDVersion",
+        "originalJDVersion": 2
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "JUST DANCE 3",
+        "en": "Just Dance 3"
+    },
+    "filter": {
+        "type": "originalJDVersion",
+        "originalJDVersion": 3
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "JUST DANCE 4",
+        "en": "Just Dance 4"
+    },
+    "filter": {
+        "type": "originalJDVersion",
+        "originalJDVersion": 4
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "JUST DANCE 2014",
+        "en": "Just Dance 2014"
+    },
+    "filter": {
+        "type": "originalJDVersion",
+        "originalJDVersion": 2014
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "JUST DANCE 2015",
+        "en": "Just Dance 2015"
+    },
+    "filter": {
+        "type": "originalJDVersion",
+        "originalJDVersion": 2015
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "JUST DANCE 2016",
+        "en": "Just Dance 2016"
+    },
+    "filter": {
+        "type": "originalJDVersion",
+        "originalJDVersion": 2016
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "JUST DANCE 2017",
+        "en": "Just Dance 2017"
+    },
+    "filter": {
+        "type": "originalJDVersion",
+        "originalJDVersion": 2017
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "JUST DANCE 2018",
+        "en": "Just Dance 2018"
+    },
+    "filter": {
+        "type": "originalJDVersion",
+        "originalJDVersion": 2018
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "JUST DANCE 2019",
+        "en": "Just Dance 2019"
+    },
+    "filter": {
+        "type": "originalJDVersion",
+        "originalJDVersion": 2019
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "JUST DANCE 2020",
+        "en": "Just Dance 2020"
+    },
+    "filter": {
+        "type": "originalJDVersion",
+        "originalJDVersion": 2020
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "JUST DANCE 2021",
+        "en": "Just Dance 2021"
+    },
+    "filter": {
+        "type": "originalJDVersion",
+        "originalJDVersion": 2021
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "en": "Solo",
+        "zh": "Dúzòu"
+    },
+    "filter": {
+        "type": "coachCount",
+        "coachCount": 1
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "Èrchóngchàng",
+        "en": "Duet"
+    },
+    "filter": {
+        "type": "coachCount",
+        "coachCount": 2
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "Sānchóngzòu",
+        "en": "Trio"
+    },
+    "filter": {
+        "type": "coachCount",
+        "coachCount": 3
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+},{
+    "__class": "Category",
+    "title": {
+        "zh": "Sì gè",
+        "es": "Quatro",
+        "en": "Dance Crew"
+    },
+    "filter": {
+        "type": "coachCount",
+        "coachCount": 4
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "Yìng gē",
+        "en": "Extreme"
+    },
+    "filter": {
+        "type": "difficulty",
+        "difficulty": 4
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "JUST DANCE Yàzhōu",
+        "en": "Just Dance Asia"
+    },
+    "filter": {
+        "type": "originalJDVersion",
+        "originalJDVersion": 4514
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "ABBA: Wǔdǎo tiānhòu",
+        "en": "ABBA: You Can Dance"
+    },
+    "filter": {
+        "type": "originalJDVersion",
+        "originalJDVersion": 4884
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "Háizimen de gē",
+        "en": "Kids"
+    },
+    "filter": {
+        "type": "originalJDVersion",
+        "originalJDVersion": 123
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}, {
+    "__class": "Category",
+    "title": {
+        "zh": "Dújiā gēqǔ",
+        "en": "Exclusive"
+    },
+    "filter": {
+        "type": "originalJDVersion",
+        "originalJDVersion": 8357
+    },
+    "act": "ui_carousel",
+    "isc": "grp_row",
+    "items": []
+}]

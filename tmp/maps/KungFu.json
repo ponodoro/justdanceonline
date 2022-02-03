@@ -1,0 +1,117 @@
+{
+  "artist": "Carl Douglas",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_banner_bkg.jpg/fe4cc4fc5b5f3db4e3aee289801fd775.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Coach_1.png/b1a9177d070a6d5aa50eb235192ff8c4.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Coach_2.png/7045bb20dab985fc45b1db0f667a100e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Cover_Generic.jpg/c55b5f8ac5b955782c8dbb3273590174.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Cover_1024.png/0c3073870bb6efebb528f587f4f08471.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Cover_Online.jpg/60448315ef6af3f30629264b4f2636c4.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Cover_AlbumBkg.jpg/a3987edaaba7d447a9c57fa5977f0943.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Cover_AlbumCoach.png/d31aa13d5c5d5cda49bb2b6d2fc7e3a3.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Coach_1_Phone.png/1d471bb150113e976816e8e0d0a56abb.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Coach_2_Phone.png/977b7c1dd4123392bbc6308419b8e9ca.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Cover_Phone.jpg/60448315ef6af3f30629264b4f2636c4.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_banner_bkg.jpg/fe4cc4fc5b5f3db4e3aee289801fd775.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Coach_1.png/b1a9177d070a6d5aa50eb235192ff8c4.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Coach_2.png/7045bb20dab985fc45b1db0f667a100e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Cover_Generic.jpg/c55b5f8ac5b955782c8dbb3273590174.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Cover_1024.png/0c3073870bb6efebb528f587f4f08471.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Cover_Online.jpg/60448315ef6af3f30629264b4f2636c4.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Cover_AlbumBkg.jpg/a3987edaaba7d447a9c57fa5977f0943.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Cover_AlbumCoach.png/d31aa13d5c5d5cda49bb2b6d2fc7e3a3.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Coach_1_Phone.png/1d471bb150113e976816e8e0d0a56abb.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Coach_2_Phone.png/977b7c1dd4123392bbc6308419b8e9ca.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Cover_Phone.jpg/60448315ef6af3f30629264b4f2636c4.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/wiiu/KungFu_banner_bkg.tga.ckd/4743feb648ae4e740524f19181c1e033.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/wiiu/KungFu_Coach_1.tga.ckd/e3104264901ca81a3d53a28a43510af1.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/wiiu/KungFu_Coach_2.tga.ckd/a952822ee5046f5f3c6ed1ad0d08f1bb.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/wiiu/KungFu_Cover_Generic.tga.ckd/6cd18397ac1f56ad4cf17d6ca2c808ab.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Cover_1024.png/0c3073870bb6efebb528f587f4f08471.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/wiiu/KungFu_Cover_Online.tga.ckd/6e26fdbd1780d3d847aa095c6995a1d4.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/wiiu/KungFu_Cover_AlbumBkg.tga.ckd/f48a62fab1b17d2ff4d8af506527c867.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/wiiu/KungFu_Cover_AlbumCoach.tga.ckd/5febb3131b316c1c20251d13a2fcc8e9.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Coach_1_Phone.png/1d471bb150113e976816e8e0d0a56abb.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Coach_2_Phone.png/977b7c1dd4123392bbc6308419b8e9ca.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_Cover_Phone.jpg/60448315ef6af3f30629264b4f2636c4.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28235,56470,84705,112940,141175,169410,197645,225881,254116,282351,310586,338821,367056,395291,423526,451761,479996,508232,536467,564702,592937,621172,649407,677642,705877,734112,762348,790583,818818,847053,875288,903523,931758,959993,988228,1016463,1044699,1072934,1101169,1129404,1157639,1185874,1214109,1242344,1270579,1298814,1327050,1355285,1383520,1411755,1439990],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":317,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":51,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/kungfu/kungfu_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "BD3400FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 187.17999999999998,
+  "mapName": "KungFu",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496396\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KungFu/KungFu_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483322\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KungFu/KungFu_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2487686\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KungFu/KungFu_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2495875\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KungFu/KungFu_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "KungFu_mapContent"
+  },
+  "parentMapName": "KungFu",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "EEA200FF",
+    "songColor_1B": "9E1100FF",
+    "songColor_2A": "FF85F1FF",
+    "songColor_2B": "0022ADFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Kung Fu Fighting (Dave Ruffy / Mark Wallis Remix)",
+  "urls": {
+    "jmcs://jd-contents/KungFu/KungFu_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_AudioPreview.ogg/27cfcff46e21b701cb195b6465253ba2.ogg",
+    "jmcs://jd-contents/KungFu/KungFu_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_MapPreviewNoSoundCrop_HIGH.vp8.webm/b7ab31e01ef27646b9240f7bb7f4a729.webm",
+    "jmcs://jd-contents/KungFu/KungFu_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_MapPreviewNoSoundCrop_HIGH.vp9.webm/c99f6a7e453fea9aa6e9dc3ebb1aafde.webm",
+    "jmcs://jd-contents/KungFu/KungFu_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_MapPreviewNoSoundCrop_LOW.vp8.webm/cdd33d2e8452e1684a30f9f772ed61ab.webm",
+    "jmcs://jd-contents/KungFu/KungFu_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_MapPreviewNoSoundCrop_LOW.vp9.webm/0f6ecf6ceccd476a957cb36a48938741.webm",
+    "jmcs://jd-contents/KungFu/KungFu_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_MapPreviewNoSoundCrop_MID.vp8.webm/e671694b2f306aa6a9da9b6dcf025088.webm",
+    "jmcs://jd-contents/KungFu/KungFu_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_MapPreviewNoSoundCrop_MID.vp9.webm/625de157aa0ff4e3b1b39b8e3732f61c.webm",
+    "jmcs://jd-contents/KungFu/KungFu_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_MapPreviewNoSoundCrop_ULTRA.vp8.webm/40c399a1eb016c39b3fe8cb1f1db2563.webm",
+    "jmcs://jd-contents/KungFu/KungFu_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KungFu/KungFu_MapPreviewNoSoundCrop_ULTRA.vp9.webm/3fcae22d5291eb4311285de28ff1fb6e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "7c8e55fdb433b0f3afbccc5fff065a57",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KungFu/ps4/KungFu_MAIN_SCENE_ORBIS.zip/7c8e55fdb433b0f3afbccc5fff065a57.zip",
+      "version": 10
+    },
+    "pc": {
+      "md5": "f0b7c68ef109e2d6b163a22fd479b8a5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KungFu/pc/KungFu_MAIN_SCENE_PC.zip/f0b7c68ef109e2d6b163a22fd479b8a5.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "45a395d61c5412c5af983a40cac963dd",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KungFu/wiiu/KungFu_MAIN_SCENE_WIIU.zip/45a395d61c5412c5af983a40cac963dd.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "a13632068824d50f3c5cf5632c6ae7f3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KungFu/nx/KungFu_MAIN_SCENE_NX.zip/a13632068824d50f3c5cf5632c6ae7f3.zip",
+      "version": 7
+    }
+  },
+  "mapType": "jdu"
+}

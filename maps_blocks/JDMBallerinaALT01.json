@@ -1,0 +1,38 @@
+{
+  "__class": "OnlineBlock",
+  "artist": "JDMBallerina Artist",
+  "assets": {
+    "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaALT01/pc/JDMBallerinaALT01_Cover_Generic.tga.ckd/63c1c9aa20f646522400512424fec7b3.ckd",
+    "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaALT01/pc/JDMBallerinaALT01_Cover_Online.tga.ckd/b1397a8d19f00b1b5d1212f6f20d3641.ckd"
+  },
+  "coachCount": 1,
+  "credits": "Empty Credits",
+  "customTypeNameId": 8610,
+  "difficulty": 2,
+  "jdmAttributes": [
+    "JDM_Cool"
+  ],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 31.729999999999997,
+  "mapName": "JDMBallerinaALT01",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "JDMBallerinaALT01_mapContent"
+  },
+  "parentMapName": "JDMBallerina",
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 6,
+  "tags": [
+    "DanceMachine"
+  ],
+  "title": "JDMBallerina - ALTERNATE01",
+  "isPlayable": false
+}

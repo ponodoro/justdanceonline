@@ -1,0 +1,114 @@
+{
+  "artist": "Franz Ferdinand",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_banner_bkg.jpg/beecd71b36ac229f1deece052be2a739.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Coach_1.png/7a2837801b37463265d944f1af02d8b4.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Cover_Generic.jpg/40c0484a8d909ff186f986d25045a6ec.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Cover_1024.png/e332f8008bdd262275669d6cb90759b2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Cover_Online.jpg/31fa19de11bf99c6573ed56fb727372e.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Cover_AlbumBkg.jpg/bf3174eafbaec5d7d27076a0a8a5a573.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Cover_AlbumCoach.png/b547c62225edebd8b020a46b9bdb2840.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Coach_1_Phone.png/6afe6dd04988bd505353de2630d58a20.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Cover_Phone.jpg/31fa19de11bf99c6573ed56fb727372e.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_VideoPreview.webm/0906ad83fa62cc4828d52e127757d58c.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_banner_bkg.jpg/beecd71b36ac229f1deece052be2a739.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Coach_1.png/7a2837801b37463265d944f1af02d8b4.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Cover_Generic.jpg/40c0484a8d909ff186f986d25045a6ec.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Cover_1024.png/e332f8008bdd262275669d6cb90759b2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Cover_Online.jpg/31fa19de11bf99c6573ed56fb727372e.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Cover_AlbumBkg.jpg/bf3174eafbaec5d7d27076a0a8a5a573.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Cover_AlbumCoach.png/b547c62225edebd8b020a46b9bdb2840.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Coach_1_Phone.png/6afe6dd04988bd505353de2630d58a20.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Cover_Phone.jpg/31fa19de11bf99c6573ed56fb727372e.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_VideoPreview.webm/0906ad83fa62cc4828d52e127757d58c.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/wiiu/TakeMeOut_banner_bkg.tga.ckd/c16eae35c4757b2c6f3696d230517acd.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/wiiu/TakeMeOut_Coach_1.tga.ckd/3b0df72cdb33653ef228f1709a8cef48.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/wiiu/TakeMeOut_Cover_Generic.tga.ckd/fc35ac3c73056a046f47801cf6eea293.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Cover_1024.png/e332f8008bdd262275669d6cb90759b2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/wiiu/TakeMeOut_Cover_Online.tga.ckd/d60844fa888512a1d3427cdcfcb2e063.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/wiiu/TakeMeOut_Cover_AlbumBkg.tga.ckd/5ec56e0cf94991f4013a738caa14207b.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/wiiu/TakeMeOut_Cover_AlbumCoach.tga.ckd/c768f030e51c4679855884c930696d5c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Coach_1_Phone.png/6afe6dd04988bd505353de2630d58a20.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_Cover_Phone.jpg/31fa19de11bf99c6573ed56fb727372e.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_VideoPreview.webm/0906ad83fa62cc4828d52e127757d58c.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28249,55419,82588,109758,137815,164985,192921,220090,248096,275962,303131,330301,357470,384640,413203,440372,467542,494711,522647,550722,577891,605061,633589,660758,687928,716142,743312,770481,798713,826867,855011,882181,910047,937217,964386,992008,1019666,1046835,1074005,1101174,1128344,1155513,1183728,1210897,1238067,1265236,1293294,1318652,1347076,1374245,1401415,1428584],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":439,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":52,\"volume\":-1.300000,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/takemeout/takemeout_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F400C0FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 233.09799999999998,
+  "mapName": "TakeMeOut",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"498214\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1238924\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1249590\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1250286\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "TakeMeOut_mapContent"
+  },
+  "parentMapName": "TakeMeOut",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "F78B00FF",
+    "songColor_1B": "B40000FF",
+    "songColor_2A": "FFB000FF",
+    "songColor_2B": "A20000FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Take Me Out",
+  "urls": {
+    "jmcs://jd-contents/TakeMeOut/TakeMeOut_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_AudioPreview.ogg/444fb3856c89cb90245c62ec76946a87.ogg",
+    "jmcs://jd-contents/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_HIGH.vp8.webm/739b4a7c617641e1baf5dc5c0216d744.webm",
+    "jmcs://jd-contents/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_HIGH.vp9.webm/bb6c742dfe8db6abb12cda750fbd82e5.webm",
+    "jmcs://jd-contents/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_LOW.vp8.webm/92d0cf65ee554e7df9f16f0586d5c335.webm",
+    "jmcs://jd-contents/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_LOW.vp9.webm/6beeef78cfdad5c6355344a1444a987e.webm",
+    "jmcs://jd-contents/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_MID.vp8.webm/24cb13bb6f696c4b9749199c9561cead.webm",
+    "jmcs://jd-contents/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_MID.vp9.webm/7a303ff56f9c9e9701afdc1e90c7d705.webm",
+    "jmcs://jd-contents/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_ULTRA.vp8.webm/7bcad5eb2e932a3a8a49b063c47ad065.webm",
+    "jmcs://jd-contents/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/TakeMeOut/TakeMeOut_MapPreviewNoSoundCrop_ULTRA.vp9.webm/bbbf61a27a4b254a6242f7e9b1ab4d44.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "8a9d7533bff3d330ab85047a7022a243",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TakeMeOut/ps4/TakeMeOut_MAIN_SCENE_ORBIS.zip/8a9d7533bff3d330ab85047a7022a243.zip",
+      "version": 54
+    },
+    "pc": {
+      "md5": "20fc2a07d4529ef47461c1c03b93e0dc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TakeMeOut/pc/TakeMeOut_MAIN_SCENE_PC.zip/20fc2a07d4529ef47461c1c03b93e0dc.zip",
+      "version": 17
+    },
+    "wiiu": {
+      "md5": "51a5a3a9b72d9424433852756f607310",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TakeMeOut/wiiu/TakeMeOut_MAIN_SCENE_WIIU.zip/51a5a3a9b72d9424433852756f607310.zip",
+      "version": 59
+    },
+    "nx": {
+      "md5": "1a3848edadc49a9b249ff5b740e24be3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/TakeMeOut/nx/TakeMeOut_MAIN_SCENE_NX.zip/1a3848edadc49a9b249ff5b740e24be3.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

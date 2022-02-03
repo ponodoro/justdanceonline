@@ -1,0 +1,90 @@
+{
+  "artist": "Tiggs Da Author",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Georgia/Georgia_banner_bkg.jpg/43197d0453c05e5bdeb07b6395f43067.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Georgia/Georgia_Coach_1.png/10d6cb49f671a2e68d2c7d4682d07655.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Georgia/Georgia_Cover_Generic.jpg/c55b932cce8744523ccde32f1442864b.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Georgia/Georgia_Cover_Online.jpg/839ebaa1cce387a588512021eee67dba.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Georgia/Georgia_Cover_AlbumBkg.jpg/12f57cc53e92aee54a4a036738bfd6d0.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Georgia/Georgia_Cover_AlbumCoach.png/727ac57b72b5c55e7a3226df3f6c32fd.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Georgia/Georgia_Coach_1_Phone.png/6e2f59b81cb6696ea705e9d56fe32de1.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Georgia/Georgia_Cover_Phone.jpg/839ebaa1cce387a588512021eee67dba.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Georgia/Georgia_banner_bkg.jpg/43197d0453c05e5bdeb07b6395f43067.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Georgia/Georgia_Coach_1.png/10d6cb49f671a2e68d2c7d4682d07655.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Georgia/Georgia_Cover_Generic.jpg/c55b932cce8744523ccde32f1442864b.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Georgia/Georgia_Cover_Online.jpg/839ebaa1cce387a588512021eee67dba.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Georgia/Georgia_Cover_AlbumBkg.jpg/12f57cc53e92aee54a4a036738bfd6d0.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Georgia/Georgia_Cover_AlbumCoach.png/727ac57b72b5c55e7a3226df3f6c32fd.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Georgia/Georgia_Coach_1_Phone.png/6e2f59b81cb6696ea705e9d56fe32de1.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Georgia/Georgia_Cover_Phone.jpg/839ebaa1cce387a588512021eee67dba.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20000,40000,60000,80000,100000,120000,140000,160000,180000,200000,220000,240000,260000,280000,300000,320000,340000,360000,380000,400000,420000,440000,460000,480000,500000,520000,540000,560000,580000,600000,620000,640000,660000,680000,700000,720000,740000,760000,780000,800000,820000,840000,860000,880000,900000,920000,940000,960000,980000,1000000,1020000,1040000,1060000,1080000,1100000,1120000,1140000,1160000,1180000,1200000,1220000,1240000,1260000,1280000,1300000,1320000,1340000,1360000,1380000,1400000,1420000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":464,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":71,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/georgia/georgia_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Don D. Robey, Adam Simon and Ellis Taylor. Published by Spirit B-Unique JV S.A.R.L. (ASCAP). Administered by Kobalt Music Publishing America, Inc.  / Universal Music Publishing Canada on behalf of Songs Of Universal, Inc. Courtesy of Sony Music Entertainment (UK) Ltd. By arrangement with Sony Music Entertainment. / \"Georgia\" contains sample of \"Shoes,” performed by Bobby Bland.  Used courtesy of MCA Records.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "76E713FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 195.001,
+  "mapName": "Georgia",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497324\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Georgia/Georgia_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1461419\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Georgia/Georgia_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2249579\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Georgia/Georgia_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2262725\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Georgia/Georgia_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "Georgia_mapContent"
+  },
+  "parentMapName": "Georgia",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "094050FF",
+    "songColor_1B": "F1AB57FF",
+    "songColor_2A": "8EE5F0FF",
+    "songColor_2B": "F2D4D1FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Georgia",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "f56a65c8143fff36c4086e18e48e264d",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Georgia/ps4/Georgia_MAIN_SCENE_ORBIS.zip/f56a65c8143fff36c4086e18e48e264d.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "4f9b9272935c990d715958af34568440",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Georgia/nx/Georgia_MAIN_SCENE_NX.zip/4f9b9272935c990d715958af34568440.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "dfc88727a7ec59f7f0c664095fde1665",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Georgia/pc/dfc88727a7ec59f7f0c664095fde1665.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/Georgia/Georgia_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/Georgia/Georgia_AudioPreview.ogg/55b577fdc805711dccb712174642aa85.ogg",
+    "jmcs://jd-contents/Georgia/Georgia_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Georgia/Georgia_MapPreviewNoSoundCrop_HIGH.vp8.webm/1126d87e49d5c3fab80dc3114a061068.webm",
+    "jmcs://jd-contents/Georgia/Georgia_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Georgia/Georgia_MapPreviewNoSoundCrop_HIGH.vp9.webm/24773401a0358eb864a586cda9fe924b.webm",
+    "jmcs://jd-contents/Georgia/Georgia_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Georgia/Georgia_MapPreviewNoSoundCrop_LOW.vp8.webm/93be589da484d3ef9c8982651915e575.webm",
+    "jmcs://jd-contents/Georgia/Georgia_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Georgia/Georgia_MapPreviewNoSoundCrop_LOW.vp9.webm/67b68d091e22e9325d85adc64b7a30db.webm",
+    "jmcs://jd-contents/Georgia/Georgia_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Georgia/Georgia_MapPreviewNoSoundCrop_MID.vp8.webm/0127f5054b21390a2b241a2091906334.webm",
+    "jmcs://jd-contents/Georgia/Georgia_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Georgia/Georgia_MapPreviewNoSoundCrop_MID.vp9.webm/b3b0d18a3edb45c3b25eeca53229c451.webm",
+    "jmcs://jd-contents/Georgia/Georgia_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Georgia/Georgia_MapPreviewNoSoundCrop_ULTRA.vp8.webm/c0495705ffa62c3953316228c6e28395.webm",
+    "jmcs://jd-contents/Georgia/Georgia_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Georgia/Georgia_MapPreviewNoSoundCrop_ULTRA.vp9.webm/7497e250ff5f0bc9f8210eed5dc07495.webm"
+  }
+}

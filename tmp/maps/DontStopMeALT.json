@@ -1,0 +1,115 @@
+{
+  "artist": "Queen",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_banner_bkg.jpg/fd57feabec4444a603feab8ac7d104e8.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Coach_1.png/1935deffbd8db9129546eb841a90ff7a.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Cover_Generic.jpg/38b2f27c85cbaae37927259f7e4e97d6.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Cover_1024.png/250d0eb62de9591db21702ea5c86fc70.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Cover_Online.jpg/75fbffef887f1ee017f17bee8fdd4050.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Cover_AlbumBkg.jpg/872fa7e6cc505880231034481d67ba4f.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Cover_AlbumCoach.png/1e863b46373b4efc6d51fb726401a11b.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Coach_1_Phone.png/3cf8c19d1643d6e48e29fc36c2d6725a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Cover_Phone.jpg/75fbffef887f1ee017f17bee8fdd4050.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_VideoPreview.webm/2f7e5456a7b553d7db6499e369b5ec8f.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_banner_bkg.jpg/fd57feabec4444a603feab8ac7d104e8.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Coach_1.png/1935deffbd8db9129546eb841a90ff7a.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Cover_Generic.jpg/38b2f27c85cbaae37927259f7e4e97d6.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Cover_1024.png/250d0eb62de9591db21702ea5c86fc70.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Cover_Online.jpg/75fbffef887f1ee017f17bee8fdd4050.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Cover_AlbumBkg.jpg/872fa7e6cc505880231034481d67ba4f.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Cover_AlbumCoach.png/1e863b46373b4efc6d51fb726401a11b.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Coach_1_Phone.png/3cf8c19d1643d6e48e29fc36c2d6725a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Cover_Phone.jpg/75fbffef887f1ee017f17bee8fdd4050.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_VideoPreview.webm/2f7e5456a7b553d7db6499e369b5ec8f.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/wiiu/DontStopMeALT_banner_bkg.tga.ckd/790c0f6765a45952dffb203f8cfe1a87.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/wiiu/DontStopMeALT_Coach_1.tga.ckd/cebfe6aef9e13bffd13702284f65c42b.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/wiiu/DontStopMeALT_Cover_Generic.tga.ckd/ab770d05841682645b390723ff40c0df.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Cover_1024.png/250d0eb62de9591db21702ea5c86fc70.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/wiiu/DontStopMeALT_Cover_Online.tga.ckd/8d39a3294284428b7d93328b60cd897f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/wiiu/DontStopMeALT_Cover_AlbumBkg.tga.ckd/7e538ce6328c7778ea16a8c44d6353fd.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/wiiu/DontStopMeALT_Cover_AlbumCoach.tga.ckd/17a6044b520880f7e9a4c18dc8acf71e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Coach_1_Phone.png/3cf8c19d1643d6e48e29fc36c2d6725a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_Cover_Phone.jpg/75fbffef887f1ee017f17bee8fdd4050.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_VideoPreview.webm/2f7e5456a7b553d7db6499e369b5ec8f.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,18384,36768,55152,73584,91968,110352,128736,147168,165552,183936,202368,220752,239136,257520,275952,294336,312721,331105,349537,367921,386305,404737,423121,441505,459889,478321,496705,515089,533473,551905,570289,588673,606817,624961,643105,661249,679441,697585,715729,733873,752257,770641,789025,807409,825793,844177,862561,880945,899329,917713,936097,954481,972865,991250,1009634,1028018,1046402,1064786,1083170,1101554,1119938,1138322,1156706,1175090,1193474,1211858,1230242,1248626,1267202,1285730,1304258,1322786,1341314,1359890,1378418,1396946,1415474,1434002],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":491,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":78,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/dontstopmealt/dontstopmealt_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F40184FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 209.557,
+  "mapName": "DontStopMeALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497266\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480808\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2369096\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2842721\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "DontStopMeALT_mapContent"
+  },
+  "parentMapName": "DontStopMeALT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FFB904FF",
+    "songColor_1B": "BB3A0DFF",
+    "songColor_2A": "FF37B2FF",
+    "songColor_2B": "950054FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Don't Stop Me Now",
+  "urls": {
+    "jmcs://jd-contents/DontStopMeALT/DontStopMeALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_AudioPreview.ogg/714fa7221788a8b17ccb7ce4932aeef6.ogg",
+    "jmcs://jd-contents/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/1ad6ae53f6a5c2a7f0b29c3ddbd3c09c.webm",
+    "jmcs://jd-contents/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/d477805f4134c20f626229b510dcb40a.webm",
+    "jmcs://jd-contents/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_LOW.vp8.webm/5adf0ff86bdeeb5a24cf50707948a2a6.webm",
+    "jmcs://jd-contents/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_LOW.vp9.webm/52b389a728f39797d130b8167653d5fc.webm",
+    "jmcs://jd-contents/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_MID.vp8.webm/43eb226b3666aaa1274ab0f85ffc0878.webm",
+    "jmcs://jd-contents/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_MID.vp9.webm/cd1e30d33c6b266b01f010d9a94813cc.webm",
+    "jmcs://jd-contents/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/2d5689235b6e8c0d983048c7c947dbf3.webm",
+    "jmcs://jd-contents/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/DontStopMeALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/cbbdb52e9c85c4a1d437461eca7b9526.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a82f1b3be59603e26115c6029503e1b4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/ps4/DontStopMeALT_MAIN_SCENE_ORBIS.zip/a82f1b3be59603e26115c6029503e1b4.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "0d92b7b9d76c0a9e460bee08adc92e70",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/pc/DontStopMeALT_MAIN_SCENE_PC.zip/0d92b7b9d76c0a9e460bee08adc92e70.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "56fdb6098ecfe62e17572f95c637bada",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/wiiu/DontStopMeALT_MAIN_SCENE_WIIU.zip/56fdb6098ecfe62e17572f95c637bada.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "95d98b091fd20eb59eff08d2a6c8181f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DontStopMeALT/nx/DontStopMeALT_MAIN_SCENE_NX.zip/95d98b091fd20eb59eff08d2a6c8181f.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 13754
+}

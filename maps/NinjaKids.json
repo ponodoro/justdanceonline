@@ -1,0 +1,111 @@
+{
+  "artist": "Glorious Black Belts",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/ps4/NinjaKids_banner_bkg.tga.ckd/9c7cbe6c41c8f5bd1e8df561d7015455.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/ps4/NinjaKids_Coach_1.tga.ckd/b5361fb456e2d84bfdac1d1907370e5a.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/ps4/NinjaKids_Cover_Generic.tga.ckd/177b6f1107174564fe1e8a8528747906.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_Cover_1024.png/09aecfa5895727675775962686a29cdc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/ps4/NinjaKids_Cover_Online.tga.ckd/c424644abbdcd81cc0ae829271751213.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/ps4/NinjaKids_Cover_AlbumBkg.tga.ckd/b930a2242f6985f851125107b9810391.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/ps4/NinjaKids_Cover_AlbumCoach.tga.ckd/1fcbe0f007879db66806f430830a50b6.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_Coach_1_Phone.png/1c37455694d99eefc56dc70c58961196.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_Cover_Phone.jpg/7fd715a47e5b1935a37fa59791c62e08.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/ps4/NinjaKids_map_bkg.tga.ckd/6932d9fd1939018e321db32ab3d574ad.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/nx/NinjaKids_banner_bkg.tga.ckd/c76d3438b76650e7bb9fe2b0557556cc.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/nx/NinjaKids_Coach_1.tga.ckd/e9dba388c50d82a083604a93a0570d65.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/nx/NinjaKids_Cover_Generic.tga.ckd/954e08ab4302519216e65b8f0e410512.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_Cover_1024.png/09aecfa5895727675775962686a29cdc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/nx/NinjaKids_Cover_Online.tga.ckd/bdb039299d4d6975711c3cbc3958a9c2.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/nx/NinjaKids_Cover_AlbumBkg.tga.ckd/67539cff296a6b0e6e79711144f0d79c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/nx/NinjaKids_Cover_AlbumCoach.tga.ckd/c0f574ecec7c0b39ad238d0c6b6c222f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_Coach_1_Phone.png/1c37455694d99eefc56dc70c58961196.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_Cover_Phone.jpg/7fd715a47e5b1935a37fa59791c62e08.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/nx/NinjaKids_map_bkg.tga.ckd/0ff0582fe3ce7e0fa989fc6da945950e.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_banner_bkg.jpg/da7e9f5a1a575d50182ef16f14f3285c.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_Coach_1.png/4dce0213e14cd89d02a4caffb3725f2f.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_Cover_Generic.jpg/19e481ffa325f595d34a9a5b92e968db.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_Cover_1024.png/09aecfa5895727675775962686a29cdc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_Cover_Online.jpg/7fd715a47e5b1935a37fa59791c62e08.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_Cover_AlbumBkg.jpg/d3ad73ffeb8fce0af6df60ff2762f7d4.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_Cover_AlbumCoach.png/84272c67c78803f69f4a1d532704bcdb.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_Coach_1_Phone.png/1c37455694d99eefc56dc70c58961196.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_Cover_Phone.jpg/7fd715a47e5b1935a37fa59791c62e08.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22176,44304,66480,88608,110784,132912,155088,177216,199392,221567,243695,265871,287999,310175,332303,354479,376607,398783,420911,443087,465215,487391,509567,531695,553870,575998,598174,620302,642478,664606,686782,708910,731086,753214,775390,797566,819694,841870,863998,886174,908301,930477,952605,974781,996909,1019085,1041213,1063389,1085565,1107693,1129869,1151997,1174173,1196301,1218477,1240605,1262780,1284908,1307084,1329212,1351388,1373564,1395692,1417868,1439996],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":301,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/ninjakids/ninjakids_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Composed, Performed, Produced, Engineered and Mixed by Steve Ouimette. Published by Ubisoft Music Publishing. Music Supervisor: Manu Bachet. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 141.23,
+  "mapName": "NinjaKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497226\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1464668\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1981221\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1982603\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "NinjaKids_mapContent"
+  },
+  "parentMapName": "NinjaKids",
+  "skuIds": [
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "4348CCFF",
+    "songColor_1B": "090E1EFF",
+    "songColor_2A": "BA3FDEFF",
+    "songColor_2B": "141547FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "subscribedSong",
+    "ExcludedFromWDF",
+    "ExcludedFromWDF-PC",
+    "JDChinaRemoved"
+  ],
+  "title": "Shinobi Cat",
+  "urls": {
+    "jmcs://jd-contents/NinjaKids/NinjaKids_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_AudioPreview.ogg/9a359637fdeaeb0c517b2997c6b4c5e9.ogg",
+    "jmcs://jd-contents/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/527ff77c384c735a853641fdcdbf9368.webm",
+    "jmcs://jd-contents/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/15de79dd21d6649afe413444519d32bf.webm",
+    "jmcs://jd-contents/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_LOW.vp8.webm/57a4e7823c5f4a6d221deb5fde0b33aa.webm",
+    "jmcs://jd-contents/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_LOW.vp9.webm/248b3d53cde0ce69fc213e0a45d5ec0f.webm",
+    "jmcs://jd-contents/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_MID.vp8.webm/67ccb94849b0687c09ee0abebbe23be0.webm",
+    "jmcs://jd-contents/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_MID.vp9.webm/10d511cf995ad2e19e44ff2bad9d86fd.webm",
+    "jmcs://jd-contents/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/8aa5c1408e9d6d1cbd37b53955102700.webm",
+    "jmcs://jd-contents/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/NinjaKids/NinjaKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/a23da3dab275c2c35b7e7cc2fb005c3f.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "c06cafe0afd2220a94f1b2f913593430",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/NinjaKids/ps4/NinjaKids_MAIN_SCENE_ORBIS.zip/c06cafe0afd2220a94f1b2f913593430.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "ffedd82864cf4cc4963a2c13e0eee365",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/NinjaKids/nx/NinjaKids_MAIN_SCENE_NX.zip/ffedd82864cf4cc4963a2c13e0eee365.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939
+}

@@ -1,0 +1,130 @@
+{
+  "artist": "Shakira ft. Maluma",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/ps4/Chantaje_banner_bkg.tga.ckd/79fbaca3ada7c81a3b27f69681ecbb2e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/ps4/Chantaje_Coach_1.tga.ckd/9ec72044798a385a6e47de13f6b7196b.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/ps4/Chantaje_Coach_2.tga.ckd/bfb68883d010a269bcdcc1a0614109c0.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/ps4/Chantaje_Cover_Generic.tga.ckd/3cd15d8487c71b82871f736aa57dc3e7.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_Cover_1024.png/d05ea52bf83d01e848f9d018457c2292.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/ps4/Chantaje_Cover_Online.tga.ckd/5cc15276ce615ec14bc6586d16ad3d86.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/ps4/Chantaje_Cover_AlbumBkg.tga.ckd/ecdc69c7741d6c6cc7e6cb81b2b36eef.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/ps4/Chantaje_Cover_AlbumCoach.tga.ckd/50e290db0ad3a0bca17995f929acb9eb.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_Coach_1_Phone.png/8256db6e3cf150d5e19845413c015b96.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_Coach_2_Phone.png/5b5652f131afdddbb81660e843ec66b7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_Cover_Phone.jpg/685db64eb3d7162eaa31bc6df8c1c5bd.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_VideoPreview.webm/b93e272de18ca66ebf104810fdf5645e.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/ps4/Chantaje_map_bkg.tga.ckd/fc7ffeab87455e94a1f39632095f0218.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/nx/Chantaje_banner_bkg.tga.ckd/4a152517cfe41b141a1ac2ac757b6b0a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/nx/Chantaje_Coach_1.tga.ckd/0073ed46a750ffc155ff6628097e6703.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/nx/Chantaje_Coach_2.tga.ckd/ba66638382c6acc14261f904fadbdaca.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/nx/Chantaje_Cover_Generic.tga.ckd/4f36133217abf82b1089646f6df17a49.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_Cover_1024.png/d05ea52bf83d01e848f9d018457c2292.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/nx/Chantaje_Cover_Online.tga.ckd/3d7a45c71c350822f6fc49810007679a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/nx/Chantaje_Cover_AlbumBkg.tga.ckd/a6e1db8c3905005e0c5057816a6a07f0.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/nx/Chantaje_Cover_AlbumCoach.tga.ckd/2daa6cfc0607aac1771bec79f174cf4c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_Coach_1_Phone.png/8256db6e3cf150d5e19845413c015b96.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_Coach_2_Phone.png/5b5652f131afdddbb81660e843ec66b7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_Cover_Phone.jpg/685db64eb3d7162eaa31bc6df8c1c5bd.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_VideoPreview.webm/b93e272de18ca66ebf104810fdf5645e.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/nx/Chantaje_map_bkg.tga.ckd/a973906d1dc7709f4c80ccdedb112bf6.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/wiiu/Chantaje_banner_bkg.tga.ckd/3c3042bd5ba2d3c449cfe0a165dc1da6.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/wiiu/Chantaje_Coach_1.tga.ckd/4d25942796ddec7d12e02b1d3e9e25ad.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/wiiu/Chantaje_Coach_2.tga.ckd/b0e8aaced01ab3c5194b16d5fc545fb5.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/wiiu/Chantaje_Cover_Generic.tga.ckd/40c418592ebca02a1fa54a0ea0a0e740.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_Cover_1024.png/d05ea52bf83d01e848f9d018457c2292.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/wiiu/Chantaje_Cover_Online.tga.ckd/eb8bc01874516311034081a1ff0e0f56.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/wiiu/Chantaje_Cover_AlbumBkg.tga.ckd/81891e90bc6a4495924662ba4a98849d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/wiiu/Chantaje_Cover_AlbumCoach.tga.ckd/e7bc3a60e4899d7ceb548d6497c43ef4.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_Coach_1_Phone.png/8256db6e3cf150d5e19845413c015b96.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_Coach_2_Phone.png/5b5652f131afdddbb81660e843ec66b7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_Cover_Phone.jpg/685db64eb3d7162eaa31bc6df8c1c5bd.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_VideoPreview.webm/b93e272de18ca66ebf104810fdf5645e.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28224,56448,84672,112944,141168,169392,197616,225888,254112,282336,310560,338832,367056,395280,423504,451776,480000,508224,536448,564672,592944,621168,649392,677616,705888,734113,762337,790561,818833,847057,875281,903505,931777,960001,988225,1016449,1044673,1072945,1101169,1129393,1157617,1185889,1214113,1242337,1270561,1298833,1327057,1355281,1383505,1411777],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":331,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":50,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/chantaje/chantaje_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Kevin Mauricio Jimenez Londono, Bryan Snaider Lezcano Chaverra, Shakira Mebarak, Joel Antonio and Juan Luis Londono. Published by Rude Boyz Music / Sony/ATV Accorde (ASCAP) and MyMPM Music / Sony/ATV Melody (BMI) c/o Sony/ATV Music Publishing Canada (SOCAN). All rights reserved. Used with permission. Courtesy of SME U.S. Latin, LLC. By arrangement with Sony Music Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "6F1CC4FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 198.23499999999999,
+  "mapName": "Chantaje",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497385\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Chantaje/Chantaje_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1405596\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Chantaje/Chantaje_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1924140\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Chantaje/Chantaje_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1924035\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Chantaje/Chantaje_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "Chantaje_mapContent"
+  },
+  "parentMapName": "Chantaje",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "FF4582FF",
+    "songColor_1B": "320033FF",
+    "songColor_2A": "FFA100FF",
+    "songColor_2B": "880056FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "LatinCorner",
+    "CnUnlimited2018"
+  ],
+  "title": "Chantaje",
+  "urls": {
+    "jmcs://jd-contents/Chantaje/Chantaje_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_AudioPreview.ogg/1d3e829d41ca12355ff06b33e5d67159.ogg",
+    "jmcs://jd-contents/Chantaje/Chantaje_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_MapPreviewNoSoundCrop_HIGH.vp8.webm/24bf5c141e4738acc6935cba9b0a6a4f.webm",
+    "jmcs://jd-contents/Chantaje/Chantaje_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_MapPreviewNoSoundCrop_HIGH.vp9.webm/0377b62cbe1d477c4d3a6dcf007e0ec0.webm",
+    "jmcs://jd-contents/Chantaje/Chantaje_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_MapPreviewNoSoundCrop_LOW.vp8.webm/2420ba8d01411aa36935648fd8fdef9d.webm",
+    "jmcs://jd-contents/Chantaje/Chantaje_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_MapPreviewNoSoundCrop_LOW.vp9.webm/3b456765484e354f960d7549d2e5c5c7.webm",
+    "jmcs://jd-contents/Chantaje/Chantaje_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_MapPreviewNoSoundCrop_MID.vp8.webm/a3cdf21e80d2b40f0f0c53bf4e3fe233.webm",
+    "jmcs://jd-contents/Chantaje/Chantaje_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_MapPreviewNoSoundCrop_MID.vp9.webm/623084415cf5a637ed15921ab6897c31.webm",
+    "jmcs://jd-contents/Chantaje/Chantaje_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_MapPreviewNoSoundCrop_ULTRA.vp8.webm/6333068aad17988e8b60d428952d4e6d.webm",
+    "jmcs://jd-contents/Chantaje/Chantaje_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Chantaje/Chantaje_MapPreviewNoSoundCrop_ULTRA.vp9.webm/18b3b1bf7e441f4bb920f7db34c674a0.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "e4a3f52bd241b755f7c601065af4f3c4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Chantaje/ps4/Chantaje_MAIN_SCENE_ORBIS.zip/e4a3f52bd241b755f7c601065af4f3c4.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "03727c8a49dcf8e822dd3cd15b1a6e0f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Chantaje/nx/Chantaje_MAIN_SCENE_NX.zip/03727c8a49dcf8e822dd3cd15b1a6e0f.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "047a8dbe10a1b46e91ae536d70ba0404",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Chantaje/pc/047a8dbe10a1b46e91ae536d70ba0404.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "f6b10f157fcc39845bcd169843720785",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Chantaje/wiiu/Chantaje_MAIN_SCENE_WIIU.zip/f6b10f157fcc39845bcd169843720785.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

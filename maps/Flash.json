@@ -1,0 +1,114 @@
+{
+  "artist": "Bilal Hassani, avec Sulivan Gwed, Paola Locatelli et Sundy Jules",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/ps4/Flash_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/ps4/Flash_Coach_1.tga.ckd/f6f5bddfe8904f3d21b1bf3a53341ae8.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/ps4/Flash_Cover_Generic.tga.ckd/329e7c10e3167cd710ad14da4fcba392.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/Flash_Cover_1024.png/072f8e5b130b135de1c36cf4c541752f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/ps4/Flash_Cover_Online.tga.ckd/363f940f01b33d0e219591b38483705c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/ps4/Flash_Cover_AlbumBkg.tga.ckd/8cb2bdc1c0660e230974cff8d9bebc24.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/ps4/Flash_Cover_AlbumCoach.tga.ckd/74a143259d777ea9e9921a48e1f7bb30.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/Flash_Coach_1_Phone.png/3a306e6bc29960409c3ac1afdcc15740.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/Flash_Cover_Phone.jpg/633f025ffc339e86820362e3e22391b7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Flash/Flash_VideoPreview.webm/619faf0be2a0f2bc030a74b871a7c20d.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/ps4/Flash_map_bkg.tga.ckd/4e715580ed9dfcc4b64ee3e1f9b62416.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/nx/Flash_banner_bkg.tga.ckd/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/nx/Flash_Coach_1.tga.ckd/0597da0892ebccb68fe5c79915de33c0.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/nx/Flash_Cover_Generic.tga.ckd/20acff22ba3d4716536e279715270f15.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/Flash_Cover_1024.png/072f8e5b130b135de1c36cf4c541752f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/nx/Flash_Cover_Online.tga.ckd/631dbe30e3791e5f9b2f028b0b42ed60.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/nx/Flash_Cover_AlbumBkg.tga.ckd/d0d9583fa94a9835085ff81896d4416d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/nx/Flash_Cover_AlbumCoach.tga.ckd/64bdeffce34a6c58d74036868b689669.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/Flash_Coach_1_Phone.png/3a306e6bc29960409c3ac1afdcc15740.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/Flash_Cover_Phone.jpg/633f025ffc339e86820362e3e22391b7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Flash/Flash_VideoPreview.webm/619faf0be2a0f2bc030a74b871a7c20d.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Flash/nx/Flash_map_bkg.tga.ckd/c203a3b8caeb8420fc7d97d84c855d61.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23225,46451,69677,92903,116129,139354,162580,185806,209032,232258,255483,278709,301935,325161,348387,371613,394838,418064,441290,464516,487742,510967,534193,557419,580645,603871,627096,650322,673548,696774,720000,743225,766451,789677,812903,836129,859354,882580,905806,929032,952258,975483,998709,1021935,1045161,1068387,1091613,1114838,1138064,1161290,1184516,1207742,1230967,1254193,1277419,1300645,1323871,1347096,1370322,1393548,1416774],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":310,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/flash/flash_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Bilal Hassani and Matthieu Mendès. Adaptation by Sulivan Guedouar. Published by House of Hassani – The Dude and the Music admin by Peermusic France. Courtesy of House of Hassani. ",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "9AEC0FFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 152.418,
+  "mapName": "Flash",
+  "mapPreviewMpd": {
+    "videoEncoding": {
+      "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496301\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1136\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1477361\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2917133\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3919016\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+      "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"647929\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1492362\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2978756\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5925059\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+    }
+  },
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "Flash_mapContent"
+  },
+  "parentMapName": "Flash",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "4DA8B6FF",
+    "songColor_1B": "F8B651FF",
+    "songColor_2A": "EFBCDAFF",
+    "songColor_2B": "C93492FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "ExcludedFromWDF",
+    "JustDance2021",
+    "Solo",
+    "Medium",
+    "Sweat Medium",
+    "Boys",
+    "Electro",
+    "Futuristic",
+    "Geek",
+    "Girls",
+    "Party",
+    "Pop",
+    "Robots"
+  ],
+  "title": "Flash (Just Dance Version) ",
+  "urls": {
+    "jmcs://jd-contents/Flash/Flash_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Flash/Flash_AudioPreview.ogg/f0040227613d746f66ae32d1defdb814.ogg",
+    "jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Flash/Flash_MapPreviewNoSoundCrop_HIGH.vp8.webm/334df7a09887baa31b572c1a6890d5bb.webm",
+    "jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Flash/Flash_MapPreviewNoSoundCrop_HIGH.vp9.webm/3b2cec969ffa57e67a6021a69b041a77.webm",
+    "jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Flash/Flash_MapPreviewNoSoundCrop_LOW.vp8.webm/41d9cceef01839cf2994741212cf0bdb.webm",
+    "jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Flash/Flash_MapPreviewNoSoundCrop_LOW.vp9.webm/8ac30391024fd1fb80295f590fe11887.webm",
+    "jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Flash/Flash_MapPreviewNoSoundCrop_MID.vp8.webm/290d59e7472ac39d6032b0849cf32da0.webm",
+    "jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Flash/Flash_MapPreviewNoSoundCrop_MID.vp9.webm/32ecd306f7a14cdbd2c37e8781d50568.webm",
+    "jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Flash/Flash_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ad28bd0c2c165218c9c2f681444601f1.webm",
+    "jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Flash/Flash_MapPreviewNoSoundCrop_ULTRA.vp9.webm/a085b52818968df2f21e5cb0b37d662f.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "d02a017a79a003db0fa3a27e93807558",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Flash/pc/d02a017a79a003db0fa3a27e93807558.zip",
+      "version": 5
+    },
+    "orbis": {
+      "md5": "6301b2c6faa90e1688abd2ce07959714",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Flash/ps4/Flash_MAIN_SCENE_ORBIS.zip/6301b2c6faa90e1688abd2ce07959714.zip",
+      "version": 46
+    },
+    "nx": {
+      "md5": "eff1afc2e1c0484a34fd2b34781514ea",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Flash/nx/Flash_MAIN_SCENE_NX.zip/eff1afc2e1c0484a34fd2b34781514ea.zip",
+      "version": 46
+    }
+  },
+  "mapType": "jdu"
+}

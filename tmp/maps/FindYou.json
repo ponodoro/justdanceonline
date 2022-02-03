@@ -1,0 +1,114 @@
+{
+  "artist": "Austin Mahone",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_banner_bkg.jpg/6d2130e72d84b0eb27531dcb4212f283.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Coach_1.png/28e158c03e378c9cbf4e1eba7aa7a9db.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Cover_Generic.jpg/bde671a3d01867d73fc92685f4e69362.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Cover_1024.png/269b5a887fc4b747a4c852b50386ea75.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Cover_Online.jpg/295d03fca7235870f314f70629a41fb2.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Cover_AlbumBkg.jpg/5884339d2db1a6dc2576569adaab7983.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Cover_AlbumCoach.png/757b2ec4030bac04243cde0d7adeb0be.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Coach_1_Phone.png/1bad183c85be63b065bb5c6b2101c371.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Cover_Phone.jpg/295d03fca7235870f314f70629a41fb2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_VideoPreview.webm/425bffb81db378fd569bbc0040647ca6.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_banner_bkg.jpg/6d2130e72d84b0eb27531dcb4212f283.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Coach_1.png/28e158c03e378c9cbf4e1eba7aa7a9db.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Cover_Generic.jpg/bde671a3d01867d73fc92685f4e69362.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Cover_1024.png/269b5a887fc4b747a4c852b50386ea75.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Cover_Online.jpg/295d03fca7235870f314f70629a41fb2.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Cover_AlbumBkg.jpg/5884339d2db1a6dc2576569adaab7983.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Cover_AlbumCoach.png/757b2ec4030bac04243cde0d7adeb0be.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Coach_1_Phone.png/1bad183c85be63b065bb5c6b2101c371.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Cover_Phone.jpg/295d03fca7235870f314f70629a41fb2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_VideoPreview.webm/425bffb81db378fd569bbc0040647ca6.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/wiiu/FindYou_banner_bkg.tga.ckd/362f007d3c653fa3aff1695eca80aa79.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/wiiu/FindYou_Coach_1.tga.ckd/069b2cfb1dff2dcc0387e006aec59172.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/wiiu/FindYou_Cover_Generic.tga.ckd/5f10ff259dbef64d6c26b156d132a7d2.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Cover_1024.png/269b5a887fc4b747a4c852b50386ea75.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/wiiu/FindYou_Cover_Online.tga.ckd/2b3c37d2182d6986640c796b3f89f417.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/wiiu/FindYou_Cover_AlbumBkg.tga.ckd/af9b90df2b7c26ac3232ed6d02e70013.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/wiiu/FindYou_Cover_AlbumCoach.tga.ckd/e5c59d2e35653212d020126887cf114c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Coach_1_Phone.png/1bad183c85be63b065bb5c6b2101c371.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_Cover_Phone.jpg/295d03fca7235870f314f70629a41fb2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_VideoPreview.webm/425bffb81db378fd569bbc0040647ca6.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26160,52368,78528,104736,130896,157104,183264,209472,235632,261792,288000,314160,340368,366528,392736,418896,445104,471264,497472,523632,549792,576000,602160,628368,654528,680736,706896,733104,759264,785472,811632,837792,864000,890160,916368,942528,968736,994896,1021104,1047264,1073472,1099632,1125792,1152000,1178160,1204368,1230528,1256736,1282896,1309104,1335264,1361472,1387632,1413792],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":332,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":54,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/findyou/findyou_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "EE0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 182.182,
+  "mapName": "FindYou",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497702\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FindYou/FindYou_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"622-1111\">\r\n\t\t\t\t\t<Initialization range=\"0-622\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1420832\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FindYou/FindYou_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1729473\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FindYou/FindYou_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1764656\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FindYou/FindYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "FindYou_mapContent"
+  },
+  "parentMapName": "FindYou",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "00AFDCFF",
+    "songColor_1B": "001475FF",
+    "songColor_2A": "70BFCCFF",
+    "songColor_2B": "07002DFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Till I Find You",
+  "urls": {
+    "jmcs://jd-contents/FindYou/FindYou_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_AudioPreview.ogg/b3246c157c324b2800e2f63955afc8ba.ogg",
+    "jmcs://jd-contents/FindYou/FindYou_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_MapPreviewNoSoundCrop_HIGH.vp8.webm/bc918393d3ff9ec3e0b1025396b9f2f9.webm",
+    "jmcs://jd-contents/FindYou/FindYou_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_MapPreviewNoSoundCrop_HIGH.vp9.webm/803afd5f01e0bd358a17d95bf2eb02bf.webm",
+    "jmcs://jd-contents/FindYou/FindYou_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_MapPreviewNoSoundCrop_LOW.vp8.webm/f39963173c1cb22d67b8e3a075055b30.webm",
+    "jmcs://jd-contents/FindYou/FindYou_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_MapPreviewNoSoundCrop_LOW.vp9.webm/233280afa6384938c36ddd66d7b8bc3f.webm",
+    "jmcs://jd-contents/FindYou/FindYou_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_MapPreviewNoSoundCrop_MID.vp8.webm/61df1c97cd91a66cf02154b6f5971bf7.webm",
+    "jmcs://jd-contents/FindYou/FindYou_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_MapPreviewNoSoundCrop_MID.vp9.webm/e88e0ee8a87a704c983ed1770e466e36.webm",
+    "jmcs://jd-contents/FindYou/FindYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ec61b09cb24618295e8c2014898121e5.webm",
+    "jmcs://jd-contents/FindYou/FindYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/FindYou/FindYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm/3f639c6c82232a925cf16eb0d05ea8e2.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "da196410c9a9c358691b6cd7265b79da",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FindYou/ps4/FindYou_MAIN_SCENE_ORBIS.zip/da196410c9a9c358691b6cd7265b79da.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "8a206c99ffb8f660f2a1dd45bce88631",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FindYou/pc/FindYou_MAIN_SCENE_PC.zip/8a206c99ffb8f660f2a1dd45bce88631.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "b619b541879d297dfa43cfe229cfc8a5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FindYou/wiiu/FindYou_MAIN_SCENE_WIIU.zip/b619b541879d297dfa43cfe229cfc8a5.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "bcdaf5980148b1e72ede27e7b6d23170",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FindYou/nx/FindYou_MAIN_SCENE_NX.zip/bcdaf5980148b1e72ede27e7b6d23170.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu"
+}

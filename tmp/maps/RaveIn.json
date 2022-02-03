@@ -1,0 +1,125 @@
+{
+  "artist": "AronChupa Ft. Little Sis Nora",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/ggp/RaveIn_banner_bkg.tga.ckd/b1de969818413149d03a597b770232f6.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/ggp/RaveIn_Coach_1.tga.ckd/8fc57ca3f8823db62713100486f222c9.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/ggp/RaveIn_Coach_2.tga.ckd/14daa4f989def96ef0445d1fb26d75a2.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/ggp/RaveIn_Coach_3.tga.ckd/f5162bf9c6020335d1c09edce2de9c55.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/ggp/RaveIn_Coach_4.tga.ckd/22aeda5ba7e714ec1fa6c2866358c007.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/ggp/RaveIn_Cover_Generic.tga.ckd/fbec53eda3c7ee17fef4d1dc5dd671ad.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Cover_1024.png/c85c122d03440a61e335022306a8ac3f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/ggp/RaveIn_Cover_Online.tga.ckd/fbec53eda3c7ee17fef4d1dc5dd671ad.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/ggp/RaveIn_Cover_AlbumBkg.tga.ckd/f16a19b2d180ee26b23857c87e86cc8a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/ggp/RaveIn_Cover_AlbumCoach.tga.ckd/1b52be71d4d90bebc67804a0a4701450.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Coach_1_Phone.png/ebbf7e70010c46ee812ca9fd27bbf5af.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Coach_2_Phone.png/6384cbc54f75b2eec7660c5cc49575dc.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Coach_3_Phone.png/29bbecc4ef666b0262f063bdd04a1d3b.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Coach_4_Phone.png/b7bb3eb018cc1cb21cae8f12ff263ee7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Cover_Phone.jpg/c2b8b38eece09bee692696e9c641834b.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/ggp/RaveIn_map_bkg.tga.ckd/b8fdd925141f224ac3137f6cd5dd7da4.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/nx/RaveIn_banner_bkg.tga.ckd/c6a0e4e3b2115ee798cfab9d95c55568.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/nx/RaveIn_Coach_1.tga.ckd/e6a4be1c1e845d2b303f92081739cd81.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/nx/RaveIn_Coach_2.tga.ckd/dd7dff3ffb970839c471f3e9a3f4e1f0.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/nx/RaveIn_Coach_3.tga.ckd/5c4a43a78af79d2eab12b4b59924e8d0.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/nx/RaveIn_Coach_4.tga.ckd/5fd66957f64e102b67918269b0a5f8a7.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/nx/RaveIn_Cover_Generic.tga.ckd/5687f12c76ce7d50748e1514483881ab.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Cover_1024.png/c85c122d03440a61e335022306a8ac3f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/nx/RaveIn_Cover_Online.tga.ckd/195a106b352a63a59f88463d8824108a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/nx/RaveIn_Cover_AlbumBkg.tga.ckd/0ce95d057c11155fc3699aa5eec8e591.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/nx/RaveIn_Cover_AlbumCoach.tga.ckd/2494965df69b7b5f74bddd492d3e6292.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/nx/RaveIn_map_bkg.tga.ckd/b29d37eb518a73273c8765b72c2612e2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Coach_1_Phone.png/ebbf7e70010c46ee812ca9fd27bbf5af.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Coach_2_Phone.png/6384cbc54f75b2eec7660c5cc49575dc.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Coach_3_Phone.png/29bbecc4ef666b0262f063bdd04a1d3b.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Coach_4_Phone.png/b7bb3eb018cc1cb21cae8f12ff263ee7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Cover_Phone.jpg/c2b8b38eece09bee692696e9c641834b.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_banner_bkg.jpg/4d6b4e1a32fa179e4ac24fd3f1f83fec.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Coach_1.png/0c7384abeda8275246d2b9c46ada4de3.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Coach_2.png/5d7f9d052d8d29431d448d80ef42e96c.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Coach_3.png/ee7eee73fc6b77de6a67cc20e1033af1.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Coach_4.png/c6f485409b11b8f9d01abcaeca5a3e3c.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Cover_Generic.jpg/8eab3c3f55c4a4e79c76d05ea5b91b76.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Cover_1024.png/c85c122d03440a61e335022306a8ac3f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Cover_Online.jpg/c2b8b38eece09bee692696e9c641834b.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Cover_AlbumBkg.jpg/616e8f23b28093fa95f2c15188ce05b1.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Cover_AlbumCoach.png/36b0208de0b6c8ed4fdad8187215393e.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Coach_1_Phone.png/ebbf7e70010c46ee812ca9fd27bbf5af.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Coach_2_Phone.png/cd71ac0822ec86681c3541b6252e84c0.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Coach_3_Phone.png/29bbecc4ef666b0262f063bdd04a1d3b.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Coach_4_Phone.png/b7bb3eb018cc1cb21cae8f12ff263ee7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_Cover_Phone.jpg/c2b8b38eece09bee692696e9c641834b.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21840,43632,65472,87312,109104,130944,152736,174576,196368,218208,240000,261840,283632,305472,327312,349104,370944,392736,414576,436368,458208,480000,501840,523632,545472,567312,589104,610944,632736,654576,676368,698208,720000,741840,763632,785472,807264,829104,850944,872736,894576,916368,938208,960000,981840,1003632,1025472,1047264,1069104,1090945,1112737,1134577,1156369,1178209,1200001,1221841,1243633,1265473,1287265,1309105,1330945,1352737,1374577,1396369,1418209],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-1,\"endBeat\":354,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/ravein/ravein_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F7EF20FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 161.363,
+  "mapName": "RaveIn",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496871\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RaveIn/RaveIn_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"617-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-617\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483688\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RaveIn/RaveIn_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2943216\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RaveIn/RaveIn_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4796124\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RaveIn/RaveIn_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "RaveIn_mapContent"
+  },
+  "parentMapName": "RaveIn",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "006F51FF",
+    "songColor_1B": "001F34FF",
+    "songColor_2A": "DE00ECFF",
+    "songColor_2B": "08002DFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Rave In The Grave",
+  "urls": {
+    "jmcs://jd-contents/RaveIn/RaveIn_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_AudioPreview.ogg/f0fcc0232764ffd3ea38adc5622f891e.ogg",
+    "jmcs://jd-contents/RaveIn/RaveIn_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_MapPreviewNoSoundCrop_HIGH.vp8.webm/e1486b7fb2225306f47098642bf58623.webm",
+    "jmcs://jd-contents/RaveIn/RaveIn_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_MapPreviewNoSoundCrop_HIGH.vp9.webm/18795ff819f74b4b9920fe471c014ca4.webm",
+    "jmcs://jd-contents/RaveIn/RaveIn_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_MapPreviewNoSoundCrop_LOW.vp8.webm/aa504bf437f1d97a1bc1022b9a86c540.webm",
+    "jmcs://jd-contents/RaveIn/RaveIn_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_MapPreviewNoSoundCrop_LOW.vp9.webm/fbb5fcc87fd463421b09c799aa698520.webm",
+    "jmcs://jd-contents/RaveIn/RaveIn_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_MapPreviewNoSoundCrop_MID.vp8.webm/3a805e1f7fa9e4b1e82899614ea4048b.webm",
+    "jmcs://jd-contents/RaveIn/RaveIn_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_MapPreviewNoSoundCrop_MID.vp9.webm/c65a42bafc989bfad9aa456373e9890a.webm",
+    "jmcs://jd-contents/RaveIn/RaveIn_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b01b5223129f1d29528ddcd6546e805c.webm",
+    "jmcs://jd-contents/RaveIn/RaveIn_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/RaveIn/RaveIn_MapPreviewNoSoundCrop_ULTRA.vp9.webm/c5902da750b3371c1e134012d7008236.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "0ceb52d454caffb0b3c6f287eaa7ea87",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RaveIn/ps4/RaveIn_MAIN_SCENE_ORBIS.zip/0ceb52d454caffb0b3c6f287eaa7ea87.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "2e9274df3690a12d7062775505823ee3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RaveIn/nx/RaveIn_MAIN_SCENE_NX.zip/2e9274df3690a12d7062775505823ee3.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "78afa8dd9eab6c0ea68ba3dc53bc9107",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/ravein_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,119 @@
+{
+  "artist": "Slawomir",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/ps4/MiloscW_banner_bkg.tga.ckd/c4f3cd6fcc3764590c736a6eccd79930.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/ps4/MiloscW_Coach_1.tga.ckd/cece172ce3cb994d8a80982e90ffd21c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/ps4/MiloscW_Cover_Generic.tga.ckd/cc751c05f642e8bdb70a892d9cde521e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_Cover_1024.png/fdcabf3860c23b779330b41a914965c9.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/ps4/MiloscW_Cover_Online.tga.ckd/d42323b55ce388f2d72e436b5d519762.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/ps4/MiloscW_Cover_AlbumBkg.tga.ckd/2db08eca6f54afed64126b55bd019278.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/ps4/MiloscW_Cover_AlbumCoach.tga.ckd/ef853dd67971b569adab49f0fb98e1b1.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_Coach_1_Phone.png/91224f5dbc428a4d2c16ebbdfb5b68aa.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_Cover_Phone.jpg/6cfaea18239cc867d1d051b06a5b23b1.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/ps4/MiloscW_map_bkg.tga.ckd/abf2b2f1b8f41becdf52ea7e5ac4ae43.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/nx/MiloscW_banner_bkg.tga.ckd/c679377e7aa3f2e68ca8a051fa45e431.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/nx/MiloscW_Coach_1.tga.ckd/c7a68aede14943e23bb2df91edbe4818.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/nx/MiloscW_Cover_Generic.tga.ckd/f36657b1df1e76593c135a0a671f8da4.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_Cover_1024.png/fdcabf3860c23b779330b41a914965c9.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/nx/MiloscW_Cover_Online.tga.ckd/7cbf0da7e830714fdc9c6a4e3d21f8b7.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/nx/MiloscW_Cover_AlbumBkg.tga.ckd/cb02ae5a29786947d828bb029cce6644.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/nx/MiloscW_Cover_AlbumCoach.tga.ckd/d4b8d882dc0f0641490f793e81de9065.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_Coach_1_Phone.png/91224f5dbc428a4d2c16ebbdfb5b68aa.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_Cover_Phone.jpg/6cfaea18239cc867d1d051b06a5b23b1.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/nx/MiloscW_map_bkg.tga.ckd/f6b94561fbceaf0a048a35afa57e8562.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_banner_bkg.jpg/43600ca23a9bff1beb11d5a56ee7c44c.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_Coach_1.png/54caa95f3a4dcac6e96e3ca4f4714b8a.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_Cover_Generic.jpg/00a153e665c70cd35dc7adebacafafb2.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_Cover_1024.png/fdcabf3860c23b779330b41a914965c9.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_Cover_Online.jpg/6cfaea18239cc867d1d051b06a5b23b1.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_Cover_AlbumBkg.jpg/ecd64b25752d8274974d2235653dce6f.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_Cover_AlbumCoach.png/f245f398b4b44f57f85afbcb8b4e11f8.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_Coach_1_Phone.png/91224f5dbc428a4d2c16ebbdfb5b68aa.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_Cover_Phone.jpg/6cfaea18239cc867d1d051b06a5b23b1.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,18240,36480,54720,72912,91152,109392,127632,145824,164064,182304,200544,218736,236976,255216,273456,291648,309888,328128,346368,364560,382801,401041,419281,437473,455713,473953,492145,510385,528625,546865,565057,583297,601537,619777,637969,656209,674449,692689,710881,729121,747361,765601,783793,802033,820273,838514,856706,874946,893186,911426,929618,947858,966098,984338,1002530,1020770,1039010,1057250,1075442,1093682,1111922,1130162,1148354,1166594,1184834,1203074,1221266,1239506,1257746,1275986,1294178,1312419,1330659,1348899,1367091,1385331,1403571,1421811],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":500,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":78,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/miloscw/miloscw_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Slawomir Zapala. Published by Slawomir Zapala. Courtesy of Slawomir Zapala. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FE00C8FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 192.152,
+  "mapName": "MiloscW",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496186\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MiloscW/MiloscW_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478912\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MiloscW/MiloscW_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2906567\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MiloscW/MiloscW_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4449425\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/MiloscW/MiloscW_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "MiloscW_mapContent"
+  },
+  "parentMapName": "MiloscW",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "07564EFF",
+    "songColor_1B": "11B2B2FF",
+    "songColor_2A": "DBB22BFF",
+    "songColor_2B": "B2292BFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Milosc W Zakopanem",
+  "urls": {
+    "jmcs://jd-contents/MiloscW/MiloscW_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_AudioPreview.ogg/af858af1d202ea5cd3efcbd7e94daad6.ogg",
+    "jmcs://jd-contents/MiloscW/MiloscW_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_MapPreviewNoSoundCrop_HIGH.vp8.webm/6ec9896553bb92b967f3b04975600394.webm",
+    "jmcs://jd-contents/MiloscW/MiloscW_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_MapPreviewNoSoundCrop_HIGH.vp9.webm/de5c0b8b3e7eaf3a0593b37638424c1a.webm",
+    "jmcs://jd-contents/MiloscW/MiloscW_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_MapPreviewNoSoundCrop_LOW.vp8.webm/cfc27b789c4907476f1225c17aad9889.webm",
+    "jmcs://jd-contents/MiloscW/MiloscW_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_MapPreviewNoSoundCrop_LOW.vp9.webm/8330a6fcaa85724531a9799af16b2941.webm",
+    "jmcs://jd-contents/MiloscW/MiloscW_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_MapPreviewNoSoundCrop_MID.vp8.webm/08a91b0f76fadc50afde0d90d79e27a9.webm",
+    "jmcs://jd-contents/MiloscW/MiloscW_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_MapPreviewNoSoundCrop_MID.vp9.webm/6cf79ded87ea5b149d39936f790b66e1.webm",
+    "jmcs://jd-contents/MiloscW/MiloscW_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_MapPreviewNoSoundCrop_ULTRA.vp8.webm/21de72fdeafa0cca40f669f604499a4c.webm",
+    "jmcs://jd-contents/MiloscW/MiloscW_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/MiloscW/MiloscW_MapPreviewNoSoundCrop_ULTRA.vp9.webm/95f01582a37c8fd175e11c13c7351d77.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "ac6353323ade87ac73912b32069368f0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MiloscW/ps4/MiloscW_MAIN_SCENE_ORBIS.zip/ac6353323ade87ac73912b32069368f0.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "c18fab63d306a3d16773be947ae0ddde",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/MiloscW/nx/MiloscW_MAIN_SCENE_NX.zip/c18fab63d306a3d16773be947ae0ddde.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "b5a4bd37df6c97bbe1d8f516ac1d215a",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/miloscw_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

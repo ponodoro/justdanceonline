@@ -1,0 +1,119 @@
+{
+  "artist": "Countdown Dee’s Hit Explosion",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/ggp/BarbieGirl_banner_bkg.tga.ckd/898ab6d0a063a09673f4a64b752d901b.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/ggp/BarbieGirl_Coach_1.tga.ckd/f4c2cd4de5ec6a10ee004345e8f038c2.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/ggp/BarbieGirl_Coach_2.tga.ckd/21d8ba8b15205da72c5608f3ea01f686.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/ggp/BarbieGirl_Cover_Generic.tga.ckd/e8e60c47557eeee54a188dcb656ac91c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_Cover_1024.png/7cd4ec2f4e0d42567c0a5d3a47cb2360.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/ggp/BarbieGirl_Cover_Online.tga.ckd/e8e60c47557eeee54a188dcb656ac91c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/ggp/BarbieGirl_Cover_AlbumBkg.tga.ckd/2afc0b4d72c708d56e9ff7e4f9f0f3d8.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/ggp/BarbieGirl_Cover_AlbumCoach.tga.ckd/9317fb6eb8ab602cd67edc78c84a3ed6.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_Coach_1_Phone.png/c18b3526e90308743963a639ae9fe6ff.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_Coach_2_Phone.png/17c00e5bbf3e6c09e8ce0c7da34a7f97.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_Cover_Phone.jpg/fbbe0ad9eba01893cbc25976603fabd8.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/ggp/BarbieGirl_map_bkg.tga.ckd/af4390566919e7c73fe51a4d4956d43a.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/nx/BarbieGirl_banner_bkg.tga.ckd/cf2caf342df8fcfa3478c9fbe47c5dcd.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/nx/BarbieGirl_Coach_1.tga.ckd/f0e1ed2777824ca306c17cc3f3b5909c.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/nx/BarbieGirl_Coach_2.tga.ckd/5bedee20853432400ae2ecfbd663bd83.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/nx/BarbieGirl_Cover_Generic.tga.ckd/11b4ff1b4eba20f58215367c815c0f3c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_Cover_1024.png/7cd4ec2f4e0d42567c0a5d3a47cb2360.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/nx/BarbieGirl_Cover_Online.tga.ckd/92bd2bf8646c2c9bb9ea2a9cecfd8a20.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/nx/BarbieGirl_Cover_AlbumBkg.tga.ckd/02d63894cdfcdc5d1788a223ae71e923.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/nx/BarbieGirl_Cover_AlbumCoach.tga.ckd/e4f47f34dadcfec03970a9fceb005b6b.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/nx/BarbieGirl_map_bkg.tga.ckd/4fae78427a112eb46d9ac9c162d1184f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_Coach_1_Phone.png/c18b3526e90308743963a639ae9fe6ff.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_Coach_2_Phone.png/17c00e5bbf3e6c09e8ce0c7da34a7f97.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_Cover_Phone.jpg/fbbe0ad9eba01893cbc25976603fabd8.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/wiiu/BarbieGirl_banner_bkg.tga.ckd/625904885f7e7e33c5945a5e99902de7.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/wiiu/BarbieGirl_Coach_1.tga.ckd/6b5874841a83ce48c705210d051f0400.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/wiiu/BarbieGirl_Coach_2.tga.ckd/500838ff7a451344b5110affc3c143aa.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/wiiu/BarbieGirl_Cover_Generic.tga.ckd/dad01bc505d79253bb8b2ee06db41038.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_Cover_1024.png/7cd4ec2f4e0d42567c0a5d3a47cb2360.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/wiiu/BarbieGirl_Cover_Online.tga.ckd/12052c6b99bf4d05f46b3ae4ded104bf.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/wiiu/BarbieGirl_Cover_AlbumBkg.tga.ckd/fc76ec1ade3d0401c6162731ce9d03b2.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/wiiu/BarbieGirl_Cover_AlbumCoach.tga.ckd/9e1276c90b2b932ed6b06164eca52fda.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_Coach_1_Phone.png/c18b3526e90308743963a639ae9fe6ff.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_Coach_2_Phone.png/17c00e5bbf3e6c09e8ce0c7da34a7f97.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_Cover_Phone.jpg/fbbe0ad9eba01893cbc25976603fabd8.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22145,44290,66436,88581,110726,132872,155017,177162,199308,221453,243598,265744,287889,310034,332179,354325,376470,398615,420761,442906,465051,487197,509342,531487,553633,575778,597923,620068,642214,664359,686504,708650,730795,752940,775086,797231,819376,841521,863667,885812,907957,930103,952248,974393,996539,1018684,1040829,1062975,1085120,1107265,1129410,1151556,1173701,1195846,1217992,1240137,1262282,1284428,1306573,1328718,1350864,1373009,1395154,1417299,1439445],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":430,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/barbiegirl/barbiegirl_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "02F1EAFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 198.676,
+  "mapName": "BarbieGirl",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497089\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1471821\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1972836\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1973050\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "BarbieGirl_mapContent"
+  },
+  "parentMapName": "BarbieGirl",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "6A1712FF",
+    "songColor_1B": "FF7C60FF",
+    "songColor_2A": "1F498FFF",
+    "songColor_2B": "2F6FB6FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Barbie Girl",
+  "urls": {
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_AudioPreview.ogg/8cdb9fdcf937a1251971853095a89c19.ogg",
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_HIGH.vp8.webm/731ef149ff7c4b452348e9a991eef69f.webm",
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_HIGH.vp9.webm/b8bffc715265f4e8873d839624683170.webm",
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_LOW.vp8.webm/f2062149c00b72570642d0e315e72825.webm",
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_LOW.vp9.webm/dad224d54f0f2e3cd4112c907c086bd0.webm",
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_MID.vp8.webm/ddf67321bb368e486bde77f80f71199c.webm",
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_MID.vp9.webm/4a70eb4fa837e1f5145de18cd3cc6ed0.webm",
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b29318f909cc4a42e85e48087a229926.webm",
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BarbieGirl/BarbieGirl_MapPreviewNoSoundCrop_ULTRA.vp9.webm/6e381e9feabb88014ab2b69f99de4f25.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "2238674a1ffc3cf80281401f629a4e0b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BarbieGirl/ps4/BarbieGirl_MAIN_SCENE_ORBIS.zip/2238674a1ffc3cf80281401f629a4e0b.zip",
+      "version": 15
+    },
+    "pc": {
+      "md5": "2137066df608c414eae54710f8ea34c4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BarbieGirl/pc/BarbieGirl_MAIN_SCENE_PC.zip/2137066df608c414eae54710f8ea34c4.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "a733249284c8a79e4281de2721a4c93c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BarbieGirl/wiiu/BarbieGirl_MAIN_SCENE_WIIU.zip/a733249284c8a79e4281de2721a4c93c.zip",
+      "version": 15
+    },
+    "nx": {
+      "md5": "33f06ba1516745439928cd5295128c5d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BarbieGirl/nx/BarbieGirl_MAIN_SCENE_NX.zip/33f06ba1516745439928cd5295128c5d.zip",
+      "version": 16
+    }
+  },
+  "mapType": "jdu"
+}

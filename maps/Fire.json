@@ -1,0 +1,125 @@
+{
+  "artist": "LLP Ft. Mike Diamondz",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/ps4/Fire_banner_bkg.tga.ckd/1f94a272f1be0e24e0fe904d288a4b35.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/ps4/Fire_Coach_1.tga.ckd/cb69b0fd9b28dad5396c84a670455ecc.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/ps4/Fire_Coach_2.tga.ckd/2bbbc2d2e6e68da0a9d0cdb462fbb104.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/ps4/Fire_Cover_Generic.tga.ckd/09c99ff85be22a6169cd5a4e1e951aa0.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Cover_1024.png/8860790909bc9c0838dce7cc96d3f451.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/ps4/Fire_Cover_Online.tga.ckd/f92c62ad37de0ec3404600344db31085.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/ps4/Fire_Cover_AlbumBkg.tga.ckd/d67f35c44309a2603171d37868fc4abe.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/ps4/Fire_Cover_AlbumCoach.tga.ckd/695f25144179bc49ff413465dd901c14.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Coach_1_Phone.png/814e039b71e9840c5863374e2f1e92cc.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Coach_2_Phone.png/ce542b05fb8aa6949ee5a6a89ef9aa39.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Cover_Phone.jpg/1bd11dfc5439816b19306d63a6645a92.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/ps4/Fire_map_bkg.tga.ckd/4af82593f9359cd1ea72c7c87015c651.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/nx/Fire_banner_bkg.tga.ckd/2a48558fc670184abc1c6d04f3af7ae8.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/nx/Fire_Coach_1.tga.ckd/0cb514051d68f8633aba7f3ff784ff28.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/nx/Fire_Coach_2.tga.ckd/9ee174e3a45d27fe56d886e7bf6d3ba5.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/nx/Fire_Cover_Generic.tga.ckd/e941ef8650e4a4cd3cde80226d06a414.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Cover_1024.png/8860790909bc9c0838dce7cc96d3f451.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/nx/Fire_Cover_Online.tga.ckd/67b7cd4bf75c5c5cc13591c3e61aec9c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/nx/Fire_Cover_AlbumBkg.tga.ckd/ac6d10b950c5660529cd4b60a17bafcc.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/nx/Fire_Cover_AlbumCoach.tga.ckd/76be5302ab7147db3e192a2a284ada2b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Coach_1_Phone.png/814e039b71e9840c5863374e2f1e92cc.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Coach_2_Phone.png/ce542b05fb8aa6949ee5a6a89ef9aa39.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Cover_Phone.jpg/1bd11dfc5439816b19306d63a6645a92.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/nx/Fire_map_bkg.tga.ckd/6b4de3e22de21a7c445d4a5cf93a90d1.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_banner_bkg.jpg/e8b5bdecc00e0ae129179e02a906832e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Coach_1.png/9f1aa5a2e97eb3a4b3685374f79d8e1c.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Coach_2.png/0c7f7349391f1c27bdd3bd29f252cd82.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Cover_Generic.jpg/bbd431f6c6111b19f65301e780693418.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Cover_1024.png/8860790909bc9c0838dce7cc96d3f451.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Cover_Online.jpg/1bd11dfc5439816b19306d63a6645a92.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Cover_AlbumBkg.jpg/01566d23ebf86d31f9cf14fe50cf975e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Cover_AlbumCoach.png/439e94e2f3e4dd8c3b932752ba36f443.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Coach_1_Phone.png/814e039b71e9840c5863374e2f1e92cc.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Coach_2_Phone.png/ce542b05fb8aa6949ee5a6a89ef9aa39.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Fire/Fire_Cover_Phone.jpg/1bd11dfc5439816b19306d63a6645a92.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26208,52368,78576,104736,130944,157103,183263,209471,235631,261839,287999,314207,340367,366575,392735,418943,445103,471263,497471,523631,549839,575999,602207,628367,654574,680734,706942,733102,759262,785470,811630,837838,863998,890206,916366,942574,968734,994942,1021102,1047262,1073470,1099630,1125837,1151997,1178205,1204365,1230573,1256733,1282941,1309101,1335261,1361469,1387629,1413837,1439997],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-9,\"endBeat\":380,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":55,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/fire/fire_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Emanuel Paul Vasilescu, Michael-Richie Ntumba-Kapumbwa. Published by Roton Music Publishing. Administered in the US by Schubert Music Publishing. © & (P) 2015 ROTON MUSIC. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "08FDFEFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 212.182,
+  "mapName": "Fire",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497074\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Fire/Fire_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"587-1076\">\r\n\t\t\t\t\t<Initialization range=\"0-587\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482269\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Fire/Fire_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"588-1078\">\r\n\t\t\t\t\t<Initialization range=\"0-588\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2948940\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Fire/Fire_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"588-1078\">\r\n\t\t\t\t\t<Initialization range=\"0-588\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4930621\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Fire/Fire_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"588-1081\">\r\n\t\t\t\t\t<Initialization range=\"0-588\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "Fire_mapContent"
+  },
+  "parentMapName": "Fire",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "540440FF",
+    "songColor_1B": "110121FF",
+    "songColor_2A": "EDF93BFF",
+    "songColor_2B": "BA0B1CFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Fire",
+  "urls": {
+    "jmcs://jd-contents/Fire/Fire_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Fire/Fire_AudioPreview.ogg/74ba3f6e8e59cf760c0ffbcbf1f92697.ogg",
+    "jmcs://jd-contents/Fire/Fire_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Fire/Fire_MapPreviewNoSoundCrop_HIGH.vp8.webm/f422372a74f084fcb9e4b8109086510d.webm",
+    "jmcs://jd-contents/Fire/Fire_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Fire/Fire_MapPreviewNoSoundCrop_HIGH.vp9.webm/b5d1274db3858da2d6b50f4f8c28c6d4.webm",
+    "jmcs://jd-contents/Fire/Fire_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Fire/Fire_MapPreviewNoSoundCrop_LOW.vp8.webm/1e0d87e2a374cdc3382b625ba951267b.webm",
+    "jmcs://jd-contents/Fire/Fire_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Fire/Fire_MapPreviewNoSoundCrop_LOW.vp9.webm/75664f94a1d97d6e18773cdf6704eca0.webm",
+    "jmcs://jd-contents/Fire/Fire_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Fire/Fire_MapPreviewNoSoundCrop_MID.vp8.webm/7ec95506f3a53e257c47c0b874d2b776.webm",
+    "jmcs://jd-contents/Fire/Fire_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Fire/Fire_MapPreviewNoSoundCrop_MID.vp9.webm/a9e8f831d8b10fb85f5ce7d3bf0527cb.webm",
+    "jmcs://jd-contents/Fire/Fire_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Fire/Fire_MapPreviewNoSoundCrop_ULTRA.vp8.webm/712190bcbd15fce22eb634a775eba45a.webm",
+    "jmcs://jd-contents/Fire/Fire_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Fire/Fire_MapPreviewNoSoundCrop_ULTRA.vp9.webm/27f513e087b7cf253d627765f7687596.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "019db2bf507d39c52557f6aa79bad919",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Fire/ps4/Fire_MAIN_SCENE_ORBIS.zip/019db2bf507d39c52557f6aa79bad919.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "8827d8308cb00839653ebbbd3fe6cac7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Fire/nx/Fire_MAIN_SCENE_NX.zip/8827d8308cb00839653ebbbd3fe6cac7.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "c25c37fefe4c6a09cb7bd50d86d51169",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/fire_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,137 @@
+{
+  "artist": "Dancing Bros.",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/ps4/PacMan_banner_bkg.tga.ckd/8a5bc919a4b5ee4af0cb94a158e94945.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/ps4/PacMan_Coach_1.tga.ckd/3c394b4da4ad455f84dfd6b85c8189e8.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/ps4/PacMan_Coach_2.tga.ckd/e6f679d7393c19a154a8b033469154d6.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/ps4/PacMan_Coach_3.tga.ckd/838c76e9da1e94c76e1664ae17ac40c5.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/ps4/PacMan_Coach_4.tga.ckd/c388722540bdb990a78d8892b5765eae.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/ps4/PacMan_Cover_Generic.tga.ckd/103239c6270ed92985bb85bc0eecad4d.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Cover_1024.png/75c1f517170a8c32afee5492eb874e5f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/ps4/PacMan_Cover_Online.tga.ckd/53fa94a23908457921ee36786decf522.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/ps4/PacMan_Cover_AlbumBkg.tga.ckd/2da5bf7087b2caeeacbbc40a3fc17088.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/ps4/PacMan_Cover_AlbumCoach.tga.ckd/31184e90940ab19d0a221660cf7385a9.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Coach_1_Phone.png/751d61a502608a37f663ea7fa6eefca1.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Coach_2_Phone.png/ce87646858c89200fe47890a2a937ad9.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Coach_3_Phone.png/e78074c5238ef2aa83c1d94c6ecc9e94.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Coach_4_Phone.png/74d442dca30a3181b1ded5c4d15f888e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Cover_Phone.jpg/fe39f4f5cc5ed6b0fb9889568873e241.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/ps4/PacMan_map_bkg.tga.ckd/47669eb5515f3f112a8c9d5b96ad0095.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/nx/PacMan_banner_bkg.tga.ckd/99cb6a8b3575d04b5c6ef3ee26b40363.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/nx/PacMan_Coach_1.tga.ckd/576d685d3919ad7770290e28ce48e97d.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/nx/PacMan_Coach_2.tga.ckd/2e098850c8686e4217dd4319e24f7eeb.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/nx/PacMan_Coach_3.tga.ckd/ffb08732035e7179c7e379ad0dae1dd8.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/nx/PacMan_Coach_4.tga.ckd/aaf5369198177ab1d94b6cbecc932f30.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/nx/PacMan_Cover_Generic.tga.ckd/3a1fd2776717b7f456392eb2bdf72fa3.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Cover_1024.png/75c1f517170a8c32afee5492eb874e5f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/nx/PacMan_Cover_Online.tga.ckd/015dff99c7581afce7b72a3f2dbe2938.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/nx/PacMan_Cover_AlbumBkg.tga.ckd/b060665bbdcf6217e444895d44f61f94.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/nx/PacMan_Cover_AlbumCoach.tga.ckd/c7c4426acb5ab3e41cf7c54d291091fd.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Coach_1_Phone.png/751d61a502608a37f663ea7fa6eefca1.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Coach_2_Phone.png/ce87646858c89200fe47890a2a937ad9.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Coach_3_Phone.png/e78074c5238ef2aa83c1d94c6ecc9e94.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Coach_4_Phone.png/74d442dca30a3181b1ded5c4d15f888e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Cover_Phone.jpg/fe39f4f5cc5ed6b0fb9889568873e241.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/nx/PacMan_map_bkg.tga.ckd/0cfb0ea7709b33f5435d7a3a3216e2e0.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_banner_bkg.jpg/9c55fdda84a0a6f43acd9e6bca98d2c9.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Coach_1.png/01538333616ca5515d5b1572214ac212.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Coach_2.png/679b3d18ac8146146048efd854419fe5.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Coach_3.png/37abfc03d7a911ad4f47be5fab29abdd.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Coach_4.png/041ae1d9b130efe17c357248091e468f.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Cover_Generic.jpg/e005dfd8373037a19ed3840f07b3684f.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Cover_1024.png/75c1f517170a8c32afee5492eb874e5f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Cover_Online.jpg/fe39f4f5cc5ed6b0fb9889568873e241.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Cover_AlbumBkg.jpg/ce234ada2a914b3cdaa74e1a57bc2075.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Cover_AlbumCoach.png/ba8729a6cc3d0d41436b13e2029fbf01.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Coach_1_Phone.png/751d61a502608a37f663ea7fa6eefca1.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Coach_2_Phone.png/ce87646858c89200fe47890a2a937ad9.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Coach_3_Phone.png/e78074c5238ef2aa83c1d94c6ecc9e94.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Coach_4_Phone.png/74d442dca30a3181b1ded5c4d15f888e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_Cover_Phone.jpg/fe39f4f5cc5ed6b0fb9889568873e241.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23040,46080,69120,92160,115200,138240,161280,184320,207360,230400,253440,276480,299520,322560,345601,368641,391681,414721,437761,460801,483841,506881,529921,552961,576001,599041,622081,645121,668161,691201,714242,737282,760322,783362,806402,829442,852482,875522,898562,921602,944642,967682,990722,1013762,1036802,1059843,1082883,1105923,1128963,1152003,1175043,1198083,1221123,1244163,1267203,1290243,1313283,1336323,1359363,1382403,1405443,1428484],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-23,\"endBeat\":302,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/pacman/pacman_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by BANDAI NAMCO. Performed, Produced, Engineered and Mixed by Steve Ouimette. Published by PAC-MAN tm &© BANDAI NAMCO Entertainment Inc. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 153.14,
+  "mapName": "PacMan",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"494195\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PacMan/PacMan_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"591-1080\">\r\n\t\t\t\t\t<Initialization range=\"0-591\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1469648\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PacMan/PacMan_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"592-1082\">\r\n\t\t\t\t\t<Initialization range=\"0-592\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2726160\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PacMan/PacMan_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"592-1082\">\r\n\t\t\t\t\t<Initialization range=\"0-592\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2868012\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PacMan/PacMan_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"592-1082\">\r\n\t\t\t\t\t<Initialization range=\"0-592\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "PacMan_mapContent"
+  },
+  "parentMapName": "PacMan",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "0000DAFF",
+    "songColor_1B": "000013FF",
+    "songColor_2A": "F9E507FF",
+    "songColor_2B": "DBA802FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Pac-Man",
+  "urls": {
+    "jmcs://jd-contents/PacMan/PacMan_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_AudioPreview.ogg/4085d5091f8fc3a311d3d4c041e29647.ogg",
+    "jmcs://jd-contents/PacMan/PacMan_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_MapPreviewNoSoundCrop_HIGH.vp8.webm/8b3a72642e270d2dd4599acbc7ff3d92.webm",
+    "jmcs://jd-contents/PacMan/PacMan_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_MapPreviewNoSoundCrop_HIGH.vp9.webm/04484a1dda4e92b81afe35b0dc85d306.webm",
+    "jmcs://jd-contents/PacMan/PacMan_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_MapPreviewNoSoundCrop_LOW.vp8.webm/2f0d36212f738a9cc950405ffb5a13b5.webm",
+    "jmcs://jd-contents/PacMan/PacMan_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_MapPreviewNoSoundCrop_LOW.vp9.webm/954a382e137340fd9e186df41bca8690.webm",
+    "jmcs://jd-contents/PacMan/PacMan_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_MapPreviewNoSoundCrop_MID.vp8.webm/284c8c42c715934d1aa9f4a8f7480f05.webm",
+    "jmcs://jd-contents/PacMan/PacMan_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_MapPreviewNoSoundCrop_MID.vp9.webm/b0ba7bd131d2166d9012a80119e32efc.webm",
+    "jmcs://jd-contents/PacMan/PacMan_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_MapPreviewNoSoundCrop_ULTRA.vp8.webm/278486e4a65d288dbb51e843c6137287.webm",
+    "jmcs://jd-contents/PacMan/PacMan_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/PacMan/PacMan_MapPreviewNoSoundCrop_ULTRA.vp9.webm/89afdcd8f214d5999fb21464a7660483.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "3364a3d6e37a758189b4fd985d136141",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PacMan/ps4/PacMan_MAIN_SCENE_ORBIS.zip/3364a3d6e37a758189b4fd985d136141.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "18bccf9020fdae6a2f0e2211954daf44",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PacMan/nx/PacMan_MAIN_SCENE_NX.zip/18bccf9020fdae6a2f0e2211954daf44.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "c1785baaaca4cea7c40a7fabd7742ab3",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/pacman_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

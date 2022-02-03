@@ -1,0 +1,92 @@
+{
+  "artist": "Fast Forward Highway",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadAssPrincessKids/BadAssPrincessKids_banner_bkg.jpg/b870780ddf9664c02668e8e93e0453c3.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadAssPrincessKids/BadAssPrincessKids_Coach_1.png/9bce8b189929fe585317ea252ab9e902.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BadAssPrincessKids/BadAssPrincessKids_Cover_Generic.jpg/3f6f46165197241abb3d7a1cdcd2a588.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BadAssPrincessKids/BadAssPrincessKids_Cover_Online.jpg/68df9abd7b94a822e7238c7a7bdb8c30.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadAssPrincessKids/BadAssPrincessKids_Cover_AlbumBkg.jpg/09991777d65eff10530b58f6ee2f1e27.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BadAssPrincessKids/BadAssPrincessKids_Cover_AlbumCoach.png/07f3c480276a1926d907f6167c26c84d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadAssPrincessKids/BadAssPrincessKids_Coach_1_Phone.png/cd5af6fa103fc037d992274101fe57b9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BadAssPrincessKids/BadAssPrincessKids_Cover_Phone.jpg/68df9abd7b94a822e7238c7a7bdb8c30.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadAssPrincessKids/BadAssPrincessKids_banner_bkg.jpg/b870780ddf9664c02668e8e93e0453c3.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadAssPrincessKids/BadAssPrincessKids_Coach_1.png/9bce8b189929fe585317ea252ab9e902.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BadAssPrincessKids/BadAssPrincessKids_Cover_Generic.jpg/3f6f46165197241abb3d7a1cdcd2a588.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BadAssPrincessKids/BadAssPrincessKids_Cover_Online.jpg/68df9abd7b94a822e7238c7a7bdb8c30.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadAssPrincessKids/BadAssPrincessKids_Cover_AlbumBkg.jpg/09991777d65eff10530b58f6ee2f1e27.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BadAssPrincessKids/BadAssPrincessKids_Cover_AlbumCoach.png/07f3c480276a1926d907f6167c26c84d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadAssPrincessKids/BadAssPrincessKids_Coach_1_Phone.png/cd5af6fa103fc037d992274101fe57b9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BadAssPrincessKids/BadAssPrincessKids_Cover_Phone.jpg/68df9abd7b94a822e7238c7a7bdb8c30.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,16000,32000,48000,64000,80000,96000,112000,128000,144000,160000,176000,192000,208000,224000,240000,256000,272000,288000,304000,320000,336000,352000,368000,384000,400000,416000,432000,448000,464000,480000,496000,512000,528000,544000,560000,576000,592000,608000,624000,640000,656000,672000,688000,704000,720000,736000,752000,768000,784000,800000,816000,832000,848000,864000,880000,896000,912000,928000,944000,960000,976000,992000,1008000,1024000,1040000,1056000,1072000,1088000,1104000,1120000,1136000,1152000,1168000,1184000,1200000,1216000,1232000,1248000,1264000,1280000,1296000,1312000,1328000,1344000,1360000,1376000,1392000,1408000,1424000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":245,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":89,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/badassprincesskids/badassprincesskids_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Terry Devine-King and Adam Drake. Published by Audio Network Canada Inc. Courtesy of Audio Network Canada Inc.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "87F431FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 87.083,
+  "mapName": "BadAssPrincessKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496963\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"660-1149\">\r\n\t\t\t\t\t<Initialization range=\"0-660\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481795\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"661-1151\">\r\n\t\t\t\t\t<Initialization range=\"0-661\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2905591\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"661-1151\">\r\n\t\t\t\t\t<Initialization range=\"0-661\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3675364\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"661-1151\">\r\n\t\t\t\t\t<Initialization range=\"0-661\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "BadAssPrincessKids_mapContent"
+  },
+  "parentMapName": "BadAssPrincessKids",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "FFF5B4FF",
+    "songColor_1B": "FFE348FF",
+    "songColor_2A": "6264DEFF",
+    "songColor_2B": "9264D1FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "subscribedSong"
+  ],
+  "title": "Rock 'n Roll Princess",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "53f9126304af7ea7cb9095b75cef8fe2",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/BadAssPrincessKids/ps4/BadAssPrincessKids_MAIN_SCENE_ORBIS.zip/53f9126304af7ea7cb9095b75cef8fe2.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "3b9742cf39bb2c213704d719d89fcf23",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/BadAssPrincessKids/nx/BadAssPrincessKids_MAIN_SCENE_NX.zip/3b9742cf39bb2c213704d719d89fcf23.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "cf4e4a081536e16c48f0b1afbad33b04",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/BadAssPrincessKids/pc/cf4e4a081536e16c48f0b1afbad33b04.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939,
+  "urls": {
+    "jmcs://jd-contents/BadAssPrincessKids/BadAssPrincessKids_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/BadAssPrincessKids/BadAssPrincessKids_AudioPreview.ogg/981f538671791a97d7e3a60cae26fb6c.ogg",
+    "jmcs://jd-contents/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/9513d4c6747540a3ea7d8c1c2c348591.webm",
+    "jmcs://jd-contents/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/ef515ca074ac30f971384fcef5ea5f3f.webm",
+    "jmcs://jd-contents/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_LOW.vp8.webm/a7071a52d89a57d65c2dc67c64357901.webm",
+    "jmcs://jd-contents/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_LOW.vp9.webm/14603501ae3998a8ba4b0e345a3cb420.webm",
+    "jmcs://jd-contents/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_MID.vp8.webm/41b3ec3537eae3808e91f5752273a490.webm",
+    "jmcs://jd-contents/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_MID.vp9.webm/8b68d59c357bdbd9fcb5cb4c79e3e53b.webm",
+    "jmcs://jd-contents/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/bc2ddee3b845748023bb11938c9cc8c0.webm",
+    "jmcs://jd-contents/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BadAssPrincessKids/BadAssPrincessKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/898cc1513e58bdf32136296d4f3c7a3e.webm"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "artist": "Disney's Moana",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/ps4/HowFar_banner_bkg.tga.ckd/e7798e5f9415dd5c1c8dc0213d9c41e7.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/ps4/HowFar_Coach_1.tga.ckd/4e38f7e351c48889efbe28ab72d85d50.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/ps4/HowFar_Cover_Generic.tga.ckd/bbf2e63862453567a9e35ba50bd669fe.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_Cover_1024.png/fb7657cce14750ad15a55cdd634586b2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/ps4/HowFar_Cover_Online.tga.ckd/bb9098e960816090eb247f7ef5c1ffa9.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/ps4/HowFar_Cover_AlbumBkg.tga.ckd/8a0b5b78427fcba260f02dccccd9ac8b.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/ps4/HowFar_Cover_AlbumCoach.tga.ckd/5c769b099fe0802fe379aa4f134cdff4.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_Coach_1_Phone.png/778d1bb25cd111b4b45ada0f8bc80d4a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_Cover_Phone.jpg/8ef6e1ed88195a62b716c919e6e02d66.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_VideoPreview.webm/14b1d2251d7d2b538f0bcbcbe95a5634.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/ps4/HowFar_map_bkg.tga.ckd/1b0492802cbbafe9342d4c1b25b55665.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/nx/HowFar_banner_bkg.tga.ckd/d45981c37d6d99e50e9fbcd42323e706.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/nx/HowFar_Coach_1.tga.ckd/4d182ff3974a4d60b55269ab22df3b8b.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/nx/HowFar_Cover_Generic.tga.ckd/defdd7f5c6368a69fbd08d4dab2df8ca.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_Cover_1024.png/fb7657cce14750ad15a55cdd634586b2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/nx/HowFar_Cover_Online.tga.ckd/5d4121da5b888fac789500b47239ccc9.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/nx/HowFar_Cover_AlbumBkg.tga.ckd/7870563e83ed469471fc97d1758627d1.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/nx/HowFar_Cover_AlbumCoach.tga.ckd/3fc3236bc14a1080f100915bb11d0922.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_Coach_1_Phone.png/778d1bb25cd111b4b45ada0f8bc80d4a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_Cover_Phone.jpg/8ef6e1ed88195a62b716c919e6e02d66.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_VideoPreview.webm/14b1d2251d7d2b538f0bcbcbe95a5634.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/nx/HowFar_map_bkg.tga.ckd/81ce42102512c96d25a72411e25c3035.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/wiiu/HowFar_banner_bkg.tga.ckd/d2853a7da7cc89b8ed54c0db83550155.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/wiiu/HowFar_Coach_1.tga.ckd/474c22008a33e7a1178e44208d4c151d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/wiiu/HowFar_Cover_Generic.tga.ckd/c5aa8600c1daf6d2d600dd434a655fe9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_Cover_1024.png/fb7657cce14750ad15a55cdd634586b2.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/wiiu/HowFar_Cover_Online.tga.ckd/c921964d8567a8d4f108706c1b3d768d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/wiiu/HowFar_Cover_AlbumBkg.tga.ckd/31585f9deacd3baaf2a1853deb0e1076.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/wiiu/HowFar_Cover_AlbumCoach.tga.ckd/2db7f26903095c62fcf64dc5b4dbf323.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_Coach_1_Phone.png/778d1bb25cd111b4b45ada0f8bc80d4a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_Cover_Phone.jpg/8ef6e1ed88195a62b716c919e6e02d66.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_VideoPreview.webm/14b1d2251d7d2b538f0bcbcbe95a5634.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,34320,68592,102864,137184,171456,205728,240000,274320,308592,342864,377184,411457,445729,480001,514321,548593,582865,617185,651457,685729,720001,754321,788593,822865,857185,891457,925729,960001,994322,1028594,1062866,1097186,1131458,1165730,1200002,1234322,1268594,1302866,1337186,1371458,1405730],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":226,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":41,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/howfar/howfar_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Lin-Manuel Miranda. Published by Walt Disney Music Company (ASCAP). Courtesy of Walt Disney Records @ 2016. Moana animation assets courtesy of Walt Disney Animation Studios. Moana logo property of The Walt Disney Company. All rights reserved. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "00C0FEFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 169.476,
+  "mapName": "HowFar",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"492581\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HowFar/HowFar_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1107\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478377\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HowFar/HowFar_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2912170\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HowFar/HowFar_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4230544\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HowFar/HowFar_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "HowFar_mapContent"
+  },
+  "parentMapName": "HowFar",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "F9A931FF",
+    "songColor_1B": "A0211BFF",
+    "songColor_2A": "009DFFFF",
+    "songColor_2B": "0A28ADFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "JD19_KIDScompatible",
+    "CnUnlimited2018"
+  ],
+  "title": "How Far I'll Go",
+  "urls": {
+    "jmcs://jd-contents/HowFar/HowFar_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_AudioPreview.ogg/a5f1a2339c5f32d23e1d1ece99af746f.ogg",
+    "jmcs://jd-contents/HowFar/HowFar_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_MapPreviewNoSoundCrop_HIGH.vp8.webm/6996121749a456a449b4c4ebb85ddc54.webm",
+    "jmcs://jd-contents/HowFar/HowFar_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_MapPreviewNoSoundCrop_HIGH.vp9.webm/652ed21a812e2c81fc985e1ef486d3c6.webm",
+    "jmcs://jd-contents/HowFar/HowFar_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_MapPreviewNoSoundCrop_LOW.vp8.webm/f626781e3ee650123243310082fe0131.webm",
+    "jmcs://jd-contents/HowFar/HowFar_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_MapPreviewNoSoundCrop_LOW.vp9.webm/e826517ee8711d275ea616a029b7f9eb.webm",
+    "jmcs://jd-contents/HowFar/HowFar_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_MapPreviewNoSoundCrop_MID.vp8.webm/b298a3ed4062ec6d916edd804b37621a.webm",
+    "jmcs://jd-contents/HowFar/HowFar_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_MapPreviewNoSoundCrop_MID.vp9.webm/0fa93a646a16f1e49ca50db90769b2ce.webm",
+    "jmcs://jd-contents/HowFar/HowFar_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_MapPreviewNoSoundCrop_ULTRA.vp8.webm/9bdbb6373284b26ffb18b838dd3731ce.webm",
+    "jmcs://jd-contents/HowFar/HowFar_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/HowFar/HowFar_MapPreviewNoSoundCrop_ULTRA.vp9.webm/486b5ffd1e44d26c7c8d0f7bd3cd2be6.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "52f5b7232ffcd10c0fe031d58171cf30",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HowFar/ps4/HowFar_MAIN_SCENE_ORBIS.zip/52f5b7232ffcd10c0fe031d58171cf30.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "869e4067e969ef37e08f10504ac49f38",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HowFar/nx/HowFar_MAIN_SCENE_NX.zip/869e4067e969ef37e08f10504ac49f38.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "445bbd80b5cccdde3c27a3943adff048",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/HowFar/pc/445bbd80b5cccdde3c27a3943adff048.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "29153c56bc213237ece69517f08f70ff",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HowFar/wiiu/HowFar_MAIN_SCENE_WIIU.zip/29153c56bc213237ece69517f08f70ff.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

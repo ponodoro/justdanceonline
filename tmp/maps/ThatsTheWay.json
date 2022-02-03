@@ -1,0 +1,111 @@
+{
+  "artist": "KC & The Sunshine Band",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_banner_bkg.jpg/cb08e19cfad64e7db978384be5ca79b1.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Coach_1.png/c6a927173f7f91f725a6b373080b85d6.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Cover_Generic.jpg/e9394c4fdf66d1143ae32a588da98fca.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Cover_1024.png/3df2e7f04c166fa6d1a2efe8b55d76f7.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Cover_Online.jpg/784f2ed3ffc9b2718fabdfc2c3d93ed8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Cover_AlbumBkg.jpg/41fcc37cc56e7b327aee400c6729b054.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Cover_AlbumCoach.png/22eaa0d8778b2dbe79dcc5b1984a15d0.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Coach_1_Phone.png/1a4f2cfffb0ee6ec6d92bc9aa264ec4c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Cover_Phone.jpg/784f2ed3ffc9b2718fabdfc2c3d93ed8.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_banner_bkg.jpg/cb08e19cfad64e7db978384be5ca79b1.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Coach_1.png/c6a927173f7f91f725a6b373080b85d6.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Cover_Generic.jpg/e9394c4fdf66d1143ae32a588da98fca.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Cover_1024.png/3df2e7f04c166fa6d1a2efe8b55d76f7.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Cover_Online.jpg/784f2ed3ffc9b2718fabdfc2c3d93ed8.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Cover_AlbumBkg.jpg/41fcc37cc56e7b327aee400c6729b054.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Cover_AlbumCoach.png/22eaa0d8778b2dbe79dcc5b1984a15d0.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Coach_1_Phone.png/1a4f2cfffb0ee6ec6d92bc9aa264ec4c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Cover_Phone.jpg/784f2ed3ffc9b2718fabdfc2c3d93ed8.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/wiiu/ThatsTheWay_banner_bkg.tga.ckd/809344e1c17e70d2b3587a033bf556c6.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/wiiu/ThatsTheWay_Coach_1.tga.ckd/1b363e5ad7d69278c18d83c5f815380e.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/wiiu/ThatsTheWay_Cover_Generic.tga.ckd/2bde8167afaa486964fdefb6020a919d.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Cover_1024.png/3df2e7f04c166fa6d1a2efe8b55d76f7.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/wiiu/ThatsTheWay_Cover_Online.tga.ckd/0dc84538e22d192b3aac8dca0b0bbf32.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/wiiu/ThatsTheWay_Cover_AlbumBkg.tga.ckd/818420ffc65b160859096d834b06ca46.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/wiiu/ThatsTheWay_Cover_AlbumCoach.tga.ckd/13a5f2ab71444a8b75d1fc710b91b273.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Coach_1_Phone.png/1a4f2cfffb0ee6ec6d92bc9aa264ec4c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_Cover_Phone.jpg/784f2ed3ffc9b2718fabdfc2c3d93ed8.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27285,53706,80128,106549,132972,159393,186608,213029,239451,265872,293255,319676,346099,373287,399709,426130,452895,479190,505829,532275,559104,585525,611948,639016,665871,692268,719410,745832,772254,798676,825097,851520,877941,904364,930784,957207,983198,1009475,1035896,1062318,1088740,1114587,1141008,1167431,1193851,1219264,1245447,1271460,1297881,1324304,1350420,1376499,1402921,1428623],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":338,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":54,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/thatstheway/thatstheway_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "C9078FFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 186.19199999999998,
+  "mapName": "ThatsTheWay",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496894\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478036\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2817724\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2873486\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 1,
+  "packages": {
+    "mapContent": "ThatsTheWay_mapContent"
+  },
+  "parentMapName": "ThatsTheWay",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "F3A200FF",
+    "songColor_1B": "650000FF",
+    "songColor_2A": "D735FFFF",
+    "songColor_2B": "290065FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "That's The Way (I Like It)",
+  "urls": {
+    "jmcs://jd-contents/ThatsTheWay/ThatsTheWay_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_AudioPreview.ogg/0a07f8c2c0877ceed1749447816ea441.ogg",
+    "jmcs://jd-contents/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_HIGH.vp8.webm/2b0e472bc8a6b32a6a2088516ffbc781.webm",
+    "jmcs://jd-contents/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_HIGH.vp9.webm/c2ba6d72be6c5d8344dbbe1bdb9c0879.webm",
+    "jmcs://jd-contents/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_LOW.vp8.webm/b9ace772e0062bcbaeb0ed5252e18144.webm",
+    "jmcs://jd-contents/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_LOW.vp9.webm/23bc3a8d874ed20b845809642be061f8.webm",
+    "jmcs://jd-contents/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_MID.vp8.webm/0f646af40e0011abb01d1d681ac15596.webm",
+    "jmcs://jd-contents/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_MID.vp9.webm/15bab8764c1da18c4530fcf87a9b93ea.webm",
+    "jmcs://jd-contents/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_ULTRA.vp8.webm/4aba66b0c45816597d7f93510e115c7a.webm",
+    "jmcs://jd-contents/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ThatsTheWay_MapPreviewNoSoundCrop_ULTRA.vp9.webm/4bdb15979a306302d0b22bcd5ff27963.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "5ed6505ccf9a6281a05c06c21fd8df52",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/ps4/ThatsTheWay_MAIN_SCENE_ORBIS.zip/5ed6505ccf9a6281a05c06c21fd8df52.zip",
+      "version": 8
+    },
+    "pc": {
+      "md5": "198ca0ea6438a7946423b28c754a542f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/pc/ThatsTheWay_MAIN_SCENE_PC.zip/198ca0ea6438a7946423b28c754a542f.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "19bd734d182aaac768cd5994b66bec67",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/wiiu/ThatsTheWay_MAIN_SCENE_WIIU.zip/19bd734d182aaac768cd5994b66bec67.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "90d4366654f7937570bdd350e8308e57",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ThatsTheWay/nx/ThatsTheWay_MAIN_SCENE_NX.zip/90d4366654f7937570bdd350e8308e57.zip",
+      "version": 7
+    }
+  },
+  "mapType": "jdu"
+}

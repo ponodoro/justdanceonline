@@ -1,0 +1,100 @@
+{
+  "artist": "Olly Murs Ft. Flo Rida",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/ggp/Troublemaker_banner_bkg.tga.ckd/a3550c1bd498c3544d0601dbd62290b1.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/ggp/Troublemaker_Coach_1.tga.ckd/cd6d620a1294057ca084b67e23b26aef.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/ggp/Troublemaker_Cover_Generic.tga.ckd/079016133e1f466945c97e9d759ff82b.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/ggp/Troublemaker_Cover_Online.tga.ckd/079016133e1f466945c97e9d759ff82b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/ggp/Troublemaker_Cover_AlbumBkg.tga.ckd/dddffe2eadfe4400d5db6b42547ecf66.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/ggp/Troublemaker_Cover_AlbumCoach.tga.ckd/58ba204ed2ec5f42cb6e6d6162714de1.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/Troublemaker_Coach_1_Phone.png/dbaeac9a5c8f6f00aed0509c1f1d9467.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/Troublemaker_Cover_Phone.jpg/c86ee86bef66fe9df58122a51623955f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Troublemaker/Troublemaker_VideoPreview.webm/daab170d654cee98b5401fa9bed2aed8.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/ggp/Troublemaker_map_bkg.tga.ckd/3db181f7afce126473e6dfb59a0808fd.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/nx/Troublemaker_banner_bkg.tga.ckd/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/nx/Troublemaker_Coach_1.tga.ckd/62fbfbfef1e2296df0e014c1248d64d1.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/nx/Troublemaker_Cover_Generic.tga.ckd/f7c00c1be325d4a21fb721a79665d0a1.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/nx/Troublemaker_Cover_Online.tga.ckd/e2488f10bf7ffe47c20695c41cf257a1.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/nx/Troublemaker_Cover_AlbumBkg.tga.ckd/27f7e4704dc6fd9ef60a76503f08c225.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/nx/Troublemaker_Cover_AlbumCoach.tga.ckd/48528a940fe042e02ee3d2c33ee921f7.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/nx/Troublemaker_map_bkg.tga.ckd/9a955b93528104d561d9d5acf6624c29.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/Troublemaker_Coach_1_Phone.png/dbaeac9a5c8f6f00aed0509c1f1d9467.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Troublemaker/Troublemaker_Cover_Phone.jpg/c86ee86bef66fe9df58122a51623955f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Troublemaker/Troublemaker_VideoPreview.webm/daab170d654cee98b5401fa9bed2aed8.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27168,54336,81504,108672,135840,163008,190176,217344,244513,271681,298849,326017,353185,380353,407521,434689,461857,489025,516193,543361,570529,597697,624865,652033,679250,706418,733586,760754,787922,815090,842258,869426,896594,923762,950930,978098,1005266,1032434,1059602,1086771,1113939,1141107,1168275,1195443,1222611,1249779,1276947,1304115,1331283,1358451,1385667,1412835],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":2,\"endBeat\":329,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":52,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/troublemaker/troublemaker_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "DB5930FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 185.094,
+  "mapName": "Troublemaker",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496858\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"609-1098\">\r\n\t\t\t\t\t<Initialization range=\"0-609\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1440659\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"610-1100\">\r\n\t\t\t\t\t<Initialization range=\"0-610\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2124044\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"610-1100\">\r\n\t\t\t\t\t<Initialization range=\"0-610\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2181263\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"610-1100\">\r\n\t\t\t\t\t<Initialization range=\"0-610\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "Troublemaker_mapContent"
+  },
+  "parentMapName": "Troublemaker",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "263D46FF",
+    "songColor_1B": "929B9EFF",
+    "songColor_2A": "741E40FF",
+    "songColor_2B": "E4DBE2FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Troublemaker",
+  "urls": {
+    "jmcs://jd-contents/Troublemaker/Troublemaker_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Troublemaker/Troublemaker_AudioPreview.ogg/0ed477bdc992dcfdc672ff6b31eff731.ogg",
+    "jmcs://jd-contents/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_HIGH.vp8.webm/ae588a51e0a0914d243d8b2999418d1e.webm",
+    "jmcs://jd-contents/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_HIGH.vp9.webm/4552cc045bf0254ff53c5e634c6f5f93.webm",
+    "jmcs://jd-contents/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_LOW.vp8.webm/d1c4ddab7b4306e5d5078de14a6e2525.webm",
+    "jmcs://jd-contents/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_LOW.vp9.webm/f66f1067576da14de8f3519353bb59cf.webm",
+    "jmcs://jd-contents/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_MID.vp8.webm/18930e4639e9d5d34ad8fab12c07529e.webm",
+    "jmcs://jd-contents/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_MID.vp9.webm/d2efa5ccd1bd5dc4dbb9823fc4079637.webm",
+    "jmcs://jd-contents/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b3fbbb15f9448157516a823fb2ecad03.webm",
+    "jmcs://jd-contents/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_ULTRA.vp9.webm/43101a088759ceba9e07c2ef83ddea7a.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "8791ba03203c8c5d5a69b7a8f5ff107b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Troublemaker/ps4/Troublemaker_MAIN_SCENE_ORBIS.zip/8791ba03203c8c5d5a69b7a8f5ff107b.zip",
+      "version": 29
+    },
+    "pc": {
+      "md5": "78444e948079ad00d9402277ab683672",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Troublemaker/pc/Troublemaker_MAIN_SCENE_PC.zip/78444e948079ad00d9402277ab683672.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "",
+      "version": 0
+    },
+    "nx": {
+      "md5": "d1c66fa426c8d6194ccb0f88834e72c7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Troublemaker/nx/Troublemaker_MAIN_SCENE_NX.zip/d1c66fa426c8d6194ccb0f88834e72c7.zip",
+      "version": 29
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,91 @@
+{
+  "artist": "The Girly Team",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_banner_bkg.jpg/20f057508fd6668dd236a447e8e02a2e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_Coach_1.png/143f1b14c87fbeb73e1b23e6eb304ef8.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_Cover_Generic.jpg/ced631874a8c1e672b28770613a9400c.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_Cover_Online.jpg/2df085970d5e9ecf58d8b0481d30813e.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_Cover_AlbumBkg.jpg/2ccba6150ebb7db3a1ce27dd8b00f918.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_Cover_AlbumCoach.png/40e25e83491a1d0bdf935237956e1e94.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_Coach_1_Phone.png/fe0adc6195a4375c334c4117eb068be5.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_Cover_Phone.jpg/2df085970d5e9ecf58d8b0481d30813e.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_banner_bkg.jpg/20f057508fd6668dd236a447e8e02a2e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_Coach_1.png/143f1b14c87fbeb73e1b23e6eb304ef8.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_Cover_Generic.jpg/ced631874a8c1e672b28770613a9400c.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_Cover_Online.jpg/2df085970d5e9ecf58d8b0481d30813e.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_Cover_AlbumBkg.jpg/2ccba6150ebb7db3a1ce27dd8b00f918.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_Cover_AlbumCoach.png/40e25e83491a1d0bdf935237956e1e94.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_Coach_1_Phone.png/fe0adc6195a4375c334c4117eb068be5.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_Cover_Phone.jpg/2df085970d5e9ecf58d8b0481d30813e.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21818,43636,65455,87273,109091,130909,152727,174546,196364,218182,240000,261818,283636,305455,327273,349091,370909,392727,414546,436364,458182,480000,501818,523636,545455,567273,589091,610909,632727,654546,676364,698182,720000,741818,763636,785455,807273,829091,850909,872727,894546,916364,938182,960000,981818,1003636,1025455,1047273,1069091,1090909,1112727,1134546,1156364,1178182,1200000,1221818,1243636,1265455,1287273,1309091,1330909,1352727,1374546,1396364,1418182],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":453,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/tilltheworldendsalt/tilltheworldendsalt_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Lukasz Gottwald, Alexander Erik Kronlund, Max Martin and Kesha Sebert. Published by WARNER CHAPPELL MUSIC SCANDINAVIA AB (STIM). All rights on behalf of WARNER CHAPPELL MUSIC SCANDINAVIA AB administered by WC Music Corp. / Where Da Kasz At (BMI) / Kasz Money Publishing (ASCAP) / Dynamite Cop Music (BMI) / MXM Music AB (ASCAP). Administered by Kobalt Music Publishing America, Inc. Produced, engineered, programmed and mixed by Steve Ouimette. Programming and synthesis by Cat Gray. Additional synth programming by Blake Earnhart. Vocals – Windy Wagner. Background vocals – Connor Smith. Courtesy of Ubisoft Music.",
+  "difficulty": 4,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF2E3FFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 207.72799999999998,
+  "mapName": "TillTheWorldEndsALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495230\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"664-1153\">\r\n\t\t\t\t\t<Initialization range=\"0-664\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1468291\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"665-1155\">\r\n\t\t\t\t\t<Initialization range=\"0-665\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2905150\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"665-1155\">\r\n\t\t\t\t\t<Initialization range=\"0-665\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5555018\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"665-1162\">\r\n\t\t\t\t\t<Initialization range=\"0-665\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "TillTheWorldEndsALT_mapContent"
+  },
+  "parentMapName": "TillTheWorldEnds",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "0093BDFF",
+    "songColor_1B": "00106FFF",
+    "songColor_2A": "DD33F1FF",
+    "songColor_2B": "3F0070FF"
+  },
+  "status": 12,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Alternate",
+    "subscribedSong"
+  ],
+  "title": "Till The World Ends",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "51a8db1e43fd9364417127d31d5a70e9",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEndsALT/ps4/TillTheWorldEndsALT_MAIN_SCENE_ORBIS.zip/51a8db1e43fd9364417127d31d5a70e9.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "502813008b38d04d4946cb1f3b72d589",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEndsALT/nx/TillTheWorldEndsALT_MAIN_SCENE_NX.zip/502813008b38d04d4946cb1f3b72d589.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "9c733979c55311acc4345cd63183cf44",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/TillTheWorldEndsALT/pc/9c733979c55311acc4345cd63183cf44.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12624,
+  "urls": {
+    "jmcs://jd-contents/TillTheWorldEndsALT/TillTheWorldEndsALT_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_AudioPreview.ogg/f3e300c662d077702a382cf8fab8635d.ogg",
+    "jmcs://jd-contents/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/62be8174df89c68290280a7b3e7676e0.webm",
+    "jmcs://jd-contents/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/c4f4eeeb2fd1af12bcf1c6b8b6104f2a.webm",
+    "jmcs://jd-contents/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_LOW.vp8.webm/a031172a3620f5151c1da1ce159ae3a9.webm",
+    "jmcs://jd-contents/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_LOW.vp9.webm/23ca7f13c79c5e6cf543b58b3135c92a.webm",
+    "jmcs://jd-contents/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_MID.vp8.webm/3b073a3eed3e496c1731cf0c432b846c.webm",
+    "jmcs://jd-contents/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_MID.vp9.webm/6e0c56cbb64461d878794e12781773e4.webm",
+    "jmcs://jd-contents/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/bac25eb5a8c31322be9974c3a7560b45.webm",
+    "jmcs://jd-contents/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEndsALT/TillTheWorldEndsALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/ab59f46f754916b87e280ace190f539f.webm"
+  }
+}

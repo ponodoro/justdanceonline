@@ -1,0 +1,102 @@
+{
+  "artist": "NCT 127",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Coach_1.png/0394c39a4ab1a7b8b304d6e39f1e79a2.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Coach_2.png/bb4b9ee4a691cadf78fae88b9053678b.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Coach_3.png/273bcc5bfcf16e14c9374354532b3248.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Coach_4.png/00df4fa6a2c93f77297ecf5d6b4e6e59.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Cover_Generic.jpg/0ca72b740229702c0da35e90836b1d0a.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Cover_Online.jpg/b1f1752e57855d32727641475076b5ce.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Cover_AlbumBkg.jpg/9c9e60f1f4ccb607adab3722ceaebc6e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Cover_AlbumCoach.png/f9c47a530c3dd4067f692e0dae1c49fa.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Coach_1_Phone.png/137ed871129bebad3cdfac28c194c2e7.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Coach_2_Phone.png/51dc19d0798cee24a78b0bbea47fb05c.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Coach_3_Phone.png/8bb3a33b2eea892a22c5b197cb9b66bf.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Coach_4_Phone.png/8bea49fe89d7755af7c4db525e1d595e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Cover_Phone.jpg/b1f1752e57855d32727641475076b5ce.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Coach_1.png/0394c39a4ab1a7b8b304d6e39f1e79a2.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Coach_2.png/bb4b9ee4a691cadf78fae88b9053678b.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Coach_3.png/273bcc5bfcf16e14c9374354532b3248.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Coach_4.png/00df4fa6a2c93f77297ecf5d6b4e6e59.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Cover_Generic.jpg/0ca72b740229702c0da35e90836b1d0a.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Cover_Online.jpg/b1f1752e57855d32727641475076b5ce.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Cover_AlbumBkg.jpg/9c9e60f1f4ccb607adab3722ceaebc6e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Cover_AlbumCoach.png/f9c47a530c3dd4067f692e0dae1c49fa.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Coach_1_Phone.png/137ed871129bebad3cdfac28c194c2e7.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Coach_2_Phone.png/51dc19d0798cee24a78b0bbea47fb05c.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Coach_3_Phone.png/8bb3a33b2eea892a22c5b197cb9b66bf.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Coach_4_Phone.png/8bea49fe89d7755af7c4db525e1d595e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KickIt/KickIt_Cover_Phone.jpg/b1f1752e57855d32727641475076b5ce.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,34491,68982,103473,137964,172455,206946,241437,275928,310419,344910,379401,413892,448383,482874,517365,551856,586347,620838,655329,689820,724311,758802,793293,827784,862275,896766,931257,965748,1000239,1034730,1069221,1103712,1138203,1172694,1207185,1241676,1276167,1310658,1345149,1379640,1414131],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":301,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":41,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/kickit/kickit_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Wutan, Rick Bridges and danke Published by Peermusic Ltd. / Warner/Chappell Music Publishing / Kobalt Music Publishing America, Inc. / Sony/ATV Music Publishing. All rights reserved. Used with permission. Courtesy of SM Entertainment/ Caroline Records under license from Universal Music Enterprises.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "29FDFFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 217.724,
+  "mapName": "KickIt",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"492859\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KickIt/KickIt_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1409941\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KickIt/KickIt_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2110250\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KickIt/KickIt_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2112307\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KickIt/KickIt_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "KickIt_mapContent"
+  },
+  "parentMapName": "KickIt",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "DC557EFF",
+    "songColor_1B": "34DE70FF",
+    "songColor_2A": "111014FF",
+    "songColor_2B": "6D195EFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Kick It",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "58703c200998def43c50413bfec6a2b9",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/KickIt/ps4/KickIt_MAIN_SCENE_ORBIS.zip/58703c200998def43c50413bfec6a2b9.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "82885cf13de1defe9a32fcccf355d5a0",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/KickIt/nx/KickIt_MAIN_SCENE_NX.zip/82885cf13de1defe9a32fcccf355d5a0.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "beb92c08405fe234580cb5cb3fddf426",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/KickIt/pc/beb92c08405fe234580cb5cb3fddf426.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/KickIt/KickIt_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/KickIt/KickIt_AudioPreview.ogg/858a14026ea5e9f350267f16ebe6e589.ogg",
+    "jmcs://jd-contents/KickIt/KickIt_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/KickIt/KickIt_MapPreviewNoSoundCrop_HIGH.vp8.webm/9833f443cf37019aafb5d5ffad922393.webm",
+    "jmcs://jd-contents/KickIt/KickIt_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/KickIt/KickIt_MapPreviewNoSoundCrop_HIGH.vp9.webm/aab9fc0bb4fd2a5836f3d2426c3e2a8e.webm",
+    "jmcs://jd-contents/KickIt/KickIt_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/KickIt/KickIt_MapPreviewNoSoundCrop_LOW.vp8.webm/498e3a29af09cda0a6b33affc6504785.webm",
+    "jmcs://jd-contents/KickIt/KickIt_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/KickIt/KickIt_MapPreviewNoSoundCrop_LOW.vp9.webm/e67022bd49c83687b6a9d9c3e612413f.webm",
+    "jmcs://jd-contents/KickIt/KickIt_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/KickIt/KickIt_MapPreviewNoSoundCrop_MID.vp8.webm/7023a58ba970722fd1faeac135925d1b.webm",
+    "jmcs://jd-contents/KickIt/KickIt_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/KickIt/KickIt_MapPreviewNoSoundCrop_MID.vp9.webm/78c6d56c3268ff19d1821b27a0ee6def.webm",
+    "jmcs://jd-contents/KickIt/KickIt_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/KickIt/KickIt_MapPreviewNoSoundCrop_ULTRA.vp8.webm/07ed05621d42b9ae909d4d47f27f7393.webm",
+    "jmcs://jd-contents/KickIt/KickIt_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/KickIt/KickIt_MapPreviewNoSoundCrop_ULTRA.vp9.webm/d64107cb2e3ad73bbd618660b4df3ea4.webm"
+  }
+}

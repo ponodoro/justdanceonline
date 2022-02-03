@@ -1,0 +1,133 @@
+{
+  "artist": "The Bouzouki's",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_banner_bkg.jpg/cc363c1557528742a04e342aba5d6533.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Coach_1.png/4bf4f10eddb51cf7d6e7e4ff507459a4.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Coach_2.png/eec350b9385021af6a730b292c2b86b5.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Coach_3.png/63a984f776e624dba5c7a6c82e779417.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Cover_Generic.jpg/e9fed73f6b78b990841959192449be9a.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Cover_1024.png/bb4fa33195b6e637d8dbd4ad34f6810f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Cover_Online.jpg/380ff685c217f276f576a09dee8ce6d7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Cover_AlbumBkg.jpg/7056f62cc209232893c003cc0b2d35f2.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Cover_AlbumCoach.png/028987f47190048978dd9cdaa6c7f81f.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Coach_1_Phone.png/b2daa51f1075160a84576fd16028d18a.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Coach_2_Phone.png/38ba5e95b692910fc59e3f86b27e0fa9.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Coach_3_Phone.png/5e59302a48e9b2387a8d90a7a05a5ea7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Cover_Phone.jpg/380ff685c217f276f576a09dee8ce6d7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_VideoPreview.webm/c5e38a41fb91a8caf5fc77b2467b19c9.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_banner_bkg.jpg/cc363c1557528742a04e342aba5d6533.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Coach_1.png/4bf4f10eddb51cf7d6e7e4ff507459a4.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Coach_2.png/eec350b9385021af6a730b292c2b86b5.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Coach_3.png/63a984f776e624dba5c7a6c82e779417.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Cover_Generic.jpg/e9fed73f6b78b990841959192449be9a.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Cover_1024.png/bb4fa33195b6e637d8dbd4ad34f6810f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Cover_Online.jpg/380ff685c217f276f576a09dee8ce6d7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Cover_AlbumBkg.jpg/7056f62cc209232893c003cc0b2d35f2.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Cover_AlbumCoach.png/028987f47190048978dd9cdaa6c7f81f.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Coach_1_Phone.png/b2daa51f1075160a84576fd16028d18a.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Coach_2_Phone.png/38ba5e95b692910fc59e3f86b27e0fa9.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Coach_3_Phone.png/5e59302a48e9b2387a8d90a7a05a5ea7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Cover_Phone.jpg/380ff685c217f276f576a09dee8ce6d7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_VideoPreview.webm/c5e38a41fb91a8caf5fc77b2467b19c9.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/wiiu/Sirtaki_banner_bkg.tga.ckd/290f71a43d612fc27835ce4d8223d522.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/wiiu/Sirtaki_Coach_1.tga.ckd/213776149a4c3b715c16e82f674e698b.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/wiiu/Sirtaki_Coach_2.tga.ckd/4971599b387d9934d30849a82454910a.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/wiiu/Sirtaki_Coach_3.tga.ckd/e3f44277128f43739e543a5b84b0e38e.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/wiiu/Sirtaki_Cover_Generic.tga.ckd/5be9b70b19732f0751e4e9d1a37baed0.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Cover_1024.png/bb4fa33195b6e637d8dbd4ad34f6810f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/wiiu/Sirtaki_Cover_Online.tga.ckd/aa110c14ab844dad52f8b935bcbcc3dd.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/wiiu/Sirtaki_Cover_AlbumBkg.tga.ckd/ac3f542706cc18cfda6b1c8f342178b8.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/wiiu/Sirtaki_Cover_AlbumCoach.tga.ckd/749a0eeb5f9e60a80dceff0768f11993.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Coach_1_Phone.png/b2daa51f1075160a84576fd16028d18a.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Coach_2_Phone.png/38ba5e95b692910fc59e3f86b27e0fa9.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Coach_3_Phone.png/5e59302a48e9b2387a8d90a7a05a5ea7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_Cover_Phone.jpg/380ff685c217f276f576a09dee8ce6d7.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_VideoPreview.webm/c5e38a41fb91a8caf5fc77b2467b19c9.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,18576,37104,55680,74208,92784,111360,129888,148464,166992,185568,204096,222672,241248,259776,278352,296880,315456,333984,352560,371136,389664,408240,426768,445344,463920,482544,501120,519696,538320,556896,575472,594096,612672,631296,649872,668447,687071,705647,724223,742847,761423,780047,798623,817199,835823,854399,872975,891599,910175,928751,947327,965903,984479,1003055,1021631,1040207,1058831,1077407,1095983,1114559,1133135,1151711,1170287,1188863,1207439,1226015,1244591,1263167,1281791,1300367,1318943,1337518,1356094,1374670,1393246,1411822,1430398],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":340,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":77,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/sirtaki/sirtaki_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Composed and Produced by Steve Ouimette. Engineering: Steve Ouimette, Cat Gray. Mix: Rob Beaton, Steve Ouimette. Percussion: Cat Gray. Bouzouki, bass, guitars: Steve Ouimette. Music supervision: Alkis Argyriadis, Manu Bachet. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": -1,
+  "mainCoach": -1,
+  "mapLength": 173.333,
+  "mapName": "Sirtaki",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495906\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481912\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2939620\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4503866\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "Sirtaki_mapContent"
+  },
+  "parentMapName": "Sirtaki",
+  "skuIds": [
+    "jd2016-ps4-scea",
+    "jd2016-ps4-scee",
+    "jd2016-wiiu-noa",
+    "jd2016-wiiu-noe",
+    "jd2016-xone-emea",
+    "jd2016-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "BCA001FF",
+    "songColor_1B": "6D3001FF",
+    "songColor_2A": "39C6F9FF",
+    "songColor_2B": "013896FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Extreme",
+    "Main",
+    "Uplay2016",
+    "subscribedSong"
+  ],
+  "title": "Epic Sirtaki",
+  "urls": {
+    "jmcs://jd-contents/Sirtaki/Sirtaki_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_AudioPreview.ogg/6fad56e3bb1f7a1dff3647023119aff4.ogg",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_HIGH.vp8.webm/83eafcb9ca03c9cac20f8446be5a8560.webm",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_HIGH.vp9.webm/2b58d9b4e8645a3b0bb10da4d8b00e25.webm",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_LOW.vp8.webm/190e11eeea3895a548bf3690d5144a76.webm",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_LOW.vp9.webm/acec3db2b0cb95bc9099b446d2603f17.webm",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_MID.vp8.webm/77088ffc3bd67412aa854d59504f3853.webm",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_MID.vp9.webm/ba39a3e9046d0568890b51ef7041c080.webm",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_ULTRA.vp8.webm/80402e53656d8aa050f67e0c22f6381f.webm",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_ULTRA.vp9.webm/8bca68d51d27ab4b2a9a6e14b7759d46.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "652ed6e2aa8f79f32570b6e144deac3a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Sirtaki/ps4/Sirtaki_MAIN_SCENE_ORBIS.zip/652ed6e2aa8f79f32570b6e144deac3a.zip",
+      "version": 14
+    },
+    "nx": {
+      "md5": "bbfbafd39c072892a50a49679ee85b0a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Sirtaki/nx/Sirtaki_MAIN_SCENE_NX.zip/bbfbafd39c072892a50a49679ee85b0a.zip",
+      "version": 8
+    },
+    "pc": {
+      "md5": "e087c8f9415484fff4f35f05e79d1e27",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Sirtaki/pc/Sirtaki_MAIN_SCENE_PC.zip/e087c8f9415484fff4f35f05e79d1e27.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "c08c49fdf8d80ca0b11604497ba6f855",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Sirtaki/wiiu/Sirtaki_MAIN_SCENE_WIIU.zip/c08c49fdf8d80ca0b11604497ba6f855.zip",
+      "version": 14
+    }
+  },
+  "mapType": "jdu"
+}

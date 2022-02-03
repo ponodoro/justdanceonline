@@ -1,0 +1,100 @@
+{
+  "artist": "Studio Musicians",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/ps4/JungleBoogie_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/ps4/JungleBoogie_Coach_1.tga.ckd/965c1ecb1137dc434ac071391539f2b6.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/ps4/JungleBoogie_Cover_Generic.tga.ckd/3c5f007a3d8248de62a447ba9179dfa7.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/ps4/JungleBoogie_Cover_Online.tga.ckd/bdb06f3cac70a791ee2ab462e3473457.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/ps4/JungleBoogie_Cover_AlbumBkg.tga.ckd/fd1160efd53cc6d2e114e37187573526.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/ps4/JungleBoogie_Cover_AlbumCoach.tga.ckd/a6c0f9734e253baa9641457ae75a95cb.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/JungleBoogie_Coach_1_Phone.png/f0447bd8e19c9e7005a84814fa179263.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/JungleBoogie_Cover_Phone.jpg/571127a7f31ad12f0c4e9893e90f47f9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/JungleBoogie/JungleBoogie_VideoPreview.webm/f448eeb75bbf0aac7e69ad44b66a9365.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/ps4/JungleBoogie_map_bkg.tga.ckd/6f418c6257e8cd45a08e5d053af514c3.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/nx/JungleBoogie_banner_bkg.tga.ckd/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/nx/JungleBoogie_Coach_1.tga.ckd/d6c129942cf1d77d69f588f1588699f8.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/nx/JungleBoogie_Cover_Generic.tga.ckd/0ae49bd0e5456927af98c878b3b1be8c.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/nx/JungleBoogie_Cover_Online.tga.ckd/03232d98d0bd5c3065fc1f87f4ba054a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/nx/JungleBoogie_Cover_AlbumBkg.tga.ckd/521a4df051af45ad3a0807c12c982d01.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/nx/JungleBoogie_Cover_AlbumCoach.tga.ckd/1452bda1f1e99938f9205fa9516080fa.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/JungleBoogie_Coach_1_Phone.png/f0447bd8e19c9e7005a84814fa179263.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/JungleBoogie_Cover_Phone.jpg/571127a7f31ad12f0c4e9893e90f47f9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/JungleBoogie/JungleBoogie_VideoPreview.webm/f448eeb75bbf0aac7e69ad44b66a9365.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JungleBoogie/nx/JungleBoogie_map_bkg.tga.ckd/c9c2db194f59106f5997135b6bbbacfb.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27368,54605,81659,108556,135828,162717,190581,217652,244741,271630,298789,326000,353289,379429,408338,435801,462341,489491,516885,543896,571742,598823,625067,652966,680444,707501,734263,760719,788663,814942,842985,869765,897411,924099,952399,979688,1006994,1034684,1062444,1090051,1116996,1143641,1171461,1198707,1226423,1254740,1281803,1309701,1337278,1364304,1391291,1418388],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":331,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":52,\"volume\":-0.800000,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/jungleboogie/jungleboogie_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Words and music by Ronald Bell, Claydes Eugene Smith, Robert Spike Mickens, Donald Boyce, Richard Westfield, Dennis Ronald Thomas, Robert Earl Bell and George Brown. Published by Warner-Tamerlane Publishing Corp. (BM) and Old River Music (BMI). All rights administered by Warner-Tamerlane Publishing Corp. All rights reserved. Courtesy of Stingray Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFA946FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 187.986,
+  "mapName": "JungleBoogie",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497759\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484234\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2956729\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5790405\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "JungleBoogie_mapContent"
+  },
+  "parentMapName": "JungleBoogie",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "ECC79BFF",
+    "songColor_1B": "062829FF",
+    "songColor_2A": "C22416FF",
+    "songColor_2B": "2AB9A4FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Jungle Boogie",
+  "urls": {
+    "jmcs://jd-contents/JungleBoogie/JungleBoogie_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/JungleBoogie/JungleBoogie_AudioPreview.ogg/18efd7a542925374b0d67ae67de81ab4.ogg",
+    "jmcs://jd-contents/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_HIGH.vp8.webm/1939942e18be7f971932b2db4cb52a34.webm",
+    "jmcs://jd-contents/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_HIGH.vp9.webm/6fd84ea650fa34fc2b8ba35306e9f181.webm",
+    "jmcs://jd-contents/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_LOW.vp8.webm/9645349e58ee99a7bcb5a52a4c1d71f2.webm",
+    "jmcs://jd-contents/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_LOW.vp9.webm/35979565ed0bf387ad1eaf91db54139e.webm",
+    "jmcs://jd-contents/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_MID.vp8.webm/823cb3a46dbb042f4d57c5ed9212febe.webm",
+    "jmcs://jd-contents/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_MID.vp9.webm/e3e9104f4e07c5691abb85e82bf9f677.webm",
+    "jmcs://jd-contents/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f8f2c9a8b5d825f3dbd0d42010cdc932.webm",
+    "jmcs://jd-contents/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/JungleBoogie/JungleBoogie_MapPreviewNoSoundCrop_ULTRA.vp9.webm/026dea747df751292821f54c9a8ece9d.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "9b37f11ffc0aaec284cefe13b0351c23",
+      "storageType": 0,
+      "url": "http://jd-s3.akamaized.net/public/map/JungleBoogie/pc/JungleBoogie_MAIN_SCENE_PC.zip/9b37f11ffc0aaec284cefe13b0351c23.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "44d37d2adca858fa045512ac6d047707",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JungleBoogie/nx/JungleBoogie_MAIN_SCENE_NX.zip/44d37d2adca858fa045512ac6d047707.zip",
+      "version": 25
+    },
+    "wiiu": {
+      "md5": "11f9d77493cc4508c49d5a96336ec36d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JungleBoogie/wiiu/JungleBoogie_MAIN_SCENE_WIIU.zip/11f9d77493cc4508c49d5a96336ec36d.zip",
+      "version": 4
+    },
+    "orbis": {
+      "md5": "6191bf733c24d9b32105f7351aec839f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JungleBoogie/ps4/JungleBoogie_MAIN_SCENE_ORBIS.zip/6191bf733c24d9b32105f7351aec839f.zip",
+      "version": 25
+    }
+  },
+  "mapType": "jdu"
+}

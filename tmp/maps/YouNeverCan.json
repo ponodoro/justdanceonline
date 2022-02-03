@@ -1,0 +1,120 @@
+{
+  "artist": "A. Caveman & The Backseats",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_banner_bkg.jpg/38573e5d742e59a609b4b8a11ba10d20.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Coach_1.png/1e407b0f3ea34f8f14251d58191ea8c9.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Coach_2.png/3d2f6b0bfc8c5fabd6e4788acecc5ad3.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Cover_Generic.jpg/2117e7c2dae07a68cb03c7f58b6beadf.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Cover_1024.png/042de0cfb9e920cac47ec0fbe845efce.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Cover_Online.jpg/c910f2ee122e4fd173a67403a418faa3.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Cover_AlbumBkg.jpg/3a63d12a0c37865cb7f15682c53bf47e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Cover_AlbumCoach.png/cc8c00aa38489ca53599f6823a02657c.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Coach_1_Phone.png/e7e44762790c8d86fab4108f6b2597a2.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Coach_2_Phone.png/b43acc30b58457036befdd9ab4fa6f5c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Cover_Phone.jpg/c910f2ee122e4fd173a67403a418faa3.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_VideoPreview.webm/658e19aece0b41f1679c4efaf27f9a8b.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_banner_bkg.jpg/38573e5d742e59a609b4b8a11ba10d20.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Coach_1.png/1e407b0f3ea34f8f14251d58191ea8c9.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Coach_2.png/3d2f6b0bfc8c5fabd6e4788acecc5ad3.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Cover_Generic.jpg/2117e7c2dae07a68cb03c7f58b6beadf.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Cover_1024.png/042de0cfb9e920cac47ec0fbe845efce.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Cover_Online.jpg/c910f2ee122e4fd173a67403a418faa3.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Cover_AlbumBkg.jpg/3a63d12a0c37865cb7f15682c53bf47e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Cover_AlbumCoach.png/cc8c00aa38489ca53599f6823a02657c.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Coach_1_Phone.png/e7e44762790c8d86fab4108f6b2597a2.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Coach_2_Phone.png/b43acc30b58457036befdd9ab4fa6f5c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Cover_Phone.jpg/c910f2ee122e4fd173a67403a418faa3.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_VideoPreview.webm/658e19aece0b41f1679c4efaf27f9a8b.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/wiiu/YouNeverCan_banner_bkg.tga.ckd/5fa49ab8b1f20fa550a56a7c34a3e111.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/wiiu/YouNeverCan_Coach_1.tga.ckd/6c632cf35c3e4b7ade75c9b29428dfaf.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/wiiu/YouNeverCan_Coach_2.tga.ckd/f16b3ea1afdaa3735115ec1c304a133a.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/wiiu/YouNeverCan_Cover_Generic.tga.ckd/afe427ad4d892da3823bb2e5cbffa7a9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Cover_1024.png/042de0cfb9e920cac47ec0fbe845efce.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/wiiu/YouNeverCan_Cover_Online.tga.ckd/60172f55857861d149773961ac9f8e11.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/wiiu/YouNeverCan_Cover_AlbumBkg.tga.ckd/7d93a501d6df9eae336bc26060887b50.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/wiiu/YouNeverCan_Cover_AlbumCoach.tga.ckd/2592d50df19d9cef4a3836cc14be2d8a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Coach_1_Phone.png/e7e44762790c8d86fab4108f6b2597a2.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Coach_2_Phone.png/b43acc30b58457036befdd9ab4fa6f5c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_Cover_Phone.jpg/c910f2ee122e4fd173a67403a418faa3.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_VideoPreview.webm/658e19aece0b41f1679c4efaf27f9a8b.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,18528,37008,55536,74064,92544,111072,129600,148080,166272,184465,202705,220897,239089,257281,275473,293665,312001,330337,348673,367009,385345,403633,421969,440305,458641,476977,495313,513649,531937,550273,568609,586945,605281,623665,642001,660337,678673,697057,715394,733730,752114,770450,788786,807122,825506,843842,862178,880514,898754,916946,935138,953378,971570,989762,1008002,1026194,1044434,1062722,1080962,1099202,1117010,1134818,1152578,1170386,1188818,1207202,1225634,1244018,1262451,1280835,1299267,1317651,1336083,1354467,1372899,1391283,1409715,1428099],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-12,\"endBeat\":416,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":78,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/younevercan/younevercan_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F8C30BFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 163.17499999999998,
+  "mapName": "YouNeverCan",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496609\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1473375\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2131674\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2138995\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "YouNeverCan_mapContent"
+  },
+  "parentMapName": "YouNeverCan",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "3F1F6AFF",
+    "songColor_1B": "170F1CFF",
+    "songColor_2A": "035240FF",
+    "songColor_2B": "22002EFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "You Never Can Tell",
+  "urls": {
+    "jmcs://jd-contents/YouNeverCan/YouNeverCan_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_AudioPreview.ogg/31a686acb0f8b219afed55b024af6eb6.ogg",
+    "jmcs://jd-contents/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_HIGH.vp8.webm/19bd7f116db9e2c7c4e8a720d79e2212.webm",
+    "jmcs://jd-contents/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_HIGH.vp9.webm/3cbcae83ba6c10d710ca243abf4c5f5e.webm",
+    "jmcs://jd-contents/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_LOW.vp8.webm/45d06c1a7699ff8f3c50466d4abf6640.webm",
+    "jmcs://jd-contents/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_LOW.vp9.webm/62ebd9be8b4e0cf3115e02753e1973e2.webm",
+    "jmcs://jd-contents/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_MID.vp8.webm/8b6708e02702eb6e2e0fc25fd3e798bd.webm",
+    "jmcs://jd-contents/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_MID.vp9.webm/77aaa400be040d8e72482d76000cc80d.webm",
+    "jmcs://jd-contents/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_ULTRA.vp8.webm/a9077119e0329d6767f3b6ac7c2e14a2.webm",
+    "jmcs://jd-contents/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/YouNeverCan/YouNeverCan_MapPreviewNoSoundCrop_ULTRA.vp9.webm/afabe4fef08ade97042f06640ae0e1bf.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "4833ab6cf411a0858975691ad186ae0a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/YouNeverCan/ps4/YouNeverCan_MAIN_SCENE_ORBIS.zip/4833ab6cf411a0858975691ad186ae0a.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "ab27be785c2e4b0403c6e9ee9becb32c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/YouNeverCan/pc/YouNeverCan_MAIN_SCENE_PC.zip/ab27be785c2e4b0403c6e9ee9becb32c.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "8523893c843a68dadb2757f16c47f752",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/YouNeverCan/wiiu/YouNeverCan_MAIN_SCENE_WIIU.zip/8523893c843a68dadb2757f16c47f752.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "020dae8249f1eeebe267a7cbdd3ca8d7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/YouNeverCan/nx/YouNeverCan_MAIN_SCENE_NX.zip/020dae8249f1eeebe267a7cbdd3ca8d7.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

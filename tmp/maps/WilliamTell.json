@@ -1,0 +1,120 @@
+{
+  "artist": "Rossini",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_banner_bkg.jpg/c72122f1bcb52a83a66c12c52f0c0b35.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Coach_1.png/eb19ce8c7debe53920e88b13a9e01f5d.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Coach_2.png/4f89f8389258554145136f653921d6ba.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Cover_Generic.jpg/6bfd46c5ee957d959fae0b733227f6fd.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Cover_1024.png/f0e4c72175a2ad088aa7e3e969b93e00.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Cover_Online.jpg/9f60a569a2b8ab70192ff778ce72c9ff.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Cover_AlbumBkg.jpg/b4df87c4ab358c1de9aff62987f793f0.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Cover_AlbumCoach.png/8ff2049b59361f19d31121a23d486d78.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Coach_1_Phone.png/ef4c63cf223cd8f14931a114054227db.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Coach_2_Phone.png/60cb3a0e7780c9f8dab85ef4132e79f6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Cover_Phone.jpg/9f60a569a2b8ab70192ff778ce72c9ff.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_VideoPreview.webm/32c68acc97798cdddc829518bc846e03.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_banner_bkg.jpg/c72122f1bcb52a83a66c12c52f0c0b35.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Coach_1.png/eb19ce8c7debe53920e88b13a9e01f5d.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Coach_2.png/4f89f8389258554145136f653921d6ba.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Cover_Generic.jpg/6bfd46c5ee957d959fae0b733227f6fd.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Cover_1024.png/f0e4c72175a2ad088aa7e3e969b93e00.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Cover_Online.jpg/9f60a569a2b8ab70192ff778ce72c9ff.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Cover_AlbumBkg.jpg/b4df87c4ab358c1de9aff62987f793f0.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Cover_AlbumCoach.png/8ff2049b59361f19d31121a23d486d78.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Coach_1_Phone.png/ef4c63cf223cd8f14931a114054227db.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Coach_2_Phone.png/60cb3a0e7780c9f8dab85ef4132e79f6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Cover_Phone.jpg/9f60a569a2b8ab70192ff778ce72c9ff.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_VideoPreview.webm/32c68acc97798cdddc829518bc846e03.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/wiiu/WilliamTell_banner_bkg.tga.ckd/1cdf6093859280e9a5ac66eb12c4c429.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/wiiu/WilliamTell_Coach_1.tga.ckd/4b32e84842be212a5b6553f68c9c317a.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/wiiu/WilliamTell_Coach_2.tga.ckd/8d3e8063952c94411b42a69714dc7af8.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/wiiu/WilliamTell_Cover_Generic.tga.ckd/6067358bf70adf27eab695c29f4585f6.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Cover_1024.png/f0e4c72175a2ad088aa7e3e969b93e00.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/wiiu/WilliamTell_Cover_Online.tga.ckd/4a8cc4caca828aedf31caaa14b63e76e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/wiiu/WilliamTell_Cover_AlbumBkg.tga.ckd/ccb9a91627065c3681955d56ec8f26cd.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/wiiu/WilliamTell_Cover_AlbumCoach.tga.ckd/5ec157877c0a10f6c332c3861586840a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Coach_1_Phone.png/ef4c63cf223cd8f14931a114054227db.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Coach_2_Phone.png/60cb3a0e7780c9f8dab85ef4132e79f6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_Cover_Phone.jpg/9f60a569a2b8ab70192ff778ce72c9ff.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_VideoPreview.webm/32c68acc97798cdddc829518bc846e03.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,16896,33168,49968,67104,84240,101184,117648,134160,151344,168096,184992,201360,218448,235536,252624,269904,287088,303600,320160,336384,353376,370368,387360,404064,420384,436704,452592,468528,485520,502512,518688,534912,552144,569376,586752,603120,619536,636720,653376,669888,686544,703152,719952,736704,753552,770352,786768,803184,820128,837120,854064,871008,887712,904464,920928,937344,953904,970464,987024,1003728,1020672,1037616,1054464,1071312,1088400,1105488,1122528,1139568,1156464,1173360,1189632,1205952,1222752,1239553,1257025,1274449,1291393,1308337,1325233,1342177,1358881,1375585,1392289,1408993,1425985],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":456,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":85,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/williamtell/williamtell_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 163.184,
+  "mapName": "WilliamTell",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496319\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1477682\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2856482\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3235520\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-626\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "WilliamTell_mapContent"
+  },
+  "parentMapName": "WilliamTell",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "E45512FF",
+    "songColor_1B": "590034FF",
+    "songColor_2A": "6FCDE8FF",
+    "songColor_2B": "10004DFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "William Tell Overture",
+  "urls": {
+    "jmcs://jd-contents/WilliamTell/WilliamTell_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_AudioPreview.ogg/eaa212497bcc7d9ad5d0b3bcee6b7645.ogg",
+    "jmcs://jd-contents/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_HIGH.vp8.webm/aa5de73ff361292ff6947d7346957bef.webm",
+    "jmcs://jd-contents/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_HIGH.vp9.webm/a74d648f722c2bbdd6df4b1eed96da2d.webm",
+    "jmcs://jd-contents/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_LOW.vp8.webm/d39cdad879930c208b91ee9ed420d97f.webm",
+    "jmcs://jd-contents/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_LOW.vp9.webm/3c34a8474441fbce2d184deabbea55a1.webm",
+    "jmcs://jd-contents/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_MID.vp8.webm/e8e672e1928c3d543a491ee456c23865.webm",
+    "jmcs://jd-contents/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_MID.vp9.webm/c13c2b797c973d529e7982675a227461.webm",
+    "jmcs://jd-contents/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_ULTRA.vp8.webm/00244f40b3d967f8408a4ee6ae39d21d.webm",
+    "jmcs://jd-contents/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/WilliamTell/WilliamTell_MapPreviewNoSoundCrop_ULTRA.vp9.webm/944269fa42c73836fcf4ec4da235b4b7.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "ce7ed455d00ec533e6afae5cf84e96e2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WilliamTell/ps4/WilliamTell_MAIN_SCENE_ORBIS.zip/ce7ed455d00ec533e6afae5cf84e96e2.zip",
+      "version": 15
+    },
+    "pc": {
+      "md5": "4d016ae09f15f5e9e1f2decf9f5ce0ed",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WilliamTell/pc/WilliamTell_MAIN_SCENE_PC.zip/4d016ae09f15f5e9e1f2decf9f5ce0ed.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "4a5e6e8f1514e300d8f2f763b2cea481",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WilliamTell/wiiu/WilliamTell_MAIN_SCENE_WIIU.zip/4a5e6e8f1514e300d8f2f763b2cea481.zip",
+      "version": 15
+    },
+    "nx": {
+      "md5": "5f8e5fb33110a78410d582a67b63ae06",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/WilliamTell/nx/WilliamTell_MAIN_SCENE_NX.zip/5f8e5fb33110a78410d582a67b63ae06.zip",
+      "version": 8
+    }
+  },
+  "mapType": "jdu"
+}

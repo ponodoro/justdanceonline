@@ -1,0 +1,107 @@
+{
+  "artist": "Wu Xuan Yi",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/LetsParty/textures/LetsParty_banner_bkg.png",
+      "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/ps4/LetsParty_Coach_1.tga.ckd/efca410a66cae182022c683312e9f036.ckd",
+      "coach2ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/ps4/LetsParty_Coach_2.tga.ckd/fb00fb3dad9733863705adbc57b5d257.ckd",
+      "coach3ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/ps4/LetsParty_Coach_3.tga.ckd/d2cdb99a27322857a9e2ae8792ba65d2.ckd",
+      "coach4ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/ps4/LetsParty_Coach_4.tga.ckd/75607c519db8824d562d491972660e00.ckd",
+      "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/ps4/LetsParty_Cover_Generic.tga.ckd/9b85678c39edebb1611f6f7388f97487.ckd",
+      "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/ps4/LetsParty_Cover_Online.tga.ckd/62f66c98ea6ae9613742a16b32382664.ckd",
+      "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/ps4/LetsParty_Cover_AlbumBkg.tga.ckd/e5c7bedc00302dff8a9abde16c6e8b24.ckd",
+      "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/ps4/LetsParty_Cover_AlbumCoach.tga.ckd/01375245dad7a3d0c5e10106f852cea2.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_Coach_1_Phone.png/1dd2ab9da3d37c61036e2aa38ba89654.png",
+      "phoneCoach2ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_Coach_2_Phone.png/9be34aa09bf761c57e0a0a944ec8741b.png",
+      "phoneCoach3ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_Coach_3_Phone.png/7b6201563191d19d5edfed1ed536ca9d.png",
+      "phoneCoach4ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_Coach_4_Phone.png/51e9483adc8c70fd95518ec38084bab4.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_Cover_Phone.jpg/02b15f1dd41e129afc15eb1025f082ae.jpg",
+      "videoPreviewVideoURL": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_VideoPreview.webm/c3c8a42f62101da16c45e539f4c76aed.webm",
+      "map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/ps4/LetsParty_map_bkg.tga.ckd/bfa897407d2665e00e23a8f90fa40bd9.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/LetsParty/textures/LetsParty_banner_bkg.png",
+      "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/nx/LetsParty_Coach_1.tga.ckd/28d9d5ddeb56bb6b9e64596ed348282e.ckd",
+      "coach2ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/nx/LetsParty_Coach_2.tga.ckd/6102cfef6d28d5f7240519107c44d7e2.ckd",
+      "coach3ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/nx/LetsParty_Coach_3.tga.ckd/9b9020e3424c445aa9ec8602546b08a7.ckd",
+      "coach4ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/nx/LetsParty_Coach_4.tga.ckd/d677ad18fb250219cfe1f663bae698a5.ckd",
+      "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/nx/LetsParty_Cover_Generic.tga.ckd/6d1baeb48b3c5af0576df9243536f24b.ckd",
+      "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/nx/LetsParty_Cover_Online.tga.ckd/cabf0565cb7f2cedb70a690acd0cdf21.ckd",
+      "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/nx/LetsParty_Cover_AlbumBkg.tga.ckd/e286d5cefbe6c275965b160e2b8dcb0d.ckd",
+      "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/nx/LetsParty_Cover_AlbumCoach.tga.ckd/5736ba86610a50c5b7375af72894ad61.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_Coach_1_Phone.png/1dd2ab9da3d37c61036e2aa38ba89654.png",
+      "phoneCoach2ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_Coach_2_Phone.png/9be34aa09bf761c57e0a0a944ec8741b.png",
+      "phoneCoach3ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_Coach_3_Phone.png/7b6201563191d19d5edfed1ed536ca9d.png",
+      "phoneCoach4ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_Coach_4_Phone.png/51e9483adc8c70fd95518ec38084bab4.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_Cover_Phone.jpg/02b15f1dd41e129afc15eb1025f082ae.jpg",
+      "videoPreviewVideoURL": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_VideoPreview.webm/c3c8a42f62101da16c45e539f4c76aed.webm",
+      "map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/nx/LetsParty_map_bkg.tga.ckd/1b935dac630d260a7d513a8b4c4dd6a7.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24000,48000,72000,96000,120000,144000,168000,192000,216000,240000,264000,288000,312000,336000,360000,384000,408000,432000,456000,480000,504000,528000,552000,576000,600000,624000,648000,672000,696000,720000,744000,768000,792000,816000,840000,864000,888000,912000,936000,960000,984000,1008000,1032000,1056000,1080000,1104000,1128000,1152000,1176000,1200000,1224000,1248000,1272000,1296000,1320000,1344000,1368000,1392000,1416000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-16,\"endBeat\":493,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/letsparty/letsparty_AudioPreview.ogg\"}",
+  "cnlyrics": "想要感受火热狂欢跟我一起走 这片区域已经选好全看我们show 派对热度早已爆表就等我开头 别眨眼睛跟上我的节奏 我们都是和平精英 城市当中穿行 我们都是和平精英 天降正义助兴 快跟着我的鼓点 冲破所有暂停 快跟着我的鼓点 赶紧再来一局 快速出击 配上炫目灯光 狂欢不停 就是热闹才精彩 舞台 为我喝彩 起飞 就趁现在 跟我唱 随着节奏来摇摆 心跳躁动不停拍 信号满格没意外 身披想象一起fly 赢得漂亮才够high 穿好时装记好舞步跟我一起走 庆祝队伍就要混搭这才够上头 就算全员一起胡闹也不会颤抖 跳上车顶跟我一起battle 我们都是和平精英 快乐冒险不停 我们都是和平精英 九十九人为我助兴 快跟着我的鼓点 为这派对打气 快跟着我的鼓点 赶紧再来一局 灯光亮起 表演等你开始 全靠实力 这就是你的时代 过来 跳出节拍 记得 一起开麦 跟我唱 随着节奏来摇摆 心跳躁动不停拍 信号满格没意外 身披想象一起fly 赢得漂亮才够high 能量 一百 灯光打过来 千万别发呆 下一段更帅 完美 状态 节奏在变快 旋转到场外 还没到byebye 狂欢要拔得头彩 烟花为我打节拍 和平精英我最爱 华丽舞步是常态 舞台就是要够high",
+  "coachCount": 4,
+  "credits": "王振宇, Willie Weeks创作。腾讯光子工作室群/腾讯音乐娱乐集团（大玩+）出版发行。承蒙腾讯光子工作室群/腾讯音乐娱乐集团（大玩+）提供。",
+  "difficulty": 2,
+  "jdmAttributes": [],
+  "lyricsColor": "E58924FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 254.5,
+  "mapName": "LetsParty",
+  "mapType": "custom",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497200\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LetsParty/LetsParty_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"653-1142\">\r\n\t\t\t\t\t<Initialization range=\"0-653\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481063\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LetsParty/LetsParty_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"654-1144\">\r\n\t\t\t\t\t<Initialization range=\"0-654\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2945312\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LetsParty/LetsParty_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"654-1144\">\r\n\t\t\t\t\t<Initialization range=\"0-654\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5808293\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LetsParty/LetsParty_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"654-1151\">\r\n\t\t\t\t\t<Initialization range=\"0-654\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4514,
+  "packages": {
+    "mapContent": "LetsParty_mapContent"
+  },
+  "parentMapName": "LetsParty",
+  "songColors": {
+    "songColor_1A": "D941B1FF",
+    "songColor_1B": "8A0166FF",
+    "songColor_2A": "593FE8FF",
+    "songColor_2B": "400E61FF"
+  },
+  "status": 3,
+  "subcredits": "王振宇, Willie Weeks创作。腾讯光子工作室群/腾讯音乐娱乐集团（大玩+）出版发行。承蒙腾讯光子工作室群/腾讯音乐娱乐集团（大玩+）提供。",
+  "subtitle": "*Let's Party (飞艇派对)",
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Fei Ting Pai Dui (Let's Party)",
+  "urls": {
+    "jmcs://jd-contents/LetsParty/LetsParty_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_AudioPreview.ogg/de893fd242141d1d8485fde677ce0d61.ogg",
+    "jmcs://jd-contents/LetsParty/LetsParty_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_MapPreviewNoSoundCrop_HIGH.vp8.webm/f92ed631157f918e201db91b3eb7bc4c.webm",
+    "jmcs://jd-contents/LetsParty/LetsParty_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_MapPreviewNoSoundCrop_HIGH.vp9.webm/0e4442459db1d5cad7b74075034a450f.webm",
+    "jmcs://jd-contents/LetsParty/LetsParty_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_MapPreviewNoSoundCrop_LOW.vp8.webm/506b4f82984a07d0bc253b8c11ea14d6.webm",
+    "jmcs://jd-contents/LetsParty/LetsParty_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_MapPreviewNoSoundCrop_LOW.vp9.webm/14122c820926f2fc3dc0f6ae0b243616.webm",
+    "jmcs://jd-contents/LetsParty/LetsParty_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_MapPreviewNoSoundCrop_MID.vp8.webm/19850c174aeb06fe1f3a4a178fbcb16b.webm",
+    "jmcs://jd-contents/LetsParty/LetsParty_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_MapPreviewNoSoundCrop_MID.vp9.webm/3ab7625eeb3ca6127eec376d6b14d465.webm",
+    "jmcs://jd-contents/LetsParty/LetsParty_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_MapPreviewNoSoundCrop_ULTRA.vp8.webm/4a4c2d360ce68b2453651804e53ae326.webm",
+    "jmcs://jd-contents/LetsParty/LetsParty_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/LetsParty_MapPreviewNoSoundCrop_ULTRA.vp9.webm/6b04b0dce2baa5cbff6f18acc5c06399.webm"
+  },
+  "serverChangelist": 0,
+  "skupackages": {
+    "nx": {
+      "md5": "2055e756bcb403b0aa133df7c4dc5f42",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/nx/LetsParty_MAIN_SCENE_NX.zip/2055e756bcb403b0aa133df7c4dc5f42.zip",
+      "version": 4
+    },
+    "orbis": {
+      "md5": "2da9c5665d366c5fc9c7f233e3c08dfc",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/LetsParty/ps4/LetsParty_MAIN_SCENE_ORBIS.zip/2da9c5665d366c5fc9c7f233e3c08dfc.zip",
+      "version": 4
+    },
+    "pc": {
+      "md5": "5b21bdf0f25f86191e2f35f0dc6ba98b",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/LetsParty/pc/pc_5b21bdf0f25f86191e2f35f0dc6ba98b.zip",
+      "version": 1
+    }
+  }
+}

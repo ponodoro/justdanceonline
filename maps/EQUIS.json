@@ -1,0 +1,106 @@
+{
+  "artist": "Nicky Jam & J Balvin ",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/ps4/EQUIS_banner_bkg.tga.ckd/72d0538f61d211bc9067163d8a2c9a38.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/ps4/EQUIS_Coach_1.tga.ckd/b93967b419c7a9984dfe7b892bf5a808.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/ps4/EQUIS_Coach_2.tga.ckd/f8c3f808895aa426e9b7cdf14c0d7011.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/ps4/EQUIS_Cover_Generic.tga.ckd/d9df8fdf31f44baf371f88c2e7a5601c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_Cover_1024.png/ff566143b26dc1198eb5db0d5b85e36f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/ps4/EQUIS_Cover_Online.tga.ckd/0251c0b2cfe0b634372f4ed5593bce7f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/ps4/EQUIS_Cover_AlbumBkg.tga.ckd/ee3893ec007ada6931bb9555be7d6170.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/ps4/EQUIS_Cover_AlbumCoach.tga.ckd/face6b772ba8d4b683b21ec5937ef528.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_Coach_1_Phone.png/8d038330a269eb5491e126058f8dabd1.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_Coach_2_Phone.png/bd8758252b167ffda54c380715666a54.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_Cover_Phone.jpg/f883da3f007e4b059db96314827cd6ff.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_VideoPreview.webm/b30c8f61784a80c3f7dd09d6be36905e.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/ps4/EQUIS_map_bkg.tga.ckd/32318e470dfcb5d3d1113eba05079f8a.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/nx/EQUIS_banner_bkg.tga.ckd/d023d0e04e4cc46c6b06246d9fdf9797.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/nx/EQUIS_Coach_1.tga.ckd/559188caff000f55627cb61c3fbf3e2c.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/nx/EQUIS_Coach_2.tga.ckd/080b46551c833f953bff779c15490b07.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/nx/EQUIS_Cover_Generic.tga.ckd/83eddc35dc02bb885d3fa741dce488a5.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_Cover_1024.png/ff566143b26dc1198eb5db0d5b85e36f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/nx/EQUIS_Cover_Online.tga.ckd/9e37b1fa03bdaec960f6bd9caf59adb9.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/nx/EQUIS_Cover_AlbumBkg.tga.ckd/ce91d756302827466aaa0ff40e86cc80.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/nx/EQUIS_Cover_AlbumCoach.tga.ckd/a9ec59d887b449fcdc7c40ee62999f33.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_Coach_1_Phone.png/8d038330a269eb5491e126058f8dabd1.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_Coach_2_Phone.png/bd8758252b167ffda54c380715666a54.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_Cover_Phone.jpg/f883da3f007e4b059db96314827cd6ff.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_VideoPreview.webm/b30c8f61784a80c3f7dd09d6be36905e.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/EQUIS/nx/EQUIS_map_bkg.tga.ckd/ce478f50dbecebf97b8f9f84ef9fe010.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,32000,64000,96000,128000,160000,192000,224000,256000,288000,320000,352000,384000,416000,448000,480000,512000,544000,576000,608000,640000,672000,704000,736000,768000,800000,832000,864000,896000,928000,960000,992000,1024000,1056000,1088000,1120000,1152000,1184000,1216000,1248000,1280000,1312000,1344000,1376000,1408000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":261,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":44,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/equis/equis_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Nick Rivera Caminero, Juan Diego Medina, Rashid M S Badloe, Giordano M S Dano Ashruf, Jose Alvaro Osorio Balvin, Vicente Saavedra, Jan Carlos Ozuna Rosado and Jonathan Bryan Thiel. Published by CSN Publishing (BUMA) / La Industria Music Publishing (SESAC) / Sony/ATV Sounds LLC. (SESAC) / Temazo Music (BUM/STE). All rights on behalf of Temazo Music administered by WB Music Corp. / Universal Music Publishing. / Music Good Vibes Publishing (BMI), Ozuna Worldwide (BMI). Administered by Songs of Kobalt Music Publishing (BMI). All rights reserved. Used with permission. Courtesy of Sony Music Entertainment US Latin LLC. By arrangement with Sony Music Entertainment. / J Balvin appears courtesy of Universal Music Latino. ",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "EA38A1FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 174,
+  "mapName": "EQUIS",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497236\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/EQUIS/EQUIS_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483170\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/EQUIS/EQUIS_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2945850\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/EQUIS/EQUIS_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4298710\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/EQUIS/EQUIS_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "EQUIS_mapContent"
+  },
+  "parentMapName": "EQUIS",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "162593FF",
+    "songColor_1B": "000734FF",
+    "songColor_2A": "00F1EEFF",
+    "songColor_2B": "0A0018FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "X",
+  "urls": {
+    "jmcs://jd-contents/EQUIS/EQUIS_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_AudioPreview.ogg/ec04770fef37fb50e5716a33e66b25a2.ogg",
+    "jmcs://jd-contents/EQUIS/EQUIS_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_MapPreviewNoSoundCrop_HIGH.vp8.webm/70c06ec1a0dc021419aa7d2472770a79.webm",
+    "jmcs://jd-contents/EQUIS/EQUIS_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_MapPreviewNoSoundCrop_HIGH.vp9.webm/a0c074c1a28606139a659dea3b1ee28d.webm",
+    "jmcs://jd-contents/EQUIS/EQUIS_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_MapPreviewNoSoundCrop_LOW.vp8.webm/353d51f66d0680e77b76d93f2940b485.webm",
+    "jmcs://jd-contents/EQUIS/EQUIS_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_MapPreviewNoSoundCrop_LOW.vp9.webm/d500d048e7651f03ef448ba3c6c0c4f1.webm",
+    "jmcs://jd-contents/EQUIS/EQUIS_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_MapPreviewNoSoundCrop_MID.vp8.webm/d9daaa5b5d0a705350351430b594a276.webm",
+    "jmcs://jd-contents/EQUIS/EQUIS_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_MapPreviewNoSoundCrop_MID.vp9.webm/434d7656a4fedb828e22fa91c860872c.webm",
+    "jmcs://jd-contents/EQUIS/EQUIS_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_MapPreviewNoSoundCrop_ULTRA.vp8.webm/0e6f5bee925755ddc256bc7fc54d04b2.webm",
+    "jmcs://jd-contents/EQUIS/EQUIS_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/EQUIS/EQUIS_MapPreviewNoSoundCrop_ULTRA.vp9.webm/039dccebcb301ace1ef673ab79503093.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "ec4378c80f240ab56deb9a00cc06a565",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/EQUIS/ps4/EQUIS_MAIN_SCENE_ORBIS.zip/ec4378c80f240ab56deb9a00cc06a565.zip",
+      "version": 51
+    },
+    "nx": {
+      "md5": "3ff67fd9bede15e41d6ed476e6a88f7e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/EQUIS/nx/EQUIS_MAIN_SCENE_NX.zip/3ff67fd9bede15e41d6ed476e6a88f7e.zip",
+      "version": 53
+    },
+    "pc": {
+      "md5": "d0aac1fd5a2e64b25c9f941c7c54e5dc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/EQUIS/pc/EQUIS_MAIN_SCENE_PC.zip/d0aac1fd5a2e64b25c9f941c7c54e5dc.zip",
+      "version": 43
+    },
+    "wiiu": {
+      "md5": "930c4673217185ac8b9a9107768f8f24",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/EQUIS/wiiu/EQUIS_MAIN_SCENE_WIIU.zip/930c4673217185ac8b9a9107768f8f24.zip",
+      "version": 25
+    }
+  },
+  "mapType": "jdu"
+}

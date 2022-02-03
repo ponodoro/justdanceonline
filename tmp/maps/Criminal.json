@@ -1,0 +1,122 @@
+{
+  "artist": "Natti Natasha & Ozuna",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/ggp/Criminal_banner_bkg.tga.ckd/f25fdda92e0decf2acd754aee670941d.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/ggp/Criminal_Coach_1.tga.ckd/fa3b44ff23fe575ebc299ca2b8191a5a.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/ggp/Criminal_Coach_2.tga.ckd/27d346c5c1957728f213af98502dfcb9.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/ggp/Criminal_Cover_Generic.tga.ckd/ec03bfd6463b59b005e67008b215a3b0.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_Cover_1024.png/5c021df229bbbaec1b50de518f3997ec.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/ggp/Criminal_Cover_Online.tga.ckd/ec03bfd6463b59b005e67008b215a3b0.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/ggp/Criminal_Cover_AlbumBkg.tga.ckd/a618ae239ea03fa9277bec0d36317e80.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/ggp/Criminal_Cover_AlbumCoach.tga.ckd/2ae6cea89311a8442948a3a51b8eb983.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_Coach_1_Phone.png/86ec9d80b2e3cc819b611e9d728cb467.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_Coach_2_Phone.png/53b1ec80fd41c6d61dd8ed4cca4e27b9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_Cover_Phone.jpg/dd1c93d24cf2cc4fd72e1a31193e0f03.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_VideoPreview.webm/64f042f19563e2c07a2a740b6379fb0b.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/ggp/Criminal_map_bkg.tga.ckd/7a260d33fe066dc47dcd06e9bfa7dd5a.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/nx/Criminal_banner_bkg.tga.ckd/29b0a1ad08724b85664c1614c1ecbf46.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/nx/Criminal_Coach_1.tga.ckd/e87bdd2a155a52013af66ecadee5ac98.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/nx/Criminal_Coach_2.tga.ckd/b5ba9b4ba0da89e7b372bb643cbe9261.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/nx/Criminal_Cover_Generic.tga.ckd/eeb04bfbdf988e55a7a5145fbea32c6b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_Cover_1024.png/5c021df229bbbaec1b50de518f3997ec.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/nx/Criminal_Cover_Online.tga.ckd/1a5eb65954193f03a28f93d2b524290e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/nx/Criminal_Cover_AlbumBkg.tga.ckd/66503c78b1e99c76a7e2276cabaa9b83.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/nx/Criminal_Cover_AlbumCoach.tga.ckd/3da3640c396c64235a4a1d322107646f.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/nx/Criminal_map_bkg.tga.ckd/ddc479649b4cac59baec24936291baca.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_Coach_1_Phone.png/86ec9d80b2e3cc819b611e9d728cb467.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_Coach_2_Phone.png/53b1ec80fd41c6d61dd8ed4cca4e27b9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_Cover_Phone.jpg/dd1c93d24cf2cc4fd72e1a31193e0f03.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_VideoPreview.webm/64f042f19563e2c07a2a740b6379fb0b.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/wiiu/Criminal_banner_bkg.tga.ckd/89c4054b314a43b26012d422c3415969.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/wiiu/Criminal_Coach_1.tga.ckd/5cfa132528d5531350c5b5944ea2f4e2.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/wiiu/Criminal_Coach_2.tga.ckd/e288b7b74acdb11301b9c1dd3eff6da7.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/wiiu/Criminal_Cover_Generic.tga.ckd/64e32a8cf0f3c562201b25e9c5e734d4.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_Cover_1024.png/49624b60f783fa1523db0f236f8bd086.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/wiiu/Criminal_Cover_Online.tga.ckd/5263f7832c65d64f5850124d8ba9b197.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/wiiu/Criminal_Cover_AlbumBkg.tga.ckd/7388620ecfa08efc33b007910f8c98ec.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/wiiu/Criminal_Cover_AlbumCoach.tga.ckd/4941aa22ed4a0aa697c96c52ad336468.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_Coach_1_Phone.png/86ec9d80b2e3cc819b611e9d728cb467.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_Coach_2_Phone.png/53b1ec80fd41c6d61dd8ed4cca4e27b9.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_Cover_Phone.jpg/dd1c93d24cf2cc4fd72e1a31193e0f03.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_VideoPreview.webm/64f042f19563e2c07a2a740b6379fb0b.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,36000,72000,108000,143999,180000,216000,252000,288000,324000,360000,396000,432000,468000,504000,540000,576000,612000,648000,684000,720000,756000,791999,828000,864000,900000,936000,972000,1008000,1044000,1080000,1116000,1152000,1188000,1224000,1260000,1296000,1332000,1368000,1403999],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":272,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":39,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/criminal/criminal_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFAB1EFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 205.5,
+  "mapName": "Criminal",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495474\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Criminal/Criminal_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"612-1101\">\r\n\t\t\t\t\t<Initialization range=\"0-612\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1474240\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Criminal/Criminal_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"613-1103\">\r\n\t\t\t\t\t<Initialization range=\"0-613\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2821795\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Criminal/Criminal_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"613-1103\">\r\n\t\t\t\t\t<Initialization range=\"0-613\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4181090\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Criminal/Criminal_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"613-1103\">\r\n\t\t\t\t\t<Initialization range=\"0-613\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "Criminal_mapContent"
+  },
+  "parentMapName": "Criminal",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "006A7AFF",
+    "songColor_1B": "001727FF",
+    "songColor_2A": "E50000FF",
+    "songColor_2B": "2D0015FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Criminal",
+  "urls": {
+    "jmcs://jd-contents/Criminal/Criminal_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_AudioPreview.ogg/621616d357e3fe917ac5e71193c83dc0.ogg",
+    "jmcs://jd-contents/Criminal/Criminal_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_MapPreviewNoSoundCrop_HIGH.vp8.webm/c3efa344047b6717d3d3b5de0e2976b8.webm",
+    "jmcs://jd-contents/Criminal/Criminal_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_MapPreviewNoSoundCrop_HIGH.vp9.webm/05f979fb9b32830b5b0f18c8ea263ca7.webm",
+    "jmcs://jd-contents/Criminal/Criminal_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_MapPreviewNoSoundCrop_LOW.vp8.webm/9d7062bbed89c2b8446a6365cde65f54.webm",
+    "jmcs://jd-contents/Criminal/Criminal_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_MapPreviewNoSoundCrop_LOW.vp9.webm/953a5dd340e05051bb3b2fd4bf53ed76.webm",
+    "jmcs://jd-contents/Criminal/Criminal_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_MapPreviewNoSoundCrop_MID.vp8.webm/95b15485ce89bd7006b983a93461b2f3.webm",
+    "jmcs://jd-contents/Criminal/Criminal_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_MapPreviewNoSoundCrop_MID.vp9.webm/2d58feda0533ffb3bd9e3a220e0d7a88.webm",
+    "jmcs://jd-contents/Criminal/Criminal_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f0837d500125329c28f5846d7c87122b.webm",
+    "jmcs://jd-contents/Criminal/Criminal_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Criminal/Criminal_MapPreviewNoSoundCrop_ULTRA.vp9.webm/e7894f584113e11f5e40233cf2e9beed.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "0fd6110bcd9c2c91ef411a72ed3d1b8e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Criminal/ps4/Criminal_MAIN_SCENE_ORBIS.zip/0fd6110bcd9c2c91ef411a72ed3d1b8e.zip",
+      "version": 17
+    },
+    "pc": {
+      "md5": "d7daebe951b37f42d5c827a79236fa1d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Criminal/pc/Criminal_MAIN_SCENE_PC.zip/d7daebe951b37f42d5c827a79236fa1d.zip",
+      "version": 13
+    },
+    "wiiu": {
+      "md5": "2fb53cea650bfea2ad62d00f1b5055fd",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Criminal/wiiu/Criminal_MAIN_SCENE_WIIU.zip/2fb53cea650bfea2ad62d00f1b5055fd.zip",
+      "version": 18
+    },
+    "nx": {
+      "md5": "8e414aaadf0f847e1e60f06751d3cf7a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Criminal/nx/Criminal_MAIN_SCENE_NX.zip/8e414aaadf0f847e1e60f06751d3cf7a.zip",
+      "version": 17
+    }
+  },
+  "mapType": "jdu"
+}

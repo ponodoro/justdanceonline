@@ -1,0 +1,132 @@
+{
+  "artist": "Nicki Minaj",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_banner_bkg.jpg/198cfd2827bb43d8f4a3c4e4e9c88ed6.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_1.png/ab6a1192d7ab9194c786ef1269b87a94.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_2.png/bd6c2635b1d23179dd0c037ef79985c0.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_3.png/cc6e461c81f007e91a5544bec00659d6.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_4.png/5b4b1afebc6951cb0b3736dbcf6c3248.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Cover_Generic.jpg/f4ca1cfd29d4f51f0f19cbfda9a75bab.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Cover_1024.png/1098953f79de4d74b42db4b02d099321.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Cover_Online.jpg/8b0542315e4f7ed10534f8155a1d3ac2.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Cover_AlbumBkg.jpg/32cbab8db84425ff6d5cd6b0892907f6.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Cover_AlbumCoach.png/9487eaedd36e1e6a3c79401ce46cf572.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_1_Phone.png/7f7496e2fbb384a88abd8b8283ba32ce.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_2_Phone.png/9d29e6531b814aebb2f304adddd6e092.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_3_Phone.png/b1feafd70bcef822cd13f1ea257475a8.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_4_Phone.png/dca912cf62b3476213fe8833e8afabde.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Cover_Phone.jpg/8b0542315e4f7ed10534f8155a1d3ac2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_VideoPreview.webm/e96803aada7d35396474700c828973ee.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_banner_bkg.jpg/198cfd2827bb43d8f4a3c4e4e9c88ed6.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_1.png/ab6a1192d7ab9194c786ef1269b87a94.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_2.png/bd6c2635b1d23179dd0c037ef79985c0.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_3.png/cc6e461c81f007e91a5544bec00659d6.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_4.png/5b4b1afebc6951cb0b3736dbcf6c3248.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Cover_Generic.jpg/f4ca1cfd29d4f51f0f19cbfda9a75bab.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Cover_1024.png/1098953f79de4d74b42db4b02d099321.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Cover_Online.jpg/8b0542315e4f7ed10534f8155a1d3ac2.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Cover_AlbumBkg.jpg/32cbab8db84425ff6d5cd6b0892907f6.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Cover_AlbumCoach.png/9487eaedd36e1e6a3c79401ce46cf572.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_1_Phone.png/7f7496e2fbb384a88abd8b8283ba32ce.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_2_Phone.png/9d29e6531b814aebb2f304adddd6e092.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_3_Phone.png/b1feafd70bcef822cd13f1ea257475a8.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_4_Phone.png/dca912cf62b3476213fe8833e8afabde.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Cover_Phone.jpg/8b0542315e4f7ed10534f8155a1d3ac2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_VideoPreview.webm/e96803aada7d35396474700c828973ee.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/wiiu/PoundTheAlarm_banner_bkg.tga.ckd/57b27bee2456c9a4c68168a814a0c9e5.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/wiiu/PoundTheAlarm_Coach_1.tga.ckd/d74e9047cd5c52d924ad7db185818e7b.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/wiiu/PoundTheAlarm_Coach_2.tga.ckd/cd1a2669f9bbb35c854474825cfd28b3.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/wiiu/PoundTheAlarm_Coach_3.tga.ckd/41660a757213fb5da8f9e7c3520c38d7.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/wiiu/PoundTheAlarm_Coach_4.tga.ckd/71af6886330caab6392961aa5a463e9c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/wiiu/PoundTheAlarm_Cover_Generic.tga.ckd/5df74f961833f25b549a03c16aae75bb.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Cover_1024.png/1098953f79de4d74b42db4b02d099321.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/wiiu/PoundTheAlarm_Cover_Online.tga.ckd/a855c4ae03845afd862293803b004fa8.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/wiiu/PoundTheAlarm_Cover_AlbumBkg.tga.ckd/fd916129c401de2319fc8050993672e8.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/wiiu/PoundTheAlarm_Cover_AlbumCoach.tga.ckd/e5594a9b15a8df85372ea7b66e090950.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_1_Phone.png/7f7496e2fbb384a88abd8b8283ba32ce.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_2_Phone.png/9d29e6531b814aebb2f304adddd6e092.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_3_Phone.png/b1feafd70bcef822cd13f1ea257475a8.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Coach_4_Phone.png/dca912cf62b3476213fe8833e8afabde.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_Cover_Phone.jpg/8b0542315e4f7ed10534f8155a1d3ac2.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_VideoPreview.webm/e96803aada7d35396474700c828973ee.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23040,46080,69120,92160,115200,138240,161280,184320,207360,230400,253439,276480,299520,322560,345600,368640,391680,414720,437760,460800,483840,506880,529920,552960,576000,599040,622080,645120,668160,691200,714240,737280,760320,783360,806400,829440,852480,875520,898560,921600,944640,967680,990720,1013760,1036800,1059840,1082880,1105920,1128960,1152000,1175040,1198080,1221120,1244160,1267200,1290240,1313280,1336320,1359360,1382400,1405440,1428480],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":433,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/poundthealarm/poundthealarm_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F8AF1BFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 209.28,
+  "mapName": "PoundTheAlarm",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496452\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481353\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2938406\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4795656\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1132\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "PoundTheAlarm_mapContent"
+  },
+  "parentMapName": "PoundTheAlarm",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "DE6A00FF",
+    "songColor_1B": "5F003BFF",
+    "songColor_2A": "B90038FF",
+    "songColor_2B": "2A0000FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Pound The Alarm",
+  "urls": {
+    "jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_AudioPreview.ogg/7e23de97980cfe754a46bd7fb58e6f55.ogg",
+    "jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_HIGH.vp8.webm/4f254407caab8bb60b27f5c07948dafa.webm",
+    "jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_HIGH.vp9.webm/c95f7e1c03628588b6c24df45bf983c2.webm",
+    "jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_LOW.vp8.webm/7751ca9e8c345cb0efd29d661d9e597e.webm",
+    "jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_LOW.vp9.webm/c4e741c49606f7f81b9da0a29ac16377.webm",
+    "jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_MID.vp8.webm/c07b40d26b242aa201ef8d678e9ee2d2.webm",
+    "jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_MID.vp9.webm/a35d78bb4d114611f5cc1f970da1e426.webm",
+    "jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_ULTRA.vp8.webm/63f1b80fb2e18e48de05ae5392d864db.webm",
+    "jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/PoundTheAlarm_MapPreviewNoSoundCrop_ULTRA.vp9.webm/c34dda4cb725abc99380ec4408180a50.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "dc7ba980846b642aacc6a24d0629c1db",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/ps4/PoundTheAlarm_MAIN_SCENE_ORBIS.zip/dc7ba980846b642aacc6a24d0629c1db.zip",
+      "version": 13
+    },
+    "pc": {
+      "md5": "430d889cdbd41adee97311a52898b2de",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/pc/PoundTheAlarm_MAIN_SCENE_PC.zip/430d889cdbd41adee97311a52898b2de.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "e59dd0495f4e54423644775c81673436",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/wiiu/PoundTheAlarm_MAIN_SCENE_WIIU.zip/e59dd0495f4e54423644775c81673436.zip",
+      "version": 13
+    },
+    "nx": {
+      "md5": "bdaede01e68323f8b7743e25a590c58a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/nx/PoundTheAlarm_MAIN_SCENE_NX.zip/bdaede01e68323f8b7743e25a590c58a.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

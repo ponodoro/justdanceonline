@@ -1,0 +1,100 @@
+{
+  "artist": "The Streets",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/ps4/FitButYouKnow_banner_bkg.tga.ckd/57b1e3112ea8ddab1c7f856fe2e87ac9.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/ps4/FitButYouKnow_Coach_1.tga.ckd/d4a99c90a056f77e8922f0d0c1c5588c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/ps4/FitButYouKnow_Cover_Generic.tga.ckd/7d3e8933d12374a00ccb2778003f1623.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/FitButYouKnow_Cover_1024.png/44598b2c96fb0ff95dc1f85b9f5313aa.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/ps4/FitButYouKnow_Cover_Online.tga.ckd/d95551b536e31bd9beea0ba4284c9662.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/ps4/FitButYouKnow_Cover_AlbumBkg.tga.ckd/7ef1f8184bd82d72338b407a5c6c193c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/ps4/FitButYouKnow_Cover_AlbumCoach.tga.ckd/bef398ee3bf073f088996deed7f7cb0f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/FitButYouKnow_Coach_1_Phone.png/297a14604ea8cf4045c49893b88314d7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/FitButYouKnow_Cover_Phone.jpg/75cd0c7902de2e92c90351b8e0c655a2.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/ps4/FitButYouKnow_map_bkg.tga.ckd/1ed3b198e2663a80fd2dea9488f0c8d2.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/nx/FitButYouKnow_banner_bkg.tga.ckd/d9ee5defa125a66461081b85671fc1ed.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/nx/FitButYouKnow_Coach_1.tga.ckd/f8d8f368105d41fd9e2393751dcf8f2a.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/nx/FitButYouKnow_Cover_Generic.tga.ckd/6660bbd465461696dc8c1c9a90a3bc4b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/FitButYouKnow_Cover_1024.png/44598b2c96fb0ff95dc1f85b9f5313aa.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/nx/FitButYouKnow_Cover_Online.tga.ckd/c3e49d52983036ca3a16423da987c923.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/nx/FitButYouKnow_Cover_AlbumBkg.tga.ckd/47eb155acb7e1784ed3178a4ce710ab3.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/nx/FitButYouKnow_Cover_AlbumCoach.tga.ckd/aae493eb16aa55d3a7bdd4cb5a348e61.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/FitButYouKnow_Coach_1_Phone.png/297a14604ea8cf4045c49893b88314d7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/FitButYouKnow_Cover_Phone.jpg/75cd0c7902de2e92c90351b8e0c655a2.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/nx/FitButYouKnow_map_bkg.tga.ckd/3a0f777a326d46f025432aec4c23345a.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,16744,33488,50233,66977,83721,100465,117209,133954,150698,167442,184186,200930,217674,234419,251163,267907,284651,301395,318140,334884,351628,368372,385116,401861,418605,435349,452093,468837,485581,502326,519070,535814,552558,569302,586047,602791,619535,636279,653023,669768,686512,703256,720000,736744,753488,770233,786977,803721,820465,837209,853954,870698,887442,904186,920930,937674,954419,971163,987907,1004651,1021395,1038140,1054884,1071628,1088372,1105116,1121861,1138605,1155349,1172093,1188837,1205581,1222326,1239070,1255814,1272558,1289302,1306047,1322791,1339535,1356279,1373023,1389768,1406512,1423256],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":535,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":85,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/fitbutyouknow/fitbutyouknow_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "2CE990FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 188.721,
+  "mapName": "FitButYouKnow",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"682125\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1505475\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2967469\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5819018\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1101\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "FitButYouKnow_mapContent"
+  },
+  "parentMapName": "FitButYouKnow",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "080055FF",
+    "songColor_1B": "169BF4FF",
+    "songColor_2A": "E26D00FF",
+    "songColor_2B": "B80014FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Fit But You Know It",
+  "urls": {
+    "jmcs://jd-contents/FitButYouKnow/FitButYouKnow_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/FitButYouKnow_AudioPreview.ogg/1e81cd1d75c65b8b08d1d71719e9e6cd.ogg",
+    "jmcs://jd-contents/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_HIGH.vp8.webm/8313864b9c12570ce145cb77478c2687.webm",
+    "jmcs://jd-contents/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_HIGH.vp9.webm/89c6a6340a0f9019d6553d5b612d3656.webm",
+    "jmcs://jd-contents/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_LOW.vp8.webm/a60449725ede622ab90495c29717281a.webm",
+    "jmcs://jd-contents/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_LOW.vp9.webm/d7183ff33d12a3b8ff7f0ab1a125f9b2.webm",
+    "jmcs://jd-contents/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_MID.vp8.webm/a64c4fd35ad70b4aad4e9d88186e57a4.webm",
+    "jmcs://jd-contents/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_MID.vp9.webm/6eb949648d2ce369d41529ce202d40c7.webm",
+    "jmcs://jd-contents/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_ULTRA.vp8.webm/79541ff1822c97c2ce2a29b10811e998.webm",
+    "jmcs://jd-contents/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/FitButYouKnow_MapPreviewNoSoundCrop_ULTRA.vp9.webm/c244f64cd9a0f6dc934dc7d2aa7c0455.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "wiiu": {
+      "md5": "",
+      "version": 0
+    },
+    "nx": {
+      "md5": "8df52a1891d9cd295db85b1d6954f549",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/nx/FitButYouKnow_MAIN_SCENE_NX.zip/8df52a1891d9cd295db85b1d6954f549.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "2182ded7b8bb2fe8050500ce6f8def46",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/FitButYouKnow/pc/2182ded7b8bb2fe8050500ce6f8def46.zip",
+      "version": 1
+    },
+    "orbis": {
+      "md5": "3436b4c6450b5d95eb0388f97b778e1d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FitButYouKnow/ps4/FitButYouKnow_MAIN_SCENE_ORBIS.zip/3436b4c6450b5d95eb0388f97b778e1d.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,114 @@
+{
+  "artist": "Wanko Ni Mero Mero",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_banner_bkg.jpg/4748800d41a57c4411510cd8641c5fc6.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Coach_1.png/2ff8ebd165b71c9d9cece6806f952d99.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Cover_Generic.jpg/af0d0b8c00338093186bbdd7d0501bb8.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Cover_1024.png/16a58f34fce0d5272cfa0087b0ce7c88.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Cover_Online.jpg/c4980fb274b39531d4e3bdf46bc0f1ce.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Cover_AlbumBkg.jpg/a0b01189693944149f309a105fca0b6f.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Cover_AlbumCoach.png/0e3c3cd753aed1e6e0503140600ae931.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Coach_1_Phone.png/d19ace82160c01a7487b7a6e88fad604.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Cover_Phone.jpg/c4980fb274b39531d4e3bdf46bc0f1ce.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_VideoPreview.webm/0d9515c3ce2bfd6ea424515183dab4af.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_banner_bkg.jpg/4748800d41a57c4411510cd8641c5fc6.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Coach_1.png/2ff8ebd165b71c9d9cece6806f952d99.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Cover_Generic.jpg/af0d0b8c00338093186bbdd7d0501bb8.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Cover_1024.png/16a58f34fce0d5272cfa0087b0ce7c88.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Cover_Online.jpg/c4980fb274b39531d4e3bdf46bc0f1ce.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Cover_AlbumBkg.jpg/a0b01189693944149f309a105fca0b6f.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Cover_AlbumCoach.png/0e3c3cd753aed1e6e0503140600ae931.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Coach_1_Phone.png/d19ace82160c01a7487b7a6e88fad604.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Cover_Phone.jpg/c4980fb274b39531d4e3bdf46bc0f1ce.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_VideoPreview.webm/0d9515c3ce2bfd6ea424515183dab4af.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/wiiu/Barbie_banner_bkg.tga.ckd/f7b9bb54e6dae4faf26e2cb4218c0a8d.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/wiiu/Barbie_Coach_1.tga.ckd/3fcd58a0806a3bea4a131fe4c4a05b82.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/wiiu/Barbie_Cover_Generic.tga.ckd/c6a142a246311d52329fa16b4bcaccc4.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Cover_1024.png/16a58f34fce0d5272cfa0087b0ce7c88.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/wiiu/Barbie_Cover_Online.tga.ckd/1b3d04cf8f3719a95ccbe3b3fbfdab65.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/wiiu/Barbie_Cover_AlbumBkg.tga.ckd/d16bcb563671f38728d6e02c6551cf7b.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/wiiu/Barbie_Cover_AlbumCoach.tga.ckd/dc181c6d4650c852df72c2016f21b15b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Coach_1_Phone.png/d19ace82160c01a7487b7a6e88fad604.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_Cover_Phone.jpg/c4980fb274b39531d4e3bdf46bc0f1ce.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_VideoPreview.webm/0d9515c3ce2bfd6ea424515183dab4af.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22512,45024,67488,90000,112512,135023,157487,179999,202511,225023,247487,269999,292511,315023,337487,359999,382511,405023,427487,449999,472510,495022,517486,539998,562510,585022,607486,629998,652510,675022,697486,719998,742510,765022,787486,809997,832509,855021,877485,899997,922509,945021,967485,989997,1012509,1035021,1057485,1079997,1102509,1125021,1147484,1169996,1192508,1215020,1237484,1259996,1282508,1305020,1327484,1349996,1372508,1395020,1417484,1439996],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-14,\"endBeat\":371,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/barbie/barbie_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Reni Mimura and Tom Salta. Published by Ubisoft Music Publishing. Courtesy of Ubisoft Music. Produced and performed by Tom Salta. Vocals by Reni Mimura, Tom Salta, anonymous cats and dogs. Music supervision - Manu Bachet and Alkis Argyriadis. No animal were harmed in the making of this song. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "70A7FFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 180.47,
+  "mapName": "Barbie",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497361\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Barbie/Barbie_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481534\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Barbie/Barbie_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2809266\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Barbie/Barbie_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2887640\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Barbie/Barbie_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "Barbie_mapContent"
+  },
+  "parentMapName": "Barbie",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "51D3FFFF",
+    "songColor_1B": "0067D4FF",
+    "songColor_2A": "FFAADCFF",
+    "songColor_2B": "FF0070FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "Unlimited2017"
+  ],
+  "title": "Chiwawa",
+  "urls": {
+    "jmcs://jd-contents/Barbie/Barbie_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_AudioPreview.ogg/1d264933a8a1bc8d4006dd807963e210.ogg",
+    "jmcs://jd-contents/Barbie/Barbie_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_MapPreviewNoSoundCrop_HIGH.vp8.webm/9170c856eaf2c2db1c13dd0e11c8abd1.webm",
+    "jmcs://jd-contents/Barbie/Barbie_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_MapPreviewNoSoundCrop_HIGH.vp9.webm/4062223da37bc53c32c383c92dcb1407.webm",
+    "jmcs://jd-contents/Barbie/Barbie_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_MapPreviewNoSoundCrop_LOW.vp8.webm/9e112a4e70b9f20deca6d13d17f8e2ad.webm",
+    "jmcs://jd-contents/Barbie/Barbie_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_MapPreviewNoSoundCrop_LOW.vp9.webm/c84c6ea39ba9f29f0cbd4ab9ed639080.webm",
+    "jmcs://jd-contents/Barbie/Barbie_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_MapPreviewNoSoundCrop_MID.vp8.webm/636576846c413d2e782d15437ed4e143.webm",
+    "jmcs://jd-contents/Barbie/Barbie_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_MapPreviewNoSoundCrop_MID.vp9.webm/4aaea4e0c28a27a7b95c2d69402f1cc6.webm",
+    "jmcs://jd-contents/Barbie/Barbie_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_MapPreviewNoSoundCrop_ULTRA.vp8.webm/8d4b99453dff1e711b1834ee0e22fca2.webm",
+    "jmcs://jd-contents/Barbie/Barbie_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Barbie/Barbie_MapPreviewNoSoundCrop_ULTRA.vp9.webm/f2e1fe6a89635ac29bb5c1393bcfd483.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "6b5b0bfb9b6ded4c00ece4166fdc38de",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Barbie/ps4/Barbie_MAIN_SCENE_ORBIS.zip/6b5b0bfb9b6ded4c00ece4166fdc38de.zip",
+      "version": 44
+    },
+    "nx": {
+      "md5": "1bc067268b3ecef9470ba2a466f5e13f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Barbie/nx/Barbie_MAIN_SCENE_NX.zip/1bc067268b3ecef9470ba2a466f5e13f.zip",
+      "version": 6
+    },
+    "pc": {
+      "md5": "611c2380a81e4da5526e6092fb2db23d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Barbie/pc/Barbie_MAIN_SCENE_PC.zip/611c2380a81e4da5526e6092fb2db23d.zip",
+      "version": 23
+    },
+    "wiiu": {
+      "md5": "de6b1ced44eb909714f4574436212b70",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Barbie/wiiu/Barbie_MAIN_SCENE_WIIU.zip/de6b1ced44eb909714f4574436212b70.zip",
+      "version": 46
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 13976
+}

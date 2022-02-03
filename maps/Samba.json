@@ -1,0 +1,122 @@
+{
+  "artist": "Latino Sunset",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_banner_bkg.jpg/7a1e17f751062c6ca46a494bd04d1786.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Coach_1.png/d5714c84a64ba27feaee17af1442a6ee.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Cover_Generic.jpg/5032c9448615485d153880341b31c1e3.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Cover_1024.png/562b42295f2fc7abec3cd4b40d1bc019.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Cover_Online.jpg/a5febf52dee73d4ab9cecc37ffe97b9f.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Cover_AlbumBkg.jpg/f116294c307554fc57b06a765d267274.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Cover_AlbumCoach.png/5223f4b72f1d7013344634b6d1133cac.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Coach_1_Phone.png/02dc4da6d5c5be084e8714470c4e6981.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Cover_Phone.jpg/a5febf52dee73d4ab9cecc37ffe97b9f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Samba/Samba_VideoPreview.webm/7fc26b716aa7b10270855f6f87be88d5.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_banner_bkg.jpg/7a1e17f751062c6ca46a494bd04d1786.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Coach_1.png/d5714c84a64ba27feaee17af1442a6ee.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Cover_Generic.jpg/5032c9448615485d153880341b31c1e3.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Cover_1024.png/562b42295f2fc7abec3cd4b40d1bc019.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Cover_Online.jpg/a5febf52dee73d4ab9cecc37ffe97b9f.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Cover_AlbumBkg.jpg/f116294c307554fc57b06a765d267274.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Cover_AlbumCoach.png/5223f4b72f1d7013344634b6d1133cac.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Coach_1_Phone.png/02dc4da6d5c5be084e8714470c4e6981.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Cover_Phone.jpg/a5febf52dee73d4ab9cecc37ffe97b9f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Samba/Samba_VideoPreview.webm/7fc26b716aa7b10270855f6f87be88d5.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/wiiu/Samba_banner_bkg.tga.ckd/50d42844451f222ce522cace98a6dc82.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/wiiu/Samba_Coach_1.tga.ckd/eb53181c35fc03af8ac167e2efbd2888.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/wiiu/Samba_Cover_Generic.tga.ckd/545020eb291fc349f494e9fb22e5596c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Cover_1024.png/562b42295f2fc7abec3cd4b40d1bc019.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/wiiu/Samba_Cover_Online.tga.ckd/aad6b5abd1cd5ea77c80923cce60060c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/wiiu/Samba_Cover_AlbumBkg.tga.ckd/fbf427ae4d384460f468d5fb530eb4c0.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/wiiu/Samba_Cover_AlbumCoach.tga.ckd/34936b1c088c1f84e1efa880746e07e5.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Coach_1_Phone.png/02dc4da6d5c5be084e8714470c4e6981.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Samba/Samba_Cover_Phone.jpg/a5febf52dee73d4ab9cecc37ffe97b9f.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Samba/Samba_VideoPreview.webm/7fc26b716aa7b10270855f6f87be88d5.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22176,44304,66480,88608,110784,132959,155087,177263,199391,221567,243695,265871,287999,310175,332303,354479,376607,398783,420959,443087,465263,487391,509566,531694,553870,575998,598174,620302,642478,664606,686782,708958,731086,753262,775390,797566,819694,841870,863997,886173,908301,930477,952605,974781,996957,1019085,1041261,1063389,1085565,1107693,1129869,1151997,1174173,1196301,1218477,1240604,1262780,1284956,1307084,1329260,1351388,1373564,1395692,1417868,1439996],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":355,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/samba/samba_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Steve Ouimette and Cat Gray. Lyrics translated by Mauricio Domene. Produced and engineered by Steve Ouimette. Mixed by Steve Ouimette and Cat Gray. Published by Ubisoft Music Publishing. Vocals by Barbara Carolina Amorim Baptistao Pongo, Beatriz Perera Patrocinio, Edmar Silva, Jadiel Oliveira de Araujo and Lisandra Alyson Coutinho de Mattos. Music supervision – Manu Bachet. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0BA869FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 166.61599999999999,
+  "mapName": "Samba",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496363\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Samba/Samba_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481716\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Samba/Samba_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2947666\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Samba/Samba_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5834848\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Samba/Samba_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1117\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "Samba_mapContent"
+  },
+  "parentMapName": "Samba",
+  "skuIds": [
+    "jd2017-nx-all",
+    "jd2017-pc-ww",
+    "jd2017-ps4-scea",
+    "jd2017-ps4-scee",
+    "jd2017-wiiu-noa",
+    "jd2017-wiiu-noe",
+    "jd2017-xone-emea",
+    "jd2017-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "00CF7AFF",
+    "songColor_1B": "001E43FF",
+    "songColor_2A": "EB7900FF",
+    "songColor_2B": "B81625FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "Extreme",
+    "subscribedSong"
+  ],
+  "title": "Carnaval Boom",
+  "urls": {
+    "jmcs://jd-contents/Samba/Samba_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Samba/Samba_AudioPreview.ogg/3976d14aed75a3df7f4d9f9e75e93529.ogg",
+    "jmcs://jd-contents/Samba/Samba_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Samba/Samba_MapPreviewNoSoundCrop_HIGH.vp8.webm/964d9a568549c3ad4a98898ccff41f43.webm",
+    "jmcs://jd-contents/Samba/Samba_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Samba/Samba_MapPreviewNoSoundCrop_HIGH.vp9.webm/841d2a8bf430f71bba2afafc16eac39c.webm",
+    "jmcs://jd-contents/Samba/Samba_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Samba/Samba_MapPreviewNoSoundCrop_LOW.vp8.webm/20bcd0503641e350bcef8cee0b08c1fa.webm",
+    "jmcs://jd-contents/Samba/Samba_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Samba/Samba_MapPreviewNoSoundCrop_LOW.vp9.webm/6ca1c6b1767170f99efb6f7c9985b73f.webm",
+    "jmcs://jd-contents/Samba/Samba_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Samba/Samba_MapPreviewNoSoundCrop_MID.vp8.webm/f1d0dfceb1aeed532eef967a0434802b.webm",
+    "jmcs://jd-contents/Samba/Samba_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Samba/Samba_MapPreviewNoSoundCrop_MID.vp9.webm/028593058f27221a63b711ab030d590f.webm",
+    "jmcs://jd-contents/Samba/Samba_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Samba/Samba_MapPreviewNoSoundCrop_ULTRA.vp8.webm/200e8297953f376c8c242a3e2daa42f3.webm",
+    "jmcs://jd-contents/Samba/Samba_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Samba/Samba_MapPreviewNoSoundCrop_ULTRA.vp9.webm/4147c1e7a7fb540328e67b928b3c8f45.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "3ff1949a4e5754535e8438fc31b50a93",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Samba/ps4/Samba_MAIN_SCENE_ORBIS.zip/3ff1949a4e5754535e8438fc31b50a93.zip",
+      "version": 8
+    },
+    "nx": {
+      "md5": "02acd6205956fb6c743e7e172f46d209",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Samba/nx/Samba_MAIN_SCENE_NX.zip/02acd6205956fb6c743e7e172f46d209.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "1e305415c5edc43a008cbc88a4429e65",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Samba/pc/Samba_MAIN_SCENE_PC.zip/1e305415c5edc43a008cbc88a4429e65.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "1d8d2af2c6852f8fdb91f38cebd32d58",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Samba/wiiu/Samba_MAIN_SCENE_WIIU.zip/1d8d2af2c6852f8fdb91f38cebd32d58.zip",
+      "version": 8
+    }
+  },
+  "mapType": "jdu"
+}

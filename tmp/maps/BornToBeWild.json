@@ -1,0 +1,110 @@
+{
+  "artist": "Steppenwolf",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/BornToBeWild/textures/BornToBeWild_banner_bkg.png",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/ps4/BornToBeWild_Coach_1.tga.ckd/2726c9f5c44950ac0f1c28a03436e449.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/ps4/BornToBeWild_Cover_Generic.tga.ckd/30246763f34440e9755e021037f560c4.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/BornToBeWild_Cover_1024.png/52a498b989fa9ce640837141559fcec4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/ps4/BornToBeWild_Cover_Online.tga.ckd/0931a74728071ccc803316d425b98c3c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/ps4/BornToBeWild_Cover_AlbumBkg.tga.ckd/86d5a2e0a0ee222969734bba4298546e.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/ps4/BornToBeWild_Cover_AlbumCoach.tga.ckd/a3790a3182a86b4d484b0004cf3003c6.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/BornToBeWild_Coach_1_Phone.png/ae508f173dc83f088ea9b42c09227217.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/BornToBeWild_Cover_Phone.jpg/f837fd86190729eeae5b745497d8b584.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BornToBeWild/BornToBeWild_VideoPreview.webm/80940fb4eb70b5e92784c04ded60e6dd.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/ps4/BornToBeWild_map_bkg.tga.ckd/144c2b13b09b17cfd56431f323879b99.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/BornToBeWild/textures/BornToBeWild_banner_bkg.png",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/nx/BornToBeWild_Coach_1.tga.ckd/8068c5a4d0ff2b5fd0117b181f396d1f.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/nx/BornToBeWild_Cover_Generic.tga.ckd/c8ad5814cbd4047cbe82f50b42549b39.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/BornToBeWild_Cover_1024.png/52a498b989fa9ce640837141559fcec4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/nx/BornToBeWild_Cover_Online.tga.ckd/485e553aafe8f4f181dabacb94ee9910.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/nx/BornToBeWild_Cover_AlbumBkg.tga.ckd/a57347e3b14dbc32f91f30947af9bb77.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/nx/BornToBeWild_Cover_AlbumCoach.tga.ckd/d48da1e276fb4f38f37d73fff45c03c7.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/BornToBeWild_Coach_1_Phone.png/ae508f173dc83f088ea9b42c09227217.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/BornToBeWild_Cover_Phone.jpg/f837fd86190729eeae5b745497d8b584.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BornToBeWild/BornToBeWild_VideoPreview.webm/80940fb4eb70b5e92784c04ded60e6dd.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BornToBeWild/nx/BornToBeWild_map_bkg.tga.ckd/bdd0cbbe96edf98cbdeaa68c79905a71.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21602,41532,61458,81393,102886,126056,147240,172499,192430,213509,233551,254212,278209,299709,319744,339674,360858,380789,400719,420649,440580,459744,478281,496679,517306,537375,555970,575622,594728,614659,634589,654519,674450,694561,714549,734458,754685,774615,794545,815115,835045,854975,874906,894824,914766,934697,954627,974557,994105,1014023,1033965,1053687,1072502,1092433,1112363,1132294,1151754,1171934,1191865,1211795,1231725,1251098,1271029,1290193,1309461,1328486,1348416,1368347,1387929,1407772,1427681],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":522,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":71,\"volume\":-0.100000,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/borntobewild/borntobewild_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Steppenwolf – \"Born To Be Wild\" Words and music by M. Bonfire. Published by Universal Music Publishing Group a division of Universal Music Canada Ltd. Courtesy of Geffen Records, under license from Universal Music Canada.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF2164FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 217.79299999999998,
+  "mapName": "BornToBeWild",
+  "mapPreviewMpd": {
+    "videoEncoding": {
+      "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496545\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"609-1098\">\r\n\t\t\t\t\t<Initialization range=\"0-609\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1150378\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"610-1100\">\r\n\t\t\t\t\t<Initialization range=\"0-610\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1159727\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"610-1100\">\r\n\t\t\t\t\t<Initialization range=\"0-610\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1160173\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"610-1100\">\r\n\t\t\t\t\t<Initialization range=\"0-610\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+      "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"657853\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"610-1099\">\r\n\t\t\t\t\t<Initialization range=\"0-610\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1515249\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"610-1100\">\r\n\t\t\t\t\t<Initialization range=\"0-610\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2998365\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"610-1100\">\r\n\t\t\t\t\t<Initialization range=\"0-610\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5662488\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"610-1105\">\r\n\t\t\t\t\t<Initialization range=\"0-610\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+    }
+  },
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "BornToBeWild_mapContent"
+  },
+  "parentMapName": "BornToBeWild",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "00378DFF",
+    "songColor_1B": "006B7CFF",
+    "songColor_2A": "290C6BFF",
+    "songColor_2B": "521C86FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "JustDance2",
+    "Solo",
+    "Easy",
+    "Sweat Low",
+    "70s",
+    "Animals",
+    "Halloween",
+    "Oldies",
+    "Rock"
+  ],
+  "title": "Born To Be Wild",
+  "urls": {
+    "jmcs://jd-contents/BornToBeWild/BornToBeWild_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BornToBeWild/BornToBeWild_AudioPreview.ogg/4d6384a5788d4887a6cb528ac2241957.ogg",
+    "jmcs://jd-contents/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_HIGH.vp8.webm/aae193960c347ef83469d438e95144aa.webm",
+    "jmcs://jd-contents/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_HIGH.vp9.webm/f3aaf6b7529a56462e7973c5dddc78a3.webm",
+    "jmcs://jd-contents/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_LOW.vp8.webm/7beb02e08064a7d8c7ba114c635cdb3b.webm",
+    "jmcs://jd-contents/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_LOW.vp9.webm/1853967152577e5ae840a2d85c4e7341.webm",
+    "jmcs://jd-contents/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_MID.vp8.webm/28ba37ed55c124c6712fc0d8dd35b58e.webm",
+    "jmcs://jd-contents/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_MID.vp9.webm/f20620987c23208caf268c267e801de8.webm",
+    "jmcs://jd-contents/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_ULTRA.vp8.webm/0df577f9dea1c7eafe670c1560b9cb4d.webm",
+    "jmcs://jd-contents/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BornToBeWild/BornToBeWild_MapPreviewNoSoundCrop_ULTRA.vp9.webm/72c93b5ac6b038684e3844eb7a62045c.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "4088b20eabbe3a6501e3dcc12ba15981",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BornToBeWild/ps4/BornToBeWild_MAIN_SCENE_ORBIS.zip/4088b20eabbe3a6501e3dcc12ba15981.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "fb9edd17c4cc8e4d3941051887a05377",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/BornToBeWild/pc/fb9edd17c4cc8e4d3941051887a05377.zip",
+      "version": 0
+    },
+    "nx": {
+      "md5": "121bcc43d0b2c7987695854dacfb28af",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BornToBeWild/nx/BornToBeWild_MAIN_SCENE_NX.zip/121bcc43d0b2c7987695854dacfb28af.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

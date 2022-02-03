@@ -1,0 +1,117 @@
+{
+  "artist": "Dancing Bros.",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/ggp/FunkyRobotKids_banner_bkg.tga.ckd/4d5b7ae2f4293c667371a3933e50fe36.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/ggp/FunkyRobotKids_Coach_1.tga.ckd/fec44940f45cfa5162f4a5bd6f3cbb33.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/ggp/FunkyRobotKids_Cover_Generic.tga.ckd/4d7f7ed3896cffc822c489fa7f8eb0da.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_Cover_1024.png/6ff11c0f90d632b1edf07a58ff675eca.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/ggp/FunkyRobotKids_Cover_Online.tga.ckd/4d7f7ed3896cffc822c489fa7f8eb0da.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/ggp/FunkyRobotKids_Cover_AlbumBkg.tga.ckd/f1841636f012a83a3318b68e11669fc7.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/ggp/FunkyRobotKids_Cover_AlbumCoach.tga.ckd/a3828f87d8ed7bed45e0c58c357b75b6.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_Coach_1_Phone.png/ae6391607b288262e773183abdb2cb42.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_Cover_Phone.jpg/100328320249c356595dc621e9bce106.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_VideoPreview.webm/481685ed5c36d561990a4c631aac7680.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/ggp/FunkyRobotKids_map_bkg.tga.ckd/f8ccb904ecdc5e590820d0a316c6dd86.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/nx/FunkyRobotKids_banner_bkg.tga.ckd/da22e1b042bc23777a032b8d2b046dc4.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/nx/FunkyRobotKids_Coach_1.tga.ckd/91a1e34643db27790ec2d47b1f284037.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/nx/FunkyRobotKids_Cover_Generic.tga.ckd/5b4c0594a8ebef8401531ff6364a2dac.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_Cover_1024.png/6ff11c0f90d632b1edf07a58ff675eca.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/nx/FunkyRobotKids_Cover_Online.tga.ckd/08430c199e856261da548269d509f337.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/nx/FunkyRobotKids_Cover_AlbumBkg.tga.ckd/dc0df56100aa2fbcbd33bcf3b9ee75e6.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/nx/FunkyRobotKids_Cover_AlbumCoach.tga.ckd/2b9fc128073f77d159fcb0bb63f11b77.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/nx/FunkyRobotKids_map_bkg.tga.ckd/dfc065df6c2b15ea1ea88cba91af914f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_Coach_1_Phone.png/ae6391607b288262e773183abdb2cb42.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_Cover_Phone.jpg/100328320249c356595dc621e9bce106.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_VideoPreview.webm/481685ed5c36d561990a4c631aac7680.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/wiiu/FunkyRobotKids_banner_bkg.tga.ckd/e87cfd8e4b91518fe7c27e17b3aa0383.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/wiiu/FunkyRobotKids_Coach_1.tga.ckd/4dc2265c38389e0901e84c4b2ba7d103.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/wiiu/FunkyRobotKids_Cover_Generic.tga.ckd/e3fc21bee0cce05d00fe643e8b20feeb.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_Cover_1024.png/6ff11c0f90d632b1edf07a58ff675eca.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/wiiu/FunkyRobotKids_Cover_Online.tga.ckd/c8f4e27b571d23e03e407ac5738c98de.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/wiiu/FunkyRobotKids_Cover_AlbumBkg.tga.ckd/bffb5bc169b8fc69f5b1433d61c663a9.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/wiiu/FunkyRobotKids_Cover_AlbumCoach.tga.ckd/233ac03ab74eb5fd58bfc4dc94077159.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_Coach_1_Phone.png/ae6391607b288262e773183abdb2cb42.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_Cover_Phone.jpg/100328320249c356595dc621e9bce106.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_VideoPreview.webm/481685ed5c36d561990a4c631aac7680.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23039,46080,69120,92160,115199,138240,161280,184320,207360,230400,253440,276480,299519,322560,345600,368640,391680,414720,437759,460799,483840,506880,529920,552960,576000,599040,622079,645120,668160,691200,714240,737280,760320,783360,806400,829440,852480,875520,898560,921600,944640,967680,990719,1013760,1036800,1059840,1082880,1105920,1128960,1152000,1175040,1198080,1221120,1244159,1267199,1290240,1313279,1336320,1359360,1382400,1405440,1428480],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":221,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/funkyrobotkids/funkyrobotkids_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 108.47999999999999,
+  "mapName": "FunkyRobotKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"491668\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1458309\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2179454\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2251285\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "FunkyRobotKids_mapContent"
+  },
+  "parentMapName": "FunkyRobotKids",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "B99600FF",
+    "songColor_1B": "541900FF",
+    "songColor_2A": "4FA289FF",
+    "songColor_2B": "005738FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Funky Robot",
+  "urls": {
+    "jmcs://jd-contents/FunkyRobotKids/FunkyRobotKids_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_AudioPreview.ogg/b924b3ececf529dba4c04630e70a10f8.ogg",
+    "jmcs://jd-contents/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/ca9f4589f088659c2c539cf074a11086.webm",
+    "jmcs://jd-contents/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/96d7b5a1f549d2bce964c183a05ef9bc.webm",
+    "jmcs://jd-contents/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_LOW.vp8.webm/32b0dc1d86a172c96e79ed4f59fb929e.webm",
+    "jmcs://jd-contents/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_LOW.vp9.webm/4348b40426696391c855f435310f494e.webm",
+    "jmcs://jd-contents/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_MID.vp8.webm/bae6e2fc8c57e36c341323e308015dd8.webm",
+    "jmcs://jd-contents/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_MID.vp9.webm/4c5cdd013e2bd7bf9849d9aed1f395d9.webm",
+    "jmcs://jd-contents/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/9f8f345995562fbdaf3ce024e60a6696.webm",
+    "jmcs://jd-contents/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/FunkyRobotKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/88cd5ff4167ac8e7c854e0a14dfd8506.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "379ab3844130e3ed0ed5e9d9d112fdfc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/ps4/FunkyRobotKids_MAIN_SCENE_ORBIS.zip/379ab3844130e3ed0ed5e9d9d112fdfc.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "0bb0e44ff1d2521f8eedddf911faba39",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/wiiu/FunkyRobotKids_MAIN_SCENE_WIIU.zip/0bb0e44ff1d2521f8eedddf911faba39.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "707e538e9fd415206692b7297ce97a4e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FunkyRobotKids/nx/FunkyRobotKids_MAIN_SCENE_NX.zip/707e538e9fd415206692b7297ce97a4e.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "8843ab28cf86ad550ce0c50bb9459b1a",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/FunkyRobotKids/pc/8843ab28cf86ad550ce0c50bb9459b1a.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939
+}

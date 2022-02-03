@@ -1,0 +1,103 @@
+{
+  "artist": "Top Culture",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/ps4/BirthdayKids_banner_bkg.tga.ckd/0b1daa40c384856a5c768086404662d9.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/ps4/BirthdayKids_Coach_1.tga.ckd/fa944ac3f023eeae8beb1e7d1e3274a4.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/ps4/BirthdayKids_Cover_Generic.tga.ckd/ef89a81f31ee6c493f261209b2f2e4de.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/BirthdayKids_Cover_1024.png/a8f1e2fc3f3975d91fd13db746c1a4c6.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/ps4/BirthdayKids_Cover_Online.tga.ckd/1659626e9e81d3611f0395fc18910b18.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/ps4/BirthdayKids_Cover_AlbumBkg.tga.ckd/f8e4b7ce1739dd5be8e2e21bcc04c656.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/ps4/BirthdayKids_Cover_AlbumCoach.tga.ckd/96ebc0e1bac62541349f0214aead1765.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/BirthdayKids_Coach_1_Phone.png/cfcbcd612f12cf0838fc168bb1b2bab2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/BirthdayKids_Cover_Phone.jpg/f36e9c707ad666f97cb38921272cefdc.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/ps4/BirthdayKids_map_bkg.tga.ckd/25543f9accd097c048a97d42b46138e8.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/nx/BirthdayKids_banner_bkg.tga.ckd/08c466a1d7e7c542e7ae9a20ecc88b5d.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/nx/BirthdayKids_Coach_1.tga.ckd/b2a14707c9f42aa0c29d1e4dde598d06.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/nx/BirthdayKids_Cover_Generic.tga.ckd/e19f67e2ddb383b6949d43961f710010.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/BirthdayKids_Cover_1024.png/a8f1e2fc3f3975d91fd13db746c1a4c6.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/nx/BirthdayKids_Cover_Online.tga.ckd/12eeda14284f209946f4c26e60d5d3a1.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/nx/BirthdayKids_Cover_AlbumBkg.tga.ckd/cabd375802fe587c8fb8b2fd31da9612.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/nx/BirthdayKids_Cover_AlbumCoach.tga.ckd/81b8ee06225e76d48bf29a03a1b5eef8.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/BirthdayKids_Coach_1_Phone.png/cfcbcd612f12cf0838fc168bb1b2bab2.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/BirthdayKids_Cover_Phone.jpg/f36e9c707ad666f97cb38921272cefdc.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BirthdayKids/nx/BirthdayKids_map_bkg.tga.ckd/bdef0bf971f570948ef5c0058d21fdfa.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,19200,38400,57600,76800,96000,115200,134400,153600,172800,192000,211199,230400,249600,268800,288000,307200,326400,345600,364800,384000,403200,422399,441600,460800,480000,499200,518399,537600,556799,576000,595199,614400,633599,652800,672000,691200,710399,729600,748800,768000,787199,806400,825599,844799,864000,883200,902400,921600,940799,960000,979199,998400,1017599,1036799,1056000,1075200,1094400,1113599,1132799,1152000,1171200,1190399,1209599,1228800,1248000,1267199,1286399,1305600,1324799,1344000,1363199,1382400,1401600,1420799,1439999],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":232,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":75,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/birthdaykids/birthdaykids_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Public Domain. Published by Ubisoft Music. Performed by Steve Ouimette. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 96,
+  "mapName": "BirthdayKids",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497248\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1390792\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1812178\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1811666\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "BirthdayKids_mapContent"
+  },
+  "parentMapName": "BirthdayKids",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all"
+  ],
+  "songColors": {
+    "songColor_1A": "30AAD0FF",
+    "songColor_1B": "001550FF",
+    "songColor_2A": "292DDCFF",
+    "songColor_2B": "000050FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "KidsOnly",
+    "subscribedSong",
+    "ExcludedFromWDF"
+  ],
+  "title": "Happy Birthday",
+  "urls": {
+    "jmcs://jd-contents/BirthdayKids/BirthdayKids_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BirthdayKids/BirthdayKids_AudioPreview.ogg/6ae4b1e2559a9d34a018198ffd48b68e.ogg",
+    "jmcs://jd-contents/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_HIGH.vp8.webm/97b96c3703eb9af5787e42441a88a39a.webm",
+    "jmcs://jd-contents/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_HIGH.vp9.webm/0cb5de56a8aad5fcf6419767965a8be6.webm",
+    "jmcs://jd-contents/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_LOW.vp8.webm/94188914995b78a3df8f9da23570a3b6.webm",
+    "jmcs://jd-contents/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_LOW.vp9.webm/47091f05acfc6adbf700a985b199dbbf.webm",
+    "jmcs://jd-contents/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_MID.vp8.webm/51aa6d3f20087db0dffa5af0ff7f25e9.webm",
+    "jmcs://jd-contents/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_MID.vp9.webm/359dc896304269015c49c2ee2589864d.webm",
+    "jmcs://jd-contents/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d78b5a474091ff4844d8ac281a1e4907.webm",
+    "jmcs://jd-contents/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BirthdayKids/BirthdayKids_MapPreviewNoSoundCrop_ULTRA.vp9.webm/cd5bb0f3df3b597a485ee40a985a2a8f.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "8b065388d04654d360fadba82e03c38a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BirthdayKids/ps4/BirthdayKids_MAIN_SCENE_ORBIS.zip/8b065388d04654d360fadba82e03c38a.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "98eee04f894fe1e95a8f206483ed6463",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BirthdayKids/nx/BirthdayKids_MAIN_SCENE_NX.zip/98eee04f894fe1e95a8f206483ed6463.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "012897a2c053c813ebc95e737e81da5a",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/BirthdayKids/pc/012897a2c053c813ebc95e737e81da5a.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 12939
+}

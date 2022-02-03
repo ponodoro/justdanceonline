@@ -1,0 +1,120 @@
+{
+  "artist": "Dancing Bros.",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_banner_bkg.jpg/dc10a7f7278e714c2152e323c072241d.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Coach_1.png/427fbef2e04e2a98853c3eb0ac010d8d.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Coach_2.png/8e23ee53dd55cd18eedf86aa2c98de44.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Cover_Generic.jpg/4a985803068fe0f403141ef2586c0c7c.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Cover_1024.png/d7bb8c04d6b61fa9c752fbf041b2a599.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Cover_Online.jpg/7b417fe51605f154461b456bd3e6d302.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Cover_AlbumBkg.jpg/f69798b9c1430f56ca77363355bd9e35.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Cover_AlbumCoach.png/a62ab7bb9cefcd2899422a3f193bd57d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Coach_1_Phone.png/78c2d88ac7a85d18c8b49b9f3624782b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Coach_2_Phone.png/4cbb47dc847e163f4067bb312a416706.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Cover_Phone.jpg/7b417fe51605f154461b456bd3e6d302.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_VideoPreview.webm/13fc272f54b6560b0abaffb154cde62c.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_banner_bkg.jpg/dc10a7f7278e714c2152e323c072241d.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Coach_1.png/427fbef2e04e2a98853c3eb0ac010d8d.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Coach_2.png/8e23ee53dd55cd18eedf86aa2c98de44.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Cover_Generic.jpg/4a985803068fe0f403141ef2586c0c7c.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Cover_1024.png/d7bb8c04d6b61fa9c752fbf041b2a599.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Cover_Online.jpg/7b417fe51605f154461b456bd3e6d302.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Cover_AlbumBkg.jpg/f69798b9c1430f56ca77363355bd9e35.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Cover_AlbumCoach.png/a62ab7bb9cefcd2899422a3f193bd57d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Coach_1_Phone.png/78c2d88ac7a85d18c8b49b9f3624782b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Coach_2_Phone.png/4cbb47dc847e163f4067bb312a416706.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Cover_Phone.jpg/7b417fe51605f154461b456bd3e6d302.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_VideoPreview.webm/13fc272f54b6560b0abaffb154cde62c.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/wiiu/Moskau_banner_bkg.tga.ckd/e4f46e88fcc30bd11e9840a229c5ecfa.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/wiiu/Moskau_Coach_1.tga.ckd/bf0d8f55613299d2ea9663f864799b71.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/wiiu/Moskau_Coach_2.tga.ckd/3e553cd9e7b479a1de6945588961b95d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/wiiu/Moskau_Cover_Generic.tga.ckd/f7537288cd3c837c4a8f4d44748aa3f8.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Cover_1024.png/d7bb8c04d6b61fa9c752fbf041b2a599.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/wiiu/Moskau_Cover_Online.tga.ckd/2d4578695083f2fe2a53c276d71ec486.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/wiiu/Moskau_Cover_AlbumBkg.tga.ckd/4afce0c374794b69a84a4601f3f29c96.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/wiiu/Moskau_Cover_AlbumCoach.tga.ckd/521fad0bfe0e94c55c33a86c4ffe547e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Coach_1_Phone.png/78c2d88ac7a85d18c8b49b9f3624782b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Coach_2_Phone.png/4cbb47dc847e163f4067bb312a416706.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_Cover_Phone.jpg/7b417fe51605f154461b456bd3e6d302.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_VideoPreview.webm/13fc272f54b6560b0abaffb154cde62c.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21888,43776,65712,87600,109488,131376,153312,175200,197088,218976,240912,262800,284688,306624,328512,350399,372287,394223,416111,437999,459887,481823,503711,525599,547535,569423,591311,613199,635135,657023,678911,700799,722735,744623,766511,788398,810334,832222,854110,875998,897934,919822,941710,963646,985534,1007422,1029310,1051246,1073134,1095022,1116910,1138846,1160734,1182622,1204558,1226446,1248333,1270221,1292157,1314045,1335933,1357821,1379757,1401645,1423533],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":448,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/moskau/moskau_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "0BABF6FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 204.408,
+  "mapName": "Moskau",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497053\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Moskau/Moskau_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1117\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480808\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Moskau/Moskau_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2838054\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Moskau/Moskau_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3022713\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Moskau/Moskau_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "Moskau_mapContent"
+  },
+  "parentMapName": "Moskau",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "00919AFF",
+    "songColor_1B": "000D21FF",
+    "songColor_2A": "7CE5FFFF",
+    "songColor_2B": "010042FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Moskau",
+  "urls": {
+    "jmcs://jd-contents/Moskau/Moskau_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_AudioPreview.ogg/e1881569ad4546c4cd3650ee6a42af33.ogg",
+    "jmcs://jd-contents/Moskau/Moskau_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_MapPreviewNoSoundCrop_HIGH.vp8.webm/b8c10185050e4bf39d5e8983fc42bdcc.webm",
+    "jmcs://jd-contents/Moskau/Moskau_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_MapPreviewNoSoundCrop_HIGH.vp9.webm/dcf7adcd1eb964c46ae120135e0615c8.webm",
+    "jmcs://jd-contents/Moskau/Moskau_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_MapPreviewNoSoundCrop_LOW.vp8.webm/b40c0bf72cf149aa2d73d84105eda12a.webm",
+    "jmcs://jd-contents/Moskau/Moskau_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_MapPreviewNoSoundCrop_LOW.vp9.webm/84887896813e7de96763aa62f9db22fa.webm",
+    "jmcs://jd-contents/Moskau/Moskau_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_MapPreviewNoSoundCrop_MID.vp8.webm/e5f00cb85253bfefb51d87a2a042868a.webm",
+    "jmcs://jd-contents/Moskau/Moskau_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_MapPreviewNoSoundCrop_MID.vp9.webm/8bfc2fe7b2f134bc1000c6a0b3ba9957.webm",
+    "jmcs://jd-contents/Moskau/Moskau_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_MapPreviewNoSoundCrop_ULTRA.vp8.webm/430b642ec5a97c16b0b219da22745519.webm",
+    "jmcs://jd-contents/Moskau/Moskau_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Moskau/Moskau_MapPreviewNoSoundCrop_ULTRA.vp9.webm/331d8e1f316a1dfaf98d83b0f31bc844.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "548e56742f6f9b6bf589ea752aa10e06",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Moskau/ps4/Moskau_MAIN_SCENE_ORBIS.zip/548e56742f6f9b6bf589ea752aa10e06.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "0106300176e3dd0a93535f943a8eb247",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Moskau/pc/Moskau_MAIN_SCENE_PC.zip/0106300176e3dd0a93535f943a8eb247.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "8800b3e4223f1f2815c674f1a044693c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Moskau/wiiu/Moskau_MAIN_SCENE_WIIU.zip/8800b3e4223f1f2815c674f1a044693c.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "d11e8db3c563d5dcc3f0eb1bdc6f00e1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Moskau/nx/Moskau_MAIN_SCENE_NX.zip/d11e8db3c563d5dcc3f0eb1bdc6f00e1.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

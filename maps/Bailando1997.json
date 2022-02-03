@@ -1,0 +1,90 @@
+{
+  "artist": "Paradisio Ft. Dj Patrick Samoy",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bailando1997/Bailando1997_banner_bkg.jpg/549a6455024493752e61d6089662bcc4.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bailando1997/Bailando1997_Coach_1.png/99351b318058520e7684058e562b406d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Bailando1997/Bailando1997_Cover_Generic.jpg/ea4c1479b6cc2c10d81f3dd8dc410751.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Bailando1997/Bailando1997_Cover_Online.jpg/61311c0f88438b722738c2d6ea94de23.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bailando1997/Bailando1997_Cover_AlbumBkg.jpg/e551f3fbb6a915a11a596015f4ca57ac.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Bailando1997/Bailando1997_Cover_AlbumCoach.png/3bb25c7d155a926560660cf26b56d51d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bailando1997/Bailando1997_Coach_1_Phone.png/af5c5e557b5c0808e4f2ae8346f7475e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Bailando1997/Bailando1997_Cover_Phone.jpg/61311c0f88438b722738c2d6ea94de23.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bailando1997/Bailando1997_banner_bkg.jpg/549a6455024493752e61d6089662bcc4.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bailando1997/Bailando1997_Coach_1.png/99351b318058520e7684058e562b406d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Bailando1997/Bailando1997_Cover_Generic.jpg/ea4c1479b6cc2c10d81f3dd8dc410751.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Bailando1997/Bailando1997_Cover_Online.jpg/61311c0f88438b722738c2d6ea94de23.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bailando1997/Bailando1997_Cover_AlbumBkg.jpg/e551f3fbb6a915a11a596015f4ca57ac.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Bailando1997/Bailando1997_Cover_AlbumCoach.png/3bb25c7d155a926560660cf26b56d51d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bailando1997/Bailando1997_Coach_1_Phone.png/af5c5e557b5c0808e4f2ae8346f7475e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Bailando1997/Bailando1997_Cover_Phone.jpg/61311c0f88438b722738c2d6ea94de23.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21686,43373,65060,86747,108433,130120,151807,173494,195180,216867,238554,260241,281927,303614,325301,346988,368674,390361,412048,433735,455421,477108,498795,520482,542168,563855,585542,607229,628915,650602,672289,693976,715662,737349,759036,780723,802409,824096,845783,867470,889156,910843,932530,954217,975903,997590,1019277,1040964,1062650,1084337,1106024,1127711,1149397,1171084,1192771,1214458,1236144,1257831,1279518,1301205,1322891,1344578,1366265,1387952,1409638,1431325],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":459,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":66,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/bailando1997/bailando1997_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Patrick Samoy and Maria Garcia Asensio. Published by Universal Music Publishing Canada on behalf of PolyGram-Music-Publishing. Courtesy of P. Samoy Recordings. / Eurodance Floor Records under exclusive license to Idm Media Network S.r.l.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "E81A87FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 210.993,
+  "mapName": "Bailando1997",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497048\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"650-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-650\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1476144\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2910022\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3727085\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "Bailando1997_mapContent"
+  },
+  "parentMapName": "Bailando1997",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "342931FF",
+    "songColor_1B": "A82281FF",
+    "songColor_2A": "BE8D53FF",
+    "songColor_2B": "C6BBD5FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Bailando",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "dccc2096d88e5d2acf26f845b7ecabd9",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Bailando1997/ps4/Bailando1997_MAIN_SCENE_ORBIS.zip/dccc2096d88e5d2acf26f845b7ecabd9.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "d7b0c6b6fd64edef0e6e61bbe259c045",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Bailando1997/nx/Bailando1997_MAIN_SCENE_NX.zip/d7b0c6b6fd64edef0e6e61bbe259c045.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "4e8704dcc18cc8ebbf7fd98aa5215463",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Bailando1997/pc/4e8704dcc18cc8ebbf7fd98aa5215463.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/Bailando1997/Bailando1997_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/Bailando1997/Bailando1997_AudioPreview.ogg/de3676364f235a46c0d02a67cf38f5a0.ogg",
+    "jmcs://jd-contents/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_HIGH.vp8.webm/c65d119a19dd45a264239ab33ba80c73.webm",
+    "jmcs://jd-contents/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_HIGH.vp9.webm/8cc1fd3d7dee563478c0297e60563808.webm",
+    "jmcs://jd-contents/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_LOW.vp8.webm/e86db7b645342a3949f5c1a5ce30b99b.webm",
+    "jmcs://jd-contents/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_LOW.vp9.webm/b57553c6fec3745d2c290fcc8f2bcbc4.webm",
+    "jmcs://jd-contents/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_MID.vp8.webm/f85a58b6f71691c14df28b0bb2d94024.webm",
+    "jmcs://jd-contents/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_MID.vp9.webm/19daf8fddf60cfaec2da4d9dcd5cecce.webm",
+    "jmcs://jd-contents/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_ULTRA.vp8.webm/8cb8b0b20ffad19af8c831040074c0c8.webm",
+    "jmcs://jd-contents/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Bailando1997/Bailando1997_MapPreviewNoSoundCrop_ULTRA.vp9.webm/fca3aed63fbd6d33221b8e265149b960.webm"
+  }
+}

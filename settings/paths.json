@@ -1,0 +1,15 @@
+{
+  "main": "jdcs_Configuration.json",
+  "bannedUsers": "moderation/moderation_bannedUsers.json",
+  "skus": "status/status_skus.json",
+  "ap_scripts": "adminPanel/ap_scripts.json",
+  "newsPage": "custom/custom_newsPage.json",
+  "themedPlaylists": "jd/jd_themedPlaylists.json",
+  "wdf_config": "wdf/wdf_config.json",
+  "recommended": "jd/jd_recommendedSongs.json",
+  "topplayedsongs": "jd/jd_topPlayedSongs.json",
+  "newspage": "custom/custom_newsPage.json",
+  "countries": "jd/jd_countries.json",
+  "songdbLocalisation": "jd/jd_songdbLocalisation.json",
+  "serverBoosters": "moderation/moderation_serverBoosters.json"
+}

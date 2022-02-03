@@ -1,0 +1,123 @@
+{
+  "artist": "Spencer Ludwig",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/ps4/Diggy_banner_bkg.tga.ckd/41cd26f1bb1b54d5880c2916dd70802a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/ps4/Diggy_Coach_1.tga.ckd/6d77996998e9857515104360a6951284.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/ps4/Diggy_Cover_Generic.tga.ckd/56e4d2c6e5619f6ea346923642879161.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_Cover_1024.png/ab196c03d9550176eb1ff925552eef71.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/ps4/Diggy_Cover_Online.tga.ckd/e09137367a91c76f7d9adfa39db5d02e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/ps4/Diggy_Cover_AlbumBkg.tga.ckd/097df7a90a5b43473f151b8949e8dba2.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/ps4/Diggy_Cover_AlbumCoach.tga.ckd/076d64712c6a282b78ea24bc667af96c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_Coach_1_Phone.png/850cac99431255b33849013c6a8a8aed.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_Cover_Phone.jpg/199facb562366d26f7a9412e95c3e940.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_VideoPreview.webm/924596f4c1d740efa538832675d6500c.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/ps4/Diggy_map_bkg.tga.ckd/bc79a4c136ab5887c65d8e1d590e4464.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/nx/Diggy_banner_bkg.tga.ckd/d7ebe8e413064a349f9bd0d3ef0e7654.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/nx/Diggy_Coach_1.tga.ckd/f905f1f0a28bb8ea99c1e0d9cf9a9dc7.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/nx/Diggy_Cover_Generic.tga.ckd/b39dbfbd0b141cffaafa703e68db50a6.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_Cover_1024.png/ab196c03d9550176eb1ff925552eef71.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/nx/Diggy_Cover_Online.tga.ckd/56e2db6e87ce0109582bcff3aa1398b4.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/nx/Diggy_Cover_AlbumBkg.tga.ckd/5b8793fcc8a6b0332422a71c3bb168e4.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/nx/Diggy_Cover_AlbumCoach.tga.ckd/f0df5d15ff070490a8a76413c5fe8732.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_Coach_1_Phone.png/850cac99431255b33849013c6a8a8aed.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_Cover_Phone.jpg/199facb562366d26f7a9412e95c3e940.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_VideoPreview.webm/924596f4c1d740efa538832675d6500c.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/nx/Diggy_map_bkg.tga.ckd/09309d1891326663b8471acceb8f88f7.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/wiiu/Diggy_banner_bkg.tga.ckd/7ebdab6a6ca6f04ee950ec2a6e0938f5.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/wiiu/Diggy_Coach_1.tga.ckd/21a433e215067facbcf3a742f72fd789.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/wiiu/Diggy_Cover_Generic.tga.ckd/535b4204dc3f8c323e11689c4f0a54b1.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_Cover_1024.png/ab196c03d9550176eb1ff925552eef71.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/wiiu/Diggy_Cover_Online.tga.ckd/b837a060495a35a7db8cfa34d04ad357.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/wiiu/Diggy_Cover_AlbumBkg.tga.ckd/001b1c194ce883bc20bc8cb2ce85f1cb.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/wiiu/Diggy_Cover_AlbumCoach.tga.ckd/545185ee9115182d3d5b4907be097e25.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_Coach_1_Phone.png/850cac99431255b33849013c6a8a8aed.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_Cover_Phone.jpg/199facb562366d26f7a9412e95c3e940.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_VideoPreview.webm/924596f4c1d740efa538832675d6500c.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26160,52368,78528,104736,130896,157104,183264,209472,235632,261840,288000,314160,340368,366528,392736,418896,445104,471264,497472,523632,549840,576000,602160,628367,654527,680735,706895,733103,759263,785471,811631,837839,863999,890159,916367,942527,968735,994895,1021103,1047263,1073471,1099631,1125839,1151999,1178159,1204367,1230527,1256735,1282895,1309103,1335263,1361471,1387631,1413839,1439999],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":373,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":55,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/diggy/diggy_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Rachid Aziz, Lee Anna McCollum, Nadir Khayat, Spencer Ludwig, Daniel Leonard Nigro and Tom Peyton. Published by Songs of RedOne / Sony/ATV Songs LLC (BMI) c/o Sony/ATV Music Publishing Canada (SOCAN). / Spencer Ludwig Music Publishing (BMI) administered by Songs of Kobalt Music Publishing. / Brought To You By Heavy Duty (ASCAP). / BMG Platinum Songs on behalf of Song Of Reach Music, Songs From The Boardwalk, Lord Boyce, and BMG Gold Songs on behalf of Green And Bloom Smashes, Lee Anna James Music, and Lee Anna McCollum. All rights administered to BMG Rights Management (US) LLC. / Hits Change Everything. All rights reserved. Used with permission. (P) Line: 2016 Warner Bros. Records Inc. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "00E1E1FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 203.45499999999998,
+  "mapName": "Diggy",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496391\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Diggy/Diggy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478590\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Diggy/Diggy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2693971\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Diggy/Diggy_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4487992\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Diggy/Diggy_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "Diggy_mapContent"
+  },
+  "parentMapName": "Diggy",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "EA45FFFF",
+    "songColor_1B": "190033FF",
+    "songColor_2A": "FFC300FF",
+    "songColor_2B": "E26B00FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2018"
+  ],
+  "title": "Diggy",
+  "urls": {
+    "jmcs://jd-contents/Diggy/Diggy_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_AudioPreview.ogg/22feb3393e5410e2a85a5c0e227b626d.ogg",
+    "jmcs://jd-contents/Diggy/Diggy_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_MapPreviewNoSoundCrop_HIGH.vp8.webm/1dc63fa4be4258b6f83e8c6a2d387f8b.webm",
+    "jmcs://jd-contents/Diggy/Diggy_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_MapPreviewNoSoundCrop_HIGH.vp9.webm/4be2c730341fc31f2b5638d99f0c3229.webm",
+    "jmcs://jd-contents/Diggy/Diggy_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_MapPreviewNoSoundCrop_LOW.vp8.webm/5a008af82319c23277780296d56fbcf2.webm",
+    "jmcs://jd-contents/Diggy/Diggy_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_MapPreviewNoSoundCrop_LOW.vp9.webm/3d676050756dfadc1be4d830ba22b502.webm",
+    "jmcs://jd-contents/Diggy/Diggy_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_MapPreviewNoSoundCrop_MID.vp8.webm/44f3b2f33aa0e655118ba0d6c288bd29.webm",
+    "jmcs://jd-contents/Diggy/Diggy_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_MapPreviewNoSoundCrop_MID.vp9.webm/1fc5d602dca69d2403d119694f627b76.webm",
+    "jmcs://jd-contents/Diggy/Diggy_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_MapPreviewNoSoundCrop_ULTRA.vp8.webm/13c8f1f8727e2463d8f8a718a4829873.webm",
+    "jmcs://jd-contents/Diggy/Diggy_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Diggy/Diggy_MapPreviewNoSoundCrop_ULTRA.vp9.webm/1fbaed9e7f9b7bbc8707699114e98221.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "2dbfb11be2eced28ea4f919d9d09242a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Diggy/ps4/Diggy_MAIN_SCENE_ORBIS.zip/2dbfb11be2eced28ea4f919d9d09242a.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "0dec0e08873e46590bdc8cddd136026d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Diggy/nx/Diggy_MAIN_SCENE_NX.zip/0dec0e08873e46590bdc8cddd136026d.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "d25407aeea0168c005fd168987c5fb67",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Diggy/pc/d25407aeea0168c005fd168987c5fb67.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "46a70b8ee6a7ba5becab2cf5a413c4ac",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Diggy/wiiu/Diggy_MAIN_SCENE_WIIU.zip/46a70b8ee6a7ba5becab2cf5a413c4ac.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

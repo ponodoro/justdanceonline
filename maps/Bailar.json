@@ -1,0 +1,114 @@
+{
+  "artist": "Deorro Ft. Elvis Crespo",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_banner_bkg.jpg/6ea2626208f0514aa0cfa58df98d1229.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Coach_1.png/f413bd1ef18c46cd90ab758ba1c522cd.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Cover_Generic.jpg/1203e3301e835e86b6c2b0cb2d727125.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Cover_1024.png/9733c3d02efdd6429ce2f2cbe0938ff8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Cover_Online.jpg/61cbca0835f57f521ea8367fd39cdf36.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Cover_AlbumBkg.jpg/99246e6b73bb706fea3a6f5faedb0b35.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Cover_AlbumCoach.png/4641a76d9d06e31e13cef846f8b7d46d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Coach_1_Phone.png/2bd86ca7d28720434a0d801242a2fb4c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Cover_Phone.jpg/61cbca0835f57f521ea8367fd39cdf36.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_VideoPreview.webm/1b03ca676f959cb458867c5dc445bfba.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_banner_bkg.jpg/6ea2626208f0514aa0cfa58df98d1229.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Coach_1.png/f413bd1ef18c46cd90ab758ba1c522cd.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Cover_Generic.jpg/1203e3301e835e86b6c2b0cb2d727125.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Cover_1024.png/9733c3d02efdd6429ce2f2cbe0938ff8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Cover_Online.jpg/61cbca0835f57f521ea8367fd39cdf36.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Cover_AlbumBkg.jpg/99246e6b73bb706fea3a6f5faedb0b35.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Cover_AlbumCoach.png/4641a76d9d06e31e13cef846f8b7d46d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Coach_1_Phone.png/2bd86ca7d28720434a0d801242a2fb4c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Cover_Phone.jpg/61cbca0835f57f521ea8367fd39cdf36.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_VideoPreview.webm/1b03ca676f959cb458867c5dc445bfba.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/wiiu/Bailar_banner_bkg.tga.ckd/39eebe2386cb6e33ce97c32429389472.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/wiiu/Bailar_Coach_1.tga.ckd/ec69cdd45ad4fb4cc05a296ff67fbb80.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/wiiu/Bailar_Cover_Generic.tga.ckd/622360f4c210d0943434ad7cdbf8e8f3.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Cover_1024.png/9733c3d02efdd6429ce2f2cbe0938ff8.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/wiiu/Bailar_Cover_Online.tga.ckd/3f17cdcc7ca95121df33d1792f67443c.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/wiiu/Bailar_Cover_AlbumBkg.tga.ckd/86c8b138f5e33896373b7ee96aae7fed.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/wiiu/Bailar_Cover_AlbumCoach.tga.ckd/789f9906e8fdfe1ffe87d8757581e7c2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Coach_1_Phone.png/2bd86ca7d28720434a0d801242a2fb4c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_Cover_Phone.jpg/61cbca0835f57f521ea8367fd39cdf36.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_VideoPreview.webm/1b03ca676f959cb458867c5dc445bfba.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22512,45024,67536,90000,112512,135024,157535,179999,202511,225023,247535,269999,292511,315023,337535,359999,382511,405023,427535,449999,472511,495022,517534,539998,562510,585022,607534,629998,652510,675022,697534,719998,742510,765022,787534,809997,832509,855021,877533,899997,922509,945021,967533,989997,1012509,1035021,1057533,1079997,1102509,1125020,1147532,1169996,1192508,1215020,1237532,1259996,1282508,1305020,1327532,1349996,1372508,1395020,1417532,1439996],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":342,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/bailar/bailar_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "B219D9FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 163.126,
+  "mapName": "Bailar",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496980\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bailar/Bailar_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-619\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1450135\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bailar/Bailar_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1897162\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bailar/Bailar_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1904082\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bailar/Bailar_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "Bailar_mapContent"
+  },
+  "parentMapName": "Bailar",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "00BB9FFF",
+    "songColor_1B": "004E77FF",
+    "songColor_2A": "FFE591FF",
+    "songColor_2B": "B85B33FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Bailar",
+  "urls": {
+    "jmcs://jd-contents/Bailar/Bailar_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_AudioPreview.ogg/f5e1c3098233633a632c6ded826a6624.ogg",
+    "jmcs://jd-contents/Bailar/Bailar_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_MapPreviewNoSoundCrop_HIGH.vp8.webm/d3dd37580d47b0cea3e1cae70201fa59.webm",
+    "jmcs://jd-contents/Bailar/Bailar_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_MapPreviewNoSoundCrop_HIGH.vp9.webm/2a44bb9424c537a869e0956a1c3a62ca.webm",
+    "jmcs://jd-contents/Bailar/Bailar_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_MapPreviewNoSoundCrop_LOW.vp8.webm/c7c65678b6b1046a69432e403699b590.webm",
+    "jmcs://jd-contents/Bailar/Bailar_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_MapPreviewNoSoundCrop_LOW.vp9.webm/d841dc193e8dde6a84d96dae67880c11.webm",
+    "jmcs://jd-contents/Bailar/Bailar_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_MapPreviewNoSoundCrop_MID.vp8.webm/363d55cd52ede89bc76863f866b826f3.webm",
+    "jmcs://jd-contents/Bailar/Bailar_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_MapPreviewNoSoundCrop_MID.vp9.webm/1b2945a5fd4a5dc24583bc4ed78bb316.webm",
+    "jmcs://jd-contents/Bailar/Bailar_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b4658d8bada981a958a442e1bcefbf2c.webm",
+    "jmcs://jd-contents/Bailar/Bailar_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Bailar/Bailar_MapPreviewNoSoundCrop_ULTRA.vp9.webm/cde7a2f8568573e00df0301c7afb3696.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "b300e98c921df31656fe706faf2e483d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Bailar/ps4/Bailar_MAIN_SCENE_ORBIS.zip/b300e98c921df31656fe706faf2e483d.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "93eb6faa5930829d7dc0aabea5cf43ee",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Bailar/pc/Bailar_MAIN_SCENE_PC.zip/93eb6faa5930829d7dc0aabea5cf43ee.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "514cd460fdd8360c5bfe4105d6b6c4c8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Bailar/wiiu/Bailar_MAIN_SCENE_WIIU.zip/514cd460fdd8360c5bfe4105d6b6c4c8.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "e10f708535c40e4cb3d0fe082fede6ff",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Bailar/nx/Bailar_MAIN_SCENE_NX.zip/e10f708535c40e4cb3d0fe082fede6ff.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

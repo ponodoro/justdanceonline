@@ -1,0 +1,114 @@
+{
+  "artist": "The Reverend Horatio Duncan & Amos Sweets",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_banner_bkg.jpg/abe1b15c4fce409fa859391711c2a044.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Coach_1.png/1f92daa271768c7247cd5f558a5081d2.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Cover_Generic.jpg/eb7e612ac97f5f3e97862fe3411f65ed.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Cover_1024.png/21139b779bfa1de4b40ca0e438f9027f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Cover_Online.jpg/ded064858be0f6cdd29a9d1a4604b378.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Cover_AlbumBkg.jpg/0e27cb34884136256c91209a2678a868.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Cover_AlbumCoach.png/2c8948fc1900acdd5cf3eb8164aef881.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Coach_1_Phone.png/0e77e494966ab2975ec2873ed4effdff.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Cover_Phone.jpg/ded064858be0f6cdd29a9d1a4604b378.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_VideoPreview.webm/9afbe742665b62751fe09eec97b1508c.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_banner_bkg.jpg/abe1b15c4fce409fa859391711c2a044.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Coach_1.png/1f92daa271768c7247cd5f558a5081d2.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Cover_Generic.jpg/eb7e612ac97f5f3e97862fe3411f65ed.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Cover_1024.png/21139b779bfa1de4b40ca0e438f9027f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Cover_Online.jpg/ded064858be0f6cdd29a9d1a4604b378.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Cover_AlbumBkg.jpg/0e27cb34884136256c91209a2678a868.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Cover_AlbumCoach.png/2c8948fc1900acdd5cf3eb8164aef881.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Coach_1_Phone.png/0e77e494966ab2975ec2873ed4effdff.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Cover_Phone.jpg/ded064858be0f6cdd29a9d1a4604b378.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_VideoPreview.webm/9afbe742665b62751fe09eec97b1508c.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/wiiu/RiverSide_banner_bkg.tga.ckd/76db954a896540e778a419c1daf51f71.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/wiiu/RiverSide_Coach_1.tga.ckd/c2dc0b628a784780942301547f3395ca.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/wiiu/RiverSide_Cover_Generic.tga.ckd/577a13ffe4e2f8a25f2bb2d1a44cb0c2.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Cover_1024.png/21139b779bfa1de4b40ca0e438f9027f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/wiiu/RiverSide_Cover_Online.tga.ckd/bdc5cf3c85088db6ad98aedfc4ef2acc.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/wiiu/RiverSide_Cover_AlbumBkg.tga.ckd/38aa1cee0a24ca568f8a7a26b3e1bd43.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/wiiu/RiverSide_Cover_AlbumCoach.tga.ckd/afadfe62000042516bfb46441f017c71.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Coach_1_Phone.png/0e77e494966ab2975ec2873ed4effdff.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_Cover_Phone.jpg/ded064858be0f6cdd29a9d1a4604b378.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_VideoPreview.webm/9afbe742665b62751fe09eec97b1508c.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,29537,59075,88613,118151,147689,177227,206765,236303,265841,295379,324081,353619,383157,412695,442233,471771,501309,530847,560385,589923,619461,648999,678537,708075,737613,767151,796688,826226,855764,885302,914840,944378,973916,1003454,1032992,1062530,1092068,1121606,1151144,1180682,1210220,1239758,1269296,1298834,1328372,1357910,1387448,1416986],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":210,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":48,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/riverside/riverside_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF4D50FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 129.813,
+  "mapName": "RiverSide",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496421\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RiverSide/RiverSide_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1213256\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RiverSide/RiverSide_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1215021\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RiverSide/RiverSide_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1213079\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RiverSide/RiverSide_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "RiverSide_mapContent"
+  },
+  "parentMapName": "RiverSide",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "EA7500FF",
+    "songColor_1B": "2E0043FF",
+    "songColor_2A": "F36800FF",
+    "songColor_2B": "270043FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Down By The Riverside",
+  "urls": {
+    "jmcs://jd-contents/RiverSide/RiverSide_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_AudioPreview.ogg/c594be0f0dfb6e9e59f420d5afb45f09.ogg",
+    "jmcs://jd-contents/RiverSide/RiverSide_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_MapPreviewNoSoundCrop_HIGH.vp8.webm/ae4fe33eecba809ebba661aabbacb29a.webm",
+    "jmcs://jd-contents/RiverSide/RiverSide_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_MapPreviewNoSoundCrop_HIGH.vp9.webm/0b28723038541bdfa8df167e7fb9b5fb.webm",
+    "jmcs://jd-contents/RiverSide/RiverSide_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_MapPreviewNoSoundCrop_LOW.vp8.webm/cd5a78be825e57f3b065fab5faf2ed55.webm",
+    "jmcs://jd-contents/RiverSide/RiverSide_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_MapPreviewNoSoundCrop_LOW.vp9.webm/85f572ec669972c5d6da8951b1721225.webm",
+    "jmcs://jd-contents/RiverSide/RiverSide_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_MapPreviewNoSoundCrop_MID.vp8.webm/16239adc7481992106d988f521d2a7d3.webm",
+    "jmcs://jd-contents/RiverSide/RiverSide_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_MapPreviewNoSoundCrop_MID.vp9.webm/2df4b12ab218711afcb8ec0b46cc7119.webm",
+    "jmcs://jd-contents/RiverSide/RiverSide_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_MapPreviewNoSoundCrop_ULTRA.vp8.webm/3a1382d108550a12c4cd4a5f38aa2545.webm",
+    "jmcs://jd-contents/RiverSide/RiverSide_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/RiverSide/RiverSide_MapPreviewNoSoundCrop_ULTRA.vp9.webm/b6fbd4d74328dc9b5efa63a49ab2c1d2.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "0b78c79aa80410863bae55c140914d95",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RiverSide/ps4/RiverSide_MAIN_SCENE_ORBIS.zip/0b78c79aa80410863bae55c140914d95.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "4c5e98ad0a54b8f1faa4e9ae61b473b1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RiverSide/pc/RiverSide_MAIN_SCENE_PC.zip/4c5e98ad0a54b8f1faa4e9ae61b473b1.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "8770ed06a1f6708fa144307d4a04f3a4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RiverSide/wiiu/RiverSide_MAIN_SCENE_WIIU.zip/8770ed06a1f6708fa144307d4a04f3a4.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "e43a64468ba63708e210b871bdcec8fd",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/RiverSide/nx/RiverSide_MAIN_SCENE_NX.zip/e43a64468ba63708e210b871bdcec8fd.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

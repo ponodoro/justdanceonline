@@ -1,0 +1,114 @@
+{
+  "artist": "AronChupa",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_banner_bkg.jpg/88383b67a05c4e35bfb9fab4addf690b.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Coach_1.png/dd47e836610ed85a26ff14d0eb9556a4.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Cover_Generic.jpg/1430d33048210c85472525354cce4931.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Cover_1024.png/03fcec9579b5ac71d37e0678c12d7424.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Cover_Online.jpg/b57524585b553e2060ff6fe680ad94a6.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Cover_AlbumBkg.jpg/8ff711608fae172845b16fad7c376a8f.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Cover_AlbumCoach.png/823fd6168832c8459c594a8a8f719cf8.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Coach_1_Phone.png/b3463e4d897dda71d44162cfca24603f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Cover_Phone.jpg/b57524585b553e2060ff6fe680ad94a6.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_VideoPreview.webm/9278258e788c7e9a4faf1a2b81f1e3b0.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_banner_bkg.jpg/88383b67a05c4e35bfb9fab4addf690b.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Coach_1.png/dd47e836610ed85a26ff14d0eb9556a4.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Cover_Generic.jpg/1430d33048210c85472525354cce4931.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Cover_1024.png/03fcec9579b5ac71d37e0678c12d7424.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Cover_Online.jpg/b57524585b553e2060ff6fe680ad94a6.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Cover_AlbumBkg.jpg/8ff711608fae172845b16fad7c376a8f.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Cover_AlbumCoach.png/823fd6168832c8459c594a8a8f719cf8.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Coach_1_Phone.png/b3463e4d897dda71d44162cfca24603f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Cover_Phone.jpg/b57524585b553e2060ff6fe680ad94a6.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_VideoPreview.webm/9278258e788c7e9a4faf1a2b81f1e3b0.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/wiiu/Albatraoz_banner_bkg.tga.ckd/152abf7a418c91d324a831788cc55c24.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/wiiu/Albatraoz_Coach_1.tga.ckd/5e020add632906d7879494b0efd71d8d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/wiiu/Albatraoz_Cover_Generic.tga.ckd/c45428d51504c8fe2a5ed6a240c47e9a.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Cover_1024.png/03fcec9579b5ac71d37e0678c12d7424.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/wiiu/Albatraoz_Cover_Online.tga.ckd/40e9666b5a10ba739015758603418208.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/wiiu/Albatraoz_Cover_AlbumBkg.tga.ckd/49ae361d69a1c5f66e9b3605b889e3d6.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/wiiu/Albatraoz_Cover_AlbumCoach.tga.ckd/eb261028836ded74c9182fd1f11a5a0e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Coach_1_Phone.png/b3463e4d897dda71d44162cfca24603f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_Cover_Phone.jpg/b57524585b553e2060ff6fe680ad94a6.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_VideoPreview.webm/9278258e788c7e9a4faf1a2b81f1e3b0.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22512,45024,67489,90001,112513,135025,157489,180001,202513,225025,247489,270001,292513,315025,337489,360001,382513,405025,427489,450001,472513,495025,517489,540001,562513,585025,607489,630001,652513,675026,697490,720002,742514,765026,787490,810002,832514,855026,877490,900002,922514,945026,967490,990002,1012514,1035026,1057490,1080002,1102514,1125026,1147490,1170002,1192514,1215026,1237490,1260002,1282514,1305027,1327491,1350003,1372515,1395027,1417491],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":333,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/albatraoz/albatraoz_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF17C6FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 158.438,
+  "mapName": "Albatraoz",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"494984\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1375689\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1990816\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2015764\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "Albatraoz_mapContent"
+  },
+  "parentMapName": "Albatraoz",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FF74D1FF",
+    "songColor_1B": "0C000EFF",
+    "songColor_2A": "F9CC95FF",
+    "songColor_2B": "2A1D03FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "I'm An Albatraoz ",
+  "urls": {
+    "jmcs://jd-contents/Albatraoz/Albatraoz_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_AudioPreview.ogg/94ec72d8fa4f660bb8cd120469e5676c.ogg",
+    "jmcs://jd-contents/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_HIGH.vp8.webm/fd047351784c0c7fece5ea2c6362c51a.webm",
+    "jmcs://jd-contents/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_HIGH.vp9.webm/47c8de451c5d4d1c5e0281a7cc7e6508.webm",
+    "jmcs://jd-contents/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_LOW.vp8.webm/4f44fd7590843bce98c928180b5430b8.webm",
+    "jmcs://jd-contents/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_LOW.vp9.webm/4b76c8ca8009ed26aea25bad0c2a3905.webm",
+    "jmcs://jd-contents/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_MID.vp8.webm/e6b8220e6f622ffad3d22d3639d9999a.webm",
+    "jmcs://jd-contents/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_MID.vp9.webm/adefc80e09c8e4cd2f559d0fa2388095.webm",
+    "jmcs://jd-contents/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_ULTRA.vp8.webm/04185caa51d50403f5a62f1346e90e8a.webm",
+    "jmcs://jd-contents/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Albatraoz/Albatraoz_MapPreviewNoSoundCrop_ULTRA.vp9.webm/0734294e084719cc166860180b05ab86.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "5b6e280df114fdeeb8ecd391496d8c91",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Albatraoz/ps4/Albatraoz_MAIN_SCENE_ORBIS.zip/5b6e280df114fdeeb8ecd391496d8c91.zip",
+      "version": 21
+    },
+    "pc": {
+      "md5": "a881cb98aafc3888cd36377684f1156e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Albatraoz/pc/Albatraoz_MAIN_SCENE_PC.zip/a881cb98aafc3888cd36377684f1156e.zip",
+      "version": 11
+    },
+    "wiiu": {
+      "md5": "841bfecfdc74f867f07296b4b9bd6192",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Albatraoz/wiiu/Albatraoz_MAIN_SCENE_WIIU.zip/841bfecfdc74f867f07296b4b9bd6192.zip",
+      "version": 21
+    },
+    "nx": {
+      "md5": "3cbe4f0e3a4a541603ac0e7215d4290d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Albatraoz/nx/Albatraoz_MAIN_SCENE_NX.zip/3cbe4f0e3a4a541603ac0e7215d4290d.zip",
+      "version": 12
+    }
+  },
+  "mapType": "jdu"
+}

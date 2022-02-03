@@ -1,0 +1,117 @@
+{
+  "artist": "Avril Lavigne",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_banner_bkg.jpg/c621a858755f510d9656d0f28df55316.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Coach_1.png/80ab27ca620fb82d23864828eb14fa01.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Coach_2.png/6aa31b96e09c7abf13458e2573bc6ae5.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Cover_Generic.jpg/25096d5838d51bfbf09cd7576e22b5f8.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Cover_1024.png/5f856ea1bf9395c31c0109f02eb6230c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Cover_Online.jpg/cb8df77e1a53ba27c3bbaa55f9366fe4.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Cover_AlbumBkg.jpg/3b4b789f9564abdd87eb9bfc09b79f31.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Cover_AlbumCoach.png/8bac04f2856e58eef1398ca96b37a8b1.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Coach_1_Phone.png/7c95f1e573a8dfbc2ac7f71cfa3a455b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Coach_2_Phone.png/b5cba16b1da2e9d3324d7b26c0f76531.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Cover_Phone.jpg/cb8df77e1a53ba27c3bbaa55f9366fe4.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_banner_bkg.jpg/c621a858755f510d9656d0f28df55316.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Coach_1.png/80ab27ca620fb82d23864828eb14fa01.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Coach_2.png/6aa31b96e09c7abf13458e2573bc6ae5.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Cover_Generic.jpg/25096d5838d51bfbf09cd7576e22b5f8.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Cover_1024.png/5f856ea1bf9395c31c0109f02eb6230c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Cover_Online.jpg/cb8df77e1a53ba27c3bbaa55f9366fe4.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Cover_AlbumBkg.jpg/3b4b789f9564abdd87eb9bfc09b79f31.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Cover_AlbumCoach.png/8bac04f2856e58eef1398ca96b37a8b1.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Coach_1_Phone.png/7c95f1e573a8dfbc2ac7f71cfa3a455b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Coach_2_Phone.png/b5cba16b1da2e9d3324d7b26c0f76531.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Cover_Phone.jpg/cb8df77e1a53ba27c3bbaa55f9366fe4.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/wiiu/Girlfriend_banner_bkg.tga.ckd/c064d5f8efd84f3eed3cdbcaa9a1dc71.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/wiiu/Girlfriend_Coach_1.tga.ckd/90f14f1f769a70bf329fd5f980018018.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/wiiu/Girlfriend_Coach_2.tga.ckd/4d618faacda2031762906956515dff63.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/wiiu/Girlfriend_Cover_Generic.tga.ckd/0848436ec1ee26965daea7524c52f5f2.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Cover_1024.png/5f856ea1bf9395c31c0109f02eb6230c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/wiiu/Girlfriend_Cover_Online.tga.ckd/73ea18fc227343118bc5456e9c82e07e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/wiiu/Girlfriend_Cover_AlbumBkg.tga.ckd/1be774539eac3dbebd963c7044b859a1.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/wiiu/Girlfriend_Cover_AlbumCoach.tga.ckd/58329c8d36354781f188dea4b1de71e8.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Coach_1_Phone.png/7c95f1e573a8dfbc2ac7f71cfa3a455b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Coach_2_Phone.png/b5cba16b1da2e9d3324d7b26c0f76531.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_Cover_Phone.jpg/cb8df77e1a53ba27c3bbaa55f9366fe4.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,17561,35122,52683,70244,87804,105365,122926,140487,158048,175609,193169,210730,228291,245852,263413,280973,298534,316095,333656,351217,368777,386338,403899,421460,439021,456582,474142,491703,509264,526825,544386,561946,579507,597068,614629,632190,649751,667311,684872,702433,719994,737555,755115,772676,790237,807798,825359,842920,860480,878041,895602,913163,930724,948284,965845,983406,1000967,1018528,1036089,1053649,1071210,1088771,1106332,1123893,1141453,1159014,1176575,1194136,1211697,1229257,1246818,1264379,1281940,1299501,1317062,1334622,1352183,1369744,1387305,1404866,1422426,1439987],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":597,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":82,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/girlfriend/girlfriend_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "9F109FFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 218.71099999999998,
+  "mapName": "Girlfriend",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496831\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1476684\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2307211\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2308072\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "Girlfriend_mapContent"
+  },
+  "parentMapName": "Girlfriend",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "00ABAFFF",
+    "songColor_1B": "053D69FF",
+    "songColor_2A": "FF5E9BFF",
+    "songColor_2B": "8F084EFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Girlfriend",
+  "urls": {
+    "jmcs://jd-contents/Girlfriend/Girlfriend_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_AudioPreview.ogg/108d144a38ab45d38cc832b154eb57f6.ogg",
+    "jmcs://jd-contents/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_HIGH.vp8.webm/4d5d661aa63b77eaa677295ef9fabd31.webm",
+    "jmcs://jd-contents/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_HIGH.vp9.webm/b13ad58bfd47202946e3515f8df2c831.webm",
+    "jmcs://jd-contents/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_LOW.vp8.webm/02507c69df83193594e65a712bcd65a4.webm",
+    "jmcs://jd-contents/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_LOW.vp9.webm/6ea226379ffb31745af630bd0f85e492.webm",
+    "jmcs://jd-contents/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_MID.vp8.webm/b3d504623cce9d5ba4c82472d53eb2f7.webm",
+    "jmcs://jd-contents/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_MID.vp9.webm/dc7b785635a912a55b58d2c313e71fa7.webm",
+    "jmcs://jd-contents/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d49901f12095ecb1b4dfb2ed8fe89f5a.webm",
+    "jmcs://jd-contents/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Girlfriend/Girlfriend_MapPreviewNoSoundCrop_ULTRA.vp9.webm/e7d6aeabfa2b4662a484b3933bbb8b5f.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "65f9ace2c17b4c9adac9ee0469376291",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Girlfriend/ps4/Girlfriend_MAIN_SCENE_ORBIS.zip/65f9ace2c17b4c9adac9ee0469376291.zip",
+      "version": 6
+    },
+    "pc": {
+      "md5": "944419e651ae8cea9d61087d111992d3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Girlfriend/pc/Girlfriend_MAIN_SCENE_PC.zip/944419e651ae8cea9d61087d111992d3.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "02beb1978ee97eccb60c9fafbdec98f1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Girlfriend/wiiu/Girlfriend_MAIN_SCENE_WIIU.zip/02beb1978ee97eccb60c9fafbdec98f1.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "c87af852dabafde5e9f769aba4d82a12",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Girlfriend/nx/Girlfriend_MAIN_SCENE_NX.zip/c87af852dabafde5e9f769aba4d82a12.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

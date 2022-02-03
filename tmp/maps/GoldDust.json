@@ -1,0 +1,97 @@
+{
+  "artist": "DJ Fresh",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/ggp/GoldDust_banner_bkg.tga.ckd/adf9d2fab45b5f95d7f78a1346479e6f.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/ggp/GoldDust_Coach_1.tga.ckd/32448ce16aea72521d73d503fb1c2555.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/ggp/GoldDust_Cover_Generic.tga.ckd/349383b094ba52b5dda19669673ff809.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/GoldDust_Cover_1024.png/edb9b9fa4ad3dda796675993b9bed39c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/ggp/GoldDust_Cover_Online.tga.ckd/35897dc5fd6ba95f1ea7a49c26f5e532.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/ggp/GoldDust_Cover_AlbumBkg.tga.ckd/aaa33f862c5399e12f30fc0feba73a88.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/ggp/GoldDust_Cover_AlbumCoach.tga.ckd/2e73385b3102ece1df304e276e53a8bc.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/GoldDust_Coach_1_Phone.png/19bbeb506f039ffa5ea3cbe4cff9e76e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/GoldDust_Cover_Phone.jpg/0b4fee1484f509bf404a13cedf9b5f18.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GoldDust/GoldDust_VideoPreview.webm/63a216e03f5de710db1d17cb0de585a8.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/ggp/GoldDust_map_bkg.tga.ckd/e9bb52e7595ee1e793c64633d21313ef.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/nx/GoldDust_banner_bkg.tga.ckd/b41a6bfbdd439525d3ce0e286dd310db.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/nx/GoldDust_Coach_1.tga.ckd/58f46b2a0e60f85444de1cf985bf9563.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/nx/GoldDust_Cover_Generic.tga.ckd/b65d8680e60ce388929ebfab84a16d41.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/GoldDust_Cover_1024.png/edb9b9fa4ad3dda796675993b9bed39c.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/nx/GoldDust_Cover_Online.tga.ckd/f3ba32c60f73bcf0dea10ca385904a05.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/nx/GoldDust_Cover_AlbumBkg.tga.ckd/d940824ec1bef6e8ccee42a7febde429.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/nx/GoldDust_Cover_AlbumCoach.tga.ckd/805857bf0c4bcb31c555ae604f3e5a7d.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/nx/GoldDust_map_bkg.tga.ckd/793908ed119c1a7e844cdeaf4c3363c1.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/GoldDust_Coach_1_Phone.png/19bbeb506f039ffa5ea3cbe4cff9e76e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GoldDust/GoldDust_Cover_Phone.jpg/0b4fee1484f509bf404a13cedf9b5f18.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/GoldDust/GoldDust_VideoPreview.webm/63a216e03f5de710db1d17cb0de585a8.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,32542,65084,97626,130168,162710,195252,227794,260336,292878,325420,357962,390504,423046,455588,488130,520672,553214,585756,618298,650840,683382,715924,748466,781008,813550,846092,878634,911176,943718,976260,1008802,1041344,1073886,1106428,1138970,1171512,1204054,1236596,1269138,1301680,1334222,1366764,1399306,1431848],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":285,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":44,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/golddust/golddust_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "630C86FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 193.897,
+  "mapName": "GoldDust",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497707\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoldDust/GoldDust_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483882\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoldDust/GoldDust_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2590253\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoldDust/GoldDust_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2605135\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoldDust/GoldDust_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "GoldDust_mapContent"
+  },
+  "parentMapName": "GoldDust",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {},
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Gold Dust",
+  "urls": {
+    "jmcs://jd-contents/GoldDust/GoldDust_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/GoldDust/GoldDust_AudioPreview.ogg/7c2049f02238d08c33a638c488188104.ogg",
+    "jmcs://jd-contents/GoldDust/GoldDust_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/GoldDust/GoldDust_MapPreviewNoSoundCrop_HIGH.vp8.webm/69c9ef10955bcb1d767fe921a0687b1b.webm",
+    "jmcs://jd-contents/GoldDust/GoldDust_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/GoldDust/GoldDust_MapPreviewNoSoundCrop_HIGH.vp9.webm/738357615f8c827133af79b888b2f86e.webm",
+    "jmcs://jd-contents/GoldDust/GoldDust_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/GoldDust/GoldDust_MapPreviewNoSoundCrop_LOW.vp8.webm/250ece07c63a63416d54783a0dd1be2d.webm",
+    "jmcs://jd-contents/GoldDust/GoldDust_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/GoldDust/GoldDust_MapPreviewNoSoundCrop_LOW.vp9.webm/98dc1fbec394d4d3f157ab4ede0b7c23.webm",
+    "jmcs://jd-contents/GoldDust/GoldDust_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/GoldDust/GoldDust_MapPreviewNoSoundCrop_MID.vp8.webm/83ede3e90f0e7c5eda11fa84265143f0.webm",
+    "jmcs://jd-contents/GoldDust/GoldDust_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/GoldDust/GoldDust_MapPreviewNoSoundCrop_MID.vp9.webm/c4a6dda66d306cf07d682558cd43b235.webm",
+    "jmcs://jd-contents/GoldDust/GoldDust_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/GoldDust/GoldDust_MapPreviewNoSoundCrop_ULTRA.vp8.webm/3bc43c88ee377f1055e53c18e01dca04.webm",
+    "jmcs://jd-contents/GoldDust/GoldDust_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/GoldDust/GoldDust_MapPreviewNoSoundCrop_ULTRA.vp9.webm/24b5a2ce204d84249cbeac8ce3ed9d76.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "e243feaca0bc4762a53573c4fac629e5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GoldDust/ps4/GoldDust_MAIN_SCENE_ORBIS.zip/e243feaca0bc4762a53573c4fac629e5.zip",
+      "version": 15
+    },
+    "pc": {
+      "md5": "5c2955d6790dac783e92f78a76090b53",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GoldDust/pc/GoldDust_MAIN_SCENE_PC.zip/5c2955d6790dac783e92f78a76090b53.zip",
+      "version": 15
+    },
+    "wiiu": {
+      "md5": "",
+      "version": 0
+    },
+    "nx": {
+      "md5": "7d6ec3de1a6ef50b7ba12335e38b4a3c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/GoldDust/nx/GoldDust_MAIN_SCENE_NX.zip/7d6ec3de1a6ef50b7ba12335e38b4a3c.zip",
+      "version": 15
+    }
+  },
+  "mapType": "jdu"
+}

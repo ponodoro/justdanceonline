@@ -1,0 +1,38 @@
+{
+  "__class": "OnlineBlock",
+  "artist": "JDMFlamenco Artist",
+  "assets": {
+    "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamencoALT01/pc/JDMFlamencoALT01_Cover_Generic.tga.ckd/6fd5e404b010a2139d2d11eb28e7867e.ckd",
+    "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamencoALT01/pc/JDMFlamencoALT01_Cover_Online.tga.ckd/7f6bc6c0a5a995eb68c7dbee6e308927.ckd"
+  },
+  "coachCount": 1,
+  "credits": "Empty Credits",
+  "customTypeNameId": 8610,
+  "difficulty": 2,
+  "jdmAttributes": [
+    "JDM_Cool"
+  ],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 30,
+  "mapName": "JDMFlamencoALT01",
+  "mode": 6,
+  "originalJDVersion": 2017,
+  "packages": {
+    "mapContent": "JDMFlamencoALT01_mapContent"
+  },
+  "parentMapName": "JDMFlamenco",
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 6,
+  "tags": [
+    "DanceMachine"
+  ],
+  "title": "JDMFlamenco - ALTERNATE01",
+  "isPlayable": false
+}

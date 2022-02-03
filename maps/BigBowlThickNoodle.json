@@ -1,0 +1,92 @@
+{
+  "artist": "Wu Yi Fan (Kris Lee)",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/ps4/BigBowlThickNoodle_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
+      "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/ps4/BigBowlThickNoodle_Coach_1.tga.ckd/4ca36affb06cce38a9df668df8118981.ckd",
+      "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/ps4/BigBowlThickNoodle_Cover_Generic.tga.ckd/a0322642da6b68fe29be9328816c806a.ckd",
+      "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/ps4/BigBowlThickNoodle_Cover_Online.tga.ckd/5643e035b98a06ec9d81560e20d60799.ckd",
+      "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/ps4/BigBowlThickNoodle_Cover_AlbumBkg.tga.ckd/047cc47b24a930861effd21f3e27076a.ckd",
+      "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/ps4/BigBowlThickNoodle_Cover_AlbumCoach.tga.ckd/7be62aad683603f670c1c3b12b19a221.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/BigBowlThickNoodle_Coach_1_Phone.png/9b23b29bc5ef63bad011e3b20dd074e8.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/BigBowlThickNoodle_Cover_Phone.jpg/1d8dabb14a1f132d9b2b7c2ada4f4dc4.jpg",
+      "map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/ps4/BigBowlThickNoodle_map_bkg.tga.ckd/2b6b21ecf314c97a654ac5e3f3bbd464.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/nx/BigBowlThickNoodle_banner_bkg.tga.ckd/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+      "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/nx/BigBowlThickNoodle_Coach_1.tga.ckd/ccd8b16b5c8f39fd557da7c92dbe09ff.ckd",
+      "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/nx/BigBowlThickNoodle_Cover_Generic.tga.ckd/43ce235d2a2b8bb719c94c0a0e526b2c.ckd",
+      "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/nx/BigBowlThickNoodle_Cover_Online.tga.ckd/f1b2b4241304f2a63ed89d41309552f5.ckd",
+      "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/nx/BigBowlThickNoodle_Cover_AlbumBkg.tga.ckd/3361dea0da312ceb91f6b4b83e0cd7f3.ckd",
+      "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/nx/BigBowlThickNoodle_Cover_AlbumCoach.tga.ckd/a7202300945e9ac5c03282f3c40b73fe.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/BigBowlThickNoodle_Coach_1_Phone.png/9b23b29bc5ef63bad011e3b20dd074e8.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/BigBowlThickNoodle_Cover_Phone.jpg/1d8dabb14a1f132d9b2b7c2ada4f4dc4.jpg",
+      "map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/nx/BigBowlThickNoodle_map_bkg.tga.ckd/b0219c9fcff6a32cbf2577fde412010c.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28800,57600,86400,115200,144000,172800,201600,230400,259200,288000,316800,345600,374400,403200,432000,460800,489600,518400,547200,576000,604800,633600,662400,691200,720000,748800,777600,806400,835200,864000,892800,921600,950400,979200,1008000,1036800,1065600,1094400,1123200,1152000,1180800,1209600,1238400,1267200,1296000,1324800,1353600,1382400,1411200],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":362,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":49,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/bigbowlthicknoodle/bigbowlthicknoodle_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Yifan Wu. Published by Universal Music Publishing Canada on behalf of Songs Of Universal, Inc. Courtesy of Interscope Records/Universal Music China under license from Universal Music Enterprises.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF200AFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 222,
+  "mapName": "BigBowlThickNoodle",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"509916\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"673-1162\">\r\n\t\t\t\t\t<Initialization range=\"0-673\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483283\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"674-1164\">\r\n\t\t\t\t\t<Initialization range=\"0-674\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2916165\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"674-1164\">\r\n\t\t\t\t\t<Initialization range=\"0-674\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5031767\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"674-1167\">\r\n\t\t\t\t\t<Initialization range=\"0-674\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4514,
+  "packages": {
+    "mapContent": "BigBowlThickNoodle_mapContent"
+  },
+  "parentMapName": "BigBowlThickNoodle",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "333188FF",
+    "songColor_1B": "BD131EFF",
+    "songColor_2A": "DFDFF2FF",
+    "songColor_2B": "7064ADFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Da Wan Kuan Mian (Big Bowl Thick Noodle)",
+  "urls": {
+    "jmcs://jd-contents/BigBowlThickNoodle/BigBowlThickNoodle_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/BigBowlThickNoodle_AudioPreview.ogg/8e3af987df689e881bee8bde5ccca8ea.ogg",
+    "jmcs://jd-contents/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_HIGH.vp8.webm/f0975f0efe44dd6d79be030de1b4871d.webm",
+    "jmcs://jd-contents/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_HIGH.vp9.webm/ce95240e29c7d8b34149bb4eb5398b43.webm",
+    "jmcs://jd-contents/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_LOW.vp8.webm/3244d9aba2092c62a548e95bad4721a1.webm",
+    "jmcs://jd-contents/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_LOW.vp9.webm/005b610ff75f159e550b32130814c638.webm",
+    "jmcs://jd-contents/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_MID.vp8.webm/fe3d7aa0642f58c75701c351c646edec.webm",
+    "jmcs://jd-contents/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_MID.vp9.webm/0185b8d3f6e248d4cd3df16b968e104b.webm",
+    "jmcs://jd-contents/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_ULTRA.vp8.webm/c00636e7b51a6261d684647304aa767c.webm",
+    "jmcs://jd-contents/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/BigBowlThickNoodle_MapPreviewNoSoundCrop_ULTRA.vp9.webm/7ef104cff5b8ff961d6ea1cc3c5a18ce.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "f5ba57b197fd8e1122bb9ff68d1546ac",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/ps4/BigBowlThickNoodle_MAIN_SCENE_ORBIS.zip/f5ba57b197fd8e1122bb9ff68d1546ac.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "84f7d47bd912ac6b5e9580fa9343703f",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/BigBowlThickNoodle/nx/BigBowlThickNoodle_MAIN_SCENE_NX.zip/84f7d47bd912ac6b5e9580fa9343703f.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "25cc4371adcbca9403dc32fe3a763067",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/BigBowlThickNoodle/pc/25cc4371adcbca9403dc32fe3a763067.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

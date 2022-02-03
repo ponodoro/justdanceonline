@@ -1,0 +1,90 @@
+{
+  "artist": "ONUKA",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Zenit/Zenit_banner_bkg.jpg/4afd8d0fada7f596ec5cf46b8b0826ec.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Zenit/Zenit_Coach_1.png/e0a75d53cb4e9d4813c2e873fcc1cdf6.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Zenit/Zenit_Cover_Generic.jpg/ecd2bd696eff41e0e800506ce2501f02.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Zenit/Zenit_Cover_Online.jpg/532dba578e79169719ad1875993c09f5.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Zenit/Zenit_Cover_AlbumBkg.jpg/32bdf3dc82c8e9d1b79d91f92a7eb0c9.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Zenit/Zenit_Cover_AlbumCoach.png/95997d0ab0a1379eb045fb54d7da3d95.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Zenit/Zenit_Coach_1_Phone.png/62957466318987231c49eb0553dae736.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Zenit/Zenit_Cover_Phone.jpg/532dba578e79169719ad1875993c09f5.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Zenit/Zenit_banner_bkg.jpg/4afd8d0fada7f596ec5cf46b8b0826ec.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Zenit/Zenit_Coach_1.png/e0a75d53cb4e9d4813c2e873fcc1cdf6.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Zenit/Zenit_Cover_Generic.jpg/ecd2bd696eff41e0e800506ce2501f02.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Zenit/Zenit_Cover_Online.jpg/532dba578e79169719ad1875993c09f5.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Zenit/Zenit_Cover_AlbumBkg.jpg/32bdf3dc82c8e9d1b79d91f92a7eb0c9.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Zenit/Zenit_Cover_AlbumCoach.png/95997d0ab0a1379eb045fb54d7da3d95.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Zenit/Zenit_Coach_1_Phone.png/62957466318987231c49eb0553dae736.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Zenit/Zenit_Cover_Phone.jpg/532dba578e79169719ad1875993c09f5.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,41143,82286,123429,164572,205715,246858,288000,329143,370286,411429,452572,493715,534858,576000,617143,658286,699429,740572,781715,822858,864000,905143,946286,987429,1028572,1069715,1110858,1152000,1193143,1234286,1275429,1316572,1357715,1398858],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":267,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":34,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/zenit/zenit_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Yevgen Filatov and Nataliia Zhyzhchenko. Published by VIDLIK, 2019 Courtesy of VIDLIK.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "05B3FFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 234.85799999999998,
+  "mapName": "Zenit",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495979\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Zenit/Zenit_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1471629\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Zenit/Zenit_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2328028\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Zenit/Zenit_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2327716\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Zenit/Zenit_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "Zenit_mapContent"
+  },
+  "parentMapName": "Zenit",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "56FFC9FF",
+    "songColor_1B": "00C7D9FF",
+    "songColor_2A": "F9FFBBFF",
+    "songColor_2B": "E64564FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Zenit",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "adfac6e7bae23c269b6ce686955c6022",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Zenit/ps4/Zenit_MAIN_SCENE_ORBIS.zip/adfac6e7bae23c269b6ce686955c6022.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "fbd6ff7a2bb01c60f2cbf8f3533228b6",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Zenit/nx/Zenit_MAIN_SCENE_NX.zip/fbd6ff7a2bb01c60f2cbf8f3533228b6.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "26e7c9aae0e60d791bee4dac75637dcc",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Zenit/pc/26e7c9aae0e60d791bee4dac75637dcc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/Zenit/Zenit_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/Zenit/Zenit_AudioPreview.ogg/e06bf45cc0fec09978f345a6a32aed3d.ogg",
+    "jmcs://jd-contents/Zenit/Zenit_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Zenit/Zenit_MapPreviewNoSoundCrop_HIGH.vp8.webm/cad14c0b311baee793c1b3668b2659dd.webm",
+    "jmcs://jd-contents/Zenit/Zenit_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Zenit/Zenit_MapPreviewNoSoundCrop_HIGH.vp9.webm/d3c31ef614a8c27f75efa57db1705470.webm",
+    "jmcs://jd-contents/Zenit/Zenit_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Zenit/Zenit_MapPreviewNoSoundCrop_LOW.vp8.webm/2308d5ac1d819c455e23de47a69bb3ae.webm",
+    "jmcs://jd-contents/Zenit/Zenit_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Zenit/Zenit_MapPreviewNoSoundCrop_LOW.vp9.webm/d5a2ad06abe3a024baef089236e41e85.webm",
+    "jmcs://jd-contents/Zenit/Zenit_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Zenit/Zenit_MapPreviewNoSoundCrop_MID.vp8.webm/09a0b3d94172a788631160cdbe19573b.webm",
+    "jmcs://jd-contents/Zenit/Zenit_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Zenit/Zenit_MapPreviewNoSoundCrop_MID.vp9.webm/55f7e62e471b959f7488f91bf4ab03d4.webm",
+    "jmcs://jd-contents/Zenit/Zenit_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Zenit/Zenit_MapPreviewNoSoundCrop_ULTRA.vp8.webm/9fc174073b4fe29d08bd746bf481a849.webm",
+    "jmcs://jd-contents/Zenit/Zenit_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Zenit/Zenit_MapPreviewNoSoundCrop_ULTRA.vp9.webm/993a840d40a822551490a6c272ecd2ad.webm"
+  }
+}

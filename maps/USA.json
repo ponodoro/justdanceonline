@@ -1,0 +1,108 @@
+{
+  "artist": "DA PUMP",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/USA/ps4/USA_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/ps4/USA_Coach_1.tga.ckd/e88086f17bd8da55a7b4b37c99c7d97e.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/ps4/USA_Coach_2.tga.ckd/c6feaf6d1c7c83d622949f48c7750994.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/ps4/USA_Coach_3.tga.ckd/549178c8014a2362e671405f77fd35a0.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/ps4/USA_Coach_4.tga.ckd/b0e24ab1f574e90ba5bc861ee5c3f7ea.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/USA/ps4/USA_Cover_Generic.tga.ckd/190068c137e8123499ced95b369a66b2.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/USA_Cover_1024.png/2d5f8452107dec42bda339eb5bf88b21.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/USA/ps4/USA_Cover_Online.tga.ckd/1d9b451e5949d458f1f81893ed8a1c90.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/USA/ps4/USA_Cover_AlbumBkg.tga.ckd/d6bf471e9c5d00b766fb5b67a56112fe.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/USA/ps4/USA_Cover_AlbumCoach.tga.ckd/9fd8e57159eeed0c6a59e9324ee7b2c7.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/USA_Coach_1_Phone.png/17cf1b117c217a9cf3d7f564f05c3c5b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/USA_Coach_2_Phone.png/b37c70facbf7809b9db3ca882e2987b5.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/USA_Coach_3_Phone.png/c3d10937d3fd7ece8ec8afa600c3cde1.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/USA_Coach_4_Phone.png/7e46921310f9ae72e63a2456450dc208.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/USA/USA_Cover_Phone.jpg/de58eb438c960cae2e21debd410603d9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/USA/USA_VideoPreview.webm/3a2278479f4ad33bac2ee533d0d57be5.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/USA/ps4/USA_map_bkg.tga.ckd/987125619aab468ba6dfd3be434037d9.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/USA/nx/USA_banner_bkg.tga.ckd/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/nx/USA_Coach_1.tga.ckd/bcbf54acfcfd906dcf690948ca448064.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/nx/USA_Coach_2.tga.ckd/68d09d06ba3dbd5f75bc8c32665ae843.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/nx/USA_Coach_3.tga.ckd/5e2f9b9b22eddc29457c2251e737936b.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/nx/USA_Coach_4.tga.ckd/daddd566a85639a23b27defb6bbc73ba.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/USA/nx/USA_Cover_Generic.tga.ckd/46d7fa185d602415a8ec67af4b2cd0bf.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/USA_Cover_1024.png/2d5f8452107dec42bda339eb5bf88b21.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/USA/nx/USA_Cover_Online.tga.ckd/d7fcc4c9e3ec381ba113cb1737e58d18.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/USA/nx/USA_Cover_AlbumBkg.tga.ckd/322e165f6ab5e342edb00013cf5733e7.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/USA/nx/USA_Cover_AlbumCoach.tga.ckd/2c5f5948c5027c473a33c5e204049956.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/USA_Coach_1_Phone.png/17cf1b117c217a9cf3d7f564f05c3c5b.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/USA_Coach_2_Phone.png/b37c70facbf7809b9db3ca882e2987b5.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/USA_Coach_3_Phone.png/c3d10937d3fd7ece8ec8afa600c3cde1.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/USA/USA_Coach_4_Phone.png/7e46921310f9ae72e63a2456450dc208.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/USA/USA_Cover_Phone.jpg/de58eb438c960cae2e21debd410603d9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/USA/USA_VideoPreview.webm/3a2278479f4ad33bac2ee533d0d57be5.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/USA/nx/USA_map_bkg.tga.ckd/cf1f3ba39e4b28633fc6246c16a9daed.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20631,41261,61891,82522,103152,123782,144413,165043,185674,206304,226934,247565,268195,288825,309456,330086,350717,371347,391977,412608,433238,453868,474499,495129,515760,536390,557020,577651,598281,618911,639542,660172,680803,701433,722063,742694,763324,783954,804585,825215,845846,866476,887106,907737,928367,948997,969628,990258,1010889,1031519,1052149,1072780,1093410,1114040,1134671,1155301,1175931,1196562,1217192,1237823,1258453,1279083,1299714,1320344,1340974,1361605,1382235,1402866,1423496],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":510,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":69,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/usa/usa_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Claudio Accatino, Donatella Cirelli, Anna Maria Gioco and Severino Lombardoni. Published by The Saifam Group / Premier Muzik Inc obo Edizioni ZYX Music SRL. Courtesy of (P) 2018 Avex Entertainment Inc. / RISINGPRO Holdings Co., Ltd.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "EF4DCEFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 221.53699999999998,
+  "mapName": "USA",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"540624\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/USA/USA_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"608-1098\">\r\n\t\t\t\t\t<Initialization range=\"0-608\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1485673\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/USA/USA_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"609-1099\">\r\n\t\t\t\t\t<Initialization range=\"0-609\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2961520\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/USA/USA_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"609-1099\">\r\n\t\t\t\t\t<Initialization range=\"0-609\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5892128\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/USA/USA_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"609-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-609\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "USA_mapContent"
+  },
+  "parentMapName": "USA",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "B9D247FF",
+    "songColor_1B": "C23271FF",
+    "songColor_2A": "17252BFF",
+    "songColor_2B": "E9EEE0FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "U.S.A.",
+  "urls": {
+    "jmcs://jd-contents/USA/USA_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/USA/USA_AudioPreview.ogg/3ede0d081f271c6866acaaef8694430c.ogg",
+    "jmcs://jd-contents/USA/USA_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/USA/USA_MapPreviewNoSoundCrop_HIGH.vp8.webm/4007e28e94114463a1deeb45ead65244.webm",
+    "jmcs://jd-contents/USA/USA_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/USA/USA_MapPreviewNoSoundCrop_HIGH.vp9.webm/76c0545c983fde37330052156c7f44ff.webm",
+    "jmcs://jd-contents/USA/USA_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/USA/USA_MapPreviewNoSoundCrop_LOW.vp8.webm/60a6296ca3deaa704968e8092c76a98f.webm",
+    "jmcs://jd-contents/USA/USA_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/USA/USA_MapPreviewNoSoundCrop_LOW.vp9.webm/58f051468dc7e12a8dd9295f0e6ae959.webm",
+    "jmcs://jd-contents/USA/USA_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/USA/USA_MapPreviewNoSoundCrop_MID.vp8.webm/d7a330c3211071dc533106d163a22386.webm",
+    "jmcs://jd-contents/USA/USA_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/USA/USA_MapPreviewNoSoundCrop_MID.vp9.webm/030040afc67c34843be763b19f198beb.webm",
+    "jmcs://jd-contents/USA/USA_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/USA/USA_MapPreviewNoSoundCrop_ULTRA.vp8.webm/39da25e3ff361dfd5a67d6c184cd79e0.webm",
+    "jmcs://jd-contents/USA/USA_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/USA/USA_MapPreviewNoSoundCrop_ULTRA.vp9.webm/31f3d1a4e8a950d31cd0b15a59df697e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "9c048f3fe9d2d15dc7af05de03f60517",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/USA/ps4/USA_MAIN_SCENE_ORBIS.zip/9c048f3fe9d2d15dc7af05de03f60517.zip",
+      "version": 21
+    },
+    "nx": {
+      "md5": "8f85684d6c4b14281bf53dd1f93e9824",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/USA/nx/USA_MAIN_SCENE_NX.zip/8f85684d6c4b14281bf53dd1f93e9824.zip",
+      "version": 21
+    },
+    "pc": {
+      "md5": "233e7e1f6c093fdd54e48b778563eaac",
+      "storageType": 0,
+      "url": "http://jdbest-cdn.s3.amazonaws.com/public/map/USA/pc/233e7e1f6c093fdd54e48b778563eaac.zip",
+      "version": 12
+    }
+  },
+  "mapType": "jdu"
+}

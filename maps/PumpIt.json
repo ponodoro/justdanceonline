@@ -1,0 +1,108 @@
+{
+  "artist": "The Black Eyed Peas",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/PumpIt/textures/PumpIt_banner_bkg.png",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/ps4/PumpIt_Coach_1.tga.ckd/f4ba280fe4c339fb867b524abc395843.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/ps4/PumpIt_Cover_Generic.tga.ckd/aa09e934f1f851a378715ac7cc6ca5f6.ckd",
+      "coverKidsImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/ps4/PumpIt_Cover_Generic_Kids.tga.ckd/b6c619b1fb2554444be22f1080393b7d.ckd",
+      "coverKids_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/ps4/PumpIt_Cover_Online_Kids.tga.ckd/b78201da939048c9450c8be49cb3fe36.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/ps4/PumpIt_Cover_1024.tga.ckd/e8d6a7ad7e0a39ecdc3df9613ed478ae.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/ps4/PumpIt_Cover_Online.tga.ckd/7f11d19ad3d706d4b51294a4616f676a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/ps4/PumpIt_Cover_AlbumBkg.tga.ckd/2e94cdd743e160393f98d9f02ad93690.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/ps4/PumpIt_Cover_AlbumCoach.tga.ckd/a24dc165743afeb958aeaaf170cd8c8a.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/ps4/PumpIt_map_bkg.tga.ckd/0531a8f5ca110775afbbb51062d8ed61.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/PumpIt_Coach_1_Phone.png/3f7ab534995f716e12a827822d2ae9c5.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/PumpIt_Cover_Phone.jpg/bee87d5b1bfddcd5e25285995839cfc6.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/PumpIt/PumpIt_VideoPreview.webm/c4fee36d385937222f9af9e1b7c9da24.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/PumpIt/textures/PumpIt_banner_bkg.png",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/nx/PumpIt_Coach_1.tga.ckd/de330c780e23e54b51fc743300d61fc1.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/nx/PumpIt_Cover_Generic.tga.ckd/e34fc1d4c4e7686fca5075d8d2ad6875.ckd",
+      "coverKidsImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/nx/PumpIt_Cover_Generic_Kids.tga.ckd/34e6d6d7987fb26a7d48c218c166c7c1.ckd",
+      "coverKids_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/nx/PumpIt_Cover_Online_Kids.tga.ckd/45ecc59a09ed8d4592bb90bd28e38e44.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/nx/PumpIt_Cover_1024.tga.ckd/df538bae8e837f38938a5bc8619729c0.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/nx/PumpIt_Cover_Online.tga.ckd/d764508871d5253592ca2f3e3fa13084.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/nx/PumpIt_Cover_AlbumBkg.tga.ckd/b06cf35cbd4ef53fb1edc795591f0fcd.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/nx/PumpIt_Cover_AlbumCoach.tga.ckd/e338c78a916b1ea8639ad71d96f95ee2.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/nx/PumpIt_map_bkg.tga.ckd/267e544b9eda42bc18167708f28e934b.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/PumpIt_Coach_1_Phone.png/3f7ab534995f716e12a827822d2ae9c5.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/PumpIt/PumpIt_Cover_Phone.jpg/bee87d5b1bfddcd5e25285995839cfc6.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/PumpIt/PumpIt_VideoPreview.webm/c4fee36d385937222f9af9e1b7c9da24.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,18747,37495,56242,74989,93736,112483,131231,149978,168725,187472,206219,224967,243714,262461,281208,299956,318703,337450,356197,374944,393692,412439,431186,449933,468680,487428,506175,524922,543669,562416,581164,599911,618658,637405,656152,674900,693647,712394,731141,749889,768636,787383,806130,824877,843625,862372,881119,899866,918613,937361,956108,974855,993602,1012349,1031097,1049844,1068591,1087338,1106086,1124833,1143580,1162327,1181074,1199822,1218569,1237316,1256063,1274810,1293558,1312305,1331052,1349799,1368546,1387294,1406041,1424788],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":562,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":76,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/pumpit/pumpit_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Written by Stacy Ferguson, Will Adams, Allen Pineda, Nicholas Roubanis and Thomas Van Musser Szamosi. . Published by EMI April Music Inc. (ASCAP), EMI Grove Park Music, Inc. (BMI), Reach Global, Inc. (BMI), BMG Sapphire Songs (BMI), Will.I.Am Music Inc. (BMI), Jeepney Music Inc (BMI), Headphone Junkie Publishing (ASCAP) and Avenue XIII (BMI). Worldwide rights for Will.I.Am Music Inc. and Jeepney Music Inc administered by BMG Chrysalis. All Rights Reserved.  Used by Permission. . Courtesy of A&M Records under license from Universal Music Enterprises.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "jdmAttributes": [],
+  "lyricsColor": "11E460FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 219.93599999999998,
+  "mapName": "PumpIt",
+  "mapType": "jdu",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496677\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PumpIt/PumpIt_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1086\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1024585\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PumpIt/PumpIt_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1088\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1111500\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PumpIt/PumpIt_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1088\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1111587\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/PumpIt/PumpIt_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1088\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "PumpIt_mapContent"
+  },
+  "parentMapName": "PumpIt",
+  "songColors": {
+    "songColor_1A": "191528FF",
+    "songColor_1B": "EED5C7FF",
+    "songColor_2A": "B4134DFF",
+    "songColor_2B": "4C2D73FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Pump It",
+  "urls": {
+    "jmcs://jd-contents/PumpIt/PumpIt_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/PumpIt/PumpIt_AudioPreview.ogg/0819db97ef4860d7ef6acc55bcad2bcf.ogg",
+    "jmcs://jd-contents/PumpIt/PumpIt_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/PumpIt/PumpIt_MapPreviewNoSoundCrop_HIGH.vp8.webm/244156134e2f5f079b99019969da0014.webm",
+    "jmcs://jd-contents/PumpIt/PumpIt_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/PumpIt/PumpIt_MapPreviewNoSoundCrop_HIGH.vp9.webm/cf73aa273cad92099b1ea2575ade80c6.webm",
+    "jmcs://jd-contents/PumpIt/PumpIt_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/PumpIt/PumpIt_MapPreviewNoSoundCrop_LOW.vp8.webm/f275bc56c4a4dc67c309fcd51f1eba57.webm",
+    "jmcs://jd-contents/PumpIt/PumpIt_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/PumpIt/PumpIt_MapPreviewNoSoundCrop_LOW.vp9.webm/0a2d7befd6068759301642d7f3399c6b.webm",
+    "jmcs://jd-contents/PumpIt/PumpIt_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/PumpIt/PumpIt_MapPreviewNoSoundCrop_MID.vp8.webm/68536379cf3d8e183fe9d283c0c73a88.webm",
+    "jmcs://jd-contents/PumpIt/PumpIt_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/PumpIt/PumpIt_MapPreviewNoSoundCrop_MID.vp9.webm/18dc948bc8af90ce9e642926a7d95743.webm",
+    "jmcs://jd-contents/PumpIt/PumpIt_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/PumpIt/PumpIt_MapPreviewNoSoundCrop_ULTRA.vp8.webm/974944575ab8155578254af4664c1928.webm",
+    "jmcs://jd-contents/PumpIt/PumpIt_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/PumpIt/PumpIt_MapPreviewNoSoundCrop_ULTRA.vp9.webm/0504807d7e1dad86eade1d6ab2fb0139.webm"
+  },
+  "searchTags": [],
+  "searchTagsLocIds": [
+    12231,
+    15275,
+    15286,
+    15187,
+    9350,
+    15173,
+    15290
+  ],
+  "serverChangelist": 0,
+  "skupackages": {
+    "nx": {
+      "md5": "f5240dc694a5ff88bc5bf72b29ba65ee",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PumpIt/nx/PumpIt_MAIN_SCENE_NX.zip/f5240dc694a5ff88bc5bf72b29ba65ee.zip",
+      "version": 59
+    },
+    "orbis": {
+      "md5": "a98a0cdf331f7868c196e6c86b48a071",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/PumpIt/ps4/PumpIt_MAIN_SCENE_ORBIS.zip/a98a0cdf331f7868c196e6c86b48a071.zip",
+      "version": 59
+    },
+    "pc": {
+      "md5": "c2279b7906ac202467020016bd630314",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/PumpIt/pc/pc_c2279b7906ac202467020016bd630314.zip",
+      "version": 1
+    }
+  }
+}

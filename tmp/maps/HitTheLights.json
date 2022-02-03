@@ -1,0 +1,114 @@
+{
+  "artist": "Selena Gomez and The Scene",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_banner_bkg.jpg/0246f658d5f89a26c1e95a2e59de0d18.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Coach_1.png/1cf8ab55a9047353c224d62ea4294046.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Cover_Generic.jpg/eb3f69a884cc47bd4eb1893da9f7c230.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Cover_1024.png/094db3b934cb60902b3cd586f42e130f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Cover_Online.jpg/ccedb0c8493582caa080b0e7a8c32e64.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Cover_AlbumBkg.jpg/f5393db87d9cc1e7d46add5aa63728b0.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Cover_AlbumCoach.png/ad574774be6825797fa2f6a9b742f497.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Coach_1_Phone.png/949f732257d025b28b840324ac1e4514.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Cover_Phone.jpg/ccedb0c8493582caa080b0e7a8c32e64.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_VideoPreview.webm/bbf6a2fc9143fa27e2a4cb1bb5f63608.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_banner_bkg.jpg/0246f658d5f89a26c1e95a2e59de0d18.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Coach_1.png/1cf8ab55a9047353c224d62ea4294046.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Cover_Generic.jpg/eb3f69a884cc47bd4eb1893da9f7c230.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Cover_1024.png/094db3b934cb60902b3cd586f42e130f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Cover_Online.jpg/ccedb0c8493582caa080b0e7a8c32e64.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Cover_AlbumBkg.jpg/f5393db87d9cc1e7d46add5aa63728b0.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Cover_AlbumCoach.png/ad574774be6825797fa2f6a9b742f497.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Coach_1_Phone.png/949f732257d025b28b840324ac1e4514.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Cover_Phone.jpg/ccedb0c8493582caa080b0e7a8c32e64.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_VideoPreview.webm/bbf6a2fc9143fa27e2a4cb1bb5f63608.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/wiiu/HitTheLights_banner_bkg.tga.ckd/c122964618a04411a6c6941a88c79e12.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/wiiu/HitTheLights_Coach_1.tga.ckd/02d83e8de5a396d90ac89c40a7fabfa5.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/wiiu/HitTheLights_Cover_Generic.tga.ckd/d864863b84d2e7ed09aa372987e9009b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Cover_1024.png/094db3b934cb60902b3cd586f42e130f.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/wiiu/HitTheLights_Cover_Online.tga.ckd/d864863b84d2e7ed09aa372987e9009b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/wiiu/HitTheLights_Cover_AlbumBkg.tga.ckd/69f2083297f4372dc9086f2f055dd3a4.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/wiiu/HitTheLights_Cover_AlbumCoach.tga.ckd/629f32a9d001867eb16d2459918a22b7.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Coach_1_Phone.png/949f732257d025b28b840324ac1e4514.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_Cover_Phone.jpg/ccedb0c8493582caa080b0e7a8c32e64.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_VideoPreview.webm/bbf6a2fc9143fa27e2a4cb1bb5f63608.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22153,44306,66459,88612,110765,132918,155071,177224,199377,221530,243683,265836,287989,310142,332295,354448,376601,398754,420907,443060,465213,487366,509519,531672,553825,575978,598131,620284,642437,664590,686743,708896,731049,753202,775355,797508,819661,841814,863967,886120,908273,930426,952579,974732,996885,1019038,1041191,1063344,1085497,1107650,1129803,1151956,1174109,1196262,1218415,1240568,1262721,1284874,1307027,1329180,1351333,1373486,1395639,1417792,1439945],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":418,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/hitthelights/hitthelights_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FFA31CFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 193.45399999999998,
+  "mapName": "HitTheLights",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496568\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1321778\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2020049\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2126370\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "HitTheLights_mapContent"
+  },
+  "parentMapName": "HitTheLights",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "B1002DFF",
+    "songColor_1B": "430000FF",
+    "songColor_2A": "D173FFFF",
+    "songColor_2B": "010084FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Hit The Lights",
+  "urls": {
+    "jmcs://jd-contents/HitTheLights/HitTheLights_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_AudioPreview.ogg/81f518e62ea0f65a53f78d132ed07a9d.ogg",
+    "jmcs://jd-contents/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_HIGH.vp8.webm/ed37c06bb641ae5a7fac898ebf0dd15f.webm",
+    "jmcs://jd-contents/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_HIGH.vp9.webm/3eda692fa58167a15926a4f134a4b9d5.webm",
+    "jmcs://jd-contents/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_LOW.vp8.webm/8c3fb7c365c42919ae9dd838c2c6eede.webm",
+    "jmcs://jd-contents/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_LOW.vp9.webm/9a1dc84fbdd957f6e3ebfaa450c978fb.webm",
+    "jmcs://jd-contents/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_MID.vp8.webm/7ea93d8ab51231932f9e1e5e2718d237.webm",
+    "jmcs://jd-contents/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_MID.vp9.webm/e6f73a05ee7c109704d409b779631164.webm",
+    "jmcs://jd-contents/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_ULTRA.vp8.webm/65fb4efcc2993638995d8baf4b250552.webm",
+    "jmcs://jd-contents/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/HitTheLights/HitTheLights_MapPreviewNoSoundCrop_ULTRA.vp9.webm/8ba5ba0612ace9552f4c894cb9ffbcde.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "1d0512c5985fc9d1229d6bc3ace8a0be",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HitTheLights/ps4/HitTheLights_MAIN_SCENE_ORBIS.zip/1d0512c5985fc9d1229d6bc3ace8a0be.zip",
+      "version": 11
+    },
+    "pc": {
+      "md5": "472d841795ae4cc83ff387afb4e38015",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HitTheLights/pc/HitTheLights_MAIN_SCENE_PC.zip/472d841795ae4cc83ff387afb4e38015.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "f7016bf725d6b53612c9df71de0fca06",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HitTheLights/wiiu/HitTheLights_MAIN_SCENE_WIIU.zip/f7016bf725d6b53612c9df71de0fca06.zip",
+      "version": 11
+    },
+    "nx": {
+      "md5": "68f563f5cfc28bec87abb83073a9450e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HitTheLights/nx/HitTheLights_MAIN_SCENE_NX.zip/68f563f5cfc28bec87abb83073a9450e.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

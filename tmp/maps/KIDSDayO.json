@@ -1,0 +1,116 @@
+{
+  "artist": "The Just Dance Kids",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/ggp/KIDSDayO_banner_bkg.tga.ckd/4f3cfc61d86243de89f4e670fecf21a0.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/ggp/KIDSDayO_Coach_1.tga.ckd/895fe3273d9ac7c9151d6067206090d5.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/ggp/KIDSDayO_Cover_Generic.tga.ckd/25a5c2613672fbdf16cd66d4361938f2.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_Cover_1024.png/17668344802bcdc4642f5bac4fff12cb.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/ggp/KIDSDayO_Cover_Online.tga.ckd/25a5c2613672fbdf16cd66d4361938f2.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/ggp/KIDSDayO_Cover_AlbumBkg.tga.ckd/9180b32571d6f2e73e9c20827e965acb.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/ggp/KIDSDayO_Cover_AlbumCoach.tga.ckd/fe6947adb5ca05aa320129689ee7a355.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_Coach_1_Phone.png/982cc845abbaaa3a8cb724f28014418d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_Cover_Phone.jpg/0d231aaa3a1b05cee95dace970b584f5.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_VideoPreview.webm/bdf67c6386778c21da69882feaa6fb63.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/ggp/KIDSDayO_map_bkg.tga.ckd/36324b891caa82424a93adba820ce4b1.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/nx/KIDSDayO_banner_bkg.tga.ckd/304d19ea76a3079ee24f094d2287d907.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/nx/KIDSDayO_Coach_1.tga.ckd/68c9b5924fc9e83c1f7cac7dcf7ac2be.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/nx/KIDSDayO_Cover_Generic.tga.ckd/d7a131c3be3727cf3e8a042d364991bd.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_Cover_1024.png/17668344802bcdc4642f5bac4fff12cb.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/nx/KIDSDayO_Cover_Online.tga.ckd/d7a131c3be3727cf3e8a042d364991bd.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/nx/KIDSDayO_Cover_AlbumBkg.tga.ckd/60dd988b38c85a4437f2fe620b40bda8.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/nx/KIDSDayO_Cover_AlbumCoach.tga.ckd/8e3cd131957ec59591a34cf3affb8403.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/nx/KIDSDayO_map_bkg.tga.ckd/216615d5e6fa64e03b694a3a1d80f453.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_Coach_1_Phone.png/982cc845abbaaa3a8cb724f28014418d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_Cover_Phone.jpg/0d231aaa3a1b05cee95dace970b584f5.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_VideoPreview.webm/bdf67c6386778c21da69882feaa6fb63.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/wiiu/KIDSDayO_banner_bkg.tga.ckd/5b243a4a6d4ed79b02a48153183d2284.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/wiiu/KIDSDayO_Coach_1.tga.ckd/5329f992e188944770cb1390eb1b7d78.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/wiiu/KIDSDayO_Cover_Generic.tga.ckd/5ff50207df81fc981715fc56948181bd.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_Cover_1024.png/17668344802bcdc4642f5bac4fff12cb.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/wiiu/KIDSDayO_Cover_Online.tga.ckd/5ff50207df81fc981715fc56948181bd.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/wiiu/KIDSDayO_Cover_AlbumBkg.tga.ckd/775a161294ce52ac01ae1bedbaea1744.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/wiiu/KIDSDayO_Cover_AlbumCoach.tga.ckd/6190e6d52688007b93bd224702fe5614.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_Coach_1_Phone.png/982cc845abbaaa3a8cb724f28014418d.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_Cover_Phone.jpg/0d231aaa3a1b05cee95dace970b584f5.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_VideoPreview.webm/bdf67c6386778c21da69882feaa6fb63.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23472,46992,70512,94032,117552,141024,164544,188064,211584,235104,258576,282096,305616,329136,352656,376128,399648,423168,446688,470208,493680,517200,540720,564240,587760,611231,634751,658271,681791,705311,728783,752303,775823,799343,822815,846335,869855,893375,916895,940367,963887,987407,1010927,1034447,1057919,1081439,1104959,1128479,1151999,1175471,1198991,1222511,1246031,1269551,1293023,1316543,1340062,1363582,1387102,1410574,1434094],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":278,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/kidsdayo/kidsdayo_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0F0FFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 135.936,
+  "mapName": "KIDSDayO",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496804\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"632-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-632\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1474795\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2440721\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2441046\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-633\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 123,
+  "packages": {
+    "mapContent": "KIDSDayO_mapContent"
+  },
+  "parentMapName": "KIDSDayO",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "FFC600FF",
+    "songColor_1B": "FF8400FF",
+    "songColor_2A": "A535F3FF",
+    "songColor_2B": "3724B2FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Day-O (The Banana Boat Song)",
+  "urls": {
+    "jmcs://jd-contents/KIDSDayO/KIDSDayO_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_AudioPreview.ogg/38433e0158f731270778ff17f0a8ca69.ogg",
+    "jmcs://jd-contents/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_HIGH.vp8.webm/67b22c905d1c4fea079607f08ea38a32.webm",
+    "jmcs://jd-contents/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_HIGH.vp9.webm/0bb8ea323c596e11bc245bf53a7c97f9.webm",
+    "jmcs://jd-contents/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_LOW.vp8.webm/4e9a38c3954ae0b30c1490543203c09f.webm",
+    "jmcs://jd-contents/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_LOW.vp9.webm/5766904f215b10030f07ff64fc5a457d.webm",
+    "jmcs://jd-contents/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_MID.vp8.webm/77324df47f3ec4fd98851e861b5eecf4.webm",
+    "jmcs://jd-contents/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_MID.vp9.webm/15be09a281cd33629bce4700fbe46b08.webm",
+    "jmcs://jd-contents/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_ULTRA.vp8.webm/5637477d8c5effa4d6fc907ac84d33d8.webm",
+    "jmcs://jd-contents/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KIDSDayO/KIDSDayO_MapPreviewNoSoundCrop_ULTRA.vp9.webm/70c320f596295cac8a74ed082b796cc9.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "b526653838464cabb1ca055a45032433",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSDayO/ps4/KIDSDayO_MAIN_SCENE_ORBIS.zip/b526653838464cabb1ca055a45032433.zip",
+      "version": 19
+    },
+    "pc": {
+      "md5": "d0b69bd25b567c46f08e65b35c42fe7e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSDayO/pc/KIDSDayO_MAIN_SCENE_PC.zip/d0b69bd25b567c46f08e65b35c42fe7e.zip",
+      "version": 6
+    },
+    "wiiu": {
+      "md5": "010e8464663199bb12352294401b7fc2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSDayO/wiiu/KIDSDayO_MAIN_SCENE_WIIU.zip/010e8464663199bb12352294401b7fc2.zip",
+      "version": 15
+    },
+    "nx": {
+      "md5": "927ed8faae99342b101b0d47f735f7a4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KIDSDayO/nx/KIDSDayO_MAIN_SCENE_NX.zip/927ed8faae99342b101b0d47f735f7a4.zip",
+      "version": 8
+    }
+  },
+  "mapType": "jdu"
+}

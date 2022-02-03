@@ -1,0 +1,108 @@
+{
+  "artist": "Little Big",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/ps4/Skibidi_banner_bkg.tga.ckd/52c835e3f41216743dd3c31f73457748.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/ps4/Skibidi_Coach_1.tga.ckd/79cb1d4b11944dfae5260cd12d39b89f.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/ps4/Skibidi_Coach_2.tga.ckd/405a8d78c384b5d3151ae898d25a974d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/ps4/Skibidi_Cover_Generic.tga.ckd/2559c528e3f46ab83555205fbdea6092.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/Skibidi_Cover_1024.png/30a520394cdf875cd028f93a416974c4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/ps4/Skibidi_Cover_Online.tga.ckd/f168f5348ac7cc5206d8d3133ce3025f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/ps4/Skibidi_Cover_AlbumBkg.tga.ckd/5bebda74a53fd7902848642a9f362df2.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/ps4/Skibidi_Cover_AlbumCoach.tga.ckd/0f9291edb929e88b2bbe466d100581cd.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/Skibidi_Coach_1_Phone.png/7ef463d47048a6a49b7710e158990ae1.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/Skibidi_Coach_2_Phone.png/125606b79a3a493e65802943583a2a7b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/Skibidi_Cover_Phone.jpg/33e7202e2ddd8c035825471cb44e8b57.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/ps4/Skibidi_map_bkg.tga.ckd/cc56835f371d97f40c109bd8134eb704.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/nx/Skibidi_banner_bkg.tga.ckd/062d0fad7b9946903b71d41ac2930deb.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/nx/Skibidi_Coach_1.tga.ckd/fe41906f721000a4c03f49c9e697fbfd.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/nx/Skibidi_Coach_2.tga.ckd/fda1ce4a5dc60f4682cdde30dcd09ae3.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/nx/Skibidi_Cover_Generic.tga.ckd/cdd1229c483a9ad29b6309df79e25268.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/Skibidi_Cover_1024.png/30a520394cdf875cd028f93a416974c4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/nx/Skibidi_Cover_Online.tga.ckd/bd33feae4e98df70b9d8f72cc0a4074b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/nx/Skibidi_Cover_AlbumBkg.tga.ckd/de8f9e057a72fea751e8b9cfee081e40.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/nx/Skibidi_Cover_AlbumCoach.tga.ckd/f83a5b05a9ecae88db4bbb3d7620934c.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/Skibidi_Coach_1_Phone.png/7ef463d47048a6a49b7710e158990ae1.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/Skibidi_Coach_2_Phone.png/125606b79a3a493e65802943583a2a7b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/Skibidi_Cover_Phone.jpg/33e7202e2ddd8c035825471cb44e8b57.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Skibidi/nx/Skibidi_map_bkg.tga.ckd/e8d29fd45a774ada94d7c229d28ab22d.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21840,43632,65472,87264,109104,130896,152736,174528,196368,218160,240000,261840,283632,305472,327264,349104,370895,392735,414527,436367,458159,479999,501839,523631,545471,567263,589103,610895,632735,654527,676367,698159,719999,741839,763631,785471,807263,829103,850895,872735,894527,916367,938159,959998,981838,1003630,1025470,1047262,1069102,1090894,1112734,1134526,1156366,1178158,1199998,1221838,1243630,1265470,1287262,1309102,1330894,1352734,1374526,1396366,1418158,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-1,\"endBeat\":359,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":66,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/skibidi/skibidi_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Ilia Vladimirovich Prusikin and Liubim Khomchuk. Published by S.B.A. Music Publishing Ltd (RAO). All rights administered by WB Music Corp. Courtesy of Gala Records / Warner Music Russia. By arrangement with Warner Music Group Film & TV Licensing.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF1DE5FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 163.636,
+  "mapName": "Skibidi",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497579\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Skibidi/Skibidi_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"592-1081\">\r\n\t\t\t\t\t<Initialization range=\"0-592\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1485025\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Skibidi/Skibidi_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2960845\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Skibidi/Skibidi_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4842048\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Skibidi/Skibidi_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1086\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "Skibidi_mapContent"
+  },
+  "parentMapName": "Skibidi",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "8371FFFF",
+    "songColor_1B": "403FAEFF",
+    "songColor_2A": "1CDDCFFF",
+    "songColor_2B": "00B3ADFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Skibidi",
+  "urls": {
+    "jmcs://jd-contents/Skibidi/Skibidi_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Skibidi/Skibidi_AudioPreview.ogg/2a90797607bf7036cb46fc76d8526339.ogg",
+    "jmcs://jd-contents/Skibidi/Skibidi_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Skibidi/Skibidi_MapPreviewNoSoundCrop_HIGH.vp8.webm/8ad07967dce946fce49e1087af871a07.webm",
+    "jmcs://jd-contents/Skibidi/Skibidi_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Skibidi/Skibidi_MapPreviewNoSoundCrop_HIGH.vp9.webm/6306798a20349c5e451611853672d9f1.webm",
+    "jmcs://jd-contents/Skibidi/Skibidi_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Skibidi/Skibidi_MapPreviewNoSoundCrop_LOW.vp8.webm/39b75e4b9a890b12ad4ef6ba2a6cb8c8.webm",
+    "jmcs://jd-contents/Skibidi/Skibidi_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Skibidi/Skibidi_MapPreviewNoSoundCrop_LOW.vp9.webm/79c79385083e83f27d54578e80e30d4a.webm",
+    "jmcs://jd-contents/Skibidi/Skibidi_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Skibidi/Skibidi_MapPreviewNoSoundCrop_MID.vp8.webm/e7fcb1fd9b06450b39fe36a7475403e3.webm",
+    "jmcs://jd-contents/Skibidi/Skibidi_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Skibidi/Skibidi_MapPreviewNoSoundCrop_MID.vp9.webm/761027c597881ef59250524621386d1f.webm",
+    "jmcs://jd-contents/Skibidi/Skibidi_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Skibidi/Skibidi_MapPreviewNoSoundCrop_ULTRA.vp8.webm/aa95593f450ff9453c222b8d48f5bced.webm",
+    "jmcs://jd-contents/Skibidi/Skibidi_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Skibidi/Skibidi_MapPreviewNoSoundCrop_ULTRA.vp9.webm/84a47ec75e56ff6bd22095da169e0159.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "5e9f82d82ebebb92cae7790595731520",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Skibidi/ps4/Skibidi_MAIN_SCENE_ORBIS.zip/5e9f82d82ebebb92cae7790595731520.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "bdc4dcf357b071ccec95b3b5afb10373",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Skibidi/nx/Skibidi_MAIN_SCENE_NX.zip/bdc4dcf357b071ccec95b3b5afb10373.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "8aab343572b80a17ea2ee5aa34edc93f",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Skibidi/pc/8aab343572b80a17ea2ee5aa34edc93f.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

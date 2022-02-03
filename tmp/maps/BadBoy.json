@@ -1,0 +1,108 @@
+{
+  "artist": "Riton & Kah-Lo",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/ps4/BadBoy_banner_bkg.tga.ckd/dbc31fa52dbf17483997b18127d51063.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/ps4/BadBoy_Coach_1.tga.ckd/c469a115d52eed0cb75f25624eddc6ed.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/ps4/BadBoy_Coach_2.tga.ckd/e7374f6b10c7d508d4b9a84a1c8592eb.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/ps4/BadBoy_Cover_Generic.tga.ckd/dcde38638d1bf3818c4f9caf354ae7fc.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/BadBoy_Cover_1024.png/969501a278cdc85a086677821f905f5e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/ps4/BadBoy_Cover_Online.tga.ckd/4d13a739ae58ada190404c462be6c1cf.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/ps4/BadBoy_Cover_AlbumBkg.tga.ckd/0e757f544b64ea45db09b8103b940b64.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/ps4/BadBoy_Cover_AlbumCoach.tga.ckd/43aafa5cb9e34b56f77a5ed22fc77ca0.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/BadBoy_Coach_1_Phone.png/20304df4d084abfdc350c2f8af6180e1.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/BadBoy_Coach_2_Phone.png/2e56a3bb25f486795e2877c23daba16c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/BadBoy_Cover_Phone.jpg/7a4c8b69d212b41a1e57a592b8328e36.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/ps4/BadBoy_map_bkg.tga.ckd/af3dfe45226c9af69f9fcb5ec037ebd8.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/nx/BadBoy_banner_bkg.tga.ckd/7195f6b81dd3bfb01f89bbcb34cee8b2.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/nx/BadBoy_Coach_1.tga.ckd/10907f99162da7973321b082c926a9f4.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/nx/BadBoy_Coach_2.tga.ckd/61a21e72723d0025a7eefb0f8e9d7f08.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/nx/BadBoy_Cover_Generic.tga.ckd/ec5e2ac1b72bde36ba99c79b442211a9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/BadBoy_Cover_1024.png/969501a278cdc85a086677821f905f5e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/nx/BadBoy_Cover_Online.tga.ckd/22194dd641cbdc3f7204d6bfd1a4b05b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/nx/BadBoy_Cover_AlbumBkg.tga.ckd/1fa7f156fe3957d157c86383c621f247.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/nx/BadBoy_Cover_AlbumCoach.tga.ckd/de721fbf26332d4ef77201a6abb00cc9.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/BadBoy_Coach_1_Phone.png/20304df4d084abfdc350c2f8af6180e1.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/BadBoy_Coach_2_Phone.png/2e56a3bb25f486795e2877c23daba16c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/BadBoy_Cover_Phone.jpg/7a4c8b69d212b41a1e57a592b8328e36.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadBoy/nx/BadBoy_map_bkg.tga.ckd/de8a9d39cb438c36ba36e94db9966a06.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23607,47213,70820,94426,118033,141640,165246,188853,212459,236066,259672,283279,306885,330492,354099,377705,401312,424918,448525,472131,495738,519344,542951,566558,590164,613771,637377,660984,684590,708197,731803,755410,779017,802623,826230,849836,873443,897049,920656,944262,967869,991476,1015082,1038689,1062295,1085902,1109508,1133115,1156722,1180328,1203935,1227541,1251148,1274754,1298361,1321967,1345574,1369181,1392787,1416394],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":378,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":60,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/badboy/badboy_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Henry Smithson, Thomas Wright Goss and Faridah Demola-Seriki. Published by Kobalt Songs Music Publishing / Copyright Control / Kah-Lo obo Faridah Demola-Seriki. Courtesy of 2018 Ritontime.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "30FBD6FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 187.376,
+  "mapName": "BadBoy",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497204\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadBoy/BadBoy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1086\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484041\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadBoy/BadBoy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\r\n\t\t\t\t\t<Initialization range=\"0-594\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2948983\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadBoy/BadBoy_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\r\n\t\t\t\t\t<Initialization range=\"0-594\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5461608\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadBoy/BadBoy_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"594-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-594\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "BadBoy_mapContent"
+  },
+  "parentMapName": "BadBoy",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "E76515FF",
+    "songColor_1B": "B0005AFF",
+    "songColor_2A": "1BDD78FF",
+    "songColor_2B": "2A08B0FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Bad Boy",
+  "urls": {
+    "jmcs://jd-contents/BadBoy/BadBoy_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BadBoy/BadBoy_AudioPreview.ogg/83f3f53c81e9c2d7d6038ddc843ab36a.ogg",
+    "jmcs://jd-contents/BadBoy/BadBoy_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BadBoy/BadBoy_MapPreviewNoSoundCrop_HIGH.vp8.webm/8de7eddae8ddc932d82548a1807bbdc5.webm",
+    "jmcs://jd-contents/BadBoy/BadBoy_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BadBoy/BadBoy_MapPreviewNoSoundCrop_HIGH.vp9.webm/6e4de6530215aabbcb92e7c3d2d5fdf0.webm",
+    "jmcs://jd-contents/BadBoy/BadBoy_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BadBoy/BadBoy_MapPreviewNoSoundCrop_LOW.vp8.webm/a79f51880fcc5d11950508965df37522.webm",
+    "jmcs://jd-contents/BadBoy/BadBoy_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BadBoy/BadBoy_MapPreviewNoSoundCrop_LOW.vp9.webm/0562be753764fd51f55e061ca9cbbe4c.webm",
+    "jmcs://jd-contents/BadBoy/BadBoy_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BadBoy/BadBoy_MapPreviewNoSoundCrop_MID.vp8.webm/27256cd13084ae3c459b4f71a12b92dc.webm",
+    "jmcs://jd-contents/BadBoy/BadBoy_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BadBoy/BadBoy_MapPreviewNoSoundCrop_MID.vp9.webm/d69f607025f46b26cdd646fb38ae5971.webm",
+    "jmcs://jd-contents/BadBoy/BadBoy_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BadBoy/BadBoy_MapPreviewNoSoundCrop_ULTRA.vp8.webm/3435ecbb9bc627a14f4817350b177560.webm",
+    "jmcs://jd-contents/BadBoy/BadBoy_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BadBoy/BadBoy_MapPreviewNoSoundCrop_ULTRA.vp9.webm/ee494f408afd0c0f3bc8af794b128463.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "337ea665efecf5e9f1b5363624c155d7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BadBoy/ps4/BadBoy_MAIN_SCENE_ORBIS.zip/337ea665efecf5e9f1b5363624c155d7.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "9908fd611cf532f815c4569cd8745e46",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BadBoy/nx/BadBoy_MAIN_SCENE_NX.zip/9908fd611cf532f815c4569cd8745e46.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "a0e28a97ff37726aa598c9e0a441f1f5",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/BadBoy/pc/a0e28a97ff37726aa598c9e0a441f1f5.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

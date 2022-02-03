@@ -1,0 +1,113 @@
+{
+  "artist": "Pharrell Williams x Camila Cabello",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/ps4/SangriaWine_banner_bkg.tga.ckd/5ad2612f899e3fc0e8e86b5789c3e6ff.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/ps4/SangriaWine_Coach_1.tga.ckd/6307722c0c9508e8376207c900878ecf.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/ps4/SangriaWine_Cover_Generic.tga.ckd/62c7c4650eb66355829a6a7b97a7f7dc.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_Cover_1024.png/a6ab437da2cd8543c5dd68a05f18bddb.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/ps4/SangriaWine_Cover_Online.tga.ckd/3917176774a0c0417af4ae6993ddaa86.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/ps4/SangriaWine_Cover_AlbumBkg.tga.ckd/cdd12fc349b192d386d2682aef424946.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/ps4/SangriaWine_Cover_AlbumCoach.tga.ckd/c3a647613b1493c73a34e0dfb5fdd5fc.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_Coach_1_Phone.png/5ac85c629fd02cf5cfce12e562170780.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_Cover_Phone.jpg/976a5ddb6db995c96933535cbf94292e.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/ps4/SangriaWine_map_bkg.tga.ckd/7916e33ca2ef398eacf03bcc98ed643f.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/nx/SangriaWine_banner_bkg.tga.ckd/b0d6e9d7593fc02b273bab51b9df7337.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/nx/SangriaWine_Coach_1.tga.ckd/4aba1f76be99fa081d1e642dac6ac114.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/nx/SangriaWine_Cover_Generic.tga.ckd/848b538fbedb15a1357450032e469a48.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_Cover_1024.png/a6ab437da2cd8543c5dd68a05f18bddb.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/nx/SangriaWine_Cover_Online.tga.ckd/b39a5ccf896256df39aa3663f313c26f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/nx/SangriaWine_Cover_AlbumBkg.tga.ckd/f0e10752fe3be005976bf2c64c446ed7.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/nx/SangriaWine_Cover_AlbumCoach.tga.ckd/95360906687f7f12cefa37cce7f0edd5.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_Coach_1_Phone.png/5ac85c629fd02cf5cfce12e562170780.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_Cover_Phone.jpg/976a5ddb6db995c96933535cbf94292e.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/nx/SangriaWine_map_bkg.tga.ckd/b9138c45d6e35c6630f3392de218481f.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_banner_bkg.jpg/9175253229de83cc58ab90e094710708.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_Coach_1.png/3ebe54e3d6c939af8cad89c78f8ecec6.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_Cover_Generic.jpg/64e003cca0304f5a22e4da61ea83da2d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_Cover_1024.png/a6ab437da2cd8543c5dd68a05f18bddb.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_Cover_Online.jpg/976a5ddb6db995c96933535cbf94292e.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_Cover_AlbumBkg.jpg/e442665747b94825b078a1219cdf20cc.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_Cover_AlbumCoach.png/03cee4e93f5c5eb0748cf5ad298e64a5.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_Coach_1_Phone.png/5ac85c629fd02cf5cfce12e562170780.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_Cover_Phone.jpg/976a5ddb6db995c96933535cbf94292e.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21840,43632,65472,87264,109103,130895,152735,174575,196367,218207,239999,261839,283631,305471,327263,349103,370895,392735,414575,436367,458207,479999,501839,523631,545471,567263,589103,610895,632735,654575,676366,698206,719998,741838,763630,785470,807262,829102,850894,872734,894574,916366,938206,959998,981838,1003630,1025470,1047262,1069102,1090894,1112734,1134574,1156366,1178206,1199998,1221838,1243629,1265469,1287261,1309101,1330893,1352733,1374573,1396365,1418205,1439997],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-1,\"endBeat\":443,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":66,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/sangriawine/sangriawine_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Bianca Landrau, Camila Cabello and Pharrell Williams. Published by More Water From Nazareth / EMI Pop Music Publishing (GMR) / Maidmetal Limited / Milamoon Songs c/o Sony/ATV Music Publishing Canada (SOCAN). / Concord Copyrights (BMI). All rights reserved. Used with permission. Courtesy of Columbia Records. By arrangement with Sony Music Entertainment. / Camila Cabello appears courtesy of Epic Records. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "08DCBBFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 201.81799999999998,
+  "mapName": "SangriaWine",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496512\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1090\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1479971\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1092\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2910272\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1092\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3090785\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1092\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "SangriaWine_mapContent"
+  },
+  "parentMapName": "SangriaWine",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "CC3333FF",
+    "songColor_1B": "3F0202FF",
+    "songColor_2A": "DD9E16FF",
+    "songColor_2B": "C19F2EFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Sangria Wine",
+  "urls": {
+    "jmcs://jd-contents/SangriaWine/SangriaWine_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_AudioPreview.ogg/5f90ed1ca2dfdb7d5d62829f6a37f416.ogg",
+    "jmcs://jd-contents/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_HIGH.vp8.webm/8d48d99c576102282ef941a8cc44311d.webm",
+    "jmcs://jd-contents/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_HIGH.vp9.webm/49eaf917eadfd3c8a312799caa131d6e.webm",
+    "jmcs://jd-contents/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_LOW.vp8.webm/8724a96f22bb389474c06beae4035c1d.webm",
+    "jmcs://jd-contents/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_LOW.vp9.webm/edd0c4e14e53c172d9f714bf8611d4cd.webm",
+    "jmcs://jd-contents/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_MID.vp8.webm/e5976bd9fb42dc0e4ff2a0bfde74de1d.webm",
+    "jmcs://jd-contents/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_MID.vp9.webm/4e5121e06ccbc2f567ba449c621253ca.webm",
+    "jmcs://jd-contents/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_ULTRA.vp8.webm/399d86228ba7150ffd979d3ad38d5151.webm",
+    "jmcs://jd-contents/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/SangriaWine/SangriaWine_MapPreviewNoSoundCrop_ULTRA.vp9.webm/b4759c80656fe6b35a404973416b163b.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "b65cc82988aac17745255dcb6f4eaf17",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SangriaWine/ps4/SangriaWine_MAIN_SCENE_ORBIS.zip/b65cc82988aac17745255dcb6f4eaf17.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "e48e50d4310bd7491dd8661cf9d7d6b5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SangriaWine/nx/SangriaWine_MAIN_SCENE_NX.zip/e48e50d4310bd7491dd8661cf9d7d6b5.zip",
+      "version": 2
+    }
+  },
+  "mapType": "jdu"
+}

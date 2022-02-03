@@ -1,0 +1,114 @@
+{
+  "artist": "Jax Jones Ft. RAYE",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/ps4/DontKnowMe_banner_bkg.tga.ckd/c96ac5b9f92dfb2d92c1568f8e44ba89.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/ps4/DontKnowMe_Coach_1.tga.ckd/6ba9c04b4828f2af704bd7367bee55f4.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/ps4/DontKnowMe_Cover_Generic.tga.ckd/b68404ee250559af6991f9e449745d9c.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_Cover_1024.png/59b7d88faf577034ee4316be2b80cc57.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/ps4/DontKnowMe_Cover_Online.tga.ckd/50d250e29c83df361c1195f8a2a997a0.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/ps4/DontKnowMe_Cover_AlbumBkg.tga.ckd/b8efaf8dde2f93c0fa303310d5871b72.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/ps4/DontKnowMe_Cover_AlbumCoach.tga.ckd/63fa13bc57e5f9c0ef44cd65c769ffbd.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_Coach_1_Phone.png/8044681fdec13d73dbf3ecbe91886e5f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_Cover_Phone.jpg/be61a8408f6a44e928db0f77a22413c4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_VideoPreview.webm/c71045dc4083f46ccf8b460e1a1e1d76.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/ps4/DontKnowMe_map_bkg.tga.ckd/4e1d018cc4a78d3565b53d805c1f24ba.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/nx/DontKnowMe_banner_bkg.tga.ckd/9b2b2227c7b0dc02f8a0ece003b1c220.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/nx/DontKnowMe_Coach_1.tga.ckd/e369001fc46602ad6d23b4cb5695b1cb.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/nx/DontKnowMe_Cover_Generic.tga.ckd/29ac41f789b904d56608179cf29f07a7.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_Cover_1024.png/59b7d88faf577034ee4316be2b80cc57.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/nx/DontKnowMe_Cover_Online.tga.ckd/3694361de370f948ac5cd1e896cb5b1a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/nx/DontKnowMe_Cover_AlbumBkg.tga.ckd/9922969cd3f7b9473aeb5427bb1a91e2.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/nx/DontKnowMe_Cover_AlbumCoach.tga.ckd/5b0b00df102c88ddd642b69289305d14.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_Coach_1_Phone.png/8044681fdec13d73dbf3ecbe91886e5f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_Cover_Phone.jpg/be61a8408f6a44e928db0f77a22413c4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_VideoPreview.webm/c71045dc4083f46ccf8b460e1a1e1d76.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/nx/DontKnowMe_map_bkg.tga.ckd/9c246763291fc3d4632c57ea1f20d3a2.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/wiiu/DontKnowMe_banner_bkg.tga.ckd/622c5cb70c1b95fc1ffd5b7c107c5e29.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/wiiu/DontKnowMe_Coach_1.tga.ckd/9ceac14f1521ba9b8a0448a5cd138206.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/wiiu/DontKnowMe_Cover_Generic.tga.ckd/eb04ef26f6d2fa23a66a9992a94b5a40.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_Cover_1024.png/59b7d88faf577034ee4316be2b80cc57.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/wiiu/DontKnowMe_Cover_Online.tga.ckd/b27c101fb0f1fd17284a8ab7974873ec.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/wiiu/DontKnowMe_Cover_AlbumBkg.tga.ckd/7b2fa8171990e3665c7abafa9df2f43c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/wiiu/DontKnowMe_Cover_AlbumCoach.tga.ckd/247f9c02249cce6bce3c334cc17c16e6.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_Coach_1_Phone.png/8044681fdec13d73dbf3ecbe91886e5f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_Cover_Phone.jpg/be61a8408f6a44e928db0f77a22413c4.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_VideoPreview.webm/c71045dc4083f46ccf8b460e1a1e1d76.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23232,46464,69696,92880,116112,139344,162576,185808,209040,232272,255504,278688,301920,325152,348384,371616,394848,418080,441312,464497,487729,510961,534193,557425,580657,603889,627121,650305,673537,696769,720001,743233,766465,789697,812881,836113,859345,882577,905810,929042,952274,975506,998690,1021922,1045154,1068386,1091618,1114850,1138082,1161314,1184498,1207730,1230962,1254194,1277426,1300658,1323890,1347123,1370307,1393539,1416771],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":440,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/dontknowme/dontknowme_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Janee Millicent Lucy Bennett, Timucin Lam, DJ Pat Bo, MNEK, Peter Hayo, Arno Kammermeier, Rachel Keen, Walter Merziger and Phil D. Young. Published by Universal Music Publishing AB. / Hanseatic Musikverlag GMBH. (GEMA) and Warner/Chappell Music Ltd. (PRS). All rights on behalf of Hanseatic Musikverlag GMBH. and Warner/Chappell Music Ltd. Administered by WB Music Corp. / Kobalt Songs Music Publishing obo Funky Wonton Ltd. (ASCAP) / Mila Publishing Edition. Courtesy of Polydor Records Ltd/Interscope Records under license from Universal Music Enterprises. / Etcetc Music Pty Ltd. All rights of the producer and other right holders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F97A13FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 215.80599999999998,
+  "mapName": "DontKnowMe",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496802\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"650-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-650\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1137341\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1247382\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1247102\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "DontKnowMe_mapContent"
+  },
+  "parentMapName": "DontKnowMe",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "AD2A2AFF",
+    "songColor_1B": "333645FF",
+    "songColor_2A": "D9EAF2FF",
+    "songColor_2B": "DFAF3FFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "You Don't Know Me",
+  "urls": {
+    "jmcs://jd-contents/DontKnowMe/DontKnowMe_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_AudioPreview.ogg/18a790889b74a7811e65ba2b9ec895ec.ogg",
+    "jmcs://jd-contents/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_HIGH.vp8.webm/9925bc993c9ccf6f51d2ecbbbe1c020a.webm",
+    "jmcs://jd-contents/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_HIGH.vp9.webm/33a4689170349a1550d4184015d9575e.webm",
+    "jmcs://jd-contents/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_LOW.vp8.webm/5d81ca9a0a34ee5aac9bb49fd203e633.webm",
+    "jmcs://jd-contents/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_LOW.vp9.webm/d8ab347d5c31205b7de1a8d702874393.webm",
+    "jmcs://jd-contents/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_MID.vp8.webm/688e845af2d5d37fb406641a1b5854eb.webm",
+    "jmcs://jd-contents/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_MID.vp9.webm/2e3ba5a2c0b1ab64bbf721828f85cb58.webm",
+    "jmcs://jd-contents/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm/7f9bdcba675ce146ece44c113f473903.webm",
+    "jmcs://jd-contents/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/DontKnowMe/DontKnowMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm/085c1d31fa8f6788db2498ac83d60d4d.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "8140c674eff48a6301db2b45b9a72ee1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DontKnowMe/ps4/DontKnowMe_MAIN_SCENE_ORBIS.zip/8140c674eff48a6301db2b45b9a72ee1.zip",
+      "version": 21
+    },
+    "nx": {
+      "md5": "0e9d2ad1da87d2fb74532d5185b4cb84",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DontKnowMe/nx/DontKnowMe_MAIN_SCENE_NX.zip/0e9d2ad1da87d2fb74532d5185b4cb84.zip",
+      "version": 21
+    },
+    "pc": {
+      "md5": "65af91055293818ac3b85853af39090a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DontKnowMe/pc/DontKnowMe_MAIN_SCENE_PC.zip/65af91055293818ac3b85853af39090a.zip",
+      "version": 17
+    },
+    "wiiu": {
+      "md5": "80036af78b46e980d3cd3c933154e972",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DontKnowMe/wiiu/DontKnowMe_MAIN_SCENE_WIIU.zip/80036af78b46e980d3cd3c933154e972.zip",
+      "version": 20
+    }
+  },
+  "mapType": "jdu"
+}

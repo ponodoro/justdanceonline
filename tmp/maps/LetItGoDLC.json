@@ -1,0 +1,115 @@
+{
+  "artist": "Disney's Frozen",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_banner_bkg.jpg/447e71ae9955357bb8f0ae9d4f273136.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Coach_1.png/1bd5f3584bf0a95254c3ced7ec05a5b5.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Cover_Generic.jpg/245d2a62533e98b0aeea765636f08c6d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Cover_1024.png/c015790f8527923f4a2c803c524ed5be.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Cover_Online.jpg/00f48ce1cffb8fa5674cdb21fc91170c.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Cover_AlbumBkg.jpg/53e1f6520d34b77def70c869f6b19d1f.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Cover_AlbumCoach.png/05d7c42c8e3ac20e0fbac9be15e9f029.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Coach_1_Phone.png/7d79fbb6a7c77eae5e34c320768e1e01.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Cover_Phone.jpg/00f48ce1cffb8fa5674cdb21fc91170c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_VideoPreview.webm/7b84f0781e2edca8494968b520c185af.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_banner_bkg.jpg/447e71ae9955357bb8f0ae9d4f273136.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Coach_1.png/1bd5f3584bf0a95254c3ced7ec05a5b5.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Cover_Generic.jpg/245d2a62533e98b0aeea765636f08c6d.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Cover_1024.png/c015790f8527923f4a2c803c524ed5be.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Cover_Online.jpg/00f48ce1cffb8fa5674cdb21fc91170c.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Cover_AlbumBkg.jpg/53e1f6520d34b77def70c869f6b19d1f.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Cover_AlbumCoach.png/05d7c42c8e3ac20e0fbac9be15e9f029.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Coach_1_Phone.png/7d79fbb6a7c77eae5e34c320768e1e01.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Cover_Phone.jpg/00f48ce1cffb8fa5674cdb21fc91170c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_VideoPreview.webm/7b84f0781e2edca8494968b520c185af.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/wiiu/LetItGoDLC_banner_bkg.tga.ckd/3d1268913457e1f7d2d6e4b9e4f2ec7c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/wiiu/LetItGoDLC_Coach_1.tga.ckd/270e6228267504632b2e31dea6cc5c16.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/wiiu/LetItGoDLC_Cover_Generic.tga.ckd/9905ca39f5c1c80861defc2df23bb04a.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Cover_1024.png/c015790f8527923f4a2c803c524ed5be.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/wiiu/LetItGoDLC_Cover_Online.tga.ckd/84882ecd3d2bb503f939e0104e42c7a9.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/wiiu/LetItGoDLC_Cover_AlbumBkg.tga.ckd/a3092744cabdb2aad011255164b7fff6.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/wiiu/LetItGoDLC_Cover_AlbumCoach.tga.ckd/26507d676dae8a30ad5255fd9fdcef56.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Coach_1_Phone.png/7d79fbb6a7c77eae5e34c320768e1e01.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_Cover_Phone.jpg/00f48ce1cffb8fa5674cdb21fc91170c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_VideoPreview.webm/7b84f0781e2edca8494968b520c185af.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,42048,84096,126144,168192,210192,252240,294288,336336,378384,420432,462480,504528,546576,588624,630672,672720,714720,756768,798816,840864,882912,924960,967008,1009056,1051104,1093152,1135200,1177200,1219248,1261296,1303344,1345392,1387440,1429488],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2},{\"__class\":\"MusicSignature\",\"marker\":1,\"beats\":4}],\"startBeat\":-3,\"endBeat\":252,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":34,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/letitgodlc/letitgodlc_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "E653ACFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 223.358,
+  "mapName": "LetItGoDLC",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496851\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1117\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1427643\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1762177\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1764504\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "LetItGoDLC_mapContent"
+  },
+  "parentMapName": "LetItGoDLC",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "8DC6F8FF",
+    "songColor_1B": "0016ADFF",
+    "songColor_2A": "70C4FFFF",
+    "songColor_2B": "0B0047FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Let It Go",
+  "urls": {
+    "jmcs://jd-contents/LetItGoDLC/LetItGoDLC_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_AudioPreview.ogg/7ef70ac4680dd846bfc05b5c604c17f0.ogg",
+    "jmcs://jd-contents/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm/cf7b1f352ffb596230fcbfda0028477d.webm",
+    "jmcs://jd-contents/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm/cde6cb96e755e9c7af1eaab4a7fc9e11.webm",
+    "jmcs://jd-contents/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/207d2a559932a85c70f369e598e0a88e.webm",
+    "jmcs://jd-contents/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_LOW.vp9.webm/5d88f13e45da55c6e9deba53208b8a6f.webm",
+    "jmcs://jd-contents/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_MID.vp8.webm/836e11a8c430ad6ae4544fd59ca2ff1c.webm",
+    "jmcs://jd-contents/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_MID.vp9.webm/a65784a3485c1930b3edc8f3d537d67b.webm",
+    "jmcs://jd-contents/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm/0cb10b7588e36e9a1a2005512f56dc30.webm",
+    "jmcs://jd-contents/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm/fda4bc30a3363dd68ffa0af9330cc840.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "270aa92b980f4c64faa99dced774ee68",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/ps4/LetItGoDLC_MAIN_SCENE_ORBIS.zip/270aa92b980f4c64faa99dced774ee68.zip",
+      "version": 6
+    },
+    "pc": {
+      "md5": "d5d97df806de06ef2dcecebf259520c4",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/pc/LetItGoDLC_MAIN_SCENE_PC.zip/d5d97df806de06ef2dcecebf259520c4.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "74d17ec2ed8d08bf3276103cad0a564c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/wiiu/LetItGoDLC_MAIN_SCENE_WIIU.zip/74d17ec2ed8d08bf3276103cad0a564c.zip",
+      "version": 6
+    },
+    "nx": {
+      "md5": "6008c70a25069816f41c3d7bb0bfa3f9",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LetItGoDLC/nx/LetItGoDLC_MAIN_SCENE_NX.zip/6008c70a25069816f41c3d7bb0bfa3f9.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 15490
+}

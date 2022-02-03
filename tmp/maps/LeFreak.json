@@ -1,0 +1,114 @@
+{
+  "artist": "Chic",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_banner_bkg.jpg/d391b35c642ed80bac5ac5b1ccfeca60.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Coach_1.png/de2b937a7f7c7d071805914634439ebc.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Cover_Generic.jpg/1eea06d430ea00ba6dabb92c7c9bdfb1.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Cover_1024.png/0f5ff090a135ae895bed8bdf57a218fb.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Cover_Online.jpg/694c3d8d6cea3a9bfdbdc918cef33ce0.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Cover_AlbumBkg.jpg/371f49f2438bcd37f52dea69e591eb49.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Cover_AlbumCoach.png/18e787219c43ced627de253440f8b180.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Coach_1_Phone.png/8576f0c336492ccfec5a17cd2ccb12ae.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Cover_Phone.jpg/694c3d8d6cea3a9bfdbdc918cef33ce0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_VideoPreview.webm/e65c54fc84b958323715ef40592b4fa9.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_banner_bkg.jpg/d391b35c642ed80bac5ac5b1ccfeca60.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Coach_1.png/de2b937a7f7c7d071805914634439ebc.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Cover_Generic.jpg/1eea06d430ea00ba6dabb92c7c9bdfb1.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Cover_1024.png/0f5ff090a135ae895bed8bdf57a218fb.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Cover_Online.jpg/694c3d8d6cea3a9bfdbdc918cef33ce0.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Cover_AlbumBkg.jpg/371f49f2438bcd37f52dea69e591eb49.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Cover_AlbumCoach.png/18e787219c43ced627de253440f8b180.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Coach_1_Phone.png/8576f0c336492ccfec5a17cd2ccb12ae.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Cover_Phone.jpg/694c3d8d6cea3a9bfdbdc918cef33ce0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_VideoPreview.webm/e65c54fc84b958323715ef40592b4fa9.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/wiiu/LeFreak_banner_bkg.tga.ckd/7b5d36bb8630ce7160244660a235738e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/wiiu/LeFreak_Coach_1.tga.ckd/fd8be15aff1a79edfec058ede9254689.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/wiiu/LeFreak_Cover_Generic.tga.ckd/9e758f3640b4c1575714bcebcd3b9bde.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Cover_1024.png/0f5ff090a135ae895bed8bdf57a218fb.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/wiiu/LeFreak_Cover_Online.tga.ckd/4b972f9a1a7d338b11324f0cda36c29b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/wiiu/LeFreak_Cover_AlbumBkg.tga.ckd/a7991064b74ab8b21179fbaa40ca1c40.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/wiiu/LeFreak_Cover_AlbumCoach.tga.ckd/0096f91ade62110a274167293df1ef20.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Coach_1_Phone.png/8576f0c336492ccfec5a17cd2ccb12ae.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_Cover_Phone.jpg/694c3d8d6cea3a9bfdbdc918cef33ce0.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_VideoPreview.webm/e65c54fc84b958323715ef40592b4fa9.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24407,48813,73221,97628,122034,146441,170847,195255,219662,244068,268475,292881,317288,341696,366102,390509,414915,437990,462398,486804,511211,535617,560024,584430,608838,633245,657651,682058,706464,730872,755279,779685,804092,828498,852906,877313,901719,925550,949956,974363,998771,1023177,1047584,1071990,1096397,1120805,1145211,1169618,1194024,1218431,1242839,1267245,1291652,1316058,1341377,1365783,1390191,1414598,1439004],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":429,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":-0.100000,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/lefreak/lefreak_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FCB908FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 218.069,
+  "mapName": "LeFreak",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495461\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LeFreak/LeFreak_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"627-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-627\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"798681\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LeFreak/LeFreak_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"798774\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LeFreak/LeFreak_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"798733\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/LeFreak/LeFreak_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 1,
+  "packages": {
+    "mapContent": "LeFreak_mapContent"
+  },
+  "parentMapName": "LeFreak",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "008BADFF",
+    "songColor_1B": "000566FF",
+    "songColor_2A": "FBBE00FF",
+    "songColor_2B": "A80000FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Le Freak",
+  "urls": {
+    "jmcs://jd-contents/LeFreak/LeFreak_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_AudioPreview.ogg/dc2e96731a15566c1b9ca7d2eff6db27.ogg",
+    "jmcs://jd-contents/LeFreak/LeFreak_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_MapPreviewNoSoundCrop_HIGH.vp8.webm/e86014a6dfaace8819f4a289221015f9.webm",
+    "jmcs://jd-contents/LeFreak/LeFreak_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_MapPreviewNoSoundCrop_HIGH.vp9.webm/1527440790991c73422e8502696e97ff.webm",
+    "jmcs://jd-contents/LeFreak/LeFreak_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_MapPreviewNoSoundCrop_LOW.vp8.webm/ff5ccd510e6e32833c8e6b24ce7ca458.webm",
+    "jmcs://jd-contents/LeFreak/LeFreak_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_MapPreviewNoSoundCrop_LOW.vp9.webm/09bf3c90ecf58f2fe8cb79c0a89a04be.webm",
+    "jmcs://jd-contents/LeFreak/LeFreak_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_MapPreviewNoSoundCrop_MID.vp8.webm/f6438c1c10af458b9d210252b1b942c9.webm",
+    "jmcs://jd-contents/LeFreak/LeFreak_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_MapPreviewNoSoundCrop_MID.vp9.webm/10ce84feceb2e3f7d23a23c3b2f34df7.webm",
+    "jmcs://jd-contents/LeFreak/LeFreak_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_MapPreviewNoSoundCrop_ULTRA.vp8.webm/cf4330f18046f35a05e565c417236164.webm",
+    "jmcs://jd-contents/LeFreak/LeFreak_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/LeFreak/LeFreak_MapPreviewNoSoundCrop_ULTRA.vp9.webm/410bdd965dfb21efd2fbbbbfbb0c32a2.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "0cf5a2c7f5f23fb801998c5500428ef0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LeFreak/ps4/LeFreak_MAIN_SCENE_ORBIS.zip/0cf5a2c7f5f23fb801998c5500428ef0.zip",
+      "version": 9
+    },
+    "pc": {
+      "md5": "d8d4da417349e1b8aee7071c9053b968",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LeFreak/pc/LeFreak_MAIN_SCENE_PC.zip/d8d4da417349e1b8aee7071c9053b968.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "57d3d6ebe52ebd952efc37ad67eca2f2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LeFreak/wiiu/LeFreak_MAIN_SCENE_WIIU.zip/57d3d6ebe52ebd952efc37ad67eca2f2.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "369c9f58e73fccd7d9d3627a87b00337",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/LeFreak/nx/LeFreak_MAIN_SCENE_NX.zip/369c9f58e73fccd7d9d3627a87b00337.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

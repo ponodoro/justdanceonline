@@ -1,0 +1,119 @@
+{
+  "artist": "Krewella, Yellow Claw Ft. Vava",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/ps4/NewWorld_banner_bkg.tga.ckd/e27b024524cc1a9600e141201b3b2456.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/ps4/NewWorld_Coach_1.tga.ckd/12e01884c91d076b6cdd0fa95e739ea6.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/ps4/NewWorld_Cover_Generic.tga.ckd/cca9fb0aa88e569fe2bf727424ea7010.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_Cover_1024.png/c6d83fe184350c321bf9f901841c5604.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/ps4/NewWorld_Cover_Online.tga.ckd/6f2fc729c4b105d164d73907dd660695.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/ps4/NewWorld_Cover_AlbumBkg.tga.ckd/c57c1149eb7f26f7bceec516a2edb31e.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/ps4/NewWorld_Cover_AlbumCoach.tga.ckd/8ce387afe7ea0d70fac441c5f1fe75a2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_Coach_1_Phone.png/c70e7a368f87e03265d6ec6d2a14aad6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_Cover_Phone.jpg/2f1b17c4470788bc0c15a5c60c307ffa.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/ps4/NewWorld_map_bkg.tga.ckd/8092c3e18db48284aa449be938aacc4b.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/nx/NewWorld_banner_bkg.tga.ckd/f5c8153db7916e600da292dcba99458c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/nx/NewWorld_Coach_1.tga.ckd/f28bd88fd0465b275e34655db5a01954.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/nx/NewWorld_Cover_Generic.tga.ckd/7aa25f3e3acdd5393dfb41c3d22ae1f7.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_Cover_1024.png/c6d83fe184350c321bf9f901841c5604.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/nx/NewWorld_Cover_Online.tga.ckd/9d5ee5e6033d7a63146a0eec5136a313.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/nx/NewWorld_Cover_AlbumBkg.tga.ckd/9eec0f28447534fcb4aafd4e4e5a1c5a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/nx/NewWorld_Cover_AlbumCoach.tga.ckd/8de67ab63106d206998d6228a07c0f48.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_Coach_1_Phone.png/c70e7a368f87e03265d6ec6d2a14aad6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_Cover_Phone.jpg/2f1b17c4470788bc0c15a5c60c307ffa.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/nx/NewWorld_map_bkg.tga.ckd/310959ac981a68dba12a3dcea37d676e.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_banner_bkg.jpg/e0a38db6e015e4afea656abd59facbea.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_Coach_1.png/f8c1f445e1ba5625ca4438afe47a8894.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_Cover_Generic.jpg/62a834caa46469f6711ef2082599a6b5.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_Cover_1024.png/c6d83fe184350c321bf9f901841c5604.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_Cover_Online.jpg/2f1b17c4470788bc0c15a5c60c307ffa.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_Cover_AlbumBkg.jpg/34c485b77ced9b32c62f9491088ef46d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_Cover_AlbumCoach.png/7046b2ebdd3a6980ea4464235396745c.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_Coach_1_Phone.png/c70e7a368f87e03265d6ec6d2a14aad6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_Cover_Phone.jpg/2f1b17c4470788bc0c15a5c60c307ffa.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,17665,35329,53041,70705,88369,106033,123697,141361,159025,176689,194353,212017,229729,247393,265057,282721,300385,318049,335713,353377,371041,388705,406417,424081,441745,459409,477073,494737,512401,530065,547729,565393,583105,600769,618433,636097,653761,671425,689089,706753,724417,742081,759793,777458,795122,812786,830450,848114,865778,883442,901106,918770,936434,954146,971810,989474,1007138,1024802,1042466,1060130,1077794,1095458,1113122,1130834,1148498,1166162,1183826,1201490,1219154,1236818,1254482,1272146,1289810,1307522,1325186,1342850,1360514,1378178,1395842,1413506,1431170],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":440,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":81,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/newworld/newworld_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Cody Tarpley, Taylor Bennett, Jimmy J G L Jim Taiuttu, Nils Rondhuis, Jahan Yousaf, Yasmine Yousaf and Daniel Doron Henig. Published by Captain Doom Publishing / Anxiety Baby Publishing (ASCAP) c/o Sony/ATV Music Publishing Canada (SOCAN) / Warner-Tamerlane Publishing Corp. (BMI) and Evenyre Music (BMI). All rights on behalf of itself and Evenyre Music administered by Warner-Tamerlane Publishing Corp. / Dan Henig Publishing / YC Music (Netherlands). / Tay Bennett Music. All rights reserved. Used with permission. Courtesy of Mixed Kids Records. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "E7A518FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 164.90699999999998,
+  "mapName": "NewWorld",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496121\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NewWorld/NewWorld_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"623-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-623\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1476655\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NewWorld/NewWorld_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2925414\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NewWorld/NewWorld_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5224676\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/NewWorld/NewWorld_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "NewWorld_mapContent"
+  },
+  "parentMapName": "NewWorld",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "0B32C1FF",
+    "songColor_1B": "02004FFF",
+    "songColor_2A": "D61648FF",
+    "songColor_2B": "030114FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "New World",
+  "urls": {
+    "jmcs://jd-contents/NewWorld/NewWorld_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_AudioPreview.ogg/707d36144fbe991ee95582dac6fa7c3f.ogg",
+    "jmcs://jd-contents/NewWorld/NewWorld_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_MapPreviewNoSoundCrop_HIGH.vp8.webm/224e54221b25e42a13549b2b39a30aea.webm",
+    "jmcs://jd-contents/NewWorld/NewWorld_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_MapPreviewNoSoundCrop_HIGH.vp9.webm/6b0242422d5375b78743a8537862b08b.webm",
+    "jmcs://jd-contents/NewWorld/NewWorld_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_MapPreviewNoSoundCrop_LOW.vp8.webm/34a07ba6b4367e9c55c1da03d478f544.webm",
+    "jmcs://jd-contents/NewWorld/NewWorld_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_MapPreviewNoSoundCrop_LOW.vp9.webm/8c76c8bb208114d3867e41264cc5ea39.webm",
+    "jmcs://jd-contents/NewWorld/NewWorld_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_MapPreviewNoSoundCrop_MID.vp8.webm/e5a52d79507e9748442aa521dcbd2ae4.webm",
+    "jmcs://jd-contents/NewWorld/NewWorld_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_MapPreviewNoSoundCrop_MID.vp9.webm/d8bf3834cb52e0cf904bf13013e4c3b4.webm",
+    "jmcs://jd-contents/NewWorld/NewWorld_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b831cad628183ea107a33e315cea31b4.webm",
+    "jmcs://jd-contents/NewWorld/NewWorld_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/NewWorld/NewWorld_MapPreviewNoSoundCrop_ULTRA.vp9.webm/a51e50be6aea366f1d6ee0714718c0a8.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "02157e3f6be31babd0723415315cbdf1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/NewWorld/ps4/NewWorld_MAIN_SCENE_ORBIS.zip/02157e3f6be31babd0723415315cbdf1.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "d78038ff3b7eb3a1d0a670ecc7061609",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/NewWorld/nx/NewWorld_MAIN_SCENE_NX.zip/d78038ff3b7eb3a1d0a670ecc7061609.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "d797ba688070a47e6c0238072ee6583b",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/newworld_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

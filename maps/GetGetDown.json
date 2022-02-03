@@ -1,0 +1,102 @@
+{
+  "artist": "Paul Johnson",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_banner_bkg.jpg/991a6452176b7ea03c0d1c96dc13dfb9.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Coach_1.png/cc49021fc9a1610b4eba7b71abfacd12.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Coach_2.png/b2bd6f1ac8d902dafbadc6c9685081f4.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Coach_3.png/bfa1d1dd19f82dcd0e0ded0af268eaed.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Coach_4.png/2a651662d464a4ea13fbc821c38c8125.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Cover_Generic.jpg/396b975a9b8df5a8bb3e7e567ef4c570.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Cover_Online.jpg/e1b175d77e4969300acb408d8f0a4f87.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Cover_AlbumBkg.jpg/bc7c1a075ed87bbdbcbc8de182bc20af.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Cover_AlbumCoach.png/736a7a00c32dd7a2b5071836bfaa4b5d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Coach_1_Phone.png/9c9dff1934e74bf0c2c42bc5d5c17615.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Coach_2_Phone.png/9bfe12048ec76b455a4f7be899e59890.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Coach_3_Phone.png/c9d778c509795719839f671becea7d5e.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Coach_4_Phone.png/a75141c3a335fed30bd796bb0e41bc3b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Cover_Phone.jpg/e1b175d77e4969300acb408d8f0a4f87.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_banner_bkg.jpg/991a6452176b7ea03c0d1c96dc13dfb9.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Coach_1.png/cc49021fc9a1610b4eba7b71abfacd12.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Coach_2.png/b2bd6f1ac8d902dafbadc6c9685081f4.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Coach_3.png/bfa1d1dd19f82dcd0e0ded0af268eaed.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Coach_4.png/2a651662d464a4ea13fbc821c38c8125.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Cover_Generic.jpg/396b975a9b8df5a8bb3e7e567ef4c570.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Cover_Online.jpg/e1b175d77e4969300acb408d8f0a4f87.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Cover_AlbumBkg.jpg/bc7c1a075ed87bbdbcbc8de182bc20af.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Cover_AlbumCoach.png/736a7a00c32dd7a2b5071836bfaa4b5d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Coach_1_Phone.png/9c9dff1934e74bf0c2c42bc5d5c17615.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Coach_2_Phone.png/9bfe12048ec76b455a4f7be899e59890.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Coach_3_Phone.png/c9d778c509795719839f671becea7d5e.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Coach_4_Phone.png/a75141c3a335fed30bd796bb0e41bc3b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GetGetDown/GetGetDown_Cover_Phone.jpg/e1b175d77e4969300acb408d8f0a4f87.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22678,45355,68032,90709,113386,136063,158741,181418,204095,226772,249449,272126,294804,317481,340158,362835,385512,408189,430867,453544,476221,498898,521575,544252,566930,589607,612284,634961,657638,680315,702993,725670,748347,771024,793701,816378,839056,861733,884410,907087,929764,952441,975119,997796,1020473,1043150,1065827,1088504,1111182,1133859,1156536,1179213,1201890,1224567,1247245,1269922,1292599,1315276,1337953,1360630,1383308,1405985,1428662],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":371,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/getgetdown/getgetdown_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Hamilton Bohannon. Published by Bohannon Ponteverda Music (ASCAP). Courtesy of Moody Recordings.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "1B34AAFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 178.111,
+  "mapName": "GetGetDown",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497980\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484636\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2945072\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4043833\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "GetGetDown_mapContent"
+  },
+  "parentMapName": "GetGetDown",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "79B6EAFF",
+    "songColor_1B": "2956A0FF",
+    "songColor_2A": "56F8FAFF",
+    "songColor_2B": "1C6C80FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Get Get Down",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "08c5d76855b7d94cb4c34c73877b1d26",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/GetGetDown/ps4/GetGetDown_MAIN_SCENE_ORBIS.zip/08c5d76855b7d94cb4c34c73877b1d26.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "4692418e0cd835bc0b8f71c8e4c98c48",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/GetGetDown/nx/GetGetDown_MAIN_SCENE_NX.zip/4692418e0cd835bc0b8f71c8e4c98c48.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "d588429eb2035a454ace6baf5fcbd58e",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/GetGetDown/pc/d588429eb2035a454ace6baf5fcbd58e.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/GetGetDown/GetGetDown_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/GetGetDown/GetGetDown_AudioPreview.ogg/0439dc4c569152f1328a6c7aa9fe7869.ogg",
+    "jmcs://jd-contents/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_HIGH.vp8.webm/bb824d6dbd3fca148b45706ec6c01d75.webm",
+    "jmcs://jd-contents/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_HIGH.vp9.webm/f0aaba1b90a958aece5d83f0e55ea9cb.webm",
+    "jmcs://jd-contents/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_LOW.vp8.webm/8cd090234b2c8b9368ad873b81683bc7.webm",
+    "jmcs://jd-contents/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_LOW.vp9.webm/145e25f1d90ff65d01eefb7e9ae28c0e.webm",
+    "jmcs://jd-contents/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_MID.vp8.webm/07226a7c3603a5281e8f26c516b9a81f.webm",
+    "jmcs://jd-contents/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_MID.vp9.webm/cc17c01da8118aeadeb0df8407729ffc.webm",
+    "jmcs://jd-contents/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_ULTRA.vp8.webm/545bbd81c8fc779755aa1f04cdf25883.webm",
+    "jmcs://jd-contents/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/GetGetDown/GetGetDown_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5935cf5a6fb7235dd9059bb2e44df817.webm"
+  }
+}

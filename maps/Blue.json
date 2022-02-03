@@ -1,0 +1,124 @@
+{
+  "artist": "Hit The Electro Beat",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/ps4/Blue_banner_bkg.tga.ckd/997a6ebf7ed0eea0b9f3b7d7796132d1.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/ps4/Blue_Coach_1.tga.ckd/d82221d2f47ed68d729e812b0beaf349.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/ps4/Blue_Cover_Generic.tga.ckd/8c17ed27f1fb249e8e4971bf35bd49d0.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/Blue_Cover_1024.png/c0d775ccf91a5b58fc28fdfd06f69377.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/ps4/Blue_Cover_Online.tga.ckd/2ae798d9b9f469583bdf796505fbcf84.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/ps4/Blue_Cover_AlbumBkg.tga.ckd/3c70fcbdf7cde4aac588547d9e6ea311.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/ps4/Blue_Cover_AlbumCoach.tga.ckd/809773ca71d61809bcbd2d95e32c6610.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/Blue_Coach_1_Phone.png/af3116346142a455e6b73ab68004f3fb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/Blue_Cover_Phone.jpg/5cb144ce1694276606a36669aa14d749.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Blue/Blue_VideoPreview.webm/718eb96b0fec119a40bd1c1dcd878a8a.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/ps4/Blue_map_bkg.tga.ckd/fe2d62471456a2df0e7a080145c4ba1a.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/nx/Blue_banner_bkg.tga.ckd/e01bbbfec895011383d84ca9b1695df7.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/nx/Blue_Coach_1.tga.ckd/d6856f04b698e94fbb799dabbfae99b5.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/nx/Blue_Cover_Generic.tga.ckd/fb1f3dfe63e3863bcf9a16ccfdb1f272.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/Blue_Cover_1024.png/c0d775ccf91a5b58fc28fdfd06f69377.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/nx/Blue_Cover_Online.tga.ckd/f201543eddde922b943af607cfc150d8.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/nx/Blue_Cover_AlbumBkg.tga.ckd/d60815ed47310ee4eb992b0e8af74373.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/nx/Blue_Cover_AlbumCoach.tga.ckd/5c14f70957e9b14d1625ac08b6cde60a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/Blue_Coach_1_Phone.png/af3116346142a455e6b73ab68004f3fb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/Blue_Cover_Phone.jpg/5cb144ce1694276606a36669aa14d749.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Blue/Blue_VideoPreview.webm/718eb96b0fec119a40bd1c1dcd878a8a.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/nx/Blue_map_bkg.tga.ckd/b755313d28d2eddef3a861008c30d572.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/wiiu/Blue_banner_bkg.tga.ckd/ea41c75b310ab1c249a7741d0819004f.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/wiiu/Blue_Coach_1.tga.ckd/8d4994fc5e8b534f6c843432a524d95a.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/wiiu/Blue_Cover_Generic.tga.ckd/ce52580608827c76910ca973b26854e2.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/Blue_Cover_1024.png/c0d775ccf91a5b58fc28fdfd06f69377.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/wiiu/Blue_Cover_Online.tga.ckd/cf8b111101d06de0d40e6a73aa889731.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/wiiu/Blue_Cover_AlbumBkg.tga.ckd/06fd7ea7078afc5030149aea571d8166.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/wiiu/Blue_Cover_AlbumCoach.tga.ckd/92ddeac46b5d983ab8eef0273ed8c543.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/Blue_Coach_1_Phone.png/af3116346142a455e6b73ab68004f3fb.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Blue/Blue_Cover_Phone.jpg/5cb144ce1694276606a36669aa14d749.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/Blue/Blue_VideoPreview.webm/718eb96b0fec119a40bd1c1dcd878a8a.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22464,44976,67488,90000,112512,134976,157488,180000,202512,225024,247488,270000,292512,315025,337489,360001,382513,405025,427537,450001,472513,495025,517537,540049,562513,585025,607537,630049,652513,675025,697537,720049,742561,765025,787538,810050,832562,855074,877538,900050,922562,945074,967538,990050,1012562,1035074,1057586,1080050,1102562,1125074,1147586,1170098,1192562,1215074,1237586,1260099,1282563,1305075,1327587,1350099,1372611,1395075,1417587],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":469,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/blue/blue_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Gianfranco Randone, Massimo Gabutti and Maurizio Lobina. Published by GZ538 (SIAE). Produced, Engineered and Mixed by Steve Ouimette. Vocals: Steve Ouimette. Programming and synths: Steve Ouimette. Additional Sounds: Patrick Giguere. Music Supervision - Manu Bachet. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0083FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 223.611,
+  "mapName": "Blue",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495983\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Blue/Blue_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"614-1103\">\r\n\t\t\t\t\t<Initialization range=\"0-614\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1468587\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Blue/Blue_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\r\n\t\t\t\t\t<Initialization range=\"0-615\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2538784\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Blue/Blue_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\r\n\t\t\t\t\t<Initialization range=\"0-615\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2567852\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Blue/Blue_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\r\n\t\t\t\t\t<Initialization range=\"0-615\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2018,
+  "packages": {
+    "mapContent": "Blue_mapContent"
+  },
+  "parentMapName": "Blue",
+  "skuIds": [
+    "jd2018-nx-all",
+    "jd2018-ps4-scea",
+    "jd2018-ps4-scee",
+    "jd2018-wiiu-noa",
+    "jd2018-wiiu-noe",
+    "jd2018-xone-emea",
+    "jd2018-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "0050D1FF",
+    "songColor_1B": "000C33FF",
+    "songColor_2A": "FFCAFFFF",
+    "songColor_2B": "D264FFFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "JD19_KIDScompatible",
+    "CnUnlimited2018"
+  ],
+  "title": "Blue (Da Ba Dee)",
+  "urls": {
+    "jmcs://jd-contents/Blue/Blue_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Blue/Blue_AudioPreview.ogg/e3b1758446a1bc90b139dfd26c3b4223.ogg",
+    "jmcs://jd-contents/Blue/Blue_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Blue/Blue_MapPreviewNoSoundCrop_HIGH.vp8.webm/a82dfe4b8750cd063a903ee60cb689a7.webm",
+    "jmcs://jd-contents/Blue/Blue_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Blue/Blue_MapPreviewNoSoundCrop_HIGH.vp9.webm/d8c464bba7f6ccabc2c7bc6be9c6cd0c.webm",
+    "jmcs://jd-contents/Blue/Blue_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Blue/Blue_MapPreviewNoSoundCrop_LOW.vp8.webm/662d35e6dc36fd7ef526dbb2e58cde63.webm",
+    "jmcs://jd-contents/Blue/Blue_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Blue/Blue_MapPreviewNoSoundCrop_LOW.vp9.webm/a3767554f44cb2c4629c98d9cc0df443.webm",
+    "jmcs://jd-contents/Blue/Blue_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Blue/Blue_MapPreviewNoSoundCrop_MID.vp8.webm/8e825967e4442215ab31d80d1f0572af.webm",
+    "jmcs://jd-contents/Blue/Blue_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Blue/Blue_MapPreviewNoSoundCrop_MID.vp9.webm/f76965141595fc16daa3a528a4ef215b.webm",
+    "jmcs://jd-contents/Blue/Blue_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Blue/Blue_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d89caacc33be0597d582939186396508.webm",
+    "jmcs://jd-contents/Blue/Blue_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Blue/Blue_MapPreviewNoSoundCrop_ULTRA.vp9.webm/55788a8e2629f4393c7f9184a74937cb.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a5a10122708aba9a851a2477993c401d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Blue/ps4/Blue_MAIN_SCENE_ORBIS.zip/a5a10122708aba9a851a2477993c401d.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "22324529647d5ef35958b37b65ff87c1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Blue/nx/Blue_MAIN_SCENE_NX.zip/22324529647d5ef35958b37b65ff87c1.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "aef8f66daa502dd31498b10b3d49963b",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Blue/pc/aef8f66daa502dd31498b10b3d49963b.zip",
+      "version": 1
+    },
+    "wiiu": {
+      "md5": "8386c795264af54f0b530cc3e3164c35",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/Blue/wiiu/Blue_MAIN_SCENE_WIIU.zip/8386c795264af54f0b530cc3e3164c35.zip",
+      "version": 3
+    }
+  },
+  "mapType": "jdu"
+}

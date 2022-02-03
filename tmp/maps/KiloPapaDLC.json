@@ -1,0 +1,111 @@
+{
+  "artist": "Katy Perry",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_banner_bkg.jpg/7cf24e684484dd6a7240dee23a8889cd.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Coach_1.png/3dac4567256359fa6e6c969b2c311b23.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Cover_Generic.jpg/44dc0916d9d115bf9179aaa921974d03.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Cover_1024.png/7c5fce3cd73850063bf749a720640e37.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Cover_Online.jpg/54c104a99e44d8b2dea978a6c5db07c7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Cover_AlbumBkg.jpg/b529170fa2b31086258424a351b2044d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Cover_AlbumCoach.png/41f19c245f758e6a7d5b495434e5ca30.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Coach_1_Phone.png/3e5c0f381313228a173dba38a26ea350.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Cover_Phone.jpg/54c104a99e44d8b2dea978a6c5db07c7.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_banner_bkg.jpg/7cf24e684484dd6a7240dee23a8889cd.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Coach_1.png/3dac4567256359fa6e6c969b2c311b23.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Cover_Generic.jpg/44dc0916d9d115bf9179aaa921974d03.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Cover_1024.png/7c5fce3cd73850063bf749a720640e37.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Cover_Online.jpg/54c104a99e44d8b2dea978a6c5db07c7.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Cover_AlbumBkg.jpg/b529170fa2b31086258424a351b2044d.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Cover_AlbumCoach.png/41f19c245f758e6a7d5b495434e5ca30.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Coach_1_Phone.png/3e5c0f381313228a173dba38a26ea350.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Cover_Phone.jpg/54c104a99e44d8b2dea978a6c5db07c7.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/wiiu/KiloPapaDLC_banner_bkg.tga.ckd/8a5403c57f3ed4dc7e7f669027547c15.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/wiiu/KiloPapaDLC_Coach_1.tga.ckd/8d011b65f14b954b35e8fea2f82977be.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/wiiu/KiloPapaDLC_Cover_Generic.tga.ckd/fdb38f586249c89c3ed3cca245829f7d.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Cover_1024.png/7c5fce3cd73850063bf749a720640e37.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/wiiu/KiloPapaDLC_Cover_Online.tga.ckd/264138e77c51f7875786562e9adc5e5d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/wiiu/KiloPapaDLC_Cover_AlbumBkg.tga.ckd/6bef3366ad2b21bb80a408b8c592c157.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/wiiu/KiloPapaDLC_Cover_AlbumCoach.tga.ckd/7755e9dc1e33ffa271a9799313414b5f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Coach_1_Phone.png/3e5c0f381313228a173dba38a26ea350.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_Cover_Phone.jpg/54c104a99e44d8b2dea978a6c5db07c7.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,32016,63984,96000,128016,159984,192000,224016,255984,287999,320015,351983,383999,416015,447983,479999,512015,543983,575999,608015,639983,671999,704015,735983,767999,800015,831983,863999,896015,927983,959999,992015,1023982,1055998,1088014,1119982,1151998,1184014,1215982,1247998,1280014,1311982,1343998,1376014,1407982,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":339,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":45,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/kilopapadlc/kilopapadlc_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "46B7C2FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 227.333,
+  "mapName": "KiloPapaDLC",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496752\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\r\n\t\t\t\t\t<Initialization range=\"0-634\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1479524\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2865632\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2988101\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "KiloPapaDLC_mapContent"
+  },
+  "parentMapName": "KiloPapaDLC",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "5C308BFF",
+    "songColor_1B": "090947FF",
+    "songColor_2A": "00FFC4FF",
+    "songColor_2B": "001949FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Roar",
+  "urls": {
+    "jmcs://jd-contents/KiloPapaDLC/KiloPapaDLC_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_AudioPreview.ogg/0b16c678fe70f4ac5da53a12d1096fb4.ogg",
+    "jmcs://jd-contents/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_HIGH.vp8.webm/02c6e192a83b4980efb2af08d76b280c.webm",
+    "jmcs://jd-contents/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_HIGH.vp9.webm/291418fe98a93f46dc3d78c9fcd42ab7.webm",
+    "jmcs://jd-contents/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/68daa689ea23bea2a74f6e6adbbed773.webm",
+    "jmcs://jd-contents/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_LOW.vp9.webm/6717c42d0bf7e74abf0f0c96b9dc46af.webm",
+    "jmcs://jd-contents/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_MID.vp8.webm/4516878aeae0765a3ea5e208a36b0e47.webm",
+    "jmcs://jd-contents/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_MID.vp9.webm/fe97650218c12ea4108250d87fc8570e.webm",
+    "jmcs://jd-contents/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_ULTRA.vp8.webm/958b7e868ed6b6a4019a839ca62d4887.webm",
+    "jmcs://jd-contents/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/KiloPapaDLC_MapPreviewNoSoundCrop_ULTRA.vp9.webm/91ab37f93eec59e3051f6a8419a15dac.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "f5618124496c930a446fda6de3437075",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/ps4/KiloPapaDLC_MAIN_SCENE_ORBIS.zip/f5618124496c930a446fda6de3437075.zip",
+      "version": 6
+    },
+    "pc": {
+      "md5": "e6c3246caf2a26d87f9aeacde705655b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/pc/KiloPapaDLC_MAIN_SCENE_PC.zip/e6c3246caf2a26d87f9aeacde705655b.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "02da4cef4d8d206ecd639939bd5cd5e7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/wiiu/KiloPapaDLC_MAIN_SCENE_WIIU.zip/02da4cef4d8d206ecd639939bd5cd5e7.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "00509b547d999becfa3782e3f9e514ee",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KiloPapaDLC/nx/KiloPapaDLC_MAIN_SCENE_NX.zip/00509b547d999becfa3782e3f9e514ee.zip",
+      "version": 8
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,125 @@
+{
+  "artist": "Aventura",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ps4/ObsessionRetake_banner_bkg.tga.ckd/2e743ee3dcf06fb3babc0d56f58b36b1.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ps4/ObsessionRetake_Coach_1.tga.ckd/0f6eea4ffef8877c1716b2e83e6c52de.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ps4/ObsessionRetake_Coach_2.tga.ckd/3702e7c3901375afc92f1cdbcd36a7b8.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ps4/ObsessionRetake_Cover_Generic.tga.ckd/917e1f25e86afd3d7ef74c82dce270a0.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Cover_1024.png/e6c2cd99883a64edcc82cf1c421f33af.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ps4/ObsessionRetake_Cover_Online.tga.ckd/62255f8c8a354c03a211e0d9c7e702bf.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ps4/ObsessionRetake_Cover_AlbumBkg.tga.ckd/3f552d7078d095fc2b24e34f187cfe59.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ps4/ObsessionRetake_Cover_AlbumCoach.tga.ckd/3c8d648f82affcceb8567c924bccb4e8.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Coach_1_Phone.png/dcaba53a900157c4b6840625047e4ea1.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Coach_2_Phone.png/8c139cd1581652992c0aa507194c35b0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Cover_Phone.jpg/577778910461efeacddccd63136742f0.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ps4/ObsessionRetake_map_bkg.tga.ckd/df3f2b0ccc63de567ba4bc7972c2ee38.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/nx/ObsessionRetake_banner_bkg.tga.ckd/745a56d3105d0b2fdc1400d22b0f3109.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/nx/ObsessionRetake_Coach_1.tga.ckd/83b7a8b08b53c0bc337976407bddf9b9.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/nx/ObsessionRetake_Coach_2.tga.ckd/843330cb22ea67c45ceac04a7e46d700.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/nx/ObsessionRetake_Cover_Generic.tga.ckd/d348ea2e4e5765bc24cebb4579c50fab.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Cover_1024.png/e6c2cd99883a64edcc82cf1c421f33af.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/nx/ObsessionRetake_Cover_Online.tga.ckd/30b7666f1179e0c00e4bc0329564f7d8.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/nx/ObsessionRetake_Cover_AlbumBkg.tga.ckd/08c8b65b902af1465816ee12411e49c8.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/nx/ObsessionRetake_Cover_AlbumCoach.tga.ckd/6ba3662b95811cf2f1b513a168f56ea3.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Coach_1_Phone.png/dcaba53a900157c4b6840625047e4ea1.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Coach_2_Phone.png/8c139cd1581652992c0aa507194c35b0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Cover_Phone.jpg/577778910461efeacddccd63136742f0.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/nx/ObsessionRetake_map_bkg.tga.ckd/df699924fa6a561e1300c586a4613977.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_banner_bkg.jpg/ab41b81b497fca363880195950fcc346.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Coach_1.png/9cc59a97da29231645d068c79d6f6fde.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Coach_2.png/8293539a2ac28ee7445e2164e2417637.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Cover_Generic.jpg/8ec4c21cbe6b84f7addf595270c30c66.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Cover_1024.png/e6c2cd99883a64edcc82cf1c421f33af.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Cover_Online.jpg/577778910461efeacddccd63136742f0.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Cover_AlbumBkg.jpg/851a42c9d12fa094938c0c9f4d5249da.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Cover_AlbumCoach.png/79a854f8ed03db8bfb315e87d869f300.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Coach_1_Phone.png/dcaba53a900157c4b6840625047e4ea1.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Coach_2_Phone.png/8c139cd1581652992c0aa507194c35b0.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_Cover_Phone.jpg/577778910461efeacddccd63136742f0.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20304,41856,63360,84912,106416,128016,149616,171216,192816,214368,235872,257424,278928,300624,322272,343921,365617,387169,408769,430321,451921,473329,494737,516145,537601,558961,580321,601681,623089,644449,665857,687217,708625,730609,752593,774577,796609,818162,839762,861362,882914,904322,925730,947090,968498,990098,1011650,1033250,1054850,1076546,1098290,1119986,1141682,1163282,1184882,1206482,1228082,1249394,1270706,1292018,1313331,1334835,1356339,1377843,1399347,1421139],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":365,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":66,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/obsessionretake/obsessionretake_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Anthony Santos. Published by Premium Latin Publishing. Courtesy of Premium Latin Music, Inc. / The Orchard. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F6648AFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 165.638,
+  "mapName": "ObsessionRetake",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496747\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"637-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-637\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1474906\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2321360\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2322067\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "ObsessionRetake_mapContent"
+  },
+  "parentMapName": "ObsessionRetake",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "FCDB55FF",
+    "songColor_1B": "9E3A01FF",
+    "songColor_2A": "3F00FFFF",
+    "songColor_2B": "282266FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Obsesión",
+  "urls": {
+    "jmcs://jd-contents/ObsessionRetake/ObsessionRetake_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_AudioPreview.ogg/c3430dae4d35257257ee855edff6a6cd.ogg",
+    "jmcs://jd-contents/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_HIGH.vp8.webm/866075fe94ff6e2ee5671591bd1ff07b.webm",
+    "jmcs://jd-contents/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_HIGH.vp9.webm/f240be051547df550a9c05b243f26853.webm",
+    "jmcs://jd-contents/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_LOW.vp8.webm/1ab855b89bb0f48ecf4177ef98abfd0e.webm",
+    "jmcs://jd-contents/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_LOW.vp9.webm/8ac260b3f9700c13beeb97925bc055b2.webm",
+    "jmcs://jd-contents/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_MID.vp8.webm/cc3ddd1aef11cbdf99c91a8aa8c3280c.webm",
+    "jmcs://jd-contents/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_MID.vp9.webm/7f9f379f74b06a4b50cd566b51b3d3b7.webm",
+    "jmcs://jd-contents/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_ULTRA.vp8.webm/7e8dd658632e8b6ef351e3ae165e1ce2.webm",
+    "jmcs://jd-contents/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ObsessionRetake_MapPreviewNoSoundCrop_ULTRA.vp9.webm/c7fcba1cf6271e87262b27c7f3478159.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "b2228ce28525bb3d48cfaad0e4e31a73",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/ps4/ObsessionRetake_MAIN_SCENE_ORBIS.zip/b2228ce28525bb3d48cfaad0e4e31a73.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "71b4d216bf5f0e725a098188f4647b4f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ObsessionRetake/nx/ObsessionRetake_MAIN_SCENE_NX.zip/71b4d216bf5f0e725a098188f4647b4f.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "fb16dc7ec7cb4778f3bee1d2b343ba4b",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/obsessionretake_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

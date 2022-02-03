@@ -1,0 +1,102 @@
+{
+  "artist": "Mabel",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/ps4/DontCall_banner_bkg.tga.ckd/a4dfffd243ced95bf25143ebf4956200.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/ps4/DontCall_Coach_1.tga.ckd/0446a8e05e1d4988603588052380e0df.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/ps4/DontCall_Cover_Generic.tga.ckd/9363eaf98038fc8c5857af636e1247c1.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/DontCall_Cover_1024.png/43505a4ea17dca88d67aa4111ef147fa.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/ps4/DontCall_Cover_Online.tga.ckd/8ab4e2779536335a4d51a9da63b08c9a.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/ps4/DontCall_Cover_AlbumBkg.tga.ckd/8deaf5664d0c257483c8f76b31888b59.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/ps4/DontCall_Cover_AlbumCoach.tga.ckd/94409988fb29b989c9e7c418aae7a807.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/DontCall_Coach_1_Phone.png/281604e4eaf509d40281e0c3f109b7b7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/DontCall_Cover_Phone.jpg/8c75fb3c7115f9577bc7a9b4b325ad46.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DontCall/DontCall_VideoPreview.webm/3f28d2830bd0a88103f59943c4f2b3f3.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/ps4/DontCall_map_bkg.tga.ckd/e4adfab336656a8e69a5c7688fbefdaa.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/nx/DontCall_banner_bkg.tga.ckd/d09d02080bfb539830d22e171d6b957e.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/nx/DontCall_Coach_1.tga.ckd/1bccaf5c5387ba4fe5ed0656cd118f1b.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/nx/DontCall_Cover_Generic.tga.ckd/b35fed89f50df4383f2d7353dc72c31b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/DontCall_Cover_1024.png/43505a4ea17dca88d67aa4111ef147fa.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/nx/DontCall_Cover_Online.tga.ckd/7cfdbbc133e7bf46daa6e936a737442e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/nx/DontCall_Cover_AlbumBkg.tga.ckd/3f916d5ee3e3eaaf2d340e580313ee4e.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/nx/DontCall_Cover_AlbumCoach.tga.ckd/dae7b4f22f6097bc1d81ce4e726fcff6.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/DontCall_Coach_1_Phone.png/281604e4eaf509d40281e0c3f109b7b7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/DontCall_Cover_Phone.jpg/8c75fb3c7115f9577bc7a9b4b325ad46.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DontCall/DontCall_VideoPreview.webm/3f28d2830bd0a88103f59943c4f2b3f3.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DontCall/nx/DontCall_map_bkg.tga.ckd/ed6c21732e0b5ea46822a743869c7599.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,29088,58176,87264,116352,145440,174528,203616,232704,261792,290880,319968,349056,378144,407232,436320,465408,494496,523584,552672,581760,610848,639936,669023,698111,727199,756287,785375,814463,843551,872639,901727,930815,959903,988991,1018079,1047167,1076255,1105343,1134431,1163519,1192607,1221695,1250783,1279871,1308959,1338047,1367135,1396223,1425311],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":292,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":49,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/dontcall/dontcall_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Camille Angelina Purcell, Mabel McVey and Steve Mac. Published by BMG Gold Songs (ASCAP), BMG Platinum Songs US (BMI). / Universal Music Publishing Limited. Courtesy of Polydor Records Ltd/Capitol Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F8920EFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 178.76999999999998,
+  "mapName": "DontCall",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497406\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontCall/DontCall_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"649-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-649\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480756\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontCall/DontCall_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"650-1140\">\r\n\t\t\t\t\t<Initialization range=\"0-650\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2912259\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontCall/DontCall_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"650-1140\">\r\n\t\t\t\t\t<Initialization range=\"0-650\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3645780\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontCall/DontCall_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"650-1140\">\r\n\t\t\t\t\t<Initialization range=\"0-650\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "DontCall_mapContent"
+  },
+  "parentMapName": "DontCall",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "ECD4B6FF",
+    "songColor_1B": "3C2D61FF",
+    "songColor_2A": "0FBF71FF",
+    "songColor_2B": "CC1AE0FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Don't Call Me Up",
+  "urls": {
+    "jmcs://jd-contents/DontCall/DontCall_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/DontCall/DontCall_AudioPreview.ogg/6b030e469e9a93be4265f814f8d68423.ogg",
+    "jmcs://jd-contents/DontCall/DontCall_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/DontCall/DontCall_MapPreviewNoSoundCrop_HIGH.vp8.webm/aed3a76b772a92713d12ab46e0501078.webm",
+    "jmcs://jd-contents/DontCall/DontCall_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/DontCall/DontCall_MapPreviewNoSoundCrop_HIGH.vp9.webm/6ec689268fed2f0053f323d949ce9795.webm",
+    "jmcs://jd-contents/DontCall/DontCall_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/DontCall/DontCall_MapPreviewNoSoundCrop_LOW.vp8.webm/4cda1a634841f77fc59c1c144a37b72c.webm",
+    "jmcs://jd-contents/DontCall/DontCall_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/DontCall/DontCall_MapPreviewNoSoundCrop_LOW.vp9.webm/62fdb74b4f2460989871dd681ebe4228.webm",
+    "jmcs://jd-contents/DontCall/DontCall_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/DontCall/DontCall_MapPreviewNoSoundCrop_MID.vp8.webm/22479efce94853fac4144a70653f470b.webm",
+    "jmcs://jd-contents/DontCall/DontCall_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/DontCall/DontCall_MapPreviewNoSoundCrop_MID.vp9.webm/542c6cc34606b0cd859a2ef399b8667c.webm",
+    "jmcs://jd-contents/DontCall/DontCall_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/DontCall/DontCall_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b4536ad1db17e766411991c56bab2e74.webm",
+    "jmcs://jd-contents/DontCall/DontCall_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/DontCall/DontCall_MapPreviewNoSoundCrop_ULTRA.vp9.webm/80206d4058e13ac4fc9a30b24b7d5e47.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "5ad35bc621f4e72e3735275874ca1e89",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DontCall/ps4/DontCall_MAIN_SCENE_ORBIS.zip/5ad35bc621f4e72e3735275874ca1e89.zip",
+      "version": 48
+    },
+    "nx": {
+      "md5": "118cb1be2202b621e137fda090cac02b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DontCall/nx/DontCall_MAIN_SCENE_NX.zip/118cb1be2202b621e137fda090cac02b.zip",
+      "version": 48
+    },
+    "pc": {
+      "md5": "317be6400ebb58b3ab343c6546200051",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DontCall/pc/DontCall_MAIN_SCENE_PC.zip/317be6400ebb58b3ab343c6546200051.zip",
+      "version": 38
+    },
+    "wiiu": {
+      "md5": "9d416ff625ec2ccc4223f87447276053",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/DontCall/wiiu/DontCall_MAIN_SCENE_WIIU.zip/9d416ff625ec2ccc4223f87447276053.zip",
+      "version": 15
+    }
+  },
+  "mapType": "jdu"
+}

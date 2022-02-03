@@ -1,0 +1,130 @@
+{
+  "artist": "Diva Carmina",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_banner_bkg.jpg/7b6da331b5eec49320a9e43fe0dcc00c.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Coach_1.png/e4a3fb078fc383a3c2fe805d395eb7ca.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Cover_Generic.jpg/65e6800594cfe94f0c79e62bde6da2e9.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Cover_1024.png/9d6f1e80b170ab12438431d1e3700b1e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Cover_Online.jpg/55eac7ff9b0e7c9945ee3eee366c8b4e.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Cover_AlbumBkg.jpg/241165142d165d8a39cd278f2a404fa0.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Cover_AlbumCoach.png/36e668e24aae380fa2dd77e277721dd5.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Coach_1_Phone.png/4ff34890299f8bad4e56a931037e9a8a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Cover_Phone.jpg/55eac7ff9b0e7c9945ee3eee366c8b4e.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_VideoPreview.webm/f6586ead746cec1cb2e228fe9a01366f.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_banner_bkg.jpg/7b6da331b5eec49320a9e43fe0dcc00c.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Coach_1.png/e4a3fb078fc383a3c2fe805d395eb7ca.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Cover_Generic.jpg/65e6800594cfe94f0c79e62bde6da2e9.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Cover_1024.png/9d6f1e80b170ab12438431d1e3700b1e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Cover_Online.jpg/55eac7ff9b0e7c9945ee3eee366c8b4e.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Cover_AlbumBkg.jpg/241165142d165d8a39cd278f2a404fa0.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Cover_AlbumCoach.png/36e668e24aae380fa2dd77e277721dd5.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Coach_1_Phone.png/4ff34890299f8bad4e56a931037e9a8a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Cover_Phone.jpg/55eac7ff9b0e7c9945ee3eee366c8b4e.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_VideoPreview.webm/f6586ead746cec1cb2e228fe9a01366f.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/wiiu/ElectroMambo_banner_bkg.tga.ckd/620f4551065a1f809d49a79525d1eb4a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/wiiu/ElectroMambo_Coach_1.tga.ckd/6cd7c81742061c4315efbb83a74242ab.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/wiiu/ElectroMambo_Cover_Generic.tga.ckd/7db3276a88617f624215166e6d85f90b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Cover_1024.png/9d6f1e80b170ab12438431d1e3700b1e.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/wiiu/ElectroMambo_Cover_Online.tga.ckd/fe57a0bda33c2ed851d7849f7ff47c6e.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/wiiu/ElectroMambo_Cover_AlbumBkg.tga.ckd/d2958405f0589e62f6e5d92c29bb172f.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/wiiu/ElectroMambo_Cover_AlbumCoach.tga.ckd/3ef9f1fb0ee9cb6cbb0d8c345de361fd.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Coach_1_Phone.png/4ff34890299f8bad4e56a931037e9a8a.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_Cover_Phone.jpg/55eac7ff9b0e7c9945ee3eee366c8b4e.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_VideoPreview.webm/f6586ead746cec1cb2e228fe9a01366f.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22176,44304,66480,88608,110784,132912,155088,177216,199392,221520,243696,265872,288000,310176,332304,354480,376608,398784,420912,443088,465216,487392,509520,531696,553872,576000,598176,620304,642480,664608,686784,708913,731089,753217,775393,797521,819697,841873,864001,886177,908305,930481,952609,974785,996913,1019089,1041217,1063393,1085521,1107697,1129873,1152001,1174177,1196305,1218481,1240609,1262785,1284913,1307089,1329217,1351393,1373521,1395697,1417873],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":393,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/electromambo/electromambo_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by: Tom Salta, Nikki Leonti, Letty Rivera, Angela Clemmons. Published by Ubisoft Music Publishing. Courtesy of Ubisoft Music. Produced and Mixed by: Tom Salta. Vocalists: Nikki Leonti, Angela Clemmons, Marcos Bermudez, Tom Salta. Operatic Vocals: Jeanette Vecchione. Gang Vocals: Don Harris, Jeff Harris, Angela Lynch, Tom Salta. Trumpet, Sax and Trombone: The Harris Bros Horns. Percussion: Gumbi Ortiz. Bass: Gene Perez. Special Thanks: Philippe Saisse, Jose Madera, John Rodriguez. Music supervision - Manu Bachet and Alkis Argyriadis.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "CB3863FF",
+  "lyricsType": 1,
+  "mainCoach": -1,
+  "mapLength": 182.308,
+  "mapName": "ElectroMambo",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496922\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"627-1116\">\r\n\t\t\t\t\t<Initialization range=\"0-627\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1475856\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2882315\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3840665\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "ElectroMambo_mapContent"
+  },
+  "parentMapName": "ElectroMambo",
+  "skuIds": [
+    "jd2017-pc-ww",
+    "jd2017-ps4-scea",
+    "jd2017-ps4-scee",
+    "jd2017-wiiu-noa",
+    "jd2017-wiiu-noe",
+    "jd2017-xone-emea",
+    "jd2017-xone-ncsa",
+    "jd2016-ps4-scea",
+    "jd2016-ps4-scee",
+    "jd2016-wiiu-noa",
+    "jd2016-wiiu-noe",
+    "jd2016-xone-emea",
+    "jd2016-xone-ncsa"
+  ],
+  "songColors": {
+    "songColor_1A": "E175FFFF",
+    "songColor_1B": "1E0009FF",
+    "songColor_2A": "FFBB1AFF",
+    "songColor_2B": "211700FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Extreme",
+    "Main",
+    "Uplay2017",
+    "subscribedSong",
+    "HallOfFame",
+    "LatinCorner"
+  ],
+  "title": "Drop The Mambo",
+  "urls": {
+    "jmcs://jd-contents/ElectroMambo/ElectroMambo_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_AudioPreview.ogg/71cac2f2a4449a2b35b60e1f0b0d0b99.ogg",
+    "jmcs://jd-contents/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_HIGH.vp8.webm/dd7352d653e92279e4b3667c1ec312d7.webm",
+    "jmcs://jd-contents/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_HIGH.vp9.webm/c42cf994ce8d442d7139def857c9b3d9.webm",
+    "jmcs://jd-contents/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_LOW.vp8.webm/09ddb8df0d72ed55ac63349b7345b3fe.webm",
+    "jmcs://jd-contents/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_LOW.vp9.webm/82362df9a258f6e0a89613ed8c886017.webm",
+    "jmcs://jd-contents/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_MID.vp8.webm/5b31a3914a4456a11a45f3094e54f57b.webm",
+    "jmcs://jd-contents/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_MID.vp9.webm/26b6292518317cd9422eb72ecc2d55c4.webm",
+    "jmcs://jd-contents/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_ULTRA.vp8.webm/48ec3e2f34d7af7935d1d5d239ea83c0.webm",
+    "jmcs://jd-contents/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ElectroMambo_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5cdb294eb27a1a76b4fba2efccf604f3.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a89148e447c7a4d81de829fe8d9bf4ac",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ElectroMambo/ps4/ElectroMambo_MAIN_SCENE_ORBIS.zip/a89148e447c7a4d81de829fe8d9bf4ac.zip",
+      "version": 16
+    },
+    "nx": {
+      "md5": "7e68b190fe9aa58335952357e479edb3",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ElectroMambo/nx/ElectroMambo_MAIN_SCENE_NX.zip/7e68b190fe9aa58335952357e479edb3.zip",
+      "version": 9
+    },
+    "pc": {
+      "md5": "3f59fc409bacc9735aec48203baafe18",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ElectroMambo/pc/ElectroMambo_MAIN_SCENE_PC.zip/3f59fc409bacc9735aec48203baafe18.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "bee62e36612d67c4abc9824af4c916e8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/ElectroMambo/wiiu/ElectroMambo_MAIN_SCENE_WIIU.zip/bee62e36612d67c4abc9824af4c916e8.zip",
+      "version": 16
+    }
+  },
+  "mapType": "jdu"
+}

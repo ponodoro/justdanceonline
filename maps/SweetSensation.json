@@ -1,0 +1,137 @@
+{
+  "artist": "Flo Rida",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/ps4/SweetSensation_banner_bkg.tga.ckd/e7491d18f259ea6c683a274b03054382.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/ps4/SweetSensation_Coach_1.tga.ckd/d92ffd92be4d7dea9259fe18b2010450.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/ps4/SweetSensation_Coach_2.tga.ckd/f1f8f06ca27f66415e86d0e570cdd347.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/ps4/SweetSensation_Coach_3.tga.ckd/276d41a4a3dce653396c3bfe749af4eb.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/ps4/SweetSensation_Coach_4.tga.ckd/1efdfd026ee7aab1e5539ab67e16d363.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/ps4/SweetSensation_Cover_Generic.tga.ckd/0fdfd267f20974866a8ded14f71c53d9.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Cover_1024.png/597a5ec80e51352be5fa888e645c867d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/ps4/SweetSensation_Cover_Online.tga.ckd/7b518b456949cb51ff4dd06f4a462e95.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/ps4/SweetSensation_Cover_AlbumBkg.tga.ckd/c000cfa46de6ef0c9f017f6ffe8386bd.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/ps4/SweetSensation_Cover_AlbumCoach.tga.ckd/e0594da2fb103e6f2e6c0c05272bcebd.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Coach_1_Phone.png/616617f43e12c53994183328f15d629f.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Coach_2_Phone.png/2ce3bd9d0687541a18d2e167ae98e04d.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Coach_3_Phone.png/fed2dc23c510e221ff8cef521306580c.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Coach_4_Phone.png/9c3d4129ed70bce27c9daf00336fca2f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Cover_Phone.jpg/d5722e97c7421a8c13fbee18e5d93905.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/ps4/SweetSensation_map_bkg.tga.ckd/657343fc3149da95672e1c0b5e418d86.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/nx/SweetSensation_banner_bkg.tga.ckd/de637d36a1275cb443bcec52018f45e3.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/nx/SweetSensation_Coach_1.tga.ckd/99731b18fcac53c0916292fca610173a.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/nx/SweetSensation_Coach_2.tga.ckd/188c3f0136b740b5039d2bc099ae019e.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/nx/SweetSensation_Coach_3.tga.ckd/a93770180de2b1c63aa5bdfe57bed897.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/nx/SweetSensation_Coach_4.tga.ckd/1b0bed7b5c01dc40ab973d2182b7f9b1.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/nx/SweetSensation_Cover_Generic.tga.ckd/225b597783e9b16cb5d5426650ec4367.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Cover_1024.png/597a5ec80e51352be5fa888e645c867d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/nx/SweetSensation_Cover_Online.tga.ckd/6c75d0ae991dd81fd59834071cba9a9d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/nx/SweetSensation_Cover_AlbumBkg.tga.ckd/63eac6382740e525208b9685f1e58513.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/nx/SweetSensation_Cover_AlbumCoach.tga.ckd/204c6a54c874fd934ce1180082f760f6.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Coach_1_Phone.png/616617f43e12c53994183328f15d629f.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Coach_2_Phone.png/2ce3bd9d0687541a18d2e167ae98e04d.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Coach_3_Phone.png/fed2dc23c510e221ff8cef521306580c.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Coach_4_Phone.png/9c3d4129ed70bce27c9daf00336fca2f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Cover_Phone.jpg/d5722e97c7421a8c13fbee18e5d93905.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/nx/SweetSensation_map_bkg.tga.ckd/52cb254924b84223b8a2b095bdf1156c.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_banner_bkg.jpg/fcac9f7062e78caf3abe378f31899e36.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Coach_1.png/5994fd1c0b65d40facca0959e6c2d13c.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Coach_2.png/eeeac6129f6f118326b09cb30b7453c5.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Coach_3.png/1934c1adb70fd3007321e121728fe4d6.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Coach_4.png/d5b3d9d3b93a24bb0015846a13e0fae7.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Cover_Generic.jpg/9775ce5e4a79cf0e69f49ba9cbed9e4e.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Cover_1024.png/597a5ec80e51352be5fa888e645c867d.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Cover_Online.jpg/d5722e97c7421a8c13fbee18e5d93905.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Cover_AlbumBkg.jpg/03152257beb89bd184ec3df2deca6664.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Cover_AlbumCoach.png/e09c0d7048f0255ef06d9383481d6c00.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Coach_1_Phone.png/616617f43e12c53994183328f15d629f.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Coach_2_Phone.png/2ce3bd9d0687541a18d2e167ae98e04d.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Coach_3_Phone.png/fed2dc23c510e221ff8cef521306580c.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Coach_4_Phone.png/9c3d4129ed70bce27c9daf00336fca2f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_Cover_Phone.jpg/d5722e97c7421a8c13fbee18e5d93905.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25488,50976,76464,101952,127440,152928,178416,203904,229392,254880,280368,305856,331344,356832,382320,407808,433296,458784,484272,509760,535248,560736,586224,611712,637200,662688,688176,713664,739104,764592,790080,815568,841056,866544,892032,917520,943007,968496,993984,1019472,1044960,1070447,1095936,1121424,1146912,1172400,1197887,1223376,1248864,1274352,1299840,1325328,1350816,1376304,1401792,1427280],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":380,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":56,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/sweetsensation/sweetsensation_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Breyan Isaac, Dan Hartman, Jamie Sanderson, Pierre Antoine Melki, Raphael Judrin, Tramar Dillard. Published by EMI Blackwood Music Inc. (BMI) c/o EMI Blackwood Music (Canada) Ltd. (SOCAN) and Sony/ATV Songs LLC (BMI) c/o Sony/ATV Music Publishing Canada (SOCAN) / Artcriminal Publishing (ASCAP)/Artist Publishing Group West (ASCAP) administered by Kobalt Songs Music Publishing (ASCAP), Artist 101 Publishing Group (BMI) administered by Songs of Kobalt Music Publishing (BMI). All rights reserved. Used with permission. (P) Line: 2018 Atlantic Recording Corporation. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FA9F00FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 204.956,
+  "mapName": "SweetSensation",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497905\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1096\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483768\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"608-1098\">\r\n\t\t\t\t\t<Initialization range=\"0-608\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2951730\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"608-1098\">\r\n\t\t\t\t\t<Initialization range=\"0-608\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5494676\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"608-1103\">\r\n\t\t\t\t\t<Initialization range=\"0-608\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "SweetSensation_mapContent"
+  },
+  "parentMapName": "SweetSensation",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "5909C1FF",
+    "songColor_1B": "4C0041FF",
+    "songColor_2A": "EF8834FF",
+    "songColor_2B": "F2C618FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Sweet Sensation",
+  "urls": {
+    "jmcs://jd-contents/SweetSensation/SweetSensation_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_AudioPreview.ogg/8a2e9db5afd4708b8de681a6febf983d.ogg",
+    "jmcs://jd-contents/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_HIGH.vp8.webm/639d88424ee0742679acc685d3168bce.webm",
+    "jmcs://jd-contents/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_HIGH.vp9.webm/a758864790db89c38d63aced7fefd4da.webm",
+    "jmcs://jd-contents/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_LOW.vp8.webm/ce7767d1b93ebb15284e51e9d6e010c3.webm",
+    "jmcs://jd-contents/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_LOW.vp9.webm/0bfd567009e384037f6f6fe87643bf04.webm",
+    "jmcs://jd-contents/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_MID.vp8.webm/dca75597da18d49e9163c736ac33e3f6.webm",
+    "jmcs://jd-contents/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_MID.vp9.webm/b000b55a8ba455d1bfc6dd7a64728646.webm",
+    "jmcs://jd-contents/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_ULTRA.vp8.webm/e62cad3ce52ec372ac3c96e5ee5b1924.webm",
+    "jmcs://jd-contents/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_ULTRA.vp9.webm/35cf98f17e95078a727024557ef54e04.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "db9d26ec9574fbfca82d1f9f9bb88bc2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SweetSensation/ps4/SweetSensation_MAIN_SCENE_ORBIS.zip/db9d26ec9574fbfca82d1f9f9bb88bc2.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "2de944b0001a82b005d24fa5bdb7d11b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SweetSensation/nx/SweetSensation_MAIN_SCENE_NX.zip/2de944b0001a82b005d24fa5bdb7d11b.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "154ed8e07a4dc7ddaabc6ee907e505e6",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/sweetsensation_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

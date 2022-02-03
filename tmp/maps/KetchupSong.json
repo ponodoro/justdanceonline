@@ -1,0 +1,120 @@
+{
+  "artist": "Las Ketchup",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_banner_bkg.jpg/3a3b08803af273522d480c2d2340d26e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Coach_1.png/a48a2ae356d0ceb52beca2957af8f671.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Coach_2.png/5b6502709da5b15cc75e5b80ec0f8f7c.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Cover_Generic.jpg/47a95ecae1b12313290de888c31a6a86.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Cover_1024.png/394e99747bc2d7d8503dcd250752d043.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Cover_Online.jpg/8ea030430507d8686442776869eb1e4d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Cover_AlbumBkg.jpg/c77d03da124ae01c2f918bf4784b5b6b.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Cover_AlbumCoach.png/667daa980252cce95b4ed1118b91cba5.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Coach_1_Phone.png/db2050ca85006ccfba4bd94737052417.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Coach_2_Phone.png/d6e6529961146f6bfd8dea5d764790c1.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Cover_Phone.jpg/8ea030430507d8686442776869eb1e4d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_VideoPreview.webm/9159fec816ee3ca3f3d74b14a98e17f7.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_banner_bkg.jpg/3a3b08803af273522d480c2d2340d26e.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Coach_1.png/a48a2ae356d0ceb52beca2957af8f671.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Coach_2.png/5b6502709da5b15cc75e5b80ec0f8f7c.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Cover_Generic.jpg/47a95ecae1b12313290de888c31a6a86.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Cover_1024.png/394e99747bc2d7d8503dcd250752d043.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Cover_Online.jpg/8ea030430507d8686442776869eb1e4d.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Cover_AlbumBkg.jpg/c77d03da124ae01c2f918bf4784b5b6b.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Cover_AlbumCoach.png/667daa980252cce95b4ed1118b91cba5.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Coach_1_Phone.png/db2050ca85006ccfba4bd94737052417.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Coach_2_Phone.png/d6e6529961146f6bfd8dea5d764790c1.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Cover_Phone.jpg/8ea030430507d8686442776869eb1e4d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_VideoPreview.webm/9159fec816ee3ca3f3d74b14a98e17f7.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/wiiu/KetchupSong_banner_bkg.tga.ckd/27deb83bef7c64247b4e221f769dd583.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/wiiu/KetchupSong_Coach_1.tga.ckd/2932beb3a2b3c074b48573ca78dc1dc7.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/wiiu/KetchupSong_Coach_2.tga.ckd/d95fced9b0e259c7298366a9332a0983.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/wiiu/KetchupSong_Cover_Generic.tga.ckd/27f6734e6f66d68e8cf79d9f0dc84cb6.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Cover_1024.png/394e99747bc2d7d8503dcd250752d043.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/wiiu/KetchupSong_Cover_Online.tga.ckd/27f6734e6f66d68e8cf79d9f0dc84cb6.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/wiiu/KetchupSong_Cover_AlbumBkg.tga.ckd/f501cd229cd3409aceb1ed72e0744e46.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/wiiu/KetchupSong_Cover_AlbumCoach.tga.ckd/90899981550ca73152f09e40db8ef2cd.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Coach_1_Phone.png/db2050ca85006ccfba4bd94737052417.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Coach_2_Phone.png/d6e6529961146f6bfd8dea5d764790c1.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_Cover_Phone.jpg/8ea030430507d8686442776869eb1e4d.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_VideoPreview.webm/9159fec816ee3ca3f3d74b14a98e17f7.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,15567,31134,46701,62268,77835,93402,108969,124536,140103,155670,171237,186804,202371,217938,233505,249072,264639,280206,295773,311340,326907,342474,358041,373608,389175,404742,420309,435876,451443,467010,482577,498144,513711,529278,544845,560412,575979,591546,607113,622680,638247,653814,669381,684948,700515,716082,731649,747216,762783,778350,793917,809484,825051,840618,856185,871752,887319,902886,918453,934020,949587,965154,980721,996288,1011855,1027422,1042989,1058556,1074123,1089690,1105257,1120824,1136391,1151958,1167525,1183092,1198659,1214226,1229793,1245360,1260927,1276494,1292061,1307628,1323195,1338762,1354329,1369896,1385463,1401030,1416597,1432164],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":624,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":92,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/ketchupsong/ketchupsong_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "59E4E6FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 202.78199999999998,
+  "mapName": "KetchupSong",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496247\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"635-1124\">\r\n\t\t\t\t\t<Initialization range=\"0-635\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482432\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2335022\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2352343\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-636\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4,
+  "packages": {
+    "mapContent": "KetchupSong_mapContent"
+  },
+  "parentMapName": "KetchupSong",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "00B6D7FF",
+    "songColor_1B": "005F61FF",
+    "songColor_2A": "FFF916FF",
+    "songColor_2B": "D57200FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Aserejé (The Ketchup Song)",
+  "urls": {
+    "jmcs://jd-contents/KetchupSong/KetchupSong_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_AudioPreview.ogg/cb0016d1e70409de7423584a61e01369.ogg",
+    "jmcs://jd-contents/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_HIGH.vp8.webm/152f5043d5b4c995639420e88be27b21.webm",
+    "jmcs://jd-contents/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_HIGH.vp9.webm/fe756ab12dbfae07952ea1157de26bf1.webm",
+    "jmcs://jd-contents/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_LOW.vp8.webm/1f53e952bb596a9b06c84c914d6ff76c.webm",
+    "jmcs://jd-contents/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_LOW.vp9.webm/eba287c303c738cfa07e5e29ee35fbf3.webm",
+    "jmcs://jd-contents/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_MID.vp8.webm/a663c3c8cfa257de5134ad5b2ed72a41.webm",
+    "jmcs://jd-contents/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_MID.vp9.webm/f921abf8068b9da409bfe42820794641.webm",
+    "jmcs://jd-contents/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ffb79b38308a744eedc728c0775095ca.webm",
+    "jmcs://jd-contents/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KetchupSong/KetchupSong_MapPreviewNoSoundCrop_ULTRA.vp9.webm/4b1aa33eb8243927d1bf1cf61fcc692a.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "008e989c5ce00592ab3cd6a538364f98",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KetchupSong/ps4/KetchupSong_MAIN_SCENE_ORBIS.zip/008e989c5ce00592ab3cd6a538364f98.zip",
+      "version": 7
+    },
+    "pc": {
+      "md5": "efdeb454409454a2452d8796330d2c2c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KetchupSong/pc/KetchupSong_MAIN_SCENE_PC.zip/efdeb454409454a2452d8796330d2c2c.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "eb78599919457529f08a32071a341309",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KetchupSong/wiiu/KetchupSong_MAIN_SCENE_WIIU.zip/eb78599919457529f08a32071a341309.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "6472b99c6bc79628c244c75c0368c463",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KetchupSong/nx/KetchupSong_MAIN_SCENE_NX.zip/6472b99c6bc79628c244c75c0368c463.zip",
+      "version": 6
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,102 @@
+{
+  "artist": "Tan Yong Lin (Alan Tam)",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/ps4/KaraokeForeverCHN_banner_bkg.tga.ckd/757c9c5f88e192a71fe1379b53cec588.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/ps4/KaraokeForeverCHN_Coach_1.tga.ckd/c4b57f52ec379c5d7f1abdf8bf3aa4da.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/ps4/KaraokeForeverCHN_Cover_Generic.tga.ckd/530faff81b0e099fe92a524dd3e19f89.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/KaraokeForeverCHN_Cover_1024.png/8ce7a5d133325cb95538a6934bba93f1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/ps4/KaraokeForeverCHN_Cover_Online.tga.ckd/06b80874ce617deaadb6ecfd9fdf6dd3.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/ps4/KaraokeForeverCHN_Cover_AlbumBkg.tga.ckd/5bfbfdc6fe4b8e5e2dea43e07ed6b0aa.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/ps4/KaraokeForeverCHN_Cover_AlbumCoach.tga.ckd/5dd43b2cb91d0b9381e6af11af8632a2.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/KaraokeForeverCHN_Coach_1_Phone.png/b044413f7f09dbae69e7ca9286fee1f6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/KaraokeForeverCHN_Cover_Phone.jpg/97294f09ba812f2c549e2263bd3b41c3.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/KaraokeForeverCHN_VideoPreview.webm/24e66563d2d2fb4a570f04154ed615d8.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/ps4/KaraokeForeverCHN_map_bkg.tga.ckd/dc070875c9deebff6f82a1c84df02fdc.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/nx/KaraokeForeverCHN_banner_bkg.tga.ckd/d3be535ed0303c04f8760f6580827f27.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/nx/KaraokeForeverCHN_Coach_1.tga.ckd/7bd22f521e76d61c3541526b9214403d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/nx/KaraokeForeverCHN_Cover_Generic.tga.ckd/44de3def1c23479fe007f9da25d666df.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/KaraokeForeverCHN_Cover_1024.png/8ce7a5d133325cb95538a6934bba93f1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/nx/KaraokeForeverCHN_Cover_Online.tga.ckd/5c83876f46a5a84a3d755b9d6acb57f0.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/nx/KaraokeForeverCHN_Cover_AlbumBkg.tga.ckd/54ed53dfd8d85e6aeeaf3ff5ae7e8907.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/nx/KaraokeForeverCHN_Cover_AlbumCoach.tga.ckd/b1fc53d0c9133ea34537694b77b0f559.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/KaraokeForeverCHN_Coach_1_Phone.png/b044413f7f09dbae69e7ca9286fee1f6.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/KaraokeForeverCHN_Cover_Phone.jpg/97294f09ba812f2c549e2263bd3b41c3.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/KaraokeForeverCHN_VideoPreview.webm/24e66563d2d2fb4a570f04154ed615d8.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/nx/KaraokeForeverCHN_map_bkg.tga.ckd/781442edb60046de992c0b3b0b1250ef.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21936,43728,65568,87408,109200,130992,152784,174576,196320,218112,239904,261648,283440,305280,327120,348912,370752,392592,414432,436272,458112,479712,501264,522864,544464,566448,588480,610512,632544,654288,676031,697775,719519,741359,763199,785039,806879,828623,850415,872207,893951,915839,937727,959615,981503,1003391,1025231,1047071,1068911,1090655,1112399,1134191,1155935,1177679,1199423,1221167,1242911,1264655,1286399,1308191,1329935,1351919,1373855,1395839,1417823,1439519],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-12,\"endBeat\":510,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":66,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/karaokeforeverchn/karaokeforeverchn_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Wing Lun Alan Tam, Yuen Leung Poon. Published by PolyGram Music Publishing Hong Kong Ltd. Courtesy of Universal Music Ltd. under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "E9B02AFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 237.40699999999998,
+  "mapName": "KaraokeForeverCHN",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496624\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"617-1106\">\r\n\t\t\t\t\t<Initialization range=\"0-617\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1472836\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2271039\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2303666\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\r\n\t\t\t\t\t<Initialization range=\"0-618\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4514,
+  "packages": {
+    "mapContent": "KaraokeForeverCHN_mapContent"
+  },
+  "parentMapName": "KaraokeForeverCHN",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "7C1D57FF",
+    "songColor_1B": "1F0D42FF",
+    "songColor_2A": "EBB587FF",
+    "songColor_2B": "085DAEFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Qia La Yong Yuan OK (Karaoke Forever)",
+  "urls": {
+    "jmcs://jd-contents/KaraokeForeverCHN/KaraokeForeverCHN_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/KaraokeForeverCHN_AudioPreview.ogg/6d6eec295e88dcd9059d59cb375a1bc5.ogg",
+    "jmcs://jd-contents/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_HIGH.vp8.webm/b3cfccb651d9e120c4ad771de76d91c9.webm",
+    "jmcs://jd-contents/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_HIGH.vp9.webm/b0dc73f44aa4a93655cf2f68597ecafa.webm",
+    "jmcs://jd-contents/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_LOW.vp8.webm/b6d38485aabdf9f3bc0e2d9e2a395955.webm",
+    "jmcs://jd-contents/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_LOW.vp9.webm/0d71944c56ddd2a5d3e847261e346a93.webm",
+    "jmcs://jd-contents/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_MID.vp8.webm/82feb3381dae4f9fb32c4a6f0649eb03.webm",
+    "jmcs://jd-contents/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_MID.vp9.webm/0bdd3c53821672d47c792b67d9846388.webm",
+    "jmcs://jd-contents/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b4246af071cf98d55928e76ca1cdde67.webm",
+    "jmcs://jd-contents/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/KaraokeForeverCHN_MapPreviewNoSoundCrop_ULTRA.vp9.webm/7164be5bffccbf1c0ad732f3b9dc2694.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "ccf72845fd3bdf67e3867bacf4173718",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/ps4/KaraokeForeverCHN_MAIN_SCENE_ORBIS.zip/ccf72845fd3bdf67e3867bacf4173718.zip",
+      "version": 9
+    },
+    "nx": {
+      "md5": "792426942c1bf166482dc38747c7cd8b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/nx/KaraokeForeverCHN_MAIN_SCENE_NX.zip/792426942c1bf166482dc38747c7cd8b.zip",
+      "version": 9
+    },
+    "pc": {
+      "md5": "767c2c2cd568b53fb294287b23272de5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/pc/KaraokeForeverCHN_MAIN_SCENE_PC.zip/767c2c2cd568b53fb294287b23272de5.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "2cd6a89da56567bd9ebd41bdc3ef3790",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/KaraokeForeverCHN/wiiu/KaraokeForeverCHN_MAIN_SCENE_WIIU.zip/2cd6a89da56567bd9ebd41bdc3ef3790.zip",
+      "version": 9
+    }
+  },
+  "mapType": "jdu"
+}

@@ -1,0 +1,119 @@
+{
+  "artist": "Bea Miller",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/ps4/SweetLittle_banner_bkg.tga.ckd/8e881a96192ba78e5749ac3350371651.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/ps4/SweetLittle_Coach_1.tga.ckd/53fc4f4b26718c4bdd9407f51841ad33.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/ps4/SweetLittle_Cover_Generic.tga.ckd/41377059f4b36120cc4c7ce218dafcf8.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_Cover_1024.png/65151446687cfb843b03ba8a95dfbe23.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/ps4/SweetLittle_Cover_Online.tga.ckd/4b63016a6bb42039af0300879475df38.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/ps4/SweetLittle_Cover_AlbumBkg.tga.ckd/4cb9b5f01530b2e27378c43b1c4b27db.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/ps4/SweetLittle_Cover_AlbumCoach.tga.ckd/9000fc24cb850e1855fed441297d25f7.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_Coach_1_Phone.png/1ba41cfcaee1ac2862d9c882ba7b4897.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_Cover_Phone.jpg/2973ce348d7059f3168000a95ccb8ab4.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/ps4/SweetLittle_map_bkg.tga.ckd/dd7eec7413ef392cf4011c818259fcbe.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/nx/SweetLittle_banner_bkg.tga.ckd/d9e921bfad69862dc84b02697f230be6.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/nx/SweetLittle_Coach_1.tga.ckd/3b2211fa29005533f6e87dc6d2066aea.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/nx/SweetLittle_Cover_Generic.tga.ckd/9588982386be1ce037cba3ed685f2b2b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_Cover_1024.png/65151446687cfb843b03ba8a95dfbe23.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/nx/SweetLittle_Cover_Online.tga.ckd/73518de10da1d49200b3ab307a1e1bd3.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/nx/SweetLittle_Cover_AlbumBkg.tga.ckd/13b7d33016e27597841ab7ee8624a116.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/nx/SweetLittle_Cover_AlbumCoach.tga.ckd/fe3a1703a097ff9c52584238c725c902.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_Coach_1_Phone.png/1ba41cfcaee1ac2862d9c882ba7b4897.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_Cover_Phone.jpg/2973ce348d7059f3168000a95ccb8ab4.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/nx/SweetLittle_map_bkg.tga.ckd/992ab355900508baed6bd3844a7371f0.ckd"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_banner_bkg.jpg/fff7f45dfeff33722a3a9c4cf6329e48.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_Coach_1.png/ab1721b169b981e660bc0bbe5b3f0f08.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_Cover_Generic.jpg/c6a64902f90ce2685294c5897c08d6cd.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_Cover_1024.png/65151446687cfb843b03ba8a95dfbe23.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_Cover_Online.jpg/2973ce348d7059f3168000a95ccb8ab4.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_Cover_AlbumBkg.jpg/cb5f0030fe0a94351ef6dd63c658318a.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_Cover_AlbumCoach.png/91c2a2bd775c2892be815e2f28cec701.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_Coach_1_Phone.png/1ba41cfcaee1ac2862d9c882ba7b4897.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_Cover_Phone.jpg/2973ce348d7059f3168000a95ccb8ab4.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,15168,30336,45504,60624,75791,90959,106127,121295,136415,151583,166751,181919,197039,212207,227375,242543,257711,272831,287999,303167,318335,333503,348623,363791,378959,394127,409295,424415,439583,454751,469919,485038,500206,515374,530542,545710,560830,575998,591166,606334,621502,636622,651790,666958,682126,697294,712414,727582,742750,757918,773038,788206,803374,818542,833710,848830,863998,879166,894333,909501,924621,939789,954957,970125,985293,1000413,1015581,1030749,1045917,1061037,1076205,1091373,1106541,1121709,1136829,1151997,1167165,1182333,1197501,1212621,1227789,1242957,1258125,1273293,1288413,1303580,1318748,1333916,1349036,1364204,1379372,1394540,1409708,1424828,1439996],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":581,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":95,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/sweetlittle/sweetlittle_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Bea Miller, Ido Zmishlany and Steph Jones. Published by Songs Of Universal, Inc. on behalf of itself, Zmishlany Music, and Music Of Liberal Arts Publishing / Seven Summits Music (BMI) obo itself and Songs of Annika (BMI) / Vistaville Music (ASCAP) obo itself and Big Deal Hits (ASCAP). Courtesy of Hollywood Records. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "540456FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 184.108,
+  "mapName": "SweetLittle",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"491646\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1118\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"863069\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"864620\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"863705\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2019,
+  "packages": {
+    "mapContent": "SweetLittle_mapContent"
+  },
+  "parentMapName": "SweetLittle",
+  "skuIds": [
+    "jd2019-demo-nx-all",
+    "jd2019-demo-ps4-scea",
+    "jd2019-demo-ps4-scee",
+    "jd2019-demo-wiiu-noa",
+    "jd2019-demo-wiiu-noe",
+    "jd2019-demo-xone-all",
+    "jd2019-nx-all",
+    "jd2019-ps4-scea",
+    "jd2019-ps4-scee",
+    "jd2019-wiiu-noa",
+    "jd2019-wiiu-noe",
+    "jd2019-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "00D8FFFF",
+    "songColor_1B": "1934D1FF",
+    "songColor_2A": "C0ADF7FF",
+    "songColor_2B": "AA02CCFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "CnUnlimited2019"
+  ],
+  "title": "Sweet Little Unforgettable Thing",
+  "urls": {
+    "jmcs://jd-contents/SweetLittle/SweetLittle_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_AudioPreview.ogg/09ba0c669f8fc356aa50db918f17efdd.ogg",
+    "jmcs://jd-contents/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_HIGH.vp8.webm/96b8528f001d9901ec3d58159c578984.webm",
+    "jmcs://jd-contents/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_HIGH.vp9.webm/3fd13299c3b911b781eefd5b5c921e43.webm",
+    "jmcs://jd-contents/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_LOW.vp8.webm/9f2c105bb0057836d2e227d5d467c82b.webm",
+    "jmcs://jd-contents/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_LOW.vp9.webm/c8fc535aade7bb96759b6314d733fdf1.webm",
+    "jmcs://jd-contents/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_MID.vp8.webm/73562d1f43ef8aa92a3cd1a8860e7c76.webm",
+    "jmcs://jd-contents/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_MID.vp9.webm/ad478989cdf4dd56a3058162ab5c87dc.webm",
+    "jmcs://jd-contents/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_ULTRA.vp8.webm/e20653de8b310e701fab8a42e4917185.webm",
+    "jmcs://jd-contents/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/SweetLittle/SweetLittle_MapPreviewNoSoundCrop_ULTRA.vp9.webm/0de067a0cfb39c1684f96865454cdbbf.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "d3856191085e67ce72be7d5a597933d1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SweetLittle/ps4/SweetLittle_MAIN_SCENE_ORBIS.zip/d3856191085e67ce72be7d5a597933d1.zip",
+      "version": 2
+    },
+    "nx": {
+      "md5": "b56fb2fe710d7c45a83bc8b94a4fe057",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SweetLittle/nx/SweetLittle_MAIN_SCENE_NX.zip/b56fb2fe710d7c45a83bc8b94a4fe057.zip",
+      "version": 2
+    },
+    "pc": {
+      "md5": "7fbb432430c8228e197e68ffe84f9401",
+      "storageType": 0,
+      "url": "https://cdn.glitch.com/a9ec9cff-2a9f-4de5-bc2a-76a573caf0b3/sweetlittle_main_scene_pc.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

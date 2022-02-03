@@ -1,0 +1,124 @@
+{
+  "artist": "Pharrell Williams",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_banner_bkg.jpg/52322be07de966a38a0456992a8cc4e1.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Coach_1.png/09d35f80c4dfa0a18574e41f64cd6c33.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Coach_2.png/a6e7f959beaf50906b55b73a0d15d3b0.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Coach_3.png/c3a639d5ea18eda31877d695b5cf7188.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Cover_Generic.jpg/2d8fa7dcd159af4d4fef68e137d8e243.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Cover_1024.png/ddc86d48954b3c82ac95f75cc95bd6cc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Cover_Online.jpg/c92b418974af6494601b70cd9551777c.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Cover_AlbumBkg.jpg/fe4fc66a7b2a2e758ee49198c9e6d24c.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Cover_AlbumCoach.png/d037eaa8a0e2514b763062eb024ae05d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Coach_1_Phone.png/85cb040c3bb617ec6e764a97994a10ae.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Coach_2_Phone.png/8240d7078cd37aeac3865a1b017d2858.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Coach_3_Phone.png/43b0755993cf9e956c64f8e8f9c4e69b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Cover_Phone.jpg/c92b418974af6494601b70cd9551777c.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_banner_bkg.jpg/52322be07de966a38a0456992a8cc4e1.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Coach_1.png/09d35f80c4dfa0a18574e41f64cd6c33.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Coach_2.png/a6e7f959beaf50906b55b73a0d15d3b0.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Coach_3.png/c3a639d5ea18eda31877d695b5cf7188.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Cover_Generic.jpg/2d8fa7dcd159af4d4fef68e137d8e243.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Cover_1024.png/ddc86d48954b3c82ac95f75cc95bd6cc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Cover_Online.jpg/c92b418974af6494601b70cd9551777c.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Cover_AlbumBkg.jpg/fe4fc66a7b2a2e758ee49198c9e6d24c.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Cover_AlbumCoach.png/d037eaa8a0e2514b763062eb024ae05d.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Coach_1_Phone.png/85cb040c3bb617ec6e764a97994a10ae.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Coach_2_Phone.png/8240d7078cd37aeac3865a1b017d2858.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Coach_3_Phone.png/43b0755993cf9e956c64f8e8f9c4e69b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Cover_Phone.jpg/c92b418974af6494601b70cd9551777c.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/wiiu/HappyALT_banner_bkg.tga.ckd/80ab968dc372024e71aee433cb476026.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/wiiu/HappyALT_Coach_1.tga.ckd/98a22b98e5ff06a1c4f4c1be31a4084f.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/wiiu/HappyALT_Coach_2.tga.ckd/b8a4e4c005191107161b7d005f90a819.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/wiiu/HappyALT_Coach_3.tga.ckd/76a6d2d9941c0aafb804969307c271a7.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/wiiu/HappyALT_Cover_Generic.tga.ckd/7558cb41bd11f697995c5fdc02faebcb.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Cover_1024.png/ddc86d48954b3c82ac95f75cc95bd6cc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/wiiu/HappyALT_Cover_Online.tga.ckd/284a75cf0c2518b90a450c2eb07c322f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/wiiu/HappyALT_Cover_AlbumBkg.tga.ckd/2980cfd681f7e94033417cafcfda95e3.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/wiiu/HappyALT_Cover_AlbumCoach.tga.ckd/839be3b256b27745f60e20247fd5a60a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Coach_1_Phone.png/85cb040c3bb617ec6e764a97994a10ae.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Coach_2_Phone.png/8240d7078cd37aeac3865a1b017d2858.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Coach_3_Phone.png/43b0755993cf9e956c64f8e8f9c4e69b.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_Cover_Phone.jpg/c92b418974af6494601b70cd9551777c.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,18000,36000,54000,72000,90000,108000,126000,144000,162000,180000,198000,216000,234000,252000,270000,288000,306000,324000,342000,360000,378000,396000,414000,432000,450000,468000,486000,504000,522000,540000,558000,576000,593999,612000,630000,648000,666000,684000,702000,720000,738000,756000,774000,792000,810000,828000,846000,864000,882000,900000,918000,936000,954000,972000,990000,1008000,1026000,1044000,1062000,1080000,1098000,1116000,1134000,1152000,1170000,1188000,1206000,1224000,1242000,1260000,1278000,1296000,1314000,1332000,1350000,1368000,1386000,1404000,1422000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-9,\"endBeat\":463,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":79,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/happyalt/happyalt_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "EFC942FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 177,
+  "mapName": "HappyALT",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496313\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HappyALT/HappyALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1470795\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HappyALT/HappyALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1961751\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HappyALT/HappyALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1961673\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/HappyALT/HappyALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "HappyALT_mapContent"
+  },
+  "parentMapName": "HappyALT",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "B27E06FF",
+    "songColor_1B": "390000FF",
+    "songColor_2A": "EBC046FF",
+    "songColor_2B": "410101FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Happy",
+  "urls": {
+    "jmcs://jd-contents/HappyALT/HappyALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_AudioPreview.ogg/4a31f0cd690ecd54a303d2dae41d9c2c.ogg",
+    "jmcs://jd-contents/HappyALT/HappyALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/674d1a15f726a51a007c64d6e398facf.webm",
+    "jmcs://jd-contents/HappyALT/HappyALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/98ff96244061bfaf5fc78ccb1caebe1b.webm",
+    "jmcs://jd-contents/HappyALT/HappyALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_MapPreviewNoSoundCrop_LOW.vp8.webm/ed678a20c7c55ab5cbc71be92d09ad3f.webm",
+    "jmcs://jd-contents/HappyALT/HappyALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_MapPreviewNoSoundCrop_LOW.vp9.webm/614a482ca1989c8a67a721d002bf235b.webm",
+    "jmcs://jd-contents/HappyALT/HappyALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_MapPreviewNoSoundCrop_MID.vp8.webm/1bfc0a5f92ef695b7c383fecfbf81070.webm",
+    "jmcs://jd-contents/HappyALT/HappyALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_MapPreviewNoSoundCrop_MID.vp9.webm/6bf71c911ead4be4caccccd9b909ae72.webm",
+    "jmcs://jd-contents/HappyALT/HappyALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/8e765faac9c77b60220386dd20060ba3.webm",
+    "jmcs://jd-contents/HappyALT/HappyALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/HappyALT/HappyALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5ab20c0d574972cb90e0c887dd88b19e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "15c7e2ac765a982a4619bdbaf35c8222",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HappyALT/ps4/HappyALT_MAIN_SCENE_ORBIS.zip/15c7e2ac765a982a4619bdbaf35c8222.zip",
+      "version": 6
+    },
+    "pc": {
+      "md5": "d9213cc4d6a32abe8819b4cf7f784e4e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HappyALT/pc/HappyALT_MAIN_SCENE_PC.zip/d9213cc4d6a32abe8819b4cf7f784e4e.zip",
+      "version": 4
+    },
+    "wiiu": {
+      "md5": "fecd0d141068b9ae4cf4f62de84e2639",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HappyALT/wiiu/HappyALT_MAIN_SCENE_WIIU.zip/fecd0d141068b9ae4cf4f62de84e2639.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "5214182325af9a91d7a065985346f993",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/HappyALT/nx/HappyALT_MAIN_SCENE_NX.zip/5214182325af9a91d7a065985346f993.zip",
+      "version": 8
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 15490
+}

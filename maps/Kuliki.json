@@ -1,0 +1,90 @@
+{
+  "artist": "Toño Rosario",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Kuliki/Kuliki_banner_bkg.jpg/c92fb91b6a118e7008500495a04e4b92.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Kuliki/Kuliki_Coach_1.png/0bc6941436a8bf23ed9ec2340961264e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Kuliki/Kuliki_Cover_Generic.jpg/8c93f4eb36818859af0660d62cb3e764.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Kuliki/Kuliki_Cover_Online.jpg/24a36255c34dc52869012f6382f5deec.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Kuliki/Kuliki_Cover_AlbumBkg.jpg/e5c0339fa5bf807c6dbd6ea0a7cd01fd.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Kuliki/Kuliki_Cover_AlbumCoach.png/16c555d9642ac281349fd266ad4e008e.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Kuliki/Kuliki_Coach_1_Phone.png/beb357811b74dfc8a401e5a7b7b7952e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Kuliki/Kuliki_Cover_Phone.jpg/24a36255c34dc52869012f6382f5deec.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Kuliki/Kuliki_banner_bkg.jpg/c92fb91b6a118e7008500495a04e4b92.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Kuliki/Kuliki_Coach_1.png/0bc6941436a8bf23ed9ec2340961264e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Kuliki/Kuliki_Cover_Generic.jpg/8c93f4eb36818859af0660d62cb3e764.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Kuliki/Kuliki_Cover_Online.jpg/24a36255c34dc52869012f6382f5deec.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Kuliki/Kuliki_Cover_AlbumBkg.jpg/e5c0339fa5bf807c6dbd6ea0a7cd01fd.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Kuliki/Kuliki_Cover_AlbumCoach.png/16c555d9642ac281349fd266ad4e008e.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Kuliki/Kuliki_Coach_1_Phone.png/beb357811b74dfc8a401e5a7b7b7952e.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Kuliki/Kuliki_Cover_Phone.jpg/24a36255c34dc52869012f6382f5deec.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,19257,38514,57771,77029,96688,116347,136006,155665,175324,194983,214642,234302,253493,272685,291877,311069,329449,347830,366210,384591,402853,421114,439376,457638,476078,494519,512959,531400,549602,567805,586008,604211,623274,642336,661398,680461,699718,718975,738232,757490,776682,795873,815065,834257,853192,872126,891061,909996,928258,946519,964781,983043,1001129,1019215,1037302,1055388,1073650,1091912,1110173,1128435,1146697,1164959,1183220,1201482,1219744,1238005,1256267,1274529,1292791,1311052,1329314,1347576,1365837,1384099,1402361,1420623,1438537],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":457,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":77,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/kuliki/kuliki_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by David Rey Santana. Published by J & N Publishing LLC OBO Juan & Nelson Publishing (ASCAP). Courtesy of Mara Rosario Production. ",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FB5F8CFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 183.459,
+  "mapName": "Kuliki",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496749\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Kuliki/Kuliki_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"638-1127\">\r\n\t\t\t\t\t<Initialization range=\"0-638\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1374589\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Kuliki/Kuliki_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1491964\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Kuliki/Kuliki_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1492173\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Kuliki/Kuliki_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "Kuliki_mapContent"
+  },
+  "parentMapName": "Kuliki",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "DCA741FF",
+    "songColor_1B": "C05125FF",
+    "songColor_2A": "E27FF1FF",
+    "songColor_2B": "0027A4FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Kulikitaka",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "10d885a480105c7054342d5cb99efda8",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Kuliki/ps4/Kuliki_MAIN_SCENE_ORBIS.zip/10d885a480105c7054342d5cb99efda8.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "e7da509650c8b6cd826a209bf0f88aac",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Kuliki/nx/Kuliki_MAIN_SCENE_NX.zip/e7da509650c8b6cd826a209bf0f88aac.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "becb1455b7e51001f359dcd2bab4bd65",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/Kuliki/pc/becb1455b7e51001f359dcd2bab4bd65.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/Kuliki/Kuliki_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/Kuliki/Kuliki_AudioPreview.ogg/9cb1630082e7b07355e4df712bf5e0ed.ogg",
+    "jmcs://jd-contents/Kuliki/Kuliki_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Kuliki/Kuliki_MapPreviewNoSoundCrop_HIGH.vp8.webm/5354ce09dc90d2ed74f0cfaabafe179d.webm",
+    "jmcs://jd-contents/Kuliki/Kuliki_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Kuliki/Kuliki_MapPreviewNoSoundCrop_HIGH.vp9.webm/c068006a1ac782170b0a8b6c1a941343.webm",
+    "jmcs://jd-contents/Kuliki/Kuliki_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Kuliki/Kuliki_MapPreviewNoSoundCrop_LOW.vp8.webm/cafd13ded2712b1b8756cd23cf5e850f.webm",
+    "jmcs://jd-contents/Kuliki/Kuliki_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Kuliki/Kuliki_MapPreviewNoSoundCrop_LOW.vp9.webm/19b6fc0e3f7092998511ff27a4aa2eba.webm",
+    "jmcs://jd-contents/Kuliki/Kuliki_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Kuliki/Kuliki_MapPreviewNoSoundCrop_MID.vp8.webm/f28c6fa1e166b953619d9aa4f022a3b6.webm",
+    "jmcs://jd-contents/Kuliki/Kuliki_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Kuliki/Kuliki_MapPreviewNoSoundCrop_MID.vp9.webm/c23df3f393a64ab61b6614a16bdfc94f.webm",
+    "jmcs://jd-contents/Kuliki/Kuliki_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Kuliki/Kuliki_MapPreviewNoSoundCrop_ULTRA.vp8.webm/4262758ccecc6d14bc88c8927ae23899.webm",
+    "jmcs://jd-contents/Kuliki/Kuliki_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Kuliki/Kuliki_MapPreviewNoSoundCrop_ULTRA.vp9.webm/d99d3b857428567d9aa165fa20ed7f2a.webm"
+  }
+}

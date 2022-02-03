@@ -1,0 +1,113 @@
+{
+  "artist": "Jolin Tsai",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/ps4/UglyBeauty_banner_bkg.tga.ckd/d236303be25b04990e4e01c3ef27e7e9.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/ps4/UglyBeauty_Coach_1.tga.ckd/9b6cb882b39bfd13b2a1e7d3f390193f.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/ps4/UglyBeauty_Coach_2.tga.ckd/f3d34198f582c4439d519ed1a3297580.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/ps4/UglyBeauty_Coach_3.tga.ckd/b3e5e299af1f9bc8cc3c9d73adf7b789.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/ps4/UglyBeauty_Cover_Generic.tga.ckd/4bc12555888a8506387b7f9d1637a2b2.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_Cover_1024.png/928c6839c6ac9e94ac882ba6a8fec433.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/ps4/UglyBeauty_Cover_Online.tga.ckd/a808facd4f0fd3856164ab82cde33cbb.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/ps4/UglyBeauty_Cover_AlbumBkg.tga.ckd/18e965757d3234652c0fbf23264fa983.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/ps4/UglyBeauty_Cover_AlbumCoach.tga.ckd/fa262590b408c570e7154b6052da5ba1.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_Coach_1_Phone.png/be9a7a7442e45982c28cca9c2cad5d20.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_Coach_2_Phone.png/8bf8ab07c462097b97ffcd855324d98f.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_Coach_3_Phone.png/d8b491ce4a4631b68cf5aa80b1ffdc52.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_Cover_Phone.jpg/2f782b96e2e07c82a807bab321ece4a2.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/ps4/UglyBeauty_map_bkg.tga.ckd/930196f95a892423c0c006e5f64d30ea.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/nx/UglyBeauty_banner_bkg.tga.ckd/c51bdf5ba4f31871cd03ee367bcb47dd.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/nx/UglyBeauty_Coach_1.tga.ckd/74932d5d20a964ef1810ccac1a3df2a4.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/nx/UglyBeauty_Coach_2.tga.ckd/54b8cdf2e95eb21c76df64312c3b5242.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/nx/UglyBeauty_Coach_3.tga.ckd/ec28cbb75efbace4181453732364b9c3.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/nx/UglyBeauty_Cover_Generic.tga.ckd/c1c72483617d8a3d46fb5c2459c6e472.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_Cover_1024.png/928c6839c6ac9e94ac882ba6a8fec433.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/nx/UglyBeauty_Cover_Online.tga.ckd/f1c10638757a2956bfdc0d57bdcb12dd.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/nx/UglyBeauty_Cover_AlbumBkg.tga.ckd/890f391a4d81525aaaf2746a66837a9b.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/nx/UglyBeauty_Cover_AlbumCoach.tga.ckd/4ece86aa8699fbf9bc6457cd5c660c27.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_Coach_1_Phone.png/be9a7a7442e45982c28cca9c2cad5d20.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_Coach_2_Phone.png/8bf8ab07c462097b97ffcd855324d98f.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_Coach_3_Phone.png/d8b491ce4a4631b68cf5aa80b1ffdc52.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_Cover_Phone.jpg/2f782b96e2e07c82a807bab321ece4a2.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/nx/UglyBeauty_map_bkg.tga.ckd/57ae84d2365ba27f255435db266fb62f.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,29388,58775,88163,117551,146939,176326,205714,235102,264490,293877,323265,352653,382041,411428,440816,470204,499592,528979,558367,587755,617143,646530,675918,705306,734694,764081,793469,822857,852245,881632,911020,940408,969796,999183,1028571,1057959,1087347,1116734,1146122,1175510,1204898,1234285,1263673,1293061,1322449,1351836,1381224,1410612],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":3},{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":296,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":48,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/uglybeauty/uglybeauty_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Composed by Qing-Feng Wu, Hong Yun Hui, Rhys Fletcher, Zhen-Yu Wang aka Stan Dubb, Richard Craker, Yi Lin Jolin Tsai and Xi Han Chen. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing Ltd. Taiwan. / Stand Dubb Music (NS). All rights reserved. Used with permission. Courtesy of 2018 Eternal Music Production Company Ltd exclusively licensed to Sony Music Entertainment Taiwan Ltd. By arrangement with Sony Music Licensing.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "00D8DEFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 183.67399999999998,
+  "mapName": "UglyBeauty",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"493417\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480793\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2928220\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3441000\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "UglyBeauty_mapContent"
+  },
+  "parentMapName": "UglyBeauty",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "FF5C11FF",
+    "songColor_1B": "FFA952FF",
+    "songColor_2A": "271E96FF",
+    "songColor_2B": "2D00BBFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "ExcludedFromWDF"
+  ],
+  "title": "Guai Mei De (Ugly Beauty)",
+  "urls": {
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_AudioPreview.ogg/a937a1f95fad264bd5a02e15e4ea8592.ogg",
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_HIGH.vp8.webm/10b705db7e70bee69d4aece449aa3d43.webm",
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_HIGH.vp9.webm/96fad8d3cbb29c55f5fe2daa5ba3f3ad.webm",
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_LOW.vp8.webm/6836f419f8d931d8e6495a17a904d2ca.webm",
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_LOW.vp9.webm/945221efeaa4e60907b3a925c74a5220.webm",
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_MID.vp8.webm/118b0eceddb099fc4d646a56ca769a20.webm",
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_MID.vp9.webm/4fa66c6ad2ec5bb816a47770c5b95cbe.webm",
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_ULTRA.vp8.webm/73bf53f78343271d871c2009937cdb25.webm",
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5d8db42f4fffd9458159e401847f64aa.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "9c9f74e135a60b8e137db3b5e8232ec0",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/UglyBeauty/ps4/UglyBeauty_MAIN_SCENE_ORBIS.zip/9c9f74e135a60b8e137db3b5e8232ec0.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "7d593c9a61b5ba7cc85a3cf7267debff",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/UglyBeauty/nx/UglyBeauty_MAIN_SCENE_NX.zip/7d593c9a61b5ba7cc85a3cf7267debff.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "e595b2af0b73a623e81061717ff280a7",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/UglyBeauty/pc/e595b2af0b73a623e81061717ff280a7.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

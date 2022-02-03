@@ -1,0 +1,90 @@
+{
+  "artist": "The Girly Team",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEnds/TillTheWorldEnds_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEnds/TillTheWorldEnds_Coach_1.png/756da8f81d6930d6ebc80460b557f92e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEnds/TillTheWorldEnds_Cover_Generic.jpg/5d3e28959c275f2a33cf8577f743a36f.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEnds/TillTheWorldEnds_Cover_Online.jpg/21e035e91580c2cdd1a5cebac4da2cd3.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEnds/TillTheWorldEnds_Cover_AlbumBkg.jpg/a3a698d80e0c07ce73a622cd3d271066.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEnds/TillTheWorldEnds_Cover_AlbumCoach.png/4c69416b6bcb73a16fcc729efc7d94a3.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEnds/TillTheWorldEnds_Coach_1_Phone.png/46ef8fcb4f71b5c795ec02d30c6f6ffd.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEnds/TillTheWorldEnds_Cover_Phone.jpg/21e035e91580c2cdd1a5cebac4da2cd3.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEnds/TillTheWorldEnds_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEnds/TillTheWorldEnds_Coach_1.png/756da8f81d6930d6ebc80460b557f92e.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEnds/TillTheWorldEnds_Cover_Generic.jpg/5d3e28959c275f2a33cf8577f743a36f.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEnds/TillTheWorldEnds_Cover_Online.jpg/21e035e91580c2cdd1a5cebac4da2cd3.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEnds/TillTheWorldEnds_Cover_AlbumBkg.jpg/a3a698d80e0c07ce73a622cd3d271066.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEnds/TillTheWorldEnds_Cover_AlbumCoach.png/4c69416b6bcb73a16fcc729efc7d94a3.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEnds/TillTheWorldEnds_Coach_1_Phone.png/46ef8fcb4f71b5c795ec02d30c6f6ffd.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/TillTheWorldEnds/TillTheWorldEnds_Cover_Phone.jpg/21e035e91580c2cdd1a5cebac4da2cd3.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21818,43636,65455,87273,109091,130909,152727,174546,196364,218182,240000,261818,283636,305455,327273,349091,370909,392727,414546,436364,458182,480000,501818,523636,545455,567273,589091,610909,632727,654546,676364,698182,720000,741818,763636,785455,807273,829091,850909,872727,894546,916364,938182,960000,981818,1003636,1025455,1047273,1069091,1090909,1112727,1134546,1156364,1178182,1200000,1221818,1243636,1265455,1287273,1309091,1330909,1352727,1374546,1396364,1418182],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":456,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/tilltheworldends/tilltheworldends_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Lukasz Gottwald, Alexander Erik Kronlund, Max Martin and Kesha Sebert. Published by WARNER CHAPPELL MUSIC SCANDINAVIA AB (STIM). All rights on behalf of WARNER CHAPPELL MUSIC SCANDINAVIA AB administered by WC Music Corp. / Where Da Kasz At (BMI) / Kasz Money Publishing (ASCAP) / Dynamite Cop Music (BMI) / MXM Music AB (ASCAP). Administered by Kobalt Music Publishing America, Inc. Produced, engineered, programmed and mixed by Steve Ouimette. Programming and synthesis by Cat Gray. Additional synth programming by Blake Earnhart. Vocals – Windy Wagner. Background vocals – Connor Smith. Courtesy of Ubisoft Music.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "6AED1AFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 209.547,
+  "mapName": "TillTheWorldEnds",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495114\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"658-1147\">\r\n\t\t\t\t\t<Initialization range=\"0-658\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1467399\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"659-1149\">\r\n\t\t\t\t\t<Initialization range=\"0-659\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2910306\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"659-1149\">\r\n\t\t\t\t\t<Initialization range=\"0-659\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5761727\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"659-1156\">\r\n\t\t\t\t\t<Initialization range=\"0-659\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "TillTheWorldEnds_mapContent"
+  },
+  "parentMapName": "TillTheWorldEnds",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "D9D4E2FF",
+    "songColor_1B": "3A63C8FF",
+    "songColor_2A": "45BEA8FF",
+    "songColor_2B": "1C448CFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Till The World Ends",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "97733bd497720bf7b843ce08736d76d5",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEnds/ps4/TillTheWorldEnds_MAIN_SCENE_ORBIS.zip/97733bd497720bf7b843ce08736d76d5.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "279b6313bb75202a1197ed7bf4460e20",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEnds/nx/TillTheWorldEnds_MAIN_SCENE_NX.zip/279b6313bb75202a1197ed7bf4460e20.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "1904d96ced7c2bc1909d5ed495d51c83",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/TillTheWorldEnds/pc/1904d96ced7c2bc1909d5ed495d51c83.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEnds/TillTheWorldEnds_AudioPreview.ogg/79403e32d9ed30e10b5430a7738c9a13.ogg",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_HIGH.vp8.webm/aaf1714a5a981dbba38cf751baf0e570.webm",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_HIGH.vp9.webm/c87631aa1ac45eac8989d703e47b1d76.webm",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_LOW.vp8.webm/0f633495ef562dbce4f95a0fac61cfcb.webm",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_LOW.vp9.webm/31c98cfe2ad6c302e6324bf5b36ee21e.webm",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_MID.vp8.webm/c386ef53ccafb29d6ea41c64faea7dcb.webm",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_MID.vp9.webm/75d545a8875ebc63a1bfa26ad376f567.webm",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_ULTRA.vp8.webm/8dfc6310365e4be7bcb8e7f296ea6ae2.webm",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_ULTRA.vp9.webm/d7755f6da2b24716eeb58783267d0360.webm"
+  }
+}

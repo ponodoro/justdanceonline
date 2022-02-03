@@ -1,0 +1,112 @@
+{
+  "artist": "TWICE",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/ps4/FancyTwice_banner_bkg.tga.ckd/a042c86a370399ddfe2efc09d0a49375.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/ps4/FancyTwice_Coach_1.tga.ckd/d75775d8d706f72c21fc5f74c83943c3.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/ps4/FancyTwice_Coach_2.tga.ckd/c7cd9e3d529a09e3c8dd81380e3fa069.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/ps4/FancyTwice_Coach_3.tga.ckd/6af000745704ace485d50eb093caf377.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/ps4/FancyTwice_Cover_Generic.tga.ckd/b4e2d5a3c58ba8b0261b6d086dfc3188.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_Cover_1024.png/44aa22ceb4327fa16c2b24c0b1097815.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/ps4/FancyTwice_Cover_Online.tga.ckd/65beb9ab843abda6994992aa3fcd18a7.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/ps4/FancyTwice_Cover_AlbumBkg.tga.ckd/b770cb13f222cb4a85ed45788cb11541.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/ps4/FancyTwice_Cover_AlbumCoach.tga.ckd/ec9acde040ec10e52630d63cd0176f09.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_Coach_1_Phone.png/4ecdbdb0e0a2335b4928f9cdd63a0cb8.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_Coach_2_Phone.png/63eb74cf025f8b17220093f5000e1544.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_Coach_3_Phone.png/1001af42e8890b70b1f3e08c6a1718fe.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_Cover_Phone.jpg/1b7b4870996f187a51397684e742be92.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/ps4/FancyTwice_map_bkg.tga.ckd/cf3e64475e2c66b7bbbe3d8300130586.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/nx/FancyTwice_banner_bkg.tga.ckd/8eac902c0ee721904ad0f78970fa8b07.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/nx/FancyTwice_Coach_1.tga.ckd/7cfe622f863e71394e9f7a9e767b863b.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/nx/FancyTwice_Coach_2.tga.ckd/17986cfd01e713d57fd42cf8fca9d0a5.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/nx/FancyTwice_Coach_3.tga.ckd/17eaa643915050a4926541dc05ee4a40.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/nx/FancyTwice_Cover_Generic.tga.ckd/c17987e2f9af6e29a94b38d17e579d36.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_Cover_1024.png/44aa22ceb4327fa16c2b24c0b1097815.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/nx/FancyTwice_Cover_Online.tga.ckd/0aae1548bd0830a977db86d2bd16c8eb.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/nx/FancyTwice_Cover_AlbumBkg.tga.ckd/9d89fcb3ef6ba0c053ca8fe037be7628.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/nx/FancyTwice_Cover_AlbumCoach.tga.ckd/d7addb718d2ee7e466f4b33ca46a1f36.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_Coach_1_Phone.png/4ecdbdb0e0a2335b4928f9cdd63a0cb8.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_Coach_2_Phone.png/63eb74cf025f8b17220093f5000e1544.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_Coach_3_Phone.png/1001af42e8890b70b1f3e08c6a1718fe.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_Cover_Phone.jpg/1b7b4870996f187a51397684e742be92.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/nx/FancyTwice_map_bkg.tga.ckd/e795ea5495027066abead313e6fc76e7.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21818,43636,65455,87273,109091,130909,152727,174546,196364,218182,240000,261818,283636,305455,327273,349091,370909,392727,414546,436364,458182,480000,501818,523636,545455,567273,589091,610909,632727,654546,676364,698182,720000,741818,763636,785455,807273,829091,850909,872727,894546,916364,938182,960000,981818,1003636,1025455,1047273,1069091,1090909,1112727,1134546,1156364,1178182,1200000,1221818,1243636,1265455,1287273,1309091,1330909,1352727,1374546,1396364,1418182],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":472,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/fancytwice/fancytwice_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Black Eyed Pilseung (Rado, Choi kyu-sung) and Seung Hyun Jeon. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing Korea / MusicCube Inc. Courtesy of JYP Entertainment. / Warner Music Japan Inc. By arrangement with Warner Music Group Film & TV Licensing.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F87A00FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 217.72799999999998,
+  "mapName": "FancyTwice",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496918\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1485286\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2937902\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4585082\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1090\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "FancyTwice_mapContent"
+  },
+  "parentMapName": "FancyTwice",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "4CCA6FFF",
+    "songColor_1B": "CEFC85FF",
+    "songColor_2A": "E4B072FF",
+    "songColor_2B": "EA971CFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "FANCY",
+  "urls": {
+    "jmcs://jd-contents/FancyTwice/FancyTwice_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_AudioPreview.ogg/069182e443cfb0ce337a5e9c1777163f.ogg",
+    "jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_HIGH.vp8.webm/283729466e00e55d62fdaf30caaf1a17.webm",
+    "jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_HIGH.vp9.webm/e6bc23bff67ea4aeb61f14716009c90b.webm",
+    "jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_LOW.vp8.webm/a18de779319ff6c552da8931eb748faf.webm",
+    "jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_LOW.vp9.webm/c56018636e695668b26e1b19b25954aa.webm",
+    "jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_MID.vp8.webm/f24ed08ae5d7794fdbe0c0f62ff2e965.webm",
+    "jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_MID.vp9.webm/1e496f093cb99111ae59dc4a33d096dc.webm",
+    "jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_ULTRA.vp8.webm/6b8d6590040945f6d29758277882902c.webm",
+    "jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_ULTRA.vp9.webm/49ee66f1515b5491d78ee3d286bbfb32.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "6397d81f1da65cdf38761eda49011b52",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FancyTwice/ps4/FancyTwice_MAIN_SCENE_ORBIS.zip/6397d81f1da65cdf38761eda49011b52.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "b5c5cf128e2d06af1eff70bc26efa57d",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/FancyTwice/nx/FancyTwice_MAIN_SCENE_NX.zip/b5c5cf128e2d06af1eff70bc26efa57d.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "c56c302f034d84782a010145a52b61f5",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/FancyTwice/pc/c56c302f034d84782a010145a52b61f5.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

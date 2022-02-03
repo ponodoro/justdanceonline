@@ -1,0 +1,111 @@
+{
+  "artist": "Survivor",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_banner_bkg.jpg/726bef70528d0b10201ada07859df6e5.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Coach_1.png/092cc34660da376a905cf098ba792fd4.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Cover_Generic.jpg/1a32815f267d7e08e82a4c4d593595fd.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Cover_1024.png/ccb62a669990a3eea6d518abf1910b81.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Cover_Online.jpg/8ba87932b04a912c5d1339bd6ff96837.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Cover_AlbumBkg.jpg/108defcad833bab15bf6346c999a49cc.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Cover_AlbumCoach.png/c4555783b6511da450ccaa1250cc6b40.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Coach_1_Phone.png/4c92c0b02658eefe7cadd682e5780959.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Cover_Phone.jpg/8ba87932b04a912c5d1339bd6ff96837.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_banner_bkg.jpg/726bef70528d0b10201ada07859df6e5.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Coach_1.png/092cc34660da376a905cf098ba792fd4.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Cover_Generic.jpg/1a32815f267d7e08e82a4c4d593595fd.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Cover_1024.png/ccb62a669990a3eea6d518abf1910b81.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Cover_Online.jpg/8ba87932b04a912c5d1339bd6ff96837.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Cover_AlbumBkg.jpg/108defcad833bab15bf6346c999a49cc.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Cover_AlbumCoach.png/c4555783b6511da450ccaa1250cc6b40.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Coach_1_Phone.png/4c92c0b02658eefe7cadd682e5780959.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Cover_Phone.jpg/8ba87932b04a912c5d1339bd6ff96837.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/wiiu/EyeOfTheTiger_banner_bkg.tga.ckd/e35f8c0600304b14ceb5ec7a5d6754f1.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/wiiu/EyeOfTheTiger_Coach_1.tga.ckd/b81ded20971563653a364baf7ee2004a.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/wiiu/EyeOfTheTiger_Cover_Generic.tga.ckd/0430038767a8f8ae89a2ca7f2dc8912a.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Cover_1024.png/ccb62a669990a3eea6d518abf1910b81.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/wiiu/EyeOfTheTiger_Cover_Online.tga.ckd/98021c4a24d18708fe8aa36d4a8d5a23.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/wiiu/EyeOfTheTiger_Cover_AlbumBkg.tga.ckd/64313c6d8ce41ecfb9afdcacb31aa284.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/wiiu/EyeOfTheTiger_Cover_AlbumCoach.tga.ckd/c439a7aef2fb92492d7b80bf6daa6cf5.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Coach_1_Phone.png/4c92c0b02658eefe7cadd682e5780959.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_Cover_Phone.jpg/8ba87932b04a912c5d1339bd6ff96837.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26495,52989,79484,105978,132473,158967,185462,211956,238451,264945,291440,317934,344429,370923,397418,423912,450935,476901,503780,530274,556769,582879,609374,635580,662075,687957,714452,740946,767441,793935,820106,846600,873095,899589,926084,952578,979073,1005567,1032062,1058556,1085051,1111545,1138040,1164534,1191029,1217523,1244018,1271472,1298927,1324269,1350764,1377258,1403393,1429887],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":432,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":54,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/eyeofthetiger/eyeofthetiger_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "B5161AFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 238.499,
+  "mapName": "EyeOfTheTiger",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496490\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1152917\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1153810\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1154097\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 1,
+  "packages": {
+    "mapContent": "EyeOfTheTiger_mapContent"
+  },
+  "parentMapName": "EyeOfTheTiger",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "0037D6FF",
+    "songColor_1B": "08002CFF",
+    "songColor_2A": "F03939FF",
+    "songColor_2B": "03001EFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Eye of the Tiger",
+  "urls": {
+    "jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_AudioPreview.ogg/1fee139c19a82d4f4d813e86773589e9.ogg",
+    "jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_HIGH.vp8.webm/a2a8a7aee5e69891d2497c49f0afce66.webm",
+    "jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_HIGH.vp9.webm/1a76c907edc85fcb81f9bf749743d9a8.webm",
+    "jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_LOW.vp8.webm/953106541c8863e33c30c3206bf2d0b3.webm",
+    "jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_LOW.vp9.webm/a682f3878246c37cff0d7ee69ed5a9fe.webm",
+    "jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_MID.vp8.webm/39c124832fd21d78f1b5a294fc581cb7.webm",
+    "jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_MID.vp9.webm/03b3166bafe8f12b5c7840d0155a2db1.webm",
+    "jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_ULTRA.vp8.webm/c5a88174fad87efa843be660a4a8d5d6.webm",
+    "jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/EyeOfTheTiger_MapPreviewNoSoundCrop_ULTRA.vp9.webm/8a3bfa9cfdbe6a16a443ea5590f230e9.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "7dce4c499c1554a7eeda989f5a63368a",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/ps4/EyeOfTheTiger_MAIN_SCENE_ORBIS.zip/7dce4c499c1554a7eeda989f5a63368a.zip",
+      "version": 8
+    },
+    "pc": {
+      "md5": "573c88afebe8d4a2ec0fdbc1d80f995f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/pc/EyeOfTheTiger_MAIN_SCENE_PC.zip/573c88afebe8d4a2ec0fdbc1d80f995f.zip",
+      "version": 5
+    },
+    "wiiu": {
+      "md5": "5f192bc9e2061b8d551de46029dd2426",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/wiiu/EyeOfTheTiger_MAIN_SCENE_WIIU.zip/5f192bc9e2061b8d551de46029dd2426.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "d753e3dcbe0353078a294ffe28661df5",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/EyeOfTheTiger/nx/EyeOfTheTiger_MAIN_SCENE_NX.zip/d753e3dcbe0353078a294ffe28661df5.zip",
+      "version": 5
+    }
+  },
+  "mapType": "jdu"
+}

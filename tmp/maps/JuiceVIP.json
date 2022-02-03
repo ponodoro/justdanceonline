@@ -1,0 +1,122 @@
+{
+  "artist": "Lizzo",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/ps4/JuiceVIP_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/ps4/JuiceVIP_Coach_1.tga.ckd/3ca9e01a00a99688cbd6c1d550f60870.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/ps4/JuiceVIP_Coach_2.tga.ckd/864d2548c7d899a93eaebbf89e95c05f.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/ps4/JuiceVIP_Coach_3.tga.ckd/6ebb4d3ecbc04d8625040c4a222e5e20.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/ps4/JuiceVIP_Cover_Generic.tga.ckd/0e852eef7e82c628026f0d2115ec8e98.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_Cover_1024.png/85a184767cb9a86804572a68f0f8fed4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/ps4/JuiceVIP_Cover_Online.tga.ckd/c9734b00f23c871dc624a7ab6d81230f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/ps4/JuiceVIP_Cover_AlbumBkg.tga.ckd/f662bac4be2873b11e13254e0f42e022.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/ps4/JuiceVIP_Cover_AlbumCoach.tga.ckd/17274ee638e67c9e272e90eae98e36e4.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_Coach_1_Phone.png/2b2aeac3b2a8c165a36f94a9e3ad9662.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_Coach_2_Phone.png/cff331cb128d4ddaaa7afb2f6000120e.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_Coach_3_Phone.png/3617d354743281b36ec647e2094dc6c8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_Cover_Phone.jpg/7cab0395cf741936bc357ee8c2c16ac6.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_VideoPreview.webm/81f54231b70a55f04169d0b407bc5507.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/ps4/JuiceVIP_map_bkg.tga.ckd/ce18e4ad131213b99b2fea36bfcae2ef.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/nx/JuiceVIP_banner_bkg.tga.ckd/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/nx/JuiceVIP_Coach_1.tga.ckd/8a5812da0aa50cbc2909092cd70c22a6.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/nx/JuiceVIP_Coach_2.tga.ckd/04faef59314cd31bb47d9a1a43d200d2.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/nx/JuiceVIP_Coach_3.tga.ckd/1079c571796a67e5c1bcf23ba7a1092d.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/nx/JuiceVIP_Cover_Generic.tga.ckd/00e90b58202d1b1cf8d45ecd9d9419d7.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_Cover_1024.png/85a184767cb9a86804572a68f0f8fed4.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/nx/JuiceVIP_Cover_Online.tga.ckd/5fd0ca9afd2ecc766485e9add87a1ed0.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/nx/JuiceVIP_Cover_AlbumBkg.tga.ckd/df37c853e7fe13331f614153fcb26a40.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/nx/JuiceVIP_Cover_AlbumCoach.tga.ckd/84f00f476186c6478b4ef19fcc27d606.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_Coach_1_Phone.png/2b2aeac3b2a8c165a36f94a9e3ad9662.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_Coach_2_Phone.png/cff331cb128d4ddaaa7afb2f6000120e.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_Coach_3_Phone.png/3617d354743281b36ec647e2094dc6c8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_Cover_Phone.jpg/7cab0395cf741936bc357ee8c2c16ac6.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_VideoPreview.webm/81f54231b70a55f04169d0b407bc5507.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/JuiceVIP/nx/JuiceVIP_map_bkg.tga.ckd/078ad1a1aa204cedd1a8bcd708cdedf7.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24000,48000,72000,96000,120000,144000,168000,192000,216000,240000,264000,288000,312000,336000,360000,384000,408000,432000,456000,480000,504000,528000,552000,576000,600000,624000,648000,672000,696000,720000,744000,768000,792000,816000,840000,864000,888000,912000,936000,960000,984000,1008000,1032000,1056000,1080000,1104000,1128000,1152000,1176000,1200000,1224000,1248000,1272000,1296000,1320000,1344000,1368000,1392000,1416000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":391,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/juicevip/juicevip_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "D0547FFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 198,
+  "mapName": "JuiceVIP",
+  "mapPreviewMpd": {
+    "videoEncoding": {
+      "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496928\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"653-1142\">\r\n\t\t\t\t\t<Initialization range=\"0-653\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1468856\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"654-1144\">\r\n\t\t\t\t\t<Initialization range=\"0-654\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1700453\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"654-1144\">\r\n\t\t\t\t\t<Initialization range=\"0-654\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1700184\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"654-1144\">\r\n\t\t\t\t\t<Initialization range=\"0-654\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+      "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648533\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"654-1144\">\r\n\t\t\t\t\t<Initialization range=\"0-654\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1492587\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"654-1144\">\r\n\t\t\t\t\t<Initialization range=\"0-654\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2971066\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"654-1144\">\r\n\t\t\t\t\t<Initialization range=\"0-654\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5893450\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"654-1151\">\r\n\t\t\t\t\t<Initialization range=\"0-654\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+    }
+  },
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "JuiceVIP_mapContent"
+  },
+  "parentMapName": "JuiceVIP",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "292F4DFF",
+    "songColor_1B": "C61C6FFF",
+    "songColor_2A": "EBA51DFF",
+    "songColor_2B": "EEEAEAFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong",
+    "ExcludedFromWDF",
+    "JustDance2021",
+    "Trio",
+    "Medium",
+    "Sweat Low",
+    "Alternate",
+    "Boys",
+    "Girls",
+    "Pop",
+    "Sports",
+    "Sweat"
+  ],
+  "title": "Juice",
+  "urls": {
+    "jmcs://jd-contents/JuiceVIP/JuiceVIP_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_AudioPreview.ogg/c6cb814071c86ded8a42b2ba6d8d08af.ogg",
+    "jmcs://jd-contents/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_HIGH.vp8.webm/8e33c4fc53b50c6da4effec680831a91.webm",
+    "jmcs://jd-contents/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_HIGH.vp9.webm/481481aee1e9c7f1207351e0264d66f4.webm",
+    "jmcs://jd-contents/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_LOW.vp8.webm/a7a373967c4d88bb425b6f6560d4f877.webm",
+    "jmcs://jd-contents/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_LOW.vp9.webm/9360d6784f6bd9e283b433431470c4b2.webm",
+    "jmcs://jd-contents/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_MID.vp8.webm/0b8af31c4c4ed16363ccc76991cf1580.webm",
+    "jmcs://jd-contents/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_MID.vp9.webm/25f0438eca02cfe1b3fa7799f0b54a6b.webm",
+    "jmcs://jd-contents/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_ULTRA.vp8.webm/8d73eedeb1fe37377396ea03899aac33.webm",
+    "jmcs://jd-contents/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/JuiceVIP/JuiceVIP_MapPreviewNoSoundCrop_ULTRA.vp9.webm/b7b5d8ca81f8034a163854af9f37ab82.webm"
+  },
+  "customTypeName": "VIP-made with exclusive choreo from Flying Steps Dance",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "6d60a8bf47126c516804cfc053ea02ac",
+      "storageType": 0,
+      "url": "http://jdbest-cdn.s3.amazonaws.com/public/map/JuiceVIP/pc/6d60a8bf47126c516804cfc053ea02ac.zip",
+      "version": 5
+    },
+    "orbis": {
+      "md5": "71ee1be90453882ee1d35ee05b9a5b06",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JuiceVIP/ps4/JuiceVIP_MAIN_SCENE_ORBIS.zip/71ee1be90453882ee1d35ee05b9a5b06.zip",
+      "version": 25
+    },
+    "nx": {
+      "md5": "c92629f18cd2bea157c874230e36174e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/JuiceVIP/nx/JuiceVIP_MAIN_SCENE_NX.zip/c92629f18cd2bea157c874230e36174e.zip",
+      "version": 25
+    }
+  },
+  "mapType": "jdu",
+  "customTypeNameId": 20002836
+}

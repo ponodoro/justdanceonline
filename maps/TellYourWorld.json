@@ -1,0 +1,70 @@
+{
+  "artist": "livetune ft. 初音ミク(Hatsune Miku)",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/pc/TellYourWorld_banner_bkg.png",
+      "coach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/pc/TellYourWorld_Coach_1.png",
+      "coverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/pc/TellYourWorld_Cover_Generic.png",
+      "cover_1024ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/pc/TellYourWorld_Cover_1024.png",
+      "cover_smallImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/pc/TellYourWorld_Cover_Generic.png",
+      "expandBkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/pc/TellYourWorld_Cover_AlbumBkg.png",
+      "expandCoachImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/pc/TellYourWorld_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/pc/TellYourWorld_Coach_1.png",
+      "phoneCoverImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/pc/TellYourWorld_Cover_Generic.png",
+      "videoPreviewVideoURL": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/pc/TellYourWorld_VideoPreview.webm",
+      "map_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/pc/TellYourWorld_map_bkg.png"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,14400,28848,43296,57743,72191,86639,101087,115535,129983,144431,158879,173327,187775,202223,216671,231071,245519,259967,274415,288863,303311,317759,332207,346655,361103,375551,389999,404447,418895,433295,447743,462191,476639,491087,505535,519983,534431,548879,563327,577775,592223,606671,621119,635567,649967,664415,678863,693311,707759,722207,736655,751103,765551,779999,794447,808895,823343,837791,852238,866638,881086,895534,909982,924430,938878,953326,967774,982222,996670,1011118,1025566,1040014,1054462,1068910,1083310,1097758,1112206,1126654,1141102,1155550,1169998,1184446,1198894,1213342,1227790,1242238,1256686,1271134,1285582,1299982,1314430,1328878,1343326,1357774,1372222,1386670,1401118,1415566,1430014],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":496,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":99,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/TellYourWorld/TellYourWorld_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Hatsune Miku",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "00FFFFFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 184,
+  "mapName": "TellYourWorld",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497759\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"630-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-630\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1484234\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2956729\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5790405\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"631-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-631\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 4514,
+  "packages": {
+    "mapContent": "TellYourWorld_mapContent"
+  },
+  "parentMapName": "TellYourWorld",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "223EF5FF",
+    "songColor_1B": "040A36FF",
+    "songColor_2B": "6219F0FF",
+    "songColor_2A": "62D0D5FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "main"
+  ],
+  "title": "Tell Your World",
+  "urls": {
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_AudioPreview.ogg": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/TellYourWorld_AudioPreview.ogg",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/nx/TellYourWorld_VideoPreview.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/nx/TellYourWorld_VideoPreview.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/nx/TellYourWorld_VideoPreview.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/nx/TellYourWorld_VideoPreview.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/nx/TellYourWorld_VideoPreview.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/nx/TellYourWorld_VideoPreview.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/nx/TellYourWorld_VideoPreview.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/nx/TellYourWorld_VideoPreview.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "pc": {
+      "md5": "b6bef5e46c66f35aff55b4a6ba6b6c17",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/TellYourWorld/pc/b6bef5e46c66f35aff55b4a6ba6b6c17.zip",
+      "version": 3
+    }
+  },
+  "mapType": "custom"
+}

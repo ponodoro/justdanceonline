@@ -1,0 +1,122 @@
+{
+  "artist": "Quincy Jones & His Orchestra",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/ggp/SoulBossaNova_banner_bkg.tga.ckd/a1d9ab5cf0816cf56c9e2bf4358fd560.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/ggp/SoulBossaNova_Coach_1.tga.ckd/b0c0602bc502a521a54e6eaacb56e923.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/ggp/SoulBossaNova_Coach_2.tga.ckd/059cf0771aa6aa3640399f3ddd17eba2.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/ggp/SoulBossaNova_Cover_Generic.tga.ckd/76232029268cce93690d9de048376881.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_Cover_1024.png/d3d23f36393504bbf51d9806d9a83017.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/ggp/SoulBossaNova_Cover_Online.tga.ckd/a95a8aaa296bd0eb9cbbe41825226d57.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/ggp/SoulBossaNova_Cover_AlbumBkg.tga.ckd/da1d3fa6e1618467bf6d0deee0bde662.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/ggp/SoulBossaNova_Cover_AlbumCoach.tga.ckd/b17b502ad1e45f1954d3155fbdfe77e0.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_Coach_1_Phone.png/19beacd6f9a702c7135dcaaaa639c560.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_Coach_2_Phone.png/8a1391682ce73d65403cd24961a5948f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_Cover_Phone.jpg/7bf39d696272b62ef067dd6b0b8bd518.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_VideoPreview.webm/36dfe39f33e72b4426d0d0ff6a73dd3a.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/ggp/SoulBossaNova_map_bkg.tga.ckd/980c9d37abd7ceb4cbab759875f425cf.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/nx/SoulBossaNova_banner_bkg.tga.ckd/51f137970c228c7389c24a15302488ed.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/nx/SoulBossaNova_Coach_1.tga.ckd/28290bf52e1c8b7e3881c9da9a9dd1b7.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/nx/SoulBossaNova_Coach_2.tga.ckd/c88a5b8bfbd03cc55c290a588d5e1c87.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/nx/SoulBossaNova_Cover_Generic.tga.ckd/9f86d5a9605a00865d36f5899256bbd8.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_Cover_1024.png/d3d23f36393504bbf51d9806d9a83017.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/nx/SoulBossaNova_Cover_Online.tga.ckd/9f86d5a9605a00865d36f5899256bbd8.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/nx/SoulBossaNova_Cover_AlbumBkg.tga.ckd/0d12ddc6e2158864d95c82ec67c2e966.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/nx/SoulBossaNova_Cover_AlbumCoach.tga.ckd/e885b1bb7385eb743e7c6bc2f94c99ff.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/nx/SoulBossaNova_map_bkg.tga.ckd/d611487cbf36088beeac16392a58461a.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_Coach_1_Phone.png/19beacd6f9a702c7135dcaaaa639c560.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_Coach_2_Phone.png/8a1391682ce73d65403cd24961a5948f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_Cover_Phone.jpg/7bf39d696272b62ef067dd6b0b8bd518.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_VideoPreview.webm/36dfe39f33e72b4426d0d0ff6a73dd3a.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/wiiu/SoulBossaNova_banner_bkg.tga.ckd/dec212061cea0551b04b89e699149bc2.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/wiiu/SoulBossaNova_Coach_1.tga.ckd/53447218659f8040c21867e4513b4716.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/wiiu/SoulBossaNova_Coach_2.tga.ckd/36bdfebf295159aa36d0009733f749a4.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/wiiu/SoulBossaNova_Cover_Generic.tga.ckd/3896ab87707f19726894958263bd14bd.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_Cover_1024.png/64211fc9a218fc5275d77e48c60d77a5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/wiiu/SoulBossaNova_Cover_Online.tga.ckd/18cde7610fbdbcf9a7744f18aa622dac.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/wiiu/SoulBossaNova_Cover_AlbumBkg.tga.ckd/0496ef5a01597ad52d577c2a7e7a88de.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/wiiu/SoulBossaNova_Cover_AlbumCoach.tga.ckd/b97f216f231d492243b942f4e01289de.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_Coach_1_Phone.png/19beacd6f9a702c7135dcaaaa639c560.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_Coach_2_Phone.png/8a1391682ce73d65403cd24961a5948f.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_Cover_Phone.jpg/7bf39d696272b62ef067dd6b0b8bd518.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_VideoPreview.webm/36dfe39f33e72b4426d0d0ff6a73dd3a.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,18823,37647,56470,75293,94117,112675,130192,149015,167839,186662,203556,222379,241203,260026,277662,296485,315309,334132,352118,369653,388478,406648,425470,444294,463117,481941,499336,518159,536983,554606,573429,592252,611076,629899,648723,667546,686368,705192,724329,743640,762463,781286,800110,818933,837284,855808,874632,893455,912278,930404,948933,967756,986579,1004461,1022372,1041195,1060018,1078842,1097665,1116489,1135312,1153048,1170670,1189493,1208317,1227141,1245964,1264788,1283611,1302435,1320572,1339057,1357881,1376704,1395527,1414350,1433173],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":434,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":77,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/soulbossanova/soulbossanova_AudioPreview.ogg\"}",
+  "coachCount": 2,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "13E8F0FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 168.367,
+  "mapName": "SoulBossaNova",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496225\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"612-1101\">\r\n\t\t\t\t\t<Initialization range=\"0-612\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1355662\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"613-1103\">\r\n\t\t\t\t\t<Initialization range=\"0-613\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1379669\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"613-1103\">\r\n\t\t\t\t\t<Initialization range=\"0-613\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1379908\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"613-1103\">\r\n\t\t\t\t\t<Initialization range=\"0-613\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2,
+  "packages": {
+    "mapContent": "SoulBossaNova_mapContent"
+  },
+  "parentMapName": "SoulBossaNova",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "2EBBB4FF",
+    "songColor_1B": "092048FF",
+    "songColor_2A": "D08921FF",
+    "songColor_2B": "7606A6FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Soul Bossa Nova",
+  "urls": {
+    "jmcs://jd-contents/SoulBossaNova/SoulBossaNova_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_AudioPreview.ogg/0e7331fd0b542d830856ddd77ca3cd20.ogg",
+    "jmcs://jd-contents/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_HIGH.vp8.webm/01378788444163d671baadb6f4506ee5.webm",
+    "jmcs://jd-contents/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_HIGH.vp9.webm/c03e42d7c303b88e6827a88d26926d3c.webm",
+    "jmcs://jd-contents/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_LOW.vp8.webm/758c6f68ee576f2aff3f42ef4886a9aa.webm",
+    "jmcs://jd-contents/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_LOW.vp9.webm/e7003b7e3109307e1af6ecc4cad1dd86.webm",
+    "jmcs://jd-contents/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_MID.vp8.webm/f5311ff647ffcdee6a69842d566faa7b.webm",
+    "jmcs://jd-contents/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_MID.vp9.webm/d91276dc033cde05abe88b565358945b.webm",
+    "jmcs://jd-contents/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f602d2485bda78fb3786aed2f5c4a2f1.webm",
+    "jmcs://jd-contents/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/SoulBossaNova_MapPreviewNoSoundCrop_ULTRA.vp9.webm/a08bbb0eda9f9e33041ec16b009761c9.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "934b75cb287d7530abb0c6799ae26a4e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/ps4/SoulBossaNova_MAIN_SCENE_ORBIS.zip/934b75cb287d7530abb0c6799ae26a4e.zip",
+      "version": 31
+    },
+    "pc": {
+      "md5": "e9fb2266aaa0b8f3a85e56a80057fefc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/pc/SoulBossaNova_MAIN_SCENE_PC.zip/e9fb2266aaa0b8f3a85e56a80057fefc.zip",
+      "version": 30
+    },
+    "wiiu": {
+      "md5": "ce1595e5740e7074a1a7e560ab3fb6ee",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/wiiu/SoulBossaNova_MAIN_SCENE_WIIU.zip/ce1595e5740e7074a1a7e560ab3fb6ee.zip",
+      "version": 7
+    },
+    "nx": {
+      "md5": "d7e0f954015324dc21c3e859613f7e15",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/SoulBossaNova/nx/SoulBossaNova_MAIN_SCENE_NX.zip/d7e0f954015324dc21c3e859613f7e15.zip",
+      "version": 30
+    }
+  },
+  "mapType": "jdu"
+}

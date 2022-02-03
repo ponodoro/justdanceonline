@@ -1,0 +1,100 @@
+{
+  "artist": "Lady Gaga",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/ps4/StupidLove_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/ps4/StupidLove_Coach_1.tga.ckd/a3deef3f885d379f0b37851e064a8b1b.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/ps4/StupidLove_Cover_Generic.tga.ckd/cbf79de83b8474b65a5b77a1a4ee39b2.ckd",
+      "coverKidsImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/ps4/StupidLove_Cover_Generic_Kids.tga.ckd/77bff4518f95c4559700db93908c5651.ckd",
+      "coverKids_smallImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/ps4/StupidLove_Cover_Online_Kids.tga.ckd/c4ca419fedeb8233c1f018fde3318e07.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/ps4/StupidLove_Cover_1024.tga.ckd/0d0b5482e0c9acddae7827a02d1f7e9e.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/ps4/StupidLove_Cover_Online.tga.ckd/e82a7075f3c0e5c26571f87686f0660f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/ps4/StupidLove_Cover_AlbumBkg.tga.ckd/5ec926db1d6e8088f0a40be03e71a2bb.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/ps4/StupidLove_Cover_AlbumCoach.tga.ckd/56186ffe89f93ad527752d8bd761f0e6.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/ps4/StupidLove_map_bkg.tga.ckd/2874d1ca5c2a9411bf7fc46f174d4720.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/StupidLove_Coach_1_Phone.png/618e652ff091e78c72e3023c9a53db4c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/StupidLove_Cover_Phone.jpg/90c46f3693212d4fc973f382be47636c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/StupidLove/StupidLove_VideoPreview.webm/b2506d9d0f0b61dd6a35877cae523849.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/nx/StupidLove_banner_bkg.tga.ckd/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/nx/StupidLove_Coach_1.tga.ckd/2ed6408ae7651cd579c2ee75ba3135c5.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/nx/StupidLove_Cover_Generic.tga.ckd/49ca94f274c06341f0281f66a1754da7.ckd",
+      "coverKidsImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/nx/StupidLove_Cover_Generic_Kids.tga.ckd/36ca53f6d270fef78b9d4b344939348e.ckd",
+      "coverKids_smallImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/nx/StupidLove_Cover_Online_Kids.tga.ckd/a74315a9fa4379015a6f46f7628a117b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/nx/StupidLove_Cover_1024.tga.ckd/66dc167b622860cd8060352885853c90.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/nx/StupidLove_Cover_Online.tga.ckd/32fcfecc0eae7f394a5480997663ddf7.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/nx/StupidLove_Cover_AlbumBkg.tga.ckd/665126c255b532ce58255e3fee773fed.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/nx/StupidLove_Cover_AlbumCoach.tga.ckd/c3eaae71883b28f3ae44626e334d3c63.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/nx/StupidLove_map_bkg.tga.ckd/e3fcd74717cd9a48170d0dca5df8900f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/StupidLove_Coach_1_Phone.png/618e652ff091e78c72e3023c9a53db4c.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/StupidLove/StupidLove_Cover_Phone.jpg/90c46f3693212d4fc973f382be47636c.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/StupidLove/StupidLove_VideoPreview.webm/b2506d9d0f0b61dd6a35877cae523849.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24407,48813,73220,97627,122034,146440,170847,195254,219661,244068,268474,292881,317288,341695,366101,390508,414915,439322,463729,488135,512542,536949,561356,585762,610169,634576,658983,683390,707796,732203,756610,781017,805423,829830,854237,878644,903051,927457,951864,976271,1000678,1025085,1049491,1073898,1098305,1122712,1147118,1171525,1195932,1220339,1244746,1269152,1293559,1317966,1342373,1366779,1391186,1415593],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":384,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":58,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/stupidlove/stupidlove_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Michael Tucker, Max Martin, Tchami, Stefani Germanotta and Ely Weisfeld. Published by BMG Platinum Songs US (BMI). All rights administered by BMG Rights Management (US) LLC/ MXM Music AB (ASCAP) / Michael Diamond Music (ASCAP). Administered by Kobalt Music Publishing America, Inc.  / SG Songs Worldwide (BMI) / Sony/ATV Songs LLC (BMI). These Are Songs of Pulse (ASCAP) obo itself and Love Tunnel Publishing (ASCAP) admin by Concord Sounds (ASCAP). All rights reserved. Used with permission. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "F704B5FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 196.779,
+  "mapName": "StupidLove",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496726\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/StupidLove/StupidLove_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"620-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-620\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481574\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/StupidLove/StupidLove_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1111\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2934109\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/StupidLove/StupidLove_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1111\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4584255\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/StupidLove/StupidLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"621-1112\">\r\n\t\t\t\t\t<Initialization range=\"0-621\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "StupidLove_mapContent"
+  },
+  "parentMapName": "StupidLove",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "36ADACFF",
+    "songColor_1B": "90D7DCFF",
+    "songColor_2A": "F1E413FF",
+    "songColor_2B": "F4EFC1FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 3,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Stupid Love",
+  "urls": {
+    "jmcs://jd-contents/StupidLove/StupidLove_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/StupidLove/StupidLove_AudioPreview.ogg/0ca75761954790857023348b5c65b70c.ogg",
+    "jmcs://jd-contents/StupidLove/StupidLove_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/StupidLove/StupidLove_MapPreviewNoSoundCrop_HIGH.vp8.webm/f7b1c78ca16d0b818a53e783ddb8ed57.webm",
+    "jmcs://jd-contents/StupidLove/StupidLove_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/StupidLove/StupidLove_MapPreviewNoSoundCrop_HIGH.vp9.webm/548389ba80f15186cd25b7354c6ef26e.webm",
+    "jmcs://jd-contents/StupidLove/StupidLove_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/StupidLove/StupidLove_MapPreviewNoSoundCrop_LOW.vp8.webm/be4a01a0845571016527441806a165ae.webm",
+    "jmcs://jd-contents/StupidLove/StupidLove_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/StupidLove/StupidLove_MapPreviewNoSoundCrop_LOW.vp9.webm/b888525ce852902053f2eee9319bc09a.webm",
+    "jmcs://jd-contents/StupidLove/StupidLove_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/StupidLove/StupidLove_MapPreviewNoSoundCrop_MID.vp8.webm/416b7a44e171388832025ec09a5a7975.webm",
+    "jmcs://jd-contents/StupidLove/StupidLove_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/StupidLove/StupidLove_MapPreviewNoSoundCrop_MID.vp9.webm/fda3dfd0933e135bb94ef70fe6ec59f4.webm",
+    "jmcs://jd-contents/StupidLove/StupidLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/StupidLove/StupidLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm/68483a2e59bf01faaa5b83258d99437f.webm",
+    "jmcs://jd-contents/StupidLove/StupidLove_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/StupidLove/StupidLove_MapPreviewNoSoundCrop_ULTRA.vp9.webm/ab0d8a59fc8afdf29f576bf17d51e626.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "12cdcbbeacaa57d56b090f4e8041da06",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/StupidLove/ps4/StupidLove_MAIN_SCENE_ORBIS.zip/12cdcbbeacaa57d56b090f4e8041da06.zip",
+      "version": 6
+    },
+    "nx": {
+      "md5": "2518687a21f731e75d20a051b44e589c",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/StupidLove/nx/StupidLove_MAIN_SCENE_NX.zip/2518687a21f731e75d20a051b44e589c.zip",
+      "version": 6
+    },
+    "pc": {
+      "md5": "45a3b34b24d12dd5b6e65443407b3719",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/StupidLove/pc/45a3b34b24d12dd5b6e65443407b3719.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

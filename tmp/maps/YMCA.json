@@ -1,0 +1,132 @@
+{
+  "artist": "Village People",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_banner_bkg.jpg/74912f33bfd48860f5a948eb99f50e73.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_1.png/45f4928c175b1a5f1c64041f370dd071.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_2.png/84aeab904c3774e76a7fbadced3a236f.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_3.png/dd361d9f45b5bf331adffb336b858e35.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_4.png/cfb5685ad4551cf8606b9d1d385da7c3.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Cover_Generic.jpg/fd801013ffc434b9ebf75f75ee4270d4.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Cover_1024.png/cf4545bf06ef795941ec6fd76e9cb6e5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Cover_Online.jpg/3b31504d33ca8bce2e0362ebbf2f4ab9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Cover_AlbumBkg.jpg/c819dac23c1f4fdd426b2fa8c268eaa7.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Cover_AlbumCoach.png/175aea056834a3ac7d7b284c7ef704d6.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_1_Phone.png/811c4d3a21c6c423dbadc57842a054d5.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_2_Phone.png/6555d7464fc57df03a42b86c52f43020.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_3_Phone.png/22d03b4cfce8c4198f9f411c79d89d3c.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_4_Phone.png/2ec6ce2d12ff7d3bb05ec18a36259b89.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Cover_Phone.jpg/3b31504d33ca8bce2e0362ebbf2f4ab9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_VideoPreview.webm/0e8071f7f20bf8de200408f7d44f8ba4.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_banner_bkg.jpg/74912f33bfd48860f5a948eb99f50e73.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_1.png/45f4928c175b1a5f1c64041f370dd071.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_2.png/84aeab904c3774e76a7fbadced3a236f.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_3.png/dd361d9f45b5bf331adffb336b858e35.png",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_4.png/cfb5685ad4551cf8606b9d1d385da7c3.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Cover_Generic.jpg/fd801013ffc434b9ebf75f75ee4270d4.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Cover_1024.png/cf4545bf06ef795941ec6fd76e9cb6e5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Cover_Online.jpg/3b31504d33ca8bce2e0362ebbf2f4ab9.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Cover_AlbumBkg.jpg/c819dac23c1f4fdd426b2fa8c268eaa7.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Cover_AlbumCoach.png/175aea056834a3ac7d7b284c7ef704d6.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_1_Phone.png/811c4d3a21c6c423dbadc57842a054d5.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_2_Phone.png/6555d7464fc57df03a42b86c52f43020.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_3_Phone.png/22d03b4cfce8c4198f9f411c79d89d3c.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_4_Phone.png/2ec6ce2d12ff7d3bb05ec18a36259b89.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Cover_Phone.jpg/3b31504d33ca8bce2e0362ebbf2f4ab9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_VideoPreview.webm/0e8071f7f20bf8de200408f7d44f8ba4.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/wiiu/YMCA_banner_bkg.tga.ckd/9c6dd4e2dd6f23ea85cdc72925a6e527.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/wiiu/YMCA_Coach_1.tga.ckd/b64f5263301518562ab63ecf76ac682f.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/wiiu/YMCA_Coach_2.tga.ckd/67ccf35885c37083f87b4a64d11580c3.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/wiiu/YMCA_Coach_3.tga.ckd/de56bbdda9025666de1b8402fccc00e9.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/wiiu/YMCA_Coach_4.tga.ckd/9c70e94324e0e088f0ccdeb49f893156.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/wiiu/YMCA_Cover_Generic.tga.ckd/31112289fb480f8608aa828f443796c4.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Cover_1024.png/cf4545bf06ef795941ec6fd76e9cb6e5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/wiiu/YMCA_Cover_Online.tga.ckd/60d0783ecdae6095449fd18826df51cf.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/wiiu/YMCA_Cover_AlbumBkg.tga.ckd/6c42f30e97b16abdd2c6b34eea69418c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/wiiu/YMCA_Cover_AlbumCoach.tga.ckd/a60d9578a6229f646163b1d9830f0f05.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_1_Phone.png/811c4d3a21c6c423dbadc57842a054d5.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_2_Phone.png/6555d7464fc57df03a42b86c52f43020.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_3_Phone.png/22d03b4cfce8c4198f9f411c79d89d3c.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Coach_4_Phone.png/2ec6ce2d12ff7d3bb05ec18a36259b89.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_Cover_Phone.jpg/3b31504d33ca8bce2e0362ebbf2f4ab9.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_VideoPreview.webm/0e8071f7f20bf8de200408f7d44f8ba4.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23136,46032,68880,91728,114432,137136,159840,182544,205248,227952,250656,273792,295776,318672,341520,364368,386928,409776,432384,455376,477888,500400,523104,545808,567936,590592,613248,635856,658320,680832,703296,725760,748224,771216,793968,817056,839232,862032,884880,907727,930671,953615,976175,998735,1021151,1043807,1066703,1089647,1112351,1135103,1157759,1180415,1203023,1225199,1247807,1270415,1293071,1315727,1337903,1360367,1382831,1405295,1427471],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":467,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/ymca/ymca_AudioPreview.ogg\"}",
+  "coachCount": 4,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "26A7B1FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 221.17399999999998,
+  "mapName": "YMCA",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496760\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/YMCA/YMCA_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"624-1113\">\r\n\t\t\t\t\t<Initialization range=\"0-624\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480038\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/YMCA/YMCA_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2930652\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/YMCA/YMCA_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4462013\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/YMCA/YMCA_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\r\n\t\t\t\t\t<Initialization range=\"0-625\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2014,
+  "packages": {
+    "mapContent": "YMCA_mapContent"
+  },
+  "parentMapName": "YMCA",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "17C2C0FF",
+    "songColor_1B": "27094CFF",
+    "songColor_2A": "19D5C7FF",
+    "songColor_2B": "17084CFF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Y.M.C.A.",
+  "urls": {
+    "jmcs://jd-contents/YMCA/YMCA_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_AudioPreview.ogg/3770f59d62a450fe188e6528bbf57007.ogg",
+    "jmcs://jd-contents/YMCA/YMCA_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_MapPreviewNoSoundCrop_HIGH.vp8.webm/56d8ecc12bd1a04b7e5a7b7bbfc1ce95.webm",
+    "jmcs://jd-contents/YMCA/YMCA_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_MapPreviewNoSoundCrop_HIGH.vp9.webm/da2953b92de1f695c7375e2ae0be86c4.webm",
+    "jmcs://jd-contents/YMCA/YMCA_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_MapPreviewNoSoundCrop_LOW.vp8.webm/d7c359fcf8cf95be26be00f717684506.webm",
+    "jmcs://jd-contents/YMCA/YMCA_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_MapPreviewNoSoundCrop_LOW.vp9.webm/db7f420df993369e00b172f9e62a1c02.webm",
+    "jmcs://jd-contents/YMCA/YMCA_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_MapPreviewNoSoundCrop_MID.vp8.webm/f4d898dc5a6db014febe30d848d31bc4.webm",
+    "jmcs://jd-contents/YMCA/YMCA_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_MapPreviewNoSoundCrop_MID.vp9.webm/773f851711f824903fe55a68dc94a81b.webm",
+    "jmcs://jd-contents/YMCA/YMCA_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f7075d5f4c87fd44996f86e4c9e99982.webm",
+    "jmcs://jd-contents/YMCA/YMCA_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/YMCA/YMCA_MapPreviewNoSoundCrop_ULTRA.vp9.webm/7a0341b5866b64edcb3b0294e3129531.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "731d1acf97d8330e5b1a28add094fb47",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/YMCA/ps4/YMCA_MAIN_SCENE_ORBIS.zip/731d1acf97d8330e5b1a28add094fb47.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "aaeb9a4b8c969e2d0587e70df331e098",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/YMCA/pc/YMCA_MAIN_SCENE_PC.zip/aaeb9a4b8c969e2d0587e70df331e098.zip",
+      "version": 2
+    },
+    "wiiu": {
+      "md5": "cbbd748fb85188cac6263d30e992cddf",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/YMCA/wiiu/YMCA_MAIN_SCENE_WIIU.zip/cbbd748fb85188cac6263d30e992cddf.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "ef8d650cc12c93ac241f19a4e88efce8",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/YMCA/nx/YMCA_MAIN_SCENE_NX.zip/ef8d650cc12c93ac241f19a4e88efce8.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

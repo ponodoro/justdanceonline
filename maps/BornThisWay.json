@@ -1,0 +1,126 @@
+{
+  "artist": "Lady Gaga",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_banner_bkg.jpg/4ae352eab6a4ea20482e650aab4a95b2.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Coach_1.png/f9e537b68f7dfc824673310cbbb0815d.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Coach_2.png/f06ed961364dd9d08f38114d75e7a9d7.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Coach_3.png/c47c39e6e778dd287f43f27e3fafd94d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Cover_Generic.jpg/d1cc13ee1e13761bc7f1af3fc7c8fd72.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Cover_1024.png/f6c83b26f2ebddf8eb571fdb07ecb004.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Cover_Online.jpg/ab1392e2d0199824dd99784444a16cbf.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Cover_AlbumBkg.jpg/696d07d990a9d3c149dd08bf07a753bc.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Cover_AlbumCoach.png/3dde9224cc954a379056ca1df547f941.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Coach_1_Phone.png/3593d6f6cb8bfff2697c4ae03b940916.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Coach_2_Phone.png/cd8871fcf2dbc3ec189384fb14300afe.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Coach_3_Phone.png/7c700520e816a6ff45be6a120e8572df.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Cover_Phone.jpg/ab1392e2d0199824dd99784444a16cbf.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_VideoPreview.webm/78fcca8a224bc63111c2dc525ce75aa5.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_banner_bkg.jpg/4ae352eab6a4ea20482e650aab4a95b2.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Coach_1.png/f9e537b68f7dfc824673310cbbb0815d.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Coach_2.png/f06ed961364dd9d08f38114d75e7a9d7.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Coach_3.png/c47c39e6e778dd287f43f27e3fafd94d.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Cover_Generic.jpg/d1cc13ee1e13761bc7f1af3fc7c8fd72.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Cover_1024.png/f6c83b26f2ebddf8eb571fdb07ecb004.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Cover_Online.jpg/ab1392e2d0199824dd99784444a16cbf.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Cover_AlbumBkg.jpg/696d07d990a9d3c149dd08bf07a753bc.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Cover_AlbumCoach.png/3dde9224cc954a379056ca1df547f941.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Coach_1_Phone.png/3593d6f6cb8bfff2697c4ae03b940916.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Coach_2_Phone.png/cd8871fcf2dbc3ec189384fb14300afe.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Coach_3_Phone.png/7c700520e816a6ff45be6a120e8572df.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Cover_Phone.jpg/ab1392e2d0199824dd99784444a16cbf.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_VideoPreview.webm/78fcca8a224bc63111c2dc525ce75aa5.webm"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/wiiu/BornThisWay_banner_bkg.tga.ckd/5cabc5c912eceef0cbc5d302a39f8c1c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/wiiu/BornThisWay_Coach_1.tga.ckd/08c1b6dc1cf019de4d1a8191fbfe6e95.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/wiiu/BornThisWay_Coach_2.tga.ckd/a1084895134405083beb4c756357ef65.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/wiiu/BornThisWay_Coach_3.tga.ckd/8f26d11a572132142527d673196b5562.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/wiiu/BornThisWay_Cover_Generic.tga.ckd/f25cdedd4b4ad331f448b4402e091280.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Cover_1024.png/f6c83b26f2ebddf8eb571fdb07ecb004.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/wiiu/BornThisWay_Cover_Online.tga.ckd/8657322a3292cb98cf6b68f01dc1143d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/wiiu/BornThisWay_Cover_AlbumBkg.tga.ckd/9d875faf0c03ccfd47521b3dd6c05158.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/wiiu/BornThisWay_Cover_AlbumCoach.tga.ckd/767edec70e54111baaccadb2a6a0086e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Coach_1_Phone.png/3593d6f6cb8bfff2697c4ae03b940916.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Coach_2_Phone.png/cd8871fcf2dbc3ec189384fb14300afe.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Coach_3_Phone.png/7c700520e816a6ff45be6a120e8572df.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_Cover_Phone.jpg/ab1392e2d0199824dd99784444a16cbf.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_VideoPreview.webm/78fcca8a224bc63111c2dc525ce75aa5.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23232,46464,69696,92928,116160,139392,162624,185808,209040,232272,255504,278736,301968,325200,348432,371616,394848,418080,441312,464544,487776,511008,534240,557424,580656,603888,627120,650352,673584,696816,720000,743232,766464,789696,812928,836160,859392,882624,905808,929040,952272,975504,998736,1021968,1045200,1068432,1091616,1114848,1138081,1161313,1184545,1207777,1231009,1254241,1277425,1300657,1323889,1347121,1370353,1393585,1416817],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":457,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/bornthisway/bornthisway_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FE3636FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 223.548,
+  "mapName": "BornThisWay",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497240\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"628-1117\">\r\n\t\t\t\t\t<Initialization range=\"0-628\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480794\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2951026\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5844216\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"629-1126\">\r\n\t\t\t\t\t<Initialization range=\"0-629\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2016,
+  "packages": {
+    "mapContent": "BornThisWay_mapContent"
+  },
+  "parentMapName": "BornThisWay",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "243CE1FF",
+    "songColor_1B": "0B003DFF",
+    "songColor_2A": "FF1768FF",
+    "songColor_2B": "2A0004FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "Born This Way",
+  "urls": {
+    "jmcs://jd-contents/BornThisWay/BornThisWay_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_AudioPreview.ogg/177a3e5fbbeacc82197ebd5b291fcea0.ogg",
+    "jmcs://jd-contents/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_HIGH.vp8.webm/43ac51c1b648f6b209d18d92faa68946.webm",
+    "jmcs://jd-contents/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_HIGH.vp9.webm/d9125f5d15d413760aa54f071950c0a6.webm",
+    "jmcs://jd-contents/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_LOW.vp8.webm/e6e260cc19c308090b7c91ba09b53d8d.webm",
+    "jmcs://jd-contents/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_LOW.vp9.webm/bb9332c1d0abb88714a9cb5eeb03d4d7.webm",
+    "jmcs://jd-contents/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_MID.vp8.webm/d619c4fbf9ed9d5b9eac571b23af98f9.webm",
+    "jmcs://jd-contents/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_MID.vp9.webm/3b45f14547303f6380eb8f88f9eefb51.webm",
+    "jmcs://jd-contents/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_ULTRA.vp8.webm/1752f765d0088d8d634dca6a7e9871b7.webm",
+    "jmcs://jd-contents/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BornThisWay/BornThisWay_MapPreviewNoSoundCrop_ULTRA.vp9.webm/36bf959d613a2621e52cd847b5aba148.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "a8e736ac8770f22a63b56f4772ccc555",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BornThisWay/ps4/BornThisWay_MAIN_SCENE_ORBIS.zip/a8e736ac8770f22a63b56f4772ccc555.zip",
+      "version": 5
+    },
+    "pc": {
+      "md5": "49790ae11e156d8ae96302dcfa4b1bca",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BornThisWay/pc/BornThisWay_MAIN_SCENE_PC.zip/49790ae11e156d8ae96302dcfa4b1bca.zip",
+      "version": 3
+    },
+    "wiiu": {
+      "md5": "186accb766cd38ce6094a7b123aadaf2",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BornThisWay/wiiu/BornThisWay_MAIN_SCENE_WIIU.zip/186accb766cd38ce6094a7b123aadaf2.zip",
+      "version": 5
+    },
+    "nx": {
+      "md5": "8f5349e786e2f80954313bcd35ab1f93",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BornThisWay/nx/BornThisWay_MAIN_SCENE_NX.zip/8f5349e786e2f80954313bcd35ab1f93.zip",
+      "version": 4
+    }
+  },
+  "mapType": "jdu"
+}

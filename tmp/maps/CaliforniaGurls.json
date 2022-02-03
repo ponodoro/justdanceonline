@@ -1,0 +1,111 @@
+{
+  "artist": "Katy Perry Ft. Snoop Dogg",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_banner_bkg.jpg/3e15271167338184db1a2455afa2b14c.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Coach_1.png/21bd5581bd8aa6a551fa3160bd1400a9.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Cover_Generic.jpg/eba215dd71b40b7a5a30ef56dd93c9d4.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Cover_1024.png/7aca4d48347f82abe5d3e017156a3d24.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Cover_Online.jpg/5bc947d77d16d4828f025fcf6235dc6b.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Cover_AlbumBkg.jpg/97d04278a06f07e656ddf63eba4c722e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Cover_AlbumCoach.png/f50b5d049f14d4c9fac31d2694a15a66.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Coach_1_Phone.png/1c7ee86cc8ce20c5772ed25416e766ff.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Cover_Phone.jpg/5bc947d77d16d4828f025fcf6235dc6b.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_banner_bkg.jpg/3e15271167338184db1a2455afa2b14c.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Coach_1.png/21bd5581bd8aa6a551fa3160bd1400a9.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Cover_Generic.jpg/eba215dd71b40b7a5a30ef56dd93c9d4.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Cover_1024.png/7aca4d48347f82abe5d3e017156a3d24.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Cover_Online.jpg/5bc947d77d16d4828f025fcf6235dc6b.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Cover_AlbumBkg.jpg/97d04278a06f07e656ddf63eba4c722e.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Cover_AlbumCoach.png/f50b5d049f14d4c9fac31d2694a15a66.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Coach_1_Phone.png/1c7ee86cc8ce20c5772ed25416e766ff.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Cover_Phone.jpg/5bc947d77d16d4828f025fcf6235dc6b.jpg"
+    },
+    "wiiu": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/wiiu/CaliforniaGurls_banner_bkg.tga.ckd/00b57c755f0b2d54983a5649f162b282.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/wiiu/CaliforniaGurls_Coach_1.tga.ckd/3edb098c6670894fc904bb8ed06573de.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/wiiu/CaliforniaGurls_Cover_Generic.tga.ckd/b8e5e92e89c42101c835cde84c46f970.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Cover_1024.png/7aca4d48347f82abe5d3e017156a3d24.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/wiiu/CaliforniaGurls_Cover_Online.tga.ckd/720a4ae4ff05074e33886740d1b3ddfa.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/wiiu/CaliforniaGurls_Cover_AlbumBkg.tga.ckd/0b85e75ee0b9c9cdf1b677df59f3ffb3.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/wiiu/CaliforniaGurls_Cover_AlbumCoach.tga.ckd/d07c2bbed6d0be09e53bd7370daaf4a3.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Coach_1_Phone.png/1c7ee86cc8ce20c5772ed25416e766ff.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_Cover_Phone.jpg/5bc947d77d16d4828f025fcf6235dc6b.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23040,46080,69120,92160,115200,138240,161280,184320,207360,230400,253440,276480,299520,322560,345600,368640,391680,414720,437760,460800,483840,506880,529920,552960,576000,599040,622080,645120,668160,691200,714240,737280,760320,783360,806400,829440,852480,875520,898560,921600,944640,967680,990720,1013760,1036800,1059840,1082880,1105920,1128960,1152000,1175040,1198080,1221120,1244160,1267200,1290240,1313280,1336320,1359360,1382400,1405440,1428480],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":498,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/californiagurls/californiagurls_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "2EFE91FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 239.718,
+  "mapName": "CaliforniaGurls",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"493257\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1433156\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2234773\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2836707\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 3,
+  "packages": {
+    "mapContent": "CaliforniaGurls_mapContent"
+  },
+  "parentMapName": "CaliforniaGurls",
+  "skuIds": [
+    "jd2017-pc-ww"
+  ],
+  "songColors": {
+    "songColor_1A": "E29237FF",
+    "songColor_1B": "4D0037FF",
+    "songColor_2A": "B16DCBFF",
+    "songColor_2B": "550013FF"
+  },
+  "status": 5,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main",
+    "freeSong"
+  ],
+  "title": "California Gurls",
+  "urls": {
+    "jmcs://jd-contents/CaliforniaGurls/CaliforniaGurls_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_AudioPreview.ogg/d638b5690353ccb6a9b8781bafd8d3f2.ogg",
+    "jmcs://jd-contents/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_HIGH.vp8.webm/78f268fe034c1eda956d8a162b5c3f50.webm",
+    "jmcs://jd-contents/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_HIGH.vp9.webm/c50498b5e374be027e0d628425089caf.webm",
+    "jmcs://jd-contents/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_LOW.vp8.webm/9cdf641cd1a1a4b0a3521be6ee494ad7.webm",
+    "jmcs://jd-contents/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_LOW.vp9.webm/7b137a04346b42b2b2eeb42138d0feee.webm",
+    "jmcs://jd-contents/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_MID.vp8.webm/ca84f15a137ccf7b4658d952827fa2e6.webm",
+    "jmcs://jd-contents/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_MID.vp9.webm/e19603d30efaa1bc39f66d515928b3be.webm",
+    "jmcs://jd-contents/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_ULTRA.vp8.webm/19a85dd396fb30310946c01e05831a3c.webm",
+    "jmcs://jd-contents/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/CaliforniaGurls_MapPreviewNoSoundCrop_ULTRA.vp9.webm/e6f5ceb630584e6d3d5c7c36b598819f.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "2942fe6b432778839df36b2f1a021807",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/ps4/CaliforniaGurls_MAIN_SCENE_ORBIS.zip/2942fe6b432778839df36b2f1a021807.zip",
+      "version": 24
+    },
+    "pc": {
+      "md5": "b9d6ad5c8e6246f5b21eb2f601448f57",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/pc/CaliforniaGurls_MAIN_SCENE_PC.zip/b9d6ad5c8e6246f5b21eb2f601448f57.zip",
+      "version": 7
+    },
+    "wiiu": {
+      "md5": "5a0f9432309ebc3aa2bc6f454bbb174f",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/wiiu/CaliforniaGurls_MAIN_SCENE_WIIU.zip/5a0f9432309ebc3aa2bc6f454bbb174f.zip",
+      "version": 15
+    },
+    "nx": {
+      "md5": "908b0059f9de8f2e6ee961a9f5cc6a6b",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/CaliforniaGurls/nx/CaliforniaGurls_MAIN_SCENE_NX.zip/908b0059f9de8f2e6ee961a9f5cc6a6b.zip",
+      "version": 23
+    }
+  },
+  "mapType": "jdu"
+}

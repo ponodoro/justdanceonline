@@ -1,0 +1,98 @@
+{
+  "artist": "Lady Gaga & Ariana Grande",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_banner_bkg.jpg/a3bc70bf3d4649a842ba63cb38287a70.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Coach_1.png/e6b4e4718257b1940a8b99010823736e.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Coach_2.png/1753b59ab342716b9b345431c97c85b7.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Coach_3.png/7409adc879f262326f2a99e5026f0e25.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Cover_Generic.jpg/76d7a1aadf8cec08034b0e06e7ff8fb0.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Cover_Online.jpg/0c206b9b8e100e2c5c657f5001bb9dcc.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Cover_AlbumBkg.jpg/779a299ff0a7df6afb17010072591bd7.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Cover_AlbumCoach.png/a989e3a5aa68db7c2647869010754420.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Coach_1_Phone.png/c8c5563b2b667f8c0ceab223423ded09.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Coach_2_Phone.png/b7c8753d4417e4243efe49e27ea51980.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Coach_3_Phone.png/d86add71eab8d1b6fe524f97c4a50a41.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Cover_Phone.jpg/0c206b9b8e100e2c5c657f5001bb9dcc.jpg"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_banner_bkg.jpg/a3bc70bf3d4649a842ba63cb38287a70.jpg",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Coach_1.png/e6b4e4718257b1940a8b99010823736e.png",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Coach_2.png/1753b59ab342716b9b345431c97c85b7.png",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Coach_3.png/7409adc879f262326f2a99e5026f0e25.png",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Cover_Generic.jpg/76d7a1aadf8cec08034b0e06e7ff8fb0.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Cover_Online.jpg/0c206b9b8e100e2c5c657f5001bb9dcc.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Cover_AlbumBkg.jpg/779a299ff0a7df6afb17010072591bd7.jpg",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Cover_AlbumCoach.png/a989e3a5aa68db7c2647869010754420.png",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Coach_1_Phone.png/c8c5563b2b667f8c0ceab223423ded09.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Coach_2_Phone.png/b7c8753d4417e4243efe49e27ea51980.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Coach_3_Phone.png/d86add71eab8d1b6fe524f97c4a50a41.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RainOnMe/RainOnMe_Cover_Phone.jpg/0c206b9b8e100e2c5c657f5001bb9dcc.jpg"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23415,46830,70244,93659,117074,140488,163903,187318,210732,234147,257561,280976,304391,327805,351220,374635,398049,421464,444878,468293,491708,515122,538537,561952,585366,608781,632196,655610,679025,702439,725854,749269,772683,796098,819513,842927,866342,889757,913171,936586,960000,983415,1006830,1030244,1053659,1077074,1100488,1123903,1147318,1170732,1194147,1217561,1240976,1264391,1287805,1311220,1334635,1358049,1381464,1404878,1428293],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-13,\"endBeat\":378,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/rainonme/rainonme_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Ariana Grande, Martin Joseph Leonard Bresso, Matthew Burns, Michael Tucker, Nija Charles, Rami Yacoub and Stefani Germanotta. Published by Universal Music Publishing Canada on behalf of Songs by Amnija and Songs Of Universal, Inc. (SOCAN). Universal Music Publishing Canada on behalf of Grandarimusic and Universal Music Corp. (SOCAN). / ETRANGE FRUIT / BMG Music Publishing / Glow Entertainment LLC / Fly Eye / Sony ATV (BMI) / Michael Diamond Music / Rami Productions AB / Sony/ATV Songs LLC / SG Songs Worldwide (BMI). All rights reserved. Used with permission. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "03CFEBFF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 190.731,
+  "mapName": "RainOnMe",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497190\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"600-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-600\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483377\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2947737\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5282576\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2021,
+  "packages": {
+    "mapContent": "RainOnMe_mapContent"
+  },
+  "parentMapName": "RainOnMe",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "590098FF",
+    "songColor_1B": "390051FF",
+    "songColor_2A": "D325FFFF",
+    "songColor_2B": "0014A6FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "Rain On Me",
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "5fd0029f9a5a711fac593cf5cb1a1575",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainOnMe/ps4/RainOnMe_MAIN_SCENE_ORBIS.zip/5fd0029f9a5a711fac593cf5cb1a1575.zip",
+      "version": 3
+    },
+    "nx": {
+      "md5": "e829557f01362247973e57a0a2bbe7e4",
+      "storageType": 0,
+      "url": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainOnMe/nx/RainOnMe_MAIN_SCENE_NX.zip/e829557f01362247973e57a0a2bbe7e4.zip",
+      "version": 3
+    },
+    "pc": {
+      "md5": "30ed991f7479e1fc6360117f46c69be2",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/RainOnMe/pc/30ed991f7479e1fc6360117f46c69be2.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu",
+  "urls": {
+    "jmcs://jd-contents/RainOnMe/RainOnMe_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainOnMe/RainOnMe_AudioPreview.ogg/b2d23cf8014749f0e6b07d588fb30de3.ogg",
+    "jmcs://jd-contents/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_HIGH.vp8.webm/1bcd6f68ed612e4934324b779dc8e072.webm",
+    "jmcs://jd-contents/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_HIGH.vp9.webm/3c7b10313f3322afe5294f6d7277aad2.webm",
+    "jmcs://jd-contents/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_LOW.vp8.webm/5db87c10e9ce809d09159ab9c7d74e58.webm",
+    "jmcs://jd-contents/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_LOW.vp9.webm/b3191d6742968ef234a1664820853aed.webm",
+    "jmcs://jd-contents/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_MID.vp8.webm/a8b53b98769ab03b5bc236c837d32684.webm",
+    "jmcs://jd-contents/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_MID.vp9.webm/f73df78f36e0060276144efa9714bc6a.webm",
+    "jmcs://jd-contents/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm/66f993e760223b21dfbf457ebe5b38d3.webm",
+    "jmcs://jd-contents/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/RainOnMe/RainOnMe_MapPreviewNoSoundCrop_ULTRA.vp9.webm/1ca23f721ae5d099f927002555519ea7.webm"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "artist": "2NE1",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/ps4/IAmTheBest_banner_bkg.tga.ckd/3503dba673e5ba36532a34952517d483.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/ps4/IAmTheBest_Coach_1.tga.ckd/44e38772c80d139699a4e0a1b46079ad.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/ps4/IAmTheBest_Coach_2.tga.ckd/92f95d653e7a17cf364d7a8e94c90207.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/ps4/IAmTheBest_Coach_3.tga.ckd/44e38772c80d139699a4e0a1b46079ad.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/ps4/IAmTheBest_Cover_Generic.tga.ckd/7a81533128c32a8e9e54e62f3561f238.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_Cover_1024.png/7892e1b30347af51949f379716cf1845.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/ps4/IAmTheBest_Cover_Online.tga.ckd/a6737c62da36086f47283baaf9294e67.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/ps4/IAmTheBest_Cover_AlbumBkg.tga.ckd/ddedb888ace38aa05405746150da0738.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/ps4/IAmTheBest_Cover_AlbumCoach.tga.ckd/f1c4794e7d5d1b6bdb89ab5cfc4a8aeb.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_Coach_1_Phone.png/4d7169b7d0126b4d9273bb8f6742cd90.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_Coach_2_Phone.png/e9b899a78a5ae248b67f6b5d7fe14fae.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_Coach_3_Phone.png/4d7169b7d0126b4d9273bb8f6742cd90.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_Cover_Phone.jpg/40a1dac2b6f38c895cfca1b8131d8084.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/ps4/IAmTheBest_map_bkg.tga.ckd/3f3df371418706343b684043f9734081.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/nx/IAmTheBest_banner_bkg.tga.ckd/15c0b2735200b32cb1e6b4c634b5d4b5.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/nx/IAmTheBest_Coach_1.tga.ckd/d58e5b571fa9fb74f1e0c6fcaa2b9880.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/nx/IAmTheBest_Coach_2.tga.ckd/fcf8fd63f6a185ca2c3c3851227370d2.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/nx/IAmTheBest_Coach_3.tga.ckd/d58e5b571fa9fb74f1e0c6fcaa2b9880.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/nx/IAmTheBest_Cover_Generic.tga.ckd/b7e914aa564f2e4a7b42f1c6519575b5.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_Cover_1024.png/7892e1b30347af51949f379716cf1845.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/nx/IAmTheBest_Cover_Online.tga.ckd/99ce9f020f04f2f20fa30e66734df93d.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/nx/IAmTheBest_Cover_AlbumBkg.tga.ckd/7766180c5a053d9b0752e778fff4375d.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/nx/IAmTheBest_Cover_AlbumCoach.tga.ckd/31f0eb44e452f23ad1c46fd64529953e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_Coach_1_Phone.png/4d7169b7d0126b4d9273bb8f6742cd90.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_Coach_2_Phone.png/e9b899a78a5ae248b67f6b5d7fe14fae.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_Coach_3_Phone.png/4d7169b7d0126b4d9273bb8f6742cd90.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_Cover_Phone.jpg/40a1dac2b6f38c895cfca1b8131d8084.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/IAmTheBest/nx/IAmTheBest_map_bkg.tga.ckd/bc8bfcde2b8082abade74f55665dc9e7.ckd"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22512,45024,67488,90000,112512,135024,157488,179999,202511,225023,247487,269999,292511,315023,337487,359999,382511,405023,427487,449999,472511,495023,517487,539999,562511,585022,607486,629998,652510,675022,697486,719998,742510,765022,787486,809998,832510,855022,877486,899998,922510,945022,967486,989998,1012509,1035021,1057485,1079997,1102509,1125021,1147485,1169997,1192509,1215021,1237485,1259997,1282509,1305021,1327485,1349997,1372509,1395021,1417484,1439996],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":450,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/iamthebest/iamthebest_AudioPreview.ogg\"}",
+  "coachCount": 3,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Hong Jun Park. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing Korea. Courtesy of Capitol Records/YG Entertainment under license from Universal Music Enterprises. ",
+  "difficulty": 3,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "04B682FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 213.28199999999998,
+  "mapName": "IAmTheBest",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496694\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483679\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2939614\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4733557\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2020,
+  "packages": {
+    "mapContent": "IAmTheBest_mapContent"
+  },
+  "parentMapName": "IAmTheBest",
+  "skuIds": [
+    "jd2020-nx-all",
+    "jd2020-xone-all",
+    "jd2020-ps4-scea",
+    "jd2020-ps4-scee",
+    "jd2020-ggp-all",
+    "jd2020-demo-nx-all",
+    "jd2020-demo-ps4-scea",
+    "jd2020-demo-ps4-scee",
+    "jd2020-demo-xone-all"
+  ],
+  "songColors": {
+    "songColor_1A": "130021FF",
+    "songColor_1B": "5C00ABFF",
+    "songColor_2A": "A93422FF",
+    "songColor_2B": "8C3C7EFF"
+  },
+  "status": 3,
+  "sweatDifficulty": 2,
+  "tags": [
+    "Main",
+    "subscribedSong"
+  ],
+  "title": "I Am The Best (내가 제일 잘 나가)",
+  "urls": {
+    "jmcs://jd-contents/IAmTheBest/IAmTheBest_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_AudioPreview.ogg/24213d00b246eeafa4d5f09e34900e28.ogg",
+    "jmcs://jd-contents/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_HIGH.vp8.webm/c12139d41d3106e32f83bd817e30e6f7.webm",
+    "jmcs://jd-contents/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_HIGH.vp9.webm/343db2e09e32e57b1bf0495986821da3.webm",
+    "jmcs://jd-contents/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_LOW.vp8.webm/eeddec9e4f8d9ca3d84013b34db0a9f5.webm",
+    "jmcs://jd-contents/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_LOW.vp9.webm/dbfdd4fdbff48fbc031a2a45c49dcb18.webm",
+    "jmcs://jd-contents/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_MID.vp8.webm/c48a132db61ae8763c36f77407039045.webm",
+    "jmcs://jd-contents/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_MID.vp9.webm/d1c4f133b18b0450c338e31d95c224f2.webm",
+    "jmcs://jd-contents/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_ULTRA.vp8.webm/127562b540806a6c23254bec8fe4c4c8.webm",
+    "jmcs://jd-contents/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/IAmTheBest/IAmTheBest_MapPreviewNoSoundCrop_ULTRA.vp9.webm/a0446af60b934c2cbf52703c4967108e.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "orbis": {
+      "md5": "f3f1f41ebba9482ac6d9464a8f4056b1",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IAmTheBest/ps4/IAmTheBest_MAIN_SCENE_ORBIS.zip/f3f1f41ebba9482ac6d9464a8f4056b1.zip",
+      "version": 1
+    },
+    "nx": {
+      "md5": "3bdde270e9efcdba66967514ab7cc2dc",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/IAmTheBest/nx/IAmTheBest_MAIN_SCENE_NX.zip/3bdde270e9efcdba66967514ab7cc2dc.zip",
+      "version": 1
+    },
+    "pc": {
+      "md5": "aee988cc28f59d9c08abf674f448202b",
+      "storageType": 0,
+      "url": "https://jdbest-cdn.s3.amazonaws.com/public/map/IAmTheBest/pc/aee988cc28f59d9c08abf674f448202b.zip",
+      "version": 1
+    }
+  },
+  "mapType": "jdu"
+}

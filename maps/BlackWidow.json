@@ -1,0 +1,95 @@
+{
+  "artist": "Iggy Azalea Ft. Rita Ora",
+  "assets": {
+    "default": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/TheWayIAre/textures/TheWayIAre_banner_bkg.png",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/ps4/BlackWidow_Coach_1.tga.ckd/a4a30bf17ead224808dfc0736a93168e.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/ps4/BlackWidow_Cover_Generic.tga.ckd/e64c6ae9982cf3c1c4a157ff8987cf8b.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/ps4/BlackWidow_Cover_1024.tga.ckd/f348255b759bca34d07696192e0f4f1a.ckd",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/ps4/BlackWidow_Cover_Online.tga.ckd/21202da963f1c0ce5936848ebc7a4696.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/ps4/BlackWidow_Cover_AlbumBkg.tga.ckd/b70e53274686431c7b3d38c38a0d992a.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/ps4/BlackWidow_Cover_AlbumCoach.tga.ckd/2cad92f372b6c8ec7664a76e49e04de9.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/ps4/BlackWidow_map_bkg.tga.ckd/c63f38414012bd98f766158bf6bc6d6e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/BlackWidow_Coach_1_Phone.png/ed47eb1f1845859afe46ca0ac753d4e7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/BlackWidow_Cover_Phone.jpg/6350508cdf01bf894e827840cbd65f91.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BlackWidow/BlackWidow_VideoPreview.webm/320de5f27f38205a23d680dfbaf0c6c5.webm"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "https://jdbest-cdn.s3.amazonaws.com/public/map/TheWayIAre/textures/TheWayIAre_banner_bkg.png",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/nx/BlackWidow_Coach_1.tga.ckd/ab05cd7ed01b53646689134f9ca15d3c.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/nx/BlackWidow_Cover_Generic.tga.ckd/948e92fe58d3bc0dd325b27b4bb5df07.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/BlackWidow_Cover_1024.jpg/f8b9f255b96124d70a6901f089762097.jpg",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/nx/BlackWidow_Cover_Online.tga.ckd/920add7d5a9c1f59133d294c3618a4de.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/nx/BlackWidow_Cover_AlbumBkg.tga.ckd/77f7229d844c162de51512978eb8cee7.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/nx/BlackWidow_Cover_AlbumCoach.tga.ckd/bbc67facb97ed6bb9d13f69d1e2bc2a0.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/nx/BlackWidow_map_bkg.tga.ckd/09deb0309f4671b0f0807bd2f2c30601.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/BlackWidow_Coach_1_Phone.png/ed47eb1f1845859afe46ca0ac753d4e7.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BlackWidow/BlackWidow_Cover_Phone.jpg/6350508cdf01bf894e827840cbd65f91.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/BlackWidow/BlackWidow_VideoPreview.webm/320de5f27f38205a23d680dfbaf0c6c5.webm"
+    }
+  },
+  "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,17568,35088,52656,70224,87792,105360,122928,140496,158016,175584,193152,210720,228288,245856,263424,280944,298512,316080,333648,351216,368784,386352,403872,421440,439008,456576,474144,491712,509280,526800,544368,561936,579504,597072,614640,632208,649728,667296,684864,702432,720000,737568,755088,772656,790224,807792,825360,842928,860496,878016,895584,913152,930720,948288,965856,983424,1000944,1018512,1036080,1053649],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":577,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":60,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/blackwidow/blackwidow_AudioPreview.ogg\"}",
+  "coachCount": 1,
+  "credits": "Just Dance Best is an online mod made by Just Dance Alliance. We are not affiliated with Ubisoft nor own any rights over their copyrighted content and trademark. Written by Mikkel Eriksen, Katy Perry, Iggy Azalea, Tor Hermansen, Sarah Hudson and Benjamin Levin. Published by Prescription Songs LLC and Lotzah Matzah Music. Administered by Kobalt Music Publishing America, Inc. / EMI Music Publishing Ltd. (PRS) c/o EMI April Music (Canada) Ltd. (SOCAN). / WB Music Corp. (ASCAP) obo When I'm Rich You'll Be My B****. / Jonathan Leonard o/b/o Amethyst Kelly Publishing Designee/Grand Hustle Anthems (ASCAP) / Metamorphosis Music.  All rights reserved.  Used with permission. Courtesy of Virgin EMI Records/Def Jam Recordings under license from Universal Music Enterprises.",
+  "difficulty": 2,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "BF0096FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 213.65699999999998,
+  "mapName": "BlackWidow",
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT23.52S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT23.52S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"466878\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-999\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1243629\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1001\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"1727985\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1001\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"1871046\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1001\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+  "mode": 6,
+  "originalJDVersion": 2015,
+  "packages": {
+    "mapContent": "BlackWidow_mapContent"
+  },
+  "parentMapName": "BlackWidow",
+  "skuIds": [],
+  "songColors": {
+    "songColor_1A": "6e2420ff",
+    "songColor_1B": "000000ff",
+    "songColor_2A": "000000ff",
+    "songColor_2B": "dbcdc1ff"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": [
+    "Main"
+  ],
+  "title": "Black Widow",
+  "urls": {
+    "jmcs://jd-contents/BlackWidow/BlackWidow_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BlackWidow/BlackWidow_AudioPreview.ogg/9e841d962c47c38227c8179fc882b967.ogg",
+    "jmcs://jd-contents/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_HIGH.vp8.webm/c4591076c33b51f7e728d66b445aa835.webm",
+    "jmcs://jd-contents/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_HIGH.vp9.webm/0637d11820a1b898b4f55fca32cd4700.webm",
+    "jmcs://jd-contents/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_LOW.vp8.webm/1c4398e8f6fd787e7165be4d8e43269f.webm",
+    "jmcs://jd-contents/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_LOW.vp9.webm/7cedceb8aa9ce118dc24153b40cbedd7.webm",
+    "jmcs://jd-contents/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_MID.vp8.webm/1f54f093a51ab74307812cb55e54b785.webm",
+    "jmcs://jd-contents/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_MID.vp9.webm/4c057c060cbf9644f77fe339feb6e922.webm",
+    "jmcs://jd-contents/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f62fba659996b41ca6ecc8b7bb2e9d05.webm",
+    "jmcs://jd-contents/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/BlackWidow/BlackWidow_MapPreviewNoSoundCrop_ULTRA.vp9.webm/f5ecc82b45eed54447f9fc71b9e58be5.webm"
+  },
+  "serverChangelist": 455481,
+  "skupackages": {
+    "nx": {
+      "md5": "dd151aab78c6de269a5a8d3456eea91e",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BlackWidow/nx/BlackWidow_MAIN_SCENE_NX.zip/dd151aab78c6de269a5a8d3456eea91e.zip",
+      "version": 26
+    },
+    "orbis": {
+      "md5": "9f743cf3e88fcf405c28a3e71ec657ef",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BlackWidow/ps4/BlackWidow_MAIN_SCENE_ORBIS.zip/9f743cf3e88fcf405c28a3e71ec657ef.zip",
+      "version": 27
+    },
+    "pc": {
+      "md5": "21068f69a9c645d4c40c5c842793fac7",
+      "storageType": 0,
+      "url": "https://jd-s3.akamaized.net/public/map/BlackWidow/pc/BlackWidow_MAIN_SCENE_PC.zip/21068f69a9c645d4c40c5c842793fac7.zip",
+      "version": 8
+    }
+  },
+  "mapType": "jdu"
+}
