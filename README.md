@@ -1,5 +1,5 @@
 # justdancebest (JDCS)
-Just Dance Custom Server API, used for Just Dance Best.
+My version of Just Dance Custom Server API, used for Just Dance Best, I worked on up to June 2021.
 
 **JDCS (Just Dance Custom Service)** is a mock-up of **Just Dance Unlimited (JMCS)** servers by Ubisoft.
 
@@ -34,4 +34,4 @@ and more!
 There is no license for this project currently.
 
 #### Discord server
-[Join our Discord server!](https://discord.gg/FkSpSmXrwT)
+[Join our Discord server!](https://discord.gg/devd)
